@@ -163,3 +163,126 @@ The imaginary plane that cuts the earth through the middle, dividing it into two
 - **Seasonality** is the consequence of this changing relationship.
 - Seasonality gets manifested by the **changing length of a day**.
 - Length of a day depends on how the **great circle of illumination** cuts our earth into 2 halves.
+
+---
+
+## 8. Circle of Illumination & Seasonality (Continued)
+
+- **Circle of Illumination:** Being a great circle, it always cuts the earth into two halves, but it does so **differently at different times of the year**.
+- **The Equator:** It is the only parallel which gets cut evenly throughout the year, and therefore has **12 hours of day and 12 hours of night throughout the year**.
+- **Other Parallels:** All other parallels get cut unevenly throughout the year except on two days called **equinox**.
+- **Seasonal Variation:** Thus, seasonal variation in the length of a day is **0 at the equator** and it **increases as we go higher in latitude**.
+
+### Rules
+
+- **Rule A:** Higher the latitude, **longer** is the summer day.
+- **Rule B:** Higher the latitude, **shorter** the winter day.
+
+---
+
+## 9. General & Motivational Quotes (Part 2)
+
+> ⚠️ *Same as Section 1 — these are useful for Essay / Ethics papers. Consider moving to a dedicated folder once created.*
+
+- "Try to be a rainbow in someone else's cloud."
+- "Those who stand for nothing, fall for anything."
+- "Failure is an event not a person."
+- "We don't have to be smarter than the rest, we have to be more disciplined than the rest."
+- "We are humans until race disconnected us, religion separated us, politics divided us & wealth classified us."
+
+---
+
+## 10. Conversion of Degrees to Linear Distance
+
+### (a) Latitude
+
+- **1° of latitude ≈ 111 km.**
+- 90° of latitude = ¼ × Earth's Circumference.
+- Circumference = 2πR (where R = Radius of Earth ≈ 6,400 km).
+
+> **Note:** A degree of latitude is slightly **larger** in linear distance at the poles than at the equator because of the slight flattening of the Earth at the poles.
+
+### (b) Longitude
+
+- **1° of longitude varies based on location.**
+
+| Location | 1° of Longitude |
+|----------|----------------|
+| North Pole / South Pole | **0 km** |
+| Equator (0°) | **≈ 111 km** (360° = 2πR) |
+| 60° N or S | **≈ 56 km** (about half of equator's distance) |
+
+---
+
+## 11. Latitudinal Regions / Zones / Belts
+
+### Detailed Breakdown
+
+| Region | Latitude Range |
+|--------|---------------|
+| Equatorial | 0° – 10° N or S |
+| Tropical | 23.5° N – 23.5° S |
+| Sub-Tropical | 23.5° – 40° N/S |
+| Temperate | 23.5° – 66.5° N/S |
+| Polar | Area around the poles (no exact measure) |
+| Sub-Polar | Higher latitudes just outside the Arctic & Antarctic circles |
+
+### Broader Perspective (3 Parts)
+
+| Zone | Latitude Type |
+|------|--------------|
+| **(a) Tropical** | Lower latitudes |
+| **(b) Temperate** | Middle latitudes |
+| **(c) Polar** | Higher latitudes |
+
+---
+
+## 12. Weather vs. Climate
+
+- **Weather:** Refers to the atmospheric conditions involving heat, moisture, and their motion for a **given specific area** and a **short duration** of time.
+- **Climate:** Refers to the aggregating atmospheric conditions involving heat, moisture, and motion for a **larger area** and for a **long period** of time (usually **≥ 30 years**).
+
+### Key Quotes / Insights
+
+- **Mark Twain:** *"Climate is what you expect, weather is what you get."*
+- *"It is the climate that attracts people & the weather makes them leave."*
+
+---
+
+## 13. Greek Climate Regionalization (3 Zones)
+
+| Zone | Conditions | Location |
+|------|-----------|----------|
+| **(a) Torrid Zone** | Hot | Tropical / Lower latitudes (0° to 23.5° N/S) |
+| **(b) Frigid Zone** | Cold | Polar / Higher latitudes (66.5° to Poles) |
+| **(c) Temperate Zone** | Moderate | Middle latitudes (23.5° to 66.5° N/S) |
+
+### The "Temperate" Misnomer & Fronts
+
+- The use of the term **"Temperate" is a misnomer** for the middle latitudes because these areas actually experience the **highest variability in weather conditions** in the world.
+- **Front:** A zone of transition (generally formed in the middle latitudes) between contrasting air masses — the cold, dry **Polar air masses** and the warm, moist **Tropical air masses**.
+- Some of these fronts result in the formation of **Temperate cyclones** (under favourable conditions). These cyclones are the major reason for the high variability of weather experienced in the middle latitudes.
+
+---
+
+## 14. Global Heat Imbalance
+
+> **Miscellaneous Note:** Mercalli scale = Intensity of Earthquake.
+
+### The Imbalance Zones
+
+- Between approximately **35° N and 35° S** → **Surplus of Energy** (insolation exceeds outgoing radiation).
+- Outside of 35° N and 35° S (towards the poles) → **Deficit of Energy** (outgoing radiation exceeds insolation).
+
+### Consequences & Moderation
+
+1. Theoretically, such an imbalance could result in lower latitudes becoming continually **warmer** and higher latitudes becoming continually **colder**.
+2. In reality, however, energy is **transferred from areas of surplus to areas of deficit**.
+3. Mother Nature has provided **mechanisms of circulation**, both in the atmosphere and the world ocean, which attempt to moderate the global heat imbalance.
+
+### Heat Transfer Mechanisms
+
+| Mechanism | Share |
+|-----------|-------|
+| **Atmospheric circulation** (cyclones, monsoons, etc.) | **~80%** |
+| **Oceanic circulation** (ocean currents) | **~20%** |
