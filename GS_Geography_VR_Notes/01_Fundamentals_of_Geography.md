@@ -7,7 +7,7 @@
 
 ## 1. General & Motivational Quotes
 
-> ⚠️ *These quotes are useful for Essay / Ethics papers rather than Geography. Consider moving them to a dedicated `GS_Ethics_VR_Notes` or `Essay_Notes` folder once created.*
+> *These quotes are useful for Essay / Ethics papers rather than Geography.*
 
 - "Nature Nurtures us, we must nurture nature."
 - "Nature to be commanded, must be obeyed."
