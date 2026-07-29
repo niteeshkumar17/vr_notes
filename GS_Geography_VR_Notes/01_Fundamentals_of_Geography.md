@@ -286,3 +286,81 @@ The imaginary plane that cuts the earth through the middle, dividing it into two
 |-----------|-------|
 | **Atmospheric circulation** (cyclones, monsoons, etc.) | **~80%** |
 | **Oceanic circulation** (ocean currents) | **~20%** |
+
+---
+
+> **Date added:** 2026-07-29
+
+## 15. General & Motivational Quotes (Part 3)
+
+- "Fears kills more dreams than failure ever will."
+- "You always have to choose your commitment vs your fear."
+- "In every walk with nature receives far more than he seeks."
+- "The mind is not a vessel to be filled in, but a fire to be kindled."
+- "If you want to live a happy life, tie it to a goal, not to the people or object."
+
+---
+
+## 16. Local Time Concepts
+
+- **Local Time Definition:** It is a time at a place fixed in reference to the Sun's position in the sky.
+- It is **12 noon local time** when the sun is highest in the sky, which corresponds to the **shortest shadow** movement.
+- The term **"meridian"** was used by Romans to indicate 12 noon local time.
+- All places on a given meridian have the **same local time**.
+
+### Calculating Time Differences
+
+- Earth spins once in **24 hours**, therefore **360° of longitude = 24 hours**.
+- This implies a time difference of **4 minutes for every 1° difference in longitude**.
+- Since Earth rotates from **west to east**:
+  - **Add** time for places to the **east** of a given point.
+  - **Subtract** time for places to the **west**.
+
+### Practice Problems
+
+| Problem | Answer |
+|---------|--------|
+| If it is **12 noon Monday** at Greenwich → Local time at **Tokyo (140° E)**? | **9:20 PM Monday** |
+| If it is **10 AM Sunday** at Delhi (77° E) → Local time at **Sydney (150° E)**? | **2:52 PM Sunday** |
+| If it is **10 AM Sunday** at Delhi (77° E) → Local time at **New York (74° W)**? | **11:56 PM Saturday** |
+
+---
+
+## 17. Standard Time & The Standard Meridian
+
+### Historical Context
+
+- Before the middle of the **19th century**, hundreds of different local time systems were in use throughout the world.
+- **Sir Sandford Fleming** led the fight in Canada for an international agreement upon a prime meridian.
+- His struggle led the **US and Canada to adopt a standard time in 1883**.
+- In **1884**, the **International Meridian Conference (IMC)** was held in **Washington DC**.
+
+### Definitions
+
+- **Standard Time (ST):** The common uniform time followed in a country or a part of a country (e.g., **IST**).
+- **Standard Meridian:** The meridian on which the common uniform time is based (e.g., **82½° E** for IST).
+
+### Criteria for Selecting a Standard Meridian
+
+1. **Central location** within the country.
+2. **Proximity** to some important place.
+3. The value is chosen so that it is **exactly divisible by 7½°**, allowing the standard time to differ from GMT in **multiples of ½ hours**.
+4. **National interest** — e.g., although China officially extends across multiple zones, the entire nation uses only one at **120° E**.
+
+---
+
+## 18. Time Zones & The International Meridian Conference (1884)
+
+- **Time Zone:** The longitudinal zone with common uniform time (e.g., India makes **1 time zone**).
+- Large countries with vast longitudinal extent generally opt for **multiple time zones** (e.g., Russia has approximately **11** in extent).
+
+### IMC (1884) Guidelines
+
+1. Division of the world into **24 time zones**, each **15°** in longitudinal extent.
+2. The **local solar time of the Greenwich meridian** was chosen as the standard for the entire system (**GMT**).
+3. The Greenwich meridian became the center of a time zone that extends **7½° of longitude** both to the west and to the east.
+4. Similarly, meridians that are multiples of **15°** (like 15°, 30°, etc.), both east and west of Greenwich, were set as the **standard meridians** for the remaining **23 time zones**.
+5. **12 zones to the east** of the Greenwich meridian are **ahead** of GMT by 1 hour per zone; the **12 zones to the west** are **behind** GMT.
+6. **Boundaries:**
+   - In **international waters** — time zones are shown exactly 7½° to the east and 7½° to the west of the standard meridians.
+   - Over **land areas** — actual eastern and western boundaries vary to coincide with appropriate **political and socio-economic constraints**.
