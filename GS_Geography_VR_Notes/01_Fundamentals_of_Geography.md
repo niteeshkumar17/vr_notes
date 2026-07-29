@@ -182,8 +182,6 @@ The imaginary plane that cuts the earth through the middle, dividing it into two
 
 ## 9. General & Motivational Quotes (Part 2)
 
-> ⚠️ *Same as Section 1 — these are useful for Essay / Ethics papers. Consider moving to a dedicated folder once created.*
-
 - "Try to be a rainbow in someone else's cloud."
 - "Those who stand for nothing, fall for anything."
 - "Failure is an event not a person."
