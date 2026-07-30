@@ -14,13 +14,26 @@
 - **Key Principle:** The SC held that an **administrative order (Office Memorandum)** cannot alter or override delegated legislation like the **EIA Notification 2006**.
 - **No "Parallel Route" for Amnesty:** An *ex-post facto* clearance cannot be used as a permanent, routine administrative route. Amnesty measures must be rare exceptions, bounded by strict rules, and enacted through proper statutory notifications, not routine administrative orders.
 
-### Legal & Constitutional Framework
+### Legal & Constitutional Framework: Article 142
 
-| Provision / Mechanism | Details & Significance |
-|-----------------------|------------------------|
-| **EIA Notification 2006** | Issued under the **Environment (Protection) Act, 1986**. Mandates prior environmental clearance for highways, airports, real estate, mining, and industrial projects before construction begins. |
-| **Article 142 (Plenary Powers)** | The Supreme Court noted that *ex-post facto* clearances can only be granted in extraordinary circumstances under its inherent plenary powers (Article 142) to do "complete justice," not by routine executive decrees. |
-| **Delegated Legislation Principle** | Administrative Office Memoranda cannot supersede or bypass statutory rules framed under an Act of Parliament. |
+- **Article 142** empowers the Supreme Court with extraordinary plenary jurisdiction to do "complete justice."
+
+#### Detailed Breakdown of Article 142
+
+| Clause | Provision | Scope & Key Principle |
+|--------|-----------|-----------------------|
+| **142(1)** | **Plenary Power for Complete Justice** | The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing **complete justice** in any cause or matter pending before it. Such decree/order is enforceable throughout the territory of India. |
+| **142(2)** | **Investigative & Contempt Powers** | Grants SC full power to make orders for securing the attendance of any person, discovery or production of any documents, or the investigation/punishment of any contempt of itself. |
+
+#### Landmark SC Precedents on Article 142
+
+| Case Law | Key Ruling on Article 142 |
+|----------|--------------------------|
+| *Prem Chand Garg vs Excise Commissioner (1962)* | SC held that an order under Article 142 cannot directly violate express Fundamental Rights. |
+| *Union Carbide Corporation vs Union of India (1991)* | SC ruled that plenary powers under Article 142 are not at all limited by statutory prohibitions in general laws. |
+| *Supreme Court Bar Association vs Union of India (1998)* | Clarified that Article 142 is **supplementary**, not supplanting existing statutory law; it cannot bypass express statutory prohibitions of Parliament. |
+
+---
 
 ### Mains Utility / Way Forward (Environmental Governance)
 1. **Strict Enforcement of Prior Clearance:** Reinforce the *Precautionary Principle* (an established doctrine of Indian environmental jurisprudence) by ensuring no industrial activity commences prior to a comprehensive EIA.
@@ -62,14 +75,35 @@
 - Rajya Sabha passed the **Prevention of Insults to National Honour (Amendment) Bill, 2026** (piloted by Minister of State for Home Nityanand Rai).
 - The Bill amends the **Prevention of Insults to National Honour Act, 1971** to extend penal provisions (imprisonment and fine) to acts of disrespect towards **Vande Mataram** (National Song), alongside existing protections for the National Flag, Constitution, and National Anthem.
 
-### Historical & Constitutional Background
+### Historical Background of Vande Mataram
 
-| Aspect | Historical / Constitutional Details |
-|--------|------------------------------------|
-| **Origin of Vande Mataram** | Composed in Sanskritized Bengali by **Bankim Chandra Chatterjee** in 1875; later included in his 1882 novel *Anandamath*. |
+| Aspect | Historical Details |
+|--------|------------------- |
+| **Origin** | Composed in Sanskritized Bengali by **Bankim Chandra Chatterjee** in 1875; later included in his 1882 novel *Anandamath*. |
 | **1937 INC Resolution** | The Congress Working Committee (CWC) adopted the first two stanzas of *Vande Mataram* as India's **National Song** in 1937. |
 | **Constitutional Status** | On 24 January 1950, Constituent Assembly President Dr. Rajendra Prasad declared that *Vande Mataram* should have **equal status** with the National Anthem (*Jana Gana Mana*). |
-| **Article 51A(a) (Fundamental Duty)** | Mandates every citizen to abide by the Constitution and respect its ideals and institutions, the **National Flag and the National Anthem**. |
+
+### Constitutional Framework: Part IV-A (Article 51A — Fundamental Duties)
+
+- **Inserted by:** **42nd Constitutional Amendment Act, 1976** based on the recommendations of the **Swaran Singh Committee**.
+- **Expanded by:** **86th Constitutional Amendment Act, 2002** (added 11th duty under 51A(k)).
+- **Legal Nature:** Non-justiciable in court by themselves, but Parliament can enact statutory penal laws (e.g. *Prevention of Insults to National Honour Act, 1971*) to enforce compliance.
+
+#### Comprehensive Clause-by-Clause Breakdown of Article 51A
+
+| Clause | Duty Provision | Key Significance |
+|--------|----------------|------------------|
+| **51A(a)** | Abide by the Constitution; respect **National Flag & National Anthem**. | Directly links to the *Prevention of Insults to National Honour Act, 1971*. |
+| **51A(b)** | Cherish and follow noble ideals of the National Freedom Struggle. | Inspires reverence for historical symbols like *Vande Mataram*. |
+| **51A(c)** | Uphold and protect the **Sovereignty, Unity, and Integrity of India**. | Core duty for national security and social harmony. |
+| **51A(d)** | Defend the country and render national service when called upon. | Basis for national defense duty. |
+| **51A(e)** | Promote harmony & spirit of common brotherhood; renounce practices derogatory to women. | Social reform and gender dignity. |
+| **51A(f)** | Value and preserve the rich heritage of India's composite culture. | Cultural conservation. |
+| **51A(g)** | Protect & improve natural environment (**forests, lakes, rivers, wildlife**); compassion for living creatures. | Cited by SC in landmark environmental law cases. |
+| **51A(h)** | Develop **scientific temper**, humanism, and spirit of inquiry and reform. | Constitutional backing for rationalism. |
+| **51A(i)** | Safeguard public property and **abjure violence**. | Basis for anti-vandalism laws during protests. |
+| **51A(j)** | Strive towards excellence in all spheres of individual and collective activity. | National progress. |
+| **51A(k)** | Provide educational opportunities to children between **6 and 14 years** of age. | Added by 86th Amendment Act, 2002. |
 
 ---
 
@@ -142,6 +176,18 @@
 1. **Vesting of Assets (Section 16A):** If an NGO’s FCRA registration is cancelled or expires, all assets created (even if only *partly* funded by foreign contributions) permanently vest in a government-designated authority.
 2. **Vague Cancellation Grounds (Section 14(1)(c)):** Empowers the Central Government to cancel an NGO's FCRA certificate on the ground of "public interest" — a broad, undefined term vulnerable to arbitrary executive misuse.
 3. **Selective Exemption Power (Section 16L):** Grants the government unfettered discretion to exempt any organization from the Bill's provisions, raising concerns under **Article 14 (Right to Equality / Prohibition of Arbitrary Classification)**.
+
+### Constitutional Framework: Fundamental Rights & Civil Society
+
+- **Article 19(1)(c):** Guarantees to all citizens the right to form associations, unions, or co-operative societies.
+- **Article 14:** Prohibits arbitrary State action and discriminatory exemptions without a rational nexus.
+
+#### Detailed Breakdown of Article 19(1)(c) & Article 14 in NGO Context
+
+| Constitutional Provision | Scope & Key Detail | Grounds for Restriction / Exceptions |
+|--------------------------|---------------------|---------------------------------------|
+| **Article 19(1)(c)** | Guarantees citizens the right to form associations, unions, or non-governmental organizations (NGOs). Includes the right to function, perform lawful activities, and seek funding. | Restricted under **Article 19(4)** on 3 specific grounds: **(i) Sovereignty & Integrity of India, (ii) Public Order, or (iii) Morality**. |
+| **Article 14 (Doctrine against Arbitrariness)** | Guarantees equality before the law and equal protection of the laws. Prohibits State action that is arbitrary, unguided, or discriminatory (*E.P. Royappa vs State of Tamil Nadu*). | Any executive exemption power (like Section 16L) must satisfy **Intelligible Differentia** & **Rational Nexus** tests. |
 
 ### Mains Utility / Way Forward (NGO Regulation vs. Civil Society Autonomy)
 1. **Define "Public Interest" Statutorily:** Replace vague cancellation grounds with precise, objective statutory definitions to prevent harassment of genuine development/humanitarian NGOs.
