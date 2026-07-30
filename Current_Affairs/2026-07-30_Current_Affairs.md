@@ -116,6 +116,56 @@
 - MP state government raised the green gram procurement limit under the Price Support Scheme (PSS) from **25% to 60%** of total crop produce following farmer protests.
 - **UPSC Relevance:** Highlighted under **GS-3 (Government Procurement & MSP Policy)** — demonstrates state interventions to prevent distress sales when market prices drop below MSP.
 
-### B) CWRC Asks Tamil Nadu & Karnataka to Devise Distress-Sharing Formula
-- **Cauvery Water Regulation Committee (CWRC)** chairperson Vineet Gupta instructed Karnataka and Tamil Nadu to jointly present a scientific **distress-sharing formula** for deficit rainfall years.
-- **UPSC Relevance:** Highlighted under **GS-2 (Inter-state Federalism)** — emphasizes that water sharing during drought/low monsoon years requires a rule-based formula rather than ad-hoc annual litigation.
+### B) CWRC Orders 3,500 Cusecs Release; Karnataka to Appeal to CWMA
+- **Cauvery Water Regulation Committee (CWRC)** chairperson Vineet Gupta instructed Karnataka to release **3,500 cusecs** daily to Tamil Nadu for the next 15 days at the **Biligundlu gauge and discharge station**.
+- **Institutional Hierarchy:** Karnataka announced plans to appeal against the CWRC order to the **Cauvery Water Management Authority (CWMA)**.
+- **Biligundlu Station:** Located on the Karnataka–Tamil Nadu border, Biligundlu serves as the official inter-state measuring point for Cauvery water discharge.
+- **UPSC Relevance:** Highlighted under **GS-2 (Inter-state Federalism)** — demonstrates the 2-tier institutional structure of CWRC (technical monitoring body) and CWMA (apex decision-making authority).
+
+---
+
+## 7. FCRA Bill 2026: Threat to Civil Society & NGO Governance (Editorial Analysis)
+
+> **Tags:** `[GS-2: Governance, Civil Society & Fundamental Rights (Art 14 & 19)]` · `[GS-3: Internal Security — Foreign Funding Controls]`
+
+### Historical Evolution of FCRA Regulation
+
+| Year / Legislation | Context & Key Regulatory Provision |
+|--------------------|------------------------------------|
+| **FCRA 1976** | Enacted during Indira Gandhi's Emergency regime to regulate foreign hospitality and contributions to prevent foreign interference in Indian politics. |
+| **FCRA 2010** | Replaced the 1976 Act. Prohibited foreign contributions to election candidates, media personnel, judges, public servants, and political parties. Mandated registration for NGOs in social/cultural/educational work. |
+| **FCRA Amendment 2020** | Barred sub-granting/transfer of foreign funds to other NGOs; capped administrative expenses at 20%; mandated SBI New Delhi main branch account. |
+| **FCRA Amendment Bill 2026** | Expands State control over NGO assets and broadens grounds for cancellation of registration. |
+
+### Key Controversial Clauses in FCRA Bill 2026 (Author P.D.T. Achary's Analysis)
+
+1. **Vesting of Assets (Section 16A):** If an NGO’s FCRA registration is cancelled or expires, all assets created (even if only *partly* funded by foreign contributions) permanently vest in a government-designated authority.
+2. **Vague Cancellation Grounds (Section 14(1)(c)):** Empowers the Central Government to cancel an NGO's FCRA certificate on the ground of "public interest" — a broad, undefined term vulnerable to arbitrary executive misuse.
+3. **Selective Exemption Power (Section 16L):** Grants the government unfettered discretion to exempt any organization from the Bill's provisions, raising concerns under **Article 14 (Right to Equality / Prohibition of Arbitrary Classification)**.
+
+### Mains Utility / Way Forward (NGO Regulation vs. Civil Society Autonomy)
+1. **Define "Public Interest" Statutorily:** Replace vague cancellation grounds with precise, objective statutory definitions to prevent harassment of genuine development/humanitarian NGOs.
+2. **Proportionality in Asset Seizure:** Ensure asset vesting applies strictly to the unutilized foreign contribution portion rather than seizing entire NGO properties built through domestic philanthropy.
+3. **Independent Oversight:** Establish an independent regulatory board for non-profits rather than leaving full cancellation powers under the Ministry of Home Affairs (MHA).
+
+---
+
+## 8. Integrated Theatre Commands: Defense Reforms & Tri-Services Jointness (Editorial Analysis)
+
+> **Tags:** `[GS-3: Internal Security & Defense Reforms — Chief of Defence Staff (CDS)]`
+
+### Core Theme & Context
+- India’s transition toward **Integrated Theatre Commands (ITCs)** requires establishing a **Readiness Framework** before structural re-organization.
+- Global models (US, China, UK) have shifted to integrated theater structures to handle modern hybrid multi-domain warfare (land, air, sea, cyber, space).
+
+### Key Challenges in Theatre Command Reforms in India
+
+| Area | Challenge & Structural Issue |
+|------|-----------------------------|
+| **Service Asset Allocation** | Resolving air asset division between Air Force theater requirements and centralized strategic air defense. |
+| **Joint Logistics & Command** | Creating unified logistics, communication links, and common operational doctrine across Army, Navy, and Air Force. |
+| **Readiness First Model** | Ensuring combat readiness is not compromised during the transitional phase of restructuring command headquarters. |
+
+### Mains Utility / Way Forward (Tri-Service Integration)
+1. **Enact Armed Forces Command & Control Act:** Provide statutory backing for theater commanders to exercise administrative and disciplinary authority over personnel from all three services.
+2. **Joint Training & Officer Cadre:** Create a combined Tri-Services Staff College curriculum to foster joint operational culture from junior officer levels.
