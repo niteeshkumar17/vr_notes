@@ -4,10 +4,11 @@
 
 ---
 
-## Revisit Cadence Rules
-- **Until 30 October 2026 (First 3 Months):** Revisit every wrong question **15 days** after it was missed.
-- **After 30 October 2026:** Revisit wrong questions **30 days (1 month)** after they are missed.
-- A question is marked **Mastered** only after 2 consecutive correct answers during revisit tests.
+## Revisit Cadence Rules (Per-Question Lifecycle)
+- **First 3 Months (0 to 90 Days from Mistake Date):** Revisit the question on a **15-day cycle** (e.g. Day 15, 30, 45, 60, 75, 90).
+- **After 3 Months (> 90 Days from Mistake Date):** Once a question's initial mistake date is older than 90 days, its revisit interval expands to **30 days (1 month)**.
+- **Error Reset:** If a question is missed again during a revisit, its 15-day cycle resets from the new mistake date.
+- **Mastery:** A question is marked **Mastered** only after 2 consecutive correct answers during revisit tests.
 
 ---
 
