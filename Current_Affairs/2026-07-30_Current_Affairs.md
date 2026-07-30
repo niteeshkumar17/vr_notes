@@ -215,3 +215,52 @@
 ### Mains Utility / Way Forward (Tri-Service Integration)
 1. **Enact Armed Forces Command & Control Act:** Provide statutory backing for theater commanders to exercise administrative and disciplinary authority over personnel from all three services.
 2. **Joint Training & Officer Cadre:** Create a combined Tri-Services Staff College curriculum to foster joint operational culture from junior officer levels.
+
+---
+
+## 9. Delimitation & 850-Seat Lok Sabha: Federal & Legislative Impact (Op-Ed Analysis)
+
+> **Tags:** `[GS-2: Polity & Constitution — Parliament (Art 81 & 82), Delimitation & Federalism]`
+
+### Constitutional Framework of Delimitation
+
+| Provision / Amendment | Details & Significance |
+|-----------------------|------------------------|
+| **Article 81** | Defines composition of Lok Sabha. Currently capped at **543 elected members** based on the 1971 Census figures. |
+| **Article 82** | Mandates readjustment of seats and territorial constituencies after every decennial census by a **Delimitation Commission**. |
+| **42nd Amendment Act (1976)** | Froze the total number of Lok Sabha seats based on the 1971 Census until the year 2000 to encourage state population control. |
+| **84th Amendment Act (2002)** | Extended the freeze on total seat strength until the **first census published after 2026**. |
+
+### Key Issues & Challenges in Delimitation (Shashi Tharoor's Analysis)
+
+1. **North–South Federal Friction:** 
+   - Northern states (which experienced higher population growth) will gain a massive majority of seats (potentially pushing Lok Sabha strength to ~848-850).
+   - Southern states (which successfully implemented national family planning policies) will suffer a relative penalty in representation.
+2. **Decline of Parliamentary Deliberation:**
+   - In an 850-member Lok Sabha, floor time per MP collapses. Individual backbenchers get barely 1–2 minutes to speak during debates.
+   - Transforms Parliament from a **deliberative body** into a passive voting arena, increasing **Executive dominance** over legislative scrutiny.
+3. **Fallacy of the MP Role:**
+   - Single MPs trying to represent 2–3 million citizens cannot address local daily civic needs effectively.
+
+### Mains Utility / Way Forward (Rebalancing Delimitation & Federalism)
+1. **Strengthen Local Governance (73rd & 74th Amendments):** Devolve genuine power and financial resources to Panchayats and Municipalities so citizens don't rely on MPs for local civic amenities.
+2. **Expand Rajya Sabha / Bicameral Balance:** Give equal or weighted representation to States in the Rajya Sabha (on the model of the US Senate, where every US state gets 2 Senators regardless of population) to safeguard federalism.
+3. **Empower Committee System:** Shift detailed legislative scrutiny to Parliamentary Standing Committees rather than relying on brief floor debates in an overcrowded chamber.
+
+---
+
+## 10. Golan Heights & Syria Border Conflict: Regional Geography
+
+> **Tags:** `[GS-1: World Geography — Mapping & Conflict Zones]` · `[GS-2: International Relations — West Asia Dynamics]`
+
+### Core News & Geographical Context
+- Incursions by fringe settler groups ("Pioneers of Bashan") across the border into southern Syria from the **Israeli-controlled Golan Heights** (near Majdal Shams).
+
+### Map & Strategic Profile: Golan Heights
+
+| Aspect | Geographical & Historical Details |
+|--------|----------------------------------|
+| **Location** | Rocky plateau in South-Western **Syria**, bordering Israel, Jordan, and Lebanon. Overlooks the Sea of Galilee and the Jordan River valley. |
+| **Historical Background** | Captured by Israel from Syria during the **1967 Six-Day War**. Israel unilaterally annexed the territory in 1981 (unrecognized under UN Security Council Resolution 497). |
+| **Key Settlement** | **Majdal Shams** — largest Druze town in the Israeli-controlled Golan Heights. |
+| **Strategic Significance** | High altitude provides a dominant military vantage point over Damascus (60 km away) and key water sources feeding the Jordan River basin. |
