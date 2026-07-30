@@ -491,3 +491,20 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 - Today, **UTC is the reference for official time** in all countries.
 - Although the Prime Meridian still runs through Greenwich, UTC is based on **average time calculations collected in Paris** and broadcast worldwide.
 
+---
+
+## 24. Zulu Time (Z Time)
+
+### Definition & Origin
+
+- **Zulu Time** is the military, aviation, maritime, and scientific designation for **Coordinated Universal Time (UTC)** / Greenwich Mean Time (GMT).
+- **Phonetic Origin:** The letter **'Z'** stands for the **Zero Meridian** (Greenwich Meridian, 0° longitude), which anchors the zero time zone. In the **NATO Phonetic Alphabet**, the letter 'Z' is pronounced **"Zulu"**.
+
+### Key Applications & Importance
+
+| Domain | Usage & Significance |
+|--------|----------------------|
+| **Military Operations** | Synchronizes multi-national joint military operations to a single, unambiguous global reference clock. |
+| **Aviation (ICAO & ATC)** | All international flight plans, Air Traffic Control communications, and aviation weather reports (METAR/TAF) use Zulu time (e.g., `1400Z` means 14:00 UTC). |
+| **Meteorology & Space (ISRO / NASA)** | Satellite observations, weather prediction models, and space launch countdowns use Zulu time to avoid regional time-zone confusion. |
+
