@@ -447,7 +447,7 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 | Year / Event | Detail |
 |-------------|--------|
 | **1784** | The practice was first suggested (half-seriously) in an essay by the American statesman & scientist **Benjamin Franklin**. |
-| **World War I** | Several countries — including **Australia, Britain, Germany, and the USA** — adopted DST as a means of **conserving energy resources**. |
+| **Until World War I** | Several countries — including **Australia, Britain, Germany, and the USA** — adopted DST as a means of **conserving energy resources**. |
 
 ### Benefits of DST
 
@@ -461,7 +461,7 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 ### Why DST is Irrelevant in the Tropics
 
 - In the **tropical belt**, the length of day and night changes **very little** seasonally, and there is **not much twilight**.
-- Consequently, DST would offer **little or no saving** for tropical populations.
+- Consequently, DST would offer **little or no saving** for tropical regions.
 
 ---
 
