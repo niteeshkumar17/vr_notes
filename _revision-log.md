@@ -17,13 +17,27 @@
 
 | Subject | Topic / Chapter | Last Tested | Attempts | Accuracy | Next Due | Notes |
 |---------|----------------|-------------|----------|----------|----------|-------|
-| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-07-29 | 1 | 86.7% | 2026-08-01 | Missed: Meridian as semi-great circle (Q1); Greek origin of geography vs Romans (Q14). |
+| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-07-30 | 2 | 80.0% | 2026-08-02 | Missed: Magellan logbook (one day short vs ahead); IDL midnight origin concept. |
+| Current_Affairs | Current Affairs (28 & 29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-02 | Missed: Western Ghats state count (includes Gujarat); Art 16(3) Parliamentary exclusivity. |
 
 ---
 
 ## Session History
 
 *(Most recent first)*
+
+### Session 2 — 2026-07-30
+- **Subject:** Current_Affairs & GS_Geography_VR_Notes
+- **Topic:** Current Affairs (28 & 29 July 2026) + Geography (IDL, DST, UTC, Time Calculations)
+- **Format:** 15 Prelims MCQs (with -1/3 negative marking)
+- **Score:** 9.67 / 15 (Accuracy: 73.3%)
+- **Strengths:** Excellent command over Article 14/16/162 nuances, JJ Act provisions, DST applications, and longitudinal time math ($140^\circ\text{ E}$ calculation).
+- **Weak Spots:**
+  - Omitting Gujarat when counting Western Ghats ESA states (6 states total).
+  - Recalling that **only Parliament** (not State Legislatures) can prescribe residence requirements under Art 16(3).
+  - Recalling that Magellan's crew logbook was **one day short** (behind), not ahead, after sailing westward.
+  - Baseline theoretical origin of new calendar day at midnight along the IDL.
+- **Next Revisit Due:** 2026-08-02 (Spaced-repetition: Day 3)
 
 ### Session 1 — 2026-07-29
 - **Subject:** GS_Geography_VR_Notes
