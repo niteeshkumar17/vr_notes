@@ -63,31 +63,6 @@
 
 ## 2. Disintegration of the Mughal Empire
 
-```mermaid
-graph TD
-    Mughal[Mughal Disintegration under Rangeela] --> Succ[8 Successor States]
-    Mughal --> Out[3 Outsider States]
-    Mughal --> Enemy[4 Enemy States]
-    
-    Succ --> S1[1. Punjab: Zakariya Khan]
-    Succ --> S2[2. Bangash: Md. Bangash]
-    Succ --> S3[3. Rohillas: Khan Bahadur]
-    Succ --> S4[4. Awadh: Saadat Khan]
-    Succ --> S5[5. Bengal: Murshid Quli Khan]
-    Succ --> S6[6. Rajputana: Ajit Singh & Sawai Jai Singh]
-    Succ --> S7[7. Hyderabad: Chin Qilich Khan]
-    Succ --> S8[8. Arcot: Sadatullah Khan]
-    
-    Out --> O1[1. Travancore: Martanda Varma]
-    Out --> O2[2. Ahoms: Chaolung Sukhapa]
-    Out --> O3[3. Mysore]
-    
-    Enemy --> E1[1. Jats: Suraj Mal]
-    Enemy --> E2[2. Sikhs]
-    Enemy --> E3[3. Iranians + Afghans]
-    Enemy --> E4[4. Marathas]
-```
-
 ### Regional Classification
 
 #### A. 8 Successor States
@@ -116,28 +91,6 @@ graph TD
 ---
 
 ## 3. The Sikh Empire & Regional Evolution
-
-```mermaid
-flowchart TD
-    P1["Phase I: Rise of Khalsa (1699-1708)"] -->|1699| GGS[Guru Gobind Singh creates Panj Pyare & Khalsa]
-    GGS -->|1704| Fort[Wazir Khan attacks Anandpur Fort / Kills Char Sahibzade]
-    GGS -->|1708| Assassination[Guru Gobind Singh assassinated by Wazir Khan]
-    
-    Assassination --> P2["Phase II: Sikh Anti-State Movement (1709-1716)"]
-    P2 --> BB[Banda Bahadur]
-    BB -->|Helped by Jats| MislDev[Formation of Misl - Warring Body]
-    BB -->|1716| Executed[Farrukh Siyar executes Banda Bahadur]
-    
-    Executed --> P3["Phase III: Rise of Confederacy (Post-1716)"]
-    P3 --> Misls[Disintegration into 12 Misls]
-    Misls --> Kapur[Kapur Singh organizes Dal Khalsa]
-    Kapur --> Sukerchakia[Sukerchakia Misl]
-    Sukerchakia --> RS["Ranjit Singh (1780-1839)\n• 1798: Captured Lahore from Zaman Shah (Afghan)"]
-    
-    RS -->|1809| TreatyLahore["Treaty of Lahore (1809)\n• River Sutlej = Border between Ranjit Singh & British"]
-    RS -->|1839 Death| Wars[1st & 2nd Anglo-Sikh Wars]
-    Wars -->|1849| Annexation[British Annexation & Duleep Singh sent to London]
-```
 
 ### Detailed Evolution
 
@@ -181,19 +134,6 @@ flowchart TD
 
 ## 4. Foreign Invasions (Iranian & Afghan)
 
-```mermaid
-flowchart LR
-    Nadir[Nadir Shah - Iran 1736] --> Envoy[Envoy sent to Mughals]
-    Envoy -->|Ill-treated by Zakariya Khan & Nusrat Khan| Attack[Invasion of Delhi 1739]
-    Attack --> Gains["Nadir's Loot:\n• Peacock Throne\n• Koh-i-Noor & Noor-i-Darian\n• 500 Elephants, 10k Horses\n• ₹2 Cr Cash + Lahore/Kabul"]
-    
-    Nadir --> Abdali[Ahmad Shah Abdali - Afghan]
-    Abdali -->|1748-1754 Invasions| Timur[Son Timur Shah made Gov of Lahore]
-    Timur -->|Revolt by Adina Baig + Sikhs + Marathas| Fled[Timur Fled Lahore]
-    
-    Fled --> Panipat["3rd Battle of Panipat (1761)"]
-```
-
 ### A. Nadir Shah (Iran - Safavids)
 *   **1736**: Nadir Shah seized power in Iran.
 *   **Incident**: Sent an envoy to Mughal Emperor Muhammad Shah Rangeela requesting:
@@ -236,15 +176,6 @@ flowchart LR
 ---
 
 ## 5. Regional Powers: Awadh
-
-```mermaid
-flowchart TD
-    SK["1. Saadat Khan / Burhan-ul-Mulk (1724)\n• PM of Mughals\n• 1739: Defeated at Battle of Karnal -> Suicide"]
-    SK --> SJ["2. Safdarjung (1739-1754)\n• PM of Mughal Empire"]
-    SJ --> SD["3. Shuja-ud-Daulah\n• Invited Abdali (3rd Panipat)\n• 1764: Defeated at Battle of Buxar"]
-    SD --> AD["4. Asaf-ud-Daulah\n• 1773: Treaty of Benaras (Kora & Allahabad returned)\n• 1775: Treaty of Faizabad (Capital moved to Lucknow)"]
-    AD --> SK2["5. Saadat Khan II\n• 1801: Forced to sign Subsidiary Alliance"]
-```
 
 ### Timeline of Nawabs of Awadh
 1.  **1724 — Saadat Khan (Burhan-ul-Mulk)**:
