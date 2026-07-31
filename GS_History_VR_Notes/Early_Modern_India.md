@@ -12,9 +12,9 @@
 #### A. War of Succession (1707)
 *   **1707**: Aurangzeb (AZB) died.
 *   **Aurangzeb's 3 Sons** (Ages at AZB's death in 1707):
-    *   **Azam** (age 71)
-    *   **Muazzam** (age 69) ➔ **Victorious in succession war** ➔ Crowned as **Bahadur Shah I**.
-    *   **Kam Baksh** (age 67)
+    *   **Muazzam** (age 63) ➔ **Victorious in succession war** ➔ Crowned as **Bahadur Shah I**.
+    *   **Azam** (age 54)
+    *   **Kam Baksh** (age 40)
 
 #### B. Bahadur Shah I (1707 - 1712)
 *   *Original Name*: Muazzam (Aurangzeb's 2nd son).
