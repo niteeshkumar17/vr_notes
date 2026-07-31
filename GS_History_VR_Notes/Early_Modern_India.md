@@ -7,26 +7,6 @@
 
 ## 1. Later Mughals & Succession Timeline (1707–1748)
 
-### Succession Flowchart
-```mermaid
-flowchart TD
-    AZB[Aurangzeb d. 1707] --> War1[War of Succession 1707]
-    War1 --> Azam[Azam Shah - age 71]
-    War1 --> Muazzam["Muazzam - age 69 (Victorious)"]
-    War1 --> KamBaksh[Kam Baksh - age 67]
-    
-    Muazzam --> BS["Bahadur Shah I (1707-1712)\n• Kingmaker: Zulfiqar Khan (Gov of Gujarat)\n• Released Shahuji Maratha\n• 1708: Guru Gobind Singh assassinated by Wazir Khan"]
-    
-    BS --> War2[War of Succession 1712]
-    War2 -->|Kingmaker: Zulfiqar Khan| JS["Jahandar Shah (1712-1713)"]
-    
-    JS -->|Killed with help of Sayyid Brothers| FS["Farrukh Siyar (1713-1719)\n• Kingmakers: Sayyid Brothers\n• Abolished Jaziya\n• 1716: Executed Banda Bahadur\n• 1717: Golden Farman to EIC (Dastak & Dastur)"]
-    
-    FS --> RD["Rafi-ud-Darajat (1719)\n(Died of TB)"]
-    RD --> RDL["Rafi-ud-Daulah / Shah Jahan II (1719)\n(Died of TB)"]
-    RDL --> MSR["Muhammad Shah 'Rangeela' (1719-1748)\n• Killed Sayyid Brothers\n• Incompetent administration\n➔ Beginning of Mughal Disintegration"]
-```
-
 ### Chronological Breakdown
 
 #### A. War of Succession (1707)
