@@ -17,6 +17,7 @@
 
 | Subject | Topic / Chapter | Last Tested | Attempts | Accuracy | Next Due | Notes |
 |---------|----------------|-------------|----------|----------|----------|-------|
+| GS_History_VR_Notes | Early Modern India (1707 Onwards) | 2026-07-31 | 1 | 71.4% | 2026-08-03 | Missed: 1801 Awadh Subsidiary Alliance (Saadat Khan II vs Asaf-ud-Daulah); 1717 Farman Dastak exclusivity (Company vs private trade). |
 | GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-07-30 | 2 | 80.0% | 2026-08-02 | Missed: Magellan logbook (one day short vs ahead); IDL midnight origin concept. |
 | Current_Affairs | Current Affairs (28 & 29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-02 | Missed: Western Ghats state count (includes Gujarat); Art 16(3) Parliamentary exclusivity. |
 
@@ -26,7 +27,17 @@
 
 *(Most recent first)*
 
-### Session 2 — 2026-07-30
+### Session 3 — 2026-07-31
+- **Subject:** GS_History_VR_Notes
+- **Topic:** Early Modern India (1707 Onwards — Later Mughals, Sikhs, Foreign Invasions, Awadh, Maratha Diplomacy)
+- **Format:** 7 Prelims MCQs (with -1/3 negative marking)
+- **Score:** 8.66 / 14 (Accuracy: 71.4% — 5/7 correct)
+- **Strengths:** High competence in Zulfiqar's power plays, Nadir Shah's invasion pretext, 3rd Battle of Panipat coalition dynamics, Banda Bahadur/Misl history, and Maratha Dual Governance negotiations.
+- **Weak Spots:**
+  - Distinguishing between Nawab Asaf-ud-Daulah (1773/1775 capital shift to Lucknow) and Saadat Khan II (1801 Subsidiary Alliance surrendering half of Awadh).
+  - Recalling that Farrukh Siyar's 1717 Golden Farman *Dastaks* applied strictly to official EIC trade and NOT to private trade of Company servants.
+- **Next Revisit Due:** 2026-08-03 (Spaced-repetition: Day 3)
+
 - **Subject:** Current_Affairs & GS_Geography_VR_Notes
 - **Topic:** Current Affairs (28 & 29 July 2026) + Geography (IDL, DST, UTC, Time Calculations)
 - **Format:** 15 Prelims MCQs (with -1/3 negative marking)

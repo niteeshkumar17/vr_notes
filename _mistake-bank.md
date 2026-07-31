@@ -71,3 +71,25 @@
 - **Core Concept / Correct Fact:** Ancient **Greeks** were the first geographers of the world (Eratosthenes coined *geography*).
 - **Next Revisit Due:** 2026-08-13 (15 days)
 - **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 007 — Nawabs of Awadh & Subsidiary Alliance (1801)
+- **Date Missed:** 2026-07-31
+- **Subject / Source:** `GS_History_VR_Notes` — [Early_Modern_India.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_History_VR_Notes/Early_Modern_India.md#L182-L198)
+- **Question Summary:** Attributed Lord Wellesley's 1801 Subsidiary Alliance and territorial surrender to Nawab Asaf-ud-Daulah (1773 Treaty of Benaras).
+- **Core Concept / Correct Fact:** The Subsidiary Alliance surrendering half of Awadh was signed by **Saadat Khan II in 1801**. Asaf-ud-Daulah (1775) shifted the capital from Faizabad to Lucknow and built the Bara Imambara.
+- **Next Revisit Due:** 2026-08-15 (15 days)
+- **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 008 — 1717 Farman & Exclusivity of Dastaks
+- **Date Missed:** 2026-07-31
+- **Subject / Source:** `GS_History_VR_Notes` — [Early_Modern_India.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_History_VR_Notes/Early_Modern_India.md#L42-L44)
+- **Question Summary:** Assumed Farrukh Siyar's 1717 Farman duty exemptions covered private trade of Company servants.
+- **Core Concept / Correct Fact:** The 1717 Farman duty-free *Dastak* privileges applied **exclusively to official EIC trade**, NOT to private trade of individual servants. Misuse of *Dastaks* for private trade was illegal and sparked conflict with Bengal Nawabs.
+- **Next Revisit Due:** 2026-08-15 (15 days)
+- **Status:** Pending (Attempt 1)
+
+
