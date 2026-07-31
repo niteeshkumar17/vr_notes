@@ -135,12 +135,16 @@
 ## 4. Foreign Invasions (Iranian & Afghan)
 
 ### A. Nadir Shah (Iran - Safavids)
-*   **1736**: Nadir Shah seized power in Iran.
-*   **Incident**: Sent an envoy to Mughal Emperor Muhammad Shah Rangeela requesting:
-    1. Revival of friendship.
-    2. Denying asylum to Iranian rebels in Kabul/Lahore.
-*   Mughal governors Zakariya Khan (Lahore) and Nusrat Khan (Kabul) ill-treated the envoy.
-*   **1739 — Battle of Karnal**: Nadir Shah defeated Mughals.
+*   **Background (1736)**: Nadir Shah was originally a military commander under the Safavid dynasty in Iran. He seized power by killing the Safavid monarch family and declaring himself ruler.
+*   **The Asylum Issue & Letter**:
+    *   The fleeing relatives and supporters of the overthrown Safavid monarch sought **asylum** in Mughal territories (Kabul & Lahore).
+    *   Nadir Shah sent an envoy to Mughal Emperor Muhammad Shah Rangeela requesting:
+        1. Revival of old diplomatic friendship.
+        2. **Refusal of asylum** to the Safavid monarch's relatives and supporters.
+*   **Mughal Response & Pretext for War**:
+    *   Mughal governors **Zakariya Khan** (Lahore) and **Nusrat Khan** (Kabul) ill-treated Nadir Shah's envoy and ignored the request.
+    *   Nadir Shah used this insult as a direct pretext to invade India.
+*   **1739 — Battle of Karnal**: Nadir Shah defeated the Mughal forces.
 *   **Nadir Shah's Loot**:
     1. Peacock Throne (*Takht-i-Taur*).
     2. Koh-i-Noor and Noor-i-Darian diamonds.
