@@ -6,51 +6,51 @@ A consolidated revision index of all Constitutional Articles currently reference
 
 ### Fundamental Rights (Part III)
 
-*   **Article 14 (Right to Equality)**
+*   **Article 14 (Right to Equality)** — *(Sources: [2026-07-28 Current Affairs](../Current_Affairs/2026-07-28_Current_Affairs.md), [2026-07-30 Current Affairs](../Current_Affairs/2026-07-30_Current_Affairs.md), [2026-07-31 Current Affairs](../Current_Affairs/2026-07-31_Current_Affairs.md))*
     *   **Core Concept**: Prohibits arbitrary State action and discriminatory exemptions without a rational nexus. Guarantees equality before the law and equal protection of the laws.
     *   **Precedent**: Any executive exemption power must satisfy the *Intelligible Differentia* & *Rational Nexus* tests (*E.P. Royappa vs State of Tamil Nadu*).
     *   **Context**: SC warned that ad-hoc designation of specific case categories without rational classification risks violating equal protection.
 
-*   **Article 16 (Equality of Opportunity in Public Employment)**
-    *   **Article 16(3)**: **Only Parliament** has the exclusive power to prescribe residence requirements for public employment. State Legislatures do NOT have this power.
+*   **Article 16 (Equality of Opportunity in Public Employment)** — *(Source: [2026-07-28 Current Affairs](../Current_Affairs/2026-07-28_Current_Affairs.md))*
+    *   **Article 16(3)**: **Only Parliament** has the exclusive power to prescribe residence requirements for public employment. State Legislatures do NOT have this power. *(Source: [Mistake Bank](../_mistake-bank.md))*
 
 *   **Article 19 (Right to Freedom)**
-    *   **Article 19(1)(c)**: Guarantees citizens the right to form associations, unions, or non-governmental organizations (NGOs), including the right to function and seek funding.
-    *   **Article 19(4)**: Restricts 19(1)(c) on 3 specific grounds: **(i) Sovereignty & Integrity of India, (ii) Public Order, or (iii) Morality**.
+    *   **Article 19(1)(c)**: Guarantees citizens the right to form associations, unions, or non-governmental organizations (NGOs), including the right to function and seek funding. *(Source: [2026-07-30 Current Affairs](../Current_Affairs/2026-07-30_Current_Affairs.md))*
+    *   **Article 19(4)**: Restricts 19(1)(c) on 3 specific grounds: **(i) Sovereignty & Integrity of India, (ii) Public Order, or (iii) Morality**. *(Source: [2026-07-30 Current Affairs](../Current_Affairs/2026-07-30_Current_Affairs.md))*
 
 *   **Article 21 (Right to Life and Personal Liberty)**
-    *   **Environment**: The Supreme Court has interpreted the Right to Life to encompass the right to a clean, pollution-free, and healthy environment.
-    *   **Due Process**: SC cautioned against imposing rigid, statutory trial deadlines (e.g., in complex paper leak cases) because rushed trials compromise the right to a fair trial and defense preparation.
+    *   **Environment**: The Supreme Court has interpreted the Right to Life to encompass the right to a clean, pollution-free, and healthy environment. *(Source: [2026-07-29 Current Affairs](../Current_Affairs/2026-07-29_Current_Affairs.md))*
+    *   **Due Process**: SC cautioned against imposing rigid, statutory trial deadlines (e.g., in complex paper leak cases) because rushed trials compromise the right to a fair trial and defense preparation. *(Source: [2026-07-31 Current Affairs](../Current_Affairs/2026-07-31_Current_Affairs.md))*
 
 ---
 
 ### Directive Principles of State Policy (Part IV)
 
-*   **Article 48A**
+*   **Article 48A** — *(Source: [2026-07-29 Current Affairs](../Current_Affairs/2026-07-29_Current_Affairs.md))*
     *   **Core Concept**: Directs the State to endeavor to protect and improve the environment and to safeguard the forests and wildlife of the country.
 
 ---
 
 ### Fundamental Duties (Part IV-A)
 
-*   **Article 51A(g)**
+*   **Article 51A(g)** — *(Source: [2026-07-29 Current Affairs](../Current_Affairs/2026-07-29_Current_Affairs.md))*
     *   **Core Concept**: Mandates that it is the duty of every citizen of India to protect and improve the natural environment including forests, lakes, rivers, and wildlife, and to have compassion for living creatures.
 
 ---
 
 ### The Union Legislature (Part V)
 
-*   **Article 81**
+*   **Article 81** — *(Source: [2026-07-30 Current Affairs](../Current_Affairs/2026-07-30_Current_Affairs.md))*
     *   **Core Concept**: Defines the composition of the Lok Sabha. Currently capped at **543 elected members** based on the 1971 Census figures.
 
-*   **Article 82**
+*   **Article 82** — *(Source: [2026-07-30 Current Affairs](../Current_Affairs/2026-07-30_Current_Affairs.md))*
     *   **Core Concept**: Mandates the readjustment of seats and territorial constituencies after every decennial census by a **Delimitation Commission**.
 
 ---
 
 ### The Union Judiciary (Part V)
 
-*   **Article 142 (Supreme Court Plenary Jurisdiction)**
+*   **Article 142 (Supreme Court Plenary Jurisdiction)** — *(Source: [2026-07-30 Current Affairs](../Current_Affairs/2026-07-30_Current_Affairs.md))*
     *   **Core Concept**: Empowers the Supreme Court with extraordinary plenary jurisdiction to pass any decree necessary for doing **"complete justice"** in any cause or matter pending before it.
     *   **Key Precedents**:
         *   *Prem Chand Garg (1962)*: SC held that an order under Article 142 cannot directly violate express Fundamental Rights.
@@ -61,5 +61,5 @@ A consolidated revision index of all Constitutional Articles currently reference
 
 ### The State Executive (Part VI)
 
-*   **Article 162 (Executive Power of a State)**
+*   **Article 162 (Executive Power of a State)** — *(Source: [2026-07-28 Current Affairs](../Current_Affairs/2026-07-28_Current_Affairs.md))*
     *   **Core Concept**: The executive power of a State extends to the matters with respect to which the Legislature of the State has power to make laws. (e.g., used by states to argue their power to grant jobs via executive action).
