@@ -190,7 +190,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     4.  **4th War (1799)**: Triggered by the **Malartic Proclamation** (French Governor Malartic recklessly promised Tipu military help to recover lost lands, angering the British). Tipu died fighting Lord Wellesley. His daughter (Noor-al-Nissa) was placed under house arrest in India (to marry a local zamindar).
 
 #### B. The Poligar Revolts & Cultural Resistance
-*   **Poligar/Nayak System**: Descended from Vijayanagar (Nayaks) $\rightarrow$ Poligars (revenue collectors) $\rightarrow$ Piada. 
+*   **Poligar/Nayak System**: Descended from Vijayanagar (Nayaks) -> Poligars (revenue collectors) -> Piada. 
 *   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
 *   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
 *   **Srirangam Temple Wall Inscription**: The Marudu Pandyans wrote the first inscription for India's independence: *"People of different caste, class, creed & religion unite... religion of Jambudvipa. Unite against the Mlechha (foreigners)."*
@@ -217,7 +217,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   Ended with the **Treaty of Paris (1763)**: French were allowed to keep settlements but completely banned from military engagement in India.
 
 #### D. Maratha Empire (Genealogy & Expansion)
-*   **Early Lineage**: Maloji (Commander in Ahmadnagar, 1577) $\rightarrow$ Shahji (Gov of Bijapur) $\rightarrow$ Shivaji (1630–1680; founded Satara state and the PM *Peshwa* position).
+*   **Early Lineage**: Maloji (Commander in Ahmadnagar, 1577) -> Shahji (Gov of Bijapur) -> Shivaji (1630–1680; founded Satara state and the PM *Peshwa* position).
 *   **Tanjore Marathas (Venkoji's Line)**:
     *   Venkoji (Shahji's son) became the Nayak of Tanjore.
     *   **Venkoji II (Serfoji II)**: Signed Subsidiary Alliance in 1801. A massive polymath (knew 12 languages, established the Saraswati Mahal Library, Dhanvantri medical lab, performed cataract operations).
