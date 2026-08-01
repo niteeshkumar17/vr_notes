@@ -166,3 +166,84 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 ### B. 3rd Battle of Panipat (1761)
 *   **Cause**: Ahmad Shah Abdali invaded to avenge the expulsion of his son Timur Shah from Lahore by Marathas (**Raghunath Rao** & **Dataji Scindia**).
 *   **Impact**: Halting of Maratha northern expansion; total collapse of Mughal prestige; created power vacuum for Sikh rise in Punjab.
+
+---
+
+### Lecture 2: Regional Powers & Marathas
+*Date added: 2026-08-01*
+
+#### A. Mysore & Anglo-Mysore Rivalry
+*   **Haider Ali (1720–1782)**:
+    *   Established a **Military-Fiscal State** by implementing the **Risala System** (direct state control of military and economy, bypassing local Poligars/Nayaks).
+    *   Formed an alliance with the French and established the **first modern artillery factory** at **Dindigul** (1755).
+    *   Indirectly supported America's War of Independence against the British.
+*   **Tipu Sultan (d. 1799)**:
+    *   Legitimized his rule by seeking permission from the highest Islamic authority, the **Caliph (Ottoman Shah)**.
+    *   Issued new coinage known as **'Paisa'**.
+    *   Established foreign embassies in Istanbul, Paris, Cairo, Iran, and Iraq.
+    *   In alliance with the French, developed **modern rockets**.
+    *   Deeply inspired by the French Revolution: established a **Jacobin Society** (Blue-Rock) and planted the **Tree of Liberty** at Srirangapatnam.
+*   **Anglo-Mysore Wars**:
+    1.  **1st War (1767–69)**: Haider Ali defeated the English. Concluded with the **Treaty of Madras** (English forced to accept a defensive border).
+    2.  **2nd War (1780–84)**: Haider died in 1782, Tipu continued till 1784. The Mysoreans emerged victorious. Concluded with the **Treaty of Mangalore** (English officially recognized the Mysore State, and the French Governor promised to aid Tipu).
+    3.  **3rd War (1790–92)**: An overwhelming coalition of **Cornwallis + Marathas + Hyderabad** fought Tipu. Concluded with the harsh **Treaty of Srirangapatnam** (Mysore lost half its territory; 2 of Tipu's sons were sent as hostages to London/Cornwallis).
+    4.  **4th War (1799)**: Triggered by the *Malabar Proclamation*. Tipu died fighting Lord Wellesley at the **Battle of Srirangapatnam**. His daughter (Noor-al-Nissa) was placed under house arrest and later married into the Vellore fort, culminating in the **1806 Vellore Mutiny**.
+
+#### B. The Poligar Revolts & Cultural Resistance
+*   **Poligar/Nayak System**: Originally descending from Vijayanagar (Nayaks of Mysore/Tanjore) $\rightarrow$ Poligars $\rightarrow$ Piada.
+*   Haider Ali's Risala system and British Zamindary systems threatened the Poligars' military and economic control, leading to the **Poligar Revolts (1790–1801)**.
+*   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**.
+*   **Cultural Resistance**: Following Tipu's death, the British forced reforms upon the native soldiers (e.g., introducing a new head cap made of cow/pig leather and banning the *Vibhuti* mark).
+*   **Srirangam Temple Wall Inscription**: A famous call to arms declaring, *"People of different caste, class, creed & sect of Jambudvipa must unite against the Mlechha (foreigners)."*
+
+#### C. Hyderabad & Carnatic Wars
+*   **Foundation of Hyderabad**:
+    *   Founded by **Chin Qilich Khan (Nizam-ul-Mulk / Asaf Jah)** in 1724.
+    *   Mughal Emperor Muhammad Shah Rangeela ordered the then Governor of Deccan, Mubariz Khan, to kill him. Instead, Chin killed Mubariz at the **Battle of Shakar Kheda (1724)**.
+    *   Chin Qilich Khan never formally declared independence; he pledged loyalty and ensured the Deccan nominally remained part of the Mughal Empire.
+*   **Hyderabad Successors**:
+    1.  **Nasir Jung** (1748–51).
+    2.  **Muzaffar Jung** (1751–54).
+    3.  **Salabat Jung**.
+    4.  **Nizam Ali (Asaf Jah II)**: Signed the Subsidiary Alliance in **1798** (first state to do so).
+*   **The Carnatic Wars (Anglo-French Rivalry)**:
+    1.  **1st Carnatic War (1746–48)**: A spillover of the **Austrian War of Succession** in Europe. The French captured Madras. Ended with the **Treaty of Aix-la-Chapelle** (Madras returned to the English).
+    2.  **2nd Carnatic War (1749–54)**: A proxy war over succession in Hyderabad (Nasir Jung supported by English vs. Muzaffar Jung supported by French/Dupleix) and Arcot (Anwar-ud-din vs. Chanda Sahib).
+        *   **Robert Clive (1751)**: With just 35 men, captured Arcot and killed Chanda Sahib.
+        *   The French monarchy recalled Dupleix, replacing him with Godeheu & Lally. Concluded with the **Treaty of Pondicherry** (Status Quo).
+    3.  **3rd Carnatic War (1756–63)**: A spillover of the **Seven Years' War** in Europe.
+        *   English Col. Forde captured Jinji & Rajahmundry.
+        *   **Battle of Wandiwash (1760)**: Col. Eyre Coote decisively defeated the French and captured Pondicherry.
+        *   Ended with the **Treaty of Paris (1763)**: French were allowed to keep settlements but completely banned from military engagement in India.
+
+#### D. Maratha Empire (Genealogy & Expansion)
+*   **Early Lineage**: Maloji (Commander in Ahmadnagar, 1577) $\rightarrow$ Shahji (Gov of Bijapur) $\rightarrow$ Shivaji (1630–1680; founded Satara state and the PM *Peshwa* position).
+*   **Tanjore Marathas (Venkoji's Line)**:
+    *   Venkoji (Shahji's son) became the Nayak of Tanjore.
+    *   **Venkoji II (Serfoji II)**: Signed Subsidiary Alliance in 1801. A massive polymath (knew 12 languages, established the Saraswati Mahal Library, Dhanvantri medical lab, performed cataract operations).
+    *   He secularized the Devadasi dance (*Dasi-Attam / Sadir*) into **Bharatanatyam** via the Tanjore Quartel (Chinnaya, Ponniah, Sivanandam, Vadivelu) and introduced Western music, creating the first Indo-Western band (Tanjore Band).
+*   **The Peshwa Era**:
+    1.  **Balaji Vishwanath (1713–1720)**: Solidified the Peshwa's power; promised Chhatrapati Shahuji 30% of total revenue.
+    2.  **Baji Rao I (1720–1740)**: The "Father of Maratha Imperialism".
+        *   Defeated Nizam of Hyderabad at **Battle of Palkhed (1728)** $\rightarrow$ *Treaty of Mungi-Shivgaon* (Nizam pays Chauth).
+        *   Defeated Nizam again at **Battle of Bhopal (1737)** $\rightarrow$ *Treaty of Bhopal* (Marathas gain Malwa & Bundelkhand).
+        *   Captured Salsette and Bassein from the Portuguese (1739).
+    3.  **Balaji Baji Rao / Nana Saheb (1740–1761)**:
+        *   1751: Marathas (Raghuji Bhonsle) defeated Alivardi Khan of Bengal, demanding Chauth from Odisha.
+        *   1759: Raghunath Rao took Attock.
+        *   1761: **Third Battle of Panipat** — catastrophic loss; commanders Vishwas Rao and Sadashiv Rao Bhau died.
+    4.  **Madhav Rao (1761–1772)**: Restored Maratha power. Defeated Haider Ali. Sent Mahadji Scindia to Delhi to restore Mughal Emperor Shah Alam II.
+
+#### E. Anglo-Maratha Wars & Downfall
+1.  **1st Anglo-Maratha War (1775–1782)**:
+    *   Triggered by succession dispute (Raghunath Rao / Raghoba seeking EIC help against infant Sawai Madhav Rao II).
+    *   Ended with the **Treaty of Salbai (1782)**: EIC accepted Madhav Rao II as Peshwa, promised not to interfere for 20 years, and secured Maratha neutrality against Mysore.
+2.  **2nd Anglo-Maratha War (1803–1805)**:
+    *   Peshwa Baji Rao II fled to the British and signed the **Treaty of Bassein (1802)** (Subsidiary Alliance).
+    *   The British defeated the rebelling chieftains:
+        *   **Treaty of Surji-Anjangaon (1803)**: Scindia defeated.
+        *   **Treaty of Deogaon (1803)**: Bhonsle defeated.
+3.  **3rd Anglo-Maratha War (1817–1819)**:
+    *   The final crush of the Maratha Confederacy.
+    *   **Treaty of Poona (1817)**: Peshwa title abolished. Baji Rao II pensioned off to Bithur (his adopted son was Nana Sahib).
+    *   **Treaty of Mandasor (1818)**: Holkar defeated.
