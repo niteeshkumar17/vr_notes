@@ -111,7 +111,49 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-## 3. Foreign Invasions & Strategic Warfare
+## 3. The Sikh Empire & Punjab Evolution
+
+### Detailed Evolution & Phases
+
+#### Phase I: Rise of Khalsa (1699–1708)
+*   **1699 — Founding of Akali Movement**: 
+    *   **Guru Gobind Singh** (10th Sikh Guru) launched the Akali movement to establish a self-governing body in the Sikh community beyond caste, class, creed, and communal aspirations.
+    *   Baptized the **Panj Pyare** (Five Beloved Ones) and introduced the **5 Ks** (*Kanga, Kirpan, Kesh, Kara, Kacha*), giving birth to the **Khalsa**.
+    *   *Note*: Khalsa was initially a self-governing brotherhood, not a military state.
+*   **1704 — Battle of Anandpur Fort**:
+    *   Mughal noble **Wazir Khan** (Governor of Sirhind) attacked Anandpur Fort, perceiving Khalsa as a political threat.
+    *   Martyrdom of **Char Sahibzade** (4 sons of Guru Gobind Singh): Two sons died in battle; two younger sons were cemented (bricked) alive into a wall.
+*   **Sikh Counter-Action & Aurangzeb Summons**:
+    *   Sikhs captured the Red Fort in Delhi.
+    *   Aurangzeb (then campaigning in the Deccan against Sambhaji/Rajaram) summoned Guru Gobind Singh to the Deccan for talks.
+*   **Appointment of Banda Bahadur & Assassination (1707–1708)**:
+    *   Before departing for the Deccan, Guru Gobind Singh appointed **Banda Bahadur** as the political/military leader of the Khalsa.
+    *   Aurangzeb died in 1707 before the meeting. Guru Gobind Singh instead met the new Emperor, **Bahadur Shah I**.
+    *   **1708**: Wazir Khan (fearful of Mughal-Sikh peace) assassinated Guru Gobind Singh at Nanded (Deccan).
+
+#### Phase II: Sikh Anti-State Movement (1709–1716)
+*   **1709**: Banda Bahadur led a massive anti-state uprising, raiding Mughal trade routes and garrisons.
+*   Joined by **Jats**, who were welcomed into the Khalsa (*Men ➔ Singh, Women ➔ Kaur*).
+*   Formed early **Misls** (armed warring units).
+*   **1716**: Emperor Farrukh Siyar captured and executed Banda Bahadur in Delhi.
+
+#### Phase III: Rise of Confederacy & Sikh Empire (Post-1716)
+*   Post-Banda Bahadur, the Sikh movement organized into **12 Misls**.
+*   **Nawab Kapur Singh** united them under the **Dal Khalsa** (incorporating Rajputs & Sindhis).
+*   **Sukerchakia Misl**: Led by **Ranjit Singh** (born 1780).
+*   **Ranjit Singh (1780–1839)**:
+    *   **1798**: Captured Lahore from Afghan ruler Zaman Shah; established Lahore as his capital.
+    *   **1809 — Treaty of Amritsar (Lahore)**:
+        *   Framed during the **Great Game / Eastern Question** (British fear of Franco-Russian invasion via Persia & Afghanistan).
+        *   River Sutlej established as the firm boundary between Ranjit Singh's kingdom (Lahore) and British Cis-Sutlej territory.
+        *   British provided arms and training to Sikhs to serve as a buffer against Afghans.
+*   **Anglo-Sikh Wars & Annexation (1845–1849)**:
+    *   **1846 — Treaty of Amritsar**: Kashmir sold for ₹75 Lakhs to Dogra Rajput **Gulab Singh**.
+    *   **1849 — 2nd Anglo-Sikh War**: Punjab annexed by Lord Dalhousie; Maharaja Duleep Singh exiled to London.
+
+---
+
+## 4. Foreign Invasions & Strategic Warfare
 
 ### A. Nadir Shah's Invasion of Iran (1739)
 *   **Pretext**: Fleeing Safavid relatives took asylum in Kabul/Lahore. Mughal governors Zakariya Khan and Nusrat Khan mistreated Nadir Shah's envoy.
