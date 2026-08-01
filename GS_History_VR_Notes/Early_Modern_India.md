@@ -192,24 +192,34 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 #### B. The Poligar Revolts & Cultural Resistance
 *   **Poligar/Nayak System Evolution**:
 ```mermaid
-flowchart TD
-    %% Phase I & II
-    VN[Vijayanagar] --> N1[Nayaks]
-    N1 --> P1[Polygars]
+flowchart LR
+    subgraph I [Phase I: Vijayanagar]
+        direction TB
+        VN["Vijayanagar"] --> N1["Nayaks"] --> P1["Polygars"]
+    end
     
-    NM[NAYAK of Mysore] --> P2[Polygars]
-    P2 --> Piada[Piada]
+    subgraph II [Phase II: Mysore]
+        direction TB
+        NM["NAYAK of Mysore"] --> P2["Polygars"] --> Piada["Piada"]
+    end
     
+    subgraph III [Phase III: Haider Ali]
+        direction TB
+        H["Haider Ali<br>(Mili-fiscalism / RISALA)"]
+    end
+    
+    subgraph IV [Phase IV: British]
+        direction TB
+        B1["British wanted<br>control of commerce"]
+    end
+
     %% Convergence to Zamindary System
-    P1 --> P3[Polygars\nZamindary System]
+    P1 --> P3["Polygars<br>(Zamindary System)"]
     P2 --> P3
+    H --> P3
+    B1 -.->|"Conflicts"| P3
     
-    %% Phase III & IV
-    H[Haider Ali\nMili-fiscalism / RISALA] --> P3
-    B1[British wanted\ncontrol of commerce] -.->|Conflicts| P3
-    
-    %% Revolt
-    P3 --> R[Polygars Revolted\n1798-1801]
+    P3 --> R["Polygars Revolted<br>(1798-1801)"]
 ```
 *   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
 *   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
