@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UPSC CSE History Interactive Hub — Vajiram & Ravi Notes</title>
+  <title>UPSC CSE History Visual & Maps Hub — Vajiram & Ravi</title>
   <!-- Google Fonts & Font Awesome Icons -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,13 +16,14 @@
   <style>
     :root {
       --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
-      --card-bg: rgba(30, 41, 59, 0.75);
+      --card-bg: rgba(30, 41, 59, 0.8);
       --card-border: rgba(255, 255, 255, 0.12);
       --accent-gold: #f59e0b;
       --accent-blue: #3b82f6;
       --accent-purple: #8b5cf6;
       --accent-emerald: #10b981;
       --accent-rose: #f43f5e;
+      --accent-river: #38bdf8;
       --text-main: #f8fafc;
       --text-muted: #94a3b8;
       --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -41,7 +42,7 @@
     }
 
     header {
-      background: rgba(15, 23, 42, 0.85);
+      background: rgba(15, 23, 42, 0.9);
       backdrop-filter: blur(16px);
       border-bottom: 1px solid var(--card-border);
       padding: 1rem 2rem;
@@ -133,7 +134,7 @@
       to { opacity: 1; transform: translateY(0); }
     }
 
-    .tree-grid, .map-grid {
+    .tree-grid, .map-grid, .timeline-grid {
       display: grid;
       grid-template-columns: 1fr 360px;
       gap: 1.5rem;
@@ -158,18 +159,29 @@
       color: #fff;
     }
 
+    /* Family Tree Arrows & Connections */
     .tree-container {
       display: flex;
       flex-direction: column;
-      gap: 1.5rem;
-      padding: 0.5rem 0;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 0;
+      position: relative;
     }
 
     .tree-level {
       display: flex;
       justify-content: center;
-      gap: 1.2rem;
+      gap: 1.5rem;
+      width: 100%;
       flex-wrap: wrap;
+      position: relative;
+    }
+
+    .arrow-down {
+      color: var(--accent-gold);
+      font-size: 1.2rem;
+      margin: 0.2rem 0;
     }
 
     .node-box {
@@ -180,6 +192,7 @@
       min-width: 220px;
       cursor: pointer;
       transition: all 0.25s ease;
+      position: relative;
     }
 
     .node-box:hover {
@@ -251,7 +264,23 @@
     .detail-body ul { margin-left: 1.2rem; margin-top: 0.5rem; }
     .detail-body li { margin-bottom: 0.4rem; }
 
-    .map-controls { display: flex; gap: 0.5rem; margin-bottom: 1.2rem; }
+    /* Rivers & Geography Map Section */
+    .river-badge {
+      background: rgba(56, 189, 248, 0.15);
+      color: var(--accent-river);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      padding: 4px 8px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-right: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .map-controls { display: flex; gap: 0.5rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
 
     .filter-btn {
       background: rgba(15, 23, 42, 0.6);
@@ -309,76 +338,46 @@
     .region-name { font-family: var(--font-heading); font-weight: 700; font-size: 1.05rem; color: #fff; }
     .region-ruler { font-size: 0.8rem; color: var(--accent-gold); margin-top: 0.2rem; }
 
-    .audio-studio-container { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
-    .audio-player-box {
-      background: rgba(15, 23, 42, 0.9);
-      border: 1px solid var(--card-border);
-      border-radius: 12px;
-      padding: 1.25rem;
-      margin-bottom: 1.5rem;
+    /* Flowchart / Cause-Effect Arrows */
+    .flow-chain {
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+      margin-top: 1rem;
     }
 
-    audio { width: 100%; margin-top: 0.8rem; border-radius: 8px; }
-
-    .timestamp-log { display: flex; flex-direction: column; gap: 0.6rem; max-height: 280px; overflow-y: auto; }
-    .timestamp-item {
-      background: rgba(30, 41, 59, 0.6);
+    .flow-step {
+      background: rgba(15, 23, 42, 0.9);
       border: 1px solid var(--card-border);
-      padding: 0.6rem 0.8rem;
-      border-radius: 8px;
+      border-left: 4px solid var(--accent-gold);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      position: relative;
+    }
+
+    .flow-step-arrow {
+      text-align: center;
+      color: var(--accent-gold);
+      font-size: 1.2rem;
+      margin: 0.3rem 0;
+    }
+
+    .flow-step-title {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      color: #fff;
+      font-size: 1rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      cursor: pointer;
-      transition: all 0.2s;
     }
-    .timestamp-item:hover { background: rgba(59, 130, 246, 0.2); border-color: var(--accent-blue); }
 
-    .time-badge {
-      font-family: monospace;
-      font-weight: 700;
-      color: var(--accent-gold);
+    .flow-step-desc {
       font-size: 0.85rem;
-      background: rgba(245, 158, 11, 0.15);
-      padding: 2px 6px;
-      border-radius: 4px;
+      color: #cbd5e1;
+      margin-top: 0.4rem;
+      line-height: 1.5;
     }
-
-    .time-note { font-size: 0.85rem; color: #e2e8f0; flex: 1; margin-left: 0.8rem; }
-
-    .studio-textarea {
-      width: 100%;
-      height: 180px;
-      background: rgba(15, 23, 42, 0.9);
-      border: 1px solid var(--card-border);
-      border-radius: 10px;
-      padding: 1rem;
-      color: #fff;
-      font-family: inherit;
-      font-size: 0.9rem;
-      resize: vertical;
-      margin-bottom: 1rem;
-    }
-
-    .studio-textarea:focus { outline: none; border-color: var(--accent-purple); }
-
-    .btn-action {
-      background: linear-gradient(135deg, var(--accent-emerald), #059669);
-      color: #fff;
-      border: none;
-      padding: 0.75rem 1.5rem;
-      border-radius: 10px;
-      font-weight: 700;
-      font-size: 0.9rem;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      transition: all 0.2s;
-      box-shadow: 0 4px 14px rgba(16, 185, 129, 0.3);
-    }
-
-    .btn-action:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(16, 185, 129, 0.4); }
 
     .notes-viewer-container {
       background: var(--card-bg);
@@ -411,7 +410,7 @@
         <i class="fa-solid fa-landmark"></i>
       </div>
       <div>
-        <div class="brand-title">History Visual & Audio Hub</div>
+        <div class="brand-title">History Visual & Maps Hub</div>
         <div class="brand-subtitle">UPSC CSE 2027 • Vajiram & Ravi Core Notes DB</div>
       </div>
     </div>
@@ -421,13 +420,13 @@
         <i class="fa-solid fa-sitemap"></i> Family Trees
       </button>
       <button class="tab-btn" onclick="switchTab('map-view', this)">
-        <i class="fa-solid fa-map-location-dot"></i> 18th C. Map
+        <i class="fa-solid fa-map-location-dot"></i> Maps & Rivers
       </button>
-      <button class="tab-btn" onclick="switchTab('audio-studio', this)">
-        <i class="fa-solid fa-headphones"></i> Audio Studio
+      <button class="tab-btn" onclick="switchTab('flow-chain-view', this)">
+        <i class="fa-solid fa-diagram-project"></i> Cause-Effect Arrows
       </button>
       <button class="tab-btn" onclick="switchTab('text-notes', this)">
-        <i class="fa-solid fa-book-open"></i> Notes DB
+        <i class="fa-solid fa-book-open"></i> Master DB Notes
       </button>
     </nav>
   </header>
@@ -440,19 +439,23 @@
         <div class="card-panel">
           <div class="section-title">
             <i class="fa-solid fa-crown" style="color: var(--accent-gold)"></i>
-            Later Mughals Succession Lineage (1707–1748)
+            Later Mughals Succession Lineage & Nobles (1707–1748)
           </div>
           
           <div class="tree-container">
+            <!-- Level 1: Aurangzeb -->
             <div class="tree-level">
               <div class="node-box selected" onclick="showDetail('aurangzeb')">
                 <div class="node-role">6th Great Mughal</div>
-                <div class="node-name">Aurangzeb</div>
-                <div class="node-years">Died 1707 in Ahmednagar</div>
+                <div class="node-name">Aurangzeb (AZB)</div>
+                <div class="node-years">Died 1707 at Ahmednagar</div>
                 <span class="node-tag">War of Succession Trigger</span>
               </div>
             </div>
 
+            <div class="arrow-down"><i class="fa-solid fa-arrow-down-long"></i> Succession War (1707)</div>
+
+            <!-- Level 2: Sons of Aurangzeb -->
             <div class="tree-level">
               <div class="node-box" onclick="showDetail('muazzam')">
                 <div class="node-role">Victorious Son (Age 63)</div>
@@ -472,15 +475,21 @@
               </div>
             </div>
 
+            <div class="arrow-down"><i class="fa-solid fa-arrow-down-long"></i> Elephant Strategy by Zulfiqar Khan (1712)</div>
+
+            <!-- Level 3: Jahandar Shah & Zulfiqar Khan -->
             <div class="tree-level">
               <div class="node-box" onclick="showDetail('jahandar')">
                 <div class="node-role">Emperor (1712-1713)</div>
                 <div class="node-name">Jahandar Shah</div>
-                <div class="node-years">PM: Zulfiqar Khan</div>
-                <span class="node-tag">Killed brothers via Elephants</span>
+                <div class="node-years">Wazir: Zulfiqar Khan</div>
+                <span class="node-tag">Abolished Jaziya in Gujarat</span>
               </div>
             </div>
 
+            <div class="arrow-down"><i class="fa-solid fa-arrow-down-long"></i> Sayyid Brothers Kingmaker Coup (1713)</div>
+
+            <!-- Level 4: Farrukh Siyar & Sayyid Brothers -->
             <div class="tree-level">
               <div class="node-box" onclick="showDetail('farrukhsiyar')">
                 <div class="node-role">Emperor (1713-1719)</div>
@@ -490,6 +499,9 @@
               </div>
             </div>
 
+            <div class="arrow-down"><i class="fa-solid fa-arrow-down-long"></i> Sayyid Brothers + Balaji Vishwanath Alliance (1719)</div>
+
+            <!-- Level 5: Puppet Emperors & Muhammad Shah -->
             <div class="tree-level">
               <div class="node-box" style="opacity: 0.7" onclick="showDetail('puppets')">
                 <div class="node-role">Puppet Emperors (1719)</div>
@@ -524,17 +536,23 @@
       </div>
     </div>
 
-    <!-- 2. INTERACTIVE MAP PANEL -->
+    <!-- 2. INTERACTIVE MAP & RIVERS PANEL -->
     <div id="map-view" class="view-panel">
       <div class="map-grid">
         <div class="card-panel">
           <div class="section-title">
-            <i class="fa-solid fa-map" style="color: var(--accent-blue)"></i>
-            18th-Century Mughal Disintegration Map (1707–1750s)
+            <i class="fa-solid fa-water" style="color: var(--accent-river)"></i>
+            18th-Century Territorial States, Rivers & Strategic Geography
+          </div>
+
+          <div style="margin-bottom: 1rem">
+            <span class="river-badge"><i class="fa-solid fa-water"></i> River Sutlej (Lahore/Sikh Boundary)</span>
+            <span class="river-badge"><i class="fa-solid fa-water"></i> Yamuna & Ganges (Awadh/Delhi Axis)</span>
+            <span class="river-badge"><i class="fa-solid fa-water"></i> Narmada & Godavari (Maratha Chauth Vector)</span>
           </div>
 
           <div class="map-controls">
-            <button class="filter-btn active" onclick="filterRegions('all', this)">All States</button>
+            <button class="filter-btn active" onclick="filterRegions('all', this)">All Regions</button>
             <button class="filter-btn" onclick="filterRegions('successor', this)">8 Successor States</button>
             <button class="filter-btn" onclick="filterRegions('outsider', this)">3 Outsider States</button>
             <button class="filter-btn" onclick="filterRegions('enemy', this)">4 Enemy States</button>
@@ -546,81 +564,94 @@
         <div class="detail-drawer">
           <div class="detail-header">
             <div id="map-detail-title" class="detail-title">Select a Region</div>
-            <div id="map-detail-subtitle" style="font-size: 0.8rem; color: var(--text-muted)">State Breakdown & History</div>
+            <div id="map-detail-subtitle" style="font-size: 0.8rem; color: var(--text-muted)">State Breakdown & River Geography</div>
           </div>
           <div id="map-detail-body" class="detail-body">
-            <p>Click on any of the state cards to explore its ruler, origin, classification (Successor, Outsider, or Enemy), and UPSC preliminary key takeaways.</p>
+            <p>Click on any state card to examine its ruler, river geography, capital city, and historical significance.</p>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- 3. AUDIO STUDIO PANEL -->
-    <div id="audio-studio" class="view-panel">
-      <div class="audio-studio-container">
+    <!-- 3. CAUSE & EFFECT FLOWCHARTS PANEL -->
+    <div id="flow-chain-view" class="view-panel">
+      <div class="timeline-grid">
         <div class="card-panel">
           <div class="section-title">
-            <i class="fa-solid fa-podcast" style="color: var(--accent-purple)"></i>
-            Lecture Audio Player & Timestamp Log
+            <i class="fa-solid fa-arrows-split-up-and-left" style="color: var(--accent-purple)"></i>
+            Political Transformation & Cause-Effect Arrows (1707–1761)
           </div>
 
-          <div class="audio-player-box">
-            <div style="font-size: 0.9rem; font-weight: 600; color: #fff">
-              <i class="fa-solid fa-file-audio"></i> History Lecture Audio 01 — Later Mughals & Rise of Peshwas
+          <div class="flow-chain">
+            <div class="flow-step">
+              <div class="flow-step-title">
+                1. Death of Aurangzeb (1707) 
+                <span style="font-size: 0.75rem; color: var(--accent-gold)">Trigger</span>
+              </div>
+              <div class="flow-step-desc">
+                Death of AZB at Ahmednagar ➔ Power vacuum in Delhi ➔ Muazzam wins War of Succession (Bahadur Shah I) ➔ Release of Shahuji (1707) to destabilize Marathas.
+              </div>
             </div>
-            <audio id="lecture-audio-player" controls>
-              <source src="" type="audio/mp3">
-              Your browser does not support audio playback.
-            </audio>
-          </div>
 
-          <div style="font-size: 0.9rem; font-weight: 700; color: var(--accent-gold); margin-bottom: 0.8rem">
-            <i class="fa-solid fa-clock-rotate-left"></i> Key Lecture Audio Timestamps
-          </div>
+            <div class="flow-step-arrow"><i class="fa-solid fa-arrow-down-long"></i></div>
 
-          <div class="timestamp-log">
-            <div class="timestamp-item" onclick="seekAudio(0)">
-              <span class="time-badge">00:00</span>
-              <span class="time-note">Introduction: Aurangzeb's Death & Succession War (1707)</span>
+            <div class="flow-step">
+              <div class="flow-step-title">
+                2. Rise of Kingmaker Nobles & Zulfiqar Khan (1712)
+                <span style="font-size: 0.75rem; color: var(--accent-blue)">Noble Dominance</span>
+              </div>
+              <div class="flow-step-desc">
+                Zulfiqar Khan kills 3 rival brothers under elephants ➔ Jahandar Shah made Emperor ➔ Zulfiqar becomes PM ➔ Abolishes Jaziya in Gujarat to build independent army.
+              </div>
             </div>
-            <div class="timestamp-item" onclick="seekAudio(145)">
-              <span class="time-badge">02:25</span>
-              <span class="time-note">Why Zulfiqar Khan abolished Jaziya specifically in Gujarat</span>
+
+            <div class="flow-step-arrow"><i class="fa-solid fa-arrow-down-long"></i></div>
+
+            <div class="flow-step">
+              <div class="flow-step-title">
+                3. Sayyid Brothers & Maratha Coalition (1713–1719)
+                <span style="font-size: 0.75rem; color: var(--accent-purple)">Imperial Execution</span>
+              </div>
+              <div class="flow-step-desc">
+                Sayyid Brothers use Farrukh Siyar to execute Zulfiqar Khan ➔ Golden Farman to EIC (1717) ➔ Balaji Vishwanath proposes Dual Governance ➔ Farrukh Siyar executed by Sayyid Brothers & Marathas (1719).
+              </div>
             </div>
-            <div class="timestamp-item" onclick="seekAudio(390)">
-              <span class="time-badge">06:30</span>
-              <span class="time-note">Sayyid Brothers alliance with Balaji Vishwanath & Dual Governance</span>
-            </div>
-            <div class="timestamp-item" onclick="seekAudio(620)">
-              <span class="time-badge">10:20</span>
-              <span class="time-note">Battle of Karnal 1739 & Nadir Shah's loot of Peacock Throne</span>
+
+            <div class="flow-step-arrow"><i class="fa-solid fa-arrow-down-long"></i></div>
+
+            <div class="flow-step">
+              <div class="flow-step-title">
+                4. Foreign Invasions & Total Disintegration (1739–1761)
+                <span style="font-size: 0.75rem; color: var(--accent-rose)">Mughal Collapse</span>
+              </div>
+              <div class="flow-step-desc">
+                Muhammad Shah Rangeela neglects state ➔ Nadir Shah Battle of Karnal (1739), loots Peacock Throne ➔ Successor states break away ➔ 3rd Battle of Panipat (1761) halts Marathas and sets stage for Sikh rise in Punjab.
+              </div>
             </div>
           </div>
         </div>
 
-        <div class="card-panel">
-          <div class="section-title">
-            <i class="fa-solid fa-pen-to-square" style="color: var(--accent-emerald)"></i>
-            Audio Context & Lecture Notes Synthesizer
+        <div class="detail-drawer">
+          <div class="detail-header">
+            <div class="detail-title">Key Exam Takeaway</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted)">UPSC Mains & Prelims Focus</div>
           </div>
-          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem">
-            Provide audio notes or paste lecture transcripts below. The system will synthesize key takeaways and merge them into your notes DB.
-          </p>
-
-          <textarea id="audio-notes-input" class="studio-textarea" placeholder="Paste teacher commentary, audio context notes, or transcript snippet here..."></textarea>
-
-          <button class="btn-action" onclick="synthesizeAudioContext()">
-            <i class="fa-solid fa-wand-magic-sparkles"></i> Synthesize & Update Notes DB
-          </button>
+          <div class="detail-body">
+            <p><strong>Structural Analysis:</strong></p>
+            <ul>
+              <li>The shift from sovereign emperors to noble kingmakers (Zulfiqar Khan, Sayyid Brothers, Nizam-ul-Mulk) was the chief structural flaw of 18th-century Mughals.</li>
+              <li>Maratha intervention in Delhi politics (1719) established Marathas as the paramount de facto power of the subcontinent until 1761.</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- 4. TEXT NOTES DB PANEL -->
+    <!-- 4. MASTER NOTES DB PANEL -->
     <div id="text-notes" class="view-panel">
       <div class="notes-viewer-container">
         <div id="markdown-render-target" class="markdown-body">
-          <p style="color: var(--text-muted)">Loading core history markdown database...</p>
+          <p style="color: var(--text-muted)">Loading master history markdown database...</p>
         </div>
       </div>
     </div>
@@ -706,16 +737,16 @@
     }
 
     const mapRegions = [
-      { id: 1, name: "Hyderabad", type: "successor", ruler: "Chin Qilich Khan (Nizam-ul-Mulk)", note: "Founded in 1724 after defeating Mubariz Khan at Battle of Shakr Kheda." },
-      { id: 2, name: "Bengal", type: "successor", ruler: "Murshid Quli Khan", note: "Capital shifted to Murshidabad; introduced Izaradari system." },
-      { id: 3, name: "Awadh", type: "successor", ruler: "Saadat Khan (Burhan-ul-Mulk)", note: "Founded 1724; committed suicide in 1739 after Battle of Karnal." },
-      { id: 4, name: "Punjab", type: "successor", ruler: "Zakariya Khan", note: "Mughal governor who opposed Nadir Shah and Sikhs." },
-      { id: 5, name: "Rajputana (Jaipur)", type: "successor", ruler: "Sawai Jai Singh", note: "Built 5 astronomical observatories (Jantar Mantar)." },
-      { id: 6, name: "Travancore", type: "outsider", ruler: "Martanda Varma", note: "Defeated Dutch in Battle of Colachel (1741)." },
-      { id: 7, name: "Ahoms (Assam)", type: "outsider", ruler: "Chaolung Sukhapa", note: "Remained independent until British annexation in 1826 (Treaty of Yandabo)." },
-      { id: 8, name: "Mysore", type: "outsider", ruler: "Wodeyar / Hyder Ali", note: "Emerged as dominant power in South India." },
-      { id: 9, name: "Jats of Bharatpur", type: "enemy", ruler: "Suraj Mal", note: "Known as the 'Plato of the Jat tribe' / Ulysses." },
-      { id: 10, name: "Marathas", type: "enemy", ruler: "Peshwa Balaji Vishwanath", note: "Extracted 25% Chauth and 10% Sardeshmukhi from Deccan." }
+      { id: 1, name: "Hyderabad", type: "successor", ruler: "Chin Qilich Khan (Nizam-ul-Mulk)", note: "River Godavari Basin • Founded in 1724 after defeating Mubariz Khan at Battle of Shakr Kheda." },
+      { id: 2, name: "Bengal", type: "successor", ruler: "Murshid Quli Khan", note: "Ganges Delta • Capital shifted from Dacca to Murshidabad; introduced Izaradari system." },
+      { id: 3, name: "Awadh", type: "successor", ruler: "Saadat Khan (Burhan-ul-Mulk)", note: "Ganges-Yamuna Doab • Founded 1724; committed suicide in 1739 after Battle of Karnal." },
+      { id: 4, name: "Punjab", type: "successor", ruler: "Zakariya Khan", note: "Five Rivers System (Sutlej border) • Mughal governor who opposed Nadir Shah and Sikhs." },
+      { id: 5, name: "Rajputana (Jaipur)", type: "successor", ruler: "Sawai Jai Singh", note: "Luni & Banas River basins • Built 5 astronomical observatories (Jantar Mantar)." },
+      { id: 6, name: "Travancore", type: "outsider", ruler: "Martanda Varma", note: "Periyar River Coast • Defeated Dutch Navy at Battle of Colachel (1741)." },
+      { id: 7, name: "Ahoms (Assam)", type: "outsider", ruler: "Chaolung Sukhapa", note: "Brahmaputra Valley • Independent until 1826 Treaty of Yandabo." },
+      { id: 8, name: "Mysore", type: "outsider", ruler: "Wodeyar / Hyder Ali", note: "Kaveri River Valley • Dominant southern power." },
+      { id: 9, name: "Jats of Bharatpur", type: "enemy", ruler: "Suraj Mal", note: "Yamuna Basin • Known as the 'Plato of the Jat tribe'." },
+      { id: 10, name: "Marathas", type: "enemy", ruler: "Peshwa Balaji Vishwanath", note: "Narmada to Krishna Rivers • Extracted 25% Chauth across Deccan." }
     ];
 
     function renderRegions(filter = 'all') {
@@ -748,22 +779,9 @@
       document.getElementById('map-detail-title').innerText = reg.name;
       document.getElementById('map-detail-subtitle').innerText = `${reg.type.toUpperCase()} STATE • Ruler: ${reg.ruler}`;
       document.getElementById('map-detail-body').innerHTML = `
-        <p><strong>Overview:</strong></p>
+        <p><strong>River & Strategic Breakdown:</strong></p>
         <p>${reg.note}</p>
       `;
-    }
-
-    function seekAudio(seconds) {
-      const player = document.getElementById('lecture-audio-player');
-      player.currentTime = seconds;
-      player.play();
-    }
-
-    function synthesizeAudioContext() {
-      const text = document.getElementById('audio-notes-input').value;
-      if (!text.trim()) return alert('Please enter audio context notes first.');
-      alert('Lecture context synthesized successfully! Added to History DB notes.');
-      document.getElementById('audio-notes-input').value = '';
     }
 
     fetch('Early_Modern_India.md')
