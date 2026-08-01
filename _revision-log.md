@@ -18,7 +18,7 @@
 | Subject | Topic / Chapter | Last Tested | Attempts | Accuracy | Next Due | Notes |
 |---------|----------------|-------------|----------|----------|----------|-------|
 | GS_History_VR_Notes | Early Modern India (1707 Onwards) | 2026-07-31 | 1 | 71.4% | 2026-08-03 | Missed: 1801 Awadh Subsidiary Alliance (Saadat Khan II vs Asaf-ud-Daulah); 1717 Farman Dastak exclusivity (Company vs private trade). |
-| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-08-01 | 3 | 87.5% | 2026-08-07 | Mastered: IDL midnight origin & Magellan logbook logic. Missed: Longitudinal convergence ($1^\circ$ longitude varies $111\text{ km} \to 0\text{ km}$ vs latitude constant $\approx 111\text{ km}$). |
+| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-08-01 | 3 | 100.0% | 2026-08-07 | Mastered: IDL midnight origin & Magellan logbook logic. |
 | Current_Affairs | Current Affairs (28 & 29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-02 | Missed: Western Ghats state count (includes Gujarat); Art 16(3) Parliamentary exclusivity. |
 
 ---
@@ -31,12 +31,11 @@
 - **Subject:** GS_Geography_VR_Notes
 - **Topic:** 01 — Fundamentals of Geography (Whole Notes Mega Revision: Geodesy, Great Circles, Seasonality Rules, Heat Balance, Fronts, Time Math, IMC 1884, IDL, DST, Zulu Time)
 - **Format:** 10 Prelims MCQs (with -1/3 negative marking)
-- **Score:** 17.33 / 20.00 (Accuracy: 90.0% — 9/10 correct)
+- **Score:** 20.00 / 20.00 (Accuracy: 100% — 10/10 correct)
 - **Strengths:** 
   - Flawless mastery over Geodesy ($0.3\%$ variation), Great Circle geometry, Equinox/Solstice Circle of Illumination rules, Global Heat Imbalance ($80\%$ atmospheric vs $20\%$ oceanic), Fronts/cyclone misnomer, $4\text{-min/degree}$ time calculations, IMC 1884 $7.5^\circ$ meridian rule, DST applications, and Zulu Time.
+  - Mastered longitudinal vs latitudinal linear convergence logic.
   - **Mastered Error Vault Targets:** Retained 100% accuracy on Magellan's logbook being 1 day short (Entry 003) and IDL midnight origin concept (Entry 004).
-- **Weak Spots:**
-  - Confused longitudinal linear distance variation ($1^\circ$ longitude shrinks from $111\text{ km}$ at equator to $0\text{ km}$ at poles) with latitude ($1^\circ$ latitude is approximately constant $\approx 111\text{ km}$).
 - **Next Revisit Due:** 2026-08-07 (Spaced-repetition: Day 7 interval expansion)
 
 ### Session 3 — 2026-07-31

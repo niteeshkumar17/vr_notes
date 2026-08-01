@@ -92,12 +92,4 @@
 - **Next Revisit Due:** 2026-08-15 (15 days)
 - **Status:** Pending (Attempt 1)
 
----
 
-### Entry 009 — Longitudinal Linear Distance Convergence
-- **Date Missed:** 2026-08-01
-- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L193-L215)
-- **Question Summary:** Assumed linear distance of $1^\circ$ of longitude remains constant ($\approx 111\text{ km}$) from equator to poles.
-- **Core Concept / Correct Fact:** Meridians converge at the poles. $1^\circ$ of longitude shrinks from **$\approx 111\text{ km}$ at the equator** to **$\approx 56\text{ km}$ at $60^\circ\text{ N/S}$** and **$0\text{ km}$ at the poles**. (Latitude linear distance remains approximately constant $\approx 111\text{ km}$).
-- **Next Revisit Due:** 2026-08-16 (15 days)
-- **Status:** Pending (Attempt 1)
