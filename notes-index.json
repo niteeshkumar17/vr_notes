@@ -2,7 +2,7 @@
     "GS_Geography_VR_Notes": [
         {
             "file": "01_Fundamentals_of_Geography.md",
-            "title": "Fundamentals Of Geography"
+            "title": "01 Fundamentals Of Geography"
         }
     ],
     "GS_History_VR_Notes": [
@@ -13,20 +13,60 @@
     ],
     "Articles": [
         {
+            "file": "Article_102.md",
+            "title": "Article 102"
+        },
+        {
             "file": "Article_14.md",
             "title": "Article 14"
+        },
+        {
+            "file": "Article_142.md",
+            "title": "Article 142"
         },
         {
             "file": "Article_16.md",
             "title": "Article 16"
         },
         {
+            "file": "Article_162.md",
+            "title": "Article 162"
+        },
+        {
+            "file": "Article_163.md",
+            "title": "Article 163"
+        },
+        {
+            "file": "Article_164.md",
+            "title": "Article 164"
+        },
+        {
             "file": "Article_19.md",
             "title": "Article 19"
         },
         {
+            "file": "Article_191.md",
+            "title": "Article 191"
+        },
+        {
             "file": "Article_21.md",
             "title": "Article 21"
+        },
+        {
+            "file": "Article_21A.md",
+            "title": "Article 21A"
+        },
+        {
+            "file": "Article_246.md",
+            "title": "Article 246"
+        },
+        {
+            "file": "Article_45.md",
+            "title": "Article 45"
+        },
+        {
+            "file": "Article_46.md",
+            "title": "Article 46"
         },
         {
             "file": "Article_48A.md",
@@ -34,7 +74,15 @@
         },
         {
             "file": "Article_51A_g.md",
-            "title": "Article 51A(g)"
+            "title": "Article 51A G"
+        },
+        {
+            "file": "Article_74.md",
+            "title": "Article 74"
+        },
+        {
+            "file": "Article_75.md",
+            "title": "Article 75"
         },
         {
             "file": "Article_81.md",
@@ -43,28 +91,28 @@
         {
             "file": "Article_82.md",
             "title": "Article 82"
-        },
-        {
-            "file": "Article_142.md",
-            "title": "Article 142"
-        },
-        {
-            "file": "Article_162.md",
-            "title": "Article 162"
         }
     ],
     "Current_Affairs": [
         {
             "file": "2026-07-28_Current_Affairs.md",
-            "title": "Current Affairs"
+            "title": "2026-07-28 Current Affairs"
         },
         {
             "file": "2026-07-29_Current_Affairs.md",
-            "title": "Current Affairs"
+            "title": "2026-07-29 Current Affairs"
+        },
+        {
+            "file": "2026-07-30_Current_Affairs.md",
+            "title": "2026-07-30 Current Affairs"
         },
         {
             "file": "2026-07-31_Current_Affairs.md",
-            "title": "Current Affairs"
+            "title": "2026-07-31 Current Affairs"
+        },
+        {
+            "file": "2026-08-01_Current_Affairs.md",
+            "title": "2026-08-01 Current Affairs"
         }
     ]
 }
