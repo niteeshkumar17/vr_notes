@@ -13,8 +13,44 @@
     ],
     "Articles": [
         {
-            "file": "Articles.md",
-            "title": "Articles"
+            "file": "Article_14.md",
+            "title": "Article 14"
+        },
+        {
+            "file": "Article_16.md",
+            "title": "Article 16"
+        },
+        {
+            "file": "Article_19.md",
+            "title": "Article 19"
+        },
+        {
+            "file": "Article_21.md",
+            "title": "Article 21"
+        },
+        {
+            "file": "Article_48A.md",
+            "title": "Article 48A"
+        },
+        {
+            "file": "Article_51A_g.md",
+            "title": "Article 51A(g)"
+        },
+        {
+            "file": "Article_81.md",
+            "title": "Article 81"
+        },
+        {
+            "file": "Article_82.md",
+            "title": "Article 82"
+        },
+        {
+            "file": "Article_142.md",
+            "title": "Article 142"
+        },
+        {
+            "file": "Article_162.md",
+            "title": "Article 162"
         }
     ],
     "Current_Affairs": [
