@@ -1,28 +1,34 @@
-﻿{
-    "GS_Geography_VR_Notes":  [
-                                  {
-                                      "file":  "01_Fundamentals_of_Geography.md",
-                                      "title":  "Fundamentals Of Geography"
-                                  }
-                              ],
-    "GS_History_VR_Notes":  [
-                                {
-                                    "file":  "Early_Modern_India.md",
-                                    "title":  "Early Modern India"
-                                }
-                            ],
-    "Current_Affairs":  [
-                            {
-                                "file":  "2026-07-28_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "2026-07-29_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "2026-07-31_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            }
-                        ]
+{
+    "GS_Geography_VR_Notes": [
+        {
+            "file": "01_Fundamentals_of_Geography.md",
+            "title": "Fundamentals Of Geography"
+        }
+    ],
+    "GS_History_VR_Notes": [
+        {
+            "file": "Early_Modern_India.md",
+            "title": "Early Modern India"
+        }
+    ],
+    "GS_Polity_VR_Notes": [
+        {
+            "file": "Important_Constitutional_Articles.md",
+            "title": "Important Constitutional Articles"
+        }
+    ],
+    "Current_Affairs": [
+        {
+            "file": "2026-07-28_Current_Affairs.md",
+            "title": "Current Affairs"
+        },
+        {
+            "file": "2026-07-29_Current_Affairs.md",
+            "title": "Current Affairs"
+        },
+        {
+            "file": "2026-07-31_Current_Affairs.md",
+            "title": "Current Affairs"
+        }
+    ]
 }
