@@ -191,10 +191,24 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 #### B. The Poligar Revolts & Cultural Resistance
 *   **Poligar/Nayak System Evolution**:
-    
-    ![Poligar System Evolution flowchart](./images/poligar_flowchart.png)
-    
-    *(Note: This infographic was AI-generated based on the handwritten flowchart to visually map the transition of power from Vijayanagar down to the Zamindary conflicts).*
+
+| `[ I ]` | `[ II ]` | `[ III ]` | `[ IV ]` |
+| :--- | :--- | :--- | :--- |
+| **V. Nagar** | **NAYAK of Mysore** | **Haider** | **British wants** |
+| ↓ | ↓ | mili-fiscalism | control of commerce |
+| **NAYAKS** | **Polygars** | RISALA | ↓ *(conflicts)* |
+| ↓ | ↓ | ↓ | |
+| **Polygars** | **Piada** | **Polygars** | |
+| ↳ | ↳ | *Zamindary* | |
+| | | ↓ | |
+| | | **Polygars revolted** <br> *(1798-1801)* | |
+
+<br>
+
+| `[ V ]` | TIRUNELVELI |
+| :--- | :--- |
+| **Brit esta mili regiments** <br> - recruit locals | **leader: Marudu Pandyans** <br> - TIPU died 1799 (A symbol head) |
+| **Brit intro a reform** <br> - a new head cap (cow / pig) <br> - NO VIBHUTI | **SRIRANGAM temple wall** <br> *"People of diff caste, class, creed & sect of JAMBUDVIPA unite against Mlechha"* <br> Brit quashed the revolt. |
 *   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
 *   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
 *   **Srirangam Temple Wall Inscription**: The Marudu Pandyans wrote the first inscription for India's independence: *"People of different caste, class, creed & religion unite... religion of Jambudvipa. Unite against the Mlechha (foreigners)."*
