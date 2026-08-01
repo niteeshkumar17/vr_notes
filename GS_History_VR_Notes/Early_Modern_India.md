@@ -190,7 +190,27 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     4.  **4th War (1799)**: Triggered by the **Malartic Proclamation** (French Governor Malartic recklessly promised Tipu military help to recover lost lands, angering the British). Tipu died fighting Lord Wellesley. His daughter (Noor-al-Nissa) was placed under house arrest in India (to marry a local zamindar).
 
 #### B. The Poligar Revolts & Cultural Resistance
-*   **Poligar/Nayak System**: Descended from Vijayanagar (Nayaks) -> Poligars (revenue collectors) -> Piada. 
+*   **Poligar/Nayak System Evolution**:
+```mermaid
+flowchart TD
+    %% Phase I & II
+    VN[Vijayanagar] --> N1[Nayaks]
+    N1 --> P1[Polygars]
+    
+    NM[NAYAK of Mysore] --> P2[Polygars]
+    P2 --> Piada[Piada]
+    
+    %% Convergence to Zamindary System
+    P1 --> P3[Polygars\nZamindary System]
+    P2 --> P3
+    
+    %% Phase III & IV
+    H[Haider Ali\nMili-fiscalism / RISALA] --> P3
+    B1[British wanted\ncontrol of commerce] -.->|Conflicts| P3
+    
+    %% Revolt
+    P3 --> R[Polygars Revolted\n1798-1801]
+```
 *   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
 *   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
 *   **Srirangam Temple Wall Inscription**: The Marudu Pandyans wrote the first inscription for India's independence: *"People of different caste, class, creed & religion unite... religion of Jambudvipa. Unite against the Mlechha (foreigners)."*
