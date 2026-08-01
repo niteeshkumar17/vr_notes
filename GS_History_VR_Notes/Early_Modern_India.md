@@ -191,53 +191,23 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 #### B. The Poligar Revolts & Cultural Resistance
 *   **Poligar/Nayak System Evolution**:
-```mermaid
-flowchart LR
-    subgraph I ["[ I ]"]
-        direction TB
-        n1["V. Nagar"] --> n2["NAYAKS"] --> n3["Polygars"]
-    end
+| `[ I ]` | `[ II ]` | `[ III ]` | `[ IV ]` |
+| :--- | :--- | :--- | :--- |
+| **V. Nagar** | **NAYAK of Mysore** | **Haider** | **British wants** |
+| ↓ | ↓ | mili-fiscalism | control of commerce |
+| **NAYAKS** | **Polygars** | RISALA | ↓ *(conflicts)* |
+| ↓ | ↓ | ↓ | |
+| **Polygars** | **Piada** | **Polygars** | |
+| ↳ | ↳ | *Zamindary* | |
+| | | ↓ | |
+| | | **Polygars revolted** <br> *(1798-1801)* | |
 
-    subgraph II ["[ II ]"]
-        direction TB
-        n4["NAYAK of Mysore"] --> n5["Polygars"] --> n6["Piada"]
-    end
+<br>
 
-    subgraph III ["[ III ]"]
-        direction TB
-        n7["Haider"] --> n8["mili-fiscalism<br>RISALA"] --> n9["Polygars"]
-    end
-
-    subgraph IV ["[ IV ]"]
-        direction TB
-        n10["British wants"] --> n11["control of<br>commerce"]
-    end
-
-    n3 --> n9
-    n5 --> n9
-    n11 -->|"conflicts"| n9
-    
-    n9 --- n12["Zamindary"]
-    n9 --> n13["- Polygars revolted<br>(1798-1801)"]
-
-    subgraph V ["[ V ]"]
-        direction TB
-        v1["Brit esta mili regiments<br>- recruit locals"]
-        v2["Brit intro a reform<br>- a new head cap (cow/pig)<br>- NO VIBHUTI"]
-        v1 ~~~ v2
-    end
-    
-    subgraph TIRUNELVELI ["TIRUNELVELI"]
-        direction TB
-        t1["leader: Marudu Pandyans<br>- TIPU died 1799<br>(A symbol head)"]
-        t2["SRIRANGAM temple wall<br>'People of diff caste, class,<br>creed & sect of JAMBUDVIPA<br>unite against Mlechha'<br>Brit quashed the revolt."]
-        t1 ~~~ t2
-    end
-
-    %% Invisible links to align the bottom sections
-    n12 ~~~ V
-    n13 ~~~ TIRUNELVELI
-```
+| `[ V ]` | TIRUNELVELI |
+| :--- | :--- |
+| **Brit esta mili regiments** <br> - recruit locals | **leader: Marudu Pandyans** <br> - TIPU died 1799 (A symbol head) |
+| **Brit intro a reform** <br> - a new head cap (cow / pig) <br> - NO VIBHUTI | **SRIRANGAM temple wall** <br> *"People of diff caste, class, creed & sect of JAMBUDVIPA unite against Mlechha"* <br> Brit quashed the revolt. |
 *   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
 *   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
 *   **Srirangam Temple Wall Inscription**: The Marudu Pandyans wrote the first inscription for India's independence: *"People of different caste, class, creed & religion unite... religion of Jambudvipa. Unite against the Mlechha (foreigners)."*
