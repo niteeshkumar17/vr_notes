@@ -1,16 +1,4 @@
 {
-    "GS_Geography_VR_Notes": [
-        {
-            "file": "01_Fundamentals_of_Geography.md",
-            "title": "01 Fundamentals Of Geography"
-        }
-    ],
-    "GS_History_VR_Notes": [
-        {
-            "file": "Early_Modern_India.md",
-            "title": "Early Modern India"
-        }
-    ],
     "Articles": [
         {
             "file": "Article_102.md",
@@ -93,26 +81,40 @@
             "title": "Article 82"
         }
     ],
-    "Current_Affairs": [
+    "Current_Affairs_August_2026": [
         {
-            "file": "August_2026/2026-08-01_Current_Affairs.md",
+            "file": "2026-08-01_Current_Affairs.md",
             "title": "2026-08-01 Current Affairs"
-        },
+        }
+    ],
+    "Current_Affairs_July_2026": [
         {
-            "file": "July_2026/2026-07-28_Current_Affairs.md",
+            "file": "2026-07-28_Current_Affairs.md",
             "title": "2026-07-28 Current Affairs"
         },
         {
-            "file": "July_2026/2026-07-29_Current_Affairs.md",
+            "file": "2026-07-29_Current_Affairs.md",
             "title": "2026-07-29 Current Affairs"
         },
         {
-            "file": "July_2026/2026-07-30_Current_Affairs.md",
+            "file": "2026-07-30_Current_Affairs.md",
             "title": "2026-07-30 Current Affairs"
         },
         {
-            "file": "July_2026/2026-07-31_Current_Affairs.md",
+            "file": "2026-07-31_Current_Affairs.md",
             "title": "2026-07-31 Current Affairs"
+        }
+    ],
+    "GS_Geography_VR_Notes": [
+        {
+            "file": "01_Fundamentals_of_Geography.md",
+            "title": "01 Fundamentals Of Geography"
+        }
+    ],
+    "GS_History_VR_Notes": [
+        {
+            "file": "Early_Modern_India.md",
+            "title": "Early Modern India"
         }
     ]
 }
