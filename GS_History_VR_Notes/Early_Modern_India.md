@@ -10,6 +10,7 @@
 ### Conceptual Transition: Medieval to Modern India
 *   **Defining Shift**: The fundamental difference between Medieval India and Modern India is the **rise of Kingmaker Nobles**. 
 *   In Medieval India, sovereign power resided in the Emperor. In Early Modern India, weak emperors became figureheads, while powerful noble factions (Zulfiqar Khan, Sayyid Brothers, Nizam-ul-Mulk) controlled administration, finances, and imperial succession.
+*   **Incompetence & Dispersion**: Incompetent favorites took over court positions, driving out old experienced nobles, directly triggering imperial breakdown.
 
 ---
 
@@ -65,34 +66,48 @@
 #### F. Muhammad Shah 'Rangeela' (1719–1748)
 *   **Accession**: Placed on the throne by the Sayyid Brothers.
 *   **Elimination of Sayyid Brothers**: Muhammad Shah allied with **Nizam-ul-Mulk** (Chin Qilich Khan) to assassinate the Sayyid Brothers.
-*   **Catalyst for Disintegration**: Rangeela's hedonism, obsession with music/dance, and neglect of governance caused imperial authority to crumble.
+*   **Catalyst for Disintegration**: Rangeela's hedonism, obsession with music/dance, and replacement of old nobles with incompetent favorites caused imperial authority to break down completely.
 
 ---
 
-## 2. Disintegration of the Mughal Empire
+## 2. Disintegration of the Mughal Empire (The 8–3–4 Formula)
 
-### Regional Classification of States
+### Regional Classification of 15 Early Modern Entities
 
-#### A. 8 Successor States (Former Mughal Provinces)
-1.  **Hyderabad**: Chin Qilich Khan (Nizam-ul-Mulk) — Godavari Basin; founded 1724 after Battle of Shakr Kheda.
-2.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
-3.  **Awadh**: Saadat Khan (Burhan-ul-Mulk) — Ganges-Yamuna Doab; founded 1724; committed suicide in 1739.
-4.  **Punjab**: Zakariya Khan — Sutlej River boundary.
-5.  **Rajputana (Jaipur/Jodhpur)**: Sawai Jai Singh (Jaipur) & Ajit Singh (Jodhpur).
-6.  **Arcot**: Sadatullah Khan — Carnatic region.
-7.  **Rohillas**: Khan Bahadur of Kumaon.
-8.  **Bangash**: Muhammad Bangash.
+#### A. 8 Successor States (Broke away directly from Mughals)
+1.  **Punjab**: Zakariya Khan (semi-independent governor).
+2.  **Bangash**: Muhammad Bangash (Pathan region bordering UP/Farrukhabad).
+3.  **Rohillas**: Khan Bahadur of Kumaon (Garhwal/Kumaon hills).
+4.  **Awadh**: Saadat Khan (Burhan-ul-Mulk) — Ganges-Yamuna Doab; founded 1724.
+5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
+6.  **Rajputana**:
+    *   *Jodhpur*: Ajit Singh.
+    *   *Jaipur*: Sawai Jai Singh (*Note: "Sawai" signifies a minor/child prince appointed as head*).
+7.  **Hyderabad**: Chin Qilich Khan (Nizam-ul-Mulk) — Godavari Basin; founded 1724 (Battle of Shakr Kheda).
+8.  **Arcot**: Sadatullah Khan — Carnatic region.
 
-#### B. 3 Outsider States (Independent Regions)
-1.  **Travancore**: Martanda Varma — Defeated Dutch Navy at Battle of Colachel (1741).
-2.  **Ahoms (Assam)**: Chaolung Sukhapa — Annexed by British in 1826 (Treaty of Yandabo).
+#### B. 3 Outsider States (Independent Regional Powers)
+1.  **Travancore (Kerala)**: Martanda Varma — Defeated Dutch Navy at Battle of Colachel (1741).
+2.  **Ahoms (Assam)**: Chaolung Sukhapa — Annexed by British in 1826 under the **Treaty of Yandabo**.
 3.  **Mysore**: Wodeyar dynasty / Hyder Ali — Kaveri Basin.
 
 #### C. 4 Enemy States (Anti-Mughal Powers)
-1.  **Jats of Bharatpur**: Suraj Mal (*known as the 'Plato of the Jat tribe' / Ulysses*).
+1.  **Jats of Bharatpur**: Suraj Mal — Yamuna Basin; known as the **"Plato of the Jats"** and **"Ulysses of the Jats"**.
 2.  **Sikhs**: Misls & Dal Khalsa.
 3.  **Iranians & Afghans**: Nadir Shah & Ahmad Shah Abdali.
 4.  **Marathas**: Extracted 25% Chauth & 10% Sardeshmukhi across Deccan.
+
+---
+
+### High-Yield UPSC Mains Focus (7 Critical Entities)
+Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 (15-mark questions)**:
+1.  **Punjab & Sikhs**
+2.  **Awadh**
+3.  **Bengal**
+4.  **Hyderabad**
+5.  **Mysore**
+6.  **Iranians & Afghans**
+7.  **Marathas**
 
 ---
 
