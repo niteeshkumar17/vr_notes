@@ -174,44 +174,44 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 #### A. Mysore & Anglo-Mysore Rivalry
 *   **Haider Ali (1720–1782)**:
-    *   Established a **Military-Fiscal State** by implementing the **Risala System** (direct state control of military and economy, bypassing local Poligars/Nayaks).
-    *   Formed an alliance with the French and established the **first modern artillery factory** at **Dindigul** (1755).
+    *   Began as a *Piada* (military agent). Established a **Military-Fiscal State** by implementing the **Risala System** (direct state control of military and economy, bringing him into direct conflict with local Poligars).
+    *   Formed an alliance with France; established the **first modern artillery factory** at **Dindigul** (1755).
     *   Indirectly supported America's War of Independence against the British.
 *   **Tipu Sultan (d. 1799)**:
-    *   Legitimized his rule by seeking permission from the highest Islamic authority, the **Caliph (Ottoman Shah)**.
-    *   Issued new coinage known as **'Paisa'**.
+    *   **The First Modern State**: Recognized as the "father of multilateralism in India" because he established independent relations globally.
+    *   Legitimized his rule by taking permission from the highest Islamic authority, the **Caliph (Ottoman Shah)**, rather than the Mughals. This granted him the right to issue new coinage known as **'Paisa'**.
     *   Established foreign embassies in Istanbul, Paris, Cairo, Iran, and Iraq.
     *   In alliance with the French, developed **modern rockets**.
-    *   Deeply inspired by the French Revolution: established a **Jacobin Society** (Blue-Rock) and planted the **Tree of Liberty** at Srirangapatnam.
+    *   Deeply inspired by the French Revolution: established a **Jacobin Society** (symbolizing liberty) and planted the **Tree of Liberty** at Srirangapatnam. Built the first Indian dam.
 *   **Anglo-Mysore Wars**:
-    1.  **1st War (1767–69)**: Haider Ali defeated the English. Concluded with the **Treaty of Madras** (English forced to accept a defensive border).
-    2.  **2nd War (1780–84)**: Haider died in 1782, Tipu continued till 1784. The Mysoreans emerged victorious. Concluded with the **Treaty of Mangalore** (English officially recognized the Mysore State, and the French Governor promised to aid Tipu).
-    3.  **3rd War (1790–92)**: An overwhelming coalition of **Cornwallis + Marathas + Hyderabad** fought Tipu. Concluded with the harsh **Treaty of Srirangapatnam** (Mysore lost half its territory; 2 of Tipu's sons were sent as hostages to London/Cornwallis).
-    4.  **4th War (1799)**: Triggered by the *Malabar Proclamation*. Tipu died fighting Lord Wellesley at the **Battle of Srirangapatnam**. His daughter (Noor-al-Nissa) was placed under house arrest and later married into the Vellore fort, culminating in the **1806 Vellore Mutiny**.
+    1.  **1st War (1767–69)**: Haider Ali defeated the English. Concluded with the **Treaty of Madras**. *Context:* The English were forced to accept a defensive territoriality; the modern concept of a "border" was formulated for the first time here.
+    2.  **2nd War (1780–84)**: Haider died in 1782, Tipu took over. Concluded with the **Treaty of Mangalore**. *Context:* English officially recognized Mysore as a 'state' with sovereignty. The lecturer compared this to India's **Treaty of Westphalia (1648)**.
+    3.  **3rd War (1790–92)**: Lord Cornwallis (arriving after losing America) formed an overwhelming coalition (English + Marathas + Hyderabad) against Tipu. Concluded with the harsh **Treaty of Srirangapatnam** (Mysore lost half its territory; 2 of Tipu's sons were sent as hostages to London).
+    4.  **4th War (1799)**: Triggered by the **Malartic Proclamation** (French Governor Malartic recklessly promised Tipu military help to recover lost lands, angering the British). Tipu died fighting Lord Wellesley. His daughter (Noor-al-Nissa) was placed under house arrest in India (to marry a local zamindar).
 
 #### B. The Poligar Revolts & Cultural Resistance
-*   **Poligar/Nayak System**: Originally descending from Vijayanagar (Nayaks of Mysore/Tanjore) $\rightarrow$ Poligars $\rightarrow$ Piada.
-*   Haider Ali's Risala system and British Zamindary systems threatened the Poligars' military and economic control, leading to the **Poligar Revolts (1790–1801)**.
-*   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**.
-*   **Cultural Resistance**: Following Tipu's death, the British forced reforms upon the native soldiers (e.g., introducing a new head cap made of cow/pig leather and banning the *Vibhuti* mark).
-*   **Srirangam Temple Wall Inscription**: A famous call to arms declaring, *"People of different caste, class, creed & sect of Jambudvipa must unite against the Mlechha (foreigners)."*
+*   **Poligar/Nayak System**: Descended from Vijayanagar (Nayaks) $\rightarrow$ Poligars (revenue collectors) $\rightarrow$ Piada. 
+*   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
+*   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
+*   **Srirangam Temple Wall Inscription**: The Marudu Pandyans wrote the first inscription for India's independence: *"People of different caste, class, creed & religion unite... religion of Jambudvipa. Unite against the Mlechha (foreigners)."*
+*   **Vellore Mutiny (1806)**: The British recruited defeated Poligars into a regiment and forced reforms (cow/pig fat leather head caps with crosses, banning the *Vibhuti*). During the wedding feast of Tipu's daughter inside Vellore Fort, the gates were open. Angry locals stormed in, killed 256 British soldiers, and fought in Tipu Sultan's name.
 
 #### C. Hyderabad & Carnatic Wars
 *   **Foundation of Hyderabad**:
     *   Founded by **Chin Qilich Khan (Nizam-ul-Mulk / Asaf Jah)** in 1724.
-    *   Mughal Emperor Muhammad Shah Rangeela ordered the then Governor of Deccan, Mubariz Khan, to kill him. Instead, Chin killed Mubariz at the **Battle of Shakar Kheda (1724)**.
-    *   Chin Qilich Khan never formally declared independence; he pledged loyalty and ensured the Deccan nominally remained part of the Mughal Empire.
+    *   He left Delhi for the Deccan without Mughal Emperor Muhammad Shah Rangeela's permission. Rangeela ordered Mubariz Khan to kill him, but Chin killed Mubariz at the **Battle of Shakar Kheda (1724)**.
+    *   Chin wrote a letter to Rangeela pledging absolute loyalty. *Context:* He never formally declared independence, ensuring he bought time against the Mughals, but this made the Marathas his enemies.
 *   **Hyderabad Successors**:
-    1.  **Nasir Jung** (1748–51).
-    2.  **Muzaffar Jung** (1751–54).
-    3.  **Salabat Jung**.
-    4.  **Nizam Ali (Asaf Jah II)**: Signed the Subsidiary Alliance in **1798** (first state to do so).
+    1.  **Nasir Jung** (Son, 1748–51) vs **Muzaffar Jung** (Grandson, 1751–54) civil war.
+    2.  **Salabat Jung**.
+    3.  **Nizam Ali (Asaf Jah II)**: Signed the Subsidiary Alliance with Wellesley in **1798** (the very first Indian state to do so).
 *   **The Carnatic Wars (Anglo-French Rivalry)**:
-    1.  **1st Carnatic War (1746–48)**: A spillover of the **Austrian War of Succession** in Europe. The French captured Madras. Ended with the **Treaty of Aix-la-Chapelle** (Madras returned to the English).
-    2.  **2nd Carnatic War (1749–54)**: A proxy war over succession in Hyderabad (Nasir Jung supported by English vs. Muzaffar Jung supported by French/Dupleix) and Arcot (Anwar-ud-din vs. Chanda Sahib).
-        *   **Robert Clive (1751)**: With just 35 men, captured Arcot and killed Chanda Sahib.
-        *   The French monarchy recalled Dupleix, replacing him with Godeheu & Lally. Concluded with the **Treaty of Pondicherry** (Status Quo).
-    3.  **3rd Carnatic War (1756–63)**: A spillover of the **Seven Years' War** in Europe.
+    1.  **1st Carnatic War (1746–48)**: A direct spillover of the **Austrian War of Succession** in Europe. The French captured Madras. Ended with the **Treaty of Aix-la-Chapelle** (Madras returned to the English). *Context:* The French soldiers fought and died, but the French Emperor returned everything, heavily angering the French Governor in India.
+    2.  **2nd Carnatic War (1749–54)**: A proxy war. English backed Nasir Jung (Hyderabad) & Anwar-ud-din (Arcot). French/Dupleix backed Muzaffar Jung & Chanda Sahib (kidnapped earlier by Marathas at the Battle of Damalcherry).
+        *   Anwar-ud-din was killed (Battle of Ambur); his son hid in the impregnable fort of Trichinopoly. Dupleix wasted 1.5 years trying to breach it, exhausting French funds.
+        *   **Robert Clive (1751)**: A 24-year-old boy took a massive risk, attacking Arcot in the middle of the night with just 35 men and capturing it.
+        *   French monarch recalled the corrupt/failed Dupleix, replacing him with Godeheu & Lally. Concluded with the **Treaty of Pondicherry** (Status Quo).
+    3.  **3rd Carnatic War (1756–63)**: A spillover of Europe's **Seven Years' War**.
         *   English Col. Forde captured Jinji & Rajahmundry.
         *   **Battle of Wandiwash (1760)**: Col. Eyre Coote decisively defeated the French and captured Pondicherry.
         *   Ended with the **Treaty of Paris (1763)**: French were allowed to keep settlements but completely banned from military engagement in India.
@@ -225,8 +225,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **The Peshwa Era**:
     1.  **Balaji Vishwanath (1713–1720)**: Solidified the Peshwa's power; promised Chhatrapati Shahuji 30% of total revenue.
     2.  **Baji Rao I (1720–1740)**: The "Father of Maratha Imperialism".
-        *   Defeated Nizam of Hyderabad at **Battle of Palkhed (1728)** $\rightarrow$ *Treaty of Mungi-Shivgaon* (Nizam pays Chauth).
-        *   Defeated Nizam again at **Battle of Bhopal (1737)** $\rightarrow$ *Treaty of Bhopal* (Marathas gain Malwa & Bundelkhand).
+        *   Defeated Chin Qilich Khan (Nizam) at **Battle of Palkhed (1728)** $\rightarrow$ *Treaty of Mungi-Shivgaon* (Nizam pays Chauth).
+        *   Defeated Nizam again at **Battle of Bhopal (1737)** $\rightarrow$ *Treaty of Bhopal* (Marathas gain Malwa & Bundelkhand, Nizam pays 50 lakhs).
         *   Captured Salsette and Bassein from the Portuguese (1739).
     3.  **Balaji Baji Rao / Nana Saheb (1740–1761)**:
         *   1751: Marathas (Raghuji Bhonsle) defeated Alivardi Khan of Bengal, demanding Chauth from Odisha.
