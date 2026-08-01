@@ -52,7 +52,7 @@
 *   **Key Actions & Reforms**:
     *   **Abolished Jaziya** nationwide permanently.
     *   **1716**: Executed **Banda Bahadur**, temporarily suppressing the Sikh uprising.
-    *   **1717**: Issued the **Golden Farman** to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption).
+    *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹30,000**. *(Note: This exemption strictly applied to official EIC trade, NOT to the private trade of Company servants).*
 *   **Maratha Coalition & Imperial Execution**:
     1.  Peshwa **Balaji Vishwanath** proposed **Dual Governance** directly to Farrukh Siyar in 1716 (North to Mughals, South Swaraj to Marathas with 25% *Chauth* tax). Farrukh Siyar rejected it.
     2.  Balaji Vishwanath approached the real powerholders, **Sayyid Husain Ali Khan** and **Abdullah Khan**.
@@ -78,7 +78,10 @@
 1.  **Punjab**: Zakariya Khan (semi-independent governor).
 2.  **Bangash**: Muhammad Bangash (Pathan region bordering UP/Farrukhabad).
 3.  **Rohillas**: Khan Bahadur of Kumaon (Garhwal/Kumaon hills).
-4.  **Awadh**: Saadat Khan (Burhan-ul-Mulk) — Ganges-Yamuna Doab; founded 1724.
+4.  **Awadh**: 
+    *   Founded as a semi-independent state in 1724 by **Saadat Khan (Burhan-ul-Mulk)** in the Ganges-Yamuna Doab.
+    *   **Nawab Asaf-ud-Daulah (1775)**: Shifted the capital from Faizabad to Lucknow and built the magnificent Bara Imambara as a famine relief project.
+    *   **Nawab Saadat Khan II (1801)**: Signed the Subsidiary Alliance with Lord Wellesley, surrendering half of Awadh's territory (Rohilkhand & Lower Doab) to the EIC.
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.

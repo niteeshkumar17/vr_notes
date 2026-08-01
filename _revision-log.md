@@ -27,6 +27,21 @@
 
 *(Most recent first)*
 
+### Session 5 — 2026-08-01
+- **Subject:** GS_History_VR_Notes
+- **Topic:** Early Modern India (Later Mughals, Sikhs, Disintegration 8-3-4, Foreign Invasions)
+- **Format:** 5 Prelims MCQs (with -1/3 negative marking)
+- **Score:** 8.00 / 10.00 (Accuracy: 80.0% — 4/5 correct)
+- **Strengths:** 
+  - Perfect recall on the 8-3-4 disintegration formula (Mysore/Jat/Travancore classification).
+  - Excellent understanding of Sikh evolution (Banda Bahadur's appointment and Treaty of Amritsar 1809/1846 boundary clauses).
+  - Mastered the nuances of Kingmaker strategies (Zulfiqar abolishing Jaziya, Sayyid brothers executing Farrukh Siyar).
+  - Strong grasp on foreign invasion triggers (Nadir Shah pretext and Panipat trigger).
+- **Weak Spots:**
+  - *Awadh:* Still confusing Asaf-ud-Daulah's capital shift (1775) with Saadat Khan II's Subsidiary Alliance (1801).
+  - *1717 Farman:* Forgot that Dastaks strictly applied to EIC official trade, not private trade.
+- **Next Revisit Due:** 2026-08-04 (Spaced-repetition: Day 3 reset for missed topics)
+
 ### Session 4 — 2026-08-01
 - **Subject:** GS_Geography_VR_Notes
 - **Topic:** 01 — Fundamentals of Geography (Whole Notes Mega Revision: Geodesy, Great Circles, Seasonality Rules, Heat Balance, Fronts, Time Math, IMC 1884, IDL, DST, Zulu Time)
