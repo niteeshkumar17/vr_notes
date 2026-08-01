@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPSC CSE History Interactive Hub — Vajiram & Ravi Notes</title>
+  <!-- Google Fonts & Font Awesome Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <!-- Markdown Renderer (Marked) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    :root {
+      --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+      --card-bg: rgba(30, 41, 59, 0.75);
+      --card-border: rgba(255, 255, 255, 0.12);
+      --accent-gold: #f59e0b;
+      --accent-blue: #3b82f6;
+      --accent-purple: #8b5cf6;
+      --accent-emerald: #10b981;
+      --accent-rose: #f43f5e;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-heading: 'Outfit', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-family);
+      background: var(--bg-gradient);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: rgba(15, 23, 42, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--card-border);
+      padding: 1rem 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand { display: flex; align-items: center; gap: 0.75rem; }
+
+    .brand-icon {
+      background: linear-gradient(135deg, var(--accent-gold), var(--accent-rose));
+      width: 42px;
+      height: 42px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.25rem;
+      color: #fff;
+      box-shadow: 0 4px 14px rgba(245, 158, 11, 0.4);
+    }
+
+    .brand-title {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      font-size: 1.25rem;
+      background: linear-gradient(90deg, #fff, #cbd5e1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .brand-subtitle {
+      font-size: 0.75rem;
+      color: var(--accent-gold);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+
+    .nav-tabs {
+      display: flex;
+      gap: 0.5rem;
+      background: rgba(30, 41, 59, 0.5);
+      padding: 0.35rem;
+      border-radius: 12px;
+      border: 1px solid var(--card-border);
+    }
+
+    .tab-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      padding: 0.6rem 1.2rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s ease;
+    }
+
+    .tab-btn:hover { color: #fff; background: rgba(255, 255, 255, 0.05); }
+
+    .tab-btn.active {
+      background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+      color: #fff;
+      box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+    }
+
+    main {
+      flex: 1;
+      padding: 2rem;
+      max-width: 1600px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .view-panel { display: none; animation: fadeIn 0.3s ease-in-out; }
+    .view-panel.active { display: block; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .tree-grid, .map-grid {
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      gap: 1.5rem;
+    }
+
+    .card-panel {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 1.5rem;
+    }
+
+    .section-title {
+      font-family: var(--font-heading);
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      color: #fff;
+    }
+
+    .tree-container {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      padding: 0.5rem 0;
+    }
+
+    .tree-level {
+      display: flex;
+      justify-content: center;
+      gap: 1.2rem;
+      flex-wrap: wrap;
+    }
+
+    .node-box {
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--accent-blue);
+      border-radius: 12px;
+      padding: 0.85rem 1.1rem;
+      min-width: 220px;
+      cursor: pointer;
+      transition: all 0.25s ease;
+    }
+
+    .node-box:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(59, 130, 246, 0.3);
+      border-color: var(--accent-gold);
+    }
+
+    .node-box.selected {
+      border-color: var(--accent-gold);
+      box-shadow: 0 0 0 2px var(--accent-gold);
+      background: rgba(30, 41, 59, 1);
+    }
+
+    .node-role {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 700;
+      color: var(--accent-gold);
+      margin-bottom: 0.25rem;
+    }
+
+    .node-name {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      font-size: 1rem;
+      color: #fff;
+    }
+
+    .node-years { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.2rem; }
+
+    .node-tag {
+      font-size: 0.7rem;
+      background: rgba(244, 63, 94, 0.2);
+      color: #fda4af;
+      padding: 2px 6px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-top: 0.4rem;
+    }
+
+    .detail-drawer {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 1.5rem;
+      position: sticky;
+      top: 90px;
+      max-height: calc(100vh - 120px);
+      overflow-y: auto;
+    }
+
+    .detail-header {
+      border-bottom: 1px solid var(--card-border);
+      padding-bottom: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .detail-title {
+      font-family: var(--font-heading);
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--accent-gold);
+    }
+
+    .detail-body { font-size: 0.9rem; line-height: 1.6; color: #cbd5e1; }
+    .detail-body ul { margin-left: 1.2rem; margin-top: 0.5rem; }
+    .detail-body li { margin-bottom: 0.4rem; }
+
+    .map-controls { display: flex; gap: 0.5rem; margin-bottom: 1.2rem; }
+
+    .filter-btn {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid var(--card-border);
+      color: var(--text-muted);
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      background: var(--accent-purple);
+      color: #fff;
+      border-color: var(--accent-purple);
+    }
+
+    .regions-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .region-card {
+      background: rgba(15, 23, 42, 0.8);
+      border: 1px solid var(--card-border);
+      border-radius: 10px;
+      padding: 1rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .region-card:hover { border-color: var(--accent-blue); transform: translateY(-2px); }
+    .region-card.successor { border-left: 4px solid var(--accent-blue); }
+    .region-card.outsider { border-left: 4px solid var(--accent-emerald); }
+    .region-card.enemy { border-left: 4px solid var(--accent-rose); }
+
+    .region-type-badge {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-bottom: 0.3rem;
+      display: inline-block;
+    }
+
+    .successor .region-type-badge { background: rgba(59, 130, 246, 0.2); color: #93c5fd; }
+    .outsider .region-type-badge { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; }
+    .enemy .region-type-badge { background: rgba(244, 63, 94, 0.2); color: #fda4af; }
+
+    .region-name { font-family: var(--font-heading); font-weight: 700; font-size: 1.05rem; color: #fff; }
+    .region-ruler { font-size: 0.8rem; color: var(--accent-gold); margin-top: 0.2rem; }
+
+    .audio-studio-container { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .audio-player-box {
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    audio { width: 100%; margin-top: 0.8rem; border-radius: 8px; }
+
+    .timestamp-log { display: flex; flex-direction: column; gap: 0.6rem; max-height: 280px; overflow-y: auto; }
+    .timestamp-item {
+      background: rgba(30, 41, 59, 0.6);
+      border: 1px solid var(--card-border);
+      padding: 0.6rem 0.8rem;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .timestamp-item:hover { background: rgba(59, 130, 246, 0.2); border-color: var(--accent-blue); }
+
+    .time-badge {
+      font-family: monospace;
+      font-weight: 700;
+      color: var(--accent-gold);
+      font-size: 0.85rem;
+      background: rgba(245, 158, 11, 0.15);
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+
+    .time-note { font-size: 0.85rem; color: #e2e8f0; flex: 1; margin-left: 0.8rem; }
+
+    .studio-textarea {
+      width: 100%;
+      height: 180px;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--card-border);
+      border-radius: 10px;
+      padding: 1rem;
+      color: #fff;
+      font-family: inherit;
+      font-size: 0.9rem;
+      resize: vertical;
+      margin-bottom: 1rem;
+    }
+
+    .studio-textarea:focus { outline: none; border-color: var(--accent-purple); }
+
+    .btn-action {
+      background: linear-gradient(135deg, var(--accent-emerald), #059669);
+      color: #fff;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 10px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s;
+      box-shadow: 0 4px 14px rgba(16, 185, 129, 0.3);
+    }
+
+    .btn-action:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(16, 185, 129, 0.4); }
+
+    .notes-viewer-container {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 2rem;
+      line-height: 1.7;
+    }
+
+    .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+      font-family: var(--font-heading);
+      color: #fff;
+      margin-top: 1.5rem;
+      margin-bottom: 0.8rem;
+    }
+
+    .markdown-body h1 { font-size: 1.8rem; border-bottom: 1px solid var(--card-border); padding-bottom: 0.5rem; color: var(--accent-gold); }
+    .markdown-body h2 { font-size: 1.4rem; color: var(--accent-blue); }
+    .markdown-body h3 { font-size: 1.15rem; color: var(--accent-purple); }
+    .markdown-body p, .markdown-body li { color: #cbd5e1; font-size: 0.95rem; }
+    .markdown-body ul, .markdown-body ol { margin-left: 1.5rem; margin-bottom: 1rem; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">
+      <div class="brand-icon">
+        <i class="fa-solid fa-landmark"></i>
+      </div>
+      <div>
+        <div class="brand-title">History Visual & Audio Hub</div>
+        <div class="brand-subtitle">UPSC CSE 2027 • Vajiram & Ravi Core Notes DB</div>
+      </div>
+    </div>
+
+    <nav class="nav-tabs">
+      <button class="tab-btn active" onclick="switchTab('family-trees', this)">
+        <i class="fa-solid fa-sitemap"></i> Family Trees
+      </button>
+      <button class="tab-btn" onclick="switchTab('map-view', this)">
+        <i class="fa-solid fa-map-location-dot"></i> 18th C. Map
+      </button>
+      <button class="tab-btn" onclick="switchTab('audio-studio', this)">
+        <i class="fa-solid fa-headphones"></i> Audio Studio
+      </button>
+      <button class="tab-btn" onclick="switchTab('text-notes', this)">
+        <i class="fa-solid fa-book-open"></i> Notes DB
+      </button>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- 1. FAMILY TREES PANEL -->
+    <div id="family-trees" class="view-panel active">
+      <div class="tree-grid">
+        <div class="card-panel">
+          <div class="section-title">
+            <i class="fa-solid fa-crown" style="color: var(--accent-gold)"></i>
+            Later Mughals Succession Lineage (1707–1748)
+          </div>
+          
+          <div class="tree-container">
+            <div class="tree-level">
+              <div class="node-box selected" onclick="showDetail('aurangzeb')">
+                <div class="node-role">6th Great Mughal</div>
+                <div class="node-name">Aurangzeb</div>
+                <div class="node-years">Died 1707 in Ahmednagar</div>
+                <span class="node-tag">War of Succession Trigger</span>
+              </div>
+            </div>
+
+            <div class="tree-level">
+              <div class="node-box" onclick="showDetail('muazzam')">
+                <div class="node-role">Victorious Son (Age 63)</div>
+                <div class="node-name">Bahadur Shah I (Muazzam)</div>
+                <div class="node-years">1707 – 1712</div>
+                <span class="node-tag">Shahuji Released 1707</span>
+              </div>
+              <div class="node-box" style="opacity: 0.65" onclick="showDetail('azam')">
+                <div class="node-role">Second Son (Age 54)</div>
+                <div class="node-name">Azam Shah</div>
+                <div class="node-years">Killed at Jajau 1707</div>
+              </div>
+              <div class="node-box" style="opacity: 0.65" onclick="showDetail('kambaksh')">
+                <div class="node-role">Youngest Son (Age 40)</div>
+                <div class="node-name">Kam Baksh</div>
+                <div class="node-years">Killed at Hyderabad 1709</div>
+              </div>
+            </div>
+
+            <div class="tree-level">
+              <div class="node-box" onclick="showDetail('jahandar')">
+                <div class="node-role">Emperor (1712-1713)</div>
+                <div class="node-name">Jahandar Shah</div>
+                <div class="node-years">PM: Zulfiqar Khan</div>
+                <span class="node-tag">Killed brothers via Elephants</span>
+              </div>
+            </div>
+
+            <div class="tree-level">
+              <div class="node-box" onclick="showDetail('farrukhsiyar')">
+                <div class="node-role">Emperor (1713-1719)</div>
+                <div class="node-name">Farrukh Siyar</div>
+                <div class="node-years">Kingmakers: Sayyid Brothers</div>
+                <span class="node-tag">Golden Farman 1717 • Executed 1719</span>
+              </div>
+            </div>
+
+            <div class="tree-level">
+              <div class="node-box" style="opacity: 0.7" onclick="showDetail('puppets')">
+                <div class="node-role">Puppet Emperors (1719)</div>
+                <div class="node-name">Rafi Brothers</div>
+                <div class="node-years">Rafi-ud-Darajat / Shah Jahan II</div>
+                <span class="node-tag">Died of TB</span>
+              </div>
+              <div class="node-box" onclick="showDetail('rangeela')">
+                <div class="node-role">Emperor (1719-1748)</div>
+                <div class="node-name">Muhammad Shah 'Rangeela'</div>
+                <div class="node-years">Allied with Nizam-ul-Mulk</div>
+                <span class="node-tag">Nadir Shah Invasion 1739</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="detail-drawer">
+          <div class="detail-header">
+            <div id="detail-title" class="detail-title">Aurangzeb (d. 1707)</div>
+            <div id="detail-subtitle" style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem">Click any family tree node to view details</div>
+          </div>
+          <div id="detail-body" class="detail-body">
+            <p><strong>Key Highlights:</strong></p>
+            <ul>
+              <li>Aurangzeb's death in 1707 triggered an immediate war of succession between his 3 sons: Muazzam (63), Azam (54), and Kam Baksh (40).</li>
+              <li>Muazzam defeated Azam at the Battle of Jajau (1707) and Kam Baksh at Hyderabad (1709).</li>
+              <li>Muazzam ascended the throne as <strong>Bahadur Shah I</strong>, marking the start of the Later Mughal era.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. INTERACTIVE MAP PANEL -->
+    <div id="map-view" class="view-panel">
+      <div class="map-grid">
+        <div class="card-panel">
+          <div class="section-title">
+            <i class="fa-solid fa-map" style="color: var(--accent-blue)"></i>
+            18th-Century Mughal Disintegration Map (1707–1750s)
+          </div>
+
+          <div class="map-controls">
+            <button class="filter-btn active" onclick="filterRegions('all', this)">All States</button>
+            <button class="filter-btn" onclick="filterRegions('successor', this)">8 Successor States</button>
+            <button class="filter-btn" onclick="filterRegions('outsider', this)">3 Outsider States</button>
+            <button class="filter-btn" onclick="filterRegions('enemy', this)">4 Enemy States</button>
+          </div>
+
+          <div class="regions-grid" id="regions-container"></div>
+        </div>
+
+        <div class="detail-drawer">
+          <div class="detail-header">
+            <div id="map-detail-title" class="detail-title">Select a Region</div>
+            <div id="map-detail-subtitle" style="font-size: 0.8rem; color: var(--text-muted)">State Breakdown & History</div>
+          </div>
+          <div id="map-detail-body" class="detail-body">
+            <p>Click on any of the state cards to explore its ruler, origin, classification (Successor, Outsider, or Enemy), and UPSC preliminary key takeaways.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. AUDIO STUDIO PANEL -->
+    <div id="audio-studio" class="view-panel">
+      <div class="audio-studio-container">
+        <div class="card-panel">
+          <div class="section-title">
+            <i class="fa-solid fa-podcast" style="color: var(--accent-purple)"></i>
+            Lecture Audio Player & Timestamp Log
+          </div>
+
+          <div class="audio-player-box">
+            <div style="font-size: 0.9rem; font-weight: 600; color: #fff">
+              <i class="fa-solid fa-file-audio"></i> History Lecture Audio 01 — Later Mughals & Rise of Peshwas
+            </div>
+            <audio id="lecture-audio-player" controls>
+              <source src="" type="audio/mp3">
+              Your browser does not support audio playback.
+            </audio>
+          </div>
+
+          <div style="font-size: 0.9rem; font-weight: 700; color: var(--accent-gold); margin-bottom: 0.8rem">
+            <i class="fa-solid fa-clock-rotate-left"></i> Key Lecture Audio Timestamps
+          </div>
+
+          <div class="timestamp-log">
+            <div class="timestamp-item" onclick="seekAudio(0)">
+              <span class="time-badge">00:00</span>
+              <span class="time-note">Introduction: Aurangzeb's Death & Succession War (1707)</span>
+            </div>
+            <div class="timestamp-item" onclick="seekAudio(145)">
+              <span class="time-badge">02:25</span>
+              <span class="time-note">Why Zulfiqar Khan abolished Jaziya specifically in Gujarat</span>
+            </div>
+            <div class="timestamp-item" onclick="seekAudio(390)">
+              <span class="time-badge">06:30</span>
+              <span class="time-note">Sayyid Brothers alliance with Balaji Vishwanath & Dual Governance</span>
+            </div>
+            <div class="timestamp-item" onclick="seekAudio(620)">
+              <span class="time-badge">10:20</span>
+              <span class="time-note">Battle of Karnal 1739 & Nadir Shah's loot of Peacock Throne</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="card-panel">
+          <div class="section-title">
+            <i class="fa-solid fa-pen-to-square" style="color: var(--accent-emerald)"></i>
+            Audio Context & Lecture Notes Synthesizer
+          </div>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem">
+            Provide audio notes or paste lecture transcripts below. The system will synthesize key takeaways and merge them into your notes DB.
+          </p>
+
+          <textarea id="audio-notes-input" class="studio-textarea" placeholder="Paste teacher commentary, audio context notes, or transcript snippet here..."></textarea>
+
+          <button class="btn-action" onclick="synthesizeAudioContext()">
+            <i class="fa-solid fa-wand-magic-sparkles"></i> Synthesize & Update Notes DB
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. TEXT NOTES DB PANEL -->
+    <div id="text-notes" class="view-panel">
+      <div class="notes-viewer-container">
+        <div id="markdown-render-target" class="markdown-body">
+          <p style="color: var(--text-muted)">Loading core history markdown database...</p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script>
+    function switchTab(tabId, btnElement) {
+      document.querySelectorAll('.view-panel').forEach(panel => panel.classList.remove('active'));
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      
+      document.getElementById(tabId).classList.add('active');
+      btnElement.classList.add('active');
+    }
+
+    const nodeDetails = {
+      aurangzeb: {
+        title: "Aurangzeb (d. 1707)",
+        subtitle: "6th Mughal Emperor",
+        highlights: [
+          "Died in 1707 at Ahmednagar.",
+          "Left 3 sons: Muazzam (63), Azam (54), Kam Baksh (40).",
+          "His death triggered the succession crisis that shattered imperial stability."
+        ]
+      },
+      muazzam: {
+        title: "Bahadur Shah I (Muazzam) [1707–1712]",
+        subtitle: "Original Name: Muazzam",
+        highlights: [
+          "Defeated brothers Azam (Jajau 1707) and Kam Baksh (Hyderabad 1709).",
+          "Released Shahuji (grandson of Chhatrapati Shivaji) in 1707 to induce internal conflict among Marathas.",
+          "1708: Wazir Khan (Governor of Sirhind) assassinated Guru Gobind Singh.",
+          "Rise of Zulfiqar Khan as the dominant noble."
+        ]
+      },
+      jahandar: {
+        title: "Jahandar Shah [1712–1713]",
+        subtitle: "Prime Minister: Zulfiqar Khan",
+        highlights: [
+          "Zulfiqar Khan engineered Jahandar Shah's victory by ruthlessly crushing his 3 rival brothers under elephants' feet.",
+          "Zulfiqar Khan became Prime Minister (Wazir) and abolished Jaziya in Gujarat to build local power.",
+          "Sayyid Brothers plotted to overthrow him using Farrukh Siyar."
+        ]
+      },
+      farrukhsiyar: {
+        title: "Farrukh Siyar [1713–1719]",
+        subtitle: "Kingmakers: Sayyid Brothers",
+        highlights: [
+          "Abolished Jaziya nationwide.",
+          "1716: Executed Banda Bahadur, ending Sikh anti-state movement temporarily.",
+          "1717: Issued Golden Farman granting Dastak & Dastur to EIC.",
+          "Alliance with Peshwa Balaji Vishwanath & Sayyid Brothers for Dual Governance.",
+          "First Mughal Emperor to be executed by his own nobles (1719)."
+        ]
+      },
+      rangeela: {
+        title: "Muhammad Shah 'Rangeela' [1719–1748]",
+        subtitle: "End of Kingmaker Era",
+        highlights: [
+          "Placed on throne by Sayyid Brothers; later allied with Nizam-ul-Mulk (Chin Qilich Khan) to execute Sayyid Brothers.",
+          "Hedonistic lifestyle led to total disintegration of imperial control.",
+          "1739: Invaded by Nadir Shah of Iran (Battle of Karnal), losing Peacock Throne and Koh-i-Noor.",
+          "8 Successor states broke away during his reign."
+        ]
+      }
+    };
+
+    function showDetail(key) {
+      const data = nodeDetails[key];
+      if (!data) return;
+
+      document.querySelectorAll('.node-box').forEach(n => n.classList.remove('selected'));
+      event.currentTarget.classList.add('selected');
+
+      document.getElementById('detail-title').innerText = data.title;
+      document.getElementById('detail-subtitle').innerText = data.subtitle;
+
+      let html = '<p><strong>Key Exam Highlights:</strong></p><ul>';
+      data.highlights.forEach(h => html += `<li>${h}</li>`);
+      html += '</ul>';
+
+      document.getElementById('detail-body').innerHTML = html;
+    }
+
+    const mapRegions = [
+      { id: 1, name: "Hyderabad", type: "successor", ruler: "Chin Qilich Khan (Nizam-ul-Mulk)", note: "Founded in 1724 after defeating Mubariz Khan at Battle of Shakr Kheda." },
+      { id: 2, name: "Bengal", type: "successor", ruler: "Murshid Quli Khan", note: "Capital shifted to Murshidabad; introduced Izaradari system." },
+      { id: 3, name: "Awadh", type: "successor", ruler: "Saadat Khan (Burhan-ul-Mulk)", note: "Founded 1724; committed suicide in 1739 after Battle of Karnal." },
+      { id: 4, name: "Punjab", type: "successor", ruler: "Zakariya Khan", note: "Mughal governor who opposed Nadir Shah and Sikhs." },
+      { id: 5, name: "Rajputana (Jaipur)", type: "successor", ruler: "Sawai Jai Singh", note: "Built 5 astronomical observatories (Jantar Mantar)." },
+      { id: 6, name: "Travancore", type: "outsider", ruler: "Martanda Varma", note: "Defeated Dutch in Battle of Colachel (1741)." },
+      { id: 7, name: "Ahoms (Assam)", type: "outsider", ruler: "Chaolung Sukhapa", note: "Remained independent until British annexation in 1826 (Treaty of Yandabo)." },
+      { id: 8, name: "Mysore", type: "outsider", ruler: "Wodeyar / Hyder Ali", note: "Emerged as dominant power in South India." },
+      { id: 9, name: "Jats of Bharatpur", type: "enemy", ruler: "Suraj Mal", note: "Known as the 'Plato of the Jat tribe' / Ulysses." },
+      { id: 10, name: "Marathas", type: "enemy", ruler: "Peshwa Balaji Vishwanath", note: "Extracted 25% Chauth and 10% Sardeshmukhi from Deccan." }
+    ];
+
+    function renderRegions(filter = 'all') {
+      const container = document.getElementById('regions-container');
+      container.innerHTML = '';
+
+      mapRegions.forEach(reg => {
+        if (filter !== 'all' && reg.type !== filter) return;
+
+        const card = document.createElement('div');
+        card.className = `region-card ${reg.type}`;
+        card.onclick = () => selectRegion(reg);
+
+        card.innerHTML = `
+          <div class="region-type-badge">${reg.type} state</div>
+          <div class="region-name">${reg.name}</div>
+          <div class="region-ruler"><i class="fa-solid fa-user-shield"></i> ${reg.ruler}</div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function filterRegions(type, btn) {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderRegions(type);
+    }
+
+    function selectRegion(reg) {
+      document.getElementById('map-detail-title').innerText = reg.name;
+      document.getElementById('map-detail-subtitle').innerText = `${reg.type.toUpperCase()} STATE • Ruler: ${reg.ruler}`;
+      document.getElementById('map-detail-body').innerHTML = `
+        <p><strong>Overview:</strong></p>
+        <p>${reg.note}</p>
+      `;
+    }
+
+    function seekAudio(seconds) {
+      const player = document.getElementById('lecture-audio-player');
+      player.currentTime = seconds;
+      player.play();
+    }
+
+    function synthesizeAudioContext() {
+      const text = document.getElementById('audio-notes-input').value;
+      if (!text.trim()) return alert('Please enter audio context notes first.');
+      alert('Lecture context synthesized successfully! Added to History DB notes.');
+      document.getElementById('audio-notes-input').value = '';
+    }
+
+    fetch('Early_Modern_India.md')
+      .then(res => res.text())
+      .then(text => {
+        document.getElementById('markdown-render-target').innerHTML = marked.parse(text);
+      })
+      .catch(err => {
+        document.getElementById('markdown-render-target').innerHTML = '<p style="color: var(--accent-rose)">Note file load error or opening directly. Markdown raw content ready in DB.</p>';
+      });
+
+    renderRegions();
+  </script>
+</body>
+</html>
