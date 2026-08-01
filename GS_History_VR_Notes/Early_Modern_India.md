@@ -193,33 +193,50 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Poligar/Nayak System Evolution**:
 ```mermaid
 flowchart LR
-    subgraph I [Phase I: Vijayanagar]
+    subgraph I ["[ I ]"]
         direction TB
-        VN["Vijayanagar"] --> N1["Nayaks"] --> P1["Polygars"]
-    end
-    
-    subgraph II [Phase II: Mysore]
-        direction TB
-        NM["NAYAK of Mysore"] --> P2["Polygars"] --> Piada["Piada"]
-    end
-    
-    subgraph III [Phase III: Haider Ali]
-        direction TB
-        H["Haider Ali<br>(Mili-fiscalism / RISALA)"]
-    end
-    
-    subgraph IV [Phase IV: British]
-        direction TB
-        B1["British wanted<br>control of commerce"]
+        n1["V. Nagar"] --> n2["NAYAKS"] --> n3["Polygars"]
     end
 
-    %% Convergence to Zamindary System
-    P1 --> P3["Polygars<br>(Zamindary System)"]
-    P2 --> P3
-    H --> P3
-    B1 -.->|"Conflicts"| P3
+    subgraph II ["[ II ]"]
+        direction TB
+        n4["NAYAK of Mysore"] --> n5["Polygars"] --> n6["Piada"]
+    end
+
+    subgraph III ["[ III ]"]
+        direction TB
+        n7["Haider"] --> n8["mili-fiscalism<br>RISALA"] --> n9["Polygars"]
+    end
+
+    subgraph IV ["[ IV ]"]
+        direction TB
+        n10["British wants"] --> n11["control of<br>commerce"]
+    end
+
+    n3 --> n9
+    n5 --> n9
+    n11 -->|"conflicts"| n9
     
-    P3 --> R["Polygars Revolted<br>(1798-1801)"]
+    n9 --- n12["Zamindary"]
+    n9 --> n13["- Polygars revolted<br>(1798-1801)"]
+
+    subgraph V ["[ V ]"]
+        direction TB
+        v1["Brit esta mili regiments<br>- recruit locals"]
+        v2["Brit intro a reform<br>- a new head cap (cow/pig)<br>- NO VIBHUTI"]
+        v1 ~~~ v2
+    end
+    
+    subgraph TIRUNELVELI ["TIRUNELVELI"]
+        direction TB
+        t1["leader: Marudu Pandyans<br>- TIPU died 1799<br>(A symbol head)"]
+        t2["SRIRANGAM temple wall<br>'People of diff caste, class,<br>creed & sect of JAMBUDVIPA<br>unite against Mlechha'<br>Brit quashed the revolt."]
+        t1 ~~~ t2
+    end
+
+    %% Invisible links to align the bottom sections
+    n12 ~~~ V
+    n13 ~~~ TIRUNELVELI
 ```
 *   **Poligar Revolts (1798–1801)**: The East India Company's drive to control commerce and revenue brought them into direct conflict with the Poligars (who acted like modern zamindars).
 *   **Tirunelveli Uprising**: Led by the **Marudu Pandyans**. With Tipu dead, they made him a symbolic head of their resistance.
