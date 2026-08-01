@@ -40,7 +40,7 @@
 - **Question Summary:** Stated Magellan's logbook was one day ahead of local date upon return to Spain.
 - **Core Concept / Correct Fact:** Magellan's crew logbook was **one day short (behind by a day)** because they sailed westward around the globe.
 - **Next Revisit Due:** 2026-08-14 (15 days)
-- **Status:** Pending (Attempt 1)
+- **Status:** Mastered (2026-08-01 session correct)
 
 ---
 
@@ -50,7 +50,7 @@
 - **Question Summary:** Doubted whether a new calendar day first appears at midnight along the IDL.
 - **Core Concept / Correct Fact:** In theoretical geography, a new calendar day **first appears on Earth at midnight along the 180° International Date Line**.
 - **Next Revisit Due:** 2026-08-14 (15 days)
-- **Status:** Pending (Attempt 1)
+- **Status:** Mastered (2026-08-01 session correct)
 
 ---
 
@@ -92,4 +92,12 @@
 - **Next Revisit Due:** 2026-08-15 (15 days)
 - **Status:** Pending (Attempt 1)
 
+---
 
+### Entry 009 — Longitudinal Linear Distance Convergence
+- **Date Missed:** 2026-08-01
+- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L193-L215)
+- **Question Summary:** Assumed linear distance of $1^\circ$ of longitude remains constant ($\approx 111\text{ km}$) from equator to poles.
+- **Core Concept / Correct Fact:** Meridians converge at the poles. $1^\circ$ of longitude shrinks from **$\approx 111\text{ km}$ at the equator** to **$\approx 56\text{ km}$ at $60^\circ\text{ N/S}$** and **$0\text{ km}$ at the poles**. (Latitude linear distance remains approximately constant $\approx 111\text{ km}$).
+- **Next Revisit Due:** 2026-08-16 (15 days)
+- **Status:** Pending (Attempt 1)
