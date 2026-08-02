@@ -159,19 +159,19 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   River **SUTLEJ** established as boundary: Ranjit Singh’s kingdom (Lahore) on one side, **CIS-SUTLEJ** territory = **BRIT. INDIA** on the other.
     *   **EASTERN Question — Afghan Question — The Great Game**:
         *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *1807 context: Napoleon-Czar alliance threatened British India.*
-        *   **§ Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Audio: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*
+        *   **§ Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Context: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*
 *   **RANJIT SINGH (d. 1839)**:
-    *   After Ranjit's death: **Widow** (Jind Kaur), **minor** son, **relatives**, **Rajputs**, **Sindh** — all started asking for a share. *Audio: "Same thing which happened with Mughal disintegration — everybody wants something when somebody dies."*
-    *   **1842 — Anglo-Afghan War**: British entered Afghanistan via **Bolan Pass** but lost badly. *Audio: "Dost Khan comes, kills 12,000 people. Nobody has ever won in Afghanistan except Ranjit Singh."* British realized: without securing the border, they will never win.
+    *   After Ranjit's death: **Widow** (Jind Kaur), **minor** son, **relatives**, **Rajputs**, **Sindh** — all started asking for a share. *Context: "Same thing which happened with Mughal disintegration — everybody wants something when somebody dies."*
+    *   **1842 — Anglo-Afghan War**: British entered Afghanistan via **Bolan Pass** but lost badly. *Context: "Dost Khan comes, kills 12,000 people. Nobody has ever won in Afghanistan except Ranjit Singh."* British realized: without securing the border, they will never win.
     *   **1843 — Anglo-Sindh War**: British took **Sindh region** — "Let us at least close one gate, because Sindh can also let you in."
 *   **1st Anglo-Sikh War (1845–46)**:
     *   Sikhs lost (internally disintegrated without Ranjit).
     *   **1846 — Treaty of Amritsar**: **Kashmir was Sold** at **₹75 Lakhs** to **Dogra Rajput — Gulab Singh**.
-    *   **Treaty of Bhairowal (1846)**: **Widow** (Jind Kaur) & **minor** (Duleep Singh) were given a British **Resident — Henry Lawrence** to "help run the government." *Audio: Real British interest was to remain in Lahore and watch the border, investing Sikh treasury money to fight Afghanistan.*
-    *   *Audio — 3 Results of 1st Anglo-Sikh War*: (1) Sikh Empire disintegrated — J&K broken out. (2) Rise of Dogra Rajputs. (3) Border buffer reduced, came under British control.
+    *   **Treaty of Bhairowal (1846)**: **Widow** (Jind Kaur) & **minor** (Duleep Singh) were given a British **Resident — Henry Lawrence** to "help run the government." *Context: Real British interest was to remain in Lahore and watch the border, investing Sikh treasury money to fight Afghanistan.*
+    *   *Context — 3 Results of 1st Anglo-Sikh War*: (1) Sikh Empire disintegrated — J&K broken out. (2) Rise of Dogra Rajputs. (3) Border buffer reduced, came under British control.
 *   **2nd Anglo-Sikh War (1848–49)**:
-    *   **Mulraj** (Divan / Finance Minister) vs British — Mulraj questioned: "Why are you investing our money for your Afghan problem?" *Audio: British was using Sikh empire’s money to fight Afghanistan, angering the Sikhs.*
-    *   **1849 — Treaty of Amritsar**: **SIKHS signed Subsidiary Alliance**. **Duleep Singh was sent to London.** *Audio: Duleep Singh met the Queen and offered the Koh-i-Noor — "and that is how Koh-i-Noor reached England."*
+    *   **Mulraj** (Divan / Finance Minister) vs British — Mulraj questioned: "Why are you investing our money for your Afghan problem?" *Context: British was using Sikh empire's money to fight Afghanistan, angering the Sikhs.*
+    *   **1849 — Treaty of Amritsar**: **SIKHS signed Subsidiary Alliance**. **Duleep Singh was sent to London.** *Context: Duleep Singh met the Queen and offered the Koh-i-Noor — "and that is how Koh-i-Noor reached England."*
 
 ---
 
