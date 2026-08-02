@@ -81,12 +81,12 @@
 4.  **Awadh**: 
     *   **Geopolitical Structure**: Mughal Centre (Delhi) → Faujdar (PM) → Governor → Awadh. Agra served as the intermediate administrative node.
     *   **1724 — Saadat Khan (Burhan-ul-Mulk)**: PM of Mughals. Founded Awadh as a semi-independent state.
-    *   **1739 — Battle of Karnal**: Saadat was defeated by Nadir Shah's forces. Saadat committed suicide.
-    *   **Safdarjung (1739–1754)**: Succeeded Saadat Khan. PM of the Mughal Empire.
-    *   **Shuja-ud-Daulah**: Was not appointed PM → Invited Abdali to invade India.
+    *   **1739 — Battle of Karnal**: *Context: Incompetent nobles spread a rumour that Saadat Khan had invited Nadir Shah. To prove his loyalty, Saadat fought at Karnal but was defeated.* He lost both respect (rumour) and wealth (spent fighting Nadir) → **committed suicide**.
+    *   **Safdarjung (1739–1754)**: Saadat Khan’s son. PM of the Mughal Empire. *Context: His period is considered the last era of stability in the Mughal Empire — no major fights.*
+    *   **Shuja-ud-Daulah**: Was not appointed PM → Invited Abdali to invade India. *Context: After Safdarjung died, Abdali invaded again and ruined Delhi. The Mughal court blamed Awadh governors for the damage and refused to make Shuja PM. This angered Shuja → he invited Abdali for the 3rd Battle of Panipat. Awadh "helped" Abdali by NOT sending forces for the Mughals at the last moment.*
         *   **1764 — Battle of Buxar**: Shuja lost to the EIC.
     *   **Asaf-ud-Daulah**:
-        *   **1775 — Treaty of Benaras**: Kora & Allahabad **returned to Awadh** (*Special status restored to Awadh*).
+        *   **1773 — Treaty of Benaras**: Kora & Allahabad **returned to Awadh**. *(Note: Audio says 1773; handwritten notes say 1775.)*
         *   **1775 — Treaty of Faizabad**: **British entered Awadh** politically for the first time.
         *   Nawab shifted his capital from **Faizabad to Lucknow**.
     *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley.
