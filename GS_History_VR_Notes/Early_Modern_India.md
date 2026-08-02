@@ -306,11 +306,21 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   Ended with the **Treaty of Paris (1763)**: French were allowed to keep settlements but completely banned from military engagement in India.
 
 #### D. Maratha Empire (Genealogy & Expansion)
-*   **Early Lineage**: Maloji (Commander in Ahmadnagar, 1577) -> Shahji (Gov of Bijapur) -> Shivaji (1630–1680; founded Satara state and the PM *Peshwa* position).
+*   **Early Lineage**: **MALOJI** (became a military commander in Ahmadnagar under **NIZAM MURTAZA**, 1597) → Sharifji → **Shahji** (Gov of Bijapur & a noble of Mughals) →
+    *   **Venkoji** (Gov of Bijapur / **Nayak of TANJORE**) — Tanjore Maratha line
+    *   **Shivaji** (1630–1680) — founded **SATARA** state & created the PM position (*Peshwa*), lived in Pune.
+*   **Shivaji's Successors & The Satara Split**:
+    *   **Shambhaji**: Taken into custody by Aurangzeb, killed.
+    *   AZB died 1707 → **Bahadur Shah released Shahuji** (Shambhaji's son).
+    *   Meanwhile: **Rajaram** (Shivaji's second son) → wife **TARA BAI** → son **Shivaji-II** (minor) → Tara Bai created the position of **PRATINIDHI** (regent) to run the state.
+    *   **SATARA Civil War**: Shahuji (Satara) VS Tarabai (Kolhapur).
+        *   Shahuji was supported by **Balaji Vishwanath** (a **Chitpavan** Brahmin clerk who rose to become Peshwa).
+        *   Pro-Kolhapur faction: **Chandrashekhar Kelkar** → later became the standholder of Kolhapur → founded **AUNDH STATE**.
 *   **Tanjore Marathas (Venkoji's Line)**:
-    *   Venkoji (Shahji's son) became the Nayak of Tanjore.
-    *   **Venkoji II (Serfoji II)**: Signed Subsidiary Alliance in 1801. A massive polymath (knew 12 languages, established the Saraswati Mahal Library, Dhanvantri medical lab, performed cataract operations).
-    *   He secularized the Devadasi dance (*Dasi-Attam / Sadir*) into **Bharatanatyam** via the Tanjore Quartel (Chinnaya, Ponniah, Sivanandam, Vadivelu) and introduced Western music, creating the first Indo-Western band (Tanjore Band).
+    *   **Venkoji II (Serfoji II)**: Signed Subsidiary Alliance in 1801. A massive polymath (knew 12 languages, established the **Saraswati Mahal Library**, **Dhanvantri** medical lab, performed **cataract operations**).
+    *   Secularized the Devadasi dance (*Dasi-Attam / Sadir*) into **Bharatanatyam**; created the Maratha art form **TANJORE DOLL**.
+    *   Patronized the **Tanjore Quartet** of Carnatic musicians (Chinnaya, Ponniah, Sivanandam, Vadivelu).
+    *   Introduced **Western music** → created the first **Indo-Western band (TANJORE BAND)**.
 *   **The Peshwa Era**:
     1.  **Balaji Vishwanath (1713–1720)**: Solidified the Peshwa's power; promised Chhatrapati Shahuji 30% of total revenue.
     2.  **Baji Rao I (1720–1740)**: The "Father of Maratha Imperialism".
@@ -322,6 +332,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   1759: Raghunath Rao took Attock.
         *   1761: **Third Battle of Panipat** — catastrophic loss; commanders Vishwas Rao and Sadashiv Rao Bhau died.
     4.  **Madhav Rao (1761–1772)**: Restored Maratha power. Defeated Haider Ali. Sent Mahadji Scindia to Delhi to restore Mughal Emperor Shah Alam II.
+    5.  **Narayan Rao**: Murdered (succession crisis).
+        *   His uncle **Raghunath Rao** (Raghoba) seized power but was opposed → led to the 1st Anglo-Maratha War.
 
 #### E. Anglo-Maratha Wars & Downfall
 1.  **1st Anglo-Maratha War (1775–1782)**:
@@ -333,6 +345,6 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   **Treaty of Surji-Anjangaon (1803)**: Scindia defeated.
         *   **Treaty of Deogaon (1803)**: Bhonsle defeated.
 3.  **3rd Anglo-Maratha War (1817–1819)**:
-    *   The final crush of the Maratha Confederacy.
-    *   **Treaty of Poona (1817)**: Peshwa title abolished. Baji Rao II pensioned off to Bithur (his adopted son was Nana Sahib).
-    *   **Treaty of Mandasor (1818)**: Holkar defeated.
+    *   The final crush of the Maratha Confederacy. **Gaikwad & Holkar** lost.
+    *   **Treaty of Poona (1817)**: Peshwa title abolished. Baji Rao II pensioned off to **Bithur** (his adopted son was **Nana Sahib** → Revolt of 1857).
+    *   **Treaty of Mandasor (1819)**: Holkar defeated.
