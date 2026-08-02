@@ -497,7 +497,10 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Indian Ports**: Nagapattinam, Pulicat, Patna, Chinsurah.
 *   *Context: "Every hostel of Patna University is actually a Dutch factory. The largest, most popular crematorium is in Chinsurah — the princess of Dutch has been buried there."*
 *   **Netherlands (key fact)**: Comprises **7 lowlands/provinces** — largest is **Orange** (its Duke's territory = Holland). Since Holland had the largest vote in their council, Netherlands was sometimes called Holland. *Context: "'Nether' is Old English for 'lower' — lower lands. Netherlands is the only European country which is not a republic — it is a polygopoly, run by merchants."*
-*   Netherlands = **7 provinces + Prussia + Holy Rome/Vatican + England + Nordic countries = 11 votes total**.
+*   **Council/Voting Structure (11 Votes Total)**: The geopolitical and trade decision-making body operated on an 11-vote system: 
+    *   **7 Votes** came from the 7 provinces of the Netherlands (with the province of **Holland** holding the most dominance, which is why the country is often just called Holland).
+    *   **4 Votes** came from European allies/investors: **Prussia (1) + Holy Rome/Vatican (1) + England (1) + Nordic countries (1)**.
+    *   *Context: This unique "polygopoly" of merchants and allied nations acting like a corporate board made the Netherlands the only major European power functioning as a merchant-run enterprise rather than a traditional monarchy/republic.*
 *   First bank of Europe emerged in **Amsterdam** (because Netherlands is a merchant-run polygopoly).
 *   **Defeat**: **1719 — Battle of Bedara** (Dutch defeated by the English) → ~30–35 years later signed **Kew Letters (1795)** (not a treaty), **giving all Dutch property in India to the English**. *Context: "Danes gave every Dutch factory to English — things nothing for them because they were removed."*
 
