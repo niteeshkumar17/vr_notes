@@ -153,23 +153,47 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Rise of KAPUR SINGH** — Entry of Rajputs, Sindh → united them under the **Dal Khalsa**.
 *   **SUKERCHAKIA** Misl — a 9-year-old boy became the leader: **RANJIT SINGH** (born 1780, took charge 1789).
 *   **Ranjit Singh Empire (1789–1839)**:
-    *   **1798**: Captured Lahore from Afghan ruler Zaman Shah; established Lahore as his capital.
-    *   **1809 — Treaty of Amritsar (Lahore)**:
-        *   Framed during the **Great Game / Eastern Question** (British fear of Franco-Russian invasion via Persia & Afghanistan).
-        *   River Sutlej established as the firm boundary between Ranjit Singh's kingdom (Lahore) and British Cis-Sutlej territory.
-        *   British provided arms and training to Sikhs to serve as a buffer against Afghans.
-*   **Anglo-Sikh Wars & Annexation (1845–1849)**:
-    *   **1846 — Treaty of Amritsar**: Kashmir sold for ₹75 Lakhs to Dogra Rajput **Gulab Singh**.
-    *   **1849 — 2nd Anglo-Sikh War**: Punjab annexed by Lord Dalhousie; Maharaja Duleep Singh exiled to London.
+    *   **1798**: Captured Lahore from Zaman Shah (Afghan); declared Lahore as his capital.
+    *   **Treaty of LAHORE (1809)**:
+        *   British paid **arms, training & money** to **SIKHS to fight Afghans**.
+        *   River **SUTLEJ** established as boundary: Ranjit Singh’s kingdom (Lahore) on one side, **CIS-SUTLEJ** territory = **BRIT. INDIA** on the other.
+    *   **EASTERN Question — Afghan Question — The Great Game**:
+        *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *1807 context: Napoleon-Czar alliance threatened British India.*
+        *   **§ Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Audio: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*
+*   **RANJIT SINGH (d. 1839)**:
+    *   After Ranjit's death: **Widow** (Jind Kaur), **minor** son, **relatives**, **Rajputs**, **Sindh** — all started asking for a share. *Audio: "Same thing which happened with Mughal disintegration — everybody wants something when somebody dies."*
+    *   **1842 — Anglo-Afghan War**: British entered Afghanistan via **Bolan Pass** but lost badly. *Audio: "Dost Khan comes, kills 12,000 people. Nobody has ever won in Afghanistan except Ranjit Singh."* British realized: without securing the border, they will never win.
+    *   **1843 — Anglo-Sindh War**: British took **Sindh region** — "Let us at least close one gate, because Sindh can also let you in."
+*   **1st Anglo-Sikh War (1845–46)**:
+    *   Sikhs lost (internally disintegrated without Ranjit).
+    *   **1846 — Treaty of Amritsar**: **Kashmir was Sold** at **₹75 Lakhs** to **Dogra Rajput — Gulab Singh**.
+    *   **Treaty of Bhairowal (1846)**: **Widow** (Jind Kaur) & **minor** (Duleep Singh) were given a British **Resident — Henry Lawrence** to "help run the government." *Audio: Real British interest was to remain in Lahore and watch the border, investing Sikh treasury money to fight Afghanistan.*
+    *   *Audio — 3 Results of 1st Anglo-Sikh War*: (1) Sikh Empire disintegrated — J&K broken out. (2) Rise of Dogra Rajputs. (3) Border buffer reduced, came under British control.
+*   **2nd Anglo-Sikh War (1848–49)**:
+    *   **Mulraj** (Divan / Finance Minister) vs British — Mulraj questioned: "Why are you investing our money for your Afghan problem?" *Audio: British was using Sikh empire’s money to fight Afghanistan, angering the Sikhs.*
+    *   **1849 — Treaty of Amritsar**: **SIKHS signed Subsidiary Alliance**. **Duleep Singh was sent to London.** *Audio: Duleep Singh met the Queen and offered the Koh-i-Noor — "and that is how Koh-i-Noor reached England."*
 
 ---
 
 ## 4. Foreign Invasions & Strategic Warfare
 
-### A. Nadir Shah's Invasion (1739)
-*   **Pretext**: Fleeing Safavid relatives took asylum in Kabul/Lahore. Mughal governors Zakariya Khan and Nusrat Khan mistreated Nadir Shah's envoy.
-*   **1739 — Battle of Karnal**: Nadir Shah defeated Mughal forces under Muhammad Shah Rangeela.
-*   **Loot**: Peacock Throne (*Takht-i-Taur*), Koh-i-Noor diamond, ₹2 Crore cash, 500 elephants, 10,000 horses, and territorial loss of Kabul & Lahore.
+### IRANIAN & AFGHANS
+
+#### A. NADIR SHAH
+*   **Iran (Safavids)** → asylum seekers fled to Mughal territory.
+*   **1736 — NADIR SHAH** rose to power in Iran.
+*   **Pretext for Invasion**: Nadir wrote a letter, sent through an envoy to the Mughal court:
+    1.  **Revival of friendship** between Iran and India.
+    2.  **Don’t shelter enemy asylum** seekers (fleeing Safavids).
+    *   The envoy was **ill-treated** by Mughal governors **Zakariya Khan** (Lahore) and **Nusrat Khan** (Kabul).
+*   **1739 — Battle of Karnal**: Nadir Shah defeated Mughal forces under **Mu. Shah Rangeela**.
+*   **Nadir’s Gains**:
+    1.  **Peacock Throne** (*Takht-i-Taur*)
+    2.  **2 Diamonds** — **Koh-i-Noor** & **Noor-i-Darshan**
+    3.  **500 elephants**
+    4.  **10,000 horses**
+    5.  **₹2 Crore in cash**
+    6.  **Lahore & Kabul** (territorial annexation)
 
 #### NADIR SHAH → Succeeded by another military commander:
 *   **An Afghan — AHMAD SHAH ABDALI**
