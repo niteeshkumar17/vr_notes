@@ -17,14 +17,14 @@
 ### Chronological & Contextual Breakdown
 
 #### A. War of Succession (1707)
-*   **1707**: Aurangzeb died at Ahmednagar at age 88.
-*   **Aurangzeb's 3 Sons** (Ages at Aurangzeb's death in 1707):
-    *   **Muazzam** (age 63) ➔ **Victorious in succession war** ➔ Crowned as **Bahadur Shah I**.
-    *   **Azam** (age 54) ➔ Killed at Battle of Jajau (1707).
-    *   **Kam Baksh** (age 40) ➔ Killed at Hyderabad (1709).
+*   **1707**: AZB (Aurangzeb) died.
+*   **3 Sons of AZB** (Ages at death in 1707):
+    *   **AZAM** (age 71) ➔ Killed at Battle of Jajau (1707).
+    *   **MUAZZAM** (age 69) ➔ **Victorious in succession war** ➔ Crowned as **Bahadur Shah I (1707–1712)**.
+    *   **KAM BAKSH** (age 67) ➔ Killed at Hyderabad (1709).
 
 #### B. Bahadur Shah I (1707–1712)
-*   *Original Name*: Muazzam (Aurangzeb's eldest surviving son).
+*   *Original Name*: Muazzam (Aurangzeb's second son; won the war of succession).
 *   **Rise of Kingmakers**: **Zulfiqar Khan** (then Governor of Gujarat) emerged as the dominant noble behind the throne.
 *   **Two Pivotal Historical Events under Bahadur Shah I**:
     1.  **Release of Shahuji (1707)**:
@@ -35,17 +35,17 @@
         *   *Historical Impact*: Transformed the Sikh community from a religious group into a militant, anti-state movement under Banda Bahadur.
 
 #### C. Jahandar Shah (1712–1713) & Zulfiqar Khan's Rise
-*   *Succession Struggle (1712)*: After Bahadur Shah I died at age 74, a brutal war broke out among his 4 sons (Azim-ush-Shan, Rafi-ush-Shan, Jahan Shah, Jahandar Shah).
+*   *Succession Struggle (1712)*: After Bahadur Shah I died at age 74, a brutal war broke out among his 4 sons (Azim, Rafi, Ahsan, Jahandar Shah).
 *   **Zulfiqar Khan's Elephant Strategy**:
-    *   Zulfiqar Khan invited all 4 sons for dinner in a pavilion. He ruthlessly **trampled 3 rival brothers under the feet of elephants** (Azim-ush-Shan, Rafi-ush-Shan, Jahan Shah).
+    *   Zulfiqar Khan invited all 4 sons for dinner in a pavilion. He ruthlessly **trampled 3 rival brothers under the feet of elephants** (Azim, Rafi, Ahsan).
     *   Jahandar Shah was left alive and crowned Emperor, while Zulfiqar Khan became Prime Minister (*Wazir*).
 *   **Core UPSC Concept: Why Zulfiqar Khan Abolished Jaziya**:
     *   *The Problem*: A Kingmaker must control both administration and finances. To remain supreme, he requires a powerful personal army.
     *   *The Logic*: Military strength is a function of individual capability, not religion. Strong soldiers exist among Hindus, Rajputs, Marathas, and Jats, not just Muslims.
-    *   *The Solution*: Jaziya (tax paid by non-Muslims to practice their religion) alienated non-Muslims and prevented their recruitment. Zulfiqar Khan pressured Jahandar Shah to **abolish Jaziya** (first in Gujarat, then nationwide) so he could recruit non-Muslim soldiers and build a loyal standing army.
+    *   *The Solution*: Jaziya (tax paid by non-Muslims as **exemption from military service**) alienated non-Muslims and prevented their recruitment. Zulfiqar Khan pressured Jahandar Shah to **abolish Jaziya** (first in Gujarat, then nationwide) so he could recruit non-Muslim soldiers and build a loyal standing army.
 *   **Backlash & Overthrow Plot**:
     *   Zulfiqar's massive accumulation of power alarmed the **Sayyid Brothers** (Abdullah Khan of Allahabad & Husain Ali Khan of Bihar).
-    *   To legitimize their revolt, the Sayyid Brothers recruited **Farrukh Siyar** (son of Azim-ush-Shan, one of the princes trampled under elephants by Zulfiqar).
+    *   To legitimize their revolt, the Sayyid Brothers recruited **Farrukh Siyar** (son of Azim, one of the princes trampled under elephants by Zulfiqar).
 
 #### D. Farrukh Siyar (1713–1719) & Maratha Alliance
 *   **Accession**: Farrukh Siyar and the **Sayyid Brothers** defeated and **executed Jahandar Shah & Zulfiqar Khan** in 1713.
@@ -60,7 +60,7 @@
 
 #### E. Puppet Emperors (1719)
 *   The Sayyid Brothers placed two teenage sons of Rafi-ush-Shan on the throne:
-    1.  **Rafi-ud-Darajat (1719)**: Placed as emperor; died shortly of Tuberculosis (T.B.).
+    1.  **Rafi-al-Darajat (1719)**: Placed as emperor; **accepted the [Maratha dual governance] offer** that Farrukh Siyar had rejected. Died shortly of Tuberculosis (T.B.).
     2.  **Rafi-ud-Daulah / Shah Jahan II (1719)**: Placed next; also died shortly of Tuberculosis (T.B.).
 
 #### F. Muhammad Shah 'Rangeela' (1719–1748)
@@ -143,16 +143,16 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   **1708**: Wazir Khan (fearful of Mughal-Sikh peace) assassinated Guru Gobind Singh at Nanded (Deccan).
 
 #### Phase II: Sikh Anti-State Movement (1709–1716)
-*   **1709**: Banda Bahadur led a massive anti-state uprising, raiding Mughal trade routes and garrisons.
-*   Joined by **Jats**, who were welcomed into the Khalsa (*Men ➔ Singh, Women ➔ Kaur*).
-*   Formed early **Misls** (armed warring units).
-*   **1716**: Emperor Farrukh Siyar captured and executed Banda Bahadur in Delhi.
+*   **1709**: Banda Bahadur started anti-state movement — plundered the traders. Sikhs debut participate.
+*   Helped by **Jats** — Banda offered them entry into **Khalsa** (*M ➔ Singh, F ➔ Kaur*).
+*   **MISL** — a warring body.
+*   **1716**: F. Siyar killed Banda Bahadur.
 
 #### Phase III: Rise of Confederacy & Sikh Empire (Post-1716)
-*   Post-Banda Bahadur, the Sikh movement organized into **12 Misls**.
-*   **Nawab Kapur Singh** united them under the **Dal Khalsa** (incorporating Rajputs & Sindhis).
-*   **Sukerchakia Misl**: Led by **Ranjit Singh** (born 1780).
-*   **Ranjit Singh (1780–1839)**:
+*   After the death of Banda, the MISLs disintegrated → **12 pieces (MISLs)**.
+*   **Rise of KAPUR SINGH** — Entry of Rajputs, Sindh → united them under the **Dal Khalsa**.
+*   **SUKERCHAKIA** Misl — a 9-year-old boy became the leader: **RANJIT SINGH** (born 1780, took charge 1789).
+*   **Ranjit Singh Empire (1789–1839)**:
     *   **1798**: Captured Lahore from Afghan ruler Zaman Shah; established Lahore as his capital.
     *   **1809 — Treaty of Amritsar (Lahore)**:
         *   Framed during the **Great Game / Eastern Question** (British fear of Franco-Russian invasion via Persia & Afghanistan).
