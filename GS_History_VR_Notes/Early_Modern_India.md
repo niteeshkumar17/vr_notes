@@ -372,7 +372,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 #### A. Bengal — Rise of the Banking–Revenue Nexus
 
 ##### Murshid Quli Khan (Aurangzeb's Diwan of Bengal)
-*   **Origin**: Kartalab Khan — a slave sent by Aurangzeb to increase Bengal's revenue. *Context: "Once upon a time there was a king. The crown wanted to increase the revenue of Bengal. So the crown sent a slave."*
+*   **Origin**: Original name **Surya Narayana Mishra** → converted/renamed to **Kartalab Khan** — a slave sent by Aurangzeb to increase Bengal's revenue. Post-1707 (AZB's death), became the **F.M. (Diwan)** of Bengal. *Context: "Once upon a time there was a king. The crown wanted to increase the revenue of Bengal. So the crown sent a slave."*
 *   **Mal Istamrani System** — Fixed two things:
     1.  Fixed the **amount** of revenue (arbitrarily increased).
     2.  Fixed the **date** of collection — *no exceptions*. *Context: Agricultural produce has no fixed harvest date — you cannot guarantee revenue on a fixed date. Murshid Quli Khan understood this and yet imposed it deliberately to create room for a banking institution.*
@@ -384,7 +384,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         2.  **Forced cash crops** (commercialization of agriculture) — more profit than subsistence farming. *Context: This is the beginning of what UPSC calls "Commercialization of Agriculture in India."*
         3.  **Indentured labour** — farmers chained to the bank through debt; worked for free → **enslavement**. *Context: "Imagine you are working 9 to 5 for Infosys — when will you go for your own startup? Industries in India will never develop. That is called de-industrialization."*
 *   **Aurang (Warehouse)** → agents (Gumastas) collected harvest → stored at Aurang → converted raw materials (jute, cotton, indigo) into finished products (shirts) using indentured labour → **Dadni System**. *Context: "This is a 15-marker answer. The Dadini system is a system of economic production where the banking institution gives farmers a loan before production, takes the produce, and earns profit from cash crops while farmers work without pay."*
-*   **Murshidabad**: Aurangzeb gifted Kartalab Khan 100 bighas of land + new name **Murshid Quli Khan** → that land became **Murshidabad** (capital of Bengal's Nawabs).
+*   **Murshidabad**: Aurangzeb gifted Kartalab Khan **100 bighas of land** + new name **Murshid Quli Khan** → that land became **Murshidabad** (capital of Bengal's Nawabs). *(IROW → Cornwallis connection noted)*
 *   **75-Marker Board** (5 questions × 15 marks each from this single topic):
     1.  What is the Dadni System?
     2.  What is the Putting-out System?
@@ -465,16 +465,16 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 *   **Innovations introduced by Portuguese**:
     1.  **Armour & Helmet** — concept of body armour to India.
-    2.  **Compass** — navigation for latitude/longitude.
+    2.  **Astrolabe** — navigation instrument for determining latitude/longitude at sea.
     3.  **Printing Press** — to translate Latin religious texts into Tamil/Malayalam for conversion.
-    4.  **New World Crops**: Maize, Tomato, Potato, Chili, Capsicum.
-    5.  **Alfonso Mango** (named after Albuquerque) — famous variety of Maharashtra.
+    4.  **New World Crops**: Maize, Tomato, Potato, Chili, Capsicum, Spinach.
+    5.  **Grafting of Mangoes** → produced the **Alfonso Mango** (named after Albuquerque) — famous variety of Maharashtra.
     6.  **Abolition of Sati** — first Europeans to abolish it in their controlled regions.
 
 *   **Ports**: HQ: **Goa (1510)**
     *   Western: Surat, Bassein, Salsette, Chaul, Bombay
-    *   Southern: Calicut, Cochin, Cannanore, Kaveripatnam
-    *   Eastern: Masulipatnam, Chinsurah, Chittagong
+    *   Southern: Calicut, Cochin, Cannanore, Kaveripatnam, Balasore
+    *   Eastern: Masulipatnam, Hooghly, Chinsurah, Chittagong
 
 *   **Monuments in Goa**:
     1.  **First Catholic Church of India** — Basilica of Bom Jesus (St. Xavier's).
@@ -485,7 +485,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   (c) St. Augustinian Order
         *   (d) St. Loyola Order
 
-*   **Why did they leave India?**: Increased competition from other European companies + **shifted to plantation economy in Brazil**. *Context: "They shifted their ways from Spice Trade to plantation in Brazil, leaving the Indian circuit."*
+*   **Why did they leave India?**: Increased competition from other European companies + **shifted to plantation economy in Brazil**. **1630 — Treaty of Madrid** (formal withdrawal marker). *Context: "They shifted their ways from Spice Trade to plantation in Brazil, leaving the Indian circuit."*
 
 ---
 
@@ -499,14 +499,14 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Netherlands (key fact)**: Comprises **7 lowlands/provinces** — largest is **Orange** (its Duke's territory = Holland). Since Holland had the largest vote in their council, Netherlands was sometimes called Holland. *Context: "'Nether' is Old English for 'lower' — lower lands. Netherlands is the only European country which is not a republic — it is a polygopoly, run by merchants."*
 *   Netherlands = **7 provinces + Prussia + Holy Rome/Vatican + England + Nordic countries = 11 votes total**.
 *   First bank of Europe emerged in **Amsterdam** (because Netherlands is a merchant-run polygopoly).
-*   **Defeat**: Dutch were defeated by the English → signed **Kew Letters** (not a treaty) ~30-35 years later, **giving all Dutch property in India to the English**. *Context: "Danes gave every Dutch factory to English — things nothing for them because they were removed."*
+*   **Defeat**: **1719 — Battle of Bedara** (Dutch defeated by the English) → ~30–35 years later signed **Kew Letters (1795)** (not a treaty), **giving all Dutch property in India to the English**. *Context: "Danes gave every Dutch factory to English — things nothing for them because they were removed."*
 
 ---
 
 ##### 3. Danes
 
 *   **Objective / Nature / Method of Earning**: **Piracy**. *Context: "Their objective of trade was piracy. Their method of earning was piracy because they were pirates."*
-*   **Ports**: Serampore, Tranquebar.
+*   **Ports**: Serampore, Tranquebar, **Karaikal**, **Andamans**.
 *   **HQ**: Tranquebar (Tharangambadi).
 *   **Innovation**: Established the **first Protestant Church in India**. *Context: "Another sect within Christianity — Catholics, Orthodox, Protestants — and there are 266 sects total in Christianity."*
 *   **Fate**: Removed/expelled — nobody likes pirates.
@@ -520,8 +520,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Nature**: **Diplomatic alliances with Indian states** (not merchants). *Context: "They do not want to deal with merchants. They want to directly deal with the states. Diplomacy is their way."*
 *   **Method of Earning**: Acquire territory through diplomacy → trade from that territory.
 *   **HQ**: **Pondicherry**.
-*   **Ports**: Ganjam, Mahé, Masulipatnam (for some time), Jinji, Hugli, **Chandernagore**, Chittagong.
-*   **Defeat**: **Battle of Wandiwash (1760)** → **Treaty of Paris**.
+*   **Ports**: Pondicherry, Ganjam, Mahé, Masulipatnam (for some time), **Rajahmundry**, Jinji, **Masulipatnam**, Hugli, **Chandernagore**, Chittagong.
+*   **Defeat**: **Battle of Wandiwash (1760)** → **Treaty of Paris (1763)**.
 
 ---
 
@@ -529,10 +529,10 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 | # | Company | Fate | How |
 |---|---------|------|-----|
-| 1 | **Portuguese** | Left voluntarily | Shifted to **plantation in Brazil** |
-| 2 | **Dutch** | Defeated by English | Signed **Kew Letters** (property transferred) |
+| 1 | **Portuguese** | Left voluntarily | Shifted to **plantation in Brazil** — **Treaty of Madrid (1630)** |
+| 2 | **Dutch** | Defeated by English | **Battle of Bedara (1719)** → **Kew Letters (1795)** (property transferred) |
 | 3 | **Danes** | Removed/expelled | Pirates — universally unwanted |
-| 4 | **French** | Defeated by English | **Battle of Wandiwash (1760)** → Treaty of Paris |
+| 4 | **French** | Defeated by English | **Battle of Wandiwash (1760)** → **Treaty of Paris (1763)** |
 | — | **English EIC** | **Sole survivor** | Monopoly + Monopsony |
 
 ---
@@ -540,10 +540,10 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 #### C. English East India Company — Expansion Timeline
 
 *   **1587** — **Ralph Fitch**: Took land route to visit India, wrote a book. *Context: "Ralph Fitch is the Vasco da Gama of England." His book inspired the grocer George of Cumberland.*
-*   **England's Product**: **Red Wool** — protected by high customs (laissez-faire allowed only after Europeans agreed to give England monopoly over one spice).
+*   **England's Product**: **Red Wool** (produced by **Guilds**) — sold at **Fairs**. Protected by high customs (laissez-faire allowed only after Europeans agreed to give England monopoly over one spice).
 *   **Pepper Monopoly**: Europeans handed over **pepper** to English merchants. Pepper measured in **Gross** → merchants called **Grocers** → origin of the word "**Grocery Store**". *Context: "When you say 'let's go to the grocery store,' you are actually saying 'let's go to an English merchant shop.' It is a word we borrowed."*
 *   **George, Earl of Cumberland**: A grocer who read Ralph Fitch's book → approached his friend **Queen Elizabeth** → she agreed on condition of **51% share**.
-*   **31 December 1600**: Company received **monopoly to trade in India for 15 years**.
+*   **31 December 1600**: Company received **monopoly to trade in India for next 15 years** (later extended to 18 years as noted).
 *   **1609**: **King James I** extended the monopoly **for life**. *Context: "That is the beginning of what we will later call the East India Company."*
 *   **1602–03**: **John Mildenhall** — first person sent; got permission from **Prince Jahangir** (not Emperor Akbar) → **failed** because you need the Emperor's permission. *Context: "Akbar is still alive. He committed this mistake."*
 *   **1608**: **Captain Hawkins** — Surat permission re-issued by **Emperor Jahangir** → **failed** because Portuguese threw them out.
@@ -588,6 +588,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 ##### Regulating Act of 1773
 *   **Trigger**: Robert Clive impeached in England on corruption charges. *Context: "He had taken huge bribes. So the English Parliament decided — our image is going to crash."*
 *   **Main Agenda**: **Stop corruption** + **Stop private traders** (English commanders who traded individually). *Context: "To stop that, you need to bring everybody under one head, under one umbrella."*
+*   *Also the **1st Act of direct governance / regular administration** by British Parliament over India.*
 *   **Key Provisions**:
     1.  **Abolished Dual Government** of Clive → replaced with **Governor-General of Bengal + Council**.
     2.  **First Governor-General of Bengal**: **Warren Hastings**.
