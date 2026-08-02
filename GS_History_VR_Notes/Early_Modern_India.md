@@ -465,7 +465,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 *   **Innovations introduced by Portuguese**:
     1.  **Armour & Helmet** — concept of body armour to India.
-    2.  **Astrolabe** — navigation instrument for determining latitude/longitude at sea.
+    2.  **Astrolabe** — navigation instrument for determining latitude at sea.
     3.  **Printing Press** — to translate Latin religious texts into Tamil/Malayalam for conversion.
     4.  **New World Crops**: Maize, Tomato, Potato, Chili, Capsicum, Spinach.
     5.  **Grafting of Mangoes** → produced the **Alfonso Mango** (named after Albuquerque) — famous variety of Maharashtra.
