@@ -79,15 +79,17 @@
 2.  **Bangash**: Muhammad Bangash (Pathan region bordering UP/Farrukhabad).
 3.  **Rohillas**: Khan Bahadur of Kumaon (Garhwal/Kumaon hills).
 4.  **Awadh**: 
-    *   **Geopolitical Alignment**: Positioned in the fertile Ganges-Yamuna Doab as a strategic buffer between the Mughal Imperial Centre (Delhi/Agra) and the eastern governorships.
-    *   **1724 — Saadat Khan (Burhan-ul-Mulk)**: Founded Awadh as a semi-independent state; served as Prime Minister (*Wazir*) of the Mughal Empire.
-    *   **1739 — Battle of Karnal**: Saadat Khan was captured by Nadir Shah's forces and subsequently committed suicide due to dishonor and extortionate ransom demands.
-    *   **1739–1754 — Safdarjung**: Succeeded Saadat Khan and served as Prime Minister (*Wazir*) of the Mughal Empire.
-    *   **Shuja-ud-Daulah**: Denied the PM post at Delhi court $\rightarrow$ invited Ahmad Shah Abdali to invade India. Defeated by EIC at the **Battle of Buxar (1764)**.
-    *   **1775 — Nawab Asaf-ud-Daulah**: 
-        *   **Treaty of Benaras (1775)**: Surrendered Kora & Allahabad back to Awadh.
-        *   **Treaty of Faizabad (1775)**: Marked direct British political entry into Awadh; shifted capital from **Faizabad to Lucknow** and built the Bara Imambara.
-    *   **1801 — Nawab Saadat Khan II**: Signed the **Subsidiary Alliance** with Lord Wellesley, ceding half of Awadh's territory (Rohilkhand & Lower Doab) to the EIC.
+    *   **Geopolitical Structure**: Mughal Centre (Delhi) → Faujdar (PM) → Governor → Awadh. Agra served as the intermediate administrative node.
+    *   **1724 — Saadat Khan (Burhan-ul-Mulk)**: PM of Mughals. Founded Awadh as a semi-independent state.
+    *   **1739 — Battle of Karnal**: Saadat was defeated by Nadir Shah's forces. Saadat committed suicide.
+    *   **Safdarjung (1739–1754)**: Succeeded Saadat Khan. PM of the Mughal Empire.
+    *   **Shuja-ud-Daulah**: Was not appointed PM → Invited Abdali to invade India.
+        *   **1764 — Battle of Buxar**: Shuja lost to the EIC.
+    *   **Asaf-ud-Daulah**:
+        *   **1775 — Treaty of Benaras**: Kora & Allahabad **returned to Awadh** (*Special status restored to Awadh*).
+        *   **1775 — Treaty of Faizabad**: **British entered Awadh** politically for the first time.
+        *   Nawab shifted his capital from **Faizabad to Lucknow**.
+    *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley.
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.
@@ -165,61 +167,66 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 ## 4. Foreign Invasions & Strategic Warfare
 
 ### A. Nadir Shah's Invasion (1739)
-*   **Pretext**: Fleeing Safavid rebels took asylum in Kabul/Lahore. Mughal governors Zakariya Khan and Nusrat Khan mistreated Nadir Shah's envoy.
+*   **Pretext**: Fleeing Safavid relatives took asylum in Kabul/Lahore. Mughal governors Zakariya Khan and Nusrat Khan mistreated Nadir Shah's envoy.
 *   **1739 — Battle of Karnal**: Nadir Shah defeated Mughal forces under Muhammad Shah Rangeela.
-*   **Loot**: Peacock Throne (*Takht-i-Taur*), Koh-i-Noor diamond, ₹2 Crore cash, 500 elephants, 10,000 horses, and territorial annexation of Kabul & west of Indus.
-*   **Succession**: Succeeded in Afghanistan by his military commander, **Ahmad Shah Abdali**.
+*   **Loot**: Peacock Throne (*Takht-i-Taur*), Koh-i-Noor diamond, ₹2 Crore cash, 500 elephants, 10,000 horses, and territorial loss of Kabul & Lahore.
+
+#### NADIR SHAH → Succeeded by another military commander:
+*   **An Afghan — AHMAD SHAH ABDALI**
 
 ---
 
-### B. Ahmad Shah Abdali's Invasions & Campaigns (1748–1767)
+### B. ABDALI
 
-#### 1. Early Invasions & Afghan Control of Punjab (1748–1754)
-*   **1748**: Abdali failed to capture Lahore from **Mir Mannu** (under Mughal Emperor **Ahmad Shah**).
-*   **1749**: Abdali invaded again, defeated Mir Mannu, and sacked Lahore (under **Ahmad Shah**).
-*   **1751**: Invaded and annexed **Kashmir** (under Mughal Emperor **Alamgir II**).
-*   **1754**: Invaded **Delhi** (under **Alamgir II**).
-*   **Establishment of Afghan Rule in Lahore**: Abdali appointed his son, **Timur Shah**, as Governor of Lahore.
+*   **1748** — He failed to take Lahore from **MIR MANNU** *(Mughal Emperor: Ahmad Shah)*
+*   **1749** — ABDALI defeated MIR MANNU & took Lahore *(Mughal Emperor: Ahmad Shah)*
+*   **1751** — Invaded **Kashmir** *(Mughal Emperor: Alamgir-II)*
+*   **1754** — Invaded **Delhi** *(Mughal Emperor: Alamgir-II)*
+*   He placed his son **TIMUR SHAH** as **Governor of LAHORE**.
 
-#### 2. Adina Baig's Coalition & Maratha-Sikh Campaign
-*   **Adina Baig** (Governor of Jullundhur) rebelled against Afghan rule (Timur Shah).
-*   **Triple Coalition**: Adina Baig allied with the **Sikhs** and **Marathas** (led by **Raghunath Rao** and **Dattaji Scindia**).
-*   **Outcome**:
-    *   Timur Shah was forced to flee Lahore.
-    *   Sikhs gained temporary peace in Punjab.
-    *   Adina Baig was installed as Governor of Lahore.
-    *   Marathas captured the strategic **Attock Fort** and levied *Chauth* across the Punjab region.
+#### ADINA BAIG (Gov. of Jullundhur) Revolted
+*   **ADINA BAIG** + **SIKHS** + **Marathas** revolted against Timur Shah.
+*   **Result:**
+    *   TIMUR ran away.
+    *   SIKHS got peace.
+    *   ADINA got Lahore.
+    *   Marathas captured **ATTOCK FORT** & took **Chauth**.
+    *   (**Raghunath Rao** & **Dataji Scindia**)
 
 ---
 
-### C. 3rd Battle of Panipat (14 January 1761)
+### C. 3rd Battle of Panipat (1761)
 
-*   **Imperial Context**: Fought during the reign of Mughal Emperor **Shah Alam II**.
-*   **Primary Cause**: Ahmad Shah Abdali invaded India specifically to avenge the expulsion and humiliation of his son Timur Shah from Lahore by Maratha forces (**Raghunath Rao** & **Dattaji Scindia**).
+→ *For Revenge of Son.*
 
-#### Belligerents & Coalitions
-*   **Afghan Coalition (Ahmad Shah Abdali)**:
-    *   Ahmad Shah Abdali (Afghan forces)
-    *   Mughal Imperial loyalists
-    *   **Rohillas** (Najib-ud-Daula)
-    *   **Bangash Pathans**
-    *   **Awadh**: **Shuja-ud-Daulah** (invited Abdali to counter Maratha influence).
-*   **Maratha Coalition**:
-    *   **Viswas Rao** (Son of Peshwa Balaji Baji Rao)
-    *   **Sadashiv Rao Bhau** (Cousin of Peshwa)
-    *   **Artillery Wing**: **Ibrahim Khan Gardi** (commanding French-trained artillery, lineage of Bussy's army).
+**1761 — 3rd Battle of Panipat** & **Shah Alam-II**
 
-#### 4-Point Impact & Consequences (UPSC Mains GS1 Focus)
-1.  **Accelerated Mughal Disintegration**: Irreparably shattered central imperial authority, prompting the 8 successor states to formalize total independence.
-2.  **Checked Maratha Imperialism**: Halted Maratha northern expansion and destroyed the ambition of establishing a Maratha-ruled All-India Empire centered at Delhi.
-3.  **Checked British Expansion into NWFP**: Created a buffer that temporarily restricted British East India Company influence from penetrating North-West Frontier politics.
-4.  **Indirectly Led to the Rise of Sikh Power**: The mutual devastation of Maratha and Afghan forces created a power vacuum in Punjab, enabling Sikh Misls to consolidate under Dal Khalsa.
+#### 3rd Panipat, 1761
 
-#### Post-Panipat Afghan Decline & Sikh Capture of Lahore
-*   **1764**: Abdali attempted to recapture Lahore but failed against Sikh resistance.
-*   **1767**: Abdali invaded again and failed to secure Lahore.
-*   **1786**: Afghan ruler **Zaman Shah** temporarily captured Lahore.
-*   **1798**: **Maharaja Ranjit Singh** captured Lahore from Zaman Shah, establishing Lahore as the capital of the Sikh Empire.
+**Abdali VS Mughals / Marathas**
+
+| **Abdali's Side** | **Maratha Side** |
+|---|---|
+| **Bangash** | **VISWAS RAO** — Son of Peshwa |
+| **Rohilla** | **Balaji Baji Rao** (Peshwa) |
+| **Awadh** — Shuja-ud-daulah | **SADASHIV RAO** — Brother of Peshwa |
+| | **Hyderabad** |
+| | French — Bussy's army |
+| | **Ibrahim Gardi** |
+
+**Other Maratha Commanders**: Madhav Rao, Malhar Rao, Raghunath Rao, Mahadji Scindia, Nana Phadnavis.
+
+#### 3rd Panipat — Impact / Result
+1.  **Accelerated Mughal disintegration** — 8 Successor States declared independence.
+2.  **Checked Maratha Imperialism.**
+3.  **Checked the entry of English in N.W.F. Politics.**
+4.  **Indirectly led to the rise of SIKH powers.**
+
+#### Post-Panipat Timeline
+*   **1764** — Abdali failed to get Lahore.
+*   **1767** — Failed again.
+*   **1786** — Afghan captured Lahore (**Zaman Shah**).
+*   **1798** — **Ranjit Singh** captured Lahore.
 
 ---
 
