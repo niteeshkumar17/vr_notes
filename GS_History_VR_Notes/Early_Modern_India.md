@@ -1,7 +1,7 @@
 # Early Modern India (1707 Onwards)
 
-> **Source:** Vajiram & Ravi Class Lecture 01 & Notes
-> **Last Updated:** 2026-08-01
+> **Source:** Vajiram & Ravi Class Lecture 01, 02 & 03 Notes
+> **Last Updated:** 2026-08-02
 
 ---
 
@@ -359,3 +359,270 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   **Gaikwad & Holkar** lost.
     *   **Treaty of Poona (1817)**: Peshwa title **abolished** — no more Peshwas. Baji Rao II pensioned off to **Bithur**. He had no biological son — his **adopted son was Nana Sahib**. *Context: British refused to accept Nana Sahib as Peshwa (adopted, not bloodline → Doctrine of Lapse logic). Nana Sahib denied pension → joined the **Revolt of 1857 from Kanpur** (because Bithur is 34 km from Kanpur — UPSC question). His secretary was **Tatya Tope**, who fought from the Jhansi region helping Rani Laxmibai.*
     *   **Treaty of Mandasor (1819)**: Holkar defeated.
+
+---
+
+### Lecture 3: Bengal, European Companies & British India
+*Date added: 2026-08-02*
+
+> **Source:** Vajiram & Ravi Class Lecture 03 & Notes
+
+---
+
+#### A. Bengal — Rise of the Banking–Revenue Nexus
+
+##### Murshid Quli Khan (Aurangzeb's Diwan of Bengal)
+*   **Origin**: Kartalab Khan — a slave sent by Aurangzeb to increase Bengal's revenue. *Context: "Once upon a time there was a king. The crown wanted to increase the revenue of Bengal. So the crown sent a slave."*
+*   **Mal Istamrani System** — Fixed two things:
+    1.  Fixed the **amount** of revenue (arbitrarily increased).
+    2.  Fixed the **date** of collection — *no exceptions*. *Context: Agricultural produce has no fixed harvest date — you cannot guarantee revenue on a fixed date. Murshid Quli Khan understood this and yet imposed it deliberately to create room for a banking institution.*
+*   **Creation of the Banking System (Jagat Seth)**:
+    *   Since farmers could not pay on the fixed date, the **bank paid the revenue on the fixed date** on behalf of the peasants, and **the bank got control over Bengal**. *Context: "Just like you buy a home taking a loan from the bank and then you pay the bank — the same thing happened. The bank paid those 5 crores and the bank kept Bengal for themselves."*
+    *   **Jagat Seth** = not a person, but an **office/institution** (a title). The bank kept agents called **Gumastas** (also called **Baniyan**).
+    *   **Three consequences of bank control**:
+        1.  **Land seizure** — bank could force peasants to surrender land.
+        2.  **Forced cash crops** (commercialization of agriculture) — more profit than subsistence farming. *Context: This is the beginning of what UPSC calls "Commercialization of Agriculture in India."*
+        3.  **Indentured labour** — farmers chained to the bank through debt; worked for free → **enslavement**. *Context: "Imagine you are working 9 to 5 for Infosys — when will you go for your own startup? Industries in India will never develop. That is called de-industrialization."*
+*   **Aurang (Warehouse)** → agents (Gumastas) collected harvest → stored at Aurang → converted raw materials (jute, cotton, indigo) into finished products (shirts) using indentured labour → **Dadni System**. *Context: "This is a 15-marker answer. The Dadini system is a system of economic production where the banking institution gives farmers a loan before production, takes the produce, and earns profit from cash crops while farmers work without pay."*
+*   **Murshidabad**: Aurangzeb gifted Kartalab Khan 100 bighas of land + new name **Murshid Quli Khan** → that land became **Murshidabad** (capital of Bengal's Nawabs).
+*   **75-Marker Board** (5 questions × 15 marks each from this single topic):
+    1.  What is the Dadni System?
+    2.  What is the Putting-out System?
+    3.  What is De-industrialization?
+    4.  What is Commercialization of Agriculture?
+    5.  What is the Ijaradari System?
+
+##### EIC as the New Banking Institution
+*   When EIC gained **Diwani Rights**, the same structure replicated:
+    *   Banking institution = **East India Company**
+    *   Agents (Gumastas) = **Covenanted Servants** (e.g. Robert Clive)
+    *   Aurang (warehouse) = **Factory**
+    *   Dadni System = **Putting-out System** (English term for the same)
+*   *Context: "We were never just studying Murshid Quli Khan — we were understanding how the Permanent Settlement of the English is actually the Ijaradari system of Murshid Quli Khan."*
+
+##### Ijaradari (Revenue Farming) System
+*   Revenue collection auctioned to the **highest bidder** (Ijaradar). *Context: "Like giving a rented house to whoever promises to pay you more — 15,000 vs. 25,000 — you give it to the highest bidder. That is Ijaradari system."*
+*   Fixed date + auctioning + highest bidder = complete revenue extraction apparatus.
+*   *Context: "Not everybody is a capitalist investor — it is that Zalim who got the bidding, who got through the highest bidding."*
+
+---
+
+##### Bengal Political Succession
+
+| # | Nawab | Key Events |
+|---|-------|-----------|
+| 1 | **Murshid Quli Khan** | Created Mal Istamrani + banking system. Had no son. |
+| 2 | **Shuja-ud-din** (son-in-law) | Imprisoned his own son Sarfaraz to take power. Extended Bengal's territory to **Shahzadpur (Bihar)** — strategic connector to the Chicken's Neck corridor. Placed **Alivardi Khan** as commander there. *Context: "Shahzadpur is very important because it connects you with the Chicken's Neck."* |
+| 3 | **Sarfaraz Khan** (Shuja's son) | Released from jail by Shuja before death; made Diwan. Lacked support; killed by Alivardi Khan at Murshidabad. |
+| 4 | **Alivardi Khan** | Rose from Bihar commander → marched to Murshidabad → killed Sarfaraz → became Nawab. **1751**: Marathas defeated him and took **Chauth from Odisha (Cuttack)**. EIC began interfering in Bengal politics. |
+| 5 | **Siraj-ud-Daulah** (Alivardi's grandson) | Became Nawab at a very difficult time — **Seven Years' War** broke out in Europe (France vs England), spilling into India. |
+
+---
+
+##### Plassey to Buxar — The Fall of Bengal
+
+*   **Black Hole Incident (1756)**: Siraj attacked the English settlement because England and France were fighting in Bengal despite his warnings. Captured 126 British officials → kept them in a cramped room → **died of suffocation**. *Context: "Siraj said, do not fight here. You are here for trade. They did not listen. So Siraj attacked the English settlement."*
+*   **Battle of Plassey (1757)**: Robert Clive vs Siraj-ud-Daulah → Siraj lost. *Context: "Plassey happened because of the Black Hole incident."*
+*   **Mir Jafar** (1st English puppet): Gave Clive **Sutanuti, 24 Parganas & Govindpur**. *Context: "Clive was becoming richer than English principles. He was getting the favour. English did not like it."* → Clive recalled to England for impeachment.
+*   **Mir Qasim** (2nd puppet): Refused Clive's demands for more money → formed an alliance with:
+    *   **Awadh** (Shuja-ud-Daulah)
+    *   **Mughal Emperor** Shah Alam II
+*   **Battle of Buxar (1764)**: Combined forces of Mir Qasim + Awadh + Shah Alam II vs EIC (Hector Munro). **EIC won** — defeated the Mughal Emperor. *Context: "Bengal lost — that was okay because Bengal had lost before. Awadh had lost before. But English defeated Mughals. So they signed that humiliating treaty."*
+*   Mir Qasim was killed → Mir Jafar reinstated as Nawab → died → son **Najm-ud-Daulah** = **last Nawab of Bengal**.
+
+##### Treaty of Allahabad (1765)
+
+| Party | Losses | Gains |
+|-------|--------|-------|
+| **Mughal Empire** | Delhi (almost like a subsidiary alliance) — Shah Alam II given **Kara & Allahabad** (from Awadh) + **₹26 lakhs annual pension** (from Bengal) | — |
+| **Awadh** | Kara & Allahabad (given to Shah Alam II) | — |
+| **Bengal** | ₹26 lakhs annual pension to Shah Alam II | — |
+| **EIC** | — | **Diwani Rights** over Bihar, Bengal & Odisha |
+
+---
+
+#### B. European Companies in India
+
+> *Context: "European company is part of your syllabus. But the chances of it coming directly in exam is very little. They ask you some flickering questions here and there, normally from Portuguese."*
+
+---
+
+##### 1. Portuguese — Estado-da-India
+
+*   **Objectives** (in descending order of priority):
+    1.  **Monopoly over spice trade** (primary reason).
+    2.  **Revenge against Muslims** — 10th–14th century was a tough period for Europe (Crusades). *Context: "400 years of Church vs Monarchs conflict. People came to faith because of food. They wanted revenge."*
+    3.  **Finding relics of St. Thomas** — one of Christ's 12 Apostles came to Kerala → **St. Thomas Christians** (Syrian/Syriac Christians). *Context: "They are the oldest Christians in the world. Even English Christianity is younger than Indian Christianity."*
+    4.  **Propagation of Christianity** through missionaries → **Jesuits** (the correct UPSC term, not "missionaries"). *Context: "Remember, you will lose marks if you say missionaries. Jesuits — do not forget the correct word."*
+
+*   **Nature of Trade — Militarization of Maritime Trade**:
+    *   Ships carried **merchants + soldiers + Jesuits + cannons** (for the first time). *Context: "They are the ones who militarized the maritime trade. Before them, nobody used a gun or a cannon in the ocean."*
+
+*   **Methods of Earning**:
+    1.  **Kafila (Cafila) System**: Fleet of 100–500 ships traveling together with armed escort ships (cannons on outer ships, merchant cargo in the middle). *Context: "Nobody, even if they want, will like to attack you."*
+    2.  **Cartaz System**: A **ticket/pass** to join the Kafila for safe passage. Introduced by Admiral **Almeida**, continued by **Alfonso de Albuquerque**. Also known as **Portuguese Blue Water Policy**.
+    3.  **Xendis (Zendi) Tax**: Religious tax paid by **non-Christians** in Portuguese-controlled territories (e.g. Goa). *Context: "Wherever they became the ruler — Goa, for example — they applied Xendis."*
+
+*   **Innovations introduced by Portuguese**:
+    1.  **Armour & Helmet** — concept of body armour to India.
+    2.  **Compass** — navigation for latitude/longitude.
+    3.  **Printing Press** — to translate Latin religious texts into Tamil/Malayalam for conversion.
+    4.  **New World Crops**: Maize, Tomato, Potato, Chili, Capsicum.
+    5.  **Alfonso Mango** (named after Albuquerque) — famous variety of Maharashtra.
+    6.  **Abolition of Sati** — first Europeans to abolish it in their controlled regions.
+
+*   **Ports**: HQ: **Goa (1510)**
+    *   Western: Surat, Bassein, Salsette, Chaul, Bombay
+    *   Southern: Calicut, Cochin, Cannanore, Kaveripatnam
+    *   Eastern: Masulipatnam, Chinsurah, Chittagong
+
+*   **Monuments in Goa**:
+    1.  **First Catholic Church of India** — Basilica of Bom Jesus (St. Xavier's).
+    2.  **Sé Cathedral** — *Context: "Sé Cathedral is a World Heritage Site."*
+    3.  **Jesuit Churches** (4 missionary orders):
+        *   (a) St. Paul's Order
+        *   (b) St. Franciscan Order
+        *   (c) St. Augustinian Order
+        *   (d) St. Loyola Order
+
+*   **Why did they leave India?**: Increased competition from other European companies + **shifted to plantation economy in Brazil**. *Context: "They shifted their ways from Spice Trade to plantation in Brazil, leaving the Indian circuit."*
+
+---
+
+##### 2. Dutch — VOC (Vereenigde Oost-Indische Compagnie)
+
+*   **Nature**: **Joint Stock Company** — earned through **stocks and debentures**.
+*   **Strategy**: Portuguese already had spice trade monopoly → Dutch **monopolized trade routes** instead, concentrating on the **east side** of India (Indonesia, Malaysia, Strait of Malacca). *Context: "They chose a different route. If you look at the map — they concentrated on the right side of the Indian map."*
+*   **HQ**: **Batavia (Java)** — not in India. Indian HQ: **Nagapattinam**.
+*   **Indian Ports**: Nagapattinam, Pulicat, Patna, Chinsurah.
+*   *Context: "Every hostel of Patna University is actually a Dutch factory. The largest, most popular crematorium is in Chinsurah — the princess of Dutch has been buried there."*
+*   **Netherlands (key fact)**: Comprises **7 lowlands/provinces** — largest is **Orange** (its Duke's territory = Holland). Since Holland had the largest vote in their council, Netherlands was sometimes called Holland. *Context: "'Nether' is Old English for 'lower' — lower lands. Netherlands is the only European country which is not a republic — it is a polygopoly, run by merchants."*
+*   Netherlands = **7 provinces + Prussia + Holy Rome/Vatican + England + Nordic countries = 11 votes total**.
+*   First bank of Europe emerged in **Amsterdam** (because Netherlands is a merchant-run polygopoly).
+*   **Defeat**: Dutch were defeated by the English → signed **Kew Letters** (not a treaty) ~30-35 years later, **giving all Dutch property in India to the English**. *Context: "Danes gave every Dutch factory to English — things nothing for them because they were removed."*
+
+---
+
+##### 3. Danes
+
+*   **Objective / Nature / Method of Earning**: **Piracy**. *Context: "Their objective of trade was piracy. Their method of earning was piracy because they were pirates."*
+*   **Ports**: Serampore, Tranquebar.
+*   **HQ**: Tranquebar (Tharangambadi).
+*   **Innovation**: Established the **first Protestant Church in India**. *Context: "Another sect within Christianity — Catholics, Orthodox, Protestants — and there are 266 sects total in Christianity."*
+*   **Fate**: Removed/expelled — nobody likes pirates.
+
+---
+
+##### 4. France — Compagnie des Indes Orientales
+
+*   **Established**: 1664 by **Colbert**.
+*   **Objective**: Monopoly over trade.
+*   **Nature**: **Diplomatic alliances with Indian states** (not merchants). *Context: "They do not want to deal with merchants. They want to directly deal with the states. Diplomacy is their way."*
+*   **Method of Earning**: Acquire territory through diplomacy → trade from that territory.
+*   **HQ**: **Pondicherry**.
+*   **Ports**: Ganjam, Mahé, Masulipatnam (for some time), Jinji, Hugli, **Chandernagore**, Chittagong.
+*   **Defeat**: **Battle of Wandiwash (1760)** → **Treaty of Paris**.
+
+---
+
+##### European Elimination Summary
+
+| # | Company | Fate | How |
+|---|---------|------|-----|
+| 1 | **Portuguese** | Left voluntarily | Shifted to **plantation in Brazil** |
+| 2 | **Dutch** | Defeated by English | Signed **Kew Letters** (property transferred) |
+| 3 | **Danes** | Removed/expelled | Pirates — universally unwanted |
+| 4 | **French** | Defeated by English | **Battle of Wandiwash (1760)** → Treaty of Paris |
+| — | **English EIC** | **Sole survivor** | Monopoly + Monopsony |
+
+---
+
+#### C. English East India Company — Expansion Timeline
+
+*   **1587** — **Ralph Fitch**: Took land route to visit India, wrote a book. *Context: "Ralph Fitch is the Vasco da Gama of England." His book inspired the grocer George of Cumberland.*
+*   **England's Product**: **Red Wool** — protected by high customs (laissez-faire allowed only after Europeans agreed to give England monopoly over one spice).
+*   **Pepper Monopoly**: Europeans handed over **pepper** to English merchants. Pepper measured in **Gross** → merchants called **Grocers** → origin of the word "**Grocery Store**". *Context: "When you say 'let's go to the grocery store,' you are actually saying 'let's go to an English merchant shop.' It is a word we borrowed."*
+*   **George, Earl of Cumberland**: A grocer who read Ralph Fitch's book → approached his friend **Queen Elizabeth** → she agreed on condition of **51% share**.
+*   **31 December 1600**: Company received **monopoly to trade in India for 15 years**.
+*   **1609**: **King James I** extended the monopoly **for life**. *Context: "That is the beginning of what we will later call the East India Company."*
+*   **1602–03**: **John Mildenhall** — first person sent; got permission from **Prince Jahangir** (not Emperor Akbar) → **failed** because you need the Emperor's permission. *Context: "Akbar is still alive. He committed this mistake."*
+*   **1608**: **Captain Hawkins** — Surat permission re-issued by **Emperor Jahangir** → **failed** because Portuguese threw them out.
+*   **1609**: Sultan of **Golconda** gave them **Masulipatnam** → **first success story & first factory to actually open**. *Context: "If UPSC asks 'which was the first factory for which the English received permission' — answer is Surat. But 'which factory opened first' — answer is Masulipatnam."*
+*   **1612**: **Captain Best** fought Portuguese → **Battle of Swally** → Portuguese defeated → **Surat Factory opened** under **Thomas Aldworth**.
+*   **1633**: **Raja of Chandragiri** (descendant of Vijayanagara) issued **Hariharapura & Balasore**.
+*   **1639**: Same Raja gave them several villages → **Armagon** (fortified; straight 30-league coastline, no European rivals nearby). *Context: "The villages opened towards the coast. A straight coastline with no important European power on either side. So they thought, why not make a fort here?"*
+*   **1641**: Shifted from Masulipatnam to Armagon → later renamed **Fort St. George / Madras**.
+*   **1651**: Got **Hooghly, Kasimbazar, Patna & Rajmahal Hills** (entered Bengal).
+*   **1668**: **Treaty of Whitehall** — Portugal signed with England (English Prince **Charles** married Portuguese Princess **Catherine**).
+    *   **Dowry**: Ethiopia + **Bombay** (at rent of **£10 annually**). Bombay fortified and running by 1687.
+*   **1688**: **Glorious Revolution** in England → **Parliamentary Monarchy** established. *Context: "House of Commons asked: why should George be the only man trading in India?"*
+*   **1708**: Parliament merged George's old company with **13 other companies** → 13+1 = 14 → **United Company** = **East India Company (EIC)**.
+*   **1717**: **John Surman** got **Farman** from **Farrukhsiyar** (Mughal Emperor) — new trading rights for the merged company.
+
+*   **Methods of Earning (EIC)**:
+    1.  **Dastak & Dastoor exemption** (tax exemption passes).
+    2.  **Sale of Opium to China** — exported opium & cotton from India to China → Chinese paid in **silver** → **800% profit**. *Context: "The cotton came from the same factory. Who owns the cotton? EIC. Why? Because you are indentured — they have taken your land. Everything is connected."*
+    3.  **Diwani Rights** (revenue extraction).
+*   **Key Difference from other European companies**:
+    *   **Monopoly** (single seller) + **Monopsony** (single buyer). *Context: "What is monopoly? Single seller. What is monopsony? Single buyer. Who is the only one who will buy opium and cotton in India? English. So they decide everything — not only the bargaining chip but also the revenue extraction."*
+
+---
+
+#### D. British India — Phase I: Robert Clive's Dual Government (1765–1772)
+
+*   **Why 1765?** → Diwani Rights gained via Treaty of Allahabad.
+*   **Structure of Dual Government in Bengal**:
+    *   Bengal earns **100 (units)**.
+    *   **₹26 lakhs** → Shah Alam II (pension, per Treaty of Allahabad).
+    *   **₹32 lakhs** → Nawab of Bengal (e.g. Mir Jafar / Najm-ud-Daulah) for **Administration, Security & Criminal Justice (Nizamat)**.
+    *   Remaining **₹42 lakhs** → **EIC** for **Finance & Revenue (Diwani)**. *Context: "100 minus 26 minus 32 = 42. That is the Diwani of Bengal."*
+*   **Naib (Deputy) Diwans** — Clive appointed 2 Indian deputies to collect Diwani:
+    1.  **Mohammad Reza Khan** — Naib Diwan of **Bengal**.
+    2.  **Shitab Ray** — Naib Diwan of **Bihar**.
+*   *Context: "This board is a 50-marker board in Mains. The question would be: Discuss the Dual Government System of Robert Clive."*
+
+---
+
+#### E. British India — Phase II: Warren Hastings & the Regulating Act (1773–1786)
+
+##### Regulating Act of 1773
+*   **Trigger**: Robert Clive impeached in England on corruption charges. *Context: "He had taken huge bribes. So the English Parliament decided — our image is going to crash."*
+*   **Main Agenda**: **Stop corruption** + **Stop private traders** (English commanders who traded individually). *Context: "To stop that, you need to bring everybody under one head, under one umbrella."*
+*   **Key Provisions**:
+    1.  **Abolished Dual Government** of Clive → replaced with **Governor-General of Bengal + Council**.
+    2.  **First Governor-General of Bengal**: **Warren Hastings**.
+    3.  **Supreme Court established** (in Calcutta) — to try **only British/European officials** for corruption. *No Indian could approach the Supreme Court*. *Context: "There would always be a conflict between the Governor General and the Supreme Court — because the SC judge is appointed by the British Parliament, and the GG is also separate. Two separate entities."*
+
+##### Diwani Rights — Three Components under Warren Hastings
+1.  **Land Revenue**:
+    *   Land **auctioned** to the **highest bidder** → **Ijaradar system** formalized.
+    *   Three sub-components: **(i) Auction → (ii) Tenure (fixed period) → (iii) Collection**.
+2.  **Taxes**: Tolls, Customs, Sales Tax, Tariffs — collected by British directly.
+    *   Components (1) and (2) under the **Governor-General** → **Board of Revenue** → **President** → **Districts** → **Collector** (always an Englishman/European). *Context: "Who gave you the post of Collector? Warren Hastings."*
+3.  **Monopoly over 2 items**: **Opium** & **Salt** → kept under the **Supreme Court** (not the Governor-General) — Supreme Court earned revenue from these monopolies to pay judges' salaries independently. *Context: "If Governor-General pays the salary to the Supreme Court judge, will he not be biased when a case comes against the Governor-General himself? This is where comes the concept of separation of power. Judiciary is separated from administration and legislation — the salary is separate."*
+
+---
+
+##### Pitt's India Act, 1784 — Dual Governance of the Crown
+
+*   Parliament liked the separation model so much → replicated it in England.
+*   **Structure**:
+
+| Body | Type | Members | Retirement |
+|------|------|---------|------------|
+| **Court of Directors** | East India Company | 24 | ¼ (6) retire **every year** |
+| **Board of Control** | Parliamentary Body | 6 | ⅓ (2) retire **every 2 years** |
+
+*   **Appointment of Governor-General**:
+    1.  Court of Directors **suggests a name**.
+    2.  Board of Control **approves** the name.
+    3.  **Crown stamps** the appointment.
+    *   *UPSC answer: Governor-General is appointed by the Crown.*
+*   **Governor-General** = the nexus point connecting both the Board of Control (Parliament) and the Court of Directors (EIC). *This is the "Dual Governance."*
+*   **In India** — 3 Presidencies (Bombay, Madras, Bengal):
+    *   Each has a **Deputy Governor** who forms **7 Committees** (Home Department Overseas).
+    *   Reports submitted **every 6 months** to the Board of Control.
+    *   **7 Committees**: (1) Buying (2) Shipping (3) Treasury (4) Warehouse (5) Correspondence (6) Accounting (7) Private Trade.
+*   **Home Charges**: Indians paid for the expenses of running these 7 committees + reports. *Context: "You have to prepare the report, you have to send to Parliament, and you are asking us the money. We will not pay for home charges — that is the dilemma. From here comes the concept of Home Charges, which will help you in Modern India."*
+*   **Shipping of Reports & Parliamentary Sessions**: Reports shipped from Bombay by monsoon currents → took 3–4 months → reached England either in **Autumn** or **Spring**. *Context: "So Indian Parliament's session is always in alternation with the English Parliament session — Autumn report comes back as Winter session; Spring session comes back as Monsoon session."*
+
