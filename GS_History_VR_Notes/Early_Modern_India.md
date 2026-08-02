@@ -42,31 +42,31 @@
 *   **Core UPSC Concept: Why Zulfiqar Khan Abolished Jaziya**:
     *   *The Problem*: A Kingmaker must control both administration and finances. To remain supreme, he requires a powerful personal army.
     *   *The Logic*: Military strength is a function of individual capability, not religion. Strong soldiers exist among Hindus, Rajputs, Marathas, and Jats, not just Muslims.
-    *   *The Solution*: Jaziya (tax paid by non-Muslims as **exemption from military service**) alienated non-Muslims and prevented their recruitment. Zulfiqar Khan pressured Jahandar Shah to **abolish Jaziya** (first in Gujarat, then nationwide) so he could recruit non-Muslim soldiers and build a loyal standing army.
+    *   *The Solution*: Jaziya (tax paid by non-Muslims as **exemption from military service**) alienated non-Muslims and prevented their recruitment. Zulfiqar Khan pressured Jahandar Shah to **abolish Jaziya** — but **only in Gujarat first**, so it benefited Zulfiqar alone. *Context: This selective abolition was the last nail in the coffin — other nobles were furious that only Zulfiqar could recruit non-Muslims.*
 *   **Backlash & Overthrow Plot**:
-    *   Zulfiqar's massive accumulation of power alarmed the **Sayyid Brothers** (Abdullah Khan of Allahabad & Husain Ali Khan of Bihar).
-    *   To legitimize their revolt, the Sayyid Brothers recruited **Farrukh Siyar** (son of Azim, one of the princes trampled under elephants by Zulfiqar).
+    *   Zulfiqar's massive accumulation of power alarmed the **Sayyid Brothers** (Abdullah Khan of Allahabad & Husain Ali Khan of Bihar). *Context: They were brothers who did not like each other, but united against the common threat.*
+    *   To legitimize their revolt, the Sayyid Brothers recruited **Farrukh Siyar** (son of Azim, one of the princes trampled under elephants by Zulfiqar). *Context: A coup needs a Mughal-blood face — all of Bahadur Shah's sons were dead, but their children were not.*
 
 #### D. Farrukh Siyar (1713–1719) & Maratha Alliance
-*   **Accession**: Farrukh Siyar and the **Sayyid Brothers** defeated and **executed Jahandar Shah & Zulfiqar Khan** in 1713.
+*   **Accession**: Farrukh Siyar and the **Sayyid Brothers** defeated and **executed Jahandar Shah & Zulfiqar Khan** in 1713. *Context: They were trampled under the feet of the same elephant — first Mughal Emperor murdered in office.*
 *   **Key Actions & Reforms**:
     *   **Abolished Jaziya** nationwide permanently.
     *   **1716**: Executed **Banda Bahadur**, temporarily suppressing the Sikh uprising.
     *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹30,000**. *(Note: This exemption strictly applied to official EIC trade, NOT to the private trade of Company servants).*
 *   **Maratha Coalition & Imperial Execution**:
-    1.  Peshwa **Balaji Vishwanath** proposed **Dual Governance** directly to Farrukh Siyar in 1716 (North to Mughals, South Swaraj to Marathas with 25% *Chauth* tax). Farrukh Siyar rejected it.
+    1.  Peshwa **Balaji Vishwanath** proposed **Dual Governance** directly to Farrukh Siyar in 1716: River **Narmada** as natural frontier — North of Narmada = **HINDUSTAN** (Mughals), South of Narmada = **Maratha SWARAJ**. Any Mughal fort south of Narmada must pay 25% *Chauth* (security tax). Farrukh Siyar rejected it.
     2.  Balaji Vishwanath approached the real powerholders, **Sayyid Husain Ali Khan** and **Abdullah Khan**.
     3.  Together with Maratha troops, the Sayyid Brothers executed Farrukh Siyar in 1719 — making him the **first Mughal Emperor to be executed by his own nobles**.
 
 #### E. Puppet Emperors (1719)
 *   The Sayyid Brothers placed two teenage sons of Rafi-ush-Shan on the throne:
-    1.  **Rafi-al-Darajat (1719)**: Placed as emperor; **accepted the [Maratha dual governance] offer** that Farrukh Siyar had rejected. Died shortly of Tuberculosis (T.B.).
-    2.  **Rafi-ud-Daulah / Shah Jahan II (1719)**: Placed next; also died shortly of Tuberculosis (T.B.).
+    1.  **Rafi-al-Darajat (1719)**: Placed as emperor; **accepted the [Maratha dual governance] offer** that Farrukh Siyar had rejected. *Context: Sayyid Brothers placed the younger son first to get the work done — an obedient puppet.* Died shortly of Tuberculosis (T.B.).
+    2.  **Rafi-ud-Daulah / Shah Jahan II (1719)**: Placed next; also died shortly of T.B. (communicable disease).
 
 #### F. Muhammad Shah 'Rangeela' (1719–1748)
-*   **Accession**: Placed on the throne by the Sayyid Brothers.
+*   **Accession**: Son of **Ahsan** (the third killed brother). Placed on the throne by the Sayyid Brothers as the last option. *Context: In the span of one year (1719), the Mughal Empire saw 4 emperors — Farrukh Siyar, Rafi-al-Darajat, Rafi-ud-Daulah, and Muhammad Shah.*
 *   **Elimination of Sayyid Brothers**: Muhammad Shah allied with **Nizam-ul-Mulk** (Chin Qilich Khan) to assassinate the Sayyid Brothers.
-*   **Catalyst for Disintegration**: Rangeela's hedonism, obsession with music/dance, and replacement of old nobles with incompetent favorites caused imperial authority to break down completely.
+*   **Catalyst for Disintegration**: Rangeela was a drunkard who did not understand administration. He replaced good old nobles with **incompetent new favorites** — directly triggering imperial breakdown.
 
 ---
 
@@ -93,7 +93,7 @@
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.
-    *   *Jaipur*: Sawai Jai Singh (*Note: "Sawai" signifies a minor/child prince appointed as head*).
+    *   *Jaipur*: **Sawai** Jai Singh. *Context: 'Sawai' = a child who is the head of state (a minor ruler).*
 7.  **Hyderabad**: Chin Qilich Khan (Nizam-ul-Mulk) — Godavari Basin; founded 1724 (Battle of Shakr Kheda).
 8.  **Arcot**: Sadatullah Khan — Carnatic region.
 
@@ -206,7 +206,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **1749** — ABDALI defeated MIR MANNU & took Lahore *(Mughal Emperor: Ahmad Shah)*
 *   **1751** — Invaded **Kashmir** *(Mughal Emperor: Alamgir-II)*
 *   **1754** — Invaded **Delhi** *(Mughal Emperor: Alamgir-II)*
-*   He placed his son **TIMUR SHAH** as **Governor of LAHORE**.
+*   He placed his son **TIMUR SHAH** as **Governor of LAHORE**. *Context: Timur was a menace — he would take women from any community, over-tax people, and confiscate crops. The local people (Sikhs) sought help from the governor of Jalandhar.*
 
 #### ADINA BAIG (Gov. of Jullundhur) Revolted
 *   **ADINA BAIG** + **SIKHS** + **Marathas** revolted against Timur Shah.
@@ -228,6 +228,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 #### 3rd Panipat, 1761
 
 **Abdali VS Mughals / Marathas**
+
+*Context: Why "Mughals" and not just "Marathas"? Because the Narmada letter stated that anything north of Narmada belongs to the Mughals. Panipat is north of Narmada. So the Marathas fought under the Mughal banner — Sadashiv Rao carried the Mughal flag into battle.*
 
 | **Abdali's Side** | **Maratha Side** |
 |---|---|
@@ -251,6 +253,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **1767** — Failed again.
 *   **1786** — Afghan captured Lahore (**Zaman Shah**).
 *   **1798** — **Ranjit Singh** captured Lahore.
+
+*Context: Abdali invaded India **7 times** total (1748, 1749, 1751, 1754, 1761, 1764, 1767).*
 
 ---
 
