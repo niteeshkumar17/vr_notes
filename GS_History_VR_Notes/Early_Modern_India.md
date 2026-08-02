@@ -143,7 +143,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   **1708**: Wazir Khan (fearful of Mughal-Sikh peace) assassinated Guru Gobind Singh at Nanded (Deccan).
 
 #### Phase II: Sikh Anti-State Movement (1709–1716)
-*   **1709**: Banda Bahadur started anti-state movement — plundered the traders. Sikhs debut participate.
+*   **1709**: Banda Bahadur started anti-state movement — plundered the traders. **SIKHS didn't participate**.
 *   Helped by **Jats** — Banda offered them entry into **Khalsa** (*M ➔ Singh, F ➔ Kaur*).
 *   **MISL** — a warring body.
 *   **1716**: F. Siyar killed Banda Bahadur.
@@ -158,7 +158,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   British paid **arms, training & money** to **SIKHS to fight Afghans**.
         *   River **SUTLEJ** established as boundary: Ranjit Singh’s kingdom (Lahore) on one side, **CIS-SUTLEJ** territory = **BRIT. INDIA** on the other.
     *   **EASTERN Question — Afghan Question — The Great Game**:
-        *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *1807 context: Napoleon-Czar alliance threatened British India.*
+        *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *(1776 context: USA Briton Lost — British didn't want to lose India next).*
         *   **§ Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Context: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*
 *   **RANJIT SINGH (d. 1839)**:
     *   After Ranjit's death: **Widow** (Jind Kaur), **minor** son, **relatives**, **Rajputs**, **Sindh** — all started asking for a share. *Context: "Same thing which happened with Mughal disintegration — everybody wants something when somebody dies."*
@@ -189,7 +189,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **1739 — Battle of Karnal**: Nadir Shah defeated Mughal forces under **Mu. Shah Rangeela**.
 *   **Nadir’s Gains**:
     1.  **Peacock Throne** (*Takht-i-Taur*)
-    2.  **2 Diamonds** — **Koh-i-Noor** & **Noor-i-Darshan**
+    2.  **2 Diamonds** — **Koh-i-Noor** & **NOORI-DARIAN** (Daria-i-Noor)
     3.  **500 elephants**
     4.  **10,000 horses**
     5.  **₹2 Crore in cash**
@@ -271,7 +271,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   Legitimized his rule by taking permission from the highest Islamic authority, the **Caliph (Ottoman Shah)**, rather than the Mughals. *Context: This is why Mysore was classified as an 'outsider' — he did not take permission from Delhi.* This granted him the right to issue new coinage known as **'Paisa'** (*Who gave you Paisa? Tipu Sultan. Who gave you Rupaiya? Sher Shah.*).
     *   Established foreign embassies in Istanbul, Paris, Cairo, Iran, and Iraq.
     *   In alliance with the French, developed **modern rockets**.
-    *   Deeply inspired by the French Revolution: established a **Jacobin Society** (symbolizing liberty) and planted the **Tree of Liberty** at Srirangapatnam. Built the first Indian dam.
+    *   Deeply inspired by the French Revolution: established a **JACOBIN SOCIETY (Blue-sock)** and planted the **Tree of Liberty** at Srirangapatnam. Built the first Indian dam.
 *   **Anglo-Mysore Wars**:
     1.  **1st War (1767–69)**: Haider Ali defeated the English. Concluded with the **Treaty of Madras**. *Context:* The English were forced to accept a defensive territoriality; the modern concept of a "border" was formulated for the first time here.
     2.  **2nd War (1780–84)**: Haider died in 1782, Tipu took over. Concluded with the **Treaty of Mangalore**. *Context: English officially recognized Mysore as a 'state' — territory, population, governance, law, army, and sovereignty. This is India's equivalent of the **Treaty of Westphalia (1648)** where the word sovereignty was first used. Tipu thus became the "father of multilateralism in India" — he engaged with multiple states independently.*
@@ -357,7 +357,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
         *   **Treaty of Deogaon (1805)**: Bhonsle defeated.
 3.  **3rd Anglo-Maratha War (1817–1819)**: Peshwa tried once more to come back — this time with **Holkar**.
     *   **Gaikwad & Holkar** lost.
-    *   **Treaty of Poona (1817)**: Peshwa title **abolished** — no more Peshwas. Baji Rao II pensioned off to **Bithur**. He had no biological son — his **adopted son was Nana Sahib**. *Context: British refused to accept Nana Sahib as Peshwa (adopted, not bloodline → Doctrine of Lapse logic). Nana Sahib denied pension → joined the **Revolt of 1857 from Kanpur** (because Bithur is 34 km from Kanpur — UPSC question). His secretary was **Tatya Tope**, who fought from the Jhansi region helping Rani Laxmibai.*
+    *   **Treaty of Poona (1817)**: Peshwa title **abolished** — no more Peshwas. Baji Rao II pensioned off to **Bithur**. He had no biological son — his **adopted son was Nanaji (Nana Saheb)**. *Context: British refused to accept Nana Saheb as Peshwa (adopted, not bloodline → Doctrine of Lapse logic). Nana Saheb denied pension → joined the **Revolt of 1857 from Kanpur** (because Bithur is 34 km from Kanpur — UPSC question). His secretary was **Tatya Tope**, who fought from the Jhansi region helping Rani Laxmibai.*
     *   **Treaty of Mandasor (1819)**: Holkar defeated.
 
 ---
