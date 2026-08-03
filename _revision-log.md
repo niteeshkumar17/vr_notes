@@ -17,15 +17,35 @@
 
 | Subject | Topic / Chapter | Last Tested | Attempts | Accuracy | Next Due | Notes |
 |---------|----------------|-------------|----------|----------|----------|-------|
-| GS_History_VR_Notes | Early Modern India (1707 Onwards) | 2026-07-31 | 1 | 71.4% | 2026-08-03 | Missed: 1801 Awadh Subsidiary Alliance (Saadat Khan II vs Asaf-ud-Daulah); 1717 Farman Dastak exclusivity (Company vs private trade). |
-| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-08-01 | 3 | 100.0% | 2026-08-07 | Mastered: IDL midnight origin & Magellan logbook logic. |
-| Current_Affairs | Current Affairs (28 & 29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-02 | Missed: Western Ghats state count (includes Gujarat); Art 16(3) Parliamentary exclusivity. |
+| GS_History_VR_Notes | Early Modern India (Lectures 1, 2, 3) | 2026-08-03 | 3 | 74.2% | 2026-08-06 | Solid on Maratha Padupadshaahi, Tipu Sultan's Caliph investiture, Vellore Mutiny 1806, French EIC, Awadh & Sikh treaties. |
+| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-08-03 | 4 | 82.5% | 2026-08-06 | Mastered time math, DST/UTC/Zulu time, frontogenesis. Needs review on IDL East/West direction flip, Subpolar Low dynamic origin, and solstice pole illumination. |
+| Current_Affairs | Current Affairs (28 & 29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-04 | Missed: Western Ghats state count (includes Gujarat); Art 16(3) Parliamentary exclusivity. |
 
 ---
 
 ## Session History
 
 *(Most recent first)*
+
+### Session 6 — 2026-08-03
+- **Subject:** GS_History_VR_Notes & GS_Geography_VR_Notes
+- **Topic:** Early Modern India (Lectures 1–3: Mughals, Successor States, Marathas, Mysore, European Powers) + Fundamentals of Geography (Grid, Time Math, IDL, Solstices, Heat Balance, Fronts, Pressure Belts)
+- **Format:** 30 Prelims MCQs (with $-1/3$ negative marking)
+- **Score:** 38.64 / 60.00 (Accuracy: 73.3% — 22/30 correct)
+- **Strengths:** 
+  - Mastered Tipu Sultan’s Caliph investiture, Dindigul foundry & Jacobin Club details.
+  - Flawless recall on Serfoji II (Bharatanatyam, Tanjore Quartet) and 1806 Vellore Mutiny triggers.
+  - Mastered Kingmaker politics (Zulfiqar Khan, Sayyid Brothers, Farrukh Siyar, 1717 Farman).
+  - Excellent performance on Time Math calculation (Delhi to NY time), DST, UTC, and Zulu Time.
+  - High competence in Anglo-Maratha Wars (Salbai, Bassein, Poona) & Anglo-French Carnatic Wars.
+  - Great grasp on Frontogenesis, Geodesy, and Great Circle geometry.
+- **Weak Spots & Misread Traps:**
+  - *IDL Direction:* Crossing IDL West $\rightarrow$ East = Gain a day; East $\rightarrow$ West = Lose a day (Entry 009).
+  - *Subpolar Low:* Dynamically induced by air mass convergence + rotation, NOT thermally induced (Entry 015).
+  - *Astrolabe:* Measures latitude at sea, NOT longitude (Entry 011).
+  - *Panipat 1761:* Led to rise of Sikh powers; British annexed Punjab in 1849 (Entry 012).
+  - *Treaty of Allahabad 1765:* Shah Alam II granted Diwani to EIC (not EIC to Shah Alam II) (Entry 016).
+- **Next Revisit Due:** 2026-08-06 (Spaced-repetition: Day 3 review loop)
 
 ### Session 5 — 2026-08-01
 - **Subject:** GS_History_VR_Notes

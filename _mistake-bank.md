@@ -90,6 +90,89 @@
 - **Question Summary:** Assumed Farrukh Siyar's 1717 Farman duty exemptions covered private trade of Company servants.
 - **Core Concept / Correct Fact:** The 1717 Farman duty-free *Dastak* privileges applied **exclusively to official EIC trade**, NOT to private trade of individual servants. Misuse of *Dastaks* for private trade was illegal and sparked conflict with Bengal Nawabs.
 - **Next Revisit Due:** 2026-08-15 (15 days)
+---
+
+### Entry 009 — IDL Crossing Direction & Calendar Effect
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L380-L407)
+- **Question Summary:** Assumed crossing the International Date Line (IDL) from East to West results in gaining/repeating a day.
+- **Core Concept / Correct Fact:** Crossing the IDL **West → East** = **GAIN a day** (repeat a calendar date / enter yesterday). Crossing **East → West** = **LOSE a day** (skip a calendar date / enter tomorrow). Memory anchor: Moving Eastwards towards America = gain a day.
+- **Next Revisit Due:** 2026-08-18 (15 days)
 - **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 010 — Time Zone Boundaries (Ocean vs Land)
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L350-L365)
+- **Question Summary:** Omitted Statement 3 regarding land vs ocean time zone boundaries under IMC 1884.
+- **Core Concept / Correct Fact:** Under IMC 1884 guidelines, time zone boundaries over **international waters** strictly follow mathematical $7.5^\circ$ meridian offsets. Over **land areas**, boundaries flex to conform with political and administrative borders.
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 011 — Astrolabe Measurement (Latitude vs Longitude)
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_History_VR_Notes` — [Early_Modern_India.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_History_VR_Notes/Early_Modern_India.md#L468)
+- **Question Summary:** Missed that the Astrolabe measures latitude at sea, not longitude.
+- **Core Concept / Correct Fact:** The **Astrolabe** is a historical navigational instrument used to determine **LATITUDE** at sea by measuring the altitude of celestial bodies above the horizon. It cannot determine longitude.
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 012 — 3rd Battle of Panipat (1761) & Annexation of Punjab
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_History_VR_Notes` — [Early_Modern_India.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_History_VR_Notes/Early_Modern_India.md#L245-L255)
+- **Question Summary:** Assumed 3rd Panipat (1761) allowed immediate British annexation of Punjab.
+- **Core Concept / Correct Fact:** 3rd Panipat (1761) checked Maratha & Afghan power, creating a power vacuum that **indirectly led to the rise of SIKH powers** (Ranjit Singh taking Lahore in 1798). The British annexed Punjab almost 90 years later in **1849** (after the 2nd Anglo-Sikh War).
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 013 — Longitudinal Linear Distance Convergence
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L195-L215)
+- **Question Summary:** Assumed sailing $10^\circ$ of longitude at $30^\circ \text{ N}$ yields a shorter distance than at $60^\circ \text{ N}$.
+- **Core Concept / Correct Fact:** Because parallels shrink toward the poles, $1^\circ$ of longitude is $\approx 96\text{ km}$ at $30^\circ \text{ N}$ and $\approx 56\text{ km}$ at $60^\circ \text{ N}$. Thus, sailing $10^\circ$ at $30^\circ \text{ N}$ ($960\text{ km}$) covers a **LONGER** physical distance than at $60^\circ \text{ N}$ ($560\text{ km}$).
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 014 — South Pole Solstice Illumination (Dec 22)
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L140-L165)
+- **Question Summary:** Assumed the South Pole experiences 24 hours of darkness during the Northern Hemisphere's Winter Solstice (Dec 22).
+- **Core Concept / Correct Fact:** On Dec 22, the Southern Hemisphere is tilted toward the Sun (Summer Solstice in S.H.). Thus, the **South Pole experiences 24 hours of continuous DAYLIGHT**, while the **North Pole experiences 24 hours of darkness**.
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+---
+
+### Entry 015 — Subpolar Low Pressure Belt Origin Mechanism
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_Geography_VR_Notes` — [01_Fundamentals_of_Geography.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md#L250-L288)
+- **Question Summary:** Assumed Subpolar Low Pressure Belts ($60^\circ\text{--}65^\circ \text{ N/S}$) are thermally induced by cold temperatures.
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+
+---
+
+### Entry 016 — Treaty of Allahabad (1765) Diwani Grantee
+- **Date Missed:** 2026-08-03
+- **Subject / Source:** `GS_History_VR_Notes` — [Early_Modern_India.md](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_History_VR_Notes/Early_Modern_India.md#L435-L442)
+- **Question Summary:** Reversed the grantor and grantee of Diwani rights in Statement 4 of Treaty of Allahabad.
+- **Core Concept / Correct Fact:** Under the Treaty of Allahabad (1765), Mughal Emperor **Shah Alam II granted Diwani rights over Bengal, Bihar, and Odisha TO the East India Company**. The EIC did not surrender Diwani; they received it in exchange for giving Shah Alam II Kara, Allahabad, and a ₹26 lakh annual pension.
+- **Next Revisit Due:** 2026-08-18 (15 days)
+- **Status:** Pending (Attempt 1)
+
+
+
+
+
+
+
 
 
