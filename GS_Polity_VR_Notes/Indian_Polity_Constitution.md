@@ -1,8 +1,8 @@
 # Indian Polity & Constitution
 
-> **Source:** Vajiram & Ravi Class Lecture 01 & Notes
+> **Source:** Vajiram & Ravi Class Lectures 01 & 02 & Notes
 > **Date:** 4 August 2026
-> **Last Updated:** 2026-08-03
+> **Last Updated:** 2026-08-04
 
 ---
 
@@ -203,3 +203,306 @@
 
 *"Success does not lie in the book list. It lies in **how** to read."*
 *"Anything that you cannot revise, shall not be studied."*
+
+---
+
+## Lecture 02 — Salient Features of the Indian Constitution
+
+> **Date:** 2 August 2026 (Pages 9–17)
+
+> [!NOTE]
+> There is **no exhaustive list** of Salient Features. Whatever is taught across the entire Polity syllabus is, in essence, a Salient Feature. Many features (FR, DPSP, Emergency, etc.) will become full-fledged chapters and are only noted here — not expanded.
+
+---
+
+### Feature ① — Lengthiest Written Constitution
+
+**The Constitution of India (COI) is the lengthiest written constitution in the world.**
+
+#### Structure of COI
+
+| Component | Original (1950) | Current (2026) |
+|---|---|---|
+| **Preamble** | 1 | 1 (amended by 42nd Amendment, 1976) |
+| **Articles** | ~395 | ~470 (added via [Art. 368](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_368.md) amendments) |
+| **Schedules** | 8 | 12 |
+| **Word Count** | ~90,000 words | Even larger |
+
+**Hierarchy within Provisions:** COI → **Parts** → Chapters → **Articles** → Clauses → Sub-clauses → Sub-sub-clauses
+
+**Article** = A **stand-alone provision** in the Constitution. Self-sufficient — no prerequisite reading of another article needed to understand it. (e.g., [Article 21](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_21.md) is complete in itself.)
+
+**Schedules** = Quantitative appendices at the end (like appendices in a book).
+
+#### 4 Reasons Why the Constitution is Bulky
+
+| # | Factor | Explanation |
+|---|--------|-------------|
+| 1 | **Historical** — GOI Act, 1935 | The entire structural part of COI was borrowed from the Government of India Act 1935, itself the bulkiest British law. We took a bulky base and added more aspirations to it. |
+| 2 | **Geographical** — Vastness + **Diversity** | India is vast, but USA is vast too (yet has a short constitution). The real factor is **diversity** — diversified people = diversified aspirations = more provisions needed to cater to all sections. |
+| 3 | **Single Constitution** | Unlike USA's dual constitution model (one at centre + one per state), India chose a **single constitution** covering Centre, States, and (after 73rd & 74th Amendments) Local Government — all three tiers under one document. |
+| 4 | **Legal Luminaries** | Most Constituent Assembly members were lawyers. A lawyer's job = convert subjective situations into objective reality through detailed definitions. This lawyerly mindset produced extensive sub-clauses. *"A document made by lawyers, for lawyers."* — Shakespeare: *"For justice to be there, kill all the lawyers."* |
+
+---
+
+### Feature ② — Blend of Rigidity & Flexibility
+
+*   At **certain parts** of the Constitution, amendment requires a **complex process** involving more than one institution (rigid — e.g., requiring state ratification under [Art. 368](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_368.md)).
+*   At **most places**, amendment uses a **simple process** involving only Parliament by special majority (flexible).
+*   Hence, our Constitution is a **blend** of rigidity and flexibility — not purely one or the other.
+
+---
+
+### Feature ③ — Neither Parliamentary Sovereignty nor Judicial Supremacy → Constitutional Supremacy with Checks & Balances
+
+> [!IMPORTANT]
+> This was a **favourite UPSC question** for ~10 years. Understand the distinction between Supremacy (comparative) vs. Sovereignty (absolute).
+
+#### Two Models We Rejected
+
+| Model | Country | Who is Most Powerful? | Type of Term |
+|-------|---------|----------------------|-------------|
+| **Judicial Supremacy** | USA (Written) | **Judiciary** — can question both L and E via Judicial Review | **Supremacy** = comparative (more powerful than the other two) |
+| **Parliamentary Sovereignty** | UK (Unwritten) | **Parliament** — all-powerful; can do anything except change a man to a woman (i.e., except challenging nature) | **Sovereignty** = absolute (all-powerful, not just comparatively) |
+
+#### Key Definitions
+
+*   **Parliamentary Sovereignty** = The **primacy of Parliament in the law-making domain** in comparison to the other two organs (Judiciary & Executive). In the law-making domain, Parliament's laws have more legitimacy, more acceptance, more primacy than laws made by Executive or Judiciary.
+*   **Supremacy** = a **comparative** term (more powerful *than* others).
+*   **Sovereignty** = an **absolute** term (all-powerful in itself). Used for territorial entities (India is sovereign, not India is supreme).
+
+#### India's Model: Constitutional Supremacy with Checks & Balances
+
+*   India rejected both the US and UK models. We wanted **neither** one organ to be burdened with excessive power, **nor** one organ to be so powerful it cannot be questioned.
+*   In India, **all three organs** (L, E, J) are placed on the **same pedestal** — none is more powerful than the other two.
+*   All three derive their power from a **single source: the Constitution of India** → hence **Constitutional Supremacy**.
+*   Additionally, **each organ checks the other two** → hence **Checks & Balances**.
+
+> [!NOTE]
+> Why not "Constitutional Sovereignty"? Because sovereignty belongs to **"We the People of India"** (Preamble). The Constitution derives its authority FROM the people. Also, sovereignty as a term is used for territorial entities (countries), not documents.
+
+---
+
+### Feature ④ — Single Citizenship
+
+*   The Constitution defines the **relationship between the State and its people** → that relationship is **Citizenship**.
+*   In India, there is a **single political identity**: **Citizen of India**.
+*   **No model of dual citizenship** — **neither internal nor external**:
+    *   *No internal dual citizenship:* Unlike USA (where you are a citizen of both the US and your state, e.g., citizen of California), India does not recognize state-level citizenship. You are NOT a "citizen of Gujarat" or "citizen of Tamil Nadu."
+    *   *No external dual citizenship:* Unlike many European countries, you cannot hold citizenship of India and another country simultaneously.
+*   Irrespective of multiple social identities (caste, class, race, religion, state of origin), there is only **one political identity** for the State vis-à-vis its people: **Citizen of India**.
+
+---
+
+### Feature ⑤ — Federal Polity with Unitary Bias
+
+> [!IMPORTANT]
+> One of the **most important features** of the Indian Constitution. It sets the entire tone of Indian governance.
+
+#### What is Unitary Polity?
+
+*   **Unit** = one/single → Only **one government** (Central/Union), all power vested in it.
+*   **Power = Responsibility.** When the CG is powerful, it is also *responsible* for all governance.
+*   CG may create regional governments to share workload, but can **abolish them** at will (since all power is concentrated in CG).
+*   This is a model of **Concentration of Power (COP)**.
+*   Base model: **United Kingdom.**
+
+#### What is Federal Polity?
+
+*   **Federal** comes from Latin **"Foedus"** = Agreement.
+*   Minimum **two parties** sign the agreement: Central Government + Regional Government(s).
+*   This agreement = the **Constitution** of that country.
+*   The Constitution provides powers & responsibilities to **both** CG and RG.
+*   CG **cannot abolish** RG (RG is a *participant* to the agreement, not a *creation* of CG). Similarly, RGs cannot abolish CG.
+*   This is a model of **Division of Power (DOP)**.
+*   Base model: **United States of America.**
+
+#### Federal vs. Unitary — Comparison Table
+
+| # | Federal (USA = True Federation) | Unitary (UK) | **India** |
+|---|---|---|---|
+| 1 | Written Constitution | Unwritten Constitution | ✅ **Written** (Federal side) |
+| 2 | Dual Constitution (Centre + State) | Single Constitution | ✅ **Single** (Unitary side) |
+| 3 | Dual Govt (CG & RG = **Autonomous**) | Single Govt / Dual but CG >>> RG | ✅ **Dual but CG >>> RG** (Unitary side) |
+| 4 | Dual Citizenship | Single Citizenship | ✅ **Single** (Unitary side) |
+| 5 | Bicameralism (Council of State = **Strong** chamber, equal to House of People) | Unicameralism / Bicameralism with **weak** upper house | ✅ **Bicameralism with weak Rajya Sabha** (Unitary side) |
+| 6 | Independent Judiciary | Integrated Judiciary | ✅ **Both Independent AND Integrated** |
+
+> [!NOTE]
+> **Written constitution can be both federal and unitary.** If a written constitution states "all power vested in CG," it is a written-unitary constitution. **Unwritten constitutions are always unitary** — because concentration of power is inherent without a written agreement dividing it.
+
+#### Independent Judiciary vs. Integrated Judiciary
+
+**Integrated Judiciary (Unitary feature):**
+*   Indian judiciary is a **pyramid**: Supreme Court → High Courts → District/Local Courts.
+*   **Structurally integrated:** Connected from bottom to top.
+*   **Functionally integrated:** All courts use the **same laws** (COI, BNS, BNSS, etc.) — no separate law sets for different tiers.
+*   A litigant can move from District → HC (appeal) → SC (appeal) → SC (Review Petition) → SC (Special Leave Petition) → SC (Curative Petition) → SC ([Art. 142](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_142.md) — Complete Justice).
+*   Even if unhappy with SC verdict, one **cannot go outside** the system → *"The SC is not supreme because it is infallible; it is infallible because it is final."*
+*   All judicial power concentrated in one body (SC) = **Concentration of Power** = Unitary feature.
+
+**Independent Judiciary (Federal feature):**
+*   When the **Legislature and Executive are NOT allowed to intervene in the day-to-day working** of the Judiciary, it is termed **Independent Judiciary**.
+*   Day-to-day working = interpreting the Constitution and hearing cases (delivering justice).
+*   Speaker of Lok Sabha cannot tell SC which cases to hear; PM/President cannot tell HC Chief Justice to hear only criminal cases.
+*   Needed in federal polity because: The agreement (Constitution) needs an **unbiased umpire** to settle disputes between CG and RG. If L or E could influence J, decisions would be biased.
+
+> [!NOTE]
+> **President's Pardoning Power ([Art. 72](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_72.md)):** The President is **NOT part of the judiciary.** Pardoning power is an *executive* power given to the President as head of state because judges cannot track how a prisoner has reformed in jail — the executive can. The President never sits as a court.
+
+#### India's Federal Classification
+
+*   India has **more features from the Unitary side** → hence called **Federal Polity with Unitary Bias**.
+*   Both DOP and COP exist, but **inclination is heavily toward COP**.
+*   The word **"federal," "federation," or "federalism"** appears **NOWHERE** in the Indian Constitution. The word **"Union"** was preferred, making the Centre stronger than the States.
+*   India is **not** a "true federation" (unlike USA) → political academicians use various adjectives:
+    *   **Cooperative Federalism**
+    *   **Collaborative Federalism**
+    *   **Competitive Federalism**
+    *   **Quasi-Federalism** — looks like federation but isn't a true copy of USA.
+*   India's federation is **Sui Generis** (Latin: *Sui* = self, *Generis* = type/kind) → **"Of its own kind"** — our own unique type of federation.
+
+---
+
+### Features ⑥–⑩ (Noted — Will Be Full Chapters)
+
+| # | Salient Feature | Status |
+|---|----------------|--------|
+| 6 | **Fundamental Rights & Fundamental Duties** | Dedicated chapter |
+| 7 | **DPSP (Directive Principles of State Policy)** | Dedicated chapter |
+| 8 | **Local Government** (73rd & 74th Amendments) | Dedicated chapter |
+| 9 | **Emergency Provisions** | Dedicated chapter |
+| 10 | **Free & Fair Elections** etc. | Dedicated chapter |
+
+---
+
+## Utility of Constitution
+
+### 1. Establish Limited Government
+
+**Historical Context:**
+*   **1600s — Louis XIV of France** declared *"L'état, c'est moi"* ("I am the State").
+*   Under absolute monarchy: **Unlimited Power** → **Arbitrary Action** → **Unpredictable Government**.
+*   The Constitution exists as a **"limiting law"** that constrains government power:
+    *   **Legislature (L)** → Makes laws
+    *   **Executive (E)** → Implements laws
+    *   **Judiciary (J)** → Interprets laws
+*   The **Constitution → Government** (you *cannot* exceed these boundaries) = **Doctrine of Limited Government**.
+
+### 2. Instruments of Limited Government (Implicit in COI)
+
+| # | Instrument | How It Limits Government |
+|---|-----------|-------------------------|
+| 1 | **Constitution itself** → Constitutional Government = Limited Government | The very existence of a written constitution limits government action. |
+| 2 | **Basic Structure Doctrine (BSD)** | JR + Limited Govt. Established in **Kesavananda Bharati Case (KBC), 1973** via [Art. 368](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_368.md). Even Parliament cannot amend the "basic structure" of the Constitution. |
+| 3 | **Fundamental Rights (Part III)** | Justiciable rights that citizens can enforce against the State. |
+| 4 | **Democracy** | Government derives legitimacy from the people → accountable to the people. |
+| 5 | **Separation of Powers (SoP)** | Specialized functions of the State kept separate from one another. |
+
+---
+
+## Separation of Powers (SoP)
+
+### Theory of Separation of Powers
+
+*   Proposed by **Montesquieu** (French philosopher) in his book ***"The Spirit of the Laws"*** (1748).
+*   According to SoP, the **specialized functions of the State shall be kept from one another** — i.e., Legislature, Executive, and Judiciary should operate independently within their domains.
+*   Also known as the **"Watertight Compartmentalization Model"** — each organ operates in its own sealed compartment.
+
+### Complete SoP vs. Partial SoP
+
+| Model | Country | Description |
+|-------|---------|-------------|
+| **Complete SoP** | USA (1787) | Strict separation: L, E, J have absolute walls between them. Presidential System. |
+| **Partial SoP** | India (1947/1950) | Functional overlap between organs. **Parliamentary System** — E is drawn from L and accountable to L. |
+
+#### Montesquieu's Model — "Neither Feasible nor Desirable"
+
+*   **Complete SoP → Neither feasible nor desirable** in practice because:
+    *   **Legislature (L):** Makes laws + conducts Sessions (Parliament)
+    *   **Executive (E):** Implements laws + **also makes laws** (Ordinances under [Art. 123](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_123.md) / [Art. 213](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_213.md)) + works 24×7×365
+    *   Therefore, strict watertight separation is impractical.
+
+### Doctrine of Checks & Balances
+
+*   SoP alone is not enough → we also need **Checks & Balances** to ensure **Fair & Just** governance.
+*   Each organ **limits/stops** the other two from overreaching:
+
+**How the Three Organs Check Each Other:**
+*   **L checks E:** Questions, No-Confidence motions, Parliamentary oversight
+*   **L checks J:** Appointment process, Impeachment of judges
+*   **E checks L:** Prorogation, Summoning, Ordinance-making
+*   **E checks J:** Appointment of judges, Removal proceedings
+*   **J checks L:** **Judicial Review (JR)** — can strike down unconstitutional laws
+*   **J checks E:** **Judicial Review (JR)** — can quash executive orders; **Judicial Activism**, **Vishakha Guidelines** (1997, SC laid down sexual harassment guidelines in absence of legislation)
+
+### SoP in the Indian Constitution (Implicit + Explicit)
+
+*   **SoP is both implicit and explicit** in the Indian Constitution:
+
+| Type | Where Found |
+|------|-------------|
+| **Implicit** | COI establishes Limited Government; Basic Structure Doctrine protects SoP |
+| **Explicit** | **Part V** — Union Government (Civil Services, Public Services); [Art. 50](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_46.md) — DPSP directing separation of judiciary from executive; 3 Freedoms under Part III; 4 institutions under SC/ST protections |
+
+*   **SoP [L|E|J]** — the three organs
+*   **DOP — Integrated** — Division of Power is integrated (not watertight) in India
+*   MC 102 reference (Constituent Assembly debates on SoP)
+*   **1980–67 — Golaknath case** — early landmark on SoP and Parliament's amending power
+
+---
+
+## Preamble
+
+### What is the Preamble?
+
+The Preamble is the **introduction / preface / summary** of the Constitution of India.
+
+| Term | Meaning |
+|------|---------|
+| **Objective / Goals** | Declares the fundamental aims of the Constitution |
+| **Purpose** | Provides a roadmap for governance |
+| **Introduction / Preface / Summary** | The opening statement that captures the Constitution's **Quintessence** (essence) |
+
+> *"The SC stated that the Preamble is the key to the minds of the constitution makers."*
+
+### Core Elements of the Preamble
+
+**Nature of State:**
+*   India → **Sovereign, Socialist, Secular, Democratic, Republic**
+
+**Objectives / Goals:**
+*   **Justice** — Social, Economic, Political (S/E/P)
+*   **Liberty** — of thought, expression, belief, faith, and worship (t/e/b/f/w)
+*   **Equality** — of status and opportunity (S/O)
+*   **Fraternity** — assuring dignity of the individual and unity & integrity of the Nation (D/U&I)
+
+### History of the Preamble
+
+| Stage | Event |
+|-------|-------|
+| 1 | **Partition of India** — created the need for a constitutional identity |
+| 2 | **Objectives Resolution** — moved in the Constituent Assembly by Jawaharlal Nehru (13 Dec 1946) |
+| 3 | **UN Charter** — influenced the universal values enshrined in the Preamble |
+| 4 | **Preamble of the US Constitution** — *"We the People"* model (1787–89) |
+
+*   The Preamble is the **"Most finely worded document"** (1999 — SC observation).
+*   It is a **Document of Collective Wisdom** — reflects the cumulative aspirations of the Constituent Assembly.
+
+### Utility of Preamble
+
+| # | Utility |
+|---|---------|
+| 1 | Declares the **ultimate sovereign power** — *"We the People of India"* |
+| 2 | Declares the **Ideals & Aspirations** of the nation |
+| 3 | Declares the **Enactment Clause** — the legal authority under which the Constitution was adopted |
+
+### Is the Preamble a Part of the Constitution?
+
+| School of Thought | Position |
+|-------------------|----------|
+| **Traditional Legal School** | Preamble is **not** a part of the Constitution (older view) |
+| **Modern Legal School** | Preamble **is** a part of the Constitution (current accepted view post-Kesavananda Bharati, 1973) |
+
+---
+
