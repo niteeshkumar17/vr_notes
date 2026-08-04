@@ -37,23 +37,10 @@
     *   **GS-III (Economy):** MSME sector's role in employment, GDP contribution, and export competitiveness.
     *   **GS-II (Governance):** Legislative process — passage amid disruptions raises democratic accountability questions.
 
----
-
-### Tamil Nadu Urges SC to Enforce Cauvery Water Order
-*   **Context:** Tamil Nadu approached the Supreme Court urging enforcement of the Cauvery Water Disputes Tribunal's order regarding water-sharing with Karnataka.
-*   **Background:**
-    *   The Cauvery dispute involves 4 states: Karnataka, Tamil Nadu, Kerala, and Puducherry (UT).
-    *   The **Cauvery Water Disputes Tribunal (CWDT)** gave its final award in 2007.
-    *   The SC modified the tribunal's award in 2018, allocating 177.75 TMC to Tamil Nadu.
-    *   The **Cauvery Water Management Authority (CWMA)** was constituted in 2018 to implement the SC order.
-*   **UPSC Relevance:**
-    *   **GS-II (Polity — Centre-State / Inter-State Relations):** [Article 262](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_262.md) — Adjudication of disputes relating to waters of inter-State rivers; Inter-State Water Disputes Act, 1956.
-    *   **GS-I (Geography):** Cauvery river basin — originates at Talakaveri (Coorg, Karnataka), flows through Karnataka and Tamil Nadu into Bay of Bengal.
-
-**Related Constitutional Provisions:**
-*   **[Article 262](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_262.md)** — Parliament may provide for adjudication of disputes relating to waters of inter-State rivers or river valleys.
 
 ---
+
+
 
 ## 2. Education & Governance
 
