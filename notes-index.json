@@ -85,6 +85,14 @@
       "title": "Article 312"
     },
     {
+      "file": "Article_324.md",
+      "title": "Article 324"
+    },
+    {
+      "file": "Article_326.md",
+      "title": "Article 326"
+    },
+    {
       "file": "Article_33.md",
       "title": "Article 33"
     },
@@ -126,7 +134,7 @@
     },
     {
       "file": "Article_51A_g.md",
-      "title": "Article 51A g"
+      "title": "Article 51A G"
     },
     {
       "file": "Article_72.md",
@@ -151,42 +159,46 @@
   ],
   "Current_Affairs": [
     {
-      "file": "August_2026\\2026-08-01_Current_Affairs.md",
-      "title": "08-01 Current Affairs"
+      "file": "August_2026/2026-08-01_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "August_2026\\2026-08-02_Current_Affairs.md",
-      "title": "08-02 Current Affairs"
+      "file": "August_2026/2026-08-02_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "August_2026\\2026-08-03_Current_Affairs.md",
-      "title": "08-03 Current Affairs"
+      "file": "August_2026/2026-08-03_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "August_2026\\2026-08-04_Current_Affairs.md",
-      "title": "08-04 Current Affairs"
+      "file": "August_2026/2026-08-04_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "July_2026\\2026-07-28_Current_Affairs.md",
-      "title": "07-28 Current Affairs"
+      "file": "August_2026/2026-08-05_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "July_2026\\2026-07-29_Current_Affairs.md",
-      "title": "07-29 Current Affairs"
+      "file": "July_2026/2026-07-28_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "July_2026\\2026-07-30_Current_Affairs.md",
-      "title": "07-30 Current Affairs"
+      "file": "July_2026/2026-07-29_Current_Affairs.md",
+      "title": "Current Affairs"
     },
     {
-      "file": "July_2026\\2026-07-31_Current_Affairs.md",
-      "title": "07-31 Current Affairs"
+      "file": "July_2026/2026-07-30_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "July_2026/2026-07-31_Current_Affairs.md",
+      "title": "Current Affairs"
     }
   ],
   "GS_Geography_VR_Notes": [
     {
       "file": "01_Fundamentals_of_Geography.md",
-      "title": "Fundamentals of Geography"
+      "title": "Fundamentals Of Geography"
     }
   ],
   "GS_History_VR_Notes": [
