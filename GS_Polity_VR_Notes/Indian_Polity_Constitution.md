@@ -1,8 +1,8 @@
 # Indian Polity & Constitution
 
-> **Source:** Vajiram & Ravi Class Lectures 01 & 02 & Notes
-> **Date:** 4 August 2026
-> **Last Updated:** 2026-08-04
+> **Source:** Vajiram & Ravi Class Lectures 01, 02 & 03 & Notes
+> **Date:** 4–5 August 2026
+> **Last Updated:** 2026-08-05
 
 ---
 
@@ -44,6 +44,17 @@
 **Difference between Bye-laws (6) and Orders/Directives (7):**
 *   Bye-laws → made by **legislative bodies** at the local level.
 *   Orders/Directives → made by **executive bodies** at centre, state, or local level.
+
+#### Statutory Law vs. Constitutional Law (Lecture 3 Recap)
+
+| | Statutory / Ordinary Law | Constitutional Law |
+|---|---|---|
+| **Made by** | Parliament / State Legislature | Constituent Assembly (COI) |
+| **Provision** | Written in ordinary Acts/statutes | Written in the Constitution itself |
+| **Example** | Right to Education **Act** 2009 (how you get education — procedure) | [Article 21A](../Articles/Article_21A.md) (right to education itself) |
+| **Hierarchy** | Subordinate to Constitutional Law | Supreme — cannot be challenged by statutory law |
+
+> **Key Distinction (from Lecture 3):** Right to Property was a **Fundamental Right** (Art. 19(1)(f)) → **44th Amendment Act, 1978** (Janata Party Govt) converted it from a Fundamental Right to a **Constitutional Right** ([Art. 300A](../Articles/Article_300A.md)) — i.e., reduced its status.
 
 ---
 
@@ -166,7 +177,7 @@
 #### Rigid vs Flexible vs Both (Amendment Process)
 
 | Type | Definition | Example |
-|------|-----------|---------|
+|------|-----------|---------| 
 | **Rigid** | Amendment process involves **more than one institution** | **USA:** CAB → passed by **2/3 Congress** + **3/4 States (38 of 50)** → CAA |
 | **Flexible** | Only **one institution** involved in amendment | **Sri Lanka:** CAB → passed by **2/3 Parliament** → CAA |
 | **Both** | Some amendments rigid, some flexible, depending on subject | **India:** (a) *Federal subjects:* CAB → **2/3 Parliament** + **1/2 States** → CAA (Rigid); (b) *Non-federal subjects:* CAB → **2/3 Parliament** → CAA (Flexible) |
@@ -429,12 +440,39 @@
 *   Each organ **limits/stops** the other two from overreaching:
 
 **How the Three Organs Check Each Other:**
-*   **L checks E:** Questions, No-Confidence motions, Parliamentary oversight
-*   **L checks J:** Appointment process, Impeachment of judges
-*   **E checks L:** Prorogation, Summoning, Ordinance-making
-*   **E checks J:** Appointment of judges, Removal proceedings
-*   **J checks L:** **Judicial Review (JR)** — can strike down unconstitutional laws
-*   **J checks E:** **Judicial Review (JR)** — can quash executive orders; **Judicial Activism**, **Vishakha Guidelines** (1997, SC laid down sexual harassment guidelines in absence of legislation)
+
+| Checking Organ | Checked Organ | Instrument of Check |
+|---|---|---|
+| **Legislature** → | Executive | Questions (seeking accountability inside & outside Parliament); No-Confidence Motion |
+| **Legislature** → | Judiciary | Removal/Impeachment of judges by Parliament |
+| **Executive** → | Legislature | Proceedings — summoning sessions, prorogation, dissolution of Lok Sabha; President's assent to bills; Ordinance-making |
+| **Executive** → | Judiciary | Appointment of judges (President appoints upon aid & advice of COM) |
+| **Judiciary** → | Legislature | **Judicial Review (JR)** — testing constitutionality of laws |
+| **Judiciary** → | Executive | **Judicial Review (JR)** — testing constitutionality of executive actions |
+
+> [!NOTE]
+> **Doctrine of Mutual Respect (from Lecture 3):** Real governance operates on a doctrine of mutual respect between the three organs. The organs are **not waiting to fight each other**. Judiciary will never take a suo-motu action against a law unless somebody appeals. Even then, the judiciary gives **benefit of doubt** to the legislature and executive. The organs respect each other's institutional autonomy (institutional comity). Checks & Balances activate only when an organ violates the Constitution or acts against the welfare of the nation.
+
+#### Why Judiciary Is the Custodian of the Constitution
+
+*   Executive and Legislature are **popular chambers** — they come to power through votes → will always tend to act in favour of their **vote bank**.
+*   Judiciary is based on **meritocracy**, not elections → judges are not under populistic pressure → can be fair and independent.
+*   Hence, judiciary has been made the **custodian of the Constitution** → guardian and final interpreter.
+*   *(UPSC Prelims 2016: Who is the custodian of the Constitution? → Supreme Court of India)*
+
+#### Collegium System & Judicial Appointments
+
+*   **Collegium System** → the body that chooses/recommends the list of judges who can be promoted or appointed.
+*   The list is given to the **President of India**, who acts upon the aid and advice of the Council of Ministers to finalize appointments.
+*   **NJAC (National Judicial Appointments Commission)** — attempted by Parliament to replace the Collegium. Declared **unconstitutional** in 2015 on grounds of **independence of judiciary** (basic structure) and **primacy of judiciary in judicial appointment**.
+*   This led to the idea of **Memorandum of Procedure (MoP)** — to reform the appointment process within the Collegium framework.
+*   India is the **only country** where judges essentially appoint judges (Collegium system).
+
+#### Indian SC — Becoming the World's Strongest Court?
+
+*   *(UPSC GS Paper 2, 2021)*: Is the Indian Supreme Court becoming the world's strongest court?
+*   Answer: **Yes** — India's SC has arguably surpassed even the US Supreme Court in scope and power.
+*   Key factors: **Basic Structure Doctrine** (Brahmastra), **Menaka Gandhi Case** (expanded scope of rights), **Integrated Judiciary**, Judicial Activism.
 
 ### SoP in the Indian Constitution (Implicit + Explicit)
 
@@ -443,7 +481,7 @@
 | Type | Where Found |
 |------|-------------|
 | **Implicit** | COI establishes Limited Government; Basic Structure Doctrine protects SoP |
-| **Explicit** | **Part V** — Union Government (Civil Services, Public Services); [Art. 50](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_46.md) — DPSP directing separation of judiciary from executive; 3 Freedoms under Part III; 4 institutions under SC/ST protections |
+| **Explicit** | **Part V** — Union Government (Civil Services, Public Services); [Art. 50](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_50.md) — DPSP directing separation of judiciary from executive; 3 Freedoms under Part III; 4 institutions under SC/ST protections |
 
 *   **SoP [L|E|J]** — the three organs
 *   **DOP — Integrated** — Division of Power is integrated (not watertight) in India
@@ -464,14 +502,14 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 | **Purpose** | Provides a roadmap for governance |
 | **Introduction / Preface / Summary** | The opening statement that captures the Constitution's **Quintessence** (essence) |
 
-> *"The SC stated that the Preamble is the key to the minds of the constitution makers."*
+> *"The SC stated that the Preamble is the key to the minds of the constitution makers."* — **Re Berubari Union, 1960**
 
 ### Core Elements of the Preamble
 
-**Nature of State:**
+**Nature of State (Ideals → for India):**
 *   India → **Sovereign, Socialist, Secular, Democratic, Republic**
 
-**Objectives / Goals:**
+**Objectives / Goals (Aspirations → for Indians):**
 *   **Justice** — Social, Economic, Political (S/E/P)
 *   **Liberty** — of thought, expression, belief, faith, and worship (t/e/b/f/w)
 *   **Equality** — of status and opportunity (S/O)
@@ -484,7 +522,7 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 | 1 | **Partition of India** — created the need for a constitutional identity |
 | 2 | **Objectives Resolution** — moved in the Constituent Assembly by Jawaharlal Nehru (13 Dec 1946) |
 | 3 | **UN Charter** — influenced the universal values enshrined in the Preamble |
-| 4 | **Preamble of the US Constitution** — *"We the People"* model (1787–89) |
+| 4 | **Preamble of the US Constitution** — *"We the People"* model (1787–89) — USA was the **first country to have a Preamble** |
 
 *   The Preamble is the **"Most finely worded document"** (1999 — SC observation).
 *   It is a **Document of Collective Wisdom** — reflects the cumulative aspirations of the Constituent Assembly.
@@ -497,12 +535,266 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 | 2 | Declares the **Ideals & Aspirations** of the nation |
 | 3 | Declares the **Enactment Clause** — the legal authority under which the Constitution was adopted |
 
-### Is the Preamble a Part of the Constitution?
+---
 
-| School of Thought | Position |
-|-------------------|----------|
-| **Traditional Legal School** | Preamble is **not** a part of the Constitution (older view) |
-| **Modern Legal School** | Preamble **is** a part of the Constitution (current accepted view post-Kesavananda Bharati, 1973) |
+## Lecture 03 — Preamble (Detailed) & Ideals of the Preamble
+
+> **Date:** 5 August 2026
 
 ---
 
+### Is the Preamble a Part of the Constitution?
+
+> [!IMPORTANT]
+> This is one of the most frequently tested topics. Two schools of thought exist — and the answer **changed** between 1960 and 1973.
+
+#### ① Traditional Legal School — Preamble is NOT a Part
+
+**Origin:** United States of America (first country to have a Preamble).
+
+**US Supreme Court's Position:**
+*   The Preamble is like a **decorative item / decorative piece** to the Constitution.
+*   Its presence or absence would **never impact the substance** of the Constitution.
+*   Analogy: Like a vase or statue in a house — if it breaks, you can still live in the house. Like tearing out the preface of a book — your preparation from Chapter 1 onwards is unaffected.
+*   **It is neither enforceable nor justiciable.**
+
+**Indian Iteration — Re Berubari Union, 1960:**
+*   This is a **Reference Case (Re)** — a rare type of case where the executive (President) refers a question of legal interpretation to the Supreme Court for clarity. (Only ~7 such cases in Indian history.)
+*   The **Indian SC also stated** the Preamble is **not** a part of the Constitution.
+*   **SC's Reasoning:** The Preamble:
+    *   **Neither participates in distribution of powers** to any organ of the state
+    *   **Nor regulates the powers** of any organ of the state
+    *   It is **neither enforceable nor justiciable**
+*   Read the Preamble — does it give any power to L, E, or J? **No.** Does it restrict or regulate any organ? **No.** → Hence, not a part of the Constitution.
+*   **However**, in the same case, the SC acknowledged that the Preamble is a **very important document** because it represents the **"key to unlock the minds of the Constitution makers."**
+
+#### ② Modern Legal School — Preamble IS a Part (Current Accepted View)
+
+**Landmark Case — Kesavananda Bharati Case (KBC), 1973:**
+
+*   In just 13 years after Berubari Union, the **same Supreme Court reversed its position** and declared: **The Preamble is an integral part of the Constitution.**
+
+**Why the Change? — The SC Identified a Crucial Usage:**
+
+*   Suppose there is a provision **X** in the Constitution that can be interpreted in 4 different ways: A, B, C, or D.
+*   The SC, as the **final interpreter** and **custodian of the Constitution**, applies all available **legal instruments** (theories, doctrines, hypotheses, past references) to determine the correct meaning.
+*   If, **even after exhausting all legal instruments**, the Court is **still confused** about the right interpretation:
+    *   The Court reads **each version** (A, B, C, D) **in alignment with the Preamble**.
+    *   The version that **aligns most with the Preamble** is declared the **final interpretation** of provision X.
+*   **Why the Preamble?** Because the Constitution makers (Dr. Ambedkar, the Drafting Committee, the entire Constituent Assembly) are no longer alive — but their **thinking lives on in the Preamble**. It is the **key to unlock their minds**.
+*   If you remove the Preamble, **thousands of cases** would lie idle without the Court being able to give the right interpretation.
+
+**Key Terms:**
+*   **Integral** = **Inseparable** — the Preamble cannot be separated from the Constitution.
+*   **However**: Even though it is integral, the Preamble is **not a law** → it is **not written under any Article number** → it is **neither enforceable nor justiciable**.
+
+| | Traditional Legal School | Modern Legal School |
+|---|---|---|
+| **Case** | Re Berubari Union, 1960 (also US SC) | Kesavananda Bharati Case, 1973 |
+| **Position** | Preamble is **NOT** a part | Preamble **IS** an integral part |
+| **Legal status** | Decorative item; neither enforceable nor justiciable | Integral (inseparable) but still neither enforceable nor justiciable |
+| **Usage** | Key to minds of Constitution makers (acknowledged but not given legal weight) | **Legal instrument of last resort** for interpretation of ambiguous provisions |
+
+---
+
+### Can the Preamble Be Amended?
+
+*   **Yes.** Since the Preamble **is** a part of the Constitution (KBC, 1973) → it can be amended using [Article 368](../Articles/Article_368.md).
+*   **Has it been amended?** Yes — **once**, by the **42nd Amendment Act, 1976**.
+*   **Three terms inserted:** **Socialist**, **Secular**, and **Integrity**.
+
+---
+
+### Is the Preamble Part of Basic Structure Doctrine (BSD)?
+
+> [!IMPORTANT]
+> Common source of confusion in UPSC — because both BSD and Preamble deal with "values."
+
+*   **Answer: The Preamble (as a whole document) is NOT a part of the Basic Structure Doctrine.**
+*   **However**, most of the **individual ideals and aspirations** mentioned in the Preamble have been **declared as part of BSD on a case-to-case basis**.
+    *   E.g., **S.R. Bommai Case** → SC declared **Secularism** is part of BSD.
+    *   Similarly, Democracy, Republic, Judicial Review, etc. have been individually declared BSD features.
+*   The **quote-unquote Preamble** (from "We the People of India" to "hereby adopt, enact and give to ourselves this Constitution") **as a whole** is not BSD. But its **constituent values** mostly are.
+
+---
+
+### Ideals of the Preamble — Nature of the Indian State
+
+> [!NOTE]
+> **Ideals** = for the **country** (India). **Aspirations** = for the **countrymen** (Indians).
+> The terms **Socialist** and **Secular** are the **two most debated terms** in India because:
+> 1. Both were borrowed from foreign contexts where the background was different → meanings changed in India's context.
+> 2. Both were **absent in the original Preamble** and inserted by **42nd Amendment (1976)** for political reasons.
+
+---
+
+### Ideal ① — Sovereign
+
+**Definition:** When a country is **neither a dependency nor a dominion**, it is a sovereign country.
+
+#### (a) Neither a Dependency (= Independent)
+
+| Timeline | Status | Head of State |
+|----------|--------|--------------|
+| **Pre-15 Aug 1947** | British Colony (dependent) | **Viceroy** (appointed by the Crown in London) |
+| **15 Aug 1947** | Independent — **Indian Independence Act, 1947** | **Governor-General** (still appointed by the Crown!) |
+| **26 Jan 1950** | **Sovereign Republic** — Dominion status dropped | **President of India** (elected by Indians) |
+
+*   Last Viceroy = **Lord Mountbatten** → also became **first Governor-General** of free India.
+*   First Indian Governor-General = **C. Rajagopalachari (Rajaji)**.
+*   **Key Insight:** India was **independent from 1947** but NOT sovereign until 1950.
+    *   Independent ≠ Sovereign. Being independent means you are not a colony. But India's Head of State (Governor-General) was **still appointed by the Crown** → still a **Dominion** of the British Crown.
+    *   Sovereignty requires: **neither** a dependency **nor** a dominion.
+*   On **26 January 1950**, the Dominion of India became the **Republic of India** → truly sovereign.
+
+#### (b) International Law Definition
+
+> *Any country having the authority to **acquire** or **cede** a territory is a sovereign country.*
+
+| Term | Meaning |
+|------|---------|
+| **Acquire** | To occupy, capture, gain territory |
+| **Cede** | To supply, surrender, transfer, give away territory |
+
+*   Since India is sovereign → India can, at any time, decide to give away territory (cede) or acquire territory.
+*   **Sovereignty = Power + Responsibility.** No international organisation (UN, World Bank, etc.) can override India's sovereign decisions. They can only issue **gentle reminders** that power comes with responsibility.
+*   International organisations are **not a threat** to sovereignty — they are a **constant reminder** of responsible governance.
+*   *"A war is always a lose-lose situation. Even when you win a war, you lose many things — most importantly, lives."*
+
+---
+
+### Ideal ② — Socialist
+
+> [!IMPORTANT]
+> India's socialism is **NOT** Marxian/Classical/State/Communist socialism. India follows **Democratic Socialism** — a fundamentally different concept. Understanding this distinction is critical for UPSC.
+
+#### Marxian Socialism (USSR Model — Karl Marx)
+
+**Background:** Marx observed societies divided into two groups:
+
+| Group | Name | Character |
+|-------|------|-----------|
+| **Haves** (handful) | **Bourgeois** (Owner class) | Access to money, material, resources, means of production → interest: more profit, more property |
+| **Have-Nots** (majority) | **Proletariats** (Working class) | No access to means of production → offer only hard work → interest: decent wages, minimum standard of living |
+
+*   Their interests are **diagonally opposite** → one grows only at the cost of the other.
+*   Marx: This is **injustice** → to be replaced by **justice** → through **Socialism**.
+
+**Two Pillars of Marxian Socialism:**
+
+| # | Pillar | Explanation |
+|---|--------|-------------|
+| 1 | **No private property** | Private property = root cause of all exploitation. One group protects and grows property at the cost of the other. |
+| 2 | **All means of production controlled by state** (Nationalisation) | When individuals control production → decisions favour profit over wages. State control eliminates this. |
+
+*   Also called: **Marxian / Classical / State / Communist Socialism**
+*   Character: **Rigid / Fixed economic pattern** — no exceptions.
+
+#### India's Position — Democratic Socialism
+
+**Does Marxian Socialism apply to India?**
+
+| Pillar | Applicable to India? |
+|--------|---------------------|
+| No private property | **No** — Right to Property exists (earlier Art. 19(1)(f) FR → now [Art. 300A](../Articles/Article_300A.md) Constitutional Right via 44th Amendment) |
+| All means of production by state | **No** — Mixed economy: Public sector + Private sector + PPP + PPPP |
+
+*   **Since neither pillar applies → India is NOT Marxian-socialist.**
+*   **SC's Position:** India has a **different strand of socialism** → **Democratic Socialism**.
+
+#### Democratic Socialism — Key Characteristics
+
+| Marxian Socialism | Democratic Socialism (India) |
+|---|---|
+| **Rigid** — no private property, only state production | **Flexible** — public, private, PPP, PPPP all coexist |
+| Fixes the **economic pattern** | Fixes the **social pattern** |
+| Goal: State control of economy | Goal: **Welfare State / Welfare Society** |
+
+**What is a Welfare State?**
+> A **forward-looking progressive society** based on values of: equality, opportunity for all, no disease, employment, no hunger, minimum standard of living, education.
+
+**SC's Definition of Democratic Socialism:**
+> *"The aim of democratic socialism is to eradicate **poverty, hunger, ignorance, and inequality of opportunities**."*
+
+#### Why Was 'Socialist' Not Written in 1950?
+
+1.  **Cold War Context (1950):** USA (capitalist camp) vs. USSR (socialist camp). India was closer to USSR but adopted **Non-Alignment Movement**.
+2.  **Constituent Assembly Leaders:** Almost all were socialists — Nehru (Fabian Socialism), Gandhi, Bose, Patel. They pressured Ambedkar to include the word.
+3.  **Ambedkar's Wisdom:** Rejected the proposal — *"Who am I to decide the economic pattern for future Indians?"*
+    *   Today you like socialism → tomorrow you may like capitalism → day after tomorrow some new -ism.
+    *   We are **not here to fix the economic pattern** → we are here to **fix the social pattern** (welfare society).
+    *   Let future Indians decide their own economic pattern; the **outcome** should establish a welfare society regardless.
+4.  **Ambedkar's Compromise:** Inserted the idea of **mixed economy** (both public and private sector) within the Constitution without using the word "socialist."
+
+#### Why Was 'Socialist' Inserted in 1976?
+
+*   **Indira Gandhi** and the **42nd Amendment Act, 1976**.
+*   Indira Gandhi took strong steps: Nationalization of banks, abolition of Privy Purses, land ceiling on zamindars, and ultimately **Emergency**.
+*   Opposition criticized her as becoming a dictator → she needed **moral justification**.
+*   She argued: All these strong decisions serve the goal of establishing a **welfare state** → this is the implementation of **socialism**.
+*   By 1976, India had **26 years of experience** of democratic socialism → the world knew India was not a copy of USSR (mixed economy, right to property as FR) → no confusion of meanings.
+
+#### Why LPG (1991) Does NOT Dilute Socialism
+
+*   LPG = **Liberalization, Privatization, Globalization** reforms.
+*   Some argue privatization dilutes socialism → **This is incorrect.**
+*   Ambedkar's vision: India is **not here to fix the economic pattern** → any economic pattern (including LPG) is acceptable → as long as the **outcome establishes a welfare society**.
+*   **Proof:** Compare Pre-LPG (1950–1991) vs. Post-LPG (1991–2026) — in which period was India more successful in eradicating poverty, hunger, ignorance, and inequality of opportunities? → **Post-LPG** → hence LPG actually furthered democratic socialism, not diluted it.
+*   **Caveat:** Privatization does create the problem of **concentration of wealth** (rich getting richer, poor getting poorer) → but government tackles this through welfare schemes and taxation.
+
+#### Provisions of Socialism in the Constitution
+
+| # | Provision | How It Reflects Socialism |
+|---|-----------|--------------------------|
+| 1 | **DPSP — [Article 39(b)](../Articles/Article_39b.md)** | Equitable distribution of resources |
+| 2 | **DPSP — [Article 39(c)](../Articles/Article_39c.md)** | No concentration of wealth |
+| 3 | **DPSP — [Article 43](../Articles/Article_43.md)** | Participation of workers in management of factories (→ working conditions, wages, safety, insurance, holidays = welfare state) |
+| 4 | **Taxation Policy** | Progressive taxation — as income ↑, tax rate ↑ → more revenue → welfare schemes → welfare society |
+| 5 | **[Article 21A](../Articles/Article_21A.md)** — Right to Education | Eradicates **ignorance** → directly fulfils the SC's definition of democratic socialism |
+
+> [!TIP]
+> **UPSC Formula:** If asked which provisions reflect socialism → apply the SC's definition: Does it help eradicate **poverty, hunger, ignorance, or inequality of opportunities**? If yes → it is a socialistic provision.
+
+**Democratic Socialism = Marxian Socialism + Gandhian Socialism** (heavily inclined towards Gandhian).
+
+| Marxian Component | Gandhian Component |
+|---|---|
+| Art. 39(b) — equitable distribution | Deliberative approach |
+| Art. 39(c) — no concentration of wealth | Empowering grassroot people (bottom-up) |
+| | Debate-based decision making |
+| | Welfare of people |
+| | Strengthening vulnerable sections |
+
+---
+
+### Ideal ③ — Secular
+
+> [!NOTE]
+> **Secularism** is a policy of the **State**, NOT a trait of individuals. Indians have the Fundamental Right to be religious (Art. 25–28). "Secular" in the Preamble refers to **India** (the country), not Indians (the people). What individuals often mean when they say "I am secular" is actually **tolerance** — respecting all religions equally.
+
+#### Origin — Medieval Europe & Dark Age
+
+*   During the **Dark Age**, European society closed its eyes to **rationality, spirit of enquiry, and questioning**.
+*   When rationality was abandoned → **religion (Church)** became the guide → religion started **dictating state/politics**.
+*   With the **Renaissance** → Europe rationalized → introspected: *"We mixed our public sphere with our private sphere."*
+*   **Solution:** Separate the public sphere (governed by state) from the private sphere (governed by religion).
+*   This **separation of religion from politics** = **Secularism**.
+
+#### Two Schools of Secularism
+
+| | Western Secularism | Eastern / Indian Secularism |
+|---|---|---|
+| **Core Idea** | **Complete separation** of religion from politics (public sphere entirely aloof from private sphere) | **Complex triangular relationship** between Religion, Individual, and State |
+| **Setting** | **Mono-religious** societies (European Christianity-dominant) | **Multi-religious** society (India — nothing is "mono" in India: multi-religion, multi-region, multi-race, multi-culture, multi-language) |
+| **Applicability to India** | **Cannot work** — what works in a mono-religious setting cannot equally apply to a multi-religious setting | **India's model** — to be understood through Gandhi's framework |
+| **Relationship** | Religion ≠ Politics (Wall between them) | Religion ↔ Individual ↔ State (triangle — interconnected) |
+
+**Three key questions about India:**
+1.  Is religion separated from politics in India? → **No.**
+2.  Can religion be separated from politics in India? → **No** (structurally impossible in multi-religious setting).
+3.  **Should** religion be separated from politics in India? → **No!** *(Counter-intuitive — will be explained via Gandhi's framework in Lecture 4)*
+
+> [!IMPORTANT]
+> **To be continued in Lecture 4:** The complex triangular relationship (Religion–Individual–State) in Indian secularism, explained through the lens of Mahatma Gandhi's philosophy.
+
+---
