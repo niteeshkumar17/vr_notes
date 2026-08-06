@@ -266,7 +266,7 @@ Economics has **two fundamental branches**:
 ```
                  ┌──────────────────────────────────┐
                  │   Final G&S (→ to HHs)           │
-                 │   (e.g., cars, food, services)    │
+                 │   (e.g., cars, food, services)   │
                  ▼                                  │
           ┌──────────┐                       ┌──────────┐
           │  FIRMS   │◄──────────────────────│    HHs   │
@@ -290,7 +290,7 @@ Economics has **two fundamental branches**:
                  ┌──────────────────────────────────┐
                  │   Factor Payments / Factor Cost  │
                  │   / Factor Income (→ to HHs)     │
-                 │   (e.g., wages for labour)        │
+                 │   (e.g., wages for labour)       │
                  ▼                                  │
           ┌──────────┐                       ┌──────────┐
           │  FIRMS   │◄──────────────────────│    HHs   │
@@ -299,7 +299,7 @@ Economics has **two fundamental branches**:
                  │   Private Final Consumption      │
                  │   Expenditure (PFCE) (→ to Firms)│
                  │   (e.g., payment for buying a    │
-                 │    book, food, metro ticket)      │
+                 │    book, food, metro ticket)     │
                  └──────────────────────────────────┘
 ```
 
