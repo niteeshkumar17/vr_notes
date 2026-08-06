@@ -11,6 +11,7 @@
 | GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-08-06 | 8 | 76.2% | 2026-08-08 | Somewhat | 2013, 2018, 2022 | Mastered Geodesy, Time Math, DST, Zulu Time. Reviewing IDL East/West flip, Subpolar low dynamic origin, Doldrums. |
 | GS_Economy_VR_Notes | 01 — Intro & National Income | 2026-08-06 | 1 | 100% | 2026-08-07 | Confident | 2015, 2020 | Cleaned up whitespace diagrams in L01. |
 | Current_Affairs | Current Affairs (28–29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-07 | Confident | 2023 | Western Ghats state count (6 states); Art 16(3) Parliamentary exclusivity. |
+| Current_Affairs | Current Affairs (06 August 2026) | 2026-08-06 | 0 | 0% | 2026-08-07 | New | 2022, 2024 | GST ₹2.01L Cr, FC-16 Art 275 RDGs, ISI Bill 2026, Asiatic Lion Barda WS, Cancer Screening. |
 
 ---
 
