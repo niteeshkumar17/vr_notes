@@ -1,41 +1,16 @@
 # Current Affairs — 06 August 2026
 
-> **Source:** *The Hindu* (Editorial, Op-Ed, Text & Context, Environment)  
+> **Source:** *The Hindu* (Op-Ed, Text & Context, Environment)  
 > **Date Added:** 2026-08-06  
 > **Target Exam:** UPSC CSE 2027 (Prelims & Mains)
 
 ---
 
-## Topic 1: Goods and Services Tax (GST) Collections & Fiscal Dynamics
-
-> **Headlines:** *"Highs and lows: GST revenue trends and fiscal implications"*  
-> **GS Paper:** GS-III (Indian Economy & Issues Relating to Planning, Mobilisation of Resources)  
-> **Micro-Topic ID:** `CA-2026-08-06-01`
-
-### 1. Key Macroeconomic Trends
-* **Gross GST Collection (July 2026):** ₹2.01 lakh crore (15.4% YoY growth). Represents the second-highest monthly collection in GST history.
-* **Net GST Revenue:** ₹1.71 lakh crore (10.4% YoY growth post tax refunds).
-* **IGST & Trade Recovery:** Integrated GST (IGST) experienced faster recovery, signalling robust inter-state trade, domestic consumption expansion, and supply chain normalization.
-* **Import GST Dynamics:** High WPI inflation (1.52% YoY) and lower gold import duties (reduced to 6%) contributed to elevated import GST revenue.
-
-### 2. Analytical & Structural Issues for UPSC
-* **Spatial Concentration:** GST growth is geographically concentrated—only 16 States/UTs recorded GST growth exceeding the national average of 11.5%.
-* **Informal Sector Burden:** High GST reliance on organized enterprises contrasts with persistent distress in the unorganized/informal sector.
-* **Input Tax Credit (ITC) Frictions:** Certain sectors (Real Estate, Fuel/Petroleum, Alcohol) remain excluded from the GST umbrella, causing cascading tax friction and un-credited input tax burdens.
-
-### 3. Recommendations & Constitutional Interlinks
-* **16th Finance Commission Mandate:** FC-16 (chaired by Arvind Panagariya) must evaluate tax buoyancy, broaden the GST tax base, and address horizontal fiscal disparities across states.
-* **Constitutional Articles:**
-  * **[Article 279A](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_279A.md):** GST Council (101st Constitutional Amendment).
-  * **[Article 269A](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_269A.md):** Levy and collection of IGST on inter-state trade.
-
----
-
-## Topic 2: Fiscal Federalism: Efficiency vs. Equity Concerns in FC-16
+## Topic 1: Fiscal Federalism — Efficiency vs. Equity Concerns in FC-16
 
 > **Headlines:** *"Fiscal federalism, efficiency versus equity concerns"* (by K.J. Joseph & Sujit Kumar)  
-> **GS Paper:** GS-II (Polity & Governance — Issues and Challenges Pertaining to the Federal Structure) & GS-III (Fiscal Policy)  
-> **Micro-Topic ID:** `CA-2026-08-06-02`
+> **GS Paper:** GS-II (Polity & Governance — Federal Structure) & GS-III (Fiscal Policy)  
+> **Micro-Topic ID:** `CA-260806-01`
 
 ### 1. Constitutional Foundation of Grants-in-Aid
 * **[Article 275](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_275.md) (Grants-in-Aid):** Designed as a routine institutional mechanism for horizontal fiscal equalization. Recognizes that formula-based tax devolution under **[Article 280](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_280.md)** cannot fully address state-specific structural disadvantages (e.g. Kerala's old-age demographic, hill terrain costs in HP & NE states, severe debt stress).
@@ -51,11 +26,11 @@
 
 ---
 
-## Topic 3: Indian Statistical Institute (ISI) Bill, 2026 & Governance Controversy
+## Topic 2: Indian Statistical Institute (ISI) Bill, 2026 & Governance Controversy
 
 > **Headlines:** *"Why is the Indian Statistical Institute Bill controversial?"* (Text & Context)  
 > **GS Paper:** GS-II (Statutory, Regulatory & Quasi-Judicial Bodies; Governance)  
-> **Micro-Topic ID:** `CA-2026-08-06-03`
+> **Micro-Topic ID:** `CA-260806-02`
 
 ### 1. Historical Context of ISI
 * **Founder:** Prof. P.C. Mahalanobis (father of Indian statistics) founded the Statistical Laboratory at Presidency College, Kolkata on **17 December 1931** (registered 28 April 1932 under Societies Registration Act 1860).
@@ -71,11 +46,11 @@
 
 ---
 
-## Topic 4: Conservation Architecture of the Asiatic Lion
+## Topic 3: Conservation Architecture of the Asiatic Lion
 
 > **Headlines:** *"The road ahead for the Asiatic lion"* (by Meena Venkataraman)  
 > **GS Paper:** GS-III (Environment & Biodiversity Conservation)  
-> **Micro-Topic ID:** `CA-2026-08-06-04`
+> **Micro-Topic ID:** `CA-260806-03`
 
 ### 1. Species Profile & Population Dynamics
 * **Species:** Asiatic Lion (*Panthera leo persica*).
@@ -94,43 +69,22 @@
 
 ---
 
-## Topic 5: India's Cancer Burden & Early Detection Focus
-
-> **Headlines:** *"India's cancer focus must shift to early detection"* (by Dr. S.V.S. Deo)  
-> **GS Paper:** GS-II (Issues Relating to Development & Management of Social Sector/Health) & GS-III (Science & Tech)  
-> **Micro-Topic ID:** `CA-2026-08-06-05`
-
-### 1. Key Health Metrics (GLOBOCAN Data)
-* **Incidence:** Estimated **1.56 million new cancer cases** and over **8.74 lakh cancer deaths** in India (2024).
-* **Late Diagnosis Trap:** Over **70% of cancer cases** in India are diagnosed at advanced stages (Stage III / Stage IV).
-* **Regional Disparity:** Lifetime risk of developing cancer is ~11% nationally, but **exceeds 20% in North-Eastern states**.
-* **Survival Disparity:** 5-year survival rate for lung cancer in India is **~4%** (compared to 33% in Japan).
-
-### 2. Policy & Structural Requirements
-* Transition health infrastructure from palliative/advanced tertiary treatment to **universal primary-level screening**.
-* Address delayed diagnostic pathways and strengthen district-level oncology capacity under Ayushman Bharat / National Health Mission.
-
----
-
 ## 🔗 Cross-Subject Knowledge Graph Connections
 
 ```mermaid
 graph TD
-    CA1[GST Collections ₹2.01L Cr] <--> Art279A[Article 279A GST Council]
-    CA1 <--> FC16[16th Finance Commission]
+    CA1[Article 275 Grants-in-Aid] <--> Art280[Article 280 Finance Commission]
+    CA1 <--> RDG[Revenue Deficit Grants]
+    CA1 <--> FiscalFederalism[Fiscal Federalism & Equity]
     
-    CA2[Article 275 Grants-in-Aid] <--> Art280[Article 280 Finance Commission]
-    CA2 <--> RDG[Revenue Deficit Grants]
-    CA2 <--> FiscalFederalism[Fiscal Federalism & Equity]
+    CA2[ISI Bill 2026] <--> PCMahalanobis[P.C. Mahalanobis 1931]
+    CA2 <--> INI[Institution of National Importance]
     
-    CA3[ISI Bill 2026] <--> PCMahalanobis[P.C. Mahalanobis 1931]
-    CA3 <--> INI[Institution of National Importance]
-    
-    CA4[Asiatic Lion Population >1000] <--> GirNP[Gir National Park]
-    CA4 <--> BardaWS[Barda Wildlife Sanctuary]
-    CA4 <--> CDV[Canine Distemper Virus Risk]
+    CA3[Asiatic Lion Population >1000] <--> GirNP[Gir National Park]
+    CA3 <--> BardaWS[Barda Wildlife Sanctuary]
+    CA3 <--> CDV[Canine Distemper Virus Risk]
 ```
 
 ---
 
-<!-- 2026-08-06: Added 5 Current Affairs topics from The Hindu (GST, Fiscal Federalism, ISI Bill, Asiatic Lion, Cancer Focus) -->
+<!-- 2026-08-06: Processed 3 key Current Affairs topics from The Hindu (Fiscal Federalism, ISI Bill, Asiatic Lion) -->

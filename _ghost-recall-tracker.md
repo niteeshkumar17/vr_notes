@@ -48,11 +48,9 @@
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| CA-260806-01 | GST Collections & FC-16 Tax Buoyancy | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 279A` $\leftrightarrow$ `Article 269A` $\leftrightarrow$ `FC-16` |
-| CA-260806-02 | Fiscal Federalism & Article 275 Grants-in-Aid | 3 | ★★★★★ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 275` $\leftrightarrow$ `Article 280` $\leftrightarrow$ `RDG Grants` |
-| CA-260806-03 | Indian Statistical Institute (ISI) Bill 2026 | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `P.C. Mahalanobis` $\leftrightarrow$ `INI Status` $\leftrightarrow$ `Board of Governors` |
-| CA-260806-04 | Asiatic Lion Population & Barda Sanctuary | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gir National Park` $\leftrightarrow$ `Barda WS` $\leftrightarrow$ `CDV Risk` |
-| CA-260806-05 | Cancer Burden & Early Screening Architecture | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `GLOBOCAN Data` $\leftrightarrow$ `Primary Screening` $\leftrightarrow$ `Ayushman Bharat` |
+| CA-260806-01 | Fiscal Federalism & Article 275 Grants-in-Aid | 3 | ★★★★★ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 275` $\leftrightarrow$ `Article 280` $\leftrightarrow$ `RDG Grants` |
+| CA-260806-02 | Indian Statistical Institute (ISI) Bill 2026 | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `P.C. Mahalanobis` $\leftrightarrow$ `INI Status` $\leftrightarrow$ `Board of Governors` |
+| CA-260806-03 | Asiatic Lion Population & Barda Sanctuary | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gir National Park` $\leftrightarrow$ `Barda WS` $\leftrightarrow$ `CDV Risk` |
 
 ---
 
