@@ -373,7 +373,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ##### Murshid Quli Khan (Aurangzeb's Diwan of Bengal)
 *   **Origin**: Original name **Surya Narayana Mishra** → converted/renamed to **Kartalab Khan** — a slave sent by Aurangzeb to increase Bengal's revenue. Post-1707 (AZB's death), became the **F.M. (Diwan)** of Bengal. *Context: "Once upon a time there was a king. The crown wanted to increase the revenue of Bengal. So the crown sent a slave."*
-*   **Mal Istamrani System** — Fixed two things:
+*   **Mal Jismani System** (also referred to as *Mal Jasmani / Mal Zamini*) — Fixed two things:
     1.  Fixed the **amount** of revenue (arbitrarily increased).
     2.  Fixed the **date** of collection — *no exceptions*. *Context: Agricultural produce has no fixed harvest date — you cannot guarantee revenue on a fixed date. Murshid Quli Khan understood this and yet imposed it deliberately to create room for a banking institution.*
 *   **Creation of the Banking System (Jagat Seth)**:
@@ -411,7 +411,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 | # | Nawab | Key Events |
 |---|-------|-----------|
-| 1 | **Murshid Quli Khan** | Created Mal Istamrani + banking system. Had no son. |
+| 1 | **Murshid Quli Khan** | Created Mal Jismani System + banking system. Had no son. |
 | 2 | **Shuja-ud-din** (son-in-law) | Imprisoned his own son Sarfaraz to take power. Extended Bengal's territory to **Shahzadpur (Bihar)** — strategic connector to the Chicken's Neck corridor. Placed **Alivardi Khan** as commander there. *Context: "Shahzadpur is very important because it connects you with the Chicken's Neck."* |
 | 3 | **Sarfaraz Khan** (Shuja's son) | Released from jail by Shuja before death; made Diwan. Lacked support; killed by Alivardi Khan at Murshidabad. |
 | 4 | **Alivardi Khan** | Rose from Bihar commander → marched to Murshidabad → killed Sarfaraz → became Nawab. **1751**: Marathas defeated him and took **Chauth from Odisha (Cuttack)**. EIC began interfering in Bengal politics. |
