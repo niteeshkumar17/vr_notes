@@ -287,6 +287,24 @@ The imaginary plane that cuts the earth through the middle, dividing it into two
 
 ---
 
+## 15. Global Pressure Belts & Planetary Winds
+
+| Pressure Belt | Origin Type | Latitude | Key Characteristics |
+|---|---|---|---|
+| **Equatorial Low Pressure Belt (Doldrums)** | **Thermally Induced** | 5° N to 5° S | Intense solar heating → air expands and ascends vertically (strong convection) → extremely weak horizontal winds / calm waters ("Doldrums"). |
+| **Subtropical High Pressure Belts (Horse Latitudes)** | **Dynamically Induced** | 30° to 35° N/S | Subsidence & sinking of descending air accumulating from upper troposphere (Hadley/Ferrel cells) → high pressure, dry stable air, clear skies. |
+| **Subpolar Low Pressure Belts** | **Dynamically Induced** | 60° to 65° N/S | Convergence of contrasting warm sub-tropical air and cold polar air + centrifugal force from Earth's rotation → air ascends → low surface pressure. |
+| **Polar High Pressure Belts** | **Thermally Induced** | 80° to 90° N/S | Permanent extreme cold → air contracts, becomes dense and sinks. |
+
+### Planetary Winds
+
+*   **Trade Winds:** Blow from the **Subtropical High Pressure Belts** (30° N/S) towards the **Equatorial Low Pressure Belt** (0°). Deflect to the right in Northern Hemisphere (North-East Trades) and left in Southern Hemisphere (South-East Trades) due to Coriolis force.
+*   **Westerlies:** Blow from **Subtropical High Pressure Belts** (30° N/S) towards **Subpolar Low Pressure Belts** (60° N/S).
+*   **Polar Easterlies:** Blow from **Polar High Pressure Belts** towards **Subpolar Low Pressure Belts**.
+| **Oceanic circulation** (ocean currents) | **~20%** |
+
+---
+
 > **Date added:** 2026-07-29
 
 ## 15. General & Motivational Quotes (Part 3)
