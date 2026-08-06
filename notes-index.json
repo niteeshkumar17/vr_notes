@@ -195,6 +195,12 @@
       "title": "Current Affairs"
     }
   ],
+  "GS_Economy_VR_Notes": [
+    {
+      "file": "01_Introduction_and_National_Income_Basics.md",
+      "title": "Introduction And National Income Basics"
+    }
+  ],
   "GS_Geography_VR_Notes": [
     {
       "file": "01_Fundamentals_of_Geography.md",
