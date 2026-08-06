@@ -252,7 +252,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **1764** — Abdali failed to get Lahore.
 *   **1767** — Failed again.
 *   **1786** — Afghan captured Lahore (**Zaman Shah**).
-*   **1798** — **Ranjit Singh** captured Lahore.
+*   **1798** — **Ranjit Singh** (Sukerchakia Misl) captured Lahore → established unified Sikh Empire.
+*   **Treaty of Amritsar (1809)**: Signed between **Maharaja Ranjit Singh** and the East India Company (represented by **Charles Metcalfe**). Established the **Sutlej River** (not Yamuna) as the permanent boundary separating Ranjit Singh's kingdom (west of Sutlej) from EIC's sphere of influence (east of Sutlej). Ranjit Singh agreed not to expand east of the Sutlej, in exchange for British non-interference in his western/northern conquests (Kashmir, Multan, Peshawar).
 
 *Context: Abdali invaded India **7 times** total (1748, 1749, 1751, 1754, 1761, 1764, 1767).*
 
