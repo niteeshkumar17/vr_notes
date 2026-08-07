@@ -1,238 +1,238 @@
-﻿{
-    "GS_Polity_VR_Notes":  [
-                               {
-                                   "file":  "GS_Polity_VR_Notes/Indian_Polity_Constitution.md",
-                                   "title":  "Indian Polity Constitution"
-                               }
-                           ],
-    "GS_Economy_VR_Notes":  [
-                                {
-                                    "file":  "GS_Economy_VR_Notes/01_Introduction_and_National_Income_Basics.md",
-                                    "title":  "Introduction And National Income Basics"
-                                }
-                            ],
-    "Current_Affairs":  [
-                            {
-                                "file":  "Current_Affairs/August_2026/2026-08-01_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/August_2026/2026-08-02_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/August_2026/2026-08-03_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/August_2026/2026-08-04_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/August_2026/2026-08-05_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/August_2026/2026-08-06_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/July_2026/2026-07-28_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/July_2026/2026-07-29_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/July_2026/2026-07-30_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            },
-                            {
-                                "file":  "Current_Affairs/July_2026/2026-07-31_Current_Affairs.md",
-                                "title":  "Current Affairs"
-                            }
-                        ],
-    "GS_Geography_VR_Notes":  [
-                                  {
-                                      "file":  "GS_Geography_VR_Notes/01_Fundamentals_of_Geography.md",
-                                      "title":  "Fundamentals Of Geography"
-                                  }
-                              ],
-    "GS_History_VR_Notes":  [
-                                {
-                                    "file":  "GS_History_VR_Notes/Early_Modern_India.md",
-                                    "title":  "Early Modern India"
-                                }
-                            ],
-    "Articles":  [
-                     {
-                         "file":  "Articles/Article_102.md",
-                         "title":  "Article 102"
-                     },
-                     {
-                         "file":  "Articles/Article_105.md",
-                         "title":  "Article 105"
-                     },
-                     {
-                         "file":  "Articles/Article_123.md",
-                         "title":  "Article 123"
-                     },
-                     {
-                         "file":  "Articles/Article_124.md",
-                         "title":  "Article 124"
-                     },
-                     {
-                         "file":  "Articles/Article_13.md",
-                         "title":  "Article 13"
-                     },
-                     {
-                         "file":  "Articles/Article_14.md",
-                         "title":  "Article 14"
-                     },
-                     {
-                         "file":  "Articles/Article_142.md",
-                         "title":  "Article 142"
-                     },
-                     {
-                         "file":  "Articles/Article_16.md",
-                         "title":  "Article 16"
-                     },
-                     {
-                         "file":  "Articles/Article_162.md",
-                         "title":  "Article 162"
-                     },
-                     {
-                         "file":  "Articles/Article_163.md",
-                         "title":  "Article 163"
-                     },
-                     {
-                         "file":  "Articles/Article_164.md",
-                         "title":  "Article 164"
-                     },
-                     {
-                         "file":  "Articles/Article_19.md",
-                         "title":  "Article 19"
-                     },
-                     {
-                         "file":  "Articles/Article_191.md",
-                         "title":  "Article 191"
-                     },
-                     {
-                         "file":  "Articles/Article_21.md",
-                         "title":  "Article 21"
-                     },
-                     {
-                         "file":  "Articles/Article_213.md",
-                         "title":  "Article 213"
-                     },
-                     {
-                         "file":  "Articles/Article_21A.md",
-                         "title":  "Article 21A"
-                     },
-                     {
-                         "file":  "Articles/Article_246.md",
-                         "title":  "Article 246"
-                     },
-                     {
-                         "file":  "Articles/Article_25.md",
-                         "title":  "Article 25"
-                     },
-                     {
-                         "file":  "Articles/Article_262.md",
-                         "title":  "Article 262"
-                     },
-                     {
-                         "file":  "Articles/Article_275.md",
-                         "title":  "Article 275"
-                     },
-                     {
-                         "file":  "Articles/Article_279A.md",
-                         "title":  "Article 279A"
-                     },
-                     {
-                         "file":  "Articles/Article_280.md",
-                         "title":  "Article 280"
-                     },
-                     {
-                         "file":  "Articles/Article_300A.md",
-                         "title":  "Article 300A"
-                     },
-                     {
-                         "file":  "Articles/Article_312.md",
-                         "title":  "Article 312"
-                     },
-                     {
-                         "file":  "Articles/Article_324.md",
-                         "title":  "Article 324"
-                     },
-                     {
-                         "file":  "Articles/Article_326.md",
-                         "title":  "Article 326"
-                     },
-                     {
-                         "file":  "Articles/Article_33.md",
-                         "title":  "Article 33"
-                     },
-                     {
-                         "file":  "Articles/Article_368.md",
-                         "title":  "Article 368"
-                     },
-                     {
-                         "file":  "Articles/Article_39b.md",
-                         "title":  "Article 39B"
-                     },
-                     {
-                         "file":  "Articles/Article_39c.md",
-                         "title":  "Article 39C"
-                     },
-                     {
-                         "file":  "Articles/Article_43.md",
-                         "title":  "Article 43"
-                     },
-                     {
-                         "file":  "Articles/Article_45.md",
-                         "title":  "Article 45"
-                     },
-                     {
-                         "file":  "Articles/Article_46.md",
-                         "title":  "Article 46"
-                     },
-                     {
-                         "file":  "Articles/Article_47.md",
-                         "title":  "Article 47"
-                     },
-                     {
-                         "file":  "Articles/Article_48A.md",
-                         "title":  "Article 48A"
-                     },
-                     {
-                         "file":  "Articles/Article_50.md",
-                         "title":  "Article 50"
-                     },
-                     {
-                         "file":  "Articles/Article_51A_g.md",
-                         "title":  "Article 51A G"
-                     },
-                     {
-                         "file":  "Articles/Article_72.md",
-                         "title":  "Article 72"
-                     },
-                     {
-                         "file":  "Articles/Article_74.md",
-                         "title":  "Article 74"
-                     },
-                     {
-                         "file":  "Articles/Article_75.md",
-                         "title":  "Article 75"
-                     },
-                     {
-                         "file":  "Articles/Article_81.md",
-                         "title":  "Article 81"
-                     },
-                     {
-                         "file":  "Articles/Article_82.md",
-                         "title":  "Article 82"
-                     }
-                 ]
+{
+  "Articles": [
+    {
+      "file": "Article_102.md",
+      "title": "Article 102"
+    },
+    {
+      "file": "Article_105.md",
+      "title": "Article 105"
+    },
+    {
+      "file": "Article_123.md",
+      "title": "Article 123"
+    },
+    {
+      "file": "Article_124.md",
+      "title": "Article 124"
+    },
+    {
+      "file": "Article_13.md",
+      "title": "Article 13"
+    },
+    {
+      "file": "Article_14.md",
+      "title": "Article 14"
+    },
+    {
+      "file": "Article_142.md",
+      "title": "Article 142"
+    },
+    {
+      "file": "Article_16.md",
+      "title": "Article 16"
+    },
+    {
+      "file": "Article_162.md",
+      "title": "Article 162"
+    },
+    {
+      "file": "Article_163.md",
+      "title": "Article 163"
+    },
+    {
+      "file": "Article_164.md",
+      "title": "Article 164"
+    },
+    {
+      "file": "Article_19.md",
+      "title": "Article 19"
+    },
+    {
+      "file": "Article_191.md",
+      "title": "Article 191"
+    },
+    {
+      "file": "Article_21.md",
+      "title": "Article 21"
+    },
+    {
+      "file": "Article_213.md",
+      "title": "Article 213"
+    },
+    {
+      "file": "Article_21A.md",
+      "title": "Article 21A"
+    },
+    {
+      "file": "Article_246.md",
+      "title": "Article 246"
+    },
+    {
+      "file": "Article_25.md",
+      "title": "Article 25"
+    },
+    {
+      "file": "Article_262.md",
+      "title": "Article 262"
+    },
+    {
+      "file": "Article_275.md",
+      "title": "Article 275"
+    },
+    {
+      "file": "Article_279A.md",
+      "title": "Article 279A"
+    },
+    {
+      "file": "Article_280.md",
+      "title": "Article 280"
+    },
+    {
+      "file": "Article_300A.md",
+      "title": "Article 300A"
+    },
+    {
+      "file": "Article_312.md",
+      "title": "Article 312"
+    },
+    {
+      "file": "Article_324.md",
+      "title": "Article 324"
+    },
+    {
+      "file": "Article_326.md",
+      "title": "Article 326"
+    },
+    {
+      "file": "Article_33.md",
+      "title": "Article 33"
+    },
+    {
+      "file": "Article_368.md",
+      "title": "Article 368"
+    },
+    {
+      "file": "Article_39b.md",
+      "title": "Article 39b"
+    },
+    {
+      "file": "Article_39c.md",
+      "title": "Article 39c"
+    },
+    {
+      "file": "Article_43.md",
+      "title": "Article 43"
+    },
+    {
+      "file": "Article_45.md",
+      "title": "Article 45"
+    },
+    {
+      "file": "Article_46.md",
+      "title": "Article 46"
+    },
+    {
+      "file": "Article_47.md",
+      "title": "Article 47"
+    },
+    {
+      "file": "Article_48A.md",
+      "title": "Article 48A"
+    },
+    {
+      "file": "Article_50.md",
+      "title": "Article 50"
+    },
+    {
+      "file": "Article_51A_g.md",
+      "title": "Article 51A G"
+    },
+    {
+      "file": "Article_72.md",
+      "title": "Article 72"
+    },
+    {
+      "file": "Article_74.md",
+      "title": "Article 74"
+    },
+    {
+      "file": "Article_75.md",
+      "title": "Article 75"
+    },
+    {
+      "file": "Article_81.md",
+      "title": "Article 81"
+    },
+    {
+      "file": "Article_82.md",
+      "title": "Article 82"
+    }
+  ],
+  "Current_Affairs": [
+    {
+      "file": "August_2026/2026-08-01_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "August_2026/2026-08-02_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "August_2026/2026-08-03_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "August_2026/2026-08-04_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "August_2026/2026-08-05_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "August_2026/2026-08-06_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "July_2026/2026-07-28_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "July_2026/2026-07-29_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "July_2026/2026-07-30_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
+      "file": "July_2026/2026-07-31_Current_Affairs.md",
+      "title": "Current Affairs"
+    }
+  ],
+  "GS_Economy_VR_Notes": [
+    {
+      "file": "01_Introduction_and_National_Income_Basics.md",
+      "title": "Introduction And National Income Basics"
+    }
+  ],
+  "GS_Geography_VR_Notes": [
+    {
+      "file": "01_Fundamentals_of_Geography.md",
+      "title": "Fundamentals Of Geography"
+    }
+  ],
+  "GS_History_VR_Notes": [
+    {
+      "file": "Early_Modern_India.md",
+      "title": "Early Modern India"
+    }
+  ],
+  "GS_Polity_VR_Notes": [
+    {
+      "file": "Indian_Polity_Constitution.md",
+      "title": "Indian Polity Constitution"
+    }
+  ]
 }
