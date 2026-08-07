@@ -56,6 +56,11 @@
 | CA-260806-01 | Fiscal Federalism & Article 275 Grants-in-Aid | 3 | ★★★★★ | Day 2 | 2026-08-09 | 90% | High 🌟 | 92% | 88% | 1 | 0 | - | 2026-08-07 | Fast | `Article 275` $\leftrightarrow$ `Article 280` $\leftrightarrow$ `RDG Grants` |
 | CA-260806-02 | Indian Statistical Institute (ISI) Bill 2026 | 2 | ★★★★☆ | Day 1 | 2026-08-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `P.C. Mahalanobis` $\leftrightarrow$ `INI Status` $\leftrightarrow$ `Board of Governors` |
 | CA-260806-03 | Asiatic Lion Population & Barda Sanctuary | 2 | ★★★★☆ | Day 3 | 2026-08-10 | 95% | High 🌟 | 96% | 92% | 1 | 0 | - | 2026-08-07 | Fast | `Gir National Park` $\leftrightarrow$ `Barda WS` $\leftrightarrow$ `CDV Risk` |
+| CA-260807-01 | Creamy Layer in SC/ST Quotas & Centre Stand | 3 | ★★★★★ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 15(4) & 16(4)` $\leftrightarrow$ `Indra Sawhney 1992` $\leftrightarrow$ `Davinder Singh 2024` |
+| CA-260807-02 | SC Ramsar Wetland Mining Buffer Order | 2 | ★★★★★ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ramsar 1971` $\leftrightarrow$ `Asan Reserve` $\leftrightarrow$ `Glaw Lake` $\leftrightarrow$ `WPA 1972` |
+| CA-260807-03 | 12th National Handloom Day & Handloom 4.0 | 2 | ★★★★☆ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Swadeshi 1905` $\leftrightarrow$ `VisioNXT` $\leftrightarrow$ `IIHT` $\leftrightarrow$ `72% Women` |
+| CA-260807-04 | Kerala Police 'My Police Station' Reforms | 2 | ★★★★☆ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Democratic Policing` $\leftrightarrow$ `Prakash Singh 2006` $\leftrightarrow$ `Custodial Crimes` |
+| CA-260807-05 | CWG Multi-Sport Governance & 2036 Bid | 2 | ★★★☆☆ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Decentralized Hosting` $\leftrightarrow$ `Glasgow 2026` $\leftrightarrow$ `2036 Olympic Bid` |
 
 ---
 
