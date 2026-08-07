@@ -349,3 +349,104 @@ Economics has **two fundamental branches**:
 ---
 
 > **Next Class Preview:** Factors of Production in detail (Labour, Capital, etc.), Factor Payments in detail, Final Goods vs Intermediate Goods, and the formal definition of National Income.
+
+---
+
+> **Date added:** 2026-08-07
+
+## ECO-02-01: Factors of Production & Factor Payments
+
+### 4 Types of Factors of Production
+1. **Land:** Natural resources used as input to production (e.g., plot of land, water, minerals).
+   - **Factor Payment:** Rent.
+2. **Labour:** Human resource inputs to production.
+   - **Factor Payment:** Wages.
+3. **Capital:** Long-term, man-made resource inputs to production (e.g., machineries, factories).
+   - **Factor Payment:** Interest.
+   - Capital is often the **costlier factor** due to its **lumpy nature** (can't be divided easily — either a machine is bought as a whole or not at all).
+   - Firms need bank loans to buy capital. These loans are sourced from savings, which are mostly done by households (HHs) in expectation of earning interest.
+4. **Entrepreneurship:** Risk-taking ability in production (e.g., launching a new product).
+   - **Factor Payment:** Profits. (Top-level management or founders take the risk and earn profits beyond standard wages).
+
+---
+
+## ECO-02-02: Nominal vs Real National Income & Base Year
+
+### National Income (NI) Definition
+Total money value (**Quantity × Price**) of all final goods and services produced by the residents of the country over a given period (e.g., 1 year).
+
+### 2 Types of NI (on the basis of Money Value)
+1. **Nominal NI (NI at current prices):**
+   - Values current year's production at **current year's prices**.
+   - Formula: `Sum of (Quantities of final G/S produced in current year × Price in current year)`
+   - **Limitation:** Nominal NI can increase solely due to higher prices (inflation), even if real production is declining.
+
+2. **Real NI (NI at constant prices):**
+   - Values current year's production at **base year's prices**.
+   - Formula: `Sum of (Quantities of final G/S produced in current year × Price in Base Year)`
+   - **Real NI is a better indicator** for comparing NI/growth because it has "less surprises" and adjusts Nominal NI for inflation.
+   - `Real NI = Nominal NI / NI Deflator` (The deflator is a measure of inflation).
+
+### Understanding Base Year
+- Base year is a reference year from the past used to calculate Real NI.
+- **Rules for selecting a Base Year:**
+  1. It should be a **Normal year** (with minimal economic/geographical surprises, e.g., NO drought years, NO pandemic years like 2021).
+  2. It should neither be **too new** (inflation can't be properly analyzed if it's too close) nor **too old** (many new types of goods/services may not be valued correctly). Ideally, it should be revised every 7–8 years, with a minimum 3-year gap.
+- **Current Base Year for India:** **2022-23** (Revised from 2011-12, implemented since 2026 based on the recommendation of the **Vishwanath Goldar Committee**).
+
+---
+
+## ECO-02-03: Final vs Intermediate Goods and Depreciation
+
+### Types of Goods based on usage
+- **Intermediate Goods:** Goods used up in the production of other goods/services.
+- **Final Goods:**
+  1. **Consumer Goods:** Used for final consumption by Households (HHs) or Government.
+  2. **Capital Goods:** Used by firms to produce other G/S **without** loss in its identity over a short term.
+- *Note:* The same good can be a final good for one entity (e.g., Household buying an item) and an intermediate good for another (e.g., a firm using it to produce something else).
+- To calculate NI, we **only include the value of final goods/services** to avoid **double-counting**. Note: Sale of second-hand goods is not included.
+
+### Depreciation of Fixed Capital
+- Gradual loss in the value of capital goods due to normal wear & tear, obsolescence (mainly due to technological development), etc.
+- It reduces the ability of capital to produce new goods.
+- **Provisions for Depreciation:** Firms keep aside a part of the capital value every year so that new capital can be bought after complete depreciation.
+
+#### Gross vs Net NI
+- **Gross NI:** NI not adjusted for depreciation of fixed capital.
+- **Net NI:** NI after adjusting for depreciation of fixed capital.
+- `Net NI = Gross NI - Depreciation of Fixed Capital`
+
+---
+
+## ECO-02-04: Capital Formation & Expenditures
+
+### 3 Types of Expenditures on Final Goods
+1. **PFCE (Private Final Consumption Expenditure):** Expenditure on new final consumer goods by Households.
+2. **GFCE (Government Final Consumption Expenditure):** Expenditure on new final consumer goods by the Government.
+3. **GFCF (Gross Domestic Fixed Capital Formation):** Expenditure on new final capital goods by firms, government, or households (e.g., Purchase of new houses by HHs is considered infra development/capital formation).
+
+### Gross Domestic Capital Formation (GDCF)
+- GDCF reflects improvement in productivity across different sectors and is a crucial determinant of longer-term economic growth.
+- `GDCF = GFCF + Change in Unsold Stocks/Inventories/Working Capital`
+- **Change in Stocks (Closing Stocks - Opening Stocks):** Difference between the values of raw materials, semi-finished, and finished goods held by firms at the end of the year versus the beginning of the year.
+- **Synonyms:** GDCF is also known as Investment Expenditure, Capital Expenditure (CapEx), or simply Capital Formation.
+
+---
+
+## ECO-02-05: Residents of a Country
+
+NI measures the output produced by the **residents** of the country. There are 2 types of residents (Resident Individuals & Institutions, though mostly discussed are individuals):
+
+### 1. Resident Individuals
+Individuals who **ordinarily reside** in a country and their **centre of economic interest** lies in that country.
+
+- **Employment / Tourist Rule:**
+  - If an individual resides in a foreign country for **up to 1 year** for employment or tourism, they remain a resident of their **home country**.
+  - If they reside in a foreign country for **more than 1 year** for employment, they become a resident of the **foreign country (host country)**.
+- **Diplomats / Government Employees:** Government employees working in another country (e.g., diplomats) are **always** residents of their home country, regardless of duration.
+- **Students:** Students studying abroad (even for 3-5 years) remain residents of their home country because their centre of economic interest (fees, expenditure) is funded by parents in the home country.
+- **Citizenship vs Residency:**
+  - Nationals (citizens) of a country can be non-residents.
+  - Non-nationals (foreigners) of a country can be residents.
+
+<!-- 2026-08-07: Created ECO-02-01 to ECO-02-05 based on Lecture 2 notes. -->
