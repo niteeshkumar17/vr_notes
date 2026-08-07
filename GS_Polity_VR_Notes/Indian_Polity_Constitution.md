@@ -1,10 +1,14 @@
 # Indian Polity & Constitution
 
 > **Source:** Vajiram & Ravi Class Lectures 01, 02 & 03 & Notes
-> **Date:** 4–5 August 2026
-> **Last Updated:** 2026-08-05
+> **Date:** 3–5 August 2026
+> **Last Updated:** 2026-08-07
 
 ---
+
+## Lecture 01 — What is Polity? & Laws of Land
+
+> **Date:** 3 August 2026
 
 ## 1. What is Polity?
 
@@ -219,7 +223,7 @@
 
 ## Lecture 02 — Salient Features of the Indian Constitution
 
-> **Date:** 2 August 2026 (Pages 9–17)
+> **Date:** 4 August 2026 (Pages 9–17)
 
 > [!NOTE]
 > There is **no exhaustive list** of Salient Features. Whatever is taught across the entire Polity syllabus is, in essence, a Salient Feature. Many features (FR, DPSP, Emergency, etc.) will become full-fledged chapters and are only noted here — not expanded.
@@ -798,3 +802,5 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 > **To be continued in Lecture 4:** The complex triangular relationship (Religion–Individual–State) in Indian secularism, explained through the lens of Mahatma Gandhi's philosophy.
 
 ---
+
+<!-- 2026-08-07: Corrected lecture dates for Polity Lectures 01, 02 & 03 to 3–5 August 2026 (L01: 3 Aug, L02: 4 Aug, L03: 5 Aug). -->
