@@ -1,6 +1,10 @@
 # Article 326 — Elections to the House of the People and to the Legislative Assemblies of States to Be on the Basis of Adult Suffrage
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text (Simplified)
+
 The elections to the **House of the People (Lok Sabha)** and to the **Legislative Assembly of every State** shall be on the basis of **adult suffrage**; that is to say, every person who is a **citizen of India** and who is **not less than 18 years of age** on such date as may be fixed by or under any law made by the appropriate Legislature, and is not otherwise disqualified under the Constitution or any law on grounds of non-residence, unsoundness of mind, crime, or corrupt or illegal practice, shall be entitled to be **registered as a voter** at any such election.
 
 ## Key Points for UPSC
@@ -13,3 +17,5 @@ The elections to the **House of the People (Lok Sabha)** and to the **Legislativ
 ## Related Articles
 *   [Article 324](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_324.md) — Superintendence, direction and control of elections vested in ECI.
 *   [Article 325](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_325.md) — No person ineligible for electoral roll on grounds only of religion, race, caste, or sex.
+
+</details>

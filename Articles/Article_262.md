@@ -2,6 +2,9 @@
 
 > **Part XI — Relations Between the Union and the States, Chapter II — Administrative Relations**
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
 
 **262. Adjudication of disputes relating to waters of inter-State rivers or river valleys.**
@@ -33,3 +36,5 @@
 
 *   Prelims: Article 262 provisions, major tribunals, CWMA.
 *   Mains: Centre-State relations in water governance; cooperative federalism challenges; SC's role despite Art. 262(2) bar.
+
+</details>

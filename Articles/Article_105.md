@@ -4,7 +4,11 @@
 > **Chapter:** II — Parliament
 > **Subject:** Parliamentary Privileges
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text (Summary)
+
 - Freedom of speech in Parliament — no MP shall be liable to any proceedings in any court in respect of anything said or any vote given in Parliament.
 - No person shall be liable in respect of the publication of any report, paper, votes or proceedings under the authority of either House.
 
@@ -18,3 +22,5 @@
 - Parliamentary privilege is an instrument through which the Legislature maintains its autonomy.
 - The restriction on discussing judicial conduct maintains the **Doctrine of Mutual Respect** between organs.
 - Contempt of Court: If someone **obstructs justice** → contempt. But merely discussing/critiquing a judgment is NOT contempt.
+
+</details>

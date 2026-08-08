@@ -3,7 +3,11 @@
 > **Part:** IV — Directive Principles of State Policy
 > **Subject:** Equitable distribution of material resources of the community
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
+
 The State shall, in particular, direct its policy towards securing that the ownership and control of the material resources of the community are so distributed as best to subserve the common good.
 
 ## Key Points
@@ -15,3 +19,5 @@ The State shall, in particular, direct its policy towards securing that the owne
 
 ## Relevant Cases
 - **Kesavananda Bharati Case (1973):** Socialistic directives form part of the Constitution's core values.
+
+</details>

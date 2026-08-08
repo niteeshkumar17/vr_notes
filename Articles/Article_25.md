@@ -3,7 +3,11 @@
 > **Part:** III — Fundamental Rights
 > **Subject:** Right to Freedom of Religion
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text (Summary)
+
 Subject to public order, morality and health, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.
 
 ## Key Points
@@ -17,3 +21,5 @@ Subject to public order, morality and health, all persons are equally entitled t
 - Western Secularism = separation of religion from politics (state has NO relation with religion).
 - Indian/Eastern Secularism = complex triangular relationship between Religion, Individual, and State — the state does not separate itself from religion but treats all religions equally.
 - Art. 25 ensures individuals can freely practice their religion while the state remains neutral/equidistant.
+
+</details>

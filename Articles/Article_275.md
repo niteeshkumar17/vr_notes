@@ -2,7 +2,11 @@
 
 > **Part XII: Finance, Property, Contracts and Suits — Chapter I (Finance)**
 
+<details>
+<summary>Show Answer</summary>
+
 ## Constitutional Provision
+
 * **Text:** Sums as Parliament may by law provide shall be charged on the **Consolidated Fund of India** in each year as grants-in-aid of the revenues of such States as Parliament may determine to be in need of assistance.
 * **Purpose:** Equalization of public services across states with uneven revenue capabilities or special needs (e.g. Tribal welfare, Hill States, demographic disadvantages).
 * **Finance Commission Role (Article 280(3)(b)):** The Finance Commission makes recommendations to the President regarding the principles governing grants-in-aid under Article 275.
@@ -16,3 +20,5 @@
 * **Article 280:** Finance Commission recommendations on Article 275 principles.
 * **Article 282:** Discretionary Grants (Outside Finance Commission recommendations).
 * **Linkage:** `Fiscal Federalism` $\leftrightarrow$ `16th Finance Commission` $\leftrightarrow$ `Equalization Grants`
+
+</details>

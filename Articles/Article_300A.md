@@ -3,7 +3,11 @@
 > **Part:** XII — Finance, Property, Contracts and Suits
 > **Subject:** Persons not to be deprived of property save by authority of law
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
+
 No person shall be deprived of his property save by authority of law.
 
 ## Key Points
@@ -16,3 +20,5 @@ No person shall be deprived of his property save by authority of law.
 ## Historical Context
 - Indira Gandhi's government had issues with Right to Property as a FR because it obstructed land reform legislation.
 - The Janata Party government (post-Emergency) amended it to balance individual rights with state's welfare objectives.
+
+</details>

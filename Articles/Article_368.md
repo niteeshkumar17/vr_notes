@@ -4,6 +4,9 @@
 
 **Heading:** Power of Parliament to amend the Constitution and procedure therefor
 
+<details>
+<summary>Show Answer</summary>
+
 **Key Provisions:**
 *   Notwithstanding anything in the Constitution, Parliament may, in exercise of its **constituent power**, amend by way of **addition, variation, or repeal** any provision of the Constitution in accordance with the procedure laid down in this article.
 *   **Procedure:**
@@ -24,3 +27,5 @@
 
 **Related Doctrines:**
 *   **Basic Structure Doctrine** (*Kesavananda Bharati Case, 1973*): Parliament can amend any provision but cannot alter the **basic structure** of the Constitution. (To be covered in future lectures.)
+
+</details>

@@ -3,7 +3,11 @@
 > **Part XII: Finance, Property, Contracts and Suits — Chapter I (Finance)**
 > *Inserted by the 101st Constitutional Amendment Act, 2016.*
 
+<details>
+<summary>Show Answer</summary>
+
 ## Constitutional Provision
+
 * **Nature:** Joint forum of the Centre and the States constituted by the President within 60 days of enforcement of 101st Amendment.
 * **Composition:**
   * Chair: **Union Finance Minister**
@@ -21,3 +25,5 @@
 * **Article 246A:** Special provision with respect to goods and services tax.
 * **Article 269A:** Levy and collection of GST in course of inter-State trade/commerce (IGST).
 * **Linkage:** `Fiscal Federalism` $\leftrightarrow$ `GST Collections` $\leftrightarrow$ `101st Amendment`
+
+</details>

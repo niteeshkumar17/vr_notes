@@ -4,6 +4,9 @@
 
 **Heading:** Power of Governor to promulgate Ordinances during recess of State Legislature
 
+<details>
+<summary>Show Answer</summary>
+
 **Key Provisions:**
 *   If at any time, except when the Legislative Assembly of a State is in session (or where there is a Legislative Council, except when both Houses are in session), the Governor is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.
 *   An Ordinance so promulgated shall have the same force and effect as an Act of the State Legislature.
@@ -13,3 +16,5 @@
 **UPSC Relevance:**
 *   State-level counterpart of Article 123 (President's Ordinance power).
 *   Part of the 3rd type of law in the "Laws of Land" classification — Ordinances made by Executive.
+
+</details>

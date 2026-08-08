@@ -1,3 +1,9 @@
 # Article 21A
 **Subject:** Right to education.
+
+<details>
+<summary>Show Answer</summary>
+
 *   **Context:** The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.
+
+</details>

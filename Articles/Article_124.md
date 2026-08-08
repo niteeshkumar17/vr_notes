@@ -2,6 +2,9 @@
 
 > **Part V — The Union, Chapter IV — The Union Judiciary**
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text (Key Clauses)
 
 **124. Establishment and constitution of Supreme Court.**
@@ -30,3 +33,5 @@ Provided that in the case of appointment of a Judge other than the Chief Justice
 
 *   Prelims: Sanctioned strength, Collegium system, NJAC case.
 *   Mains: Debate on Collegium vs. NJAC; judicial independence vs. accountability; pendency crisis.
+
+</details>

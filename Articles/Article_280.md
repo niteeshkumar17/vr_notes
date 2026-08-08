@@ -2,7 +2,11 @@
 
 > **Part XII: Finance, Property, Contracts and Suits — Chapter I (Finance)**
 
+<details>
+<summary>Show Answer</summary>
+
 ## Constitutional Provision
+
 * **Nature:** Quasi-judicial, constitutional body constituted by the **President of India** every 5 years (or earlier).
 * **Composition:** Chairman + 4 other members appointed by the President. Qualifications determined by Parliament (Finance Commission Act, 1951).
 
@@ -15,3 +19,5 @@
 ## Key Historical Context & 16th FC
 * **16th Finance Commission (FC-16):** Chaired by **Arvind Panagariya** (Constituted Dec 2023; Report covering 2026–31 period).
 * **Key Interlinks:** `Vertical Devolution` $\leftrightarrow$ `Horizontal Devolution` $\leftrightarrow$ `Article 275` $\leftrightarrow$ `Fiscal Federalism`
+
+</details>

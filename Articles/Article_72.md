@@ -2,6 +2,9 @@
 
 > **Part V — The Union, Chapter I — The Executive**
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
 
 **72. Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.**
@@ -39,3 +42,5 @@
 
 *   Prelims: Difference between Pardon, Commutation, Remission, Respite, Reprieve.
 *   Mains: Debate on whether the President's pardoning power is subject to Judicial Review (Epuru Sudhakar case, Kehar Singh case).
+
+</details>

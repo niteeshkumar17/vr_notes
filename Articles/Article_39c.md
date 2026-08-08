@@ -3,7 +3,11 @@
 > **Part:** IV — Directive Principles of State Policy
 > **Subject:** No concentration of wealth and means of production
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
+
 The State shall, in particular, direct its policy towards securing that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment.
 
 ## Key Points
@@ -17,3 +21,5 @@ The State shall, in particular, direct its policy towards securing that the oper
 ## Relevant Context
 - Marx's core concern: The bourgeois (owner class) grows at the cost of the proletariat (working class) → concentration of wealth = injustice.
 - India's Democratic Socialism addresses this through welfare schemes, progressive taxation, and regulatory frameworks rather than abolishing private property.
+
+</details>

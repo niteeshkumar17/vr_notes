@@ -2,6 +2,9 @@
 
 > **Part IV — Directive Principles of State Policy**
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
 
 **50. Separation of judiciary from executive.**
@@ -24,3 +27,5 @@ The State shall take steps to separate the judiciary from the executive in the p
 
 *   Prelims: SoP is both implicit and explicit in the Constitution — Art. 50 is the explicit provision.
 *   Mains: Discuss how the Indian model of SoP differs from the American (watertight) model; Art. 50 as a DPSP vs. enforceable right.
+
+</details>

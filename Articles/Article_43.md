@@ -3,7 +3,11 @@
 > **Part:** IV — Directive Principles of State Policy
 > **Subject:** Living wage, etc., for workers
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text
+
 The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, in particular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas.
 
 ## Key Points
@@ -17,3 +21,5 @@ The State shall endeavour to secure, by suitable legislation or economic organis
 ## Socialistic Significance
 - When workers participate in management, they raise issues about their welfare → this is democratic socialism in action.
 - The provision bridges the gap between the bourgeois (owners) and proletariat (workers) without abolishing private property.
+
+</details>

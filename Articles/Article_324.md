@@ -1,6 +1,10 @@
 # Article 324 — Superintendence, Direction and Control of Elections
 
+<details>
+<summary>Show Answer</summary>
+
 ## Text (Simplified)
+
 1. The **superintendence, direction and control** of the preparation of electoral rolls for, and the conduct of, all elections to Parliament and to the Legislature of every State and of elections to the offices of President and Vice-President shall be **vested in the Election Commission of India (ECI)**.
 2. The Election Commission shall consist of the **Chief Election Commissioner (CEC)** and such number of other **Election Commissioners** as the President may from time to time fix.
 3. When any other Election Commissioner is so appointed, the **CEC shall act as the Chairman** of the Election Commission.
@@ -23,3 +27,5 @@
 *   [Article 325](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_325.md) — No person to be ineligible for electoral roll on grounds of religion, race, caste, or sex.
 *   [Article 326](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_326.md) — Elections on the basis of adult suffrage.
 *   [Article 329](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_329.md) — Bar to interference by courts in electoral matters.
+
+</details>
