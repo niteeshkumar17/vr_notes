@@ -154,9 +154,10 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **SUKERCHAKIA** Misl — a 9-year-old boy became the leader: **RANJIT SINGH** (born 1780, took charge 1789).
 *   **Ranjit Singh Empire (1789–1839)**:
     *   **1798**: Captured Lahore from Zaman Shah (Afghan); declared Lahore as his capital.
-    *   **Treaty of LAHORE (1809)**:
-        *   British paid **arms, training & money** to **SIKHS to fight Afghans**.
-        *   River **SUTLEJ** established as boundary: Ranjit Singh’s kingdom (Lahore) on one side, **CIS-SUTLEJ** territory = **BRIT. INDIA** on the other.
+    *   **Treaty of AMRITSAR (1809)**:
+        *   Signed between **Maharaja Ranjit Singh** and British EIC (represented by **Charles Metcalfe**).
+        *   River **SUTLEJ** established as permanent boundary: **CIS-SUTLEJ** territory (south/east of Sutlej) placed under British protection/sphere of influence.
+        *   **UPSC Prelims Crucial Scope:** Treaty restricted Ranjit Singh's expansion **only** in the Cis-Sutlej region. Ranjit Singh retained **unrestricted freedom** to expand North and West of the Sutlej, leading to his conquest of **Multan (1818)**, **Kashmir (1819)**, and **Peshawar (1834)**.
     *   **EASTERN Question — Afghan Question — The Great Game**:
         *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *(1776 context: USA Briton Lost — British didn't want to lose India next).*
         *   **§ Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Context: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*
@@ -630,4 +631,6 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   **7 Committees**: (1) Buying (2) Shipping (3) Treasury (4) Warehouse (5) Correspondence (6) Accounting (7) Private Trade.
 *   **Home Charges**: Indians paid for the expenses of running these 7 committees + reports. *Context: "You have to prepare the report, you have to send to Parliament, and you are asking us the money. We will not pay for home charges — that is the dilemma. From here comes the concept of Home Charges, which will help you in Modern India."*
 *   **Shipping of Reports & Parliamentary Sessions**: Reports shipped from Bombay by monsoon currents → took 3–4 months → reached England either in **Autumn** or **Spring**. *Context: "So Indian Parliament's session is always in alternation with the English Parliament session — Autumn report comes back as Winter session; Spring session comes back as Monsoon session."*
+
+<!-- 2026-08-08: Enriched Treaty of Amritsar (1809) scope — explicitly noted Cis-Sutlej limitation vs unrestricted expansion in Kashmir (1819), Multan (1818), and Peshawar (1834). Mislabeled Treaty of Lahore corrected. -->
 

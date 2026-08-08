@@ -427,8 +427,10 @@ Total money value (**Quantity × Price**) of all final goods and services produc
 
 ### Gross Domestic Capital Formation (GDCF)
 - GDCF reflects improvement in productivity across different sectors and is a crucial determinant of longer-term economic growth.
-- `GDCF = GFCF + Change in Unsold Stocks/Inventories/Working Capital`
-- **Change in Stocks (Closing Stocks - Opening Stocks):** Difference between the values of raw materials, semi-finished, and finished goods held by firms at the end of the year versus the beginning of the year.
+- **Official MoSPI/CSO Formula:** `GDCF = GFCF + Change in Stocks + Net Acquisition of Valuables`
+- **Component 1 — GFCF (Gross Fixed Capital Formation):** Investment in machinery, equipment, buildings, infrastructure, and residential housing.
+- **Component 2 — Change in Stocks (Closing Stocks - Opening Stocks):** Net addition to raw materials, semi-finished, and finished inventory held by enterprises.
+- **Component 3 — Net Acquisition of Valuables:** Net purchases of gold, silver, precious stones, and artwork held as store of value (explicitly included in India's National Income Accounts).
 - **Synonyms:** GDCF is also known as Investment Expenditure, Capital Expenditure (CapEx), or simply Capital Formation.
 
 ---
