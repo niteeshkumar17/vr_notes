@@ -21,7 +21,17 @@
 
 *(Most recent first)*
 
-### Session 7 — 2026-08-06 (Ongoing)
+### Session 8 — 2026-08-08
+- **Subject:** GS_History, GS_Geography, GS_Economy, Current Affairs
+- **Format:** 15 Prelims MCQs
+- **Score:** 14.65 / 30.00 (Net Score: +18.0 - 3.35 = 14.65 | Accuracy: 64.3% — 9/14 attempted correct | 1 Skipped)
+- **Strengths:** Excellent performance on 1717 Farman Scope (`MST-005`), IDL West-East Crossing (`MST-001`), Subpolar Low origin (`MST-002`), Vellore Mutiny 1806, Time Math UTC to IST conversion, Doldrums & Horse Latitudes, Geomorphology Davisian Trio, and Nominal vs Real GDP Deflator.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-004:* Awadh Treaty of Faizabad (Asaf-ud-Daulah capital shift vs Saadat Khan) — Repeat Error!
+  - *MST-006:* Treaty of Amritsar (1809) Scope (Ranjit Singh expanded into Kashmir/Multan, only Cis-Sutlej blocked).
+  - *MST-007:* Gross Domestic Capital Formation (GDCF = GFCF + Change in Stocks + Net Valuables).
+  - *MST-008:* SC/ST Sub-classification (Empirical data mandatory; Creamy Layer recommended).
+  - *MST-009:* Article 275 Statutory Grants (Charged upon Consolidated Fund of India).
 - **Subject:** GS_History_VR_Notes & GS_Geography_VR_Notes
 - **Format:** 10 Prelims MCQs + 1 Mains Answer Outline
 - **Score (MCQs so far):** 12.49 / 24.00 (Accuracy: 71.4% — 5/7 correct)
