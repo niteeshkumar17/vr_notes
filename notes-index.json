@@ -11,6 +11,12 @@
                                     "title":  "Introduction and National Income Basics"
                                 }
                             ],
+    "MBL":  [
+                {
+                    "file":  "MBL_Daily_QnA.md",
+                    "title":  "MBL Daily QnA"
+                }
+            ],
     "Current_Affairs":  [
                             {
                                 "file":  "August_2026/2026-08-01_Current_Affairs.md",
