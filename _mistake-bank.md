@@ -17,6 +17,7 @@
 | MST-007 | ECO-02-04 | GDCF National Accounts Scope | Gross Domestic Capital Formation (GDCF) = Gross Fixed Capital Formation (GFCF) + Change in Stocks + Net Valuables (gold/jewels). | 2026-08-08 | `Fact Error` | 1 | 2026-08-23 | Active (15-day cycle) |
 | MST-008 | CA-260807-01 | SC Sub-Classification Data Mandate | States CANNOT sub-classify SC/ST arbitrarily; empirical data on backwardness is mandatory. Creamy layer principle applies. | 2026-08-08 | `Concept Error` | 1 | 2026-08-23 | Active (15-day cycle) |
 | MST-009 | CA-260806-01 | Article 275 Statutory Grants Charge | Grants-in-aid recommended by FC under Article 275 are charged upon the Consolidated Fund of India (non-votable). | 2026-08-08 | `Fact Error` | 1 | 2026-08-23 | Active (15-day cycle) |
+| MST-010 | CA-260807-02 | Ramsar Wetland Buffer Zone Trap | Wetland Rules 2017 do NOT prescribe an automatic mandatory 10 km uniform buffer for all Ramsar sites; buffer zones are site-specific. | 2026-08-08 | `Elimination Failure` | 1 | 2026-08-23 | Active (15-day cycle) |
 
 ---
 
