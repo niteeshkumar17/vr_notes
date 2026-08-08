@@ -1,7 +1,8 @@
 # 02 — Geomorphology (World Physical Geography — Chapter 1)
 
+> **Date of Lecture:** 8 August 2026 (Lecture A1)
+> **Date Added:** 2026-08-08
 > **Source:** Vajiram & Ravi class notes (Lecture A1) + Audio Transcript
-> **Date added:** 2026-08-08
 > **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)
 
 ---
