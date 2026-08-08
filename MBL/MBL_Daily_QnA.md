@@ -557,4 +557,119 @@
 
 ---
 
-<!-- 2026-08-08: Updated MBL Q&A repository to use unindented HTML details blocks (<details><summary>Show Answer</summary>...) containing Target Answer / Key Concepts for web rendering. -->
+## 📅 08 August 2026
+
+### Q15. DPDP Act 2023 vs RTI Act 2005 (Section 44(3) Supreme Court Hearing)
+**Source Date:** 2026-08-08 08:30 PM | **Subject:** Current Affairs / Polity (GS-II)
+
+1. **Question:** What amendment did Section 44(3) of the Digital Personal Data Protection (DPDP) Act 2023 make to Section 8(1)(j) of the RTI Act 2005, and how did it change the "public interest" balancing test?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Amended Section 8(1)(j) to create a **blanket exemption** for all "personal information" from RTI disclosure.
+  - Abolished the mandatory **public interest balancing test**, where PIOs/FAAs could previously override privacy if public interest outweighed personal privacy.
+
+</details>
+
+2. **Question:** What is the petitioners' core constitutional argument regarding the inversion of the Fundamental Right to Privacy (*Puttaswamy* 2017) under Article 21?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Right to Privacy under Article 21 was recognized to protect ordinary citizens against State overreach/incursion.
+  - Section 44(3) extends privacy protections to shield the **State and public functionaries** from RTI disclosures and citizen scrutiny.
+
+</details>
+
+3. **Question:** How does this amendment affect investigative journalism, and what was the Supreme Court's observation regarding journalists as a "special category"?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Journalists reporting on corruption must seek explicit consent of the data principal, who can demand data erasure.
+  - SC observed that **journalists cannot be treated as a "special category"** with unreserved access to personal data over privacy laws.
+
+</details>
+
+---
+
+### Q16. Changing Logic of India-U.S. Strategic Partnership
+**Source Date:** 2026-08-08 08:30 PM | **Subject:** Current Affairs / IR (GS-II)
+
+1. **Question:** What is "flexible realism" in U.S. foreign policy, and how does it differ from post-Cold War liberal internationalism?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Flexible Realism:** Prioritizes national interest, tariffs, technology restrictions, demands for burden-sharing, and transactional bargains.
+  - Assesses strategic partnerships by **tangible economic/strategic value delivered** rather than shared historical/democratic values alone.
+
+</details>
+
+2. **Question:** What factor served as the primary anchor for the India-U.S. strategic partnership over the past decade, and what are its key collaboration pillars?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Primary Anchor:** Responding to **China's strategic rise**.
+  - **Key Pillars:** Defense cooperation, supply chain resilience, critical and emerging technologies (iCET), and the Quad.
+
+</details>
+
+3. **Question:** How does the "flexible realism" paradigm re-conceptualize India's Strategic Autonomy and Multi-Alignment strategy?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Strategic autonomy is **not equal physical distance** from power blocs, but preserving the independent capacity to make national interest choices.
+  - Multi-alignment requires strengthening US ties while expanding partnerships with EU, Japan, Global South, and managing China.
+
+</details>
+
+---
+
+### Q17. Pakistan-Turkiye-Saudi Arabia Trilateral Mecca Defence Pact
+**Source Date:** 2026-08-08 08:30 PM | **Subject:** Current Affairs / IR (GS-II)
+
+1. **Question:** What core collective defence clause was agreed upon in the Mecca Al-Mukarramah Summit by Saudi Arabia, Pakistan, and Turkiye?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Clause of **"Collective Defence & Deterrence"**: Declared that an armed attack against any one of the three member states will be treated as an attack against all three.
+
+</details>
+
+2. **Question:** What strategic triad does this pact represent, and what regional crisis backdrop led to its signing?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Strategic Triad:** Nuclear power (Pakistan) + Gulf oil/capital power (Saudi Arabia) + NATO member & drone power (Turkiye).
+  - **Backdrop:** Ongoing US/Israel-Iran military conflict, Houthi attacks on Saudi oil facilities and Red Sea shipping.
+
+</details>
+
+3. **Question:** What strategic concerns does this trilateral alliance pose for India's foreign policy in West Asia?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Aligns a hostile neighbor (Pakistan) with major Gulf and Middle Eastern powers (Saudi Arabia & Turkiye).
+  - Challenges India's strategic balancing in West Asia and opens possibilities for Turkish-Pakistani defense technology sharing.
+
+</details>
+
+---
+
+<!-- 2026-08-08: Updated MBL Q&A repository to include 08 August 2026 Current Affairs Q&As (DPDP vs RTI, India-US partnership, Mecca defence pact). -->

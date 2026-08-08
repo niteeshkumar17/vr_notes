@@ -14,6 +14,7 @@
 | Current_Affairs | Current Affairs (28–29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-07 | Confident | 2023 | Western Ghats state count (6 states); Art 16(3) Parliamentary exclusivity. |
 | Current_Affairs | Current Affairs (06 August 2026) | 2026-08-06 | 0 | 0% | 2026-08-07 | New | 2022, 2024 | Fiscal Federalism & Art 275 RDGs, ISI Bill 2026, Asiatic Lion Conservation & Barda WS. |
 | Current_Affairs | Current Affairs (07 August 2026) | 2026-08-07 | 0 | 0% | 2026-08-08 | New | 2012, 2019, 2024 | SC/ST Creamy Layer stand, SC Ramsar Mining Buffer Order, 12th Handloom Day & Tech 4.0, Kerala Police Reforms, CWG Governance. |
+| Current_Affairs | Current Affairs (08 August 2026) | 2026-08-08 | 0 | 0% | 2026-08-09 | New | 2017, 2019, 2023 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j), India-US Strategic Partnership & Flexible Realism, Pakistan-Turkiye-Saudi Mecca Trilateral Defence Pact. |
 
 ---
 
