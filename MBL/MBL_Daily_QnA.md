@@ -374,7 +374,7 @@
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - Measures total addition to fixed assets, net addition to inventories, and valuables in an economy during an accounting year (Investment $I$).
+  - Measures total addition to fixed assets, net addition to inventories, and valuables in an economy during an accounting year (Investment I).
 
 </details>
 
@@ -396,9 +396,9 @@
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - **PFCE ($C$):** Household consumption of non-durable & durable goods.
-  - **GFCE ($G$):** Government routine operational spending (salaries, defense maintenance).
-  - **Capital Formation ($I$):** Productive asset generation (factories, roads, machinery).
+  - **PFCE (C):** Household consumption of non-durable & durable goods.
+  - **GFCE (G):** Government routine operational spending (salaries, defense maintenance).
+  - **Capital Formation (I):** Productive asset generation (factories, roads, machinery).
 
 </details>
 
