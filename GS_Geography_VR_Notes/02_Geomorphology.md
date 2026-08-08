@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 References
+## References
 
 | Priority | Source | Usage |
 |:---:|:---|:---|
@@ -17,23 +17,23 @@
 
 ---
 
-## 📋 Geomorphology Syllabus (9 Topics)
+## Geomorphology Syllabus (9 Topics)
 
 | # | Topic | Status |
 |:---:|:---|:---:|
-| I | Landform: Definition & Classification | ✅ Covered (Lec A1) |
-| II | Endogenetic Forces | 🔜 Next |
-| III | Interior of the Earth | 🔜 |
-| IV | Geomagnetism (Magnetic Field of Earth) | 🔜 |
-| V | Exogenetic Forces / Denudation | 🔜 |
-| VI | Landforms Created by Denudation | 🔜 |
+| I | Landform: Definition & Classification | Covered (Lec A1) |
+| II | Endogenetic Forces | Next |
+| III | Interior of the Earth | Pending |
+| IV | Geomagnetism (Magnetic Field of Earth) | Pending |
+| V | Exogenetic Forces / Denudation | Pending |
+| VI | Landforms Created by Denudation | Pending |
 | | — (i) Fluvial Landform → Water | |
 | | — (ii) Aeolian Landform → Wind (desert features: sand dunes) | |
 | | — (iii) Glacial Landform → Glacier | |
 | | — (iv) Karst Landform → Limestone (CaCO₃) | |
-| VII | Volcanism | 🔜 |
-| VIII | Earthquakes | 🔜 |
-| IX | Surface Configuration of Earth | 🔜 |
+| VII | Volcanism | Pending |
+| VIII | Earthquakes | Pending |
+| IX | Surface Configuration of Earth | Pending |
 
 ---
 
@@ -80,7 +80,7 @@ Three theories that explain the arrangement of continents & ocean basins:
 | **Sea Floor Spreading** | Harry Hess | 1962 | Research during WWII (1940s); published 1962. Improvement over Continental Drift |
 | **Plate Tectonics** | T. Wilson & J. Morgan | 1967 | Most scientific, comprehensive, accepted theory |
 
-> **⭐ Key Statement:** *"Plate Tectonic Theory validates the concept of Continental Drift and Sea Floor Spreading."*
+> **Key Statement:** *"Plate Tectonic Theory validates the concept of Continental Drift and Sea Floor Spreading."*
 > - Plate Tectonics does NOT reject Wegener — the idea of supercontinents is correct
 > - It provides the **scientific explanation** that Wegener's theory lacked
 > - Similarly, Hess's Sea Floor Spreading concept is validated by Plate Tectonics
@@ -134,7 +134,7 @@ Three theories that explain the arrangement of continents & ocean basins:
   - Landform B = Processes {B, E, F, G, H} (5 processes)
   - Only Process B is common → rest are different → unique identity
 
-### ⭐ Principle 1: Complexity Principle
+### Principle 1: Complexity Principle
 
 > **"Complexity is more common than simplicity in development of landforms."**
 
@@ -235,9 +235,9 @@ Three theories that explain the arrangement of continents & ocean basins:
 
 ### 6.5 LF = f(Endo, Exo) — The Fundamental Equation
 
-> **⭐ Principle 2: "The evolution of the landform is a product of competition between endogenic and exogenic forces."**
+> **Principle 2: "The evolution of the landform is a product of competition between endogenic and exogenic forces."**
 
-$$LF = f\left(\frac{ENDO}{EXO}\right)$$
+`LF = f(ENDO / EXO)`
 
 - If Endo = Exo (hypothetical balance) → Surface would be flat/uniform
 - But surface is NOT uniform → **imbalance** always exists between the two forces
@@ -257,7 +257,7 @@ $$LF = f\left(\frac{ENDO}{EXO}\right)$$
 | **Classification** | Relict mountains (remains of original) | Young fold mountains (still rising) |
 | **Plate Position** | NOT at plate boundary | AT convergent plate boundary |
 
-> **⭐ Key Statements:**
+> **Key Statements:**
 > - *"Aravalis are relict mountains created by dominance of exogenic force during long period of crustal stability."*
 > - *"In case of Himalayas, in spite of presence of exogenic forces, the height of mountain continues to increase — this indicates dominance of endogenic force (crustal instability)."*
 > - Everest rises by a few centimeters every year
@@ -266,8 +266,8 @@ $$LF = f\left(\frac{ENDO}{EXO}\right)$$
 
 ## 7. Davisian Trio — Third Principle
 
-> **⭐ Principle 3 (W.M. Davis — American Geographer):**
-> $$LF = f(\text{Structure, Process, Time})$$
+> **Principle 3 (W.M. Davis — American Geographer):**
+> `LF = f(Structure, Process, Time)`
 
 | Component | Meaning | Explanation |
 |:---|:---|:---|
@@ -320,7 +320,7 @@ $$LF = f\left(\frac{ENDO}{EXO}\right)$$
 
 ---
 
-## 🔗 Knowledge Graph — Key Conceptual Links
+## Knowledge Graph — Key Conceptual Links
 
 ```mermaid
 graph TD
@@ -362,7 +362,7 @@ graph TD
 
 ---
 
-## 🎯 UPSC Quick Recall Points
+## UPSC Quick Recall Points
 
 1. **Geography** = Study of Earth's Surface (Physical + Human)
 2. **Physical Geography** = 3 branches: Geomorphology, Climatology, Oceanography
