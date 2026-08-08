@@ -181,8 +181,8 @@
 
 - **Target Answer / Key Concepts:**
   - **GDP:** Total monetary value of final goods/services produced within domestic territory in a year.
-  - **GNP:** Total income earned by normal residents of a country ($GNP = GDP + NFIA$, where NFIA = Net Factor Income from Abroad).
-  - **NNP:** Pure national income after subtracting depreciation ($NNP = GNP - Depreciation$).
+  - **GNP:** Total income earned by normal residents of a country (GNP = GDP + NFIA, where NFIA = Net Factor Income from Abroad).
+  - **NNP:** Pure national income after subtracting depreciation (NNP = GNP - Depreciation).
 
 </details>
 
@@ -193,8 +193,8 @@
 
 - **Target Answer / Key Concepts:**
   - **Factor Cost (FC):** Total cost of factors of production (land, labor, capital, entrepreneur).
-  - **Basic Price:** $FC + \text{Net Production Taxes}$ (Production taxes like land revenue minus production subsidies).
-  - **Market Price (MP):** $\text{Basic Price} + \text{Net Product Taxes}$ (Product taxes like GST/Customs minus product subsidies like food/fertilizer).
+  - **Basic Price:** FC + Net Production Taxes (Production taxes like land revenue minus production subsidies).
+  - **Market Price (MP):** Basic Price + Net Product Taxes (Product taxes like GST/Customs minus product subsidies like food/fertilizer).
 
 </details>
 
@@ -206,7 +206,7 @@
 - **Target Answer / Key Concepts:**
   - **Nominal GDP:** Evaluated at current market prices (includes inflation effect).
   - **Real GDP:** Evaluated at constant base year prices (reflects actual physical output growth).
-  - **GDP Deflator:** Comprehensive price inflation indicator = $(\text{Nominal GDP} / \text{Real GDP}) \times 100$.
+  - **GDP Deflator:** Comprehensive price inflation indicator = (Nominal GDP / Real GDP) × 100.
 
 </details>
 
@@ -347,7 +347,7 @@
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - $\text{GDP Deflator} = (\text{Nominal GDP} / \text{Real GDP}) \times 100$.
+  - GDP Deflator = (Nominal GDP / Real GDP) × 100.
   - Covers ALL domestically produced goods & services (CPI/WPI cover a fixed representative basket). Includes capital goods and government purchases.
 
 </details>
@@ -513,7 +513,7 @@
 
 - **Target Answer / Key Concepts:**
   - **Depreciation (CFC):** Wear and tear, physical degradation, and expected obsolescence of capital goods during production.
-  - $\text{Net Aggregate} = \text{Gross Aggregate} - \text{Depreciation}$ (e.g., $NDP = GDP - CFC$).
+  - Net Aggregate = Gross Aggregate - Depreciation (e.g., NDP = GDP - CFC).
 
 </details>
 
