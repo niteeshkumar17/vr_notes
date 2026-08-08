@@ -12,32 +12,41 @@
 **Source Date:** 2026-08-07 05:02 AM | **Subject:** History (Early Modern India)
 
 1. **Question:** Which Mughal Emperor issued the Farman, and what were the key provisions regarding customs duties, currency, and Surat?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Issued by Mughal Emperor **Farrukh Siyar** in 1717 (often termed the "Magna Carta" of the EIC in Bengal).
-   - **Customs Duties:** EIC granted duty-free trade in Bengal for an annual payment of ₹3,000.
-   - **Currency:** EIC coins minted at Bombay were allowed to circulate throughout the Mughal Empire.
-   - **Surat:** EIC exempted from all duties at Surat for an annual sum of ₹10,000; duty-free trade at Hyderabad.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Issued by Mughal Emperor **Farrukh Siyar** in 1717 (often termed the "Magna Carta" of the EIC in Bengal).
+  - **Customs Duties:** EIC granted duty-free trade in Bengal for an annual payment of ₹3,000.
+  - **Currency:** EIC coins minted at Bombay were allowed to circulate throughout the Mughal Empire.
+  - **Surat:** EIC exempted from all duties at Surat for an annual sum of ₹10,000; duty-free trade at Hyderabad.
+
+</details>
 
 2. **Question:** How was the Dastak misused by EIC private servants, and what was the impact on Bengal's treasury and local merchants?
-   <details>
-   <summary>Show Answer</summary>
 
-   - *Dastak* (trade permit) was meant exclusively for official EIC corporate import/export trade.
-   - EIC private servants illegally used *Dastaks* for their personal private trade to evade transit duties and sold *Dastaks* to favored Indian merchants for bribes.
-   - **Impact:** Deprived Bengal Nawabs of vast customs revenue, bankrupted local treasury, and undercut Indian merchants who paid full duties (unequal competition).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - *Dastak* (trade permit) was meant exclusively for official EIC corporate import/export trade.
+  - EIC private servants illegally used *Dastaks* for their personal private trade to evade transit duties and sold *Dastaks* to favored Indian merchants for bribes.
+  - **Impact:** Deprived Bengal Nawabs of vast customs revenue, bankrupted local treasury, and undercut Indian merchants who paid full duties (unequal competition).
+
+</details>
 
 3. **Question:** What key conflict did this trigger between the Nawabs of Bengal (Nawab Siraj-ud-Daulah / Mir Qasim) and the British?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Murshid Quli Khan, Alivardi Khan, Siraj-ud-Daulah, and Mir Qasim fiercely opposed *Dastak* revenue loss.
-   - Mir Qasim eventually abolished all customs duties for Indian merchants too (leveling the playing field), infuriating the EIC.
-   - Directly triggered the **Battle of Plassey (1757)** and **Battle of Buxar (1764)**.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Murshid Quli Khan, Alivardi Khan, Siraj-ud-Daulah, and Mir Qasim fiercely opposed *Dastak* revenue loss.
+  - Mir Qasim eventually abolished all customs duties for Indian merchants too (leveling the playing field), infuriating the EIC.
+  - Directly triggered the **Battle of Plassey (1757)** and **Battle of Buxar (1764)**.
+
+</details>
 
 ---
 
@@ -45,31 +54,40 @@
 **Source Date:** 2026-08-07 05:02 AM | **Subject:** History (Early Modern India)
 
 1. **Question:** Who founded Awadh, what dual posts did he hold, and why was he summoned to Delhi during Nadir Shah's invasion (1739)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Founded by **Saadat Khan Burhan-ul-Mulk** in 1722.
-   - Held dual posts of Subahdar (Governor) of Awadh and Imperial Wazir.
-   - Summoned to Delhi in 1739 to lead Mughal forces against Nadir Shah; captured at Battle of Karnal.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Founded by **Saadat Khan Burhan-ul-Mulk** in 1722.
+  - Held dual posts of Subahdar (Governor) of Awadh and Imperial Wazir.
+  - Summoned to Delhi in 1739 to lead Mughal forces against Nadir Shah; captured at Battle of Karnal.
+
+</details>
 
 2. **Question:** What role did Safdar Jung and Shuja-ud-Daula play in North Indian politics (Battle of Buxar 1764 & Treaty of Allahabad 1765)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Safdar Jung** became Wazir of Mughal Empire (Wazir-O-Subahdar).
-   - **Shuja-ud-Daula** joined forces with Shah Alam II and Mir Qasim against EIC at **Battle of Buxar (1764)**.
-   - Signed **Treaty of Allahabad (1765)** with Robert Clive: paid ₹50 lakh war indemnity, surrendered Kora and Allahabad to Shah Alam II, and turned Awadh into a buffer state.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Safdar Jung** became Wazir of Mughal Empire (Wazir-O-Subahdar).
+  - **Shuja-ud-Daula** joined forces with Shah Alam II and Mir Qasim against EIC at **Battle of Buxar (1764)**.
+  - Signed **Treaty of Allahabad (1765)** with Robert Clive: paid ₹50 lakh war indemnity, surrendered Kora and Allahabad to Shah Alam II, and turned Awadh into a buffer state.
+
+</details>
 
 3. **Question:** What were the key terms of the Treaty of Benaras (1773), Treaty of Faizabad (1775), and Lord Wellesley's 1801 Subsidiary Alliance Treaty with Nawab Saadat Ali Khan II?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Treaty of Benaras (1773):** Warren Hastings sold Kora and Allahabad back to Nawab of Awadh for ₹50 lakh.
-   - **Treaty of Faizabad (1775):** Asaf-ud-Daulah ceded Benares to EIC and shifted Awadh capital from Faizabad to Lucknow.
-   - **1801 Subsidiary Alliance (Wellesley):** Nawab Saadat Ali Khan II ceded over half of Awadh's territory (Rohilkhand and Doab) to feed EIC troops.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Treaty of Benaras (1773):** Warren Hastings sold Kora and Allahabad back to Nawab of Awadh for ₹50 lakh.
+  - **Treaty of Faizabad (1775):** Asaf-ud-Daulah ceded Benares to EIC and shifted Awadh capital from Faizabad to Lucknow.
+  - **1801 Subsidiary Alliance (Wellesley):** Nawab Saadat Ali Khan II ceded over half of Awadh's territory (Rohilkhand and Doab) to feed EIC troops.
+
+</details>
 
 ---
 
@@ -77,31 +95,40 @@
 **Source Date:** 2026-08-07 05:03 AM | **Subject:** History (Early Modern India)
 
 1. **Question:** Who was Bahadur Shah I (Shah Alam I), what policy shift did he attempt with Marathas/Rajputs/Sikhs, and why was he called Shah-i-Bekhabar?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Prince Muazzam ascended as **Bahadur Shah I** (1707–1712) at age 63 after Battle of Jajau.
-   - Adopted **Pacific Policy**: released Shahu (1707), recognized Rajput chiefs, attempted reconciliation with Gobind Singh (but fought Banda Singh Bahadur).
-   - Named *Shah-i-Bekhabar* ("Heedless King") by Khafi Khan due to reckless land/title grants depleting royal treasury.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Prince Muazzam ascended as **Bahadur Shah I** (1707–1712) at age 63 after Battle of Jajau.
+  - Adopted **Pacific Policy**: released Shahu (1707), recognized Rajput chiefs, attempted reconciliation with Gobind Singh (but fought Banda Singh Bahadur).
+  - Named *Shah-i-Bekhabar* ("Heedless King") by Khafi Khan due to reckless land/title grants depleting royal treasury.
+
+</details>
 
 2. **Question:** Explain the rise of Zulfiqar Khan during Jahandar Shah's reign (Ijarah system, abolition of Jizya, Maratha concessions).
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Zulfiqar Khan** acted as supreme Wazir under puppet king Jahandar Shah (1712–1713).
-   - **Reforms:** Abolished *Jizya*, granted Marathas Chauth & Sardeshmukhi of Deccan (collected by Mughal officials).
-   - Introduced **Ijarah (Revenue Farming)** system, leading to farmer exploitation and agrarian distress.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Zulfiqar Khan** acted as supreme Wazir under puppet king Jahandar Shah (1712–1713).
+  - **Reforms:** Abolished *Jizya*, granted Marathas Chauth & Sardeshmukhi of Deccan (collected by Mughal officials).
+  - Introduced **Ijarah (Revenue Farming)** system, leading to farmer exploitation and agrarian distress.
+
+</details>
 
 3. **Question:** Who were the Sayyid Brothers (Abdullah Khan & Hussain Ali Khan), which Emperors did they make/unmake, and how were they eventually eliminated under Muhammad Shah 'Rangeela'?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Known as the **"Kingmakers"** (Abdullah Khan = Wazir; Hussain Ali Khan = Mir Bakshi).
-   - Made & assassinated Farrukh Siyar (1719 with Maratha help); placed Rafi-us-Darajat, Rafi-ud-Daulah, and Muhammad Shah on throne.
-   - **Elimination:** Turani faction led by Nizam-ul-Mulk (Chin Qilich Khan) and Haider Beg assassinated Hussain Ali Khan (1720) and defeated Abdullah Khan under Muhammad Shah 'Rangeela'.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Known as the **"Kingmakers"** (Abdullah Khan = Wazir; Hussain Ali Khan = Mir Bakshi).
+  - Made & assassinated Farrukh Siyar (1719 with Maratha help); placed Rafi-us-Darajat, Rafi-ud-Daulah, and Muhammad Shah on throne.
+  - **Elimination:** Turani faction led by Nizam-ul-Mulk (Chin Qilich Khan) and Haider Beg assassinated Hussain Ali Khan (1720) and defeated Abdullah Khan under Muhammad Shah 'Rangeela'.
+
+</details>
 
 ---
 
@@ -109,29 +136,38 @@
 **Source Date:** 2026-08-07 05:26 AM | **Subject:** Polity & Constitution
 
 1. **Question:** What is the constitutional nature of Article 275 (Statutory Grants vs Article 282 Discretionary Grants), and which authority recommends them?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Article 275:** Mandatory **Statutory Grants-in-Aid** charged on the Consolidated Fund of India for states in need of financial assistance.
-   - **Article 282:** Discretionary Grants for public purposes (used for Centrally Sponsored Schemes).
-   - Recommended by the **Finance Commission** under Article 280.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Article 275:** Mandatory **Statutory Grants-in-Aid** charged on the Consolidated Fund of India for states in need of financial assistance.
+  - **Article 282:** Discretionary Grants for public purposes (used for Centrally Sponsored Schemes).
+  - Recommended by the **Finance Commission** under Article 280.
+
+</details>
 
 2. **Question:** What are the specific constitutional mandates under Article 275 provisos regarding Scheduled Tribes (STs) and Scheduled Areas (Article 244)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Proviso 1:** Mandates grants for schemes promoting welfare of Scheduled Tribes or raising administration level of Scheduled Areas (Fifth/Sixth Schedule).
-   - **Proviso 2:** Specific grants for Assam for tribal areas (Sixth Schedule).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Proviso 1:** Mandates grants for schemes promoting welfare of Scheduled Tribes or raising administration level of Scheduled Areas (Fifth/Sixth Schedule).
+  - **Proviso 2:** Specific grants for Assam for tribal areas (Sixth Schedule).
+
+</details>
 
 3. **Question:** How do Article 275 grants feature in Finance Commission devolution (e.g., Revenue Deficit Grants - RDG, Local Body Grants, Disaster Relief)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Used by Finance Commission to fill post-tax-devolution gaps via **Post-Devolution Revenue Deficit Grants (RDG)**.
-   - Funds tied & untied grants for Rural & Urban Local Bodies (RLBs/ULBs) and State Disaster Response Funds (SDRF).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Used by Finance Commission to fill post-tax-devolution gaps via **Post-Devolution Revenue Deficit Grants (RDG)**.
+  - Funds tied & untied grants for Rural & Urban Local Bodies (RLBs/ULBs) and State Disaster Response Funds (SDRF).
+
+</details>
 
 ---
 
@@ -139,31 +175,40 @@
 **Source Date:** 2026-08-07 05:36 AM | **Subject:** Economy (Basics)
 
 1. **Question:** Define GDP, GNP, and NNP. Write down the exact operational formulas converting GDP -> GNP -> NNP.
-   <details>
-   <summary>Show Answer</summary>
 
-   - **GDP:** Total monetary value of final goods/services produced within domestic territory in a year.
-   - **GNP:** Total income earned by normal residents of a country ($GNP = GDP + NFIA$, where NFIA = Net Factor Income from Abroad).
-   - **NNP:** Pure national income after subtracting depreciation ($NNP = GNP - Depreciation$).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **GDP:** Total monetary value of final goods/services produced within domestic territory in a year.
+  - **GNP:** Total income earned by normal residents of a country ($GNP = GDP + NFIA$, where NFIA = Net Factor Income from Abroad).
+  - **NNP:** Pure national income after subtracting depreciation ($NNP = GNP - Depreciation$).
+
+</details>
 
 2. **Question:** What is the difference between Factor Cost (FC), Basic Price, and Market Price (MP)? Explain how Net Production Taxes vs Net Product Taxes fit into this transition.
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Factor Cost (FC):** Total cost of factors of production (land, labor, capital, entrepreneur).
-   - **Basic Price:** $FC + \text{Net Production Taxes}$ (Production taxes like land revenue minus production subsidies).
-   - **Market Price (MP):** $\text{Basic Price} + \text{Net Product Taxes}$ (Product taxes like GST/Customs minus product subsidies like food/fertilizer).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Factor Cost (FC):** Total cost of factors of production (land, labor, capital, entrepreneur).
+  - **Basic Price:** $FC + \text{Net Production Taxes}$ (Production taxes like land revenue minus production subsidies).
+  - **Market Price (MP):** $\text{Basic Price} + \text{Net Product Taxes}$ (Product taxes like GST/Customs minus product subsidies like food/fertilizer).
+
+</details>
 
 3. **Question:** How is Real GDP distinguished from Nominal GDP, and what is the GDP Deflator?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Nominal GDP:** Evaluated at current market prices (includes inflation effect).
-   - **Real GDP:** Evaluated at constant base year prices (reflects actual physical output growth).
-   - **GDP Deflator:** Comprehensive price inflation indicator = $(\text{Nominal GDP} / \text{Real GDP}) \times 100$.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Nominal GDP:** Evaluated at current market prices (includes inflation effect).
+  - **Real GDP:** Evaluated at constant base year prices (reflects actual physical output growth).
+  - **GDP Deflator:** Comprehensive price inflation indicator = $(\text{Nominal GDP} / \text{Real GDP}) \times 100$.
+
+</details>
 
 ---
 
@@ -171,29 +216,38 @@
 **Source Date:** 2026-08-07 06:00 AM | **Subject:** Environment & Biodiversity
 
 1. **Question:** What is the current IUCN status and Schedule under Wildlife Protection Act (WPA 1972) for the Asiatic Lion (Panthera leo persica)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **IUCN Red List:** Vulnerable (formerly Endangered).
-   - **WPA 1972:** Schedule I (highest protection).
-   - **CITES:** Appendix I.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **IUCN Red List:** Vulnerable (formerly Endangered).
+  - **WPA 1972:** Schedule I (highest protection).
+  - **CITES:** Appendix I.
+
+</details>
 
 2. **Question:** Why is Barda Wildlife Sanctuary (Porbandar, Gujarat) selected as a second home/natural habitat for Asiatic Lions, and what epidemic threat (e.g. CDV) necessitates this relocation?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Single population in Gir creates severe vulnerability to catastrophic epidemics like **Canine Distemper Virus (CDV)** (killed ~30+ lions in 2018) or natural disasters.
-   - **Barda WS** chosen under 'Project Lion' due to similar agro-climatic terrain, adequate prey base, and proximity (~100 km from Gir).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Single population in Gir creates severe vulnerability to catastrophic epidemics like **Canine Distemper Virus (CDV)** (killed ~30+ lions in 2018) or natural disasters.
+  - **Barda WS** chosen under 'Project Lion' due to similar agro-climatic terrain, adequate prey base, and proximity (~100 km from Gir).
+
+</details>
 
 3. **Question:** Mention the historical background of Gir National Park as the sole habitat and the Supreme Court mandate regarding lion translocation (Kuno vs Barda context).
-   <details>
-   <summary>Show Answer</summary>
 
-   - Saved from extinction by Nawab of Junagadh in early 1900s.
-   - **Supreme Court 2013 Ruling:** Mandated translocation of Asiatic Lions to Kuno Palpur (Madhya Pradesh) to establish a second independent herd. Gujarat prioritized internal relocation to Barda instead.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Saved from extinction by Nawab of Junagadh in early 1900s.
+  - **Supreme Court 2013 Ruling:** Mandated translocation of Asiatic Lions to Kuno Palpur (Madhya Pradesh) to establish a second independent herd. Gujarat prioritized internal relocation to Barda instead.
+
+</details>
 
 ---
 
@@ -203,28 +257,37 @@
 **Source Date:** 2026-08-08 05:52 AM | **Subject:** Geography (Fundamentals)
 
 1. **Question:** What happens to the date/day when crossing the IDL from West to East (Asia/Japan -> Americas)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Crossing **West to East** (Asia -> Americas): **Gain a day** (subtract 1 calendar date / repeat the same day).
-   - Example: If crossing at 12 PM Sunday from Tokyo to US, you step back into 12 PM Saturday.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Crossing **West to East** (Asia -> Americas): **Gain a day** (subtract 1 calendar date / repeat the same day).
+  - Example: If crossing at 12 PM Sunday from Tokyo to US, you step back into 12 PM Saturday.
+
+</details>
 
 2. **Question:** What happens when crossing from East to West (Americas -> Asia/Japan)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Crossing **East to West** (Americas -> Asia): **Lose a day** (add 1 calendar date / jump forward one day).
-   - Example: If crossing on Saturday from US to Japan, you step directly into Sunday.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Crossing **East to West** (Americas -> Asia): **Lose a day** (add 1 calendar date / jump forward one day).
+  - Example: If crossing on Saturday from US to Japan, you step directly into Sunday.
+
+</details>
 
 3. **Question:** Why is the 180° meridian zig-zagged (Bering Strait, Aleutian Islands, Fiji, Kiribati)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Deviates from straight 180° meridian to prevent splitting single country/island groups into two different calendar dates.
-   - Bends across Bering Strait, Aleutian Islands, Fiji, Samoa, and Kiribati Line Islands.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Deviates from straight 180° meridian to prevent splitting single country/island groups into two different calendar dates.
+  - Bends across Bering Strait, Aleutian Islands, Fiji, Samoa, and Kiribati Line Islands.
+
+</details>
 
 ---
 
@@ -232,26 +295,35 @@
 **Source Date:** 2026-08-08 05:52 AM | **Subject:** Geography (Climatology)
 
 1. **Question:** Is the Subpolar Low belt Thermally induced or Dynamically induced? Why?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Dynamically induced** (not thermal). Despite low temperatures at 60° N/S, air ascends due to dynamic rotational forces.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Dynamically induced** (not thermal). Despite low temperatures at 60° N/S, air ascends due to dynamic rotational forces.
+
+</details>
 
 2. **Question:** What are the two primary physical forces/mechanisms creating this low-pressure zone at 60° N/S?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Earth's Rotation & Centrifugal Force:** Throws air outward away from subpolar region.
-   - **Polar Front Convergence:** Collision of warm moist air with cold dense air causes forced atmospheric ascension.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Earth's Rotation & Centrifugal Force:** Throws air outward away from subpolar region.
+  - **Polar Front Convergence:** Collision of warm moist air with cold dense air causes forced atmospheric ascension.
+
+</details>
 
 3. **Question:** Which two planetary wind belts collide at the Polar Front (60° N/S)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Warm **Westerlies** (from Subtropical High) collide with cold **Polar Easterlies** (from Polar High).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Warm **Westerlies** (from Subtropical High) collide with cold **Polar Easterlies** (from Polar High).
+
+</details>
 
 ---
 
@@ -259,28 +331,37 @@
 **Source Date:** 2026-08-08 05:53 AM | **Subject:** Economy (Basics)
 
 1. **Question:** What is the core difference between Nominal GDP/NI and Real GDP/NI? (Which one accounts for inflation vs price changes?)
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Nominal GDP:** Measures output using current prices (inflated by price rises).
-   - **Real GDP:** Measures output using constant base year prices (strips out inflation to reflect true physical output change).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Nominal GDP:** Measures output using current prices (inflated by price rises).
+  - **Real GDP:** Measures output using constant base year prices (strips out inflation to reflect true physical output change).
+
+</details>
 
 2. **Question:** What is the formula for the GDP Deflator (GDP Deflator = (Nominal GDP / Real GDP) * 100), and how does it differ from CPI/WPI?
-   <details>
-   <summary>Show Answer</summary>
 
-   - $\text{GDP Deflator} = (\text{Nominal GDP} / \text{Real GDP}) \times 100$.
-   - Covers ALL domestically produced goods & services (CPI/WPI cover a fixed representative basket). Includes capital goods and government purchases.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - $\text{GDP Deflator} = (\text{Nominal GDP} / \text{Real GDP}) \times 100$.
+  - Covers ALL domestically produced goods & services (CPI/WPI cover a fixed representative basket). Includes capital goods and government purchases.
+
+</details>
 
 3. **Question:** What is India's current Base Year for GDP calculation, and what role did the Vishwanath Goldar Committee play in base year/methodological revisions?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Base Year:** 2011–12 (CSO revision in 2015).
-   - **Goldar Committee:** Recommended updating base year to 2020–21 / 2022–23 and incorporating MCA-21 database for corporate sector coverage.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Base Year:** 2011–12 (CSO revision in 2015).
+  - **Goldar Committee:** Recommended updating base year to 2020–21 / 2022–23 and incorporating MCA-21 database for corporate sector coverage.
+
+</details>
 
 ---
 
@@ -288,29 +369,38 @@
 **Source Date:** 2026-08-08 05:53 AM | **Subject:** Economy (Basics)
 
 1. **Question:** What does Gross Domestic Capital Formation (GDCF) measure in National Income accounting?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Measures total addition to fixed assets, net addition to inventories, and valuables in an economy during an accounting year (Investment $I$).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Measures total addition to fixed assets, net addition to inventories, and valuables in an economy during an accounting year (Investment $I$).
+
+</details>
 
 2. **Question:** What are the 3 core sub-components of GDCF? (Gross Fixed Capital Formation / GFCF, Change in Stocks, Valuables).
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Gross Fixed Capital Formation (GFCF):** Dwellings, machinery, infrastructure.
-   - **Change in Stocks:** Unsold inventories of raw materials/finished goods.
-   - **Valuables:** Gold, gems, precious metals.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Gross Fixed Capital Formation (GFCF):** Dwellings, machinery, infrastructure.
+  - **Change in Stocks:** Unsold inventories of raw materials/finished goods.
+  - **Valuables:** Gold, gems, precious metals.
+
+</details>
 
 3. **Question:** In the Expenditure Approach to GDP (Y = C + I + G + (X - M)), how do Private Final Consumption Expenditure (PFCE) and Government Final Consumption Expenditure (GFCE) differ from Capital Formation (I)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **PFCE ($C$):** Household consumption of non-durable & durable goods.
-   - **GFCE ($G$):** Government routine operational spending (salaries, defense maintenance).
-   - **Capital Formation ($I$):** Productive asset generation (factories, roads, machinery).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **PFCE ($C$):** Household consumption of non-durable & durable goods.
+  - **GFCE ($G$):** Government routine operational spending (salaries, defense maintenance).
+  - **Capital Formation ($I$):** Productive asset generation (factories, roads, machinery).
+
+</details>
 
 ---
 
@@ -318,28 +408,37 @@
 **Source Date:** 2026-08-08 05:53 AM | **Subject:** Polity & Constitution / Current Affairs
 
 1. **Question:** Which Constitutional Articles empower the State to make special provisions/reservations for SCs/STs in admissions and public employment (Articles 15(4), 15(5), 16(4))?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Article 15(4):** Special provisions for advancement of SCs/STs/SEBCs.
-   - **Article 15(5):** Reservations in educational institutions (including private aided/unaided).
-   - **Article 16(4):** Reservations in public employment for inadequately represented classes.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Article 15(4):** Special provisions for advancement of SCs/STs/SEBCs.
+  - **Article 15(5):** Reservations in educational institutions (including private aided/unaided).
+  - **Article 16(4):** Reservations in public employment for inadequately represented classes.
+
+</details>
 
 2. **Question:** What key precedent was set by the 7-judge Constitution Bench in Davinder Singh v. State of Punjab (2024) regarding sub-classification and creamy layer within SC/ST reservations (overruling EV Chinnaiah 2005)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Overruled *EV Chinnaiah (2005)*: Permitted States to sub-classify SC/STs to give targeted reservation to most backward sub-castes (e.g., Valmikis/Mazhabi Sikhs).
-   - Held that **Creamy Layer principle applies to SCs/STs** to ensure benefits reach non-creamy, genuinely deprived individuals.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Overruled *EV Chinnaiah (2005)*: Permitted States to sub-classify SC/STs to give targeted reservation to most backward sub-castes (e.g., Valmikis/Mazhabi Sikhs).
+  - Held that **Creamy Layer principle applies to SCs/STs** to ensure benefits reach non-creamy, genuinely deprived individuals.
+
+</details>
 
 3. **Question:** What is the Union Government's official stance on applying the Creamy Layer exclusion to SCs and STs?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Union Cabinet explicitly affirmed that **Creamy Layer should NOT be applied to SC/ST reservations**, citing that SC/ST reservation is based on historical social discrimination, not economic status.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Union Cabinet explicitly affirmed that **Creamy Layer should NOT be applied to SC/ST reservations**, citing that SC/ST reservation is based on historical social discrimination, not economic status.
+
+</details>
 
 ---
 
@@ -347,29 +446,38 @@
 **Source Date:** 2026-08-08 05:54 AM | **Subject:** Geography (Climatology)
 
 1. **Question:** What characterizes the Doldrums (0°–5° N/S) and Horse Latitudes (30°–35° N/S)? (Why are surface winds calm/weak in both, but atmospheric conditions completely opposite—convective vs subsidence?)
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Doldrums (Equatorial Low 0°–5°):** Intense heating → strong convection & vertical air currents → weak horizontal surface winds.
-   - **Horse Latitudes (Subtropical High 30°–35°):** Upper air divergence descends (subsidence) → high pressure, dry calm air → calm horizontal winds.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Doldrums (Equatorial Low 0°–5°):** Intense heating → strong convection & vertical air currents → weak horizontal surface winds.
+  - **Horse Latitudes (Subtropical High 30°–35°):** Upper air divergence descends (subsidence) → high pressure, dry calm air → calm horizontal winds.
+
+</details>
 
 2. **Question:** How does Ferrel's Law / Coriolis Deflection alter wind direction in the Northern Hemisphere vs Southern Hemisphere?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Deflects moving objects to the **RIGHT** in Northern Hemisphere.
-   - Deflects moving objects to the **LEFT** in Southern Hemisphere.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Deflects moving objects to the **RIGHT** in Northern Hemisphere.
+  - Deflects moving objects to the **LEFT** in Southern Hemisphere.
+
+</details>
 
 3. **Question:** From where do the Trade Winds originate and blow towards? What are their exact prevailing directions in NH and SH?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Originate from **Subtropical Highs (30° N/S)** blowing toward **Equatorial Low (0°)**.
-   - **Northern Hemisphere:** North-East Trade Winds (NE -> SW).
-   - **Southern Hemisphere:** South-East Trade Winds (SE -> NW).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Originate from **Subtropical Highs (30° N/S)** blowing toward **Equatorial Low (0°)**.
+  - **Northern Hemisphere:** North-East Trade Winds (NE -> SW).
+  - **Southern Hemisphere:** South-East Trade Winds (SE -> NW).
+
+</details>
 
 ---
 
@@ -377,28 +485,37 @@
 **Source Date:** 2026-08-08 05:54 AM | **Subject:** Economy (Basics)
 
 1. **Question:** What is the Production Boundary concept that distinguishes Final Goods from Intermediate Goods?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Production Boundary:** The line separating stage of production from final use.
-   - **Final Goods:** Outside boundary (ready for final consumption or investment).
-   - **Intermediate Goods:** Inside boundary (resold or used up as raw material in same year).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Production Boundary:** The line separating stage of production from final use.
+  - **Final Goods:** Outside boundary (ready for final consumption or investment).
+  - **Intermediate Goods:** Inside boundary (resold or used up as raw material in same year).
+
+</details>
 
 2. **Question:** Why are intermediate goods strictly excluded when aggregating GDP/National Income? (Double-counting trap).
-   <details>
-   <summary>Show Answer</summary>
 
-   - To avoid **double-counting**. Value of intermediate goods is already embedded in final good's market price (e.g. wheat -> flour -> bread).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - To avoid **double-counting**. Value of intermediate goods is already embedded in final good's market price (e.g. wheat -> flour -> bread).
+
+</details>
 
 3. **Question:** What is Depreciation (Consumption of Fixed Capital / CFC), and how does it convert Gross aggregates (GDP/GNP) to Net aggregates (NDP/NNP)? (Net = Gross - Depreciation).
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Depreciation (CFC):** Wear and tear, physical degradation, and expected obsolescence of capital goods during production.
-   - $\text{Net Aggregate} = \text{Gross Aggregate} - \text{Depreciation}$ (e.g., $NDP = GDP - CFC$).
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Depreciation (CFC):** Wear and tear, physical degradation, and expected obsolescence of capital goods during production.
+  - $\text{Net Aggregate} = \text{Gross Aggregate} - \text{Depreciation}$ (e.g., $NDP = GDP - CFC$).
+
+</details>
 
 ---
 
@@ -406,29 +523,38 @@
 **Source Date:** 2026-08-07 05:54 AM | **Subject:** History (Early Modern India)
 
 1. **Question:** What does the 8-3-4 Disintegration Formula for 18th-century India represent?
-   <details>
-   <summary>Show Answer</summary>
 
-   - Framework categorizing the 15 post-Mughal successor/regional states: **8 Major Independent/Rebel States**, **3 Successor States**, and **4 Foreign/Outsider Invasions/Powers**.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Framework categorizing the 15 post-Mughal successor/regional states: **8 Major Independent/Rebel States**, **3 Successor States**, and **4 Foreign/Outsider Invasions/Powers**.
+
+</details>
 
 2. **Question:** Which 3 states constitute the Successor States (States that broke away from Mughal provinces while preserving Mughal administrative apparatus)?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Hyderabad** (Nizam-ul-Mulk 1724)
-   - **Awadh** (Saadat Khan 1722)
-   - **Bengal** (Murshid Quli Khan 1717)
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Hyderabad** (Nizam-ul-Mulk 1724)
+  - **Awadh** (Saadat Khan 1722)
+  - **Bengal** (Murshid Quli Khan 1717)
+
+</details>
 
 3. **Question:** Which states form the Autonomous / Rebel States (e.g., Marathas, Sikhs, Jats, Mysore) vs external powers, and how do their origins differ from Successor States?
-   <details>
-   <summary>Show Answer</summary>
 
-   - **Autonomous/Rebel States:** Marathas, Punjab (Sikhs), Jats (Bharatpur), Mysore, Rajputs, Travancore.
-   - **Difference:** Successor states were founded by Mughal governors (Nawabs) maintaining Mughal revenue/administrative institutions. Rebel states emerged via anti-Mughal rebellions and local ethnic/religious consolidation.
-   </details>
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Autonomous/Rebel States:** Marathas, Punjab (Sikhs), Jats (Bharatpur), Mysore, Rajputs, Travancore.
+  - **Difference:** Successor states were founded by Mughal governors (Nawabs) maintaining Mughal revenue/administrative institutions. Rebel states emerged via anti-Mughal rebellions and local ethnic/religious consolidation.
+
+</details>
 
 ---
 
-<!-- 2026-08-08: Updated MBL Q&A repository to use collapsible HTML details tags (<details><summary>Show Answer</summary>...) for hidden active recall answers. -->
+<!-- 2026-08-08: Updated MBL Q&A repository to use unindented HTML details blocks (<details><summary>Show Answer</summary>...) containing Target Answer / Key Concepts for web rendering. -->
