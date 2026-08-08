@@ -157,7 +157,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   **Treaty of AMRITSAR (1809)**:
         *   Signed between **Maharaja Ranjit Singh** and British EIC (represented by **Charles Metcalfe**).
         *   River **SUTLEJ** established as permanent boundary: **CIS-SUTLEJ** territory (south/east of Sutlej) placed under British protection/sphere of influence.
-        *   **UPSC Prelims Crucial Scope:** Treaty restricted Ranjit Singh's expansion **only** in the Cis-Sutlej region. Ranjit Singh retained **unrestricted freedom** to expand North and West of the Sutlej, leading to his conquest of **Multan (1818)**, **Kashmir (1819)**, and **Peshawar (1834)**.
+        *   <span style="color: #e53e3e;">**UPSC Prelims Crucial Scope:** Treaty restricted Ranjit Singh's expansion **only** in the Cis-Sutlej region. Ranjit Singh retained **unrestricted freedom** to expand North and West of the Sutlej, leading to his conquest of **Multan (1818)**, **Kashmir (1819)**, and **Peshawar (1834)**.</span>
     *   **EASTERN Question — Afghan Question — The Great Game**:
         *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *(1776 context: USA Briton Lost — British didn't want to lose India next).*
         *   **§ Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Context: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*

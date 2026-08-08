@@ -430,7 +430,7 @@ Total money value (**Quantity × Price**) of all final goods and services produc
 - **Official MoSPI/CSO Formula:** `GDCF = GFCF + Change in Stocks + Net Acquisition of Valuables`
 - **Component 1 — GFCF (Gross Fixed Capital Formation):** Investment in machinery, equipment, buildings, infrastructure, and residential housing.
 - **Component 2 — Change in Stocks (Closing Stocks - Opening Stocks):** Net addition to raw materials, semi-finished, and finished inventory held by enterprises.
-- **Component 3 — Net Acquisition of Valuables:** Net purchases of gold, silver, precious stones, and artwork held as store of value (explicitly included in India's National Income Accounts).
+- <span style="color: #e53e3e;">**Component 3 — Net Acquisition of Valuables:** Net purchases of gold, silver, precious stones, and artwork held as store of value (explicitly included in India's National Income Accounts).</span>
 - **Synonyms:** GDCF is also known as Investment Expenditure, Capital Expenditure (CapEx), or simply Capital Formation.
 
 ---
