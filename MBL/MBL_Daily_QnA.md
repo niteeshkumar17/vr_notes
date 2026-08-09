@@ -557,4 +557,163 @@
 
 ---
 
+---
+
+## 📅 09 August 2026
+
+### Q15. DPDP Act 2023 vs RTI Act 2005 (Section 44(3) Amendment)
+**Source Date:** 2026-08-09 06:07 AM | **Subject:** Current Affairs / Polity (RTI & DPDP)
+
+1. **Question:** The Core Amendment: How did Section 44(3) of the DPDP Act 2023 alter the original Section 8(1)(j) of the RTI Act 2005? What happened to the distinction between "public activity" and "personal privacy"?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Section 44(3) of the DPDP Act 2023 amended Section 8(1)(j) of the RTI Act 2005 by replacing the entire original clause with a blanket exemption for all personal information.
+  - **Original Sec 8(1)(j):** Exempted personal info *unless* it had a relationship to any public activity/interest, or if disclosure would not cause unwarranted invasion of privacy.
+  - **Post-2023 Amendment:** Removed the "public activity/interest" distinction entirely. Now, **ALL personal information** held by public authorities is completely exempt from disclosure under RTI, regardless of whether it relates to public duties or corruption.
+
+</details>
+
+2. **Question:** The Public Interest Test: What role did the PIO (Public Information Officer) or FAA have prior to 2023 when weighing personal privacy against public interest, and what is the situation post-amendment?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Pre-2023:** PIO (Public Information Officer) and First Appellate Authority (FAA) exercised discretionary balancing power. If the larger public interest justified disclosure of personal info, PIO could order its release despite privacy objections.
+  - **Post-2023:** PIO's discretionary balancing power is **completely eliminated**. PIO can no longer invoke "larger public interest" to disclose personal information.
+
+</details>
+
+3. **Question:** Proviso Removal & Constitutional Precedents: What happened to the proviso stating that information which cannot be denied to Parliament/State Legislature cannot be denied to a citizen? Which constitutional rights/cases (Article 19(1)(a) vs Article 21 Puttaswamy) are in conflict?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - The DPDP Act amendment **deleted the famous Proviso to Section 8(1)(j)**, which mandated that information which cannot be denied to Parliament or a State Legislature shall not be denied to any citizen.
+  - **Constitutional Conflict:** Sets up a clash between **Article 19(1)(a)** (Right to Freedom of Speech & Right to Information — *State of UP v. Raj Narain*) and **Article 21** (Right to Privacy — *KS Puttaswamy v. Union of India (2017)*). Critics argue it severely dilutes citizens' democratic oversight over public servants.
+
+</details>
+
+---
+
+### Q16. Article 275 vs Article 282 (Statutory vs Discretionary Transfers)
+**Source Date:** 2026-08-09 06:07 AM | **Subject:** Polity (Fiscal Federalism)
+
+1. **Question:** Article 275 vs Article 282: What is the constitutional distinction between Statutory Grants under Article 275 and Discretionary Grants under Article 282?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Article 275 (Statutory Grants):** Mandated by the Constitution to meet revenue gaps of needy States based on Finance Commission (Article 280) recommendations.
+  - **Article 282 (Discretionary Grants):** Enables Union/States to make grants for any public purpose outside legislative competence; historically used by executive bodies (Planning Commission / Ministries) for Centrally Sponsored Schemes (CSS).
+
+</details>
+
+2. **Question:** Consolidated Fund Charge & FC Mandate: Are Article 275 grants charged upon the Consolidated Fund of India or subject to annual parliamentary vote? Which constitutional body determines their allocation principles?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Charge on CFI:** Article 275 grants are **CHARGED EXPENDITURE** upon the Consolidated Fund of India (non-votable by Parliament).
+  - **Finance Commission Mandate:** Allocated strictly based on statutory principles recommended by the **Finance Commission under Article 280(3)(b)**. In contrast, Article 282 grants are voted expenditure outside FC purview.
+
+</details>
+
+3. **Question:** Grant Categories & Conditions: What are the main types of grants recommended under Article 275 (e.g., Revenue Deficit Grants, Local Body Grants, Tribal Welfare under Proviso 1)?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Post-Devolution Revenue Deficit Grants (PDRDG):** Given to States facing structural revenue deficits after tax devolution.
+  - **Local Body Grants:** Allocated to Rural Local Bodies (Panchayats) and Urban Local Bodies (ULBs).
+  - **Proviso 1 to Art 275(1):** Mandatory capital/scheme grants for promoting the welfare of **Scheduled Tribes (STs)** and raising administration levels of **Scheduled Areas** (Fifth/Sixth Schedule).
+
+</details>
+
+---
+
+### Q17. Ramsar Sites & Asan Wetland Order (Buffer Zone Jurisprudence)
+**Source Date:** 2026-08-09 06:08 AM | **Subject:** Environment & Current Affairs
+
+1. **Question:** Supreme Court Clarification: What did the Supreme Court clarify regarding the 10-km mining approval restriction originally ordered for the Asan Wetland Reserve (Uttarakhand)? Does it automatically apply as a universal 10-km buffer to all Ramsar sites in India?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Supreme Court clarified that the **10-km mining restriction was site-specific** for the Asan Wetland Conservation Reserve (Uttarakhand).
+  - It does **NOT** automatically apply as a blanket, universal 10-km buffer zone or mining prohibition around every Ramsar site in India.
+
+</details>
+
+2. **Question:** International Treaty vs Domestic Law: Does designating a site under the international Ramsar Convention (1971) automatically create a statutory buffer zone or mining ban under Indian domestic law? What domestic statutory notification is required?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - International designation under the Ramsar Convention (1971) does **NOT** automatically grant statutory buffer zones or environmental land-use restrictions under Indian domestic law.
+  - Restrictions require explicit domestic statutory notification by State/UT Wetland Authorities under the **Wetlands (Conservation and Management) Rules, 2017** or Eco-Sensitive Zone (ESZ) notifications under the Environment (Protection) Act, 1986.
+
+</details>
+
+3. **Question:** Current Facts: How many Ramsar sites does India have, and what is India's 101st Ramsar site designated in August 2026?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Total Ramsar Sites:** India has expanded its network to **101 Ramsar sites** (largest in South Asia).
+  - **101st Ramsar Site:** **Barda Wildlife Sanctuary / Wetland Complex** in Gujarat (August 2026), famous as the second habitat for Asiatic Lions.
+
+</details>
+
+---
+
+### Q18. National Income Accounting: Resident Individual & Exceptions
+**Source Date:** 2026-08-09 06:08 AM | **Subject:** Economy (National Income Accounting)
+
+1. **Question:** Definition & Citizenship vs Residency: What two core conditions define a "resident individual" in national income accounting? How does Residency differ from Citizenship?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - Two Core Conditions: (1) **Ordinarily resides** in the economic territory of the country, AND (2) **Center of economic interest** lies within that country (earning, spending, accumulating wealth).
+  - **Residency vs Citizenship:** Residency is an **economic concept** (where economic activity occurs), whereas Citizenship is a **legal/political concept**. A foreign national residing in India for >1 year is an Indian resident; an Indian citizen working permanently abroad is a non-resident (NRI).
+
+</details>
+
+2. **Question:** Employment / Tourist 1-Year Rule: What is the 1-year threshold rule for individuals working or travelling in a foreign country? When does a person become a resident of the host country?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Up to 1 Year:** Person staying/working in a foreign country for up to 1 year remains a resident of their **home country**.
+  - **More than 1 Year:** If stay exceeds 1 year for employment/business, their center of economic interest shifts, making them a resident of the **host country**.
+
+</details>
+
+3. **Question:** Diplomats & Students Exceptions: What are the specific exceptions to the 1-year rule for: (a) Diplomats and government embassy personnel stationed abroad? (b) Students studying abroad for multi-year degree programs (e.g. 3–5 years)?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **(a) Diplomats & Embassy Personnel:** Always treated as residents of their **home country**, regardless of how many years they are posted abroad.
+  - **(b) Students Studying Abroad:** Remain residents of their **home country** even for multi-year degrees (3–5 years) because their center of economic interest remains tied to family funding from home.
+
+</details>
+
+---
+
+<!-- 2026-08-09: Added Nik's active recall questions for DPDP Act, Art 275/282, Ramsar Buffer, and Residency Rules. -->
 <!-- 2026-08-08: Reverted auto-generated questions. Enforced rule: Only questions explicitly provided by Nik shall be added to MBL. -->
