@@ -23,6 +23,18 @@
 
 *(Most recent first)*
 
+### Session 9 — 2026-08-09
+- **Subject:** GS_History, GS_Geography, GS_Economy, GS_Polity, Current Affairs
+- **Format:** 15 Prelims MCQs
+- **Score:** 16.65 / 30.00 (Net Score: +20.0 - 3.35 = 16.65 | Accuracy: 66.7% — 10/15 correct | 5 Incorrect)
+- **Strengths:** Flawless mastery on Awadh Treaties & Capital Shift (`MST-004`), Treaty of Amritsar 1809 (`MST-006`), 1717 Farrukh Siyar Farman, 5 Seismic Discontinuities, Endogenic Diastrophism, Article 275 Statutory Grants (`MST-009`), SC/ST Sub-classification Davinder Singh 2024 (`MST-008`), DPDP Act 2023 RTI Exemption, Pakistan-Turkiye-Saudi Trilateral, and GST Council Art 279A weighted voting.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-003 / Trade Winds:* Swapped Trade Wind origin (Subtropical Highs / Horse Latitudes $\rightarrow$ Doldrums, NOT Subpolar Lows).
+  - *MST-007 / GDCF Scope:* Personal Remittances are Net Primary Income (GNP), excluded from GDCF (`MST-007` Repeat Error).
+  - *MST-010 / Ramsar Buffer Zone:* Fell into uniform 10 km buffer trap again (`MST-010` Repeat Error).
+  - *MST-011 / Production vs Product Taxes:* Land Revenue & Stamp Duty are Production Taxes, NOT Product Taxes (GST, Excise).
+  - *MST-012 / Article 282:* Article 282 grants are discretionary spending outside FC purview under Art 280 and voted expenditure.
+
 ### Session 8 — 2026-08-08
 - **Subject:** GS_History, GS_Geography, GS_Economy, Current Affairs
 - **Format:** 15 Prelims MCQs

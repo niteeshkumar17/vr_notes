@@ -52,7 +52,7 @@
 *   **Key Actions & Reforms**:
     *   **Abolished Jaziya** nationwide permanently.
     *   **1716**: Executed **Banda Bahadur**, temporarily suppressing the Sikh uprising.
-    *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹30,000**. *(Note: This exemption strictly applied to official EIC trade, NOT to the private trade of Company servants).*
+    *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹30,000**. <span style="color: #e53e3e;">**(UPSC Prelims Trap):** This exemption strictly applied to official EIC corporate trade, NOT to the private trade of Company servants. Coins minted by EIC at Bombay were also made valid currency throughout the Mughal Empire.</span>
 *   **Maratha Coalition & Imperial Execution**:
     1.  Peshwa **Balaji Vishwanath** proposed **Dual Governance** directly to Farrukh Siyar in 1716: River **Narmada** as natural frontier — North of Narmada = **HINDUSTAN** (Mughals), South of Narmada = **Maratha SWARAJ**. Any Mughal fort south of Narmada must pay 25% *Chauth* (security tax). Farrukh Siyar rejected it.
     2.  Balaji Vishwanath approached the real powerholders, **Sayyid Husain Ali Khan** and **Abdullah Khan**.
@@ -84,12 +84,12 @@
     *   **1739 — Battle of Karnal**: *Context: Incompetent nobles spread a rumour that Saadat Khan had invited Nadir Shah. To prove his loyalty, Saadat fought at Karnal but was defeated.* He lost both respect (rumour) and wealth (spent fighting Nadir) → **committed suicide**.
     *   **Safdarjung (1739–1754)**: Saadat Khan’s son. PM of the Mughal Empire. *Context: His period is considered the last era of stability in the Mughal Empire — no major fights.*
     *   **Shuja-ud-Daulah**: Was not appointed PM → Invited Abdali to invade India. *Context: After Safdarjung died, Abdali invaded again and ruined Delhi. The Mughal court blamed Awadh governors for the damage and refused to make Shuja PM. This angered Shuja → he invited Abdali for the 3rd Battle of Panipat. Awadh "helped" Abdali by NOT sending forces for the Mughals at the last moment.*
-        *   **1764 — Battle of Buxar**: Shuja lost to the EIC.
+        *   **1764 — Battle of Buxar**: Shuja lost to the EIC. <span style="color: #e53e3e;">**1765 Treaty of Allahabad:** Shuja-ud-Daulah was forced to pay ₹50 Lakh war indemnity to EIC.</span>
     *   **Asaf-ud-Daulah**:
         *   **1773 — Treaty of Benaras**: Kora & Allahabad **returned to Awadh**. *(Note: Audio says 1773; handwritten notes say 1775.)*
         *   **1775 — Treaty of Faizabad**: **British entered Awadh** politically for the first time.
-        *   Nawab shifted his capital from **Faizabad to Lucknow**.
-    *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley.
+        *   <span style="color: #e53e3e;">**Capital Shift Trap:** Asaf-ud-Daulah (NOT Saadat Khan Burhan-ul-Mulk) shifted the capital of Awadh from **Faizabad to Lucknow** in 1775.</span>
+    *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley <span style="color: #e53e3e;">(forced to cede half of Awadh's territory including Rohilkhand and the Doab).</span>
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.

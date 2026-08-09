@@ -451,4 +451,15 @@ Individuals who **ordinarily reside** in a country and their **centre of economi
   - Nationals (citizens) of a country can be non-residents.
   - Non-nationals (foreigners) of a country can be residents.
 
+---
+
+## ECO-02-06: GVA at Basic Prices & Production vs Product Taxes
+
+* <span style="color: #e53e3e;">**Formula Hierarchy:** `GVA at Basic Prices = GVA at Factor Cost + Production Taxes - Production Subsidies`</span>
+* <span style="color: #e53e3e;">`GDP at Market Prices = GVA at Basic Prices + Product Taxes - Product Subsidies`</span>
+* <span style="color: #e53e3e;">**UPSC Prelims Crucial Trap:**</span>
+  * <span style="color: #e53e3e;">**Production Taxes/Subsidies:** Independent of actual volume of production (e.g., Land Revenue, Stamp Duty, Registration Fee, Payroll Tax, Profession Tax).</span>
+  * <span style="color: #e53e3e;">**Product Taxes/Subsidies:** Directly dependent on volume per unit of product (e.g., GST, Excise Duty, Custom Duty, Sales Tax, Service Tax, Food/Fertilizer/Petroleum Subsidies).</span>
+
+<!-- 2026-08-09: Added GVA Production vs Product Taxes distinction post evening quiz -->
 <!-- 2026-08-07: Created ECO-02-01 to ECO-02-05 based on Lecture 2 notes. -->

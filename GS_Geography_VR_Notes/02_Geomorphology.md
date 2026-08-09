@@ -694,8 +694,11 @@ EXPRESSION (Mountain building, Volcanism, Earthquakes, Plate Tectonics)
 
 | Discontinuity | Location | Depth | Between |
 |:---|:---|:---|:---|
+| <span style="color: #e53e3e;">**Conrad**</span> | <span style="color: #e53e3e;">Upper Crust & Lower Crust</span> | <span style="color: #e53e3e;">~15–20 km</span> | <span style="color: #e53e3e;">Upper Crust ↔ Lower Crust</span> |
 | **Mohorovičić (Moho)** | Boundary of Crust & Mantle | ~40 km | Crust ↔ Mantle |
+| <span style="color: #e53e3e;">**Repetti**</span> | <span style="color: #e53e3e;">Upper Mantle & Lower Mantle</span> | <span style="color: #e53e3e;">~700 km</span> | <span style="color: #e53e3e;">Upper Mantle ↔ Lower Mantle</span> |
 | **Gutenberg** | Boundary of Mantle & Core | ~2,900 km | Mantle ↔ Core |
+| <span style="color: #e53e3e;">**Lehmann**</span> | <span style="color: #e53e3e;">Outer Core & Inner Core</span> | <span style="color: #e53e3e;">~5,150 km</span> | <span style="color: #e53e3e;">Outer Core ↔ Inner Core</span> |
 
 ### 18.4 Model 3 — Seismic Model (Post-1960) — Based on State of Matter (Preview)
 
