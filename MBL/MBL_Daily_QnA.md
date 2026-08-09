@@ -603,7 +603,7 @@
 ### Q16. Article 275 vs Article 282 (Statutory vs Discretionary Transfers)
 **Source Date:** 2026-08-09 06:07 AM | **Subject:** Polity (Fiscal Federalism)
 
-1. **Question:** Article 275 vs Article 282: What is the constitutional distinction between Statutory Grants under Article 275 and Discretionary Grants under Article 282?
+1. **Question:** What is the constitutional distinction between Statutory Grants under Article 275 and Discretionary Grants under Article 282?
 
 <details>
 <summary>Show Answer</summary>
