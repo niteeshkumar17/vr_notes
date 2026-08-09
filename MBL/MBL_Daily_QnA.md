@@ -141,9 +141,8 @@
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - **Article 275:** Mandatory **Statutory Grants-in-Aid** charged on the Consolidated Fund of India for states in need of financial assistance.
-  - **Article 282:** Discretionary Grants for public purposes (used for Centrally Sponsored Schemes).
-  - Recommended by the **Finance Commission** under Article 280.
+  - **Article 275 (Statutory Grants):** Mandatory **CHARGED EXPENDITURE** upon the Consolidated Fund of India (non-votable by Parliament) allocated to meet revenue gaps of needy States. Recommended by the **Finance Commission under Article 280(3)(b)**.
+  - **Article 282 (Discretionary Grants):** Discretionary spending for public purposes outside legislative competence; **voted expenditure** outside Finance Commission purview (historically used for Centrally Sponsored Schemes).
 
 </details>
 
@@ -153,7 +152,7 @@
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - **Proviso 1:** Mandates grants for schemes promoting welfare of Scheduled Tribes or raising administration level of Scheduled Areas (Fifth/Sixth Schedule).
+  - **Proviso 1 to Art 275(1):** Mandatory capital/scheme grants for promoting welfare of Scheduled Tribes (STs) or raising administration level of Scheduled Areas (Fifth/Sixth Schedule).
   - **Proviso 2:** Specific grants for Assam for tribal areas (Sixth Schedule).
 
 </details>
@@ -164,7 +163,7 @@
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - Used by Finance Commission to fill post-tax-devolution gaps via **Post-Devolution Revenue Deficit Grants (RDG)**.
+  - Used by Finance Commission to fill post-tax-devolution gaps via **Post-Devolution Revenue Deficit Grants (PDRDG)**.
   - Funds tied & untied grants for Rural & Urban Local Bodies (RLBs/ULBs) and State Disaster Response Funds (SDRF).
 
 </details>
@@ -600,46 +599,7 @@
 
 ---
 
-### Q16. Article 275 vs Article 282 (Statutory vs Discretionary Transfers)
-**Source Date:** 2026-08-09 06:07 AM | **Subject:** Polity (Fiscal Federalism)
-
-1. **Question:** What is the constitutional distinction between Statutory Grants under Article 275 and Discretionary Grants under Article 282?
-
-<details>
-<summary>Show Answer</summary>
-
-- **Target Answer / Key Concepts:**
-  - **Article 275 (Statutory Grants):** Mandated by the Constitution to meet revenue gaps of needy States based on Finance Commission (Article 280) recommendations.
-  - **Article 282 (Discretionary Grants):** Enables Union/States to make grants for any public purpose outside legislative competence; historically used by executive bodies (Planning Commission / Ministries) for Centrally Sponsored Schemes (CSS).
-
-</details>
-
-2. **Question:** Consolidated Fund Charge & FC Mandate: Are Article 275 grants charged upon the Consolidated Fund of India or subject to annual parliamentary vote? Which constitutional body determines their allocation principles?
-
-<details>
-<summary>Show Answer</summary>
-
-- **Target Answer / Key Concepts:**
-  - **Charge on CFI:** Article 275 grants are **CHARGED EXPENDITURE** upon the Consolidated Fund of India (non-votable by Parliament).
-  - **Finance Commission Mandate:** Allocated strictly based on statutory principles recommended by the **Finance Commission under Article 280(3)(b)**. In contrast, Article 282 grants are voted expenditure outside FC purview.
-
-</details>
-
-3. **Question:** Grant Categories & Conditions: What are the main types of grants recommended under Article 275 (e.g., Revenue Deficit Grants, Local Body Grants, Tribal Welfare under Proviso 1)?
-
-<details>
-<summary>Show Answer</summary>
-
-- **Target Answer / Key Concepts:**
-  - **Post-Devolution Revenue Deficit Grants (PDRDG):** Given to States facing structural revenue deficits after tax devolution.
-  - **Local Body Grants:** Allocated to Rural Local Bodies (Panchayats) and Urban Local Bodies (ULBs).
-  - **Proviso 1 to Art 275(1):** Mandatory capital/scheme grants for promoting the welfare of **Scheduled Tribes (STs)** and raising administration levels of **Scheduled Areas** (Fifth/Sixth Schedule).
-
-</details>
-
----
-
-### Q17. Ramsar Sites & Asan Wetland Order (Buffer Zone Jurisprudence)
+### Q16. Ramsar Sites & Asan Wetland Order (Buffer Zone Jurisprudence)
 **Source Date:** 2026-08-09 06:08 AM | **Subject:** Environment & Current Affairs
 
 1. **Question:** Supreme Court Clarification: What did the Supreme Court clarify regarding the 10-km mining approval restriction originally ordered for the Asan Wetland Reserve (Uttarakhand)? Does it automatically apply as a universal 10-km buffer to all Ramsar sites in India?
@@ -677,7 +637,7 @@
 
 ---
 
-### Q18. National Income Accounting: Resident Individual & Exceptions
+### Q17. National Income Accounting: Resident Individual & Exceptions
 **Source Date:** 2026-08-09 06:08 AM | **Subject:** Economy (National Income Accounting)
 
 1. **Question:** Definition & Citizenship vs Residency: What two core conditions define a "resident individual" in national income accounting? How does Residency differ from Citizenship?
