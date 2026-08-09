@@ -593,7 +593,7 @@
 
 - **Target Answer / Key Concepts:**
   - **Total Ramsar Sites:** India has expanded its network to **101 Ramsar sites** (largest in South Asia).
-  - **101st Ramsar Site:** **Barda Wildlife Sanctuary / Wetland Complex** in Gujarat (August 2026), famous as the second habitat for Asiatic Lions.
+  - **101st Ramsar Site:** **Glaw Lake** in **Arunachal Pradesh** (designated August 3, 2026). *(Note: Barda Wildlife Sanctuary in Gujarat is the second habitat for Asiatic Lions, but is NOT a Ramsar site).*
 
 </details>
 
