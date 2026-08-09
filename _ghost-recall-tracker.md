@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 * **Today's Date:** 2026-08-09
-* **Active Micro-Topics:** 27
-* **Overall Database Mastery:** 42.8% 📈
+* **Active Micro-Topics:** 35
+* **Overall Database Mastery:** 39.5% 📈
 * **Today's Recall Completed:** 9/9 Micro-Topics (100% Level 5 Perfect Recall 🏆)
 * **Active Learning Gaps Detected:** 0 (Physical Geography & Economy Gaps Successfully Resolved)
-* **New Topics Ingested Today:** 3 (Current Affairs 08 August 2026)
+* **New Topics Ingested Today:** 11 (3 Current Affairs 08 Aug + 8 Geography Lecture A2)
 * **Weekly Backlog:** 0
 
 ---
@@ -30,7 +30,7 @@
 | HIS-04-02 | Vellore Mutiny (1806) & Tipu's Family | 2 | ★★★★☆ | Day 3 | 2026-08-09 | 90% | High 🌟 | 91% | 87% | 2 | 0 | - | 2026-08-06 | Fast | `John Cradock` $\leftrightarrow$ `Fateh Hyder` $\leftrightarrow$ `1857 Sepoy Precursor` |
 | HIS-05-01 | Sikh Empire: Ranjit Singh & Treaty of Amritsar (1809) | 1 | ★★★★☆ | Day 7 | 2026-08-16 | 95% | High 🌟 | 96% | 92% | 3 | 0 | - | 2026-08-09 | Fast 🟢 | `Sutlej Boundary` $\leftrightarrow$ `Charles Metcalfe` $\leftrightarrow$ `Anglo-Sikh Wars` |
 
-### Geography (Fundamentals)
+### Geography (Fundamentals & Geomorphology)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | GEO-01-01 | Geodesy, Ellipsoid & Great Circle Geometry | 1 | ★★★☆☆ | Day 7 | 2026-08-08 | 100% | High 🌟 | 96% | 94% | 4 | 0 | - | 2026-08-01 | Fast | `Earth Oblateness` $\leftrightarrow$ `Meridians` $\leftrightarrow$ `Flight Paths` |
@@ -45,6 +45,14 @@
 | GEO-03-04 | Exogenic Forces & Degradation Principle | 2 | ★★★★★ | Day 1 | 2026-08-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Insolation Energy` $\leftrightarrow$ `Levelling Force` $\leftrightarrow$ `Tropical Max` |
 | GEO-03-05 | Aravali vs Himalaya: Endo-Exo Case Study | 2 | ★★★★★ | Day 2 | 2026-08-11 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast 🟢 | `Crustal Stability` $\leftrightarrow$ `Relict Mountains` $\leftrightarrow$ `3 Billion Years` |
 | GEO-03-06 | Davisian Trio & Landform Classification | 1 | ★★★★☆ | Day 1 | 2026-08-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Structure-Process-Time` $\leftrightarrow$ `Size Order` $\leftrightarrow$ `Origin` |
+| GEO-04-01 | Endo Expression: Structural vs Non-Structural & Diastrophism vs Catastrophism | 2 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Landform = Structural Expression` $\leftrightarrow$ `Diastrophism 80%` $\leftrightarrow$ `Catastrophic: EQ/Volcano` |
+| GEO-04-02 | Earth's Factual Profile & Geological Time Scale (4 Eons) | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `4.6 BY` $\leftrightarrow$ `Eon-Era-Period-Epoch` $\leftrightarrow$ `Fe>O>Si>Mg>Al>Ni` |
+| GEO-04-03 | Hadean Eon: Giant Impact, Theia & Moon Formation | 3 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Theia 4.5 BY` $\leftrightarrow$ `Moon Formation` $\leftrightarrow$ `Wobbling` $\leftrightarrow$ `Axial Tilt 23.5` |
+| GEO-04-04 | Density Adjustment & SIAL/SIMA/NiFe Layering | 3 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Centripetal/Centrifugal` $\leftrightarrow$ `Core NiFe` $\leftrightarrow$ `Radioactivity Displaced` |
+| GEO-04-05 | Geothermal Heat & Convection as Driving Mechanism | 2 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Source→Mechanism→Expression` $\leftrightarrow$ `Radiation❌` $\leftrightarrow$ `Conduction❌` $\leftrightarrow$ `Convection✅` |
+| GEO-04-06 | Density, Thermal Differentiation & Melting Point Logic | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MP>T=Solid` $\leftrightarrow$ `T>MP=Liquid` $\leftrightarrow$ `Heterogeneous Interior` |
+| GEO-04-07 | Interior of Earth: Direct vs Indirect Evidence | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Kola Superdeep` $\leftrightarrow$ `Koyna Maharashtra` $\leftrightarrow$ `EQ Waves` $\leftrightarrow$ `Gravity Anomaly` |
+| GEO-04-08 | 3 Models of Earth's Interior & Discontinuities | 2 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Suess→CD` $\leftrightarrow$ `Moho→SFS` $\leftrightarrow$ `Seismic→PT` $\leftrightarrow$ `Moho 40km` $\leftrightarrow$ `Gutenberg 2900km` |
 
 ### Economy (Basics)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
