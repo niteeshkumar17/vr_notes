@@ -197,15 +197,15 @@
 
 </details>
 
-3. **Question:** How is Real GDP distinguished from Nominal GDP, and what is the GDP Deflator?
+3. **Question:** How is Real GDP distinguished from Nominal GDP? Explain the GDP Deflator formula, its key differences from CPI/WPI, and India's Base Year (Goldar Committee revisions).
 
 <details>
 <summary>Show Answer</summary>
 
 - **Target Answer / Key Concepts:**
-  - **Nominal GDP:** Evaluated at current market prices (includes inflation effect).
-  - **Real GDP:** Evaluated at constant base year prices (reflects actual physical output growth).
-  - **GDP Deflator:** Comprehensive price inflation indicator = (Nominal GDP / Real GDP) × 100.
+  - **Nominal vs Real GDP:** Nominal GDP measures output using current market prices (includes inflation); Real GDP measures output using constant base year prices (strips out inflation to reflect true physical output growth).
+  - **GDP Deflator:** Inflation index = (Nominal GDP / Real GDP) × 100. Differs from CPI/WPI because it covers ALL domestically produced goods & services (including capital goods & government purchases), not a fixed consumer basket.
+  - **Base Year & Goldar Committee:** India's current base year is 2011–12 (CSO 2015 revision). The Vishwanath Goldar Committee recommended updating the base year to 2020–21 / 2022–23 and incorporating the MCA-21 database.
 
 </details>
 
@@ -326,45 +326,7 @@
 
 ---
 
-### Q09. Real vs Nominal GDP & Base Year Revisions
-**Source Date:** 2026-08-08 05:53 AM | **Subject:** Economy (Basics)
-
-1. **Question:** What is the core difference between Nominal GDP/NI and Real GDP/NI? (Which one accounts for inflation vs price changes?)
-
-<details>
-<summary>Show Answer</summary>
-
-- **Target Answer / Key Concepts:**
-  - **Nominal GDP:** Measures output using current prices (inflated by price rises).
-  - **Real GDP:** Measures output using constant base year prices (strips out inflation to reflect true physical output change).
-
-</details>
-
-2. **Question:** What is the formula for the GDP Deflator (GDP Deflator = (Nominal GDP / Real GDP) * 100), and how does it differ from CPI/WPI?
-
-<details>
-<summary>Show Answer</summary>
-
-- **Target Answer / Key Concepts:**
-  - GDP Deflator = (Nominal GDP / Real GDP) × 100.
-  - Covers ALL domestically produced goods & services (CPI/WPI cover a fixed representative basket). Includes capital goods and government purchases.
-
-</details>
-
-3. **Question:** What is India's current Base Year for GDP calculation, and what role did the Vishwanath Goldar Committee play in base year/methodological revisions?
-
-<details>
-<summary>Show Answer</summary>
-
-- **Target Answer / Key Concepts:**
-  - **Base Year:** 2011–12 (CSO revision in 2015).
-  - **Goldar Committee:** Recommended updating base year to 2020–21 / 2022–23 and incorporating MCA-21 database for corporate sector coverage.
-
-</details>
-
----
-
-### Q10. Gross Domestic Capital Formation (GDCF) & Expenditure Aggregates
+### Q09. Gross Domestic Capital Formation (GDCF) & Expenditure Aggregates
 **Source Date:** 2026-08-08 05:53 AM | **Subject:** Economy (Basics)
 
 1. **Question:** What does Gross Domestic Capital Formation (GDCF) measure in National Income accounting?
@@ -403,7 +365,7 @@
 
 ---
 
-### Q11. SC/ST Sub-classification & Creamy Layer (Davinder Singh 2024)
+### Q10. SC/ST Sub-classification & Creamy Layer (Davinder Singh 2024)
 **Source Date:** 2026-08-08 05:53 AM | **Subject:** Polity & Constitution / Current Affairs
 
 1. **Question:** Which Constitutional Articles empower the State to make special provisions/reservations for SCs/STs in admissions and public employment (Articles 15(4), 15(5), 16(4))?
@@ -441,7 +403,7 @@
 
 ---
 
-### Q12. Doldrums, Horse Latitudes & Planetary Wind Belts
+### Q11. Doldrums, Horse Latitudes & Planetary Wind Belts
 **Source Date:** 2026-08-08 05:54 AM | **Subject:** Geography (Climatology)
 
 1. **Question:** What characterizes the Doldrums (0°–5° N/S) and Horse Latitudes (30°–35° N/S)? (Why are surface winds calm/weak in both, but atmospheric conditions completely opposite—convective vs subsidence?)
@@ -480,7 +442,7 @@
 
 ---
 
-### Q13. Final vs Intermediate Goods & Depreciation (CFC)
+### Q12. Final vs Intermediate Goods & Depreciation (CFC)
 **Source Date:** 2026-08-08 05:54 AM | **Subject:** Economy (Basics)
 
 1. **Question:** What is the Production Boundary concept that distinguishes Final Goods from Intermediate Goods?
@@ -518,7 +480,7 @@
 
 ---
 
-### Q14. 8-3-4 Disintegration Formula (18th Century India)
+### Q13. 8-3-4 Disintegration Formula (18th Century India)
 **Source Date:** 2026-08-07 05:54 AM | **Subject:** History (Early Modern India)
 
 1. **Question:** What does the 8-3-4 Disintegration Formula for 18th-century India represent?
@@ -560,7 +522,7 @@
 
 ## 📅 09 August 2026
 
-### Q15. DPDP Act 2023 vs RTI Act 2005 (Section 44(3) Amendment)
+### Q14. DPDP Act 2023 vs RTI Act 2005 (Section 44(3) Amendment)
 **Source Date:** 2026-08-09 06:07 AM | **Subject:** Current Affairs / Polity (RTI & DPDP)
 
 1. **Question:** The Core Amendment: How did Section 44(3) of the DPDP Act 2023 alter the original Section 8(1)(j) of the RTI Act 2005? What happened to the distinction between "public activity" and "personal privacy"?
@@ -599,7 +561,7 @@
 
 ---
 
-### Q16. Ramsar Sites & Asan Wetland Order (Buffer Zone Jurisprudence)
+### Q15. Ramsar Sites & Asan Wetland Order (Buffer Zone Jurisprudence)
 **Source Date:** 2026-08-09 06:08 AM | **Subject:** Environment & Current Affairs
 
 1. **Question:** Supreme Court Clarification: What did the Supreme Court clarify regarding the 10-km mining approval restriction originally ordered for the Asan Wetland Reserve (Uttarakhand)? Does it automatically apply as a universal 10-km buffer to all Ramsar sites in India?
@@ -637,7 +599,7 @@
 
 ---
 
-### Q17. National Income Accounting: Resident Individual & Exceptions
+### Q16. National Income Accounting: Resident Individual & Exceptions
 **Source Date:** 2026-08-09 06:08 AM | **Subject:** Economy (National Income Accounting)
 
 1. **Question:** Definition & Citizenship vs Residency: What two core conditions define a "resident individual" in national income accounting? How does Residency differ from Citizenship?
