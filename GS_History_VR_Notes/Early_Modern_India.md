@@ -52,7 +52,7 @@
 *   **Key Actions & Reforms**:
     *   **Abolished Jaziya** nationwide permanently.
     *   **1716**: Executed **Banda Bahadur**, temporarily suppressing the Sikh uprising.
-    *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹30,000**. <span style="color: #e53e3e;">**(UPSC Prelims Trap):** This exemption strictly applied to official EIC corporate trade, NOT to the private trade of Company servants. Coins minted by EIC at Bombay were also made valid currency throughout the Mughal Empire.</span>
+    *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹3,000** <span style="color: #e53e3e;">(and exempted from all duties at Surat for an annual sum of ₹10,000)</span>. <span style="color: #e53e3e;">**(UPSC Prelims Trap):** This exemption strictly applied to official EIC corporate trade, NOT to the private trade of Company servants. Coins minted by EIC at Bombay were also made valid currency throughout the Mughal Empire.</span>
 *   **Maratha Coalition & Imperial Execution**:
     1.  Peshwa **Balaji Vishwanath** proposed **Dual Governance** directly to Farrukh Siyar in 1716: River **Narmada** as natural frontier — North of Narmada = **HINDUSTAN** (Mughals), South of Narmada = **Maratha SWARAJ**. Any Mughal fort south of Narmada must pay 25% *Chauth* (security tax). Farrukh Siyar rejected it.
     2.  Balaji Vishwanath approached the real powerholders, **Sayyid Husain Ali Khan** and **Abdullah Khan**.
@@ -632,5 +632,6 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Home Charges**: Indians paid for the expenses of running these 7 committees + reports. *Context: "You have to prepare the report, you have to send to Parliament, and you are asking us the money. We will not pay for home charges — that is the dilemma. From here comes the concept of Home Charges, which will help you in Modern India."*
 *   **Shipping of Reports & Parliamentary Sessions**: Reports shipped from Bombay by monsoon currents → took 3–4 months → reached England either in **Autumn** or **Spring**. *Context: "So Indian Parliament's session is always in alternation with the English Parliament session — Autumn report comes back as Winter session; Spring session comes back as Monsoon session."*
 
+<!-- 2026-08-09: Corrected 1717 Farrukh Siyar Golden Farman annual payment for Bengal duty-free trade from ₹30,000 to ₹3,000 (and added Surat ₹10,000 provision). -->
 <!-- 2026-08-08: Enriched Treaty of Amritsar (1809) scope — explicitly noted Cis-Sutlej limitation vs unrestricted expansion in Kashmir (1819), Multan (1818), and Peshawar (1834). Mislabeled Treaty of Lahore corrected. -->
 
