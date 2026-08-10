@@ -634,7 +634,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-## 9. British India — Phase III: Land Revenue Debate & the Cornwallis Code (1790s–1834)
+## 9. British India — Phase III: Land Revenue Debate & the Cornwallis Code (1786–1828)
 
 ### The Parliamentary Debate: Charles Grant vs John Shore
 
