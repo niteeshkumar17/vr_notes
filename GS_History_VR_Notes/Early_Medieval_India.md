@@ -1,5 +1,7 @@
 # Early Medieval India (c. 750 CE Onwards)
 
+*Date added: 2026-08-10*
+
 > **Source:** Vajiram & Ravi Class Lecture A1 Notes (Ancient → Early Medieval Transition)
 > **Last Updated:** 2026-08-10
 

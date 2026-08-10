@@ -634,6 +634,13 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
+### Lecture 4: British Administration (Phase III–V) & Viceroys
+*Date added: 2026-08-10*
+
+> **Source:** Vajiram & Ravi Class Lecture A1 Notes & Audio Transcript
+
+---
+
 ## 9. British India — Phase III: Land Revenue Debate & the Cornwallis Code (1786–1828)
 
 ### The Parliamentary Debate: Charles Grant vs John Shore
