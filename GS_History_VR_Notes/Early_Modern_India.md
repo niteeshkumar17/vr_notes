@@ -632,6 +632,327 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Home Charges**: Indians paid for the expenses of running these 7 committees + reports. *Context: "You have to prepare the report, you have to send to Parliament, and you are asking us the money. We will not pay for home charges — that is the dilemma. From here comes the concept of Home Charges, which will help you in Modern India."*
 *   **Shipping of Reports & Parliamentary Sessions**: Reports shipped from Bombay by monsoon currents → took 3–4 months → reached England either in **Autumn** or **Spring**. *Context: "So Indian Parliament's session is always in alternation with the English Parliament session — Autumn report comes back as Winter session; Spring session comes back as Monsoon session."*
 
+---
+
+## 9. British India — Phase III: Land Revenue Debate & the Cornwallis Code (1790s–1834)
+
+### The Parliamentary Debate: Charles Grant vs John Shore
+
+*   **Context**: A debate broke out in the British Parliament regarding how to collect land revenue from India in the future. The House was divided.
+*   **Charles Grant** (retired civil servant who served in India):
+    *   Argued revenue must be **collected directly by the Crown** — EIC should be removed from revenue collection duties.
+    *   *Context: "The Crown should get involved directly. That is how the British Empire will control India."*
+*   **John Shore** (opposed Grant):
+    *   Argued collection should continue **through the Zamindar** — Zamindars must remain intermediaries.
+*   **Outcome**: After 3 months of debate, Parliament agreed with **John Shore**.
+
+---
+
+### Board of Revenue Structure (Under Cornwallis)
+
+*   Since Cornwallis was the **Governor General of Bengal**, he appointed **John Shore as President of the Board of Revenue**.
+*   **Administrative Chain**: Governor General → Board of Revenue → President (John Shore) → Districts → Collectors
+*   **Three Procedures of Revenue Collection**:
+    1.  **Auctioning** (land given to highest bidder)
+    2.  **Tenure** (period of land holding)
+    3.  **Revenue Collection** (through Zamindars)
+
+---
+
+### Decennial System → Permanent Settlement (Zamindari System, 1792)
+
+*   **John Shore** proposed a **10-year tenure** (Decennial System) for Zamindars.
+*   **Cornwallis** overruled this — argued 10 years was too short → Changed it to **permanent tenure**.
+*   This became the **Permanent Settlement / Zamindari System of 1792** — during Cornwallis's time as 3rd Governor General.
+
+#### Positives & Negatives of Permanent Settlement
+
+| Positives | Negatives |
+|-----------|-----------|
+| Revenue was **fixed** — books could be kept correctly | Since revenue was fixed, **no option to increase** revenue over years |
+| Rise of **loyal Zamindars** — long tenure creates stability | Zamindars became **too powerful** — exploitation of tenant cultivators |
+
+*   *Key Insight: "The positive is actually the negative also."*
+
+---
+
+### Code of 1793 (Cornwallis Code) — Steel Frame of ICS
+
+*   **15-marker Mains answer**. Also called **Charter of 1793** (when Parliament stamped approval).
+*   **Three names for same thing**: Code of 1793 = Steel Frame of ICS = Charter of 1793.
+*   Makes Cornwallis the **"Father of Indian Civil Services"**.
+
+#### A. European Principle
+*   European officers had too much work → Cornwallis **drastically reduced responsibilities of the Collector**.
+*   **Introduced the post of Magistrate** — so now every district had **two European officers**: Collector + Magistrate.
+*   *Key Timeline*: Warren Hastings gave **Collector** → Cornwallis gave **Magistrate** → Bentinck gave **Commissioner**.
+
+#### B. Indian Principle
+*   Cornwallis argued **"All Indians are corrupt"** — no Indian can be trusted in administration.
+*   Target: **Reduce the power of Zamindars**.
+*   **Key Provisions**:
+    1.  Zamindars were **not allowed to keep local force** (private armies/gundas for collection banned).
+    2.  Introduced **Thanas** (police stations) with **Darogas** (police officers) — state took over law enforcement from Zamindars.
+
+---
+
+### Regulation VII of 1819 (Patwari-Qanungo Act of Bengal)
+
+*   **Outcome of Cornwallis Code's enforcement problems** — Zamindars were not paying on time.
+*   **Key Provisions**:
+    1.  **Rights of collectors clearly defined**.
+    2.  **Two new posts created**: **Patwari** & **Qanungo** — to assist the Zamindar in record-keeping.
+    3.  **Non-payment of revenue by a Zamindar could lead to their arrest** (later known as the **Sunset Law**).
+
+---
+
+### Coinage Act of 1834
+
+*   By 1819, major Indian powers had fallen (Treaty of Mandsaur — Holkars signed Subsidiary Alliance; Marathas completely collapsed).
+*   **"One Colony, One Coin"** structure established.
+*   **Rupaiya (Silver Coin)** became the **singular coin** across the Indian subcontinent.
+*   *Context: "Poor peasants do not have silver coins. So they will die if they can't pay."*
+
+---
+
+### Awadh Talukdars (1856) — Prelude to 1857
+
+*   Zamindars of Awadh were called **Talukdars**.
+*   **1856**: British removed Talukdars — **no Talukdar was allowed to keep forts or private armies**.
+*   British took direct responsibility to collect revenue in Awadh.
+*   **This Talukdar grievance directly led to the Revolt of 1857.**
+*   *UPSC PYQ: Talukdars of Awadh — asked in UPSC 1996 and 2020.*
+
+---
+
+## 10. British India — Phase IV: Bentinck & the Three Charters (1828–1858)
+
+### Lord William Bentinck — First Governor General of India
+
+*   **Period**: 1828–1835.
+*   *"Harbinger of change through reforms"* — believed in laws.
+*   **Key Reforms (1829)**:
+    1.  **Abolished Sati** (Regulation XVII of 1829).
+    2.  Made **English the official language** in courts and administration — replaced **Farsi/Persian**.
+
+---
+
+### Administrative Posts Introduced by Bentinck
+
+| Post | Introduced By | Nationality |
+|------|--------------|-------------|
+| Collector | Warren Hastings | European |
+| Magistrate | Cornwallis | European |
+| **Commissioner** | **Bentinck** | European |
+
+*   **Commissioner** supervised three officers below him: **Collector + Magistrate + Judge**.
+*   **Further posts introduced**:
+    *   **Joint Commissioner** (European)
+    *   **Deputy Collector** (Indian — hand-picked by Governor General, no exam)
+    *   **Deputy Magistrate** (Indian — hand-picked)
+    *   **Deputy Superintendent of Police** (Indian — hand-picked)
+*   *Key Insight: Very slowly, Indians were brought into the administrative structure — but by nomination, not examination.*
+*   **Good Collectors may be appointed as Magistrates** — origin of the modern DM (District Magistrate) concept.
+
+---
+
+### Charter of 1813 — Evangelicalism (Charles Grant)
+
+*   Parliament revised the charter after 20 years (1793 → 1813).
+*   **Written by Charles Grant** — same person who earlier argued for direct Crown collection.
+
+#### Key Provisions:
+1.  **Monopoly of EIC removed from India** — but **retained for China (tea trade)**.
+2.  **Missionaries must be sent to India** for conversion.
+3.  **Education institutions** must be established — **₹1 Lakh sanctioned** for the first time for education.
+
+#### Evangelicalism Theory (Charles Grant):
+*   Grant argued in Parliament: *"Indians are God-less people."*
+*   *"Be an angel in the life of the God-less"* — send missionaries to convert through education.
+*   **Charles Grant = Father of Evangelicalism in India.**
+*   Led to **conventization of education** — convents established with English medium.
+*   Convents served Zamindars' children (elites who could afford fees).
+*   **Socio-religious reforms** emerged as reaction: **Raja Ram Mohan Roy's** movement.
+
+---
+
+### Charter of 1833 — Utilitarianism (Jeremy Bentham) & Law Commission
+
+*   Parliament revised again after 20 years (1813 → 1833).
+*   **Key Political Theory**: **Utilitarianism** of **Jeremy Bentham** — *"Greater good for the greatest number."*
+*   *If Charter of 1813 = Evangelicalism, then Charter of 1833 = Utilitarianism.*
+*   **Key Context**: Geography (Malthus — population data) + Economics → new political theory = Utilitarianism. *How do you bring greater good? By making laws.*
+
+#### Key Provisions:
+1.  **Monopoly of EIC over China (tea) also taken away** — EIC now completely subordinate to Parliament.
+2.  **First Governor General of India** designated (title changed from Governor General of Bengal).
+3.  **Law Commission sent to India** — First Law Commissioner: **Thomas Babington Macaulay (1834)**.
+
+#### Macaulay's Contributions:
+*   **Macaulay's Minutes on Education**:
+    *   Advocated English education **for elites only** — *"Teach the elites. Elites will take care of the poor."*
+    *   Called **Downward Filtration Theory** (sociology) / **Trickle-Down Effect** (economics).
+*   **Law Commission Work** — prepared three landmark codes:
+
+| Code | Year Passed |
+|------|-------------|
+| **IPC** (Indian Penal Code) | 1859 |
+| **CPC** (Civil Procedure Code) | 1860 |
+| **CrPC** (Criminal Procedure Code) | 1861 |
+
+*   *Key Logic: High Courts (1861) could only be established AFTER the procedural codes were ready.*
+
+#### The Administrative Pyramid:
+*   Charters of 1813 + 1833 together created an **administrative pyramid**:
+    *   **Top**: British officials (EIC gone — now direct Crown rule)
+    *   **Middle**: Indian elites (educated in English convents)
+    *   **Bottom**: Masses/subjects (controlled through laws)
+*   *"This is what we call the beginning of economic and cultural imperialism in India."*
+
+---
+
+### Charter of 1853 — Convergence & Separation of Powers
+
+*   **Culmination** of Charters 1813 (Evangelicalism) + 1833 (Utilitarianism).
+*   **Key Provisions**:
+    1.  **Separated Legislative work from Executive work** (Separation of Powers).
+    2.  **IAS and IPS services separated** (distinct administrative and police cadres).
+    3.  **Indians allowed to sit for the ICS exam** — elites could now write the examination.
+
+#### Charles Wood's Despatch (1854) — Magna Carta of Education
+*   **Charles Wood** wrote a series of dispatches arguing: **"Educate all in vernacular language."**
+*   Let every state's language be used for education — Bihar board, UP board, etc., all valid.
+*   Called the **"Magna Carta of Education"** — democratization of education beyond English-only.
+*   *Consequences*: Led to legalization of **Madarsas** (Urdu as vernacular) → sparked both:
+    *   **Wahhabism** / Sir Syed Ahmad Khan's Aligarh Movement
+    *   **Arya Samaj** of Dayananda Saraswati
+*   *"Divide and rule through education."*
+
+---
+
+## 11. British India — Phase V: Crown Rule & the Viceroy Era (1858–1885)
+
+### ① Good Governance Act / Government of India Act, 1858
+
+*   **Two names** for the same act.
+*   **Salient Changes**:
+    1.  **Crown of England declared Empress of India** (*Kaisar-i-Hind*) — one emperor for all India.
+    2.  **Abolished Doctrine of Lapse** — no more annexation of princely states for lack of heir.
+    3.  **Removed Board of Control** (parliamentary body from Pitt's India Act no longer needed).
+    4.  **Secretary of State for India** created — a **Cabinet-rank minister** to oversee India.
+
+#### India's Administrative Structure under 1858 Act:
+
+| Division | Head | Appointed By |
+|----------|------|-------------|
+| **3 Presidencies** (Bengal, Madras, Bombay) | Governor General + Executive Council | **Crown (Royal Family)** |
+| **8 Provinces** | Lieutenant Governor + Chief Commissioner | **Governor General of India** |
+
+*   **Key Constitutional Logic**: Since the Governor General of India (sitting in Bengal) appoints Lt. Governors and Chief Commissioners — he performs the **vicarious duty of the Royal Family** in India.
+*   Therefore, the post of **Governor General of India** was now renamed **Viceroy of India**.
+*   **Viceroy vs Governor General**: Viceroy has the additional power to **appoint Lt. Governors and Chief Commissioners** + **veto power**.
+*   *Analogy: Like Delhi today — Lieutenant Governor (province) and Prime Minister (centre) both sit in Delhi. NDMC area under Central Government, MCD area under Delhi Government.*
+
+---
+
+### ② Indian Council Act of 1861
+
+*   **New body added**: **Legislative Council** — alongside existing Governor General + Executive Council.
+*   **Legislative Council**: 12 members total.
+    *   **6 could be appointed by the Viceroy/Governor General**.
+    *   **These 6 could be Indians** — first time Indians entered legislative structure.
+*   **Indians could discuss the budget** — but **could NOT pass** it.
+*   *"For the first time, the taste of political legislation came to Indians."*
+*   **Executive Council > Legislative Council** (EC existed in all 3 Presidencies; LC was advisory only).
+*   Each Presidency (Bengal/Viceroy, Madras, Bombay) had its own Legislative Council.
+
+---
+
+### ③ High Court Act of 1861
+
+*   Paved the way for establishment of High Courts.
+
+| Year | High Court(s) Established |
+|------|--------------------------|
+| **1861** | **Madras, Calcutta, Bombay** (3 High Courts) |
+| **1864** | **Allahabad** |
+| **1867** | **Chief Court of Punjab** |
+
+---
+
+## 12. The Viceroys (1858–1885)
+
+### Order: 3 + 3 + 1
+
+---
+
+### First Three Viceroys
+
+#### 1. Lord Canning (1858–1862)
+*   **Abolished Doctrine of Lapse** — under the Good Governance Act 1858.
+*   All three acts of Phase V came under his tenure: Good Governance Act, Indian Council Act, High Court Act.
+*   *First Viceroy of India.*
+
+#### 2. Lord Elgin I (1862–1863)
+*   Docile Viceroy — could not control the fire of vernacular education reforms.
+*   Rise of **Wahhabism** (radical Islam) — but also the positive rise of **Sayyid Ahmad Khan** and his movement.
+*   Sayyid Ahmad Khan's movement later led to **Aligarh Muslim University**.
+
+#### 3. Lord Lawrence (1864–1869)
+*   **Two High Courts established**: Allahabad (1864) and Punjab Chief Court (1867).
+
+---
+
+### Second Three Viceroys
+
+#### 4. Lord Mayo (1869–1872)
+*   **First Census of India (1871)** — first scientific data collection exercise.
+*   Created the **first scientific department**: **Statistical Survey** (data collection and analysis).
+*   **Mayo College** established (later a prominent institution).
+*   **Divided the budget into Centre and Province** — provinces told to take care of own problems.
+*   *Mayo is the first and only Viceroy to be **killed in office** (assassinated in the Andaman Islands).*
+
+#### 5. Lord Northbrook (1872–1876)
+*   Introduced the **second scientific department**: **Telegraph** in India.
+*   Passed the **Civil Marriage Act / Special Marriage Act** — Northbrook is associated with marriage reform legislation.
+
+#### 6. Lord Lytton (1876–1880)
+*   **Further burdened the provinces** — extra expenditure pushed onto provincial budgets.
+*   Provinces could not sustain → led to the **Bangalore Famine**.
+*   **Delhi Durbar**: Lytton organized the **first Delhi Durbar** — cost **₹84 Lakhs**, paid for by the already-strained provinces during famine.
+*   **Two Draconian Acts**:
+    1.  **Vernacular Press Act** — banned writing against the state in vernacular newspapers.
+        *   **Exception**: **Amrit Bazar Patrika** survived — overnight converted from a Bengali vernacular newspaper to an **English newspaper**.
+        *   Founded by **Shishir Kumar Ghosh** & **Motilal Ghosh** — longest-serving media house (today's ABP News).
+    2.  **Arms Act** — on mere suspicion, British could enter any Indian's house and search for arms.
+*   *Lytton left unceremoniously due to the backlash.*
+
+---
+
+### The Final Viceroy of Early Modern (Leading to Modern India)
+
+#### 7. Lord Ripon (1880–1884)
+*   **"Father of Local Self-Government in India."**
+*   **Key Reforms**:
+    1.  Introduced **Municipal Corporations & Panchayats** — through **elections** (first time).
+    2.  **Repealed** both the **Vernacular Press Act** and the **Arms Act**.
+    3.  Established **universities**: **Allahabad University** and **Punjab University**.
+    4.  **Banned religious teaching in government-aided schools** — private institutions could teach religion, but government schools could not.
+    5.  **Ilbert Bill** (attempted but failed):
+        *   Proposed that an **English/European officer could be tried before an Indian judge**.
+        *   British in London protested massively → **Bill was not passed** in Parliament.
+        *   *"Indians understood for the first time that they are still treated as secondary citizens."*
+
+#### 8. Lord Dufferin (1884–1888)
+*   Could not handle the pressure of Indian resentment after Ilbert Bill failure.
+*   Called **retired ICS officers** to talk to Indian leaders and manage the crisis.
+*   This dialogue process led to the **formation of the Indian National Congress (INC) in 1885**.
+*   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
+*   *"From here on, Modern Indian politics will take over."*
+
+---
+
+<!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
 <!-- 2026-08-09: Corrected 1717 Farrukh Siyar Golden Farman annual payment for Bengal duty-free trade from ₹30,000 to ₹3,000 (and added Surat ₹10,000 provision). -->
 <!-- 2026-08-08: Enriched Treaty of Amritsar (1809) scope — explicitly noted Cis-Sutlej limitation vs unrestricted expansion in Kashmir (1819), Multan (1818), and Peshawar (1834). Mislabeled Treaty of Lahore corrected. -->
 
