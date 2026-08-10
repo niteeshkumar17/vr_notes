@@ -1,7 +1,7 @@
 # Early Modern India (1707 Onwards)
 
-> **Source:** Vajiram & Ravi Class Lecture 01, 02 & 03 Notes
-> **Last Updated:** 2026-08-02
+> **Source:** Vajiram & Ravi Class Lecture 01, 02, 03 & Lecture A1 Notes/Transcript
+> **Last Updated:** 2026-08-10
 
 ---
 
