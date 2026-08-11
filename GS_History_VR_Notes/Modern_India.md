@@ -1,4 +1,4 @@
-# Modern India (1860s–1940s) — Lecture B1: Nationalism & Its Emergence in India
+# Modern India (1860s–1940s) — Lecture 1: Nationalism & Its Emergence in India
 
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
