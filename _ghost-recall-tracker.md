@@ -1,20 +1,20 @@
-﻿# Ghost Recall Tracker â€” UPSC CSE 2027 (v4.0 Adaptive Engine)
+# Ghost Recall Tracker — UPSC CSE 2027 (v4.0 Adaptive Engine)
 
 > **Auto-maintained by the revision mentor agent.**
-> Morning Control Center (4:30 AM â€“ 6:00 AM). Self-Optimizing Learning Engine (Â§14).
+> Morning Control Center (4:30 AM – 6:00 AM). Self-Optimizing Learning Engine (§14).
 
-## ðŸ“Š Performance & Learning Analytics Dashboard
-* **Today's Date:** 2026-08-10
-* **Active Micro-Topics:** 55
-* **Overall Database Mastery:** 38.5% ðŸ“ˆ
-* **Today's Recall Completed:** 9/9 Micro-Topics (100% Level 5 Perfect Recall ðŸ†)
+## 📊 Performance & Learning Analytics Dashboard
+* **Today's Date:** 2026-08-11
+* **Active Micro-Topics:** 59
+* **Overall Database Mastery:** 37.2% 📈
+* **Today's Recall Completed:** 9/9 Micro-Topics (100% Level 5 Perfect Recall 🏆)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 20
+* **New Topics Ingested Today:** 4 (Freedom Struggle B1 — Nationalism)
 * **Weekly Backlog:** 0
 
 ---
 
-## ðŸ“š Master Micro-Topic Database & Learning Profiles
+## 📚 Master Micro-Topic Database & Learning Profiles
 
 ### History (Early Modern India)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -57,6 +57,14 @@
 | HIS-EM-08 | Prasasti, Non-Transferable Land & Feudal Political Structure | 2 | â˜…â˜…â˜…â˜…â˜… | Day 1 | 2026-08-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Stone Slab Sanskrit` $\leftrightarrow$ `7 Duties of Vassal` $\leftrightarrow$ `Hereditary Positions` |
 | HIS-EM-09 | Brahmin as Agent of Change & Sanskritization | 2 | â˜…â˜…â˜…â˜…â˜† | Day 1 | 2026-08-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Greater vs Little Tradition` $\leftrightarrow$ `Tribalâ†’Agricultural` $\leftrightarrow$ `Patriarchy Rise` $\leftrightarrow$ `Sedentary Life` |
 | HIS-EM-10 | Temple Economy, Shiva-Parvati Myth & Indian Feudalism | 3 | â˜…â˜…â˜…â˜…â˜… | Day 1 | 2026-08-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Purtadharma/Dana` $\leftrightarrow$ `Temple Towns` $\leftrightarrow$ `Hingalaâ†’Linga` $\leftrightarrow$ `Bhakti-Tantra Syncretism` |
+
+### History (Freedom Struggle — Modern History)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| MOD-B1-01 | Nationalism: Definition, Real vs Imagined Debate | 2 | ★★★★★ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Modern Political Thought` $\leftrightarrow$ `Oneness` $\leftrightarrow$ `Nation-State` $\leftrightarrow$ `Harari Sapiens` |
+| MOD-B1-02 | Origin of Nationalism: Europe & America (1776–1848) | 1 | ★★★★☆ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `American Rev 1776` $\leftrightarrow$ `French Rev 1789` $\leftrightarrow$ `European Rev 1830/1848` $\leftrightarrow$ `Nation-States` |
+| MOD-B1-03 | Nationalism in India: When, Where, Among Whom | 2 | ★★★★★ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bengal/Bombay/Madras` $\leftrightarrow$ `Middle Educated Class` $\leftrightarrow$ `1860s-80s` $\leftrightarrow$ `Nation in Making (1903)` |
+| MOD-B1-04 | Six Factors for Emergence of Indian Nationalism | 3 | ★★★★★ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Admin Unification` $\leftrightarrow$ `Uniform IPC/CrPC` $\leftrightarrow$ `Reform Movements` $\leftrightarrow$ `Economic Exploitation` $\leftrightarrow$ `Liberal Thought` $\leftrightarrow$ `Transport/Communication` |
 
 ### Geography (Fundamentals & Geomorphology)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -110,8 +118,8 @@
 
 ---
 
-## ðŸŽ¯ Multi-Factor Scheduling & Priority Engine (Â§14-B)
-* **Priority Formula:** Multi-factor score combining UPSC â˜… rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage.
+## 🎯 Multi-Factor Scheduling & Priority Engine (§14-B)
+* **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage.
 * **Current Top Priority Micro-Topics:**
   1. `HIS-06-01` (â˜…â˜…â˜…â˜…â˜… | Diff 2 | New â€” Phase III Cornwallis Code)
   2. `HIS-07-03` (â˜…â˜…â˜…â˜…â˜… | Diff 3 | New â€” Charter 1833/Macaulay)
