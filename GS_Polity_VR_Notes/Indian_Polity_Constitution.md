@@ -803,4 +803,23 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 
 ---
 
+## Contemporary Legal & Constitutional Developments (August 2026)
+
+### 1. PMLA Prosecution Post-Predicate Conviction & Double Jeopardy
+* <span style="color: #e53e3e;">**Karnataka HC Ruling (2026 — Justice M. Nagaprasanna):** Prosecution under **PMLA, 2002** after conviction for a predicate/scheduled offence under IPC does **NOT** violate **[Article 20(2)](../Articles/Article_20.md)** (Double Jeopardy) or **Section 300 CrPC**.</span>
+* <span style="color: #e53e3e;">**Key Principle:** The offence of laundering proceeds of crime under Section 3 PMLA is an **independent statutory offence**. Section 300 CrPC extends only to a second trial for the exact same offence, not a distinct statutory offence under another enactment.</span>
+
+### 2. Tribunals Reforms Bill 2026 & National Tribunals Commission (NTC)
+* <span style="color: #e53e3e;">**Lok Sabha Passage (Aug 2026):** Passed the **Tribunals Reforms Bill, 2026**, repealing the 2021 Act.</span>
+* <span style="color: #e53e3e;">**National Tribunals Commission (NTC):** Establishes a centralized body headquartered in New Delhi to oversee appointments, qualifications, salaries, and removal of tribunal members under **[Article 323A](../Articles/Article_323A.md)**.</span>
+* <span style="color: #e53e3e;">**Composition:** Chairperson (Retired SC Judge or Retired HC Chief Justice) + 4 Members (2 Judicial + 2 Technical). Brings uniformity and judicial independence.</span>
+
+### 3. Constitutional Official Language Policy & English
+* <span style="color: #e53e3e;">**Constitutional Framework:** **[Article 343](../Articles/Article_343.md)** adopted Hindi in Devanagari script as Official Language, while retaining English under the **Munshi-Ayyangar Formula** via the **Official Languages Act, 1963**.</span>
+* <span style="color: #e53e3e;">**SC 2026 Observation & Census Stats:** SC noted that framing English vs Indian languages is a false binary. Census 2011 records ~129 million English speakers in India (260k mother tongue), with current estimates reaching 180M–250M. Recognized by Sahitya Akademi as a language of Indian literature.</span>
+
+---
+
 <!-- 2026-08-07: Corrected lecture dates for Polity Lectures 01, 02 & 03 to 3–5 August 2026 (L01: 3 Aug, L02: 4 Aug, L03: 5 Aug). -->
+<!-- 2026-08-11: Enriched with 11 August 2026 legal/constitutional developments (PMLA Double Jeopardy ruling, Tribunals Reforms Bill 2026 / NTC, Official Language Art 343 & Census data). -->
+

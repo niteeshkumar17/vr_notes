@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 * **Today's Date:** 2026-08-11
-* **Active Micro-Topics:** 59
+* **Active Micro-Topics:** 62
 * **Overall Database Mastery:** 37.2% 📈
 * **Today's Recall Completed:** 9/9 Micro-Topics (100% Level 5 Perfect Recall 🏆)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 4 (Freedom Struggle B1 — Nationalism)
+* **New Topics Ingested Today:** 7 (4 Freedom Struggle B1 + 3 Current Affairs Aug 11)
 * **Weekly Backlog:** 0
 
 ---
@@ -114,7 +114,10 @@
 | CA-260807-05 | CWG Multi-Sport Governance & 2036 Bid | 2 | â˜…â˜…â˜…â˜†â˜† | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Decentralized Hosting` $\leftrightarrow$ `Glasgow 2026` $\leftrightarrow$ `2036 Olympic Bid` |
 | CA-260808-01 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j) SC Hearing | 3 | â˜…â˜…â˜…â˜…â˜… | Day 2 | 2026-08-11 | 100% | High ðŸŒŸ | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast ðŸŸ¢ | `Article 21 Privacy` $\leftrightarrow$ `RTI Act 2005` $\leftrightarrow$ `DPDP Act 2023` $\leftrightarrow$ `Puttaswamy 2017` |
 | CA-260808-02 | India-US Strategic Partnership & Flexible Realism | 2 | â˜…â˜…â˜…â˜…â˜† | Day 1 | 2026-08-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Flexible Realism` $\leftrightarrow$ `China Factor` $\leftrightarrow$ `Strategic Autonomy` $\leftrightarrow$ `Quad` |
-| CA-260808-03 | Pakistan-Turkiye-Saudi Trilateral Defence Pact | 2 | â˜…â˜…â˜…â˜…â˜… | Day 5 | 2026-08-15 | 100% | High ðŸŒŸ | 97% | 94% | 2 | 0 | - | 2026-08-10 | Fast ðŸŸ¢ | `Mecca Summit` $\leftrightarrow$ `Collective Defence` $\leftrightarrow$ `West Asia Crisis` $\leftrightarrow$ `Pakistan Nuclear Triad` |
+| CA-260808-03 | Pakistan-Turkiye-Saudi Trilateral Defence Pact | 2 | ★★★★★ | Day 5 | 2026-08-15 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-10 | Fast 🟢 | `Mecca Summit` $\leftrightarrow$ `Collective Defence` $\leftrightarrow$ `West Asia Crisis` $\leftrightarrow$ `Pakistan Nuclear Triad` |
+| CA-260811-01 | PMLA Prosecution Post-Predicate Conviction & Double Jeopardy | 2 | ★★★★★ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 20(2)` $\leftrightarrow$ `Section 300 CrPC` $\leftrightarrow$ `PMLA 2002` $\leftrightarrow$ `Double Jeopardy` |
+| CA-260811-02 | English Language Policy, Census Data & Official Language Status | 2 | ★★★★☆ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 343` $\leftrightarrow$ `Munshi-Ayyangar Formula` $\leftrightarrow$ `Census 2011` $\leftrightarrow$ `Sahitya Akademi` |
+| CA-260811-03 | Tribunals Reforms Bill 2026 & National Tribunals Commission Architecture | 2 | ★★★★★ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 323A` $\leftrightarrow$ `National Tribunals Commission` $\leftrightarrow$ `L. Chandra Kumar` $\leftrightarrow$ `Separation of Powers` |
 
 ---
 
