@@ -1,4 +1,4 @@
-# Freedom Struggle of India (1860s–1940s) — Lecture B1: Nationalism & Its Emergence in India
+# Modern India (1860s–1940s) — Lecture B1: Nationalism & Its Emergence in India
 
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
@@ -10,11 +10,11 @@
 
 | Paper | Relevance |
 |:---|:---|
-| **GS-I (Mains)** | Indian History — Freedom Struggle, Social Issues |
+| **GS-I (Mains)** | Indian History — Modern India, Freedom Struggle, Social Issues |
 | **GS-IV (Ethics)** | Thinkers: Buddha → Vivekananda → Gandhi → Nehru → Tagore → Ambedkar |
 | **Essay** | At least 1 out of 8 essays regularly from Modern Indian History themes |
 | **Prelims** | Ancient + Medieval + Modern History (no World History) — Statement-based conceptual MCQs |
-| **Interview** | 3–5 minutes on Freedom Struggle themes; favourite leader questions |
+| **Interview** | 3–5 minutes on Freedom Struggle & Modern India themes; favourite leader questions |
 
 ---
 
@@ -134,7 +134,7 @@ Indians had **strong consciousness** of:
 But they **lacked consciousness** of:
 - ❌ **Indian-ness** — the idea that "we are all Indian" regardless of caste, religion, language
 
-**This national political consciousness started emerging only in the late 19th century** — which is where the UPSC syllabus on Freedom Struggle begins.
+**This national political consciousness started emerging only in the late 19th century** — which is where the UPSC syllabus on Modern India begins.
 
 ### Contemporary Perspective — Ramachandra Guha (c. 2015)
 

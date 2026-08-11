@@ -58,7 +58,7 @@
 | HIS-EM-09 | Brahmin as Agent of Change & Sanskritization | 2 | â˜…â˜…â˜…â˜…â˜† | Day 1 | 2026-08-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Greater vs Little Tradition` $\leftrightarrow$ `Tribalâ†’Agricultural` $\leftrightarrow$ `Patriarchy Rise` $\leftrightarrow$ `Sedentary Life` |
 | HIS-EM-10 | Temple Economy, Shiva-Parvati Myth & Indian Feudalism | 3 | â˜…â˜…â˜…â˜…â˜… | Day 1 | 2026-08-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Purtadharma/Dana` $\leftrightarrow$ `Temple Towns` $\leftrightarrow$ `Hingalaâ†’Linga` $\leftrightarrow$ `Bhakti-Tantra Syncretism` |
 
-### History (Freedom Struggle — Modern History)
+### History (Modern India)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | MOD-B1-01 | Nationalism: Definition, Real vs Imagined Debate | 2 | ★★★★★ | Day 1 | 2026-08-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Modern Political Thought` $\leftrightarrow$ `Oneness` $\leftrightarrow$ `Nation-State` $\leftrightarrow$ `Harari Sapiens` |
