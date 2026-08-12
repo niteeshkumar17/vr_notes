@@ -663,8 +663,8 @@ Each zone has an **Exoteric** (Puram — external/physical) and **Esoteric** (Ah
 *   Example: **Onam** celebrates King **Mahabali** — a ruler from the agricultural land.
 
 #### Interconnections Through Marriage (Not Vassalage)
-*   King (Marutam) needs a **queen** (sovereign lady from Kurinji).
-*   A **warrior** (from Kurinji) helps them unite.
+*   King (Marutam) needs a **queen** (the devoted lady from **Mullai** — like Radha longing for Krishna).
+*   A **warrior** (from **Kurinji** — the land of bravery) helps them unite.
 *   King gives his **sister in marriage** to the warrior.
 *   Another **sister married to the merchant** (from Neytal).
 *   **Result**: Everyone is connected through **kinship/marriage**, not through conquest.
