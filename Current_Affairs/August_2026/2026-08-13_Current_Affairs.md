@@ -43,4 +43,29 @@
 
 ---
 
-<!-- 2026-08-13: Created daily current affairs covering Ladakh Glaciers (GS-1/3) and Draft Food Security Amendment Bill (GS-2/3) -->
+## 3. Rajya Sabha Passes Kerala Name Change & NCDC Bills
+
+> **Tags:** `[GS-2: Indian Constitution - Federalism & Reorganization of States (Article 3)]` · `[GS-2: Statutory Bodies (NCDC)]`
+
+### Context
+- The **Rajya Sabha** passed two Bills during the Monsoon Session:
+  1. **The Kerala (Alteration of Name) Bill, 2026**: A step to change the name of the state from Kerala to **Keralam**, continuing the Kerala Assembly's 2024 resolution. The Union government cited a commitment to removing symbols of slavery and establishing names that represent India's heritage.
+  2. **The National Co-operative Development Corporation (Amendment) Bill, 2026**: Broadens the mandate of the NCDC to give loans and grants directly to cooperative societies.
+
+---
+
+## 4. Lok Sabha Clears Mines and Minerals Amendment Bill
+
+> **Tags:** `[GS-2: Federalism - Centre-State Relations]` · `[GS-3: Economy - Mining Sector & Resource Mobilization]`
+
+### Context
+- Amid Opposition protests, the Lok Sabha passed the **Mines and Minerals (Development and Regulation) Amendment Bill, 2026** without a debate.
+
+### Key Provisions & Controversies
+- **Centralization of Control:** The Bill prevents State governments from imposing additional taxes, cesses, or levies on mineral rights, granting the **Centre greater control** over regulating mineral-laden lands.
+- **Government's Rationale:** Coal and Mines Minister G. Kishan Reddy stated that divergent fiscal levies by States created uncertainty in the mineral sector, which could raise costs, encourage imports, and undermine domestic supply chains.
+- **Opposition's Stance:** Argued strongly that the Bill violates the principles of **federalism** (states' rights to taxation on minerals).
+
+---
+
+<!-- 2026-08-13: Created daily current affairs covering Ladakh Glaciers (GS-1/3), Draft Food Security Amendment Bill (GS-2/3), Kerala Name Change & NCDC Bills (GS-2), and Mines & Minerals Amendment Bill (GS-2/3) -->
