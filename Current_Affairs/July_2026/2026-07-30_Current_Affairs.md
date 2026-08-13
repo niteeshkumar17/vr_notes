@@ -169,7 +169,7 @@
 | **FCRA 1976** | Enacted during Indira Gandhi's Emergency regime to regulate foreign hospitality and contributions to prevent foreign interference in Indian politics. |
 | **FCRA 2010** | Replaced the 1976 Act. Prohibited foreign contributions to election candidates, media personnel, judges, public servants, and political parties. Mandated registration for NGOs in social/cultural/educational work. |
 | **FCRA Amendment 2020** | Barred sub-granting/transfer of foreign funds to other NGOs; capped administrative expenses at 20%; mandated SBI New Delhi main branch account. |
-| **FCRA Amendment Bill 2026** | Expands State control over NGO assets and broadens grounds for cancellation of registration. |
+| **FCRA Amendment Bill 2026** | Expands State control over NGO assets and broadens grounds for cancellation of registration. <br><br> <span style="color: #e53e3e;">**Update (Aug 2026):** Lok Sabha passed a motion (moved by MoS Nityanand Rai) to refer the Bill to a 31-member Joint Parliamentary Committee (JPC) following Opposition demands. The JPC comprises 21 Lok Sabha members (nominated by Speaker Om Birla) and 10 Rajya Sabha members (nominated by Chairman C.P. Radhakrishnan). The panel is mandated to submit its report by the last day of the first week of the Winter Session.</span> |
 
 ### Key Controversial Clauses in FCRA Bill 2026 (Author P.D.T. Achary's Analysis)
 
