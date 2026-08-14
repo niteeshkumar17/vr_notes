@@ -21,6 +21,7 @@
 
 ## Key Recent Judicial Ruling (2026)
 * <span style="color: #e53e3e;">**PMLA vs Predicate Offence (Karnataka HC 2026):** Prosecution under PMLA after conviction for a predicate/scheduled offence does NOT violate Article 20(2) or Sec 300 CrPC, because money laundering under PMLA is an independent statutory offence.</span>
+* <span style="color: #e53e3e;">**PMLA & Acquittal Trap (Aug 2026 MCQ):** While a person cannot be prosecuted under PMLA if they are finally acquitted of the predicate offence (as proceeds of crime cease to exist), this protection is NOT strictly due to Article 20(2) Double Jeopardy. Double jeopardy under Art 20(2) only protects against being prosecuted for the *same* offence twice; PMLA and predicate offences are distinct in law.</span>
 
 ## Non-Suspendable Feature
 * Under **Article 359** (as amended by the 44th Constitutional Amendment Act, 1978), **Article 20 and Article 21 CANNOT be suspended** even during a National Emergency under Article 352.

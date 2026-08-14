@@ -494,6 +494,11 @@ EON (largest) → ERA → PERIOD → EPOCH (smallest)
 - As Earth cooled → water vapour descended → eventually contributed to formation of hydrosphere
 - **Age of water vapour ≈ Age of Earth** (same origin)
 
+### 12.6 Evolution of the Atmosphere (Degassing)
+
+- Earth's early atmosphere (mostly hydrogen & helium) was largely stripped away by solar winds.
+- <span style="color: #e53e3e;">**Degassing (Aug 2026 MCQ):** The primary process that contributed to the evolution of the present atmosphere was **Degassing** from the Earth's interior, releasing water vapour, nitrogen, carbon dioxide, methane, and ammonia. Biological fixation (like photosynthesis) contributed much later to oxygenate it.</span>
+
 ---
 
 ## 13. Density Adjustment — The Key Hadean Process (4.4 – 4.0 BY ago)

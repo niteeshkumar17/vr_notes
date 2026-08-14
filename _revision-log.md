@@ -24,6 +24,16 @@
 
 *(Most recent first)*
 
+### Session 10 — 2026-08-13
+- **Subject:** GS_Geography, GS_Economy, GS_Polity, Current Affairs
+- **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
+- **Score:** 24.66 / 30.00 (Net Score: +26.0 - 1.34 = 24.66 | Accuracy: 86.67% — 13/15 correct | 2 Incorrect)
+- **Mains Answer Score:** 0 / 10 (Not attempted)
+- **Strengths:** Excellent performance on GDCF scope (`MST-007` Repeat Error fixed), Ramsar Buffer (`MST-010` Repeat Error fixed), Subpolar Low (`MST-002`), Production Tax (`MST-011`), Article 282 Grants (`MST-012`), Article 3 procedure, Ladakh glaciers, FCRA bill, and Seismic Discontinuities.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-013 / Double Jeopardy vs PMLA:* PMLA acquittal is independent of Art 20(2) Double Jeopardy trap.
+  - *MST-014 / Earth's Atmosphere Evolution:* Degassing from Earth's interior primarily contributed to the atmosphere's evolution, not biological fixation.
+
 ### Session 9 — 2026-08-09
 - **Subject:** GS_History, GS_Geography, GS_Economy, GS_Polity, Current Affairs
 - **Format:** 15 Prelims MCQs
