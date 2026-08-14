@@ -12,6 +12,20 @@
 *   In Medieval India, sovereign power resided in the Emperor. In Early Modern India, weak emperors became figureheads, while powerful noble factions (Zulfiqar Khan, Sayyid Brothers, Nizam-ul-Mulk) controlled administration, finances, and imperial succession.
 *   **Incompetence & Dispersion**: Incompetent favorites took over court positions, driving out old experienced nobles, directly triggering imperial breakdown.
 
+<span style="color: #e53e3e;">
+
+#### 👑 The Four Major Court Factions (Nobility Polarization)
+The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines into 4 major court factions who vied for control of the throne and *Wizarat* (Prime Ministership):
+
+| Faction | Origin & Sect | Key Leaders | Power Base & Historical Significance |
+|:---|:---|:---|:---|
+| **1. Turani Faction** | Central Asian Sunnis (Transoxiana / Bukhara) | **Chin Qilich Khan (Nizam-ul-Mulk)**, Zakariya Khan | Traditional Sunni nobility; strongly opposed Sayyid Brothers; Nizam-ul-Mulk founded independent **Hyderabad (1724)** after becoming disillusioned with Mughal court corruption. |
+| **2. Irani Faction** | Persian Shias | **Zulfiqar Khan**, **Saadat Khan Burhan-ul-Mulk**, Safdarjung | Dominant under Bahadur Shah I & Jahandar Shah; promoted alliance with Rajputs/Marathas (abolished Jaziya in Gujarat); Saadat Khan founded autonomous **Awadh (1722)**. |
+| **3. Hindustani Faction** | Indian Muslims (Native / Indo-Muslims) | **Sayyid Brothers** (*Abdullah Khan* & *Husain Ali Khan* of Barha) | Allied with Hindu nobles, Rajputs, and Marathas (1719 treaty); Kingmakers who installed and deposed 4 Emperors between 1713 and 1720. |
+| **4. Afghan Faction** | Rohillas & Pathans (North-West Frontiers) | **Muhammad Khan Bangash**, **Ali Muhammad Khan** | Valiant soldiers; carved out autonomous principalities in **Farrukhabad** and **Rohilkhand** (Ganga-Yamuna doab). |
+
+</span>
+
 ---
 
 ### Chronological & Contextual Breakdown
@@ -957,8 +971,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
----
-
+<!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
 <!-- 2026-08-09: Corrected 1717 Farrukh Siyar Golden Farman annual payment for Bengal duty-free trade from ₹30,000 to ₹3,000 (and added Surat ₹10,000 provision). -->
 <!-- 2026-08-08: Enriched Treaty of Amritsar (1809) scope — explicitly noted Cis-Sutlej limitation vs unrestricted expansion in Kashmir (1819), Multan (1818), and Peshawar (1834). Mislabeled Treaty of Lahore corrected. -->
