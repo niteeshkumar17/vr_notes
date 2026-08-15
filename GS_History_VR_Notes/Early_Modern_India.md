@@ -805,9 +805,9 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Key Context**: Geography (Malthus — population data) + Economics → new political theory = Utilitarianism. *How do you bring greater good? By making laws.*
 
 #### Key Provisions:
-1.  **Monopoly of EIC over China (tea) also taken away** — EIC now completely subordinate to Parliament.
-2.  **First Governor General of India** designated (title changed from Governor General of Bengal).
-3.  **Law Commission sent to India** — First Law Commissioner: **Thomas Babington Macaulay (1834)**.
+1.  **Monopoly of EIC over China (tea) also taken away** — EIC now completely subordinate to Parliament. <span style="color: #e53e3e;">Commercial business of the East India Company was completely brought to an end; the Company became purely an administrative and governing body holding territories in trust for His Majesty.</span>
+2.  **First Governor General of India** designated (title changed from Governor General of Bengal). <span style="color: #e53e3e;">Governor-General of India in Council was vested with exclusive legislative powers for the whole of British India, stripping Bombay and Madras Presidencies of independent law-making authority.</span>
+3.  **Law Commission sent to India** — <span style="color: #e53e3e;">Section 53 of the Charter Act 1833 authorized the creation of the First Law Commission (1834) under **Lord Thomas Babington Macaulay** as its first Law Member/Chairman, tasked with standardizing and codifying Indian civil, criminal, and procedural laws on Utilitarian principles ("greater good for the greatest number").</span>
 
 #### Macaulay's Contributions:
 *   **Macaulay's Minutes on Education**:
@@ -971,6 +971,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
+<!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
 <!-- 2026-08-09: Corrected 1717 Farrukh Siyar Golden Farman annual payment for Bengal duty-free trade from ₹30,000 to ₹3,000 (and added Surat ₹10,000 provision). -->

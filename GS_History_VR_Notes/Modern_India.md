@@ -252,6 +252,20 @@ British economic policies brought:
 - This realization gave birth to **national consciousness**
 - **Note:** British built railways for **economic exploitation & military transportation** — the positive spin-off on national unity was unintended
 
+<span style="color: #e53e3e;">
+### Factor G: Reactionary Colonial Policies & Racial Arrogance (Lytton & Ilbert Bill)
+
+- **Reactionary Viceroyalty of Lord Lytton (1876–1880):**
+  - **Vernacular Press Act (1878):** Known as the *"Gagging Act"*, specifically targeted vernacular newspapers (like *Amrita Bazar Patrika* which switched to English overnight) to suppress nationalist criticism while exempting English-language press.
+  - **Arms Act (1878):** Imposed racial discrimination by mandating licenses for Indians to carry firearms while exempting Europeans and Anglo-Indians.
+  - **Imperial Delhi Durbar (1877):** Lavish imperial grand durbar organized while millions were dying in the catastrophic Great Famine of 1876–78.
+  - **ICS Age Reduction:** Lowered maximum age limit for Civil Service exams from 21 to 19 to deliberately exclude Indian aspirants.
+- **Ilbert Bill Controversy (1883) under Lord Ripon:**
+  - Law Member **C.P. Ilbert** proposed granting Indian District Magistrates and Sessions Judges jurisdiction to try European British subjects.
+  - White European community launched a virulent, racially charged agitation (*European and Anglo-Indian Defence Association*), forcing Ripon to compromise (allowing Europeans to claim trial by a jury comprising 50% Europeans).
+  - **Impact:** Shattered any illusion of British "racial equality" or fair play, proving to the educated middle class that organized pan-Indian political agitation was the only path forward, directly paving the way for the **Indian National Congress (1885)**.
+</span>
+
 ---
 
 ## Key Concept: *Zama & Makan* (Time & Space in History)
@@ -275,6 +289,7 @@ British economic policies brought:
 | **D** | Economic Exploitation (poverty, famine, de-industrialization, drain of wealth) | 1860s–1890s | Revenue extraction → Common grievance → National consciousness |
 | **E** | Modern Liberal & Scientific Thought (liberty, equality, reasoning, scientific temper) | 1820s onwards | Western education → Questioning authority → Constitutional values |
 | **F** | Modern Transportation & Communication (railways, roads, post, telegraph) | Mid-19th century | Military/economic transport → Physical + emotional integration |
+| <span style="color: #e53e3e;">**G**</span> | <span style="color: #e53e3e;">Reactionary Colonial Policies (Lytton's Acts 1878, Ilbert Bill 1883)</span> | <span style="color: #e53e3e;">1876–1883</span> | <span style="color: #e53e3e;">Racial arrogance & repression → Pan-Indian political organization (INC 1885)</span> |
 
 ---
 
@@ -288,4 +303,5 @@ British economic policies brought:
 
 ---
 
+<!-- 2026-08-15: Enriched with Factor G — Lord Lytton's reactionary policies (Vernacular Press Act 1878, Arms Act 1878, ICS age reduction) and the Ilbert Bill Controversy (1883) as key catalytic triggers for modern Indian nationalism. -->
 <!-- 2026-08-11: Created from Lecture B1 transcript + handwritten notes. Covers Nationalism definition, origin in Europe/America, emergence in India, and 6 factors (Administrative Unification, Uniform Legal System, Social-Religious Reform, Economic Exploitation, Modern Liberal Thought, Modern Transportation & Communication). -->

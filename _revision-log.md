@@ -24,6 +24,20 @@
 
 *(Most recent first)*
 
+### Session 11 — 2026-08-15
+- **Subject:** GS_History, GS_Geography, GS_Economy, GS_Polity, Current Affairs
+- **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
+- **Score:** 12.65 / 30.00 (Net Score: +16.00 - 3.35 = 12.65 | Accuracy: 61.54% — 8/13 correct | 5 Incorrect | 2 Unattempted)
+- **Mains Answer Score:** 0 / 10 (Not attempted)
+- **Strengths:** Flawless mastery on Cornwallis Code 1793 & Sunset Law (`HIS-06-01`), Early Medieval Urban Decay & Monetary Anemia (`HIS-EM-02`), Early Medieval State Theory Inversion (`HIS-EM-04`), 1717 Farrukh Siyar Farman Dastak corporate scope (`MST-005` Verified), Trade Winds & Subpolar Low dynamic origin (`MST-002`/`MST-003` Verified), GDCF components (`MST-007` Verified), Article 3 State Renaming procedure (`CA-260813-03`), and Ladakh Zanskar glacier hydrology (`CA-260813-01`).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-011 / Production vs Product Taxes:* Land Revenue & Stamp Duty are Production Taxes (independent of volume), NOT Product Taxes (`MST-011` Repeat Error ⚠️).
+  - *MST-013 / Double Jeopardy vs PMLA:* PMLA acquittal is statutory due to absence of proceeds of crime, NOT Article 20(2) Double Jeopardy (`MST-013` Repeat Error ⚠️).
+  - *MST-015 / Charter Act 1833:* First Law Commission under Macaulay was mandated under Section 53 of Charter Act 1833 for utilitarian codification.
+  - *MST-016 / Catalysts for Indian Nationalism:* Reactionary policies of Lord Lytton (Vernacular Press Act 1878, Arms Act 1878) and Ilbert Bill 1883 were direct catalysts.
+  - *MST-017 / Mineral Taxation Federalism:* SC 9-judge bench (2024) held Royalty is NOT a tax; States have taxing power under Entry 49 List II subject to Parliamentary limitations under Entry 54 List I.
+  - *MST-018 / Atmospheric Evolution via Degassing:* Earth's secondary atmosphere formed primarily via volcanic Degassing.
+
 ### Session 10 — 2026-08-13
 - **Subject:** GS_Geography, GS_Economy, GS_Polity, Current Affairs
 - **Format:** 15 Prelims MCQs + 1 Mains Answer Outline

@@ -66,6 +66,14 @@
 - **Government's Rationale:** Coal and Mines Minister G. Kishan Reddy stated that divergent fiscal levies by States created uncertainty in the mineral sector, which could raise costs, encourage imports, and undermine domestic supply chains.
 - **Opposition's Stance:** Argued strongly that the Bill violates the principles of **federalism** (states' rights to taxation on minerals).
 
+<span style="color: #e53e3e;">
+### Constitutional Framework & Supreme Court Jurisprudence (9-Judge Bench 2024)
+- **Royalty is NOT a Tax:** The 9-Judge Constitution Bench (led by CJI D.Y. Chandrachud in *Mineral Area Development Authority v. SAIL*, July 2024) ruled 8:1 that **Royalty payable under Section 9 of the MMDR Act, 1957 is NOT a tax**, but a contractual consideration paid to the mineral owner.
+- **State Taxing Power (Entry 49, List II):** State legislatures possess full constitutional power to levy taxes on **mineral-bearing lands** under Entry 49 of the State List (*"Taxes on lands and buildings"*).
+- **Parliamentary Limitation Power (Entry 54, List I):** However, Parliament can impose statutory limitations or ceilings on States' taxing power over mineral rights via express legislative declarations under Entry 54 of the Union List (*"Regulation of mines and mineral development to the extent declared by Parliament"*). The MMDR Amendment Bill 2026 exercises this Entry 54 power to establish a uniform national fiscal framework.
+</span>
+
 ---
 
+<!-- 2026-08-15: Enriched Section 4 with SC 9-judge Constitution Bench ruling (July 2024) on Mineral Taxation — Royalty is not a tax, Entry 49 List II State powers vs Entry 54 List I Parliamentary limitation power. -->
 <!-- 2026-08-13: Created daily current affairs covering Ladakh Glaciers (GS-1/3), Draft Food Security Amendment Bill (GS-2/3), Kerala Name Change & NCDC Bills (GS-2), and Mines & Minerals Amendment Bill (GS-2/3) -->
