@@ -256,10 +256,11 @@ British economic policies brought:
 ### Factor G: Reactionary Colonial Policies & Racial Arrogance (Lytton & Ilbert Bill)
 
 - **Reactionary Viceroyalty of Lord Lytton (1876–1880):**
+  - **ICS Examination Age Reduction (1876):** Lowered the maximum age limit for Indian Civil Service examinations from **21 to 19 years** to deliberately handicap and exclude Indian candidates (who had to travel to London and write in English against native British graduates).
+  - **First Pan-Indian Agitation (Civil Service Agitation):** **Surendranath Banerjee** and **Ananda Mohan Bose** organized the **Indian Association (1876)** in Calcutta and launched an all-India campaign, with Banerjee touring northern, western, and southern India to mobilize public opinion and present a mass memorial to the British Parliament against the ICS age reduction — considered the **first pan-Indian political agitation**.
   - **Vernacular Press Act (1878):** Known as the *"Gagging Act"*, specifically targeted vernacular newspapers (like *Amrita Bazar Patrika* which switched to English overnight) to suppress nationalist criticism while exempting English-language press.
   - **Arms Act (1878):** Imposed racial discrimination by mandating licenses for Indians to carry firearms while exempting Europeans and Anglo-Indians.
-  - **Imperial Delhi Durbar (1877):** Lavish imperial grand durbar organized while millions were dying in the catastrophic Great Famine of 1876–78.
-  - **ICS Age Reduction:** Lowered maximum age limit for Civil Service exams from 21 to 19 to deliberately exclude Indian aspirants.
+  - **Imperial Delhi Durbar (1877):** Lavish imperial grand durbar organized to proclaim Queen Victoria as *Kaiser-i-Hind* while millions were dying in the catastrophic Great Famine of 1876–78 (*"Nero was fiddling while Rome was burning"*).
 - **Ilbert Bill Controversy (1883) under Lord Ripon:**
   - Law Member **C.P. Ilbert** proposed granting Indian District Magistrates and Sessions Judges jurisdiction to try European British subjects.
   - White European community launched a virulent, racially charged agitation (*European and Anglo-Indian Defence Association*), forcing Ripon to compromise (allowing Europeans to claim trial by a jury comprising 50% Europeans).
@@ -303,5 +304,6 @@ British economic policies brought:
 
 ---
 
+<!-- 2026-08-16: Further enriched Factor G with detailed ICS examination age reduction (1876: 21 to 19 years), SN Banerjee's Indian Association pan-Indian Civil Service Agitation, and Delhi Durbar details in light red styling. -->
 <!-- 2026-08-15: Enriched with Factor G — Lord Lytton's reactionary policies (Vernacular Press Act 1878, Arms Act 1878, ICS age reduction) and the Ilbert Bill Controversy (1883) as key catalytic triggers for modern Indian nationalism. -->
 <!-- 2026-08-11: Created from Lecture B1 transcript + handwritten notes. Covers Nationalism definition, origin in Europe/America, emergence in India, and 6 factors (Administrative Unification, Uniform Legal System, Social-Religious Reform, Economic Exploitation, Modern Liberal Thought, Modern Transportation & Communication). -->
