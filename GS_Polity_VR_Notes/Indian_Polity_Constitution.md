@@ -1,8 +1,8 @@
 # Indian Polity & Constitution
 
-> **Source:** Vajiram & Ravi Class Lectures 01, 02 & 03 & Notes
-> **Date:** 3–5 August 2026
-> **Last Updated:** 2026-08-07
+> **Source:** Vajiram & Ravi Class Lectures 01, 02, 03 & 04 & Notes
+> **Date:** 3–5, 16 August 2026
+> **Last Updated:** 2026-08-16
 
 ---
 
@@ -796,12 +796,400 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 **Three key questions about India:**
 1.  Is religion separated from politics in India? → **No.**
 2.  Can religion be separated from politics in India? → **No** (structurally impossible in multi-religious setting).
-3.  **Should** religion be separated from politics in India? → **No!** *(Counter-intuitive — will be explained via Gandhi's framework in Lecture 4)*
+---
 
-> [!IMPORTANT]
-> **To be continued in Lecture 4:** The complex triangular relationship (Religion–Individual–State) in Indian secularism, explained through the lens of Mahatma Gandhi's philosophy.
+## Lecture 04 — Indian Secularism (Gandhi's Framework), Democracy, Republic, Preamble Aspirations & Part I — Union & its Territories
+
+> **Date:** 16 August 2026
 
 ---
+
+### 10. Indian Secularism — Gandhi's Framework (Continued from Lecture 3)
+
+> **Four Key Personalities for UPSC:** Gandhi, Ambedkar, Nehru, Sardar Patel. Must-read books on these leaders.
+> **Recommended Book:** *Gandhi — The Years That Changed India (1915–1948)* by **Ramchandra Guha** (RC Guha).
+
+#### A. Gandhi's Two Key Propositions
+
+**1. Religion is integral to Indians**
+*   **Integral** = non-separable, unseparable.
+*   Religion **cannot be separated** from Indian life — social, economic, or political.
+*   Look at any Indian's calendar (especially parents/grandparents) → everything revolves around religion in one way or another.
+*   Therefore, religion **cannot be separated from politics** in India — unlike in Western societies.
+
+**2. People will progress only when religion progresses**
+*   Because most of our conduct is dictated by religion → if I want to progress in life, my **religion must support progressive activities**.
+*   If religion still believes in inequality (man ≠ woman), oppressive customs (Sati, child marriage, Triple Talaq, crossing the sea = loss of religion), then **people cannot progress**.
+*   For people to be progressive → religion must also become progressive.
+*   **Whose role is it** to work for the progress of people? → **State**.
+*   But people will only progress if religion progresses → therefore **State must work for the progress of religion**.
+*   This is **exactly opposite** of Western secularism.
+
+#### B. Two Core Principles of Indian Secularism
+
+| # | Principle | Explanation |
+|---|-----------|-------------|
+| 1 | **State shall always have a role in religion** | State intervenes to make every religion forward-moving. If Hinduism has a problem → State intervenes, fixes it → goes back to neutrality. If Islam has a problem → intervenes, fixes → goes back. Not a permanent alignment. |
+| 2 | **No discrimination between religions** | Since the State deals with multiple religions, it must treat all equally. |
+
+#### C. What "Secular India" Means
+
+> **"Secular India means the Republic of India has no official religion."**
+
+*   India is **NOT** a Hindu Kingdom (like Nepal), or Vajrayana State (like Bhutan), or Islamic State (like Iran), or Christian State (like Armenia).
+*   Republic of India is Republic of India.
+*   India is **neither religious nor irreligious** → rather it is **non-religious** or **a-religious**.
+*   India does NOT love a particular religion (not religious) and does NOT hate any religion (not irreligious).
+*   India maintains a **principled equidistance** from all religions.
+
+#### D. Sarva Dharma Sambhavah — The True Indian Secularism
+
+| Term | Meaning |
+|------|---------|
+| **Sarva** | All |
+| **Dharma** | Religion |
+| **Sambhavah** | Equal Treatment |
+
+*   **Term coined by:** Mahatma Gandhi (MKG); **Popularized by:** Atal Bihari Vajpayee (ABV).
+*   Indian secularism = **Sarva Dharma Sambhavah** → All religions to be treated equally.
+*   The word "Secular" is actually a **misfit** for India because Indian secularism is the exact opposite of Western secularism. Sarva Dharma Sambhavah better captures our philosophy.
+
+#### E. Secularism — Ancient Roots, Not Just 1976
+
+| Timeline | Secularism Status |
+|----------|-------------------|
+| **Ancient India** | Already secular (e.g. **Charvaka / Lokayata** school — materialistic, atheistic, rejected God/soul/karma/afterlife, believed YOLO — was **equally respected**, given patronage by kings. Ashoka's grandson gave gifts to Charvaka philosophers at Barabar Hills near Patna) |
+| **1950 (Constitution)** | Secularism was **implicitly** present in the Constitution (Articles on Right to Religion etc.) — Constituent Assembly did not discuss it elaborately for the Preamble because it was "natural" to India |
+| **1976 (42nd CAA)** | "Secular" word **explicitly** inserted into Preamble by Indira Gandhi government — because she was criticized for **minority appeasement**; wanted to make it explicit that Republic of India has no official religion |
+
+#### F. France's Laïcité System vs Indian Secularism
+
+*   **Laïcité** = most extreme form of Western secularism (practiced in France).
+*   Forbids displaying **any** religious symbol in public — no turban (Sikh), no burqa (Muslim), no kalawa (Hindu).
+*   Suited France when it was a **mono-religious** (Christian) state ~300 years ago.
+*   But in last 40 years, France's demography has changed (globalization, EU, Syrian/African crises) → now a **multi-religious** state → Laïcité causing friction, attacks on government offices by minorities.
+*   **UPSC 2015 GS-2 Mains Question:** *"What has France to learn from Indian secularism?"*
+
+#### G. State's Interference in Religion — The Indian Justification
+
+*   When you read **Fundamental Rights**: **No right is absolute** (except Article 17 — abolition of untouchability).
+*   Every right comes with **reasonable restrictions** (decency, morality, public order).
+*   **Triple Talaq**: Violated Article 14 (Equality) + Article 21 (Right to Dignified Life) → State had to intervene.
+*   Why should we pray that State should **never** leave religion? → Because as of today, India is **still capable** of practicing Sati, untouchability, child marriage, Triple Talaq in some corner or other. The **only thing stopping** people is the **rule of State**.
+*   Example: Sati happened as recently as **1987 in Rajasthan** — 37 years after independence.
+
+---
+
+### 11. Democratic — The Preamble Word
+
+*   **Demos** (People) + **Kratos** (To Rule) = **Democracy** = a political setup where people rule.
+
+#### Two Types of Democracy
+
+| Type | Meaning | Example |
+|------|---------|---------|
+| **Direct Democracy** | People participate in **day-to-day governance** directly | Switzerland (low-population countries) |
+| **Indirect Democracy** | People elect **representatives** who govern on their behalf | India, UK, most large countries |
+
+#### Two Political Systems within Democracy
+
+| System | Example |
+|--------|---------|
+| **Presidential** | USA |
+| **Parliamentary** | UK, India |
+
+> **India = Parliamentary Indirect Democracy**
+
+#### Definitions of Democracy
+
+1.  **Basic:** Government **by** the people, **of** the people, **for** the people.
+2.  **Wider meaning:** Democracy ≈ **Choice**. More choices in life → more quality of life → more democracy. Choice is not just political — it is social, economic, and political.
+3.  **Best definition (Nehru):** *"When man becomes the master of his destiny, democracy is said to be realized."*
+
+> [!NOTE]
+> Elections ≠ Democracy. North Korea conducts elections (99% voted for Kim Jong-un — where are the remaining 1%? Probably not alive). Elections are a **machinery**; democracy is a **value**.
+
+---
+
+### 12. Republic — The Preamble Word
+
+#### Republic vs Monarchy
+
+| Feature | **Monarchy** | **Republic** |
+|---------|:---:|:---:|
+| **Head of State (HoS)** appointed by | Anything **BUT** elections (hereditary, strength, custom) | Always through **elections** (direct or indirect) |
+| **Example** | UK (Crown from Royal family) | India (President), USA |
+| **Equality** | Some people more equal than others (blood group determines who can be king) | All citizens placed equally in the eyes of the State |
+
+*   **Monarchy** → "Mon/Mono" = single ruler. HoS is NOT elected. In UK, commoners (however talented/meritorious) **cannot** become King/Queen.
+
+#### Definition of Republic
+
+> **"Republic is a political setting where the Head of State is appointed via elections."**
+
+#### Significance of Republic
+
+1.  **In the eyes of the State, all citizens are placed equally.**
+2.  **All public offices are open for all ordinary citizens.** — No need to be born into a particular family.
+*   President of India qualification: **35 years of age + Citizen of India** — nothing about class, caste, or blood group.
+*   Best example: **President Droupadi Murmu** — a lady from a tribal community, started career from local government, now sits as the first citizen of India. Impossible in Britain.
+
+> **"Thus a Republic is a platform which empowers individuals to grow optimum in their life."**
+
+*   Based on **merit**, the State does not stop you → you can grow to the maximum of your potential.
+
+---
+
+### 13. Aspirations from the Preamble
+
+> **Ideals** (Sovereign, Socialist, Secular, Democratic, Republic) → for the **country**.
+> **Aspirations** (Justice, Liberty, Equality, Fraternity) → for the **citizens**.
+
+---
+
+#### 13.1 Justice
+
+*   **Justice** ← root word **"just"** = **fair**.
+*   Justice = **Fair treatment** to citizens in **social, economic, and political** spheres.
+*   **Justice is the core value of the Constitution** (non-negotiable, ultimate value).
+*   Why Constitution? Why airports, police stations, hospitals, Delhi Metro, educational institutions, government policies? → **All for fairness.**
+*   The **undercurrent of justice** can be felt **throughout the Constitution** — every provision ultimately aims to establish a fair society.
+*   **Inspired by:** Russian Revolution (Marx's idea — replacing injustice of "haves and have-nots" with justice through a socialistic state → applied in USSR).
+
+#### 13.2 Liberty
+
+*   **Liberty = Absence of restraints** (restrictions/constraints).
+*   **NOT absolute** → *"Absolute liberty is no liberty at all"*
+    *   Absolute liberty → everyone does whatever they want → **chaos** → **Matsya Nyaya** (Law of the Fish Kingdom: bigger fish eats smaller fish = might is right) → cannot be promoted in any society.
+*   Liberty exists with **reasonable restrictions** — restrictions that are logical, rational, and have a clear objective behind them.
+*   **Liberty = Absence of restraints + Reasonable restrictions**
+
+##### Five Types of Liberty in the Preamble
+
+| Liberty | Definition | Constitutional Provision |
+|---------|------------|------------------------|
+| **Thought** | **Mental manifestation/manipulation of an idea** — not every idea is a thought; only ideas where you apply your mind, energy, and critical thinking become thoughts. Liberty exercised **inside** you. Thoughts CAN be regulated (education, parenting = regulation of thoughts). *"You become what you think."* | Article 19 |
+| **Expression** | **Outward manifestation of thought** — putting your internal thought outside. Modes: speech, writing, painting, singing, dancing, wearing a band, even **silence** (SC: silence is expression; strongest tool — "Mothers have PhD in silence treatment"). | Article 19 |
+| **Belief** | **A concretely held opinion** — backed by either scientific explanation OR experience. (e.g. "I believe this is a pen" = scientific; "I believe in my parents" = experience-based) | Articles 25–28 |
+| **Faith** | **A belief in the religious direction** — "I have faith in God" (faith is always religious direction) vs. "I believe in my parents" (belief, not faith) | Articles 25–28 |
+| **Worship** | **The rituals, customs, ceremonies related to a particular religion** | Articles 25–28 |
+
+> [!IMPORTANT]
+> These are **NOT synonyms** — they are completely different terms. The Preamble is one of the most **finely worded documents** in the world.
+
+##### Negative Liberty vs Positive Liberty
+
+| | **Negative Liberty** | **Positive Liberty** |
+|---|---|---|
+| **Role of State** | **Reduced** — stop the state from interfering | **Promoted** — state actively helps individuals grow |
+| **Meaning** | Absence of restraints only | State ensures growth of individuals |
+| **Examples** | Western Secularism, Fundamental Rights (stop state from entering personal arena) | Indian Secularism, DPSPs (promote state to do something for you) |
+
+> In India, liberty in the Preamble means **positive liberty** — state helping us to grow to our optimum potential (not just "leave us alone").
+> **UPSC 2016 Prelims Q:** What is the meaning of the term liberty in the Preamble? → It is the state helping us so we can grow to our optimum potential (transactional → **transformative** Constitution).
+
+#### 13.3 Equality
+
+*   Equality = **Non-discrimination**.
+
+| | **Western Concept** | **Indian Concept (Ambedkar)** |
+|---|---|---|
+| **Focus** | Equality of **Opportunities** (future-focused) | Equality of **Status AND Opportunities** |
+| **Presumption** | Society is already equally placed | Society is **NOT** equally placed |
+| **Status** | Not addressed | **Background** matters — unless you address historical inequality, future equality is half-hearted |
+| **Constitutional basis** | — | Equality of Status → basis for **Reservation** (affirmative discrimination) |
+
+*   **Opportunities** → what will be offered in the future.
+*   **Status** → background of people.
+*   Dr. Ambedkar: Writing equality as just "equality of opportunities" won't be fairness to Indians → inserted **"equality of status and opportunities"**.
+*   Reservation gets its **constitutional mandate** from equality of status.
+*   **Unity & Integrity of the Nation** — "Integrity" was added by **42nd CAA, 1976**. Integrity = a **boundary concept** (challenge to integrity = attack on borders).
+
+#### 13.4 Fraternity
+
+*   **Fraternity** = not just brotherhood/sisterhood, but **Bandhutvam** (Hindi Preamble) = companionship.
+*   Friendship is the **only relationship based on equality** (no hierarchy, no equations). That companionship/friendship feeling is what was intended.
+*   Fraternity = **Psychological sense of belongingness** — "We all Indians are brothers and sisters" does NOT literally make your mother your sister; it promotes a **feeling of oneness**.
+
+> **Oneness means: Our destiny is collective.**
+> We are all connected in the same thread of the social fabric → what happens to you impacts everyone, including strangers in Delhi Metro.
+
+*   **Fraternity assures:**
+    1.  **Dignity of Individuals** — self-respect; citizens are dignified people, not slaves.
+    2.  **Unity of the Nation** — togetherness, united we stand.
+    3.  **Integrity of the Nation** *(added by 42nd CAA, 1976)* — boundary concept; borders are protected.
+
+##### Why is Fraternity important? (Ambedkar's argument)
+
+*   Justice, Liberty, Equality can be achieved **top-down** through State policies alone.
+*   But Fraternity makes these three values realized in a **bottom-up process** — even when the State is NOT watching.
+*   Example: In a closed classroom with no State presence, why do we still treat each other with equality, liberty, and fairness? → Because of **Fraternity**.
+*   Fraternity is the only value that **internalizes** the other three aspirations into society.
+
+---
+
+## Part I — Union & its Territories (Articles 1–4)
+
+> **Date:** 16 August 2026 (Lecture 04 continued)
+
+*   One of the **smallest** parts of the Constitution — just **4 Articles** (Articles 1 to 4).
+*   But the **understanding** derived is enormous — sets the **tone** of Indian polity.
+*   **Core Feature:** India is a **Federal Polity with Unitary Bias**.
+
+| Federal Features (Division of Power — DOP) | Unitary Features (Concentration of Power — COP) |
+|---|---|
+| Written Constitution | Single Constitution |
+| Dual Government (Centre + State) | Single Citizenship |
+| Bicameralism | Central Govt much more powerful than State Govt |
+| Independent Judiciary | — |
+
+---
+
+### Article 1 — Name & Territory of India
+
+#### Article 1(1): Official Name & Polity
+
+> **"India, that is Bharat, shall be a Union of States."**
+
+##### Two Pieces of Information
+
+**1. Official Name of the Country**
+*   Two official names: **India** and **Bharat** — both equally valid, user's choice.
+*   India ← Greeks called us "Indica".
+*   Bharat ← ancient word "Bharat Varsha".
+*   Constituent Assembly debate: One group wanted "India" (historical), another wanted "Bharat" (ancient roots). **Nehru:** *"There are better things to fight in life than the name. Let's name it both."*
+*   **NOT official names:** Hindustan, Aryavarta, Jambudweep, Akhand Bharat.
+
+**2. Nature of Polity — Union**
+*   **"Union"** = Unitary Polity → power focused and concentrated in Central Government.
+*   **"of States"** (plural) → at least 2+ states exist at any time → State governments also exist.
+*   But the **Central Government** is much more powerful than State Governments.
+
+##### Union of India (UoI)
+
+*   **UoI = Σ (all States)** → 28 states = Union of India.
+*   **UoI does NOT include Union Territories.**
+
+##### Centre-State Relationship (Informal Analogy)
+
+| Entity | Analogy | Relationship |
+|--------|---------|-------------|
+| **Centre & State** | Husband & Wife | Must cooperate, coordinate, co-act. But two independent entities → friction also exists. |
+| **Union Territories** | Children | Whatever "Papa" (Central Govt) says, UT does. UTs = **Union's Territories** — whatever Union wants, it can do with them. |
+
+> [!TIP]
+> When confused about Delhi UT (can Delhi govt do it or Central govt?) → remind yourself: UTs are like children → whatever Papa (Central Govt) says, UT does.
+
+#### Article 1(2): States & UTs Listed in Schedule I
+
+*   **All States and UTs** are listed in **Schedule I** of the Constitution.
+*   Currently: **28 States** + **8 Union Territories**.
+
+#### Article 1(3): Territory of India (ToI)
+
+> **ToI = Σ States + Σ UTs + Any Acquired Territory**
+
+*   Currently: 28 States + 8 UTs + 0 acquired = **ToI = 28 + 8 = 36 entities**.
+*   India is sovereign → can **acquire or cede** territory.
+
+##### ToI vs UoI — Critical Distinction
+
+| | **Union of India (UoI)** | **Territory of India (ToI)** |
+|---|---|---|
+| **Includes** | States only | States + UTs + Acquired territories |
+| **Land mass** | Smaller | **Larger** |
+| **Relationship** | ToI ⊃ UoI (Territory of India is a **superset** of Union of India) |
+
+---
+
+### Why "Union" and NOT "Federation"?
+
+#### The USA Story — Federation by Agreement
+
+1.  **1774:** War of Independence began in Northern America (colonized by Europeans).
+2.  **13 colonies** achieved independence.
+3.  **Two options:** Grow as 13 independent countries OR come together as one country.
+4.  Under **George Washington**, they chose: *"United we stand, divided we fall."*
+5.  13 → eventually **50 states** signed an **agreement** to come together.
+6.  This **agreement** = **Constitution of USA (1787)**.
+7.  **1787** = birth year of USA. Before 1787, no such entity as "United States of America" existed.
+8.  **Key principle:** These states came together applying their **free will**.
+
+> **USA = Indestructible Union of Indestructible States**
+> (Supreme Court of USA ruling after Civil War / Abraham Lincoln era: States philosophically have free will, BUT to secede, a state's forces must **first defeat the combined forces of the Union** → practically impossible → neither the Union nor any individual state can be broken.)
+
+#### The India Story — Union by Consolidation (No Agreement)
+
+**India has NO birth year** — unlike USA. India existed on maps across all centuries (ancient, medieval, modern).
+
+##### How India was Formed
+
+1.  **15 August 1947:** Indian Independence Act declares independence → creates **two Dominions**: Dominion of India & Dominion of Pakistan.
+2.  **Two types of territories** in colonial India:
+    *   **British Provinces** (bigger, ruled directly by governors under viceroy).
+    *   **Princely States** (~562 kingdoms, ruled by kings).
+3.  **Only British Provinces** got independence on 15 Aug 1947.
+4.  **Princely States** were given 3 choices: Join India, Join Pakistan, or remain Free/Independent.
+5.  India & Pakistan **cut down** the third choice → either join India or Pakistan.
+
+##### Informal Understanding for Integration
+
+| Logic | India | Pakistan |
+|-------|-------|---------|
+| **Religious Composition** | Hindu-majority areas → India | Muslim-majority areas → Pakistan |
+| **Geographical Continuity** | Mainland India | Eastern + Northwestern quadrant |
+
+##### India's Policy Against Pakistan
+
+> **"India to be as big as possible; Pakistan to be as small as possible."**
+> — Sardar Patel, Nehru & Lord Mountbatten (who was **heavily biased** in favour of India).
+
+Mountbatten publicly announced: *"For a prosperous, stable, and better future, princely states should join India."* — A biased statement from an outgoing British Viceroy.
+
+##### Three Problematic Princely States
+
+| State | Problem | Resolution |
+|-------|---------|------------|
+| **Hyderabad** | Nizam (Muslim ruler, close to Muslim League) wanted to join Pakistan despite being in the **centre of mainland India** (wanted Goa ports to reach Pakistan) | **Sardar Patel happened to Hyderabad.** Military operation → Hyderabad became integral part of India within days. |
+| **Junagadh** | Hindu-majority population with Muslim ruler. Ruler vacillated, was being wooed by Muslim League. Sardar Patel called to say he's visiting → next morning, king **fled to Pakistan with his two favourite dogs**, leaving the queen behind (3,000 pet dogs, 700 imported breeds, each with own room + security guard + telephone!) | **Sardar Patel happened to Junagadh.** Integrated within days. |
+| **Jammu & Kashmir** | Muslim-majority population with Hindu ruler (Raja Hari Singh). Initial informal understanding = should fall to Pakistan. | Pakistan attacked using tribal forces → Raja Hari Singh rushed to Sardar Patel → *"I need India's army but I have no standing army"* → Patel: *"Sign the paper and go"* → **Instrument of Accession** signed → J&K became integral part of India. |
+
+##### Strategic Reasons for J&K
+
+*   **Buffer state** made by nature (terrain) — protects Delhi.
+*   Junction of 3 countries (India, Afghanistan, Pakistan).
+*   If J&K falls to Pakistan → Pakistan would fight on the borders of Delhi, not 600 km away.
+*   **Personal reason:** Nehru was a Kashmiri Pandit with ancestral house in Kashmir.
+*   **Demographic reason:** J&K is not wholly Muslim-majority — southern Jammu is Hindu-majority.
+*   **Principled reason:** India was **never made on the basis of religion** — Maulana Azad, standing at Jama Masjid Delhi: *"I am as Muslim as I am Indian. These are two mutually inclusive identities, not exclusive."*
+
+#### Dr. Ambedkar's Reasoning for "Union" over "Federation"
+
+1.  **Federation** ← root word **Foedus** = agreement.
+2.  In India, there was **no agreement** between centre and states → states were consolidated by hook or crook (*Saam, Daam, Dand, Bhed*).
+3.  If free will exists (as in USA federation) → states can **secede** → risk of **civil war** (as happened in USA).
+4.  India, a **newborn democracy**, could NOT afford civil war → therefore **no free will** for states → all power concentrated in the Centre.
+5.  A political setup with **concentration of power in the Centre** = **Union** → hence the word "Union" is used, not "Federation".
+
+> **India = Indestructible Union with Destructible States**
+> — Nothing happens to India, but there is **no guarantee of territorial integrity of any state**.
+> States will come and go. What remains is the **idea of India**.
+
+##### Article 1 — Key Takeaways
+
+| # | Point |
+|---|-------|
+| 1 | Union of India includes **only states**, not UTs |
+| 2 | There is **no element of free will** with states in India (unlike USA) |
+| 3 | The relationship between Centre and States is **heavily inclined in favour of the Centre** |
+| 4 | The Centre can do everything with the states, whereas the states cannot do anything with the Centre |
+| 5 | USA = Indestructible Union **with** Indestructible States; India = Indestructible Union **with** Destructible States |
+
+> **Next class continues with Article 2 — Admission & Establishment of New States.**
+
+---
+
+
 
 ## Contemporary Legal & Constitutional Developments (August 2026)
 
@@ -822,4 +1210,5 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 
 <!-- 2026-08-07: Corrected lecture dates for Polity Lectures 01, 02 & 03 to 3–5 August 2026 (L01: 3 Aug, L02: 4 Aug, L03: 5 Aug). -->
 <!-- 2026-08-11: Enriched with 11 August 2026 legal/constitutional developments (PMLA Double Jeopardy ruling, Tribunals Reforms Bill 2026 / NTC, Official Language Art 343 & Census data). -->
+<!-- 2026-08-16: Added Lecture 04 content — Indian Secularism (Gandhi's Framework, Sarva Dharma Sambhavah, France Laïcité, State interference justification), Democracy (Direct/Indirect, Presidential/Parliamentary), Republic (Monarchy contrast, significance), Preamble Aspirations (Justice from Russian Rev, Liberty with TEBFW + positive/negative liberty, Equality of Status & Opportunities, Fraternity as Bandhutvam/oneness/bottom-up), Part I Union & its Territories (Art 1: Name, UoI vs ToI, Centre-State analogy, USA federation vs India union, 3 problematic princely states, Ambedkar's reasoning for "Union" over "Federation", Indestructible Union with Destructible States). -->
 
