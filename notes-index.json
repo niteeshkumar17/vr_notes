@@ -33,6 +33,18 @@
       "title": "Article 142"
     },
     {
+      "file": "Article_148.md",
+      "title": "Article 148"
+    },
+    {
+      "file": "Article_149.md",
+      "title": "Article 149"
+    },
+    {
+      "file": "Article_151.md",
+      "title": "Article 151"
+    },
+    {
       "file": "Article_16.md",
       "title": "Article 16"
     },
@@ -138,11 +150,11 @@
     },
     {
       "file": "Article_39b.md",
-      "title": "Article 39B"
+      "title": "Article 39b"
     },
     {
       "file": "Article_39c.md",
-      "title": "Article 39C"
+      "title": "Article 39c"
     },
     {
       "file": "Article_43.md",
@@ -170,7 +182,7 @@
     },
     {
       "file": "Article_51A_g.md",
-      "title": "Article 51A G"
+      "title": "Article 51A g"
     },
     {
       "file": "Article_72.md",
@@ -235,6 +247,10 @@
       "title": "Current Affairs"
     },
     {
+      "file": "August_2026/2026-08-16_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
       "file": "July_2026/2026-07-28_Current_Affairs.md",
       "title": "Current Affairs"
     },
@@ -254,13 +270,13 @@
   "GS_Economy_VR_Notes": [
     {
       "file": "01_Introduction_and_National_Income_Basics.md",
-      "title": "Introduction And National Income Basics"
+      "title": "Introduction and National Income Basics"
     }
   ],
   "GS_Geography_VR_Notes": [
     {
       "file": "01_Fundamentals_of_Geography.md",
-      "title": "Fundamentals Of Geography"
+      "title": "Fundamentals of Geography"
     },
     {
       "file": "02_Geomorphology.md",
@@ -288,11 +304,11 @@
     },
     {
       "file": "Polity_Lec1_AbheyKumar_Strategy_Constitution_President.md",
-      "title": "Polity Lec1 Abheykumar Strategy Constitution President"
+      "title": "Polity Lec1 AbheyKumar Strategy Constitution President"
     },
     {
       "file": "Polity_Lec2_AbheyKumar_President.md",
-      "title": "Polity Lec2 Abheykumar President"
+      "title": "Polity Lec2 AbheyKumar President"
     }
   ]
 }

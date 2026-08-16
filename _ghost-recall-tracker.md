@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 * **Today's Date:** 2026-08-16
-* **Active Micro-Topics:** 74
+* **Active Micro-Topics:** 76
 * **Overall Database Mastery:** 47.2% 📈
 * **Today's Recall Completed:** 7/7 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 4 (Current Affairs Aug 13: Ladakh Glaciers, Draft NFSA Bill, Kerala Name Change/NCDC, Mines & Minerals Bill)
+* **New Topics Ingested Today:** 2 (Current Affairs Aug 16: CAG Audit of Green India Mission & NAPCC/NDC Targets)
 * **Weekly Backlog:** 0
 
 ---
@@ -132,6 +132,8 @@
 | CA-260813-02 | Draft NFSA Bill 2026 (AAY 7kg/Capita Cap & Dietary Diversification) | 2 | ★★★★★ | Day 1 | 2026-08-15 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `AAY 35kg Protection` $\leftrightarrow$ `ICMR 45% Calorie Rule` $\leftrightarrow$ `Double Burden of Malnutrition` |
 | CA-260813-03 | Kerala (Alteration of Name) Bill 2026 & NCDC Mandate Expansion | 1 | ★★★★☆ | Day 1 | 2026-08-15 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 3 State Renaming` $\leftrightarrow$ `Keralam Assembly Resolution` $\leftrightarrow$ `NCDC Direct Cooperative Loans` |
 | CA-260813-04 | Mines & Minerals (Dev & Reg) Amendment Bill 2026 & Mineral Taxation Federalism | 2 | ★★★★★ | Day 2 | 2026-08-18 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-16 | Fast 🟢 | `Mineral Taxation Federalism` $\leftrightarrow$ `MMDR Act 1957` $\leftrightarrow$ `Uniform Fiscal Framework` $\leftrightarrow$ `Entry 49 vs 54` |
+| CA-260816-01 | CAG Audit of Green India Mission (GIM) Shortfalls & Failure Modes | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CAG Art 148-151` $\leftrightarrow$ `GIM 91-97% Shortfall` $\leftrightarrow$ `Silo Failure (CAMPA/MGNREGS)` |
+| CA-260816-02 | Green India Mission (GIM) Targets, NAPCC & India's NDC Carbon Sink | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NAPCC 8 Missions` $\leftrightarrow$ `10 Mha Target` $\leftrightarrow$ `NDC 2.5-3.0 Gt CO2e` $\leftrightarrow$ `Paris Agreement` |
 
 ---
 
