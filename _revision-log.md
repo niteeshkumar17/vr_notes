@@ -24,6 +24,16 @@
 
 *(Most recent first)*
 
+### Session 12 — 2026-08-16
+- **Subject:** GS_History, GS_Geography, GS_Economy, GS_Polity, Current Affairs
+- **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
+- **Score:** 22.68 / 30.00 (Net Score: +24.00 - 1.32 = 22.68 | Accuracy: 85.71% — 12/14 correct | 2 Incorrect | 1 Unattempted)
+- **Mains Answer Score:** 0 / 10 (Not attempted)
+- **Strengths:** Flawless recall on Later Mughal Court Factions (`HIS-01-01`), 1717 Farrukh Siyar Farman Dastak corporate scope (`MST-005` Verified), Awadh Treaties & Capital Shift (`MST-004` Verified), Treaty of Amritsar 1809 scope (`MST-006` Verified), Anglo-Mysore & Cultural Resistance timeline, Bengal Mal Jismani & Dadni systems, Charter Act 1833 Law Commission Section 53 (`MST-015` Verified), Earth's Atmosphere Degassing (`MST-014`/`MST-018` Verified), Production Taxes vs Product Taxes (`MST-011` Verified), SC 9-Judge Mineral Taxation Entry 49/54 (`MST-017` Verified), NFSA & ICMR-NIN nutrition recommendations, and Article 3 procedure.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-016 / Catalysts for Indian Nationalism:* Lowering of ICS exam age to 19 (Lytton, 1876) along with Vernacular Press Act / Arms Act and Ilbert Bill was a direct trigger (`MST-016` Repeat Error ⚠️).
+  - *MST-019 / Glaciology & Drainage Basin Trap:* Zanskar glaciers drain into the Indus River Basin, NOT the Ganga River Basin.
+
 ### Session 11 — 2026-08-15
 - **Subject:** GS_History, GS_Geography, GS_Economy, GS_Polity, Current Affairs
 - **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
