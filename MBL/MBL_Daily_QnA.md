@@ -637,5 +637,37 @@
 
 ---
 
+## 📅 16 August 2026
+
+### Q17. Article 20(2) Double Jeopardy vs Section 300 CrPC / BNSS (Autrefois Acquit & Convict)
+**Source Date:** 2026-08-16 08:26 PM | **Subject:** Polity & Criminal Jurisprudence
+
+1. **Question:** What is the exact scope of protection against Double Jeopardy under Article 20(2) of the Indian Constitution, and what are its two mandatory prerequisites?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Article 20(2) Constitutional Protection:** Article 20(2) guarantees protection against Double Jeopardy (*nemo debet bis vexari*) strictly stating: *"No person shall be prosecuted and punished for the same offence more than once."*
+  - **Two Mandatory Prerequisites:**
+    1. The person must have been **both prosecuted AND punished** in the earlier proceeding (*autrefois convict*). If merely prosecuted and acquitted/discharged without punishment, Article 20(2) does not apply.
+    2. The subsequent prosecution must be for the **exact same offence** before a court of law or judicial tribunal (not departmental/administrative bodies).
+
+</details>
+
+2. **Question:** How does Section 300 of the Code of Criminal Procedure (CrPC) / BNSS provide broader protection than Article 20(2) of the Constitution?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Target Answer / Key Concepts:**
+  - **Broader Statutory Protection (*Autrefois Acquit* & *Autrefois Convict*):** Section 300 of the CrPC / BNSS provides wider protection than Article 20(2) because it bars a second trial not only when a person was previously convicted (*autrefois convict*), but also when a person was previously **acquitted** (*autrefois acquit*) by a court of competent jurisdiction.
+  - **Constitutional vs Statutory Scope:** Article 20(2) only protects against a second punishment after conviction (*autrefois convict*), whereas Section 300 CrPC / BNSS bars a second trial for the same offence even after an acquittal.
+
+</details>
+
+---
+
+<!-- 2026-08-16: Added Nik's active recall questions for Article 20(2) Double Jeopardy vs Section 300 CrPC / BNSS (Autrefois Acquit & Convict). -->
 <!-- 2026-08-09: Added Nik's active recall questions for DPDP Act, Art 275/282, Ramsar Buffer, and Residency Rules. -->
 <!-- 2026-08-08: Reverted auto-generated questions. Enforced rule: Only questions explicitly provided by Nik shall be added to MBL. -->
