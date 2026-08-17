@@ -4,12 +4,12 @@
 > Morning Control Center (4:30 AM – 6:00 AM). Self-Optimizing Learning Engine (§14).
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-08-17
+*   **Today's Date:** 2026-08-18
 *   **Active Micro-Topics:** 121
-*   **Overall Database Mastery:** 49.8% 📈
-*   **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
+*   **Overall Database Mastery:** 54.2% 📈
+*   **Today's Recall Completed:** 11 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batch 1 Complete)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 45
+*   **New Topics Ingested Today:** 0
 *   **Weekly Backlog:** 0
 
 ---
@@ -152,17 +152,17 @@
 ### Polity (Abhey Kumar — Lecture 5: Part I Articles 2-4, Territorial Arrangement & State Reorganization)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| POL-05-01 | Art 2: Admission vs Establishment (External Arrangement — Useless not Meaningless) | 2 | ★★★★☆ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Self-Contained Unit` $\leftrightarrow$ `Admission` $\leftrightarrow$ `Establishment` $\leftrightarrow$ `Art 2 Never Used` |
-| POL-05-02 | Art 3: Internal Arrangement (5 Powers — Form/Abolish/Merge/Alter/Rename, States includes UTs) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 3 Powers` $\leftrightarrow$ `Destructible States` $\leftrightarrow$ `UTs Included` $\leftrightarrow$ `Simple Majority` |
-| POL-05-03 | Pre-Condition 1: Recommendation of President = Government Initiative (Public vs Private Member) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Recommendation of President` $\leftrightarrow$ `Govt Initiative` $\leftrightarrow$ `MHA` $\leftrightarrow$ `Public vs Private Member` |
-| POL-05-04 | Pre-Condition 2: Opinion of States (Non-Binding, 30 Days Convention, Federal-Unitary Balance) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Opinion Not Binding` $\leftrightarrow$ `30 Days Convention` $\leftrightarrow$ `National vs Regional Interest` $\leftrightarrow$ `No Free Will (Ambedkar)` |
-| POL-05-05 | Pre-Conditions: UT Exception (Only if at least 1 State involved; Centre-UT = Unitary) | 1 | ★★★★☆ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Centre-UT Unitary` $\leftrightarrow$ `Centre-State Federal` $\leftrightarrow$ `DD DNH Merger` |
-| POL-05-06 | Why States Are Created: Administrative Convenience of Centre (Simple Majority Logic) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Admin Convenience` $\leftrightarrow$ `Good Governance` $\leftrightarrow$ `Simple Majority` $\leftrightarrow$ `Political/Cultural/Economic Influence` |
-| POL-05-07 | Art 4(1) & 4(2): Protection Rule (Schedule I & IV Auto-Amendment, Not Art 368) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Schedule I (Names)` $\leftrightarrow$ `Schedule IV (RS Seats)` $\leftrightarrow$ `Art 4 Protection = Simple Majority` $\leftrightarrow$ `RS Seats Direct = Special` |
-| POL-05-08 | 3 Modalities of Territorial Arrangement (Acquire/Cede=Special, Internal=Simple, Boundary=Executive) | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BU 1960` $\leftrightarrow$ `MB 1969` $\leftrightarrow$ `Art 2&3 Evolution` |
-| POL-05-09 | Re Berubari Union 1960 (Cede/Acquire under Sovereign Power → Special Majority → Art 2 Becomes Useless) | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BU 1960` $\leftrightarrow$ `Ceding Bengal to East Pakistan` $\leftrightarrow$ `Sovereign Power` $\leftrightarrow$ `Acquire Subsumes Admission` |
-| POL-05-10 | Maganbhai 1969 (Boundary Settlement = Executive Action, Gujarat Creeks, Tribunal Awards) | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gujarat Creek Dispute` $\leftrightarrow$ `Int'l Tribunal` $\leftrightarrow$ `Boundary Settlement ≠ Ceding` $\leftrightarrow$ `Executive Action` |
-| POL-05-11 | India-Bangladesh LBA 2015 (100th CAA, Third-Order Enclaves, Exchange of Enclaves) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `100th CAA 2015` $\leftrightarrow$ `Third-Order Enclaves` $\leftrightarrow$ `Zamindars Chess` $\leftrightarrow$ `Acquire+Cede Simultaneously` |
+| POL-05-01 | Art 2: Admission vs Establishment (External Arrangement — Useless not Meaningless) | 2 | ★★★★☆ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Self-Contained Unit` $\leftrightarrow$ `Admission` $\leftrightarrow$ `Establishment` $\leftrightarrow$ `Art 2 Never Used` |
+| POL-05-02 | Art 3: Internal Arrangement (5 Powers — Form/Abolish/Merge/Alter/Rename, States includes UTs) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Art 3 Powers` $\leftrightarrow$ `Destructible States` $\leftrightarrow$ `UTs Included` $\leftrightarrow$ `Simple Majority` |
+| POL-05-03 | Pre-Condition 1: Recommendation of President = Government Initiative (Public vs Private Member) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Recommendation of President` $\leftrightarrow$ `Govt Initiative` $\leftrightarrow$ `MHA` $\leftrightarrow$ `Public vs Private Member` |
+| POL-05-04 | Pre-Condition 2: Opinion of States (Non-Binding, 30 Days Convention, Federal-Unitary Balance) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Opinion Not Binding` $\leftrightarrow$ `30 Days Convention` $\leftrightarrow$ `National vs Regional Interest` $\leftrightarrow$ `No Free Will (Ambedkar)` |
+| POL-05-05 | Pre-Conditions: UT Exception (Only if at least 1 State involved; Centre-UT = Unitary) | 1 | ★★★★☆ | Day 3 | 2026-08-21 | 100% | High 🌟 | 96% | 93% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Centre-UT Unitary` $\leftrightarrow$ `Centre-State Federal` $\leftrightarrow$ `DD DNH Merger` |
+| POL-05-06 | Why States Are Created: Administrative Convenience of Centre (Simple Majority Logic) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Admin Convenience` $\leftrightarrow$ `Good Governance` $\leftrightarrow$ `Simple Majority` $\leftrightarrow$ `Political/Cultural/Economic Influence` |
+| POL-05-07 | Art 4(1) & 4(2): Protection Rule (Schedule I & IV Auto-Amendment, Not Art 368) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Schedule I (Names)` $\leftrightarrow$ `Schedule IV (RS Seats)` $\leftrightarrow$ `Art 4 Protection = Simple Majority` $\leftrightarrow$ `RS Seats Direct = Special` |
+| POL-05-08 | 3 Modalities of Territorial Arrangement (Acquire/Cede=Special, Internal=Simple, Boundary=Executive) | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `BU 1960` $\leftrightarrow$ `MB 1969` $\leftrightarrow$ `Art 2&3 Evolution` |
+| POL-05-09 | Re Berubari Union 1960 (Cede/Acquire under Sovereign Power → Special Majority → Art 2 Becomes Useless) | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `BU 1960` $\leftrightarrow$ `Ceding Bengal to East Pakistan` $\leftrightarrow$ `Sovereign Power` $\leftrightarrow$ `Acquire Subsumes Admission` |
+| POL-05-10 | Maganbhai 1969 (Boundary Settlement = Executive Action, Gujarat Creeks, Tribunal Awards) | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Gujarat Creek Dispute` $\leftrightarrow$ `Int'l Tribunal` $\leftrightarrow$ `Boundary Settlement ≠ Ceding` $\leftrightarrow$ `Executive Action` |
+| POL-05-11 | India-Bangladesh LBA 2015 (100th CAA, Third-Order Enclaves, Exchange of Enclaves) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `100th CAA 2015` $\leftrightarrow$ `Third-Order Enclaves` $\leftrightarrow$ `Zamindars Chess` $\leftrightarrow$ `Acquire+Cede Simultaneously` |
 | POL-05-12 | State Reorganization: 600→29→20→36 (Sardar Patel Integration, Four-fold to Two-fold) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Part A/B/C/D States` $\leftrightarrow$ `1950 (29)` $\leftrightarrow$ `1956 (20)` $\leftrightarrow$ `2026 (36)` |
 | POL-05-13 | Linguistic States: INC PCCs, P. Sriramulu, Fazal Ali SRC (Accepted Language, Rejected One-Lang-One-State) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `INC PCCs Language` $\leftrightarrow$ `P. Sriramulu 56th Day` $\leftrightarrow$ `Andhra Pradesh 1953` $\leftrightarrow$ `SRC 2 Recommendations` |
 
