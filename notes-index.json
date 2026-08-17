@@ -65,6 +65,10 @@
       "title": "Article 164"
     },
     {
+      "file": "Article_172.md",
+      "title": "Article 172"
+    },
+    {
       "file": "Article_19.md",
       "title": "Article 19"
     },
@@ -153,6 +157,10 @@
       "title": "Article 343"
     },
     {
+      "file": "Article_356.md",
+      "title": "Article 356"
+    },
+    {
       "file": "Article_368.md",
       "title": "Article 368"
     },
@@ -194,7 +202,7 @@
     },
     {
       "file": "Article_51A_g.md",
-      "title": "Article 51A g"
+      "title": "Article 51A G"
     },
     {
       "file": "Article_54.md",
@@ -227,6 +235,10 @@
     {
       "file": "Article_82.md",
       "title": "Article 82"
+    },
+    {
+      "file": "Article_83.md",
+      "title": "Article 83"
     }
   ],
   "Current_Affairs": [
@@ -275,6 +287,10 @@
       "title": "Current Affairs"
     },
     {
+      "file": "August_2026/2026-08-17_Current_Affairs.md",
+      "title": "Current Affairs"
+    },
+    {
       "file": "July_2026/2026-07-28_Current_Affairs.md",
       "title": "Current Affairs"
     },
@@ -294,13 +310,13 @@
   "GS_Economy_VR_Notes": [
     {
       "file": "01_Introduction_and_National_Income_Basics.md",
-      "title": "Introduction and National Income Basics"
+      "title": "Introduction And National Income Basics"
     }
   ],
   "GS_Geography_VR_Notes": [
     {
       "file": "01_Fundamentals_of_Geography.md",
-      "title": "Fundamentals of Geography"
+      "title": "Fundamentals Of Geography"
     },
     {
       "file": "02_Geomorphology.md",

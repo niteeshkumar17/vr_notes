@@ -22,6 +22,9 @@
     *   Register and de-register political parties.
 *   **Landmark Case — Mohinder Singh Gill v. CEC (1978):** SC held that Article 324 gives the EC residuary power to act in situations not covered by specific legislation, to ensure free and fair elections.
 *   **Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023:** Changed the appointment mechanism — Selection Committee now comprises PM, Leader of Opposition in Lok Sabha, and a Union Cabinet Minister nominated by PM.
+*   <span style="color: #e53e3e;">**Electoral Machinery Hierarchy (RPA 1950):** ECI (Art 324) &rarr; Chief Electoral Officer (CEO — State/UT level, Sec 13A) &rarr; District Election Officer (DEO — Sec 13AA) &rarr; Electoral Registration Officer (ERO — Assembly level, Sec 13B) &rarr; Assistant ERO &rarr; Booth Level Officer (BLO — polling station door-to-door enumeration).</span>
+*   <span style="color: #e53e3e;">**Electoral Roll Revision Mechanics (SIR vs SSR):** *Special Summary Revision (SSR)* runs annually based on voluntary claims across 4 qualifying dates; *Special Intensive Revision (SIR)* involves 100% door-to-door physical enumeration by BLOs to purge ghost/duplicate voters and map urban ASD (Absent, Shifted, Dead) electors.</span>
+*   <span style="color: #e53e3e;">**Mandatory Safeguard Against Deletion (Rule 21A, Registration of Electors Rules 1960):** An ERO cannot summarily delete an elector's name from draft rolls; a formal inquiry, individualized show-cause notice, and opportunity of being heard are statutory pre-requisites.</span>
 
 ## Related Articles
 *   [Article 325](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_325.md) — No person to be ineligible for electoral roll on grounds of religion, race, caste, or sex.
@@ -29,3 +32,6 @@
 *   [Article 329](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_329.md) — Bar to interference by courts in electoral matters.
 
 </details>
+
+<!-- 2026-08-17: Enriched with RPA 1950 administrative machinery hierarchy (CEO, DEO, ERO, BLO), SIR vs SSR revision modes, and Rule 21A notice safeguards against deletion. -->
+

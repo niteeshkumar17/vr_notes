@@ -13,9 +13,15 @@ The elections to the **House of the People (Lok Sabha)** and to the **Legislativ
 *   **Disqualification grounds:** Non-residence, unsoundness of mind, crime, corrupt or illegal practice.
 *   The preparation and revision of **electoral rolls** under this Article is supervised by the Election Commission under [Article 324](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_324.md).
 *   **Part XVI** of the Constitution (Articles 324–329) deals with elections.
+*   <span style="color: #e53e3e;">**Four Rolling Qualifying Dates (Election Laws Amendment Act 2021):** Citizens turning 18 qualify for registration on 4 dates annually — January 1, April 1, July 1, and October 1 (amending Section 14(b) of RPA 1950, replacing single Jan 1 date).</span>
+*   <span style="color: #e53e3e;">**Statutory Claims & Objections Forms:** **Form 6** (New registration/inclusion), **Form 7** (Objection to entry / request for deletion), and **Form 8** (Correction of particulars, transposition, shifting of residence, PwD marking).</span>
+*   <span style="color: #e53e3e;">**Jurisprudence on 'Right to Vote':** Held as a statutory right created by RPA 1951 (*N.P. Ponnuswami 1952*, *Kuldip Nayar 2006*), but reaffirmed as an intrinsic democratic constitutional facet flowing from Article 326 in *PUCL (2013 - NOTA)* and *Anoop Baranwal (2023)*.</span>
 
 ## Related Articles
 *   [Article 324](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_324.md) — Superintendence, direction and control of elections vested in ECI.
 *   [Article 325](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_325.md) — No person ineligible for electoral roll on grounds only of religion, race, caste, or sex.
 
 </details>
+
+<!-- 2026-08-17: Enriched with 4 qualifying dates under Sec 14(b) RPA 1950, Forms 6/7/8, and Right to Vote constitutional vs statutory jurisprudence. -->
+

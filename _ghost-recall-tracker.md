@@ -4,13 +4,13 @@
 > Morning Control Center (4:30 AM – 6:00 AM). Self-Optimizing Learning Engine (§14).
 
 ## 📊 Performance & Learning Analytics Dashboard
-* **Today's Date:** 2026-08-17
-* **Active Micro-Topics:** 118
-* **Overall Database Mastery:** 49.8% 📈
-* **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
-* **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 42
-* **Weekly Backlog:** 0
+*   **Today's Date:** 2026-08-17
+*   **Active Micro-Topics:** 121
+*   **Overall Database Mastery:** 49.8% 📈
+*   **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
+*   **Active Learning Gaps Detected:** 0
+*   **New Topics Ingested Today:** 45
+*   **Weekly Backlog:** 0
 
 ---
 
@@ -193,6 +193,9 @@
 | CA-260813-04 | Mines & Minerals (Dev & Reg) Amendment Bill 2026 & Mineral Taxation Federalism | 2 | ★★★★★ | Day 2 | 2026-08-18 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-16 | Fast 🟢 | `Mineral Taxation Federalism` $\leftrightarrow$ `MMDR Act 1957` $\leftrightarrow$ `Uniform Fiscal Framework` $\leftrightarrow$ `Entry 49 vs 54` |
 | CA-260816-01 | CAG Audit of Green India Mission (GIM) Shortfalls & Failure Modes | 2 | ★★★★★ | Day 2 | 2026-08-19 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-17 | Fast 🟢 | `CAG Art 148-151` $\leftrightarrow$ `GIM 91-97% Shortfall` $\leftrightarrow$ `Silo Failure (CAMPA/MGNREGS)` |
 | CA-260816-02 | Green India Mission (GIM) Targets, NAPCC & India's NDC Carbon Sink | 2 | ★★★★★ | Day 2 | 2026-08-19 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-17 | Fast 🟢 | `NAPCC 8 Missions` $\leftrightarrow$ `10 Mha Target` $\leftrightarrow$ `NDC 2.5-3.0 Gt CO2e` $\leftrightarrow$ `Paris Agreement` |
+| CA-260817-01 | Special Intensive Revision (SIR) of Electoral Rolls, ASD Lists & Deletion Safeguards (RPA 1950 & Art 324/326) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 324` $\leftrightarrow$ `Article 326 Adult Suffrage` $\leftrightarrow$ `RPA 1950 Sec 21-23` $\leftrightarrow$ `Rule 21A Safeguard` $\leftrightarrow$ `ASD List` |
+| CA-260817-02 | One Nation One Election (ONOE): Parliamentary Accountability vs Fixed Tenures & Truncated Terms | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Westminster System` $\leftrightarrow$ `Continuous Accountability` $\leftrightarrow$ `Article 75 & 164` $\leftrightarrow$ `Truncated Midterm Terms` $\leftrightarrow$ `Article 356 Misuse` |
+| CA-260817-03 | One Nation One Election (ONOE): Federal Autonomy, Local Narratives & Constitutional Amendments Matrix | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 1 Federalism` $\leftrightarrow$ `National vs Local Narratives` $\leftrightarrow$ `MCC Governance Myth` $\leftrightarrow$ `Articles 83/85/172/174/356` $\leftrightarrow$ `Art 368(2) Ratification` |
 
 ---
 
