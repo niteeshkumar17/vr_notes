@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 * **Today's Date:** 2026-08-17
-* **Active Micro-Topics:** 85
+* **Active Micro-Topics:** 100
 * **Overall Database Mastery:** 52.4% 📈
 * **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 9
+* **New Topics Ingested Today:** 24
 * **Weekly Backlog:** 0
 
 ---
@@ -112,6 +112,29 @@
 | POL-01-06 | Government = 3 Functions (Goal + Execution + Correction) | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Legislature` $\leftrightarrow$ `Executive` $\leftrightarrow$ `Judiciary` $\leftrightarrow$ `Separation of Powers` |
 | POL-01-07 | Art 52 & 53: President as Head of Executive & Delegated Power | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `Art 52` $\leftrightarrow$ `Art 53` $\leftrightarrow$ `Art 74 Aid & Advice` $\leftrightarrow$ `CoM` |
 | POL-01-08 | Art 58: President Eligibility (Citizen + 35yr + LS eligible + No OoP) | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `PYQ 2012/2017/2022` $\leftrightarrow$ `Presidential Election` $\leftrightarrow$ `LS not RS` |
+
+### Polity (Abhey Kumar — Lecture 2: President of India)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-02-01 | Office of Profit (OOP) Origin, Separation of Powers & Art 58 vs 59 | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Office of Profit` $\leftrightarrow$ `Separation of Powers` $\leftrightarrow$ `Executive Accountability` $\leftrightarrow$ `Art 59(2)` |
+| POL-02-02 | Presidential Eligibility (Art 58) & The 4 OOP Exceptions | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 58` $\leftrightarrow$ `OOP Exceptions` $\leftrightarrow$ `President/VP/Governor/Ministers` |
+| POL-02-03 | Conditions of Office (Art 59) & Returning Officers (RO) Matrix | 1 | ★★★★☆ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 59` $\leftrightarrow$ `Auto-vacation of MP/MLA Seat` $\leftrightarrow$ `RO: RS/LS Secy General` |
+| POL-02-04 | Electoral College (Art 54, 70th CAA 1992, Delhi/Puducherry & J&K Status) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 54` $\leftrightarrow$ `Elected MPs/MLAs Only` $\leftrightarrow$ `70th CAA 1992` $\leftrightarrow$ `UTs Status` |
+| POL-02-05 | Value of Vote Formula (Art 55, 1971 Census Freeze & Post-2026 Rule) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 55` $\leftrightarrow$ `MLA Vote Value` $\leftrightarrow$ `MP Vote Value` $\leftrightarrow$ `1971 Census Freeze` |
+| POL-02-06 | PR-STV Mechanics, Quota Calculation & Single Transferable Vote | 3 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `PR-STV System` $\leftrightarrow$ `Preferential Voting` $\leftrightarrow$ `1969 VV Giri 2nd Round` |
+| POL-02-07 | Timing of Election (Art 62), Vacancy & Acting President Succession | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 62` $\leftrightarrow$ `6 Months Rule` $\leftrightarrow$ `VP Dual Role` $\leftrightarrow$ `CJI Hidayatullah 1969` |
+| POL-02-08 | Presidential Election Disputes (Art 71 — SC Exclusive Jurisdiction) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 71` $\leftrightarrow$ `SC Exclusive Jurisdiction` $\leftrightarrow$ `Prospective Invalidation` $\leftrightarrow$ `Locus Standi` |
+| POL-02-09 | Types of Bills (Ordinary, Money, Financial, CA Bill under Art 368) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 110 Money Bill` $\leftrightarrow$ `Financial Bills` $\leftrightarrow$ `Article 368 CA Bill` $\leftrightarrow$ `Appropriation/Finance Bill` |
+| POL-02-10 | Presidential Assent & Veto Powers (Art 111: Absolute & Suspensive) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 111` $\leftrightarrow$ `Absolute Veto (PEPSU 1954)` $\leftrightarrow$ `Suspensive Veto (Kalam 2006)` $\leftrightarrow$ `24th CAA 1971` |
+| POL-02-11 | Pocket Veto Mechanics & Veto Applicability Matrix | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pocket Veto` $\leftrightarrow$ `No Time Limit` $\leftrightarrow$ `Veto Applicability Matrix` |
+
+### Polity (Vajiram Class — Lectures 2 & 3: Salient Features & Preamble Ideals)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-03-01 | Salient Features: 4 Factors for Bulky Constitution & Blend of Rigidity/Flexibility | 2 | ★★★★☆ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `GOI Act 1935` $\leftrightarrow$ `Diversity` $\leftrightarrow$ `Single Constitution` $\leftrightarrow$ `Lawyers Mindset` |
+| POL-03-02 | Salient Features: Constitutional Supremacy with Checks & Balances | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Constitutional Supremacy` $\leftrightarrow$ `Checks & Balances` $\leftrightarrow$ `UK Sovereignty vs US Supremacy` |
+| POL-03-03 | Salient Features: Federal Polity with Unitary Bias (Integrated vs Independent Judiciary) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Division vs Concentration of Power` $\leftrightarrow$ `Integrated vs Independent Judiciary` $\leftrightarrow$ `Sui Generis Federation` |
+| POL-03-04 | Preamble Ideals: Sovereign (Internal/External) & Socialist (Democratic vs Marxist) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Preamble Ideals` $\leftrightarrow$ `Sovereignty` $\leftrightarrow$ `Democratic Socialism` $\leftrightarrow$ `Mixed Economy` |
 
 ### Polity (Abhey Kumar — Lecture 4: Secularism, Preamble & Part I)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
