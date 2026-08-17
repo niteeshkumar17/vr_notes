@@ -17,6 +17,7 @@
 | Current_Affairs | Current Affairs (07 August 2026) | 2026-08-07 | 0 | 0% | 2026-08-08 | New | 2012, 2019, 2024 | SC/ST Creamy Layer stand, SC Ramsar Mining Buffer Order, 12th Handloom Day & Tech 4.0, Kerala Police Reforms, CWG Governance. |
 | Current_Affairs | Current Affairs (08 August 2026) | 2026-08-08 | 0 | 0% | 2026-08-09 | New | 2017, 2019, 2023 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j), India-US Strategic Partnership & Flexible Realism, Pakistan-Turkiye-Saudi Mecca Trilateral Defence Pact. |
 | Current_Affairs | Current Affairs (11 August 2026) | 2026-08-11 | 0 | 0% | 2026-08-12 | New | 2018, 2021, 2024 | PMLA conviction vs Double Jeopardy (Art 20(2)/CrPC 300), English Language Policy (Art 343 & Census data), Tribunals Reforms Bill 2026 & NTC. |
+| GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04: Secularism, Preamble & Part I) | 2026-08-16 | 0 | 0% | 2026-08-17 | New | 2015, 2016, 2021 | Added POL-04-01 to POL-04-09 (Indian Secularism/Gandhi, Democracy, Republic, Justice/Liberty/Equality/Fraternity, Art 1 UoI vs ToI, Indestructible Union). |
 
 ---
 

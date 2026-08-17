@@ -4,12 +4,12 @@
 > Morning Control Center (4:30 AM – 6:00 AM). Self-Optimizing Learning Engine (§14).
 
 ## 📊 Performance & Learning Analytics Dashboard
-* **Today's Date:** 2026-08-16
-* **Active Micro-Topics:** 76
-* **Overall Database Mastery:** 47.2% 📈
-* **Today's Recall Completed:** 7/7 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
+* **Today's Date:** 2026-08-17
+* **Active Micro-Topics:** 85
+* **Overall Database Mastery:** 52.4% 📈
+* **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 2 (Current Affairs Aug 16: CAG Audit of Green India Mission & NAPCC/NDC Targets)
+* **New Topics Ingested Today:** 9
 * **Weekly Backlog:** 0
 
 ---
@@ -28,7 +28,7 @@
 | HIS-03-02 | Third Battle of Panipat (1761) & Aftermath | 2 | ★★★★★ | Day 21 | 2026-08-31 | 92% | High 🌟 | 94% | 90% | 4 | 0 | - | 2026-08-10 | Fast 🟢 | `Ahmad Shah Abdali` $\leftrightarrow$ `Rise of Sikhs` $\leftrightarrow$ `Maratha Loss` |
 | HIS-04-01 | Mysore: Hyder Ali, Dindigul & Tipu Sultan | 2 | ★★★★☆ | Day 14 | 2026-08-28 | 96% | High 🌟 | 98% | 95% | 4 | 0 | - | 2026-08-14 | Fast 🟢 | `Jacobin Club` $\leftrightarrow$ `Treaty of Srirangapatnam` $\leftrightarrow$ `Vellore Fort` |
 | HIS-04-02 | Vellore Mutiny (1806) & Tipu's Family | 2 | ★★★★☆ | Day 3 | 2026-08-09 | 90% | High 🌟 | 91% | 87% | 2 | 0 | - | 2026-08-06 | Fast | `John Cradock` $\leftrightarrow$ `Fateh Hyder` $\leftrightarrow$ `1857 Sepoy Precursor` |
-| HIS-05-01 | Sikh Empire: Ranjit Singh & Treaty of Amritsar (1809) | 1 | ★★★★☆ | Day 7 | 2026-08-17 | 95% | High 🌟 | 96% | 92% | 3 | 0 | - | 2026-08-09 | Fast 🟢 | `Sutlej Boundary` $\leftrightarrow$ `Charles Metcalfe` $\leftrightarrow$ `Anglo-Sikh Wars` |
+| HIS-05-01 | Sikh Empire: Ranjit Singh & Treaty of Amritsar (1809) | 1 | ★★★★☆ | Day 21 | 2026-09-07 | 96% | High 🌟 | 97% | 94% | 4 | 0 | - | 2026-08-17 | Fast 🟢 | `Sutlej Boundary` $\leftrightarrow$ `Charles Metcalfe` $\leftrightarrow$ `Anglo-Sikh Wars` |
 
 ### History (Early Modern India — Phase III–V & Viceroys)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -62,9 +62,9 @@
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | MOD-B1-01 | Nationalism: Definition, Real vs Imagined Debate | 2 | ★★★★★ | Day 2 | 2026-08-15 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Modern Political Thought` $\leftrightarrow$ `Oneness` $\leftrightarrow$ `Nation-State` $\leftrightarrow$ `Harari Sapiens` |
-| MOD-B1-02 | Origin of Nationalism: Europe & America (1776–1848) | 1 | ★★★★☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `American Rev 1776` $\leftrightarrow$ `French Rev 1789` $\leftrightarrow$ `European Rev 1830/1848` $\leftrightarrow$ `Nation-States` |
+| MOD-B1-02 | Origin of Nationalism: Europe & America (1776–1848) | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `American Rev 1776` $\leftrightarrow$ `French Rev 1789` $\leftrightarrow$ `European Rev 1830/1848` $\leftrightarrow$ `Nation-States` |
 | MOD-B1-03 | Nationalism in India: When, Where, Among Whom | 2 | ★★★★★ | Day 2 | 2026-08-15 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Bengal/Bombay/Madras` $\leftrightarrow$ `Middle Educated Class` $\leftrightarrow$ `1860s-80s` $\leftrightarrow$ `Nation in Making (1903)` |
-| MOD-B1-04 | Six Factors for Emergence of Indian Nationalism | 3 | ★★★★★ | Day 2 | 2026-08-17 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-14 | Fast 🟢 | `Admin Unification` $\leftrightarrow$ `Uniform IPC/CrPC` $\leftrightarrow$ `Reform Movements` $\leftrightarrow$ `Economic Exploitation` $\leftrightarrow$ `Liberal Thought` $\leftrightarrow$ `Transport/Communication` |
+| MOD-B1-04 | Six Factors for Emergence of Indian Nationalism | 3 | ★★★★★ | Day 5 | 2026-08-22 | 100% | High 🌟 | 96% | 94% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Admin Unification` $\leftrightarrow$ `Uniform IPC/CrPC` $\leftrightarrow$ `Reform Movements` $\leftrightarrow$ `Economic Exploitation` $\leftrightarrow$ `Liberal Thought` $\leftrightarrow$ `Transport/Communication` |
 
 ### Geography (Fundamentals & Geomorphology)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -75,12 +75,12 @@
 | GEO-02-01 | Global Heat Imbalance & Atmospheric Transport | 2 | ★★★★☆ | Day 7 | 2026-08-08 | 90% | High 🌟 | 89% | 86% | 3 | 0 | - | 2026-08-01 | Fast | `80-20 Heat` $\leftrightarrow$ `Hadley Cell` $\leftrightarrow$ `Latitudinal Deficit` |
 | GEO-02-02 | Subpolar Low Pressure Belt Dynamic Origin | 3 | ★★★★★ | Day 5 | 2026-08-13 | 80% | Rising 📈 | 86% | 80% | 5 | 2 | 2026-08-06 | 2026-08-08 | Improving 🟢 | `Polar Front` $\leftrightarrow$ `Centrifugal Force` $\leftrightarrow$ `Dynamic Belts` |
 | GEO-02-03 | Doldrums, Horse Latitudes & Planetary Winds | 2 | ★★★★☆ | Day 5 | 2026-08-13 | 90% | High 🌟 | 92% | 88% | 4 | 1 | 2026-08-06 | 2026-08-08 | Fast 🟢 | `Coriolis Deflection` $\leftrightarrow$ `Trade Winds` $\leftrightarrow$ `Subtropical High` |
-| GEO-03-01 | Geomorphology Definition & Landform Concepts | 1 | ★★★★☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Scientific Study` $\leftrightarrow$ `4 Dimensions` $\leftrightarrow$ `Complexity Principle` |
+| GEO-03-01 | Geomorphology Definition & Landform Concepts | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Scientific Study` $\leftrightarrow$ `4 Dimensions` $\leftrightarrow$ `Complexity Principle` |
 | GEO-03-02 | Relief, Slope & Base Level Mechanics | 2 | ★★★★★ | Day 2 | 2026-08-11 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast 🟢 | `Absolute Relief` $\leftrightarrow$ `Relative Relief` $\leftrightarrow$ `Valley Deepening` |
 | GEO-03-03 | Endogenic Forces & Crustal Stability | 2 | ★★★★★ | Day 2 | 2026-08-11 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast 🟢 | `Interior Energy` $\leftrightarrow$ `Frequency & Intensity` $\leftrightarrow$ `Irregularity` |
 | GEO-03-04 | Exogenic Forces & Degradation Principle | 2 | ★★★★★ | Day 1 | 2026-08-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Insolation Energy` $\leftrightarrow$ `Levelling Force` $\leftrightarrow$ `Tropical Max` |
 | GEO-03-05 | Aravali vs Himalaya: Endo-Exo Case Study | 2 | ★★★★★ | Day 2 | 2026-08-11 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast 🟢 | `Crustal Stability` $\leftrightarrow$ `Relict Mountains` $\leftrightarrow$ `3 Billion Years` |
-| GEO-03-06 | Davisian Trio & Landform Classification | 1 | ★★★★☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Structure-Process-Time` $\leftrightarrow$ `Size Order` $\leftrightarrow$ `Origin` |
+| GEO-03-06 | Davisian Trio & Landform Classification | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Structure-Process-Time` $\leftrightarrow$ `Size Order` $\leftrightarrow$ `Origin` |
 | GEO-04-01 | Endo Expression: Structural vs Non-Structural & Diastrophism vs Catastrophism | 2 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Landform = Structural Expression` $\leftrightarrow$ `Diastrophism 80%` $\leftrightarrow$ `Catastrophic: EQ/Volcano` |
 | GEO-04-02 | Earth's Factual Profile & Geological Time Scale (4 Eons) | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `4.6 BY` $\leftrightarrow$ `Eon-Era-Period-Epoch` $\leftrightarrow$ `Fe>O>Si>Mg>Al>Ni` |
 | GEO-04-03 | Hadean Eon: Giant Impact, Theia & Moon Formation | 3 | ★★★★★ | Day 2 | 2026-08-12 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Theia 4.5 BY` $\leftrightarrow$ `Moon Formation` $\leftrightarrow$ `Wobbling` $\leftrightarrow$ `Axial Tilt 23.5` |
@@ -93,9 +93,9 @@
 ### Economy (Basics)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| ECO-01-01 | Micro vs Macro Economics & Sectoral Output | 1 | ★★★☆☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Primary/Secondary/Tertiary` $\leftrightarrow$ `Macro Aggregates` |
-| ECO-01-02 | National Income Accounting (GDP, GNP, NNP) | 2 | ★★★★★ | Day 7 | 2026-08-17 | 98% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-10 | Fast 🟢 | `Factor Cost` $\leftrightarrow$ `Market Price` $\leftrightarrow$ `Net Factor Income` |
-| ECO-02-01 | Factors of Production & Factor Payments | 1 | ★★★☆☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Land/Labour/Capital` $\leftrightarrow$ `Entrepreneurship` |
+| ECO-01-01 | Micro vs Macro Economics & Sectoral Output | 1 | ★★★☆☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Primary/Secondary/Tertiary` $\leftrightarrow$ `Macro Aggregates` |
+| ECO-01-02 | National Income Accounting (GDP, GNP, NNP) | 2 | ★★★★★ | Day 21 | 2026-09-07 | 99% | High 🌟 | 98% | 96% | 3 | 0 | - | 2026-08-17 | Fast 🟢 | `Factor Cost` $\leftrightarrow$ `Market Price` $\leftrightarrow$ `Net Factor Income` |
+| ECO-02-01 | Factors of Production & Factor Payments | 1 | ★★★☆☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Land/Labour/Capital` $\leftrightarrow$ `Entrepreneurship` |
 | ECO-02-02 | Nominal vs Real National Income & Base Year | 3 | ★★★★★ | Day 2 | 2026-08-10 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-08 | Fast 🟢 | `Inflation Deflator` $\leftrightarrow$ `Vishwanath Goldar Comm.` |
 | ECO-02-03 | Final vs Intermediate Goods & Depreciation | 2 | ★★★★☆ | Day 2 | 2026-08-10 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-08 | Fast 🟢 | `Double-counting` $\leftrightarrow$ `Gross vs Net NI` |
 | ECO-02-04 | Capital Formation (GDCF) & Expenditures | 3 | ★★★★★ | Day 5 | 2026-08-15 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-10 | Fast 🟢 | `PFCE & GFCE` $\leftrightarrow$ `Change in Stocks` |
@@ -105,13 +105,26 @@
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | POL-01-01 | Constitutionalism & Limited Government (Magna Carta 1215) | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `Magna Carta` $\leftrightarrow$ `King John` $\leftrightarrow$ `Fundamental Rights` $\leftrightarrow$ `Art 13` |
-| POL-01-02 | Polity vs Politics — Definitions & Distinction | 1 | ★★★★☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 96% | 93% | 1 | 0 | - | 2026-08-14 | Fast 🟢 | `Policy Implementation` $\leftrightarrow$ `Resource Distribution` $\leftrightarrow$ `Bullet Train` |
+| POL-01-02 | Polity vs Politics — Definitions & Distinction | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Policy Implementation` $\leftrightarrow$ `Resource Distribution` $\leftrightarrow$ `Bullet Train` |
 | POL-01-03 | Constitution Structure: Parts(25)/Schedules(12)/Articles(395) | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `Roman Numerals` $\leftrightarrow$ `Clauses` $\leftrightarrow$ `Sub-clauses` |
 | POL-01-04 | Logical Flow of Parts I→V (Territory→Citizen→FR→DPSP→FD→Union) | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `Part I Union Territory` $\leftrightarrow$ `Part II Citizenship` $\leftrightarrow$ `Part V Union Govt` |
 | POL-01-05 | Part V Structure: 6 Chapters (Exec→Legis→Ord→SC→CAG) | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `Chapter 1 Executive` $\leftrightarrow$ `Chapter 2 Parliament` $\leftrightarrow$ `Chapter 4 SC` |
-| POL-01-06 | Government = 3 Functions (Goal + Execution + Correction) | 1 | ★★★★☆ | Day 3 | 2026-08-17 | 100% | High 🌟 | 96% | 93% | 1 | 0 | - | 2026-08-14 | Fast 🟢 | `Legislature` $\leftrightarrow$ `Executive` $\leftrightarrow$ `Judiciary` $\leftrightarrow$ `Separation of Powers` |
+| POL-01-06 | Government = 3 Functions (Goal + Execution + Correction) | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Legislature` $\leftrightarrow$ `Executive` $\leftrightarrow$ `Judiciary` $\leftrightarrow$ `Separation of Powers` |
 | POL-01-07 | Art 52 & 53: President as Head of Executive & Delegated Power | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `Art 52` $\leftrightarrow$ `Art 53` $\leftrightarrow$ `Art 74 Aid & Advice` $\leftrightarrow$ `CoM` |
 | POL-01-08 | Art 58: President Eligibility (Citizen + 35yr + LS eligible + No OoP) | 2 | ★★★★★ | Day 5 | 2026-08-21 | 100% | High 🌟 | 98% | 96% | 2 | 0 | - | 2026-08-16 | Fast 🟢 | `PYQ 2012/2017/2022` $\leftrightarrow$ `Presidential Election` $\leftrightarrow$ `LS not RS` |
+
+### Polity (Abhey Kumar — Lecture 4: Secularism, Preamble & Part I)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-04-01 | Indian Secularism: Gandhi Framework, Sarva Dharma Sambhavah vs France Laïcité | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sarva Dharma Sambhavah` $\leftrightarrow$ `Positive Secularism` $\leftrightarrow$ `Principled Equidistance` $\leftrightarrow$ `France Laicite` |
+| POL-04-02 | Democracy: Direct vs Indirect, Systems & Philosophical Definition | 1 | ★★★★☆ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Direct vs Indirect Democracy` $\leftrightarrow$ `Parliamentary vs Presidential` $\leftrightarrow$ `Democracy as Choice` |
+| POL-04-03 | Republic vs Monarchy & Transformative Nature of Indian Republic | 2 | ★★★★☆ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Elected Head of State` $\leftrightarrow$ `Equal Citizen Pedestal` $\leftrightarrow$ `President Droupadi Murmu` |
+| POL-04-04 | Preamble Aspirations: Justice (Social/Econ/Pol & Russian Rev Origin) | 1 | ★★★★☆ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Core Constitutional Value` $\leftrightarrow$ `Fairness` $\leftrightarrow$ `Russian Revolution 1917` |
+| POL-04-05 | Preamble Aspirations: 5 Types of Liberty & Positive vs Negative Liberty | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Thought-Expression-Belief-Faith-Worship` $\leftrightarrow$ `Positive Liberty` $\leftrightarrow$ `Reasonable Restrictions` |
+| POL-04-06 | Preamble Aspirations: Equality of Status & Opportunities (Ambedkar) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Equality of Status & Opportunities` $\leftrightarrow$ `Reservation Mandate` $\leftrightarrow$ `Non-discrimination` |
+| POL-04-07 | Preamble Aspirations: Fraternity as Bandhutvam & Bottom-Up Cohesion | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bandhutvam` $\leftrightarrow$ `Sense of Oneness` $\leftrightarrow$ `Dignity-Unity-Integrity` $\leftrightarrow$ `Bottom-Up Social Cohesion` |
+| POL-04-08 | Part I (Art 1): Name & Territory (UoI vs ToI, Schedule I) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `India that is Bharat` $\leftrightarrow$ `Union of India` $\leftrightarrow$ `Territory of India` $\leftrightarrow$ `Schedule I` |
+| POL-04-09 | Part I (Art 1): Union vs Federation & Destructible States (Ambedkar Reasoning) | 3 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Indestructible Union with Destructible States` $\leftrightarrow$ `USA vs India` $\leftrightarrow$ `Hyderabad/Junagadh/J&K` |
 
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -132,8 +145,8 @@
 | CA-260813-02 | Draft NFSA Bill 2026 (AAY 7kg/Capita Cap & Dietary Diversification) | 2 | ★★★★★ | Day 1 | 2026-08-15 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `AAY 35kg Protection` $\leftrightarrow$ `ICMR 45% Calorie Rule` $\leftrightarrow$ `Double Burden of Malnutrition` |
 | CA-260813-03 | Kerala (Alteration of Name) Bill 2026 & NCDC Mandate Expansion | 1 | ★★★★☆ | Day 1 | 2026-08-15 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 3 State Renaming` $\leftrightarrow$ `Keralam Assembly Resolution` $\leftrightarrow$ `NCDC Direct Cooperative Loans` |
 | CA-260813-04 | Mines & Minerals (Dev & Reg) Amendment Bill 2026 & Mineral Taxation Federalism | 2 | ★★★★★ | Day 2 | 2026-08-18 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-16 | Fast 🟢 | `Mineral Taxation Federalism` $\leftrightarrow$ `MMDR Act 1957` $\leftrightarrow$ `Uniform Fiscal Framework` $\leftrightarrow$ `Entry 49 vs 54` |
-| CA-260816-01 | CAG Audit of Green India Mission (GIM) Shortfalls & Failure Modes | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CAG Art 148-151` $\leftrightarrow$ `GIM 91-97% Shortfall` $\leftrightarrow$ `Silo Failure (CAMPA/MGNREGS)` |
-| CA-260816-02 | Green India Mission (GIM) Targets, NAPCC & India's NDC Carbon Sink | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NAPCC 8 Missions` $\leftrightarrow$ `10 Mha Target` $\leftrightarrow$ `NDC 2.5-3.0 Gt CO2e` $\leftrightarrow$ `Paris Agreement` |
+| CA-260816-01 | CAG Audit of Green India Mission (GIM) Shortfalls & Failure Modes | 2 | ★★★★★ | Day 2 | 2026-08-19 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-17 | Fast 🟢 | `CAG Art 148-151` $\leftrightarrow$ `GIM 91-97% Shortfall` $\leftrightarrow$ `Silo Failure (CAMPA/MGNREGS)` |
+| CA-260816-02 | Green India Mission (GIM) Targets, NAPCC & India's NDC Carbon Sink | 2 | ★★★★★ | Day 2 | 2026-08-19 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-17 | Fast 🟢 | `NAPCC 8 Missions` $\leftrightarrow$ `10 Mha Target` $\leftrightarrow$ `NDC 2.5-3.0 Gt CO2e` $\leftrightarrow$ `Paris Agreement` |
 
 ---
 
