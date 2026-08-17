@@ -18,6 +18,7 @@
 - **Peak Water Phenomenon:** More melting may temporarily increase runoff ("peak water"), but once glaciers lose a substantial fraction of stored ice, meltwater contributions are expected to drop.
 - **Indus Basin Impact:** Glacier thinning and slowdown have long-term implications for the **Indus basin**, where glacier melt contributes significantly to river flows during the dry summer. 
 - **Long-term Risk:** Continued decline in glacier water storage impacts water security, agriculture, hydropower, and downstream ecosystems.
+- <span style="color: #e53e3e;">**UPSC Prelims Drainage Divide Trap:** Glacial meltwater from the Zanskar region drains exclusively via the north-flowing Zanskar River into the **Indus River Basin** (confluence at Nimmu). It has **ZERO connection to the Ganga or Yamuna drainage basins**, separated completely by the Great Himalayan Range.</span>
 
 ---
 

@@ -1,7 +1,7 @@
 # Master Repository — All Constitutional Articles
 
 > **Repository:** Articles Master Bank for Active Recall & Rapid Revision
-> **Total Articles:** 45 Key UPSC Articles
+> **Total Articles:** 49 Key UPSC Articles
 > **Format:** Numerical Order with Collapsible Active Recall Answers
 
 ---
@@ -379,6 +379,52 @@ The State shall take steps to separate the judiciary from the executive in the p
 
 </details>
 
+## Article 54 — Election of President (Electoral College)
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part V (The Union Executive)
+* **Electoral College Composition**:
+  1. Elected members of both Houses of Parliament (Lok Sabha & Rajya Sabha).
+  2. Elected members of Legislative Assemblies (MLAs) of the States.
+  3. Elected members of Legislative Assemblies of UTs of Delhi and Puducherry (**70th CAA 1992**).
+* **Exclusions**: Nominated members of Parliament/Assemblies, all MLCs, and UT of J&K (not yet incorporated into Art 54).
+
+</details>
+
+---
+
+## Article 55 — Manner of Election of President & Vote Values
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part V (The Union Executive)
+* **Core Principle**: Uniformity among States and Parity between States and the Union.
+* **System**: Proportional Representation by Single Transferable Vote (PR-STV) via secret ballot.
+* **Vote Value Formulas**:
+  * **1 MLA Vote** = $\frac{\text{State Population}}{\text{Total Elected MLAs}} \div 1000$
+  * **1 MP Vote** = $\frac{\text{Total Value of All MLA Votes}}{\text{Total Elected MPs}}$
+* <span style="color: #e53e3e;">**1971 Census Freeze**: Population is frozen to the 1971 Census until the first census after 2026 (**84th CAA 2001**).</span>
+
+</details>
+
+---
+
+## Article 71 — Matters Relating to Presidential / VP Elections
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part V (The Union Executive)
+* **Exclusive Jurisdiction**: Supreme Court of India alone inquires into and decides election disputes. Decision is final.
+* **Vacancy Bar (Art 71(4))**: Election cannot be questioned on the ground of any vacancy in the Electoral College.
+* **Locus Standi**: Only a candidate or 20+ electors can challenge (*Act of 1952*).
+* <span style="color: #e53e3e;">**Art 71(2) Non-Invalidation Rule**: If election is declared void by SC, official acts done prior to declaration remain valid.</span>
+
+</details>
+
 ---
 
 ## Article 72 — Power of President to Grant Pardons, etc.
@@ -514,6 +560,22 @@ The State shall take steps to separate the judiciary from the executive in the p
 - Parliamentary privilege is an instrument through which the Legislature maintains its autonomy.
 - The restriction on discussing judicial conduct maintains the **Doctrine of Mutual Respect** between organs.
 - Contempt of Court: If someone **obstructs justice** → contempt. But merely discussing/critiquing a judgment is NOT contempt.
+
+</details>
+
+---
+
+## Article 111 — Assent to Bills & Presidential Veto Powers
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part V (The Union Legislature)
+* **President's 3 Options**: Declare Assent, Withhold Assent (**Absolute Veto**), or Return for Reconsideration (**Suspensive Veto**).
+* **Mandatory Assent**: If a returned Ordinary/Financial Bill is re-passed by Parliament (Simple Majority), President *must* give assent.
+* <span style="color: #e53e3e;">**Money Bill Bar (Art 111 Proviso)**: President CANNOT return a Money Bill for reconsideration (no suspensive veto); can only Assent or Withhold.</span>
+* **Constitutional Amendment Bills**: Assent is mandatory under Art 368(2) (**24th CAA 1971**); no veto power.
+* **Pocket Veto**: Indefinite non-action due to absence of constitutional time limit.
 
 </details>
 
