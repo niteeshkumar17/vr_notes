@@ -19,16 +19,25 @@
 | Current_Affairs | Current Affairs (08 August 2026) | 2026-08-08 | 0 | 0% | 2026-08-09 | New | 2017, 2019, 2023 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j), India-US Strategic Partnership & Flexible Realism, Pakistan-Turkiye-Saudi Mecca Trilateral Defence Pact. |
 | Current_Affairs | Current Affairs (11 August 2026) | 2026-08-11 | 0 | 0% | 2026-08-12 | New | 2018, 2021, 2024 | PMLA conviction vs Double Jeopardy (Art 20(2)/CrPC 300), English Language Policy (Art 343 & Census data), Tribunals Reforms Bill 2026 & NTC. |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 01: Strategy & Laws of Land) | 2026-08-16 | 8 | 100% | 2026-08-21 | Confident | 2012, 2017, 2022 | Mastered Magna Carta, Polity vs Politics, Parts/Schedules, Art 52/53/58. |
-| GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-08-14 | 0 | 0% | 2026-08-17 | New | 2018, 2020, 2022 | Added POL-02-01 to POL-02-11 (OOP, Art 58/59, Art 54/55 PR-STV, Art 62 Vacancy, Art 71 Disputes, Art 111 Veto Powers). |
-| GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 02 & 03: Salient Features & Preamble Ideals) | 2026-08-05 | 0 | 0% | 2026-08-17 | New | 2014, 2019, 2023 | Added POL-03-01 to POL-03-04 (Bulky Constitution, Constitutional Supremacy, Federal with Unitary Bias, Sovereign/Socialist). |
-| GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04: Secularism, Preamble & Part I) | 2026-08-16 | 0 | 0% | 2026-08-17 | New | 2015, 2016, 2021 | Added POL-04-01 to POL-04-09 (Indian Secularism/Gandhi, Democracy, Republic, Justice/Liberty/Equality/Fraternity, Art 1 UoI vs ToI, Indestructible Union). |
-| GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 05: Part I Art 2-4, Territorial Arrangement & State Reorganization) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2013, 2014, 2016, 2019, 2024 | Added POL-05-01 to POL-05-13 (Art 2 Admission vs Establishment, Art 3 Powers & Pre-conditions, Why States Created, Art 4, Berubari Union 1960, Maganbhai 1969, India-Bangladesh LBA 2015, State Reorganization 600→29→20→36, Fazal Ali SRC). |
+| GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2020, 2022 | Mastered Art 54/55 Electoral College, 1971 Census Freeze, Art 71 Exclusive Jurisdiction. Reviewing Art 111 Money Bill non-returnable trap. |
+| GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04 & 05: Part I & Territorial Reorg) | 2026-08-17 | 2 | 100% | 2026-08-20 | Confident | 2013, 2014, 2016, 2019, 2024 | Mastered Indestructible Union / Destructible States, Territory vs Union of India, Berubari Union 1960, Maganbhai 1969, 100th CAA 2015. |
+| Current_Affairs | Current Affairs (11–16 August 2026) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2021, 2024 | Mastered Double Jeopardy vs PMLA (MST-013 Resolved), SC 9-Judge Mineral Royalty Entry 49/54 (MST-017 Resolved), GIM CAG Audit targets. Reviewing Zanskar glacier drainage basin (MST-019). |
 
 ---
 
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 13 — 2026-08-17
+- **Subject:** GS_Polity, GS_History, GS_Geography, GS_Economy, Current Affairs
+- **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
+- **Score:** 24.66 / 30.00 (Net Score: +26.00 - 1.34 = 24.66 | Accuracy: 86.67% — 13/15 correct | 2 Incorrect | 0 Unattempted)
+- **Mains Answer Score:** Separately evaluated / Pending outline submission
+- **Strengths:** Flawless mastery on Indian Territorial Architecture & Destructible States (`POL-04-09`/`POL-05-02`), Berubari 1960 & Maganbhai 1969 doctrines (`POL-05-09`/`POL-05-10`), Presidential Electoral College & 1971 Census Freeze (`POL-02-04`/`POL-02-05`), Production vs Product Taxes (`MST-011` Resolved 🟢), Double Jeopardy vs PMLA (`MST-013` Resolved 🟢), SC 9-Judge Mineral Taxation Entry 49 vs 54 (`MST-017` Resolved 🟢), IDL West-East Gain Day & Subpolar Low dynamic origin (`MST-001`/`MST-002` Resolved 🟢), Mantle Convection & Moho/Gutenberg discontinuities (`GEO-04-05`/`GEO-04-08`), Cornwallis Code 1793 & Charter 1833 Law Commission (`HIS-06-01`/`HIS-07-03`), Early Medieval Land Grants & Monetary Anemia (`HIS-EM-02`/`HIS-EM-08`), Catalysts for Indian Nationalism (`MST-016` Resolved 🟢), Green India Mission CAG audit & NDC targets (`CA-260816-01`/`CA-260816-02`), and Western Ghats Gadgil vs Kasturirangan ESA demarcation (`CA-260801-01`).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-020 / Presidential Veto on Money Bills & Art 71(2) Invalidation:* Under Art 111 proviso, President CANNOT return a Money Bill for reconsideration (no suspensive veto); only Assent or Withhold. Under Art 71(2), acts done prior to SC declaring election void remain valid (`MST-020` New Entry).
+  - *MST-019 / Glaciology & Drainage Basin Trap:* Zanskar glaciers and river drainage belong exclusively to the Indus River Basin (confluence at Nimmu), NOT the Ganga River Basin (`MST-019` Repeat Error ⚠️).
 
 ### Session 12 — 2026-08-16
 - **Subject:** GS_History, GS_Geography, GS_Economy, GS_Polity, Current Affairs

@@ -292,7 +292,7 @@ Round 3:  Continue until majority or 1 candidate left
 - Invalidation is **prospective** (from now onwards), NOT retrospective
   - **Principle:** What happened, happened. Now it won't happen.
   - Same principle as triple talaq invalidation, any law struck down, etc.
-  - Exception: In rare judicial cases, retrospective application possible
+  - <span style="color: #e53e3e;">**Article 71(2) Text:** "If the election of a person as President or Vice-President is declared void by the Supreme Court, acts done by him in the exercise and performance of the powers and duties of the office of President or Vice-President, as the case may be, on or before the date of the decision of the Supreme Court shall not be invalidated by reason of that declaration."</span>
 
 ### Cannot Dispute on Ground of:
 - **Vacancy in Electoral College** — some MLA/MP died/resigned → doesn't matter
@@ -427,6 +427,7 @@ When a bill is presented for assent, President has **3 choices** (first time):
 **Why no suspensive veto on Money Bills?**
 - Money bills deal with government's immediate financial needs → delay not allowed
 - President must decide: either give assent or withhold (reject) — no return option
+- <span style="color: #e53e3e;">**UPSC Trap Mandate (Article 111 Proviso):** The proviso to Article 111 explicitly states that the President may return the bill *"if it is not a Money Bill"*. Therefore, the President has **NO power to return a Money Bill for reconsideration** under any circumstances. If a Money Bill is presented, the President can only give Assent or Withhold Assent.</span>
 
 ---
 
@@ -503,3 +504,4 @@ When a bill is presented for assent, President has **3 choices** (first time):
 ---
 
 <!-- 2026-08-14: Created from Polity Lecture 2 (Abhey Kumar) transcript + handwritten notes — covers OOP, Art 58/59 eligibility & conditions, Art 54/55 PR-STV election, value of vote, electoral college, UT participation, Art 62 timing, vacancy & acting president, Art 71 disputes, Art 61 impeachment, Art 111 assent & veto powers (absolute/suspensive/pocket), types of bills, key amendments (24th/70th CAA) -->
+<!-- 2026-08-17: Post-MCQ session enrichment — Added explicit Art 71(2) non-invalidation provision and Art 111 proviso rule barring return of Money Bills in light red styling -->
