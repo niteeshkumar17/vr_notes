@@ -22,6 +22,7 @@
 | GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-08-14 | 0 | 0% | 2026-08-17 | New | 2018, 2020, 2022 | Added POL-02-01 to POL-02-11 (OOP, Art 58/59, Art 54/55 PR-STV, Art 62 Vacancy, Art 71 Disputes, Art 111 Veto Powers). |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 02 & 03: Salient Features & Preamble Ideals) | 2026-08-05 | 0 | 0% | 2026-08-17 | New | 2014, 2019, 2023 | Added POL-03-01 to POL-03-04 (Bulky Constitution, Constitutional Supremacy, Federal with Unitary Bias, Sovereign/Socialist). |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04: Secularism, Preamble & Part I) | 2026-08-16 | 0 | 0% | 2026-08-17 | New | 2015, 2016, 2021 | Added POL-04-01 to POL-04-09 (Indian Secularism/Gandhi, Democracy, Republic, Justice/Liberty/Equality/Fraternity, Art 1 UoI vs ToI, Indestructible Union). |
+| GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 05: Part I Art 2-4, Territorial Arrangement & State Reorganization) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2013, 2014, 2016, 2019, 2024 | Added POL-05-01 to POL-05-13 (Art 2 Admission vs Establishment, Art 3 Powers & Pre-conditions, Why States Created, Art 4, Berubari Union 1960, Maganbhai 1969, India-Bangladesh LBA 2015, State Reorganization 600→29→20→36, Fazal Ali SRC). |
 
 ---
 

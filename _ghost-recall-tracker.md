@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 * **Today's Date:** 2026-08-17
-* **Active Micro-Topics:** 105
-* **Overall Database Mastery:** 52.4% 📈
+* **Active Micro-Topics:** 118
+* **Overall Database Mastery:** 49.8% 📈
 * **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 29
+* **New Topics Ingested Today:** 42
 * **Weekly Backlog:** 0
 
 ---
@@ -149,10 +149,28 @@
 | POL-04-08 | Part I (Art 1): Name & Territory (UoI vs ToI, Schedule I) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `India that is Bharat` $\leftrightarrow$ `Union of India` $\leftrightarrow$ `Territory of India` $\leftrightarrow$ `Schedule I` |
 | POL-04-09 | Part I (Art 1): Union vs Federation & Destructible States (Ambedkar Reasoning) | 3 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Indestructible Union with Destructible States` $\leftrightarrow$ `USA vs India` $\leftrightarrow$ `Hyderabad/Junagadh/J&K` |
 
+### Polity (Abhey Kumar — Lecture 5: Part I Articles 2-4, Territorial Arrangement & State Reorganization)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-05-01 | Art 2: Admission vs Establishment (External Arrangement — Useless not Meaningless) | 2 | ★★★★☆ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Self-Contained Unit` $\leftrightarrow$ `Admission` $\leftrightarrow$ `Establishment` $\leftrightarrow$ `Art 2 Never Used` |
+| POL-05-02 | Art 3: Internal Arrangement (5 Powers — Form/Abolish/Merge/Alter/Rename, States includes UTs) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 3 Powers` $\leftrightarrow$ `Destructible States` $\leftrightarrow$ `UTs Included` $\leftrightarrow$ `Simple Majority` |
+| POL-05-03 | Pre-Condition 1: Recommendation of President = Government Initiative (Public vs Private Member) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Recommendation of President` $\leftrightarrow$ `Govt Initiative` $\leftrightarrow$ `MHA` $\leftrightarrow$ `Public vs Private Member` |
+| POL-05-04 | Pre-Condition 2: Opinion of States (Non-Binding, 30 Days Convention, Federal-Unitary Balance) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Opinion Not Binding` $\leftrightarrow$ `30 Days Convention` $\leftrightarrow$ `National vs Regional Interest` $\leftrightarrow$ `No Free Will (Ambedkar)` |
+| POL-05-05 | Pre-Conditions: UT Exception (Only if at least 1 State involved; Centre-UT = Unitary) | 1 | ★★★★☆ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Centre-UT Unitary` $\leftrightarrow$ `Centre-State Federal` $\leftrightarrow$ `DD DNH Merger` |
+| POL-05-06 | Why States Are Created: Administrative Convenience of Centre (Simple Majority Logic) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Admin Convenience` $\leftrightarrow$ `Good Governance` $\leftrightarrow$ `Simple Majority` $\leftrightarrow$ `Political/Cultural/Economic Influence` |
+| POL-05-07 | Art 4(1) & 4(2): Protection Rule (Schedule I & IV Auto-Amendment, Not Art 368) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Schedule I (Names)` $\leftrightarrow$ `Schedule IV (RS Seats)` $\leftrightarrow$ `Art 4 Protection = Simple Majority` $\leftrightarrow$ `RS Seats Direct = Special` |
+| POL-05-08 | 3 Modalities of Territorial Arrangement (Acquire/Cede=Special, Internal=Simple, Boundary=Executive) | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BU 1960` $\leftrightarrow$ `MB 1969` $\leftrightarrow$ `Art 2&3 Evolution` |
+| POL-05-09 | Re Berubari Union 1960 (Cede/Acquire under Sovereign Power → Special Majority → Art 2 Becomes Useless) | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BU 1960` $\leftrightarrow$ `Ceding Bengal to East Pakistan` $\leftrightarrow$ `Sovereign Power` $\leftrightarrow$ `Acquire Subsumes Admission` |
+| POL-05-10 | Maganbhai 1969 (Boundary Settlement = Executive Action, Gujarat Creeks, Tribunal Awards) | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gujarat Creek Dispute` $\leftrightarrow$ `Int'l Tribunal` $\leftrightarrow$ `Boundary Settlement ≠ Ceding` $\leftrightarrow$ `Executive Action` |
+| POL-05-11 | India-Bangladesh LBA 2015 (100th CAA, Third-Order Enclaves, Exchange of Enclaves) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `100th CAA 2015` $\leftrightarrow$ `Third-Order Enclaves` $\leftrightarrow$ `Zamindars Chess` $\leftrightarrow$ `Acquire+Cede Simultaneously` |
+| POL-05-12 | State Reorganization: 600→29→20→36 (Sardar Patel Integration, Four-fold to Two-fold) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Part A/B/C/D States` $\leftrightarrow$ `1950 (29)` $\leftrightarrow$ `1956 (20)` $\leftrightarrow$ `2026 (36)` |
+| POL-05-13 | Linguistic States: INC PCCs, P. Sriramulu, Fazal Ali SRC (Accepted Language, Rejected One-Lang-One-State) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `INC PCCs Language` $\leftrightarrow$ `P. Sriramulu 56th Day` $\leftrightarrow$ `Andhra Pradesh 1953` $\leftrightarrow$ `SRC 2 Recommendations` |
+
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | CA-260801-01 | Western Ghats ESA Notification: Madhav Gadgil (2010) vs Kasturirangan (2012) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Western Ghats ESA` $\leftrightarrow$ `Gadgil WGEEP 2010` $\leftrightarrow$ `Kasturirangan 2012 (37% ESA)` $\leftrightarrow$ `Art 48A & 51A(g)` |
+
 | CA-260802-01 | CAPF vs IPS Deputation: Organised Group A Services (OGAS) & Articles 33/312 | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CAPF Act 2026` $\leftrightarrow$ `OGAS Status` $\leftrightarrow$ `Sanjay Prakash Case` $\leftrightarrow$ `Art 33 & 312` |
 | CA-260804-01 | Supreme Court (Number of Judges) Amendment Bill 2026 (34 to 38) & Article 124 | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SC Sanctioned Strength 38` $\leftrightarrow$ `SC Number of Judges Act 1956` $\leftrightarrow$ `Article 124` $\leftrightarrow$ `Case Pendency` |
 | CA-260805-01 | Digital Arrest Scams: SC Directs RBI Mule Account SOPs & I4C Cyber Crime | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mule Accounts SOP` $\leftrightarrow$ `I4C Framework` $\leftrightarrow$ `e-Zero FIR` $\leftrightarrow$ `Cyber RMS Portal` |

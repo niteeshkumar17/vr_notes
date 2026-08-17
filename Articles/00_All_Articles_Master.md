@@ -1,8 +1,65 @@
 # Master Repository — All Constitutional Articles
 
 > **Repository:** Articles Master Bank for Active Recall & Rapid Revision
-> **Total Articles:** 42 Key UPSC Articles
+> **Total Articles:** 45 Key UPSC Articles
 > **Format:** Numerical Order with Collapsible Active Recall Answers
+
+---
+
+## Article 2 — Admission or Establishment of New States
+
+**Part:** Part I (The Union and its Territory)
+
+**Heading:** Admission or establishment of new States
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part I — External Territorial Arrangement
+* **Core Provision**: Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.
+* **Admission vs Establishment**: *Admission* = Adding pre-existing self-contained unit (pre-existing identity). *Establishment* = Creating/demarcating new territory where none existed before.
+* **Practical Status**: **Useless (never used in India's history)** — Per *Re Berubari Union (1960)*, admission requires prior acquisition via sovereign power under international law (Special Majority under Art 368). Since Special Majority subsumes Simple Majority, Art 2 simple majority route is never directly invoked.
+
+</details>
+
+---
+
+## Article 3 — Formation of New States and Alteration of Areas, Boundaries or Names
+
+**Part:** Part I (The Union and its Territory)
+
+**Heading:** Formation of new States and alteration of areas, boundaries or names of existing States
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part I — Internal Territorial Arrangement
+* **5 Key Powers**: Parliament may by law (a) Form or Abolish a state/UT, (b) Merge states/UTs, (c) Alter boundaries, (d) Increase or diminish area, (e) Change the name of any State.
+* **Two Pre-conditions for Bill Introduction**:
+  1. **Recommendation of President**: Political phrase for *Government Initiative* (only a Public Member / Home Minister can introduce).
+  2. **Opinion of Concerned State Legislature**: Must be referred by President (conventionally 30 days). The opinion is **non-binding** on Parliament/President (reasons: National interest primacy, nature of 'opinion', and Ambedkar's no-free-will doctrine).
+* **UT Exception**: If only UTs are involved (e.g. Dadra & Nagar Haveli and Daman & Diu merger), pre-conditions are **NOT required** (Centre-UT relationship is purely Unitary).
+* **Passing Majority**: **Simple Majority** in both Houses (justified by principle of administrative convenience of the Centre).
+
+</details>
+
+---
+
+## Article 4 — Laws under Articles 2 and 3 and Schedules I & IV
+
+**Part:** Part I (The Union and its Territory)
+
+**Heading:** Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Part I — Consequential Constitutional Amendments
+* **Article 4(1)**: Any law enacted under Art 2 or 3 shall contain provisions for the amendment of **Schedule I** (Names of States/UTs) and **Schedule IV** (Allocation of Rajya Sabha seats).
+* **Article 4(2)**: No such law shall be deemed to be an amendment of this Constitution for the purposes of **Article 368** (passed by **Simple Majority**).
+* **Protection of Art 4 Rule**: Protection applies ONLY when Art 2 or 3 is in action. If Schedule IV is amended directly without Art 2/3 action, **Special Majority under Art 368** is mandatory.
+
+</details>
 
 ---
 
