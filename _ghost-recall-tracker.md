@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 * **Today's Date:** 2026-08-17
-* **Active Micro-Topics:** 100
+* **Active Micro-Topics:** 105
 * **Overall Database Mastery:** 52.4% 📈
 * **Today's Recall Completed:** 12/12 Daily Target Micro-Topics (100% Level 5 Recall 🏆 — Session Complete §19)
 * **Active Learning Gaps Detected:** 0
-* **New Topics Ingested Today:** 24
+* **New Topics Ingested Today:** 29
 * **Weekly Backlog:** 0
 
 ---
@@ -152,6 +152,11 @@
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| CA-260801-01 | Western Ghats ESA Notification: Madhav Gadgil (2010) vs Kasturirangan (2012) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Western Ghats ESA` $\leftrightarrow$ `Gadgil WGEEP 2010` $\leftrightarrow$ `Kasturirangan 2012 (37% ESA)` $\leftrightarrow$ `Art 48A & 51A(g)` |
+| CA-260802-01 | CAPF vs IPS Deputation: Organised Group A Services (OGAS) & Articles 33/312 | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CAPF Act 2026` $\leftrightarrow$ `OGAS Status` $\leftrightarrow$ `Sanjay Prakash Case` $\leftrightarrow$ `Art 33 & 312` |
+| CA-260804-01 | Supreme Court (Number of Judges) Amendment Bill 2026 (34 to 38) & Article 124 | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SC Sanctioned Strength 38` $\leftrightarrow$ `SC Number of Judges Act 1956` $\leftrightarrow$ `Article 124` $\leftrightarrow$ `Case Pendency` |
+| CA-260805-01 | Digital Arrest Scams: SC Directs RBI Mule Account SOPs & I4C Cyber Crime | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mule Accounts SOP` $\leftrightarrow$ `I4C Framework` $\leftrightarrow$ `e-Zero FIR` $\leftrightarrow$ `Cyber RMS Portal` |
+| CA-260805-02 | Special Intensive Revision (SIR) of Electoral Rolls & EC Powers (Art 324/326) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 324` $\leftrightarrow$ `Article 326 Adult Suffrage` $\leftrightarrow$ `BLO Enumeration` $\leftrightarrow$ `Electoral Roll SIR` |
 | CA-260806-03 | Asiatic Lion Population & Barda Sanctuary | 2 | ★★★★☆ | Day 3 | 2026-08-10 | 95% | High 🌟 | 96% | 92% | 1 | 0 | - | 2026-08-07 | Fast | `Gir National Park` $\leftrightarrow$ `Barda WS` $\leftrightarrow$ `CDV Risk` |
 | CA-260807-01 | Creamy Layer in SC/ST Quotas & Centre Stand | 3 | ★★★★★ | Day 10 | 2026-08-20 | 100% | High 🌟 | 99% | 96% | 3 | 0 | - | 2026-08-10 | Fast 🟢 | `Article 15(4) & 16(4)` $\leftrightarrow$ `Indra Sawhney 1992` $\leftrightarrow$ `Davinder Singh 2024` |
 | CA-260807-02 | SC Ramsar Wetland Mining Buffer Order | 2 | ★★★★★ | Day 2 | 2026-08-11 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast 🟢 | `Ramsar 1971` $\leftrightarrow$ `Asan Reserve` $\leftrightarrow$ `Glaw Lake` $\leftrightarrow$ `WPA 1972` |

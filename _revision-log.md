@@ -13,6 +13,7 @@
 | GS_Economy_VR_Notes | 01 — Intro & National Income | 2026-08-06 | 1 | 100% | 2026-08-07 | Confident | 2015, 2020 | Cleaned up whitespace diagrams in L01. |
 | GS_Economy_VR_Notes | 02 — National Income Concepts | 2026-08-07 | 0 | 0% | 2026-08-08 | New | - | Added ECO-02-01 to ECO-02-05 (Factors of Prod, NI, Goods, CapEx, Residents). |
 | Current_Affairs | Current Affairs (28–29 July 2026) | 2026-07-30 | 1 | 71.4% | 2026-08-07 | Confident | 2023 | Western Ghats state count (6 states); Art 16(3) Parliamentary exclusivity. |
+| Current_Affairs | Current Affairs (01–05 August 2026) | 2026-08-05 | 0 | 0% | 2026-08-17 | New | 2013, 2019, 2024 | Added CA-260801-01 to CA-260805-02 (Western Ghats Gadgil/Kasturirangan, CAPF OGAS, SC Judges 38, Digital Arrest Mule Accounts, EC SIR Rolls). |
 | Current_Affairs | Current Affairs (06 August 2026) | 2026-08-06 | 0 | 0% | 2026-08-07 | New | 2022, 2024 | Fiscal Federalism & Art 275 RDGs, ISI Bill 2026, Asiatic Lion Conservation & Barda WS. |
 | Current_Affairs | Current Affairs (07 August 2026) | 2026-08-07 | 0 | 0% | 2026-08-08 | New | 2012, 2019, 2024 | SC/ST Creamy Layer stand, SC Ramsar Mining Buffer Order, 12th Handloom Day & Tech 4.0, Kerala Police Reforms, CWG Governance. |
 | Current_Affairs | Current Affairs (08 August 2026) | 2026-08-08 | 0 | 0% | 2026-08-09 | New | 2017, 2019, 2023 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j), India-US Strategic Partnership & Flexible Realism, Pakistan-Turkiye-Saudi Mecca Trilateral Defence Pact. |
