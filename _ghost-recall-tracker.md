@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-18
-*   **Active Micro-Topics:** 133
+*   **Active Micro-Topics:** 135
 *   **Overall Database Mastery:** 57.8% 📈
 *   **Today's Recall Completed:** 16 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1 & 2 Complete)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 12
+*   **New Topics Ingested Today:** 14
 *   **Weekly Backlog:** 0
 
 ---
@@ -212,6 +212,8 @@
 | CA-260817-01 | Special Intensive Revision (SIR) of Electoral Rolls, ASD Lists & Deletion Safeguards (RPA 1950 & Art 324/326) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Article 324` $\leftrightarrow$ `Article 326 Adult Suffrage` $\leftrightarrow$ `RPA 1950 Sec 21-23` $\leftrightarrow$ `Rule 21A Safeguard` $\leftrightarrow$ `ASD List` |
 | CA-260817-02 | One Nation One Election (ONOE): Parliamentary Accountability vs Fixed Tenures & Truncated Terms | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Westminster System` $\leftrightarrow$ `Continuous Accountability` $\leftrightarrow$ `Article 75 & 164` $\leftrightarrow$ `Truncated Midterm Terms` $\leftrightarrow$ `Article 356 Misuse` |
 | CA-260817-03 | One Nation One Election (ONOE): Federal Autonomy, Local Narratives & Constitutional Amendments Matrix | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Article 1 Federalism` $\leftrightarrow$ `National vs Local Narratives` $\leftrightarrow$ `MCC Governance Myth` $\leftrightarrow$ `Articles 83/85/172/174/356` $\leftrightarrow$ `Art 368(2) Ratification` |
+| CA-260818-01 | Elephant Corridors, Inter-State Obstruction Ban & WPA 1972 Schedule I Status (SC Order) | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Elephant Corridors` $\leftrightarrow$ `WPA 1972 Schedule I` $\leftrightarrow$ `Project Elephant` $\leftrightarrow$ `Art 48A & 51A(g)` $\leftrightarrow$ `Right of Passage` |
+| CA-260818-02 | SHANTI Act 2025 Nuclear Liability Caps vs Absolute Liability & Article 21/32 Constitutional Tort | 3 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SHANTI Act 2025` $\leftrightarrow$ `Absolute Liability (MC Mehta)` $\leftrightarrow$ `Article 21 & 32` $\leftrightarrow$ `AERB` $\leftrightarrow$ `CSC Nuclear Liability` |
 
 ---
 

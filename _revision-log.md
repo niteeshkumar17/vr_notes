@@ -23,6 +23,7 @@
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04 & 05: Part I & Territorial Reorg) | 2026-08-17 | 2 | 100% | 2026-08-20 | Confident | 2013, 2014, 2016, 2019, 2024 | Mastered Indestructible Union / Destructible States, Territory vs Union of India, Berubari Union 1960, Maganbhai 1969, 100th CAA 2015. |
 | Current_Affairs | Current Affairs (11–16 August 2026) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2021, 2024 | Mastered Double Jeopardy vs PMLA (MST-013 Resolved), SC 9-Judge Mineral Royalty Entry 49/54 (MST-017 Resolved), GIM CAG Audit targets. Reviewing Zanskar glacier drainage basin (MST-019). |
 | Current_Affairs | Current Affairs (17 August 2026) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2017, 2020, 2023 | Added CA-260817-01 to CA-260817-03 (Delhi CEO SIR Electoral Rolls Digitisation & Rule 21A Deletion Safeguards; ONOE Parliamentary Accountability vs Truncated Terms; ONOE Federal Autonomy & Constitutional Amendments Matrix). |
+| Current_Affairs | Current Affairs (18 August 2026) | 2026-08-18 | 0 | 0% | 2026-08-19 | New | 2015, 2020, 2022 | Added CA-260818-01 & CA-260818-02 (SC Elephant Corridors Survey, WPA 1972 Schedule I & State Blockade Ban; SHANTI Act 2025 Nuclear Liability Caps vs Absolute Liability M.C. Mehta & Art 21/32 Constitutional Tort). |
 
 ---
 
