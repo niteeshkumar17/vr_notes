@@ -6,8 +6,8 @@
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-18
 *   **Active Micro-Topics:** 121
-*   **Overall Database Mastery:** 54.2% 📈
-*   **Today's Recall Completed:** 11 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batch 1 Complete)
+*   **Overall Database Mastery:** 57.8% 📈
+*   **Today's Recall Completed:** 16 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1 & 2 Complete)
 *   **Active Learning Gaps Detected:** 0
 *   **New Topics Ingested Today:** 0
 *   **Weekly Backlog:** 0
@@ -163,8 +163,8 @@
 | POL-05-09 | Re Berubari Union 1960 (Cede/Acquire under Sovereign Power → Special Majority → Art 2 Becomes Useless) | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `BU 1960` $\leftrightarrow$ `Ceding Bengal to East Pakistan` $\leftrightarrow$ `Sovereign Power` $\leftrightarrow$ `Acquire Subsumes Admission` |
 | POL-05-10 | Maganbhai 1969 (Boundary Settlement = Executive Action, Gujarat Creeks, Tribunal Awards) | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Gujarat Creek Dispute` $\leftrightarrow$ `Int'l Tribunal` $\leftrightarrow$ `Boundary Settlement ≠ Ceding` $\leftrightarrow$ `Executive Action` |
 | POL-05-11 | India-Bangladesh LBA 2015 (100th CAA, Third-Order Enclaves, Exchange of Enclaves) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `100th CAA 2015` $\leftrightarrow$ `Third-Order Enclaves` $\leftrightarrow$ `Zamindars Chess` $\leftrightarrow$ `Acquire+Cede Simultaneously` |
-| POL-05-12 | State Reorganization: 600→29→20→36 (Sardar Patel Integration, Four-fold to Two-fold) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Part A/B/C/D States` $\leftrightarrow$ `1950 (29)` $\leftrightarrow$ `1956 (20)` $\leftrightarrow$ `2026 (36)` |
-| POL-05-13 | Linguistic States: INC PCCs, P. Sriramulu, Fazal Ali SRC (Accepted Language, Rejected One-Lang-One-State) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `INC PCCs Language` $\leftrightarrow$ `P. Sriramulu 56th Day` $\leftrightarrow$ `Andhra Pradesh 1953` $\leftrightarrow$ `SRC 2 Recommendations` |
+| POL-05-12 | State Reorganization: 600→29→20→36 (Sardar Patel Integration, Four-fold to Two-fold) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Part A/B/C/D States` $\leftrightarrow$ `1950 (29)` $\leftrightarrow$ `1956 (20)` $\leftrightarrow$ `2026 (36)` |
+| POL-05-13 | Linguistic States: INC PCCs, P. Sriramulu, Fazal Ali SRC (Accepted Language, Rejected One-Lang-One-State) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `INC PCCs Language` $\leftrightarrow$ `P. Sriramulu 56th Day` $\leftrightarrow$ `Andhra Pradesh 1953` $\leftrightarrow$ `SRC 2 Recommendations` |
 
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -193,9 +193,9 @@
 | CA-260813-04 | Mines & Minerals (Dev & Reg) Amendment Bill 2026 & Mineral Taxation Federalism | 2 | ★★★★★ | Day 2 | 2026-08-18 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-16 | Fast 🟢 | `Mineral Taxation Federalism` $\leftrightarrow$ `MMDR Act 1957` $\leftrightarrow$ `Uniform Fiscal Framework` $\leftrightarrow$ `Entry 49 vs 54` |
 | CA-260816-01 | CAG Audit of Green India Mission (GIM) Shortfalls & Failure Modes | 2 | ★★★★★ | Day 2 | 2026-08-19 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-17 | Fast 🟢 | `CAG Art 148-151` $\leftrightarrow$ `GIM 91-97% Shortfall` $\leftrightarrow$ `Silo Failure (CAMPA/MGNREGS)` |
 | CA-260816-02 | Green India Mission (GIM) Targets, NAPCC & India's NDC Carbon Sink | 2 | ★★★★★ | Day 2 | 2026-08-19 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-17 | Fast 🟢 | `NAPCC 8 Missions` $\leftrightarrow$ `10 Mha Target` $\leftrightarrow$ `NDC 2.5-3.0 Gt CO2e` $\leftrightarrow$ `Paris Agreement` |
-| CA-260817-01 | Special Intensive Revision (SIR) of Electoral Rolls, ASD Lists & Deletion Safeguards (RPA 1950 & Art 324/326) | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 324` $\leftrightarrow$ `Article 326 Adult Suffrage` $\leftrightarrow$ `RPA 1950 Sec 21-23` $\leftrightarrow$ `Rule 21A Safeguard` $\leftrightarrow$ `ASD List` |
-| CA-260817-02 | One Nation One Election (ONOE): Parliamentary Accountability vs Fixed Tenures & Truncated Terms | 2 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Westminster System` $\leftrightarrow$ `Continuous Accountability` $\leftrightarrow$ `Article 75 & 164` $\leftrightarrow$ `Truncated Midterm Terms` $\leftrightarrow$ `Article 356 Misuse` |
-| CA-260817-03 | One Nation One Election (ONOE): Federal Autonomy, Local Narratives & Constitutional Amendments Matrix | 3 | ★★★★★ | Day 1 | 2026-08-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 1 Federalism` $\leftrightarrow$ `National vs Local Narratives` $\leftrightarrow$ `MCC Governance Myth` $\leftrightarrow$ `Articles 83/85/172/174/356` $\leftrightarrow$ `Art 368(2) Ratification` |
+| CA-260817-01 | Special Intensive Revision (SIR) of Electoral Rolls, ASD Lists & Deletion Safeguards (RPA 1950 & Art 324/326) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Article 324` $\leftrightarrow$ `Article 326 Adult Suffrage` $\leftrightarrow$ `RPA 1950 Sec 21-23` $\leftrightarrow$ `Rule 21A Safeguard` $\leftrightarrow$ `ASD List` |
+| CA-260817-02 | One Nation One Election (ONOE): Parliamentary Accountability vs Fixed Tenures & Truncated Terms | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Westminster System` $\leftrightarrow$ `Continuous Accountability` $\leftrightarrow$ `Article 75 & 164` $\leftrightarrow$ `Truncated Midterm Terms` $\leftrightarrow$ `Article 356 Misuse` |
+| CA-260817-03 | One Nation One Election (ONOE): Federal Autonomy, Local Narratives & Constitutional Amendments Matrix | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Article 1 Federalism` $\leftrightarrow$ `National vs Local Narratives` $\leftrightarrow$ `MCC Governance Myth` $\leftrightarrow$ `Articles 83/85/172/174/356` $\leftrightarrow$ `Art 368(2) Ratification` |
 
 ---
 
