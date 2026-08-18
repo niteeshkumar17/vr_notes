@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-18
-*   **Active Micro-Topics:** 121
+*   **Active Micro-Topics:** 133
 *   **Overall Database Mastery:** 57.8% 📈
 *   **Today's Recall Completed:** 16 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1 & 2 Complete)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 12
 *   **Weekly Backlog:** 0
 
 ---
@@ -165,6 +165,22 @@
 | POL-05-11 | India-Bangladesh LBA 2015 (100th CAA, Third-Order Enclaves, Exchange of Enclaves) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `100th CAA 2015` $\leftrightarrow$ `Third-Order Enclaves` $\leftrightarrow$ `Zamindars Chess` $\leftrightarrow$ `Acquire+Cede Simultaneously` |
 | POL-05-12 | State Reorganization: 600→29→20→36 (Sardar Patel Integration, Four-fold to Two-fold) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `Part A/B/C/D States` $\leftrightarrow$ `1950 (29)` $\leftrightarrow$ `1956 (20)` $\leftrightarrow$ `2026 (36)` |
 | POL-05-13 | Linguistic States: INC PCCs, P. Sriramulu, Fazal Ali SRC (Accepted Language, Rejected One-Lang-One-State) | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-18 | Fast 🟢 | `INC PCCs Language` $\leftrightarrow$ `P. Sriramulu 56th Day` $\leftrightarrow$ `Andhra Pradesh 1953` $\leftrightarrow$ `SRC 2 Recommendations` |
+
+### Polity (Abhey Kumar — Lecture 3: Mercy Powers, Constitutional Position & Discretionary Powers)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-03A-01 | Pocket Veto Detailed: 1986 Indian PO Bill, Giani Zail Singh & R. Venkataraman | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pocket Veto` $\leftrightarrow$ `No Time Limit Art 111` $\leftrightarrow$ `Giani Zail Singh` $\leftrightarrow$ `Rajiv Gandhi 424 Seats` |
+| POL-03A-02 | Mercy Powers (Art 72 & 161): Pardon/Commute/Remit/Respite/Reprieve | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 72` $\leftrightarrow$ `Article 161` $\leftrightarrow$ `Conviction vs Sentence` $\leftrightarrow$ `Nature vs Quantum` |
+| POL-03A-03 | Criminal Justice System: Conviction vs Sentence, Nature vs Quantum | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Capital/RI/SI/Fine/Community Service` $\leftrightarrow$ `BNS/BNSS` $\leftrightarrow$ `Reform over Revenge` |
+| POL-03A-04 | President vs Governor Mercy Powers & Death Sentence Trap | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 72 Death Pardon ✅` $\leftrightarrow$ `Art 161 Death Pardon ❌` $\leftrightarrow$ `Governor Can Commute` |
+| POL-03A-05 | Mercy = Act of Grace (Not Right), Judicial Power Not Function, Malafide Review | 3 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Act of Grace` $\leftrightarrow$ `No Right to Hearing` $\leftrightarrow$ `Judicial Power ≠ Function` $\leftrightarrow$ `Shatrughan Chauhan` |
+| POL-03A-06 | Art 53 + 74: Constitutional Position — 42nd CAA 1976 & 44th CAA 1978 | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 53 Executive Power` $\leftrightarrow$ `Art 74 Aid & Advice` $\leftrightarrow$ `42nd CAA Substitution` $\leftrightarrow$ `44th CAA Proviso Insertion` |
+| POL-03A-07 | SC Cases: Ram Jawaya (1955), Shamsher Singh (1974), UNR Rao (1971) | 3 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ram Jawaya 1955` $\leftrightarrow$ `Shamsher Singh 1974` $\leftrightarrow$ `UNR Rao 1971` $\leftrightarrow$ `Caretaker Government` |
+| POL-03A-08 | 3 Principles of Parliamentary System & Duality of Heads | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Nominal Head` $\leftrightarrow$ `COM Real Power` $\leftrightarrow$ `Collective Responsibility to Legislature` $\leftrightarrow$ `De Jure vs De Facto` |
+| POL-03A-09 | Figurehead vs Constitutional Head & Ambedkar "More or Less Ceremonial" | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Figurehead: No Authority Ever` $\leftrightarrow$ `Constitutional Head: Discretion in Extraordinary` $\leftrightarrow$ `Crown of England` |
+| POL-03A-10 | Discretionary Powers (7 Points): Implicit, Situational, Not Written | 3 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Suspensive/Pocket Veto` $\leftrightarrow$ `Art 74 Proviso` $\leftrightarrow$ `Art 78/85` $\leftrightarrow$ `Hung Parliament Convention` |
+| POL-03A-11 | Hung Parliament: PM Appointment Convention & Pre-Poll Alliance Priority | 2 | ★★★★★ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Stable Government` $\leftrightarrow$ `Largest Pre-Poll Alliance` $\leftrightarrow$ `Convention Formation` $\leftrightarrow$ `Ideological Stability` |
+| POL-03A-12 | Answer Writing: Constitutional Position Question — Structure & Approach | 1 | ★★★★☆ | Day 1 | 2026-08-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 53 → Art 74 → SC Cases → Ambedkar → Your Conclusion` $\leftrightarrow$ `Cooking Skill` |
 
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
