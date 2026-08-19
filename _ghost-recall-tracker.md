@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-19
-*   **Active Micro-Topics:** 135
-*   **Overall Database Mastery:** 63.8% 📈
+*   **Active Micro-Topics:** 147
+*   **Overall Database Mastery:** 61.2% 📈
 *   **Today's Recall Completed:** 16 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1, 2 & 3 Complete)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 12 (Polity Lecture 4)
 *   **Weekly Backlog:** 0
 
 ---
@@ -181,6 +181,22 @@
 | POL-03A-10 | Discretionary Powers (7 Points): Implicit, Situational, Not Written | 3 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-19 | Fast 🟢 | `Suspensive/Pocket Veto` $\leftrightarrow$ `Art 74 Proviso` $\leftrightarrow$ `Art 78/85` $\leftrightarrow$ `Hung Parliament Convention` |
 | POL-03A-11 | Hung Parliament: PM Appointment Convention & Pre-Poll Alliance Priority | 2 | ★★★★★ | Day 2 | 2026-08-20 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-19 | Fast 🟢 | `Stable Government` $\leftrightarrow$ `Largest Pre-Poll Alliance` $\leftrightarrow$ `Convention Formation` $\leftrightarrow$ `Ideological Stability` |
 | POL-03A-12 | Answer Writing: Constitutional Position Question — Structure & Approach | 1 | ★★★★☆ | Day 2 | 2026-08-20 | 100% | High 🌟 | 96% | 93% | 1 | 0 | - | 2026-08-19 | Fast 🟢 | `Art 53 → Art 74 → SC Cases → Ambedkar → Your Conclusion` $\leftrightarrow$ `Cooking Skill` |
+
+### Polity (Abhey Kumar — Lecture 4: VP, Council of Ministers, Cabinet System & PM)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-04A-01 | Caretaker Govt: Discretion, Conventions & 1999 Kargil Example | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Not Rigid Mode` $\leftrightarrow$ `Restricted Mode` $\leftrightarrow$ `UNR Rao 1971` $\leftrightarrow$ `ABV Kargil 1999` |
+| POL-04A-02 | President as Emergency Lamp (R. Venkataraman Analogy) | 1 | ★★★★☆ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Emergency Lamp` $\leftrightarrow$ `Political Power Supply` $\leftrightarrow$ `1989 Hung Parliament` $\leftrightarrow$ `Role Ceases with Majority` |
+| POL-04A-03 | VP: Election (All MPs), Removal (RS First), Vacancy (No Time Limit) | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `All MPs Vote` $\leftrightarrow$ `PR-STV` $\leftrightarrow$ `RS Introduces Removal` $\leftrightarrow$ `As Soon As Possible` |
+| POL-04A-04 | CoM Hierarchy: Cabinet Minister vs MoS-IC vs MoS & 91st CAA 15% Cap | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cabinet: Independent` $\leftrightarrow$ `MoS-IC: May Invite` $\leftrightarrow$ `MoS: Not Invited` $\leftrightarrow$ `91st CAA 15%` |
+| POL-04A-05 | Individual Responsibility to President & PM (Objective vs Practical) | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Responsible to President` $\leftrightarrow$ `Practically to PM` $\leftrightarrow$ `Both Correct` $\leftrightarrow$ `Context Defines` |
+| POL-04A-06 | Collective Responsibility to Lok Sabha (Art 75(3)) & Most Suitable Answer Logic | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 75(3)` $\leftrightarrow$ `Majority in LS` $\leftrightarrow$ `If LS Not Option → Parliament` $\leftrightarrow$ `Most Suitable Answer` |
+| POL-04A-07 | Cabinet vs Council: Decision Flow, Art 352 & 44th CAA 1978 | 3 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cabinet = Real Power` $\leftrightarrow$ `Council = Myth` $\leftrightarrow$ `Art 352 Only Mention` $\leftrightarrow$ `44th CAA 1978` $\leftrightarrow$ `Nehru Cabinet 13` |
+| POL-04A-08 | Cabinet Committees: ACC (PM+HM), TOBR & AOBR (Art 77(3)) | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ACC: PM + HM` $\leftrightarrow$ `JS+ Appointments` $\leftrightarrow$ `8 Standing Committees` $\leftrightarrow$ `Art 77(3)` $\leftrightarrow$ `TOBR/AOBR` |
+| POL-04A-09 | PM: Residual Legatee, Primus Inter Pares vs Inter Stellas Lunar Minoris | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Residual Legatee` $\leftrightarrow$ `Face of Govt` $\leftrightarrow$ `Primus Inter Pares` $\leftrightarrow$ `William Harcourt` $\leftrightarrow$ `Pivot of CoM` |
+| POL-04A-10 | PM Form vs Cabinet Form of Govt: Phases, Merits & Demerits | 3 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Single Party Majority` $\leftrightarrow$ `Charismatic Leader` $\leftrightarrow$ `Coalition Era` $\leftrightarrow$ `Policy Paralysis (MMS)` $\leftrightarrow$ `CoM/Cb = Shadows of PM` |
+| POL-04A-11 | Kitchen Cabinet / Coterie: Extra-Constitutional Power Centres & Accountability | 2 | ★★★★★ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Coterie` $\leftrightarrow$ `Extra-Constitutional` $\leftrightarrow$ `Power Without Accountability` $\leftrightarrow$ `Political vs Public Interest` |
+| POL-04A-12 | Shadow Cabinet: UK/Canada/NZ, Cabinet in Waiting & Two-Party System Requirement | 2 | ★★★★☆ | Day 1 | 2026-08-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `PM in Waiting` $\leftrightarrow$ `Cabinet in Waiting` $\leftrightarrow$ `Two-Party System` $\leftrightarrow$ `India: Two-Alliance` $\leftrightarrow$ `Training Ground` |
 
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
