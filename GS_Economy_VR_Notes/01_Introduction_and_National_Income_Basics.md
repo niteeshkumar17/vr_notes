@@ -463,3 +463,436 @@ Individuals who **ordinarily reside** in a country and their **centre of economi
 
 <!-- 2026-08-09: Added GVA Production vs Product Taxes distinction post evening quiz -->
 <!-- 2026-08-07: Created ECO-02-01 to ECO-02-05 based on Lecture 2 notes. -->
+
+---
+
+# Lecture 03 — GDP, GNP & Methods of Calculation (20 Aug 2026)
+
+> **Source:** Vajiram & Ravi — Shyam Sundar Sir | Economy Lecture 03 | Class Notes + Transcript
+
+---
+
+## ECO-03-01: Resident Institutions & Subsidiary Rules
+
+NI calculation depends on understanding **who** is producing (residents vs non-residents). In addition to Resident Individuals (covered in Lecture 2), there are **Resident Institutions**.
+
+### 2. Resident Institutions
+
+*   **Definition:** Institutions (e.g., firms/companies) that are **registered in a country** and **mainly owned** by resident individuals of that country are **Resident Institutions** of that country.
+*   Two key criteria (generally same, but in exception — go by registration/incorporation):
+    1.  **Where** the company is registered (incorporated).
+    2.  **Who** owns it (shareholders).
+
+### Examples (Automobile Sector)
+
+| Company | Resident for India? | Reason |
+|---|---|---|
+| **Tata Motors** | ✅ Yes | Registered in India, owned by Indian residents |
+| **Mahindra, Bajaj** | ✅ Yes | Same logic as above |
+| **Ford** (USA) | ❌ No | Foreign company manufacturing in India without independent subsidiary |
+| **Renault** (France) | ❌ No | French company |
+| **Suzuki Motors** (Japan) | ❌ No | Japanese parent company |
+| **Hyundai Motors Korea** | ❌ No | Parent company based in Korea |
+| **Hyundai Motors India Ltd** (subsidiary) | ✅ Yes | **Independent subsidiary** detached from parent, registered in India |
+| **Apple, Samsung** (smartphones) | ❌ No | Non-resident — producing in India but not registered as Indian subsidiary |
+
+> **Key Rule:** When a foreign company sets up an **independent subsidiary** in India (e.g., Hyundai Motors India Ltd), that subsidiary is treated as an **Indian Resident Institution**, detached from the parent company. The parent remains a foreign resident.
+
+> **UPSC Exam Note:** If a question involves resident institution classification, sufficient information will be provided. Focus on understanding the principle (registration/incorporation + ownership).
+
+---
+
+## ECO-03-02: GNP, NNP & Gross vs Net Concepts
+
+### Gross National Product (GNP)
+
+> **Definition:** Total money value of all final goods and services **produced by the residents** of a country, over a period, **without adjusting for depreciation** of fixed capital.
+
+*   GNP definition = exact copy of National Income definition + "without adjusting for depreciation" (because **Gross**).
+*   GNP is considered the **ideal/conceptual measure** of National Income.
+*   **WHO** produces → Residents → GNP answers the question "**Who** is producing?"
+
+### Net National Product (NNP)
+
+> **Definition:** Same as GNP but **after adjusting for depreciation** of fixed capital.
+
+*   `NNP = GNP - Depreciation`
+*   NNP is considered the **best way** to measure national income (adjusting for depreciation is ideal).
+*   Practically, depreciation is hard to calculate accurately → GNP is more commonly used.
+
+### Converting between Gross & Net
+
+*   **Gross → Net:** Change "without" to "after" adjusting for depreciation.
+*   In national income: **Gross** = without adjusting for depreciation; **Net** = after adjusting for depreciation.
+
+---
+
+## ECO-03-03: GDP Definition & Domestic Territory
+
+### Gross Domestic Product (GDP)
+
+> **Definition:** Total money value of all final goods and services produced **in the Domestic Territory** of a country, over a period, **without adjusting for depreciation** of fixed capital.
+
+*   The **only difference** from GNP: Replace "by residents" → "in the Domestic Territory".
+*   GDP answers: **WHERE** is production taking place?
+
+### Domestic Territory (DT)
+
+**DT of a country includes territories under the political control of the country:**
+
+1.  **Geographical map** of India (entire landmass + territories).
+2.  **Territorial waters** — up to **12 nautical miles**.
+3.  **Government offices outside the country** — Embassies, Consulates, and other government offices abroad.
+4.  Any **economic activity** happening outside the geographical map but under India's political control (e.g., Indian-operated ships outside territorial waters).
+
+> **Note:** **Disputed areas** are NOT counted in GDP calculation.
+
+---
+
+## ECO-03-04: GDP vs GNP — Core Difference
+
+| | **GNP** | **GDP** |
+|---|---|---|
+| **Core Question** | **WHO** produces? | **WHERE** is it produced? |
+| **Answer** | Residents | Domestic Territory |
+| **Includes non-resident production in India?** | ❌ No | ✅ Yes |
+| **Includes resident production abroad?** | ✅ Yes | ❌ No |
+| **Complexity** | More complex (resident concept has many nuances) | Simpler (just count within geographical map) |
+| **Conceptually better?** | ✅ Yes | Used more in practice |
+
+**Overlap:** If someone is an Indian resident AND produces in Indian DT → counted in **BOTH** GDP and GNP.
+
+**Example:** Apple produces smartphones in India → counted in **GDP** (production in Indian DT) but **NOT in GNP** (Apple is not an Indian resident).
+
+---
+
+## ECO-03-05: GDP Calculation in India — NSO & MOSPI
+
+### Who calculates GDP in India?
+
+*   **NSO (National Statistical Office)** — the office responsible for GDP calculation.
+*   NSO comes under **MOSPI (Ministry of Statistics and Program Implementation)** under the **Government of India**.
+
+### How NSO calculates GDP
+
+NSO divides the economy into **3 types of producing sectors** and calculates their contributions separately:
+
+1.  **Primary Sector**
+2.  **Secondary Sector**
+3.  **Tertiary Sector (Services)**
+
+---
+
+## ECO-03-06: Primary Sector
+
+> **Definition:** A sector that converts **natural resources into commodities** (value-added goods).
+
+**Commodities** = goods where value has been added from the raw/natural state.
+
+### Components of Primary Sector:
+
+| # | Sub-Sector | Details |
+|---|---|---|
+| (i) | **Agriculture & Allied Sectors** | Crop production (food & non-food crops). Allied = Horticulture, **Animal Husbandry** (dairy, poultry), Food Processing |
+| (ii) | **Forestry** | Self-explanatory |
+| (iii) | **Fishery** | Self-explanatory |
+| (iv) | **Mining & Quarrying** | **Mining** = minerals extraction; **Quarrying** = stone, sand extraction |
+
+> **UPSC Trap:** Many think Mining is Secondary sector (because it seems industrial). But Mining uses **natural resources** → it is **Primary Sector**. This was tested in a PYQ (match-the-column: Primary/Secondary/Tertiary).
+
+> **Why Primary?** All these activities use natural resources (seeds, soil, water, minerals, stones) and convert them into value-added commodities.
+
+---
+
+## ECO-03-07: Secondary Sector
+
+> **Definition:** A sector that converts **commodities into other commodities** (inputs are already value-added; further value is added).
+
+### Components of Secondary Sector:
+
+| # | Sub-Sector | Details |
+|---|---|---|
+| (i) | **Manufacturing** | Converting commodities through physical/chemical/electrical processes into other commodities. Examples: Steel-making, car-making, fertilizer industry. Has 2 sub-types: **Registered** & **Unregistered** |
+| (ii) | **Construction** | Construction of buildings, establishments, factories. Uses commodities (bricks, cement, concrete, steel) → produces another commodity (building/factory) |
+| (iii) | **Public Utilities** | **Electricity, Gas, and Water Supply**. Not physical commodities but their production **can be quantified** (gigawatts, million metric tons, etc.). Included following international convention |
+
+---
+
+## ECO-03-08: Registered vs Unregistered Manufacturing
+
+### Registered Manufacturing (= Organized Manufacturing)
+
+*   Includes manufacturing units **registered with the Factories Act, 1948**.
+*   Alternatively: units with **10 or more hired workers**.
+*   **Link:** Any unit with ≥10 hired workers is **legally required** to register under Factories Act.
+*   Since they are legally registered → they are **legally bound to provide data** on final goods, intermediate goods, etc.
+*   **Value-Added Method** is used to calculate their GDP contribution (because data is available).
+
+### Unregistered Manufacturing (= Unorganized Manufacturing)
+
+*   Includes manufacturing units **NOT registered** with the Factories Act.
+*   Units with **less than 10 hired workers**.
+*   Typically: household-based manufacturing, very small-scale units.
+*   **Data availability is a problem** → Value-Added Method cannot be easily used.
+
+> **Why this distinction matters:** Different methods of GDP calculation are used for each type (because of data availability differences).
+
+---
+
+## ECO-03-09: Organized vs Unorganized Sector & Employment
+
+### Organized Sector of India
+
+> **Definition:** Includes **all enterprises** (any type of economic activity — manufacturing, construction, services, etc.) with **10 or more hired workers**.
+
+*   Broader than "Registered Manufacturing" — includes services too (e.g., Infosys is organized sector even though it's a service provider).
+*   Registered/Organized Manufacturing is a **subset** of the Organized Sector.
+
+### Unorganized Sector of India
+
+> **Definition:** Includes **all enterprises** with **less than 10 hired workers**.
+
+### Key Statistics:
+
+| Metric | Organized Sector | Unorganized Sector |
+|---|---|---|
+| **GDP Contribution** | **55–60%** (higher) | ~40–45% |
+| **Employment Contribution** | ~20% | **~80%** (dominant) |
+| **Average Wages** | Higher | **Lower** |
+| **Quality of Employment** | Better | **Poor** |
+
+> **Why lower average wages in unorganized sector?** Through circular flow logic: A sector contributing only ~40–45% to GDP but hiring ~80% of workers → wages divided by larger number → lower average wages → poor quality of employment.
+
+> **UPSC Relevance (Employment topic):** One of the problems of Indian employment = large share is of poor quality, because most jobs come from unorganized sector which contributes less to GDP.
+
+### Why Agriculture is mostly Unorganized
+
+*   Most agricultural production uses **family labor** (not hired workers).
+*   Even when workers are hired, rarely ≥10.
+*   The word **"hired"** is key — family workers are NOT hired workers.
+*   Yet **data availability** for primary sector is good because **government is actively involved** (MSP policy, APMCs, e-marketing initiatives).
+
+---
+
+## ECO-03-10: Tertiary Sector / Services
+
+> **Definition:** A sector that does **NOT produce commodities** but provides **services**.
+
+*   Examples: Transport, Communication, Storage, Public Administration, Education, Health, Banking, Financial Services, etc.
+*   Contributes **more than 50% of GDP** in India.
+*   Services **cannot be quantified** like goods (unlike even public utilities like electricity which can be measured in gigawatts).
+*   This quantifiability problem → **Value-Added Method cannot be used** for services → **Income Method** is used instead.
+
+---
+
+## ECO-03-11: Value-Added Method (Method 1 of GDP Calculation)
+
+> **Definition:** Calculates GDP as the **sum of Gross Value Added (GVA)** by different producing sectors.
+
+### GVA Formula:
+
+> **GVA = Value of Gross Output of Final Goods & Services − Value of Gross Output of Intermediate Goods & Services**
+
+*   Essentially: **Final Value − Intermediate Value** = Value Addition.
+*   Subtracting intermediate goods avoids **double counting** in GDP.
+*   We take the value addition by each producer and keep adding → gives GDP.
+
+### Where is Value-Added Method used in India?
+
+| Sector | VA Method Used? | Reason |
+|---|---|---|
+| **Primary Sector** | ✅ Yes | Government actively involved → good data on final/intermediate goods (despite being largely unorganized) |
+| **Registered Manufacturing** | ✅ Yes | Legally registered → legally bound to provide data |
+| **Unregistered Manufacturing** | ❌ No | Data not easily available (small/household units) |
+| **Services/Tertiary** | ❌ No | Cannot quantify services; use Income Method instead |
+| **Construction** | ❌ No | Uses Income Method |
+
+> **Key insight:** VA Method works well when there is **better data on final and intermediate goods** — which exists for Primary sector (due to govt involvement) and Registered Manufacturing (due to legal obligation).
+
+---
+
+## ECO-03-12: Income Method (Method 2 of GDP Calculation)
+
+> **Definition:** Calculates GDP as the **sum of factor incomes** generated in producing final goods and services.
+
+### Why Income Method works (Logic via Circular Flow):
+
+*   If more goods/services are produced → more factors of production are employed → more factor income generated.
+*   Factor income = wages, rent, interest, profits (W, R, I, P).
+*   Factor incomes **reflect value addition** to production (workers add value → earn wages; land adds value → earns rent; capital adds value → earns interest; entrepreneur adds value → earns profit).
+*   **Plan B logic:** If we can't capture GDP at the production stage (value-added), we capture it at the income stage (factor incomes), because they are correlated.
+
+### Income Method divides GDP into 3 components:
+
+### (i) Compensation of Employees (CoE)
+
+> **CoE = Wages & Salaries paid by employers to employees + Other benefits by employers to employees**
+
+*   **Other benefits include:**
+    *   **Social Security** → Pension, Insurance, Provident Fund (PF)
+    *   **Allowances** → HRA (House Rent Allowance), other allowances
+*   CoE = practical extension of "wages" as a factor payment. Workers get more than just wages in practice.
+
+### (ii) Operating Surplus (OS)
+
+> **OS = Sum of incomes from Property (Rent) + Savings (Interest) + Entrepreneurship (Profits)**
+
+*   Essentially: All factor incomes **other than wages/CoE** combined together.
+*   Rent + Interest + Profits = Operating Surplus.
+
+### (iii) Mixed Income of Self-Employed (MI)
+
+> **MI = Sum of all factor incomes (W, R, I, P) of self-employed persons who do NOT maintain accounts.**
+
+*   **Self-employed who maintain accounts** (doctors, CAs, lawyers, start-up owners) → their income is captured in CoE or OS.
+*   **Self-employed who do NOT maintain accounts** (newspaper vendors, tea vendors, rickshaw pullers, auto drivers, small book shop owners) → cannot separate their income into wages, rent, interest, profit → their **total overall income** is taken as Mixed Income.
+*   **Why "Mixed"?** Because it mixes all types of factor income without classification.
+*   Majority of India's self-employed do not maintain accounts → MI is a crucial component.
+
+### Income Method is used for:
+
+*   **All Services / Tertiary Sector** (cannot quantify output → capture factor incomes instead)
+*   **Unregistered Manufacturing** (data not available for VA method)
+*   **Construction sector**
+
+---
+
+## ECO-03-13: NFIA & GNP = GDP + NFIA
+
+### Net Factor Income from Abroad (NFIA)
+
+> **NFIA = (Factor incomes brought by Indian residents for providing factor inputs abroad) − (Factor incomes taken out by foreign residents for providing factor inputs in Indian DT)**
+
+*   **Example of positive component:** Indian software engineer works in USA for 6 months → brings back part of income to India → added to NFIA.
+*   **Example of negative component:** South Korean engineer earns in India → takes income back to South Korea → deducted from NFIA.
+
+### The Key Formula:
+
+> ## **GNP = GDP + NFIA**
+
+This is the **most accurate way** to differentiate GDP and GNP.
+
+### NFIA for India: **NEGATIVE**
+
+*   **Net COE from abroad → Positive** for India (Indian skilled professionals bring salaries back from abroad).
+*   **But Net Profits → Strongly Negative** (dominant factor).
+*   **Reason:** Significant **profit outflows** by non-resident companies (MNCs / FDI companies) from Indian Domestic Territory.
+    *   Examples: Samsung, Apple produce in India → profits go back to home countries.
+    *   Non-resident companies **dominate** sectors like smartphone manufacturing, automobiles, etc.
+*   **Result:** Profit outflows **overwhelm** salary inflows → NFIA is **negative** overall.
+
+### Implication: **GNP < GDP for India**
+
+*   Since NFIA is negative → adding a negative number to GDP → GNP is **smaller** than GDP.
+*   **One reason India officially uses GDP** (not GNP): GDP gives a **higher number** (partly political — makes the economy look bigger).
+*   **Other reasons:** GDP is **easier to calculate** (domestic territory is simpler than resident concept).
+
+---
+
+## ECO-03-14: Net Remittances vs NFIA
+
+### Net Remittances
+
+> **Definition (Way 1):** Net COE brought by Indian residents from abroad **+** Net transfers made by Non-Residents (NRIs) to India from abroad.
+
+> **Definition (Way 2 — Simpler):** Net **inflows of money in foreign currencies** to **Indian households** from abroad.
+
+*   **India is the LARGEST remittance receiver in the world** (rare area where India beats China in international context).
+
+### NFIA vs Net Remittances — NOT the same
+
+| | **NFIA** | **Net Remittances** |
+|---|---|---|
+| Includes **Net COE from abroad** | ✅ Yes | ✅ Yes (overlapping part) |
+| Includes **Rent, Interest, Profit** (cross-border) | ✅ Yes | ❌ No |
+| Includes **Transfers by NRIs** (non-residents) | ❌ No | ✅ Yes |
+| Part of National Income? | Part of GNP calculation | Generally **NOT** part of NI (except the COE overlap) |
+
+> **Venn Diagram:** The overlapping part = Net COE from abroad. Everything else is unique to each.
+
+> **No contradiction:** India can be the **largest remittance receiver** yet have **negative NFIA** because profit outflows (counted in NFIA but NOT in remittances) overwhelm the salary inflows.
+
+> **Key UPSC rule:** No part of remittance can be part of **GDP**. In **GNP**, only the net COE component (the overlap) is included.
+
+---
+
+## ECO-03-15: Expenditure Method (Method 3 of GDP Calculation) — Demand Side of GDP
+
+> **Definition:** Calculates GDP as the **sum of expenditures by all sectors** on domestically produced goods and services.
+
+### The GDP Formula (Expenditure Method):
+
+> ## **GDP = C + I + G + NX**
+
+| Symbol | Full Form | Meaning | Sector |
+|---|---|---|---|
+| **C** | **PFCE** (Private Final Consumption Expenditure) | Expenditure on final consumer goods by **Households** | Households |
+| **I** | **Investment Expenditure** (GDCF) | Expenditure on capital goods — **mainly by firms**, also by government (infrastructure) and households (new houses) | Firms (mainly) |
+| **G** | **GFCE** (Government Final Consumption Expenditure) | Government expenditure on final consumer goods | Government |
+| **NX** | **Net Exports** = Exports − Imports | Expenditure by **External Sector** | External Sector |
+
+### External Sector
+
+> Includes **non-domestic sectors** (any firm, household, or government NOT belonging to India) + **International Organizations** (World Bank, IMF, etc. — always external for every country).
+
+### Why subtract Imports?
+
+*   **Imports are NOT part of Indian GDP** (produced in other countries).
+*   But C, I, and G **all include expenditure on imports** (hidden within them).
+    *   **C example:** You buy clothes — a T-shirt may be made in Bangladesh = import hidden in C.
+    *   **I example:** Companies buy imported machinery = import hidden in I.
+    *   **G example:** Government buys imported defense products = import hidden in G.
+*   Since imports cannot be separated at the C/I/G level in day-to-day life → we **subtract total imports at the end** to filter out non-GDP components.
+
+### NX for India: **NEGATIVE**
+
+*   India's Imports > Exports → NX is negative → NX **pulls down** GDP.
+*   Positive contributors: C (largest at **55–60% of GDP**), I (second), G (third).
+
+---
+
+## ECO-03-16: Expenditure Method for Policy Making
+
+### Primary Use in India
+
+Expenditure method is used in India **mainly for policy making** (not primarily for GDP calculation).
+
+**Logic:** If GDP = C + I + G + NX, then increasing any component → higher GDP → higher economic growth.
+
+### Policy Links from Expenditure Method:
+
+| Component | How to increase? | Policy Area |
+|---|---|---|
+| **C** (Consumption) | More income to households → more employment → more spending | **Employment Policy** |
+| **I** (Investment) | Promote investment in industries, agriculture, infrastructure | **Investment Promotion**, FDI policy |
+| **G** (Govt Expenditure) | Fiscal policy — taxation, subsidies | **Fiscal Policy** (e.g., reducing GST rates) |
+| **NX** (Net Exports) | Promote exports, reduce import dependency | **Export Promotion Policy** |
+
+### C & I are interrelated:
+
+*   **C → I:** Higher consumption → larger market → signal for producers to invest more (more demand → more factories).
+*   **I → C:** More investment → more factories → more jobs → more income → more consumption.
+*   **Ideal:** This self-fueling cycle keeps GDP growing.
+*   **During crisis** (e.g., COVID): Neither C nor I increases → **unique role of Government** (G) through fiscal policy becomes critical.
+
+### Monetary Policy (RBI)
+
+*   Also impacts GDP through similar channels.
+*   Details covered in Money & Banking topic.
+
+### Mains PYQ Application — "How can X lead to higher economic growth?"
+
+**Example: How can MSMEs lead to higher economic growth?**
+
+1.  **More potential to increase Investment (I):** MSMEs are smaller → historical investment came from large industries → future potential lies more in MSMEs (large industries reach saturation).
+2.  **More Labour Intensive → higher C:** MSMEs hire more workers (textiles, leather, food processing) → more employment → more consumption expenditure → higher GDP.
+3.  **Export Potential → higher NX:** Some MSMEs have significant export potential (textiles especially) → increase in exports → higher GDP.
+
+### Savings & Economic Growth
+
+*   **How savings help:** Savings → finance Investment (through financial intermediaries: banks channel surplus funds to deficit fund sectors) → higher I → higher GDP.
+*   **Conceptual tension:** Savings is opposite of consumption (more saving = less spending). Could savings reduce C and lower GDP?
+*   **Answer: Generally No.** Savings are done **only after** basic consumption needs (food, clothing, shelter) are met. People don't go hungry to save money in banks. Savings may reduce **luxury consumption** only, which has limited GDP contribution.
+*   **Conclusion:** Savings are generally treated as **good for economic growth**.
+
+<!-- 2026-08-20: Added ECO-03-01 to ECO-03-16 — Lecture 3 content merged (Resident Institutions, GNP/GDP/NNP, Domestic Territory, 3 Producing Sectors, Registered/Unregistered Mfg, Organized/Unorganized, 3 Methods of GDP Calculation, NFIA, Remittances, Expenditure Method Policy Applications). -->
