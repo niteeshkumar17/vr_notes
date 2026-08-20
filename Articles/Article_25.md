@@ -21,5 +21,6 @@ Subject to public order, morality and health, all persons are equally entitled t
 - Western Secularism = separation of religion from politics (state has NO relation with religion).
 - Indian/Eastern Secularism = complex triangular relationship between Religion, Individual, and State — the state does not separate itself from religion but treats all religions equally.
 - Art. 25 ensures individuals can freely practice their religion while the state remains neutral/equidistant.
+- **<span style="color: #e53e3e;">Personal Laws & ERP Test (Aug 2026):</span>** <span style="color: #e53e3e;">Article 25 is expressly subject to other provisions of Part III (Articles 14, 15, 21). Polygamy under Section 2 of Shariat Act 1937 is permissible/customary but not an Essential Religious Practice (ERP), making it subject to State regulatory power for social welfare and gender reform under Article 25(2)(b).</span>
 
 </details>

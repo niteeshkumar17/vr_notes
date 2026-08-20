@@ -25,6 +25,7 @@
 | Current_Affairs | Current Affairs (17 August 2026) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2017, 2020, 2023 | Added CA-260817-01 to CA-260817-03 (Delhi CEO SIR Electoral Rolls Digitisation & Rule 21A Deletion Safeguards; ONOE Parliamentary Accountability vs Truncated Terms; ONOE Federal Autonomy & Constitutional Amendments Matrix). |
 | Current_Affairs | Current Affairs (18 August 2026) | 2026-08-18 | 0 | 0% | 2026-08-19 | New | 2015, 2020, 2022 | Added CA-260818-01 & CA-260818-02 (SC Elephant Corridors Survey, WPA 1972 Schedule I & State Blockade Ban; SHANTI Act 2025 Nuclear Liability Caps vs Absolute Liability M.C. Mehta & Art 21/32 Constitutional Tort). |
 | Current_Affairs | Current Affairs (19 August 2026) | 2026-08-19 | 0 | 0% | 2026-08-20 | New | 2018, 2020, 2021, 2023 | Added CA-260819-01 & CA-260819-02 (SC FRS Proportionality Scrutiny under Art 21/19(1)(b) & Puttaswamy 4-Prong Test; 12th BRICS Environment Ministers Joint Statement against EU CBAM Green Protectionism & Tripling COP30 Adaptation Finance). |
+| Current_Affairs | Current Affairs (20 August 2026) | 2026-08-20 | 0 | 0% | 2026-08-21 | New | 2017, 2019, 2021, 2024 | Added CA-260820-01 & CA-260820-02 (SC Polygamy Scrutiny, Shariat Act Sec 2 vs Articles 14/15/21, Section 82 BNS Bigamy 7-Yr Penalty, Shayara Bano/Sarla Mudgal Precedents, Compulsory Marriage Registration & Codification). |
 
 ---
 

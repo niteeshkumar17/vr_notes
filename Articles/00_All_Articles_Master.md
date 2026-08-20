@@ -1,7 +1,7 @@
 # Master Repository — All Constitutional Articles
 
 > **Repository:** Articles Master Bank for Active Recall & Rapid Revision
-> **Total Articles:** 49 Key UPSC Articles
+> **Total Articles:** 51 Key UPSC Articles
 > **Format:** Numerical Order with Collapsible Active Recall Answers
 
 ---
@@ -92,6 +92,28 @@
 * **Core Concept**: Prohibits arbitrary State action and discriminatory exemptions without a rational nexus. Guarantees equality before the law and equal protection of the laws.
 * **Supreme Court Precedent**: Any executive exemption power must satisfy the *Intelligible Differentia* & *Rational Nexus* tests (*E.P. Royappa vs State of Tamil Nadu*).
 * **Context**: SC warned that ad-hoc designation of specific case categories without rational classification risks violating equal protection.
+* **<span style="color: #e53e3e;">Personal Laws & Section 82 BNS Scrutiny (Aug 2026):</span>** <span style="color: #e53e3e;">Supreme Court examined petitions challenging Section 2 of Shariat Act 1937 under Article 14 for creating arbitrary exemptions permitting polygamy for Muslim men while non-Muslims face up to 7 years imprisonment under Section 82 Bharatiya Nyaya Sanhita (BNS) for bigamy.</span>
+
+</details>
+
+---
+
+## Article 15 — Prohibition of Discrimination on Grounds of Religion, Race, Caste, Sex or Place of Birth
+
+> **Part:** III — Fundamental Rights
+> **Subject:** Right to Equality
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Fundamental Rights (Part III) — Specific Application of Article 14
+* **Article 15(1)**: The State shall not discriminate against any citizen on grounds **only** of religion, race, caste, sex, place of birth or any of them.
+* **Article 15(2)**: Horizontal application — No citizen shall be subjected to any disability, liability, restriction or condition regarding access to shops, public restaurants, hotels, places of public entertainment, or the use of wells, tanks, bathing ghats, roads, and places of public resort maintained wholly or partly out of State funds.
+* **Article 15(3)**: Special provisions for **women and children** (protective discrimination / affirmative action).
+* **Article 15(4)**: Added by 1st Constitutional Amendment Act 1951 — Special provisions for advancement of Socially and Educationally Backward Classes (SEBCs), SCs, and STs.
+* **Article 15(5)**: Added by 93rd Constitutional Amendment Act 2005 — Reservation in educational institutions.
+* **Article 15(6)**: Added by 103rd Constitutional Amendment Act 2019 — Up to 10% reservation for Economically Weaker Sections (EWS).
+* **<span style="color: #e53e3e;">Current Affairs & Gender Justice Link (Aug 2026):</span>** <span style="color: #e53e3e;">Section 2 of Shariat Act 1937 challenged before Supreme Court for violating Article 15 by permitting polygamy for Muslim men while subjecting non-Muslims to criminal liability under Section 82 BNS (bigamy up to 7 years), creating religion- and sex-based discrimination against women.</span>
 
 </details>
 
@@ -275,6 +297,28 @@ The State shall endeavour to secure, by suitable legislation or economic organis
 ## Socialistic Significance
 - When workers participate in management, they raise issues about their welfare → this is democratic socialism in action.
 - The provision bridges the gap between the bourgeois (owners) and proletariat (workers) without abolishing private property.
+
+</details>
+
+---
+
+## Article 44 — Uniform Civil Code for the Citizens
+
+> **Part:** IV — Directive Principles of State Policy (DPSP)
+> **Subject:** Liberal-Intellectual Principles
+
+<details>
+<summary>Show Answer</summary>
+
+* **Category**: Directive Principles of State Policy (Part IV) — Non-justiciable in court (Article 37) but fundamental in governance.
+* **Text**: "The State shall endeavour to secure for the citizens a Uniform Civil Code throughout the territory of India."
+* **Core Objective**: To replace fragmented, community-specific personal laws relating to marriage, divorce, maintenance, inheritance, adoption, and succession with a single common set of civil laws for all citizens regardless of religion.
+* **Landmark Judicial Precedents**:
+  * **Shah Bano Case (1985)**: SC observed that Article 44 had remained a "dead letter" and urged the state to enact a UCC to facilitate national integration and gender justice.
+  * **Sarla Mudgal Case (1995)**: SC held that religious conversion cannot be used to escape monogamy laws and reiterated the constitutional necessity of enacting a UCC.
+  * **Shayara Bano Case (2017)**: SC struck down instant triple talaq (*talaq-e-biddat*), reinforcing that gender equality in personal laws is integral to constitutional morality.
+* **<span style="color: #e53e3e;">Current Affairs Link (Aug 2026):</span>** <span style="color: #e53e3e;">Supreme Court examined petitions seeking universal application of Section 82 Bharatiya Nyaya Sanhita (BNS - bigamy punishable up to 7 years) and codification of Muslim Personal Law, reinforcing the progressive spirit of Article 44 towards gender-just matrimonial laws.</span>
+* **21st Law Commission Stand (2018)**: Stated UCC is "neither necessary nor desirable at this stage", but strongly advocated reforming discriminatory provisions within each personal law.
 
 </details>
 

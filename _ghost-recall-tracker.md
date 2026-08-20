@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-20
-*   **Active Micro-Topics:** 165
+*   **Active Micro-Topics:** 167
 *   **Overall Database Mastery:** 72.4% 📈
 *   **Today's Recall Completed:** 20 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1, 2 & 3 Complete)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 16 (Economy Lecture 3 — GDP, GNP & Methods)
+*   **New Topics Ingested Today:** 18 (Economy Lecture 3 [16] + CA 20 Aug 2026 [2])
 *   **Weekly Backlog:** 0
 
 ---
@@ -252,6 +252,8 @@
 | CA-260818-02 | SHANTI Act 2025 Nuclear Liability Caps vs Absolute Liability & Article 21/32 Constitutional Tort | 3 | ★★★★★ | Day 5 | 2026-08-25 | 100% | High 🌟 | 96% | 92% | 2 | 0 | - | 2026-08-20 | Fast 🟢 | `SHANTI Act 2025` $\leftrightarrow$ `Absolute Liability (MC Mehta)` $\leftrightarrow$ `Article 21 & 32` $\leftrightarrow$ `AERB` $\leftrightarrow$ `CSC Nuclear Liability` |
 | CA-260819-01 | Facial Recognition System (FRS) at Protests, Article 21 Privacy & Puttaswamy 4-Prong Proportionality Test | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Article 21 Privacy` $\leftrightarrow$ `Article 19(1)(b) Assembly` $\leftrightarrow$ `Puttaswamy 2017` $\leftrightarrow$ `Proportionality Test` $\leftrightarrow$ `DPDP Act 2023` |
 | CA-260819-02 | 12th BRICS Environment Ministers Meeting: Opposition to EU CBAM Green Protectionism & Tripling Adaptation Finance | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `EU CBAM` $\leftrightarrow$ `BRICS Environment Meeting` $\leftrightarrow$ `CBDR-RC` $\leftrightarrow$ `GATT Art XX vs MFN` $\leftrightarrow$ `COP30 Adaptation Finance` |
+| CA-260820-01 | Polygamy Challenge: Shariat Act Sec 2 vs Articles 14/15/21, Section 82 BNS Bigamy & Sarla Mudgal/Shayara Bano | 2 | ★★★★★ | Day 1 | 2026-08-21 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Polygamy` $\leftrightarrow$ `Section 82 BNS` $\leftrightarrow$ `Section 2 Shariat Act 1937` $\leftrightarrow$ `Articles 14/15/21/25` $\leftrightarrow$ `Shayara Bano` $\leftrightarrow$ `Sarla Mudgal` |
+| CA-260820-02 | Codification of Personal Laws, Compulsory Marriage Registration & Gender Justice vs Article 25 ERP Test | 2 | ★★★★★ | Day 1 | 2026-08-21 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Personal Laws Codification` $\leftrightarrow$ `Compulsory Registration` $\leftrightarrow$ `Matrimonial Rights` $\leftrightarrow$ `ERP Test` $\leftrightarrow$ `Article 44 UCC` $\leftrightarrow$ `21st Law Commission` |
 
 ---
 
