@@ -313,14 +313,16 @@ British economic policies brought:
 - **Attended by:** 100 people, **72** of them were delegates/members
 - **Presided by:** **Womesh Chander Banerjee (W.C. Banerjee)**
 
+<span style="color: #e53e3e;">**UPSC Fact & Delegate Breakdown:** While approximately 100 people were present in the hall (including non-voting official observers, journalists, and sympathizers), exactly **72 official delegates** (representatives) registered from different provinces (38 from Bombay, 21 from Madras, 3 from Bengal, 7 from North-Western Provinces and Oudh, and 3 from Punjab). In standard UPSC Prelims questions and textbook sources (Bipan Chandra, NCERT), it is officially characterized as *"attended by 72 delegates"*.</span>
+
 #### First Four Sessions (Deliberately Planned Diversity)
 
 | Year | City | President | Significance |
 |:---:|:---|:---|:---|
-| **1885** | **Bombay** | W.C. Banerjee (Bengali, Hindu) | First session |
-| **1886** | **Calcutta** | Dadabhai Naoroji (Parsi) | 2nd session |
-| **1887** | **Madras** | Badruddin Tyabji (Muslim) | 3rd session |
-| **1888** | **Allahabad** | George Yule (Anglo-Indian/Christian) | First non-Indian president |
+| **1885** | **Bombay** | W.C. Banerjee (Bengali, Hindu) | First session (72 delegates) |
+| **1886** | **Calcutta** | Dadabhai Naoroji (Parsi) | 2nd session (434 delegates) |
+| **1887** | **Madras** | Badruddin Tyabji (Muslim) | 3rd session (607 delegates) |
+| **1888** | **Allahabad** | George Yule (Anglo-Indian/Christian) | First non-Indian president (1,248 delegates) |
 
 **Three Deliberate Patterns (NOT accidental — all planned):**
 
@@ -345,7 +347,7 @@ Their letters have been **preserved in Shimla** (Shimla was the summer capital o
 - 1857 was the biggest upheaval in Indian history till then — it shook the British Empire like a Richter-8 earthquake
 - The British fear: 50,000 angry Indians outside → dangerous. Better to have 20 gentlemen from Congress who would talk **in English, peacefully, with tea and coffee**
 
-**Who named it "Safety Valve"?** — **Lala Lajpat Rai**, who was himself a congressman but later became a critic, gave this theory its name.
+**Who named it "Safety Valve"?** — <span style="color: #e53e3e;">**Lala Lajpat Rai** coined and popularized the term *"Safety Valve"* in 1916 in his book *Young India* to criticize Moderate methods as "political mendicancy". Later, Marxist historian **R. Palme Dutt** (*India Today*, 1940) articulated the "conspiracy theory" that the Congress was brought into existence through a conspiracy hatched by Dufferin and Hume to abort a popular revolution.</span>
 
 **The Pressure Cooker Analogy:** Just as a pressure cooker releases accumulated steam through a safety valve to prevent explosion, INC was designed to release the political heat/anger of the people before it reached the government directly.
 
@@ -361,15 +363,15 @@ Their argument was based on the following points:
 
 Before INC (going back 3 decades), many political organizations had been established in Bengal, Bombay, and Madras regions:
 
-| Organization | Region |
-|:---|:---:|
-| Bengal East India Association | Bengal |
-| Indian Association | Bengal |
-| East India Association | London/India |
-| Indian Association (Calcutta) | Bengal |
-| Poona Sarvajanik Sabha | Bombay/Pune |
-| Bombay Presidency Association | Bombay |
-| Madras Mahajan Sabha | Madras |
+| Organization | Year | Region | Key Founders |
+|:---|:---:|:---:|:---|
+| <span style="color: #e53e3e;">**Landholders' Society (Zamindari Association)**</span> | <span style="color: #e53e3e;">1838</span> | <span style="color: #e53e3e;">Bengal</span> | <span style="color: #e53e3e;">Dwarkanath Tagore, Radhakanta Deb</span> |
+| <span style="color: #e53e3e;">**British Indian Association**</span> | <span style="color: #e53e3e;">1851</span> | <span style="color: #e53e3e;">Bengal</span> | <span style="color: #e53e3e;">Debendranath Tagore, Radhakanta Deb</span> |
+| <span style="color: #e53e3e;">**East India Association**</span> | <span style="color: #e53e3e;">1866</span> | <span style="color: #e53e3e;">London / India</span> | <span style="color: #e53e3e;">Dadabhai Naoroji</span> |
+| <span style="color: #e53e3e;">**Poona Sarvajanik Sabha**</span> | <span style="color: #e53e3e;">1870</span> | <span style="color: #e53e3e;">Bombay / Pune</span> | <span style="color: #e53e3e;">M.G. Ranade, G.V. Joshi, S.H. Chiplunkar</span> |
+| <span style="color: #e53e3e;">**Indian Association of Calcutta**</span> | <span style="color: #e53e3e;">1876</span> | <span style="color: #e53e3e;">Bengal</span> | <span style="color: #e53e3e;">Surendranath Banerjee, Ananda Mohan Bose</span> |
+| <span style="color: #e53e3e;">**Madras Mahajan Sabha**</span> | <span style="color: #e53e3e;">1884</span> | <span style="color: #e53e3e;">Madras</span> | <span style="color: #e53e3e;">M. Veeraraghavachariar, G. Subramania Iyer, P. Anandacharlu</span> |
+| <span style="color: #e53e3e;">**Bombay Presidency Association**</span> | <span style="color: #e53e3e;">1885</span> | <span style="color: #e53e3e;">Bombay</span> | <span style="color: #e53e3e;">Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji ('The Triumvirate')</span> |
 
 The **members of these political organizations regularly met Dadabhai Naoroji** (in London) and **A.O. Hume** (in India). They felt the **need of an all-India political organization**. These people shared common political thoughts and ideas.
 
@@ -377,13 +379,13 @@ The **members of these political organizations regularly met Dadabhai Naoroji** 
 
 **Modern connectivity made this possible:** Railways (1853), Post & Telegraph (1853), Transatlantic cables (1870), newspapers — ideas from Bengal could now travel to Madras, Bombay, and London. Like-minded people converge naturally.
 
-**(b) Why English Were Included in INC:**
+**(b) Why English Were Included in INC & The "Lightning Conductor" Theory:**
 
 These nationalists **deliberately** included some English (like A.O. Hume) in INC because:
 - Those English were **retired civil servants** with good networks
 - Their **presence in Congress would NOT have invited suspicion** in the minds of British authorities
 - If only Indians were in Congress, British would be suspicious ("What are these Indians planning?") — 1857 was recent memory
-- **Important Distinction:** Not all English were bad (just as not all Indians were good) — some English genuinely wanted positive change (e.g., A.O. Hume, C.F. Andrews)
+- <span style="color: #e53e3e;">**Gopal Krishna Gokhale's "Lightning Conductor" Theory (1913):** As Gokhale famously put it: *"No Indian could have started the Indian National Congress... If an Indian had come forward to start such a movement, the officials would not have allowed it to come into existence. If the founder of the Congress had not been an Englishman and a distinguished ex-official, such was the distrust of political agitation in those days that the authorities would have at once found some way or the other of suppressing the movement."* Early nationalists thus used Hume as a 'lightning conductor' to catalyze the national movement without immediately inviting colonial repression.</span>
 
 **(c) Congress Leaders Did NOT Demand Freedom:**
 
@@ -502,6 +504,7 @@ The activities of early moderates helped in **arousing patriotic feeling among a
 
 ---
 
+<!-- 2026-08-21: Post-Session 14 Enrichment — Added 72 official delegates provincial breakdown, Lala Lajpat Rai Young India (1916) Safety Valve origin, R. Palme Dutt conspiracy thesis, Gokhale Lightning Conductor theory (1913), and detailed Pre-INC Political Associations table with founding years and key founders in light red styling. -->
 <!-- 2026-08-21: Added Lecture 2 — Formation of INC (Safety Valve Theory, Nationalist Theory, deliberate diversity in sessions, Sessions Formula), Moderate Phase of INC (8 demands, Famine Code 1883, nature of struggle, significance & criticism). Source: handwritten notes + audio transcript dated 21 Aug 2026. -->
 <!-- 2026-08-16: Further enriched Factor G with detailed ICS examination age reduction (1876: 21 to 19 years), SN Banerjee's Indian Association pan-Indian Civil Service Agitation, and Delhi Durbar details in light red styling. -->
 <!-- 2026-08-15: Enriched with Factor G — Lord Lytton's reactionary policies (Vernacular Press Act 1878, Arms Act 1878, ICS age reduction) and the Ilbert Bill Controversy (1883) as key catalytic triggers for modern Indian nationalism. -->
