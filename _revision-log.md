@@ -25,13 +25,28 @@
 | Current_Affairs | Current Affairs (17 August 2026) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2017, 2020, 2023 | Added CA-260817-01 to CA-260817-03 (Delhi CEO SIR Electoral Rolls Digitisation & Rule 21A Deletion Safeguards; ONOE Parliamentary Accountability vs Truncated Terms; ONOE Federal Autonomy & Constitutional Amendments Matrix). |
 | Current_Affairs | Current Affairs (18 August 2026) | 2026-08-18 | 0 | 0% | 2026-08-19 | New | 2015, 2020, 2022 | Added CA-260818-01 & CA-260818-02 (SC Elephant Corridors Survey, WPA 1972 Schedule I & State Blockade Ban; SHANTI Act 2025 Nuclear Liability Caps vs Absolute Liability M.C. Mehta & Art 21/32 Constitutional Tort). |
 | Current_Affairs | Current Affairs (19 August 2026) | 2026-08-19 | 0 | 0% | 2026-08-20 | New | 2018, 2020, 2021, 2023 | Added CA-260819-01 & CA-260819-02 (SC FRS Proportionality Scrutiny under Art 21/19(1)(b) & Puttaswamy 4-Prong Test; 12th BRICS Environment Ministers Joint Statement against EU CBAM Green Protectionism & Tripling COP30 Adaptation Finance). |
-| Current_Affairs | Current Affairs (20 August 2026) | 2026-08-20 | 0 | 0% | 2026-08-21 | New | 2017, 2019, 2021, 2024 | Added CA-260820-01 & CA-260820-02 (SC Polygamy Scrutiny, Shariat Act Sec 2 vs Articles 14/15/21, Section 82 BNS Bigamy 7-Yr Penalty, Shayara Bano/Sarla Mudgal Precedents, Compulsory Marriage Registration & Codification). |
+| GS_History_VR_Notes | Modern India (L1–L2: Nationalism, INC Formation & Moderates) | 2026-08-21 | 4 | 75.0% | 2026-08-24 | Confident | 2015, 2017, 2019, 2022 | Mastered Lytton reactionary catalysts (MST-016), Moderate demands & Famine Code 1883, Safety Valve vs Nationalist theory. Reviewing INC first sessions & presidential rotation conventions (MST-021). |
+| Current_Affairs | Current Affairs (18–20 August 2026) | 2026-08-21 | 4 | 75.0% | 2026-08-24 | Confident | 2017, 2019, 2021, 2024 | Mastered Polygamy & Section 82 BNS / Shariat Act, FRS Puttaswamy 4-Prong Proportionality, Elephant Corridors Right of Passage. Reviewing CLND Act Sec 17 Right of Recourse (MST-023). |
 
 ---
 
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 14 — 2026-08-21
+- **Subject:** GS_History, GS_Polity, GS_Geography, GS_Economy, Current Affairs
+- **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
+- **Score:** 13.98 / 30.00 (Net Score: +18.00 - 4.02 = 13.98 | Accuracy: 60.00% — 9/15 correct | 6 Incorrect | 0 Unattempted)
+- **Mains Answer Score:** 0.00 / 10.00 (Not attempted by user)
+- **Strengths:** Flawless mastery on Catalysts for Indian Nationalism & Lytton ICS age (`MST-016` Resolved 🟢), Moderate Phase Demands & Famine Code 1883 (`MOD-B2-02`), SC Polygamy Scrutiny & Section 82 BNS (`CA-260820-01`), Facial Recognition System & Puttaswamy 4-prong proportionality (`CA-260819-01`), Elephant Corridors Right of Passage & WPA 1972 (`CA-260818-01`), GDCF components & Production vs Product Taxes (`MST-007`/`MST-011` Resolved 🟢), Mantle Convection & Moho/Gutenberg discontinuities (`GEO-04-05`/`GEO-04-08`), Nationalist Theory vs Safety Valve (`MOD-B2-01`), and IDL West-East Gain Day & Planetary Winds (`MST-001`/`MST-002` Resolved 🟢).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-020 / Presidential Veto on Money Bills & Art 71(2) Invalidation:* Under Art 111 proviso, President CANNOT return a Money Bill for reconsideration (no suspensive veto); only Assent or Withhold. Under Art 71(2), acts done prior to SC declaring election void remain valid (`MST-020` Repeat Error ⚠️).
+  - *MST-021 / Early INC Organizational Architecture:* 1885 Bombay Tejpal Sanskrit College had 72 delegates under W.C. Banerjee; President NEVER belonged to host province; George Yule (1888 Allahabad) was 1st non-Indian President (`MST-021` New Entry ⚠️).
+  - *MST-022 / Trans-Himalayan Drainage:* Shyok and Nubra rivers drain WEST into the Indus system, NOT eastward into Tsangpo-Brahmaputra (`MST-022` New Entry ⚠️).
+  - *MST-023 / Nuclear Liability CLND Act 2010:* Operator has statutory Right of Recourse against supplier under Section 17(b) for defective equipment (`MST-023` New Entry ⚠️).
+  - *MST-024 / Finance Commission Constitutional Status:* FC is a Constitutional Body under Art 280 constituted every 5 years by President, NOT a statutory body every 10 years (`MST-024` New Entry ⚠️).
+  - *MST-025 / Mineral Taxation Entry 50 List II:* Royalty is NOT a tax; Entry 50 List II belongs to States, NOT exclusive Parliamentary retention (`MST-025` New Entry ⚠️).
 
 ### Session 13 — 2026-08-17
 - **Subject:** GS_Polity, GS_History, GS_Geography, GS_Economy, Current Affairs
