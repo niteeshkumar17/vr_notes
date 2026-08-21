@@ -252,20 +252,18 @@ British economic policies brought:
 - This realization gave birth to **national consciousness**
 - **Note:** British built railways for **economic exploitation & military transportation** — the positive spin-off on national unity was unintended
 
-<span style="color: #e53e3e;">
-### Factor G: Reactionary Colonial Policies & Racial Arrogance (Lytton & Ilbert Bill)
+<span style="color: #e53e3e;">**Factor G: Reactionary Colonial Policies & Racial Arrogance (Lytton & Ilbert Bill)**</span>
 
-- **Reactionary Viceroyalty of Lord Lytton (1876–1880):**
-  - **ICS Examination Age Reduction (1876):** Lowered the maximum age limit for Indian Civil Service examinations from **21 to 19 years** to deliberately handicap and exclude Indian candidates (who had to travel to London and write in English against native British graduates).
-  - **First Pan-Indian Agitation (Civil Service Agitation):** **Surendranath Banerjee** and **Ananda Mohan Bose** organized the **Indian Association (1876)** in Calcutta and launched an all-India campaign, with Banerjee touring northern, western, and southern India to mobilize public opinion and present a mass memorial to the British Parliament against the ICS age reduction — considered the **first pan-Indian political agitation**.
-  - **Vernacular Press Act (1878):** Known as the *"Gagging Act"*, specifically targeted vernacular newspapers (like *Amrita Bazar Patrika* which switched to English overnight) to suppress nationalist criticism while exempting English-language press.
-  - **Arms Act (1878):** Imposed racial discrimination by mandating licenses for Indians to carry firearms while exempting Europeans and Anglo-Indians.
-  - **Imperial Delhi Durbar (1877):** Lavish imperial grand durbar organized to proclaim Queen Victoria as *Kaiser-i-Hind* while millions were dying in the catastrophic Great Famine of 1876–78 (*"Nero was fiddling while Rome was burning"*).
-- **Ilbert Bill Controversy (1883) under Lord Ripon:**
-  - Law Member **C.P. Ilbert** proposed granting Indian District Magistrates and Sessions Judges jurisdiction to try European British subjects.
-  - White European community launched a virulent, racially charged agitation (*European and Anglo-Indian Defence Association*), forcing Ripon to compromise (allowing Europeans to claim trial by a jury comprising 50% Europeans).
-  - **Impact:** Shattered any illusion of British "racial equality" or fair play, proving to the educated middle class that organized pan-Indian political agitation was the only path forward, directly paving the way for the **Indian National Congress (1885)**.
-</span>
+- <span style="color: #e53e3e;">**Reactionary Viceroyalty of Lord Lytton (1876–1880):**</span>
+  - <span style="color: #e53e3e;">**ICS Examination Age Reduction (1876):** Lowered the maximum age limit for Indian Civil Service examinations from **21 to 19 years** to deliberately handicap and exclude Indian candidates (who had to travel to London and write in English against native British graduates).</span>
+  - <span style="color: #e53e3e;">**First Pan-Indian Agitation (Civil Service Agitation):** **Surendranath Banerjee** and **Ananda Mohan Bose** organized the **Indian Association (1876)** in Calcutta and launched an all-India campaign, with Banerjee touring northern, western, and southern India to mobilize public opinion and present a mass memorial to the British Parliament against the ICS age reduction — considered the **first pan-Indian political agitation**.</span>
+  - <span style="color: #e53e3e;">**Vernacular Press Act (1878):** Known as the *"Gagging Act"*, specifically targeted vernacular newspapers (like *Amrita Bazar Patrika* which switched to English overnight) to suppress nationalist criticism while exempting English-language press.</span>
+  - <span style="color: #e53e3e;">**Arms Act (1878):** Imposed racial discrimination by mandating licenses for Indians to carry firearms while exempting Europeans and Anglo-Indians.</span>
+  - <span style="color: #e53e3e;">**Imperial Delhi Durbar (1877):** Lavish imperial grand durbar organized to proclaim Queen Victoria as *Kaiser-i-Hind* while millions were dying in the catastrophic Great Famine of 1876–78 (*"Nero was fiddling while Rome was burning"*).</span>
+- <span style="color: #e53e3e;">**Ilbert Bill Controversy (1883) under Lord Ripon:**</span>
+  - <span style="color: #e53e3e;">Law Member **C.P. Ilbert** proposed granting Indian District Magistrates and Sessions Judges jurisdiction to try European British subjects.</span>
+  - <span style="color: #e53e3e;">White European community launched a virulent, racially charged agitation (*European and Anglo-Indian Defence Association*), forcing Ripon to compromise (allowing Europeans to claim trial by a jury comprising 50% Europeans).</span>
+  - <span style="color: #e53e3e;">**Impact:** Shattered any illusion of British "racial equality" or fair play, proving to the educated middle class that organized pan-Indian political agitation was the only path forward, directly paving the way for the **Indian National Congress (1885)**.</span>
 
 ---
 
