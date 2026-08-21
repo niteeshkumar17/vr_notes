@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-21
-*   **Active Micro-Topics:** 169
+*   **Active Micro-Topics:** 171
 *   **Overall Database Mastery:** 76.8% 📈
 *   **Today's Recall Completed:** 25 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1, 2 & 3 Complete — Full Morning Queue Cleared!)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 2
+*   **New Topics Ingested Today:** 4
 *   **Weekly Backlog:** 0
 
 ---
@@ -256,6 +256,8 @@
 | CA-260819-02 | 12th BRICS Environment Ministers Meeting: Opposition to EU CBAM Green Protectionism & Tripling Adaptation Finance | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `EU CBAM` $\leftrightarrow$ `BRICS Environment Meeting` $\leftrightarrow$ `CBDR-RC` $\leftrightarrow$ `GATT Art XX vs MFN` $\leftrightarrow$ `COP30 Adaptation Finance` |
 | CA-260820-01 | Polygamy Challenge: Shariat Act Sec 2 vs Articles 14/15/21, Section 82 BNS Bigamy & Sarla Mudgal/Shayara Bano | 2 | ★★★★★ | Day 2 | 2026-08-23 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-21 | Fast 🟢 | `Polygamy` $\leftrightarrow$ `Section 82 BNS` $\leftrightarrow$ `Section 2 Shariat Act 1937` $\leftrightarrow$ `Articles 14/15/21/25` $\leftrightarrow$ `Shayara Bano` $\leftrightarrow$ `Sarla Mudgal` |
 | CA-260820-02 | Codification of Personal Laws, Compulsory Marriage Registration & Gender Justice vs Article 25 ERP Test | 2 | ★★★★★ | Day 2 | 2026-08-23 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-21 | Fast 🟢 | `Personal Laws Codification` $\leftrightarrow$ `Compulsory Registration` $\leftrightarrow$ `Matrimonial Rights` $\leftrightarrow$ `ERP Test` $\leftrightarrow$ `Article 44 UCC` $\leftrightarrow$ `21st Law Commission` |
+| CA-260821-01 | SC 9-Judge Bench: IRC 2020 Clean Slate vs 1978 Bangalore Water Supply Triple Test & Labour Welfare | 2 | ★★★★★ | Day 1 | 2026-08-22 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bangalore Water Supply 1978` $\leftrightarrow$ `IRC 2020 Sec 2(p)` $\leftrightarrow$ `Triple Test` $\leftrightarrow$ `IDA 1947 Sec 2(j)` $\leftrightarrow$ `Article 43A` |
+| CA-260821-02 | Section 295A IPC / 299 BNS: 'Truth No Defence' Doctrine, Heckler's Veto & Ambedkar's Social Reform Priority | 2 | ★★★★★ | Day 1 | 2026-08-22 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Section 295A / 299 BNS` $\leftrightarrow$ `Henry Rodrigues 1961` $\leftrightarrow$ `Article 19(1)(a)/19(2)` $\leftrightarrow$ `Article 25(2)(b)` $\leftrightarrow$ `Heckler's Veto` $\leftrightarrow$ `Perumal Murugan 2016` |
 
 ---
 

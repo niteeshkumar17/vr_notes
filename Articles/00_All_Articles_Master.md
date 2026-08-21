@@ -137,6 +137,10 @@
 <summary>Show Answer</summary>
 
 * **Category**: Fundamental Rights (Part III)
+* **Article 19(1)(a)**: Guarantees Freedom of Speech and Expression (source of Right to Information). <span style="color: #e53e3e;">SC in Aug 2026 DPDP Act hearing noted journalists are not a "special category" with unreserved access to personal data over privacy laws.</span>
+* **Article 19(2)**: Restricts 19(1)(a) on 8 grounds: (i) Sovereignty & Integrity of India, (ii) Security of State, (iii) Friendly relations with foreign States, (iv) Public Order, (v) Decency or Morality, (vi) Contempt of Court, (vii) Defamation, (viii) Incitement to an offence. <span style="color: #e53e3e;">In blasphemy and hate speech jurisprudence (Section 295A IPC / Section 299 BNS), courts have cautioned against the 'Heckler's Veto' and pre-emptive censorship. Per the 2016 Madras HC ruling (Perumal Murugan case), the constitutional mandate is to protect free expression against mob censorship, requiring speech restrictions to satisfy a direct 'spark in a powder keg' test (Shreya Singhal / S. Rangarajan) rather than penalizing rational critique or progressive social reform.</span>
+* **Article 19(1)(b)**: Guarantees citizens the right to assemble peaceably and without arms. <span style="color: #e53e3e;">SC in NEET protest FRS hearing (Aug 2026) highlighted that indiscriminate biometric surveillance and facial recognition at demonstration sites must be tested for impermissible "chilling effect" on peaceful democratic assembly.</span>
+* **Article 19(3)**: Restricts 19(1)(b) on 2 specific grounds only: **(i) Sovereignty and integrity of India, or (ii) Public order**.
 * **Article 19(1)(c)**: Guarantees citizens the right to form associations, unions, or non-governmental organizations (NGOs), including the right to function and seek funding.
 * **Article 19(4)**: Restricts 19(1)(c) on 3 specific grounds: **(i) Sovereignty & Integrity of India, (ii) Public Order, or (iii) Morality**.
 
@@ -192,6 +196,8 @@ Subject to public order, morality and health, all persons are equally entitled t
 - Western Secularism = separation of religion from politics (state has NO relation with religion).
 - Indian/Eastern Secularism = complex triangular relationship between Religion, Individual, and State — the state does not separate itself from religion but treats all religions equally.
 - Art. 25 ensures individuals can freely practice their religion while the state remains neutral/equidistant.
+- **<span style="color: #e53e3e;">Personal Laws & ERP Test (Aug 2026):</span>** <span style="color: #e53e3e;">Article 25 is expressly subject to other provisions of Part III (Articles 14, 15, 21). Polygamy under Section 2 of Shariat Act 1937 is permissible/customary but not an Essential Religious Practice (ERP), making it subject to State regulatory power for social welfare and gender reform under Article 25(2)(b).</span>
+- **<span style="color: #e53e3e;">Article 25(2)(b) & Social Reform Supremacy (Aug 2026):</span>** <span style="color: #e53e3e;">Article 25(2)(b) explicitly saves the State's power to provide for social welfare and reform. As Dr. B.R. Ambedkar declared in the Constituent Assembly (Dec 2, 1948), religion cannot claim an expansive veto over progressive social legislation or personal law reform. Consequently, state anti-superstition enactments (e.g., Sati Act 1987, Maharashtra Act 2013, Karnataka Act 2017) and rationalist critiques of dogma take constitutional precedence over subjective religious hurt feelings under penal laws.</span>
 
 </details>
 
@@ -297,6 +303,35 @@ The State shall endeavour to secure, by suitable legislation or economic organis
 ## Socialistic Significance
 - When workers participate in management, they raise issues about their welfare → this is democratic socialism in action.
 - The provision bridges the gap between the bourgeois (owners) and proletariat (workers) without abolishing private property.
+- **<span style="color: #e53e3e;">Labour Codes & Modern Jurisprudence (Aug 2026):</span>** <span style="color: #e53e3e;">Article 43 and Article 43A provide the constitutional bedrock for India's 4 Labour Codes (Wage Code 2019, IRC 2020, Social Security Code 2020, OSH Code 2020). The SC 9-judge bench (Aug 2026) reaffirmed that while modern economic efficiency requires interpreting the Industrial Relations Code 2020 on a clean slate without the 1978 Bangalore Water Supply judicial burden, the constitutional mandate to ensure living wage, safety, and dispute recourse remains paramount.</span>
+
+</details>
+
+---
+
+## Article 43A — DPSP: Participation of Workers in Management of Industries
+
+> **Part:** IV — Directive Principles of State Policy
+> **Subject:** Participation of workers in management of industries
+> **Added by:** 42nd Constitutional Amendment Act, 1976
+
+<details>
+<summary>Show Answer</summary>
+
+## Text
+
+The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings, establishments or other organisations engaged in any industry.
+
+## Key Constitutional Points
+* Added by the **42nd Constitutional Amendment Act, 1976** under the Indira Gandhi administration, reflecting the socialistic commitments inserted into the Preamble.
+* Falls under the **Socialistic Principles** of Part IV (DPSPs).
+* **Industrial Democracy:** Elevates the status of workers from mere wage earners/factors of production to partners in the industrial and economic decision-making process.
+* Complements **Article 43** (Living wage and decent standard of life) and **Article 39(b)/(c)** (Prevention of wealth concentration and equitable distribution of resources).
+* **Not justiciable** in courts (Article 37) but fundamental in the governance of the country and acts as a guiding light for labour legislation.
+
+## Landmark Jurisprudence & Contemporary Relevance
+* **1978 Bangalore Water Supply Case (Justice V.R. Krishna Iyer):** Expansively defined 'industry' under Section 2(j) of the Industrial Disputes Act, 1947 using the 'triple test' to protect workers' collective bargaining rights in educational institutions, hospitals, and municipalities.
+* **<span style="color: #e53e3e;">Supreme Court 9-Judge Bench Verdict (Aug 2026):</span>** <span style="color: #e53e3e;">Held that the 1978 Bangalore Water Supply expansive definition of 'industry' will NOT apply to the new Industrial Relations Code (IRC), 2020. Section 2(p) of IRC 2020 must be interpreted on a 'clean slate' according to its own text and context, while the 1978 triple test continues to govern pending industrial disputes.</span>
 
 </details>
 

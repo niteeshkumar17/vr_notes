@@ -21,5 +21,9 @@ The State shall endeavour to secure, by suitable legislation or economic organis
 ## Socialistic Significance
 - When workers participate in management, they raise issues about their welfare → this is democratic socialism in action.
 - The provision bridges the gap between the bourgeois (owners) and proletariat (workers) without abolishing private property.
+- **<span style="color: #e53e3e;">Labour Codes & Modern Jurisprudence (Aug 2026):</span>** <span style="color: #e53e3e;">Article 43 and [Article 43A](Article_43A.md) provide the constitutional bedrock for India's 4 Labour Codes (Wage Code 2019, IRC 2020, Social Security Code 2020, OSH Code 2020). The SC 9-judge bench (Aug 2026) reaffirmed that while modern economic efficiency requires interpreting the Industrial Relations Code 2020 on a clean slate without the 1978 Bangalore Water Supply judicial burden, the constitutional mandate to ensure living wage, safety, and dispute recourse remains paramount.</span>
 
 </details>
+
+<!-- 2026-08-21: Enriched Article 43 with 4 Labour Codes architecture, Article 43A linkage, and SC 9-judge bench ruling on IRC 2020 vs 1978 Bangalore Water Supply case. -->
+
