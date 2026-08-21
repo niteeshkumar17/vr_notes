@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-21
-*   **Active Micro-Topics:** 167
-*   **Overall Database Mastery:** 77.2% 📈
+*   **Active Micro-Topics:** 169
+*   **Overall Database Mastery:** 76.8% 📈
 *   **Today's Recall Completed:** 25 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1, 2 & 3 Complete — Full Morning Queue Cleared!)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 2
 *   **Weekly Backlog:** 0
 
 ---
@@ -65,6 +65,8 @@
 | MOD-B1-02 | Origin of Nationalism: Europe & America (1776–1848) | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `American Rev 1776` $\leftrightarrow$ `French Rev 1789` $\leftrightarrow$ `European Rev 1830/1848` $\leftrightarrow$ `Nation-States` |
 | MOD-B1-03 | Nationalism in India: When, Where, Among Whom | 2 | ★★★★★ | Day 2 | 2026-08-15 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-13 | Fast 🟢 | `Bengal/Bombay/Madras` $\leftrightarrow$ `Middle Educated Class` $\leftrightarrow$ `1860s-80s` $\leftrightarrow$ `Nation in Making (1903)` |
 | MOD-B1-04 | Six Factors for Emergence of Indian Nationalism | 3 | ★★★★★ | Day 5 | 2026-08-22 | 100% | High 🌟 | 96% | 94% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Admin Unification` $\leftrightarrow$ `Uniform IPC/CrPC` $\leftrightarrow$ `Reform Movements` $\leftrightarrow$ `Economic Exploitation` $\leftrightarrow$ `Liberal Thought` $\leftrightarrow$ `Transport/Communication` |
+| MOD-B2-01 | Formation of INC: Safety Valve vs Nationalist Theory | 3 | ★★★★★ | Day 1 | 2026-08-22 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Safety Valve Theory` $\leftrightarrow$ `Hume-Dufferin Letters (Shimla)` $\leftrightarrow$ `Lala Lajpat Rai` $\leftrightarrow$ `Nationalist Theory` $\leftrightarrow$ `Pre-INC Orgs` $\leftrightarrow$ `Dadabhai Naoroji` |
+| MOD-B2-02 | Moderate Phase of INC: Demands, Methods & Significance (1885–1905) | 2 | ★★★★★ | Day 1 | 2026-08-22 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `8 Demands` $\leftrightarrow$ `Famine Code 1883` $\leftrightarrow$ `Petitions/Prayers` $\leftrightarrow$ `Indian Councils Act 1892/1909` $\leftrightarrow$ `Urban Upper-Caste Critique` $\leftrightarrow$ `Democratic Secular Platform` |
 
 ### Geography (Fundamentals & Geomorphology)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
