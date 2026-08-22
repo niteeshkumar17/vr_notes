@@ -28,6 +28,7 @@
 | GS_History_VR_Notes | Modern India (L1–L2: Nationalism, INC Formation & Moderates) | 2026-08-21 | 4 | 75.0% | 2026-08-24 | Confident | 2015, 2017, 2019, 2022 | Mastered Lytton reactionary catalysts (MST-016), Moderate demands & Famine Code 1883, Safety Valve vs Nationalist theory. Reviewing INC first sessions & presidential rotation conventions (MST-021). |
 | Current_Affairs | Current Affairs (18–20 August 2026) | 2026-08-21 | 4 | 75.0% | 2026-08-24 | Confident | 2017, 2019, 2021, 2024 | Mastered Polygamy & Section 82 BNS / Shariat Act, FRS Puttaswamy 4-Prong Proportionality, Elephant Corridors Right of Passage. Reviewing CLND Act Sec 17 Right of Recourse (MST-023). |
 | Current_Affairs | Current Affairs (21 August 2026) | 2026-08-21 | 0 | 0% | 2026-08-22 | New | 2016, 2018, 2021, 2024 | Added CA-260821-01 & CA-260821-02 (SC 9-Judge Bench: IRC 2020 Clean Slate vs 1978 Bangalore Water Supply Triple Test & Labour Welfare; Section 295A IPC / 299 BNS: 'Truth No Defence' Doctrine, Heckler's Veto & Ambedkar's Social Reform Priority). |
+| Current_Affairs | Current Affairs (22 August 2026) | 2026-08-22 | 0 | 0% | 2026-08-23 | New | 2015, 2017, 2021, 2024 | Added CA-260822-01 & CA-260822-02 (SC on MGNREGA vs VB-G RAM G Act, Right to Work Art 21 vs DPSP Art 41 & 60:40 Fiscal Federalism Shift; Rural Minimum Wages, Art 21 Dignity & Art 23 Forced Labour Jurisprudence PUDR/Sanjit Roy). |
 
 ---
 
