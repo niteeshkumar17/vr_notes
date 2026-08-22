@@ -36,6 +36,18 @@
 
 *(Most recent first)*
 
+### Session 15 — 2026-08-22
+- **Subject:** GS_Economy, GS_Polity, GS_History, GS_Geography, Current Affairs
+- **Format:** 15 Prelims MCQs + 1 Mains Answer Outline
+- **Score:** 17.33 / 30.00 (Net Score: +20.00 - 2.67 = 17.33 | Accuracy: 71.43% — 10/14 correct | 4 Incorrect | 1 Unattempted)
+- **Mains Answer Score:** Separately evaluated / Pending outline submission
+- **Strengths:** Flawless mastery on RBI Surplus Transfer & Bimal Jalan Committee (`ECO-01-01`), DPSP Worker Welfare Art 43 & 43A (`POL-03-01`), Presidential Veto on Money Bills under Art 111 & Art 71(2) (`MST-020` Resolved 🟢), Finance Commission Art 280 & Art 275/282 Grants (`MST-024` Resolved 🟢), Early INC Conventions & George Yule (`MST-021` Resolved 🟢), Mineral Taxation & Entry 50 List II (`MST-025` Resolved 🟢), Production vs Product Taxes GVA (`MST-011` Resolved 🟢), Planetary Pressure Belts & Subpolar Low dynamic origin (`MST-002` Resolved 🟢), Wetland Conservation Rules 2017 (`MST-010` Resolved 🟢), and International Date Line West-East Gain Day (`MST-001` Resolved 🟢).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-026 / Asset Monetisation vs Disinvestment Classification:* Asset Monetisation is leasing/renting of operational assets with sovereign ownership retention = Non-Tax Revenue Receipt. Disinvestment is sale of equity/property = Non-Debt Capital Receipt. NMP involves structured concessions, NOT permanent asset sale (`MST-026` New Entry ⚠️).
+  - *MST-023 / Nuclear Liability CLND Act 2010:* Operator has EXCLUSIVE and ABSOLUTE liability towards victims (*M.C. Mehta*). Right of recourse against supplier exists under Section 17(b) (`MST-023` Repeat Error ⚠️).
+  - *MST-027 / Charter Act 1833 vs 1853 Legislative Council:* 1833 ended commercial monopoly completely & set up 1st Law Commission; 1853 created separate 6-member Indian Legislative Council (`MST-027` New Entry ⚠️).
+  - *MST-022 / Trans-Himalayan Drainage (Q9 Unattempted):* Shyok and Nubra rivers drain WEST into the Indus system, NOT eastward into Tsangpo-Brahmaputra (`MST-022` Active ⚠️).
+
 ### Session 14 — 2026-08-21
 - **Subject:** GS_History, GS_Polity, GS_Geography, GS_Economy, Current Affairs
 - **Format:** 15 Prelims MCQs + 1 Mains Answer Outline

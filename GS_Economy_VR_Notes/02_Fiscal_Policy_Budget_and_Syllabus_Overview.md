@@ -132,6 +132,7 @@ Revenue Receipts are divided into:
 #### Asset Monetisation
 - **Definition:** Giving government property **on rent or on lease** *(lease = temporary ownership)* — NOT selling
 - **Key Distinction:** Disinvestment = **selling** govt property (Capital Receipt); Asset Monetisation = **renting/leasing** (Non-Tax Revenue Receipt)
+- <span style="color: #e53e3e;">**UPSC Prelims Trap:** Under the National Monetisation Pipeline (NMP), core brownfield infrastructure assets (highways, pipelines, railway tracks) are leased out under structured contractual concession frameworks for a fixed period. Sovereign ownership is strictly retained by the government, and assets revert back. Hence, proceeds from NMP/Asset Monetisation are classified as **Non-Tax Revenue Receipts**, whereas Disinvestment (selling equity/assets permanently) is a **Non-Debt Capital Receipt**.</span>
 - **Examples:**
   - National highway monetised → land under highway pillars given to hotels, petrol pumps → ₹15,000 crore earned
   - Railway land along tracks → given on rent to private parties (go-downs, commercial use)
@@ -562,3 +563,4 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 ---
 
 <!-- 2026-08-22: Chapter created from Economy Lecture 1 (new teacher). Covers syllabus overview, budget structure, taxation (direct/indirect, GST vs VAT), deficits introduction, FRBM Act, Finance Commission, inclusive growth with infrastructure examples, UNDP HDRs, sustainable development, employment & unemployment types and measurement. -->
+<!-- 2026-08-22: Enriched Asset Monetisation vs Disinvestment classification and NMP sovereign ownership safeguards following Evening MCQ Session 15. -->
