@@ -1,9 +1,9 @@
-# GS Economy — Lecture 02: Fiscal Policy, Budget & Syllabus Overview
+# GS Economy — Lecture 01: Fiscal Policy, Budget & Syllabus Overview
 
 *Date added: 2026-08-22*
 *Lecture date: 2026-08-22*
 
-> **Source:** Vajiram & Ravi — Economy Teacher (Lecture 1) | Class Notes + Transcript
+> **Source:** Vajiram & Ravi — Economy Teacher (Lecture 01) | Class Notes + Transcript
 
 ---
 
@@ -28,7 +28,7 @@
 6. **The Hindu** — Current Affairs
 7. **The Recitals** + **Vajiram Portal** — Current Affairs supplements
 
-> 💡 **Study Approach:** "Instead of 10 books read once, take 1 standard book read 10 times." Keep newspaper cuttings ONLY for topics already covered in class. Update notes with current affairs additions after each chapter.
+> **Study Approach:** "Instead of 10 books read once, take 1 standard book read 10 times." Keep newspaper cuttings ONLY for topics already covered in class. Update notes with current affairs additions after each chapter.
 
 ---
 
@@ -103,9 +103,9 @@ Revenue Receipts are divided into:
 | **Disinvestment** | Obtained through selling govt property (e.g., Air India sold to Tata) |
 | **Borrowings** | Creates liability (₹1 lakh crore borrowed → must return ₹1.1 lakh crore with interest) |
 
-> 💡 **Memory Aid:** Capital receipts = **huge sums** involved. "A capitalist has a good amount of money."
+> **Memory Aid:** Capital receipts = **huge sums** involved. "A capitalist has a good amount of money."
 
-> 🎯 **UPSC Logic Test:** *"Why is borrowing a Capital Receipt and NOT Revenue Receipt?"*
+> **UPSC Logic Test:** *"Why is borrowing a Capital Receipt and NOT Revenue Receipt?"*
 > Because borrowing **creates liability** → fits Capital Receipt definition. Revenue Receipt definition says "does NOT create liability" → borrowing cannot be kept under Revenue.
 
 ---
@@ -159,7 +159,7 @@ Revenue Expenditure is further divided into:
   - Export services
   - A host of services which government provides on a day-to-day basis to **industry, agriculture and various other sectors**
 
-> 💡 **Understanding "Developmental":** Teacher's salary in a government school = **Developmental** (directly contributes to skill development/education). Non-teaching staff salary = **Non-developmental** (essential but doesn't directly develop human capital). Similarly, doctor's salary = Developmental; hospital gatekeeper/clerk = Non-developmental.
+> **Understanding "Developmental":** Teacher's salary in a government school = **Developmental** (directly contributes to skill development/education). Non-teaching staff salary = **Non-developmental** (essential but doesn't directly develop human capital). Similarly, doctor's salary = Developmental; hospital gatekeeper/clerk = Non-developmental.
 
 #### (ii) Non-Developmental Revenue Expenditure
 Comprises expenditure of:
@@ -171,14 +171,14 @@ Comprises expenditure of:
 - **Subsidies**
 - **Grants to States**
 
-> 🎯 **Critical Distinction — Interest vs Principal:**
+> **Critical Distinction — Interest vs Principal:**
 > - Government borrows ₹1 lakh crore → constructs roads (development done with **principal**)
 > - Interest of ₹10,000 crore paid to bank → **no development** from interest (never received that money)
 > - Therefore: **Interest payment** = Non-developmental Revenue Expenditure
 > - **Principal repayment** = Capital Expenditure
 > - This is why loan repayment is always "**re**payment" (paid back in installments — EMI), not just "payment"
 
-> 🎯 **School Building vs School Staff:**
+> **School Building vs School Staff:**
 > - Government school **building construction** = **Capital Expenditure** (physical asset created — visible)
 > - Government school **teacher salary** = **Developmental Revenue Expenditure** (runs day-to-day education)
 > - Government school **non-teaching staff salary** = **Non-developmental Revenue Expenditure** (essential but no direct development contribution)
@@ -210,7 +210,7 @@ Comprises expenditure of:
 | **Compulsion** | **Compulsory** — whether you consume or not, must pay | **Conditional** — only when you purchase/consume |
 | **Example** | Income Tax (you earn ₹10 lakh, you pay ₹1 lakh tax — you cannot ask someone else to pay it) | GST (you pay fees + GST to Vajiram → Vajiram transfers GST to government) |
 
-> 🎯 **"Is it Double Taxation?"** — NO! Direct tax + Indirect tax ≠ Double Taxation. Double taxation occurs when the **same type of tax** is levied twice (e.g., income tax charged twice on the same income). Paying income tax on earnings AND GST on purchases is NOT double taxation — one is compulsory, other is conditional/by choice.
+> **"Is it Double Taxation?"** — NO! Direct tax + Indirect tax != Double Taxation. Double taxation occurs when the **same type of tax** is levied twice (e.g., income tax charged twice on the same income). Paying income tax on earnings AND GST on purchases is NOT double taxation — one is compulsory, other is conditional/by choice.
 
 ---
 
@@ -251,7 +251,7 @@ Comprises expenditure of:
 > **Under GST regime:**
 > - Item at ₹100 + 18% GST = ₹118
 > - Goes to State B → **still ₹118** (no additional entry tax, octroi etc.)
-> - **One Nation, One Tax** ✅
+> - **One Nation, One Tax** (Standardized nationwide)
 
 #### 7 Items Still Under VAT (NOT under GST)
 | # | Item |
@@ -275,7 +275,7 @@ Comprises expenditure of:
 - **The entire price difference is because of State VAT, NOT Central tax**
 - If petroleum products come under GST (proposed at 30% rate in July 2022): CGST = 15%, SGST = 15% → **same price everywhere**
 
-> 🎯 **Political Awareness:** "When ANY political party (ruling or opposition) says petrol/diesel price is too high — they are ALSO responsible. SLVAT is in the hands of the State Government. If they want relaxation, they can reduce SLVAT. Both Centre and State levy tax on petroleum."
+> **Political Awareness:** "When ANY political party (ruling or opposition) says petrol/diesel price is too high — they are ALSO responsible. SLVAT is in the hands of the State Government. If they want relaxation, they can reduce SLVAT. Both Centre and State levy tax on petroleum."
 
 ---
 
@@ -285,12 +285,12 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 
 | # | Deficit | Presented Annually? |
 |---|---|---|
-| 1 | **Revenue Deficit** | ✅ Yes |
-| 2 | **Fiscal Deficit** | ✅ Yes |
-| 3 | **Primary Deficit** | ✅ Yes |
-| 4 | **Budget Deficit** | ❌ (but important to study) |
-| 5 | **Effective Revenue Deficit** | ❌ (but important to study) |
-| 6 | **PSBR** (Public Sector Borrowing Requirement) | ❌ (but important to study) |
+| 1 | **Revenue Deficit** | Yes |
+| 2 | **Fiscal Deficit** | Yes |
+| 3 | **Primary Deficit** | Yes |
+| 4 | **Budget Deficit** | No (Historical/Academic) |
+| 5 | **Effective Revenue Deficit** | No (Historical/Academic) |
+| 6 | **PSBR** (Public Sector Borrowing Requirement) | No (Historical/Academic) |
 
 > *Detailed formulas and concepts to be covered in subsequent classes.*
 
@@ -342,9 +342,9 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 | **16th FC** | **1 April 2026 – 31 March 2031** (5 years) | Just started; will be studied in detail |
 
 - **15th FC Devolution:** Centre transfers **41%** of divisible pool to states
-- CGST collected ≠ all stays with Centre → part goes to States through devolution → On every item, States effectively get more than Centre
+- CGST collected != all stays with Centre → part goes to States through devolution → On every item, States effectively get more than Centre
 
-> 💡 On a ₹100 item with 18% GST: CGST = ₹9 (but part shared with states), SGST = ₹9 (fully with state). Net effect: States get MORE, Centre gets LESS per item.
+> **Note:** On a ₹100 item with 18% GST: CGST = ₹9 (but part shared with states), SGST = ₹9 (fully with state). Net effect: States get MORE, Centre gets LESS per item.
 
 ---
 
@@ -387,7 +387,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 | Transportation | Health |
 | Communication | Housing |
 
-> 🎯 **Mains Recurring Question (2018, 2020, 2021, 2022, 2023, 2024, 2025):**
+> **Mains Recurring Question (2018, 2020, 2021, 2022, 2023, 2024, 2025):**
 > *"Investment in infrastructure is inclusive growth" — Discuss*
 
 ### Why Infrastructure > Subsidies (Key Mains Argument)
@@ -417,13 +417,13 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
    - Now earning ₹27,000 each in village (more than Mumbai!) + employing 2 workers at ₹10,000 each
    - From **job seekers** to **job creators** — all because of electricity infrastructure
 
-> 💡 **China's Proverb:** "Instead of giving fishes to someone, teach them the art of catching fishes — and they will survive for life."
+> **China's Proverb:** "Instead of giving fishes to someone, teach them the art of catching fishes — and they will survive for life."
 
 ---
 
 ## Section G: GDP, Tax-to-GDP Ratio & Government Income
 
-### GDP ≠ Government Income
+### GDP != Government Income
 - **GDP** = Income of the **people** (farmers, companies, service providers)
 - **Government's income** = **Tax** (direct + indirect)
 - If GDP = ₹5 trillion and tax = 0, government has NO resources despite high GDP
@@ -440,7 +440,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 - **Agriculture is tax-free** in India → if GDP is mostly agricultural, government gets less revenue → less development capacity
 - India's GDP has good mix of agriculture + secondary + tertiary → secondary & tertiary give good tax revenue
 
-> 💡 **GDP of Maharashtra > GDP of Pakistan.** Market cap of Tata > GDP of Pakistan.
+> **Comparative Context:** GDP of Maharashtra > GDP of Pakistan. Market cap of Tata > GDP of Pakistan.
 
 ---
 
@@ -483,7 +483,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 - **Intergenerational** — Current generation's actions affecting future generations (e.g., Punjab groundwater depleted → future farming impossible)
 - **Intragenerational** — Within the same generation (inequality in access to resources)
 
-> 🎯 **2020 Mains Question:** "Intergenerational & Intragenerational perspective of Inclusive Development" — Discuss
+> **2020 Mains Question:** "Intergenerational & Intragenerational perspective of Inclusive Development" — Discuss
 
 ### Real-World Examples
 - **Punjab:** Groundwater not available after 400-500 feet in several places — over-extraction for cultivation left nothing for future
@@ -491,7 +491,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 - **Delhi:** Schools/offices closed for days due to pollution → if this continues, it will be permanent
 - **Concrete transition:** Concrete surfaces prevent water from seeping into ground → worsens water table
 
-> 💡 **Nature's Role:** Rich can buy water purifiers, air purifiers. But unskilled labourers work in open — they NEED pure air and water without any payment. Without preserving nature, no sustainable development.
+> **Nature's Role:** Rich can buy water purifiers, air purifiers. But unskilled labourers work in open — they NEED pure air and water without any payment. Without preserving nature, no sustainable development.
 
 ---
 
@@ -508,7 +508,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 
 > **Unemployment Rate** = (Number of Unemployed Persons ÷ **Labour Force**) × 100
 >
-> ⚠️ Denominator is **Labour Force**, NOT Population
+> **Note:** Denominator is **Labour Force**, NOT Population
 
 ### Measurement — PLFS (Periodic Labour Force Survey)
 - Conducted by: **NSO** (National Statistical Office) — formed in **2019**
@@ -545,7 +545,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 #### Moonlighting — Detailed
 - **"Moonlight Cheating":** Daylight working with Tata, moonlight (night) working with Mahindra
 - **Why not allowed:** Fear of leaking confidential information to rival companies (e.g., Tata Motors secrets leaked to Mahindra Motors)
-- **Freelancing ≠ Moonlighting** — Freelancing is independent work by choice, not hidden from primary employer
+- **Freelancing != Moonlighting** — Freelancing is independent work by choice, not hidden from primary employer
 - **New Labour Laws (4 codes)** replaced the old 30+ labour laws
 
 ---
