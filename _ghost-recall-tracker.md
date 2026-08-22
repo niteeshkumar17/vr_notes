@@ -6,8 +6,8 @@
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-22
 *   **Active Micro-Topics:** 171
-*   **Overall Database Mastery:** 77.4% 📈
-*   **Today's Recall Completed:** 5 / 18 Micro-Topics Recalled (Batch 1 Complete — 100% Level 5 Recall 🏆)
+*   **Overall Database Mastery:** 78.1% 📈
+*   **Today's Recall Completed:** 11 / 18 Micro-Topics Recalled (Batches 1 & 2 Complete — 100% Level 5 Recall 🏆)
 *   **Active Learning Gaps Detected:** 0
 *   **New Topics Ingested Today:** 0
 *   **Weekly Backlog:** 0
@@ -207,13 +207,13 @@
 ### Polity (Abhey Kumar — Lecture 4: VP, Council of Ministers, Cabinet System & PM)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| POL-04A-01 | Caretaker Govt: Discretion, Conventions & 1999 Kargil Example | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Not Rigid Mode` $\leftrightarrow$ `Restricted Mode` $\leftrightarrow$ `UNR Rao 1971` $\leftrightarrow$ `ABV Kargil 1999` |
+| POL-04A-01 | Caretaker Govt: Discretion, Conventions & 1999 Kargil Example | 2 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `Not Rigid Mode` $\leftrightarrow$ `Restricted Mode` $\leftrightarrow$ `UNR Rao 1971` $\leftrightarrow$ `ABV Kargil 1999` |
 | POL-04A-02 | President as Emergency Lamp (R. Venkataraman Analogy) | 1 | ★★★★☆ | Day 3 | 2026-08-23 | 100% | High 🌟 | 96% | 93% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Emergency Lamp` $\leftrightarrow$ `Political Power Supply` $\leftrightarrow$ `1989 Hung Parliament` $\leftrightarrow$ `Role Ceases with Majority` |
-| POL-04A-03 | VP: Election (All MPs), Removal (RS First), Vacancy (No Time Limit) | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `All MPs Vote` $\leftrightarrow$ `PR-STV` $\leftrightarrow$ `RS Introduces Removal` $\leftrightarrow$ `As Soon As Possible` |
-| POL-04A-04 | CoM Hierarchy: Cabinet Minister vs MoS-IC vs MoS & 91st CAA 15% Cap | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Cabinet: Independent` $\leftrightarrow$ `MoS-IC: May Invite` $\leftrightarrow$ `MoS: Not Invited` $\leftrightarrow$ `91st CAA 15%` |
-| POL-04A-05 | Individual Responsibility to President & PM (Objective vs Practical) | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Responsible to President` $\leftrightarrow$ `Practically to PM` $\leftrightarrow$ `Both Correct` $\leftrightarrow$ `Context Defines` |
-| POL-04A-06 | Collective Responsibility to Lok Sabha (Art 75(3)) & Most Suitable Answer Logic | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Art 75(3)` $\leftrightarrow$ `Majority in LS` $\leftrightarrow$ `If LS Not Option → Parliament` $\leftrightarrow$ `Most Suitable Answer` |
-| POL-04A-07 | Cabinet vs Council: Decision Flow, Art 352 & 44th CAA 1978 | 3 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Cabinet = Real Power` $\leftrightarrow$ `Council = Myth` $\leftrightarrow$ `Art 352 Only Mention` $\leftrightarrow$ `44th CAA 1978` $\leftrightarrow$ `Nehru Cabinet 13` |
+| POL-04A-03 | VP: Election (All MPs), Removal (RS First), Vacancy (No Time Limit) | 2 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `All MPs Vote` $\leftrightarrow$ `PR-STV` $\leftrightarrow$ `RS Introduces Removal` $\leftrightarrow$ `As Soon As Possible` |
+| POL-04A-04 | CoM Hierarchy: Cabinet Minister vs MoS-IC vs MoS & 91st CAA 15% Cap | 2 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `Cabinet: Independent` $\leftrightarrow$ `MoS-IC: May Invite` $\leftrightarrow$ `MoS: Not Invited` $\leftrightarrow$ `91st CAA 15%` |
+| POL-04A-05 | Individual Responsibility to President & PM (Objective vs Practical) | 2 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `Responsible to President` $\leftrightarrow$ `Practically to PM` $\leftrightarrow$ `Both Correct` $\leftrightarrow$ `Context Defines` |
+| POL-04A-06 | Collective Responsibility to Lok Sabha (Art 75(3)) & Most Suitable Answer Logic | 2 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `Art 75(3)` $\leftrightarrow$ `Majority in LS` $\leftrightarrow$ `If LS Not Option → Parliament` $\leftrightarrow$ `Most Suitable Answer` |
+| POL-04A-07 | Cabinet vs Council: Decision Flow, Art 352 & 44th CAA 1978 | 3 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `Cabinet = Real Power` $\leftrightarrow$ `Council = Myth` $\leftrightarrow$ `Art 352 Only Mention` $\leftrightarrow$ `44th CAA 1978` $\leftrightarrow$ `Nehru Cabinet 13` |
 | POL-04A-08 | Cabinet Committees: ACC (PM+HM), TOBR & AOBR (Art 77(3)) | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `ACC: PM + HM` $\leftrightarrow$ `JS+ Appointments` $\leftrightarrow$ `8 Standing Committees` $\leftrightarrow$ `Art 77(3)` $\leftrightarrow$ `TOBR/AOBR` |
 | POL-04A-09 | PM: Residual Legatee, Primus Inter Pares vs Inter Stellas Lunar Minoris | 2 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Residual Legatee` $\leftrightarrow$ `Face of Govt` $\leftrightarrow$ `Primus Inter Pares` $\leftrightarrow$ `William Harcourt` $\leftrightarrow$ `Pivot of CoM` |
 | POL-04A-10 | PM Form vs Cabinet Form of Govt: Phases, Merits & Demerits | 3 | ★★★★★ | Day 2 | 2026-08-22 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-20 | Fast 🟢 | `Single Party Majority` $\leftrightarrow$ `Charismatic Leader` $\leftrightarrow$ `Coalition Era` $\leftrightarrow$ `Policy Paralysis (MMS)` $\leftrightarrow$ `CoM/Cb = Shadows of PM` |
