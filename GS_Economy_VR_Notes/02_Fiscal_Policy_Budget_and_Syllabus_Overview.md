@@ -210,7 +210,7 @@ Comprises expenditure of:
 | **Compulsion** | **Compulsory** — whether you consume or not, must pay | **Conditional** — only when you purchase/consume |
 | **Example** | Income Tax (you earn ₹10 lakh, you pay ₹1 lakh tax — you cannot ask someone else to pay it) | GST (you pay fees + GST to Vajiram → Vajiram transfers GST to government) |
 
-> **"Is it Double Taxation?"** — NO! Direct tax + Indirect tax != Double Taxation. Double taxation occurs when the **same type of tax** is levied twice (e.g., income tax charged twice on the same income). Paying income tax on earnings AND GST on purchases is NOT double taxation — one is compulsory, other is conditional/by choice.
+> **"Is it Double Taxation?"** — NO! Direct tax + Indirect tax ≠ Double Taxation. Double taxation occurs when the **same type of tax** is levied twice (e.g., income tax charged twice on the same income). Paying income tax on earnings AND GST on purchases is NOT double taxation — one is compulsory, other is conditional/by choice.
 
 ---
 
@@ -342,7 +342,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 | **16th FC** | **1 April 2026 – 31 March 2031** (5 years) | Just started; will be studied in detail |
 
 - **15th FC Devolution:** Centre transfers **41%** of divisible pool to states
-- CGST collected != all stays with Centre → part goes to States through devolution → On every item, States effectively get more than Centre
+- CGST collected ≠ all stays with Centre → part goes to States through devolution → On every item, States effectively get more than Centre
 
 > **Note:** On a ₹100 item with 18% GST: CGST = ₹9 (but part shared with states), SGST = ₹9 (fully with state). Net effect: States get MORE, Centre gets LESS per item.
 
@@ -423,7 +423,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 
 ## Section G: GDP, Tax-to-GDP Ratio & Government Income
 
-### GDP != Government Income
+### GDP ≠ Government Income
 - **GDP** = Income of the **people** (farmers, companies, service providers)
 - **Government's income** = **Tax** (direct + indirect)
 - If GDP = ₹5 trillion and tax = 0, government has NO resources despite high GDP
@@ -545,7 +545,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 #### Moonlighting — Detailed
 - **"Moonlight Cheating":** Daylight working with Tata, moonlight (night) working with Mahindra
 - **Why not allowed:** Fear of leaking confidential information to rival companies (e.g., Tata Motors secrets leaked to Mahindra Motors)
-- **Freelancing != Moonlighting** — Freelancing is independent work by choice, not hidden from primary employer
+- **Freelancing ≠ Moonlighting** — Freelancing is independent work by choice, not hidden from primary employer
 - **New Labour Laws (4 codes)** replaced the old 30+ labour laws
 
 ---
