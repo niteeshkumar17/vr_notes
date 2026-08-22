@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-22
-*   **Active Micro-Topics:** 171
-*   **Overall Database Mastery:** 79.2% 📈
+*   **Active Micro-Topics:** 191
+*   **Overall Database Mastery:** 75.8% 📉
 *   **Today's Recall Completed:** 18 / 18 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1, 2 & 3 Complete — Full Morning Queue Cleared!)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 20
 *   **Weekly Backlog:** 0
 
 ---
@@ -261,15 +261,42 @@
 
 ---
 
+
+### Economy (Fiscal Policy, Budget & Development)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECON-02-01 | Budget Structure: Revenue vs Capital Receipts & Expenditures | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Revenue Receipts` $\\leftrightarrow$ `Capital Receipts` $\\leftrightarrow$ `Revenue Expenditure` $\\leftrightarrow$ `Capital Expenditure` |
+| ECON-02-02 | Revenue Receipts: 3 Characteristics & Tax vs Non-Tax | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Liability` $\\leftrightarrow$ `Not from Selling Govt Property` $\\leftrightarrow$ `Tax Revenue` $\\leftrightarrow$ `Non-Tax Revenue` |
+| ECON-02-03 | Capital Receipts: 3 Characteristics (Reverse of Revenue) | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `May Create Liability` $\\leftrightarrow$ `Borrowings` $\\leftrightarrow$ `Disinvestment` $\\leftrightarrow$ `Recovery of Loans` |
+| ECON-02-04 | Non-Tax Revenue: Fees, Fines, License, Dividend, Escheat, Special Assessment, Asset Monetisation | 2 | ★★★★☆ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Escheat` $\\leftrightarrow$ `Asset Monetisation` $\\leftrightarrow$ `Special Assessment` $\\leftrightarrow$ `4G/5G Spectrum License` |
+| ECON-02-05 | RBI Surplus Dividend & Bimal Jalan Committee (5.6-5.9%) | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `RBI 3 Lakh Crore 2026` $\\leftrightarrow$ `Bimal Jalan Committee` $\\leftrightarrow$ `5.6% Retained` $\\leftrightarrow$ `Dividend` |
+| ECON-02-06 | Revenue Expenditure: Developmental vs Non-Developmental | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Teacher Salary = Developmental` $\\leftrightarrow$ `Non-Teaching = Non-Developmental` $\\leftrightarrow$ `Interest Payment` |
+| ECON-02-07 | Capital Expenditure: Asset Creation & Liability Reduction | 1 | ★★★★☆ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Road Construction` $\\leftrightarrow$ `Airport Construction` $\\leftrightarrow$ `Loan Repayment` |
+| ECON-02-08 | Interest Payment = Non-Developmental vs Principal = Capital Expenditure | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Interest = Free Money to Bank` $\\leftrightarrow$ `Principal to Road Construction` $\\leftrightarrow$ `Repayment NOT Payment` |
+| ECON-02-09 | Direct Tax vs Indirect Tax: Transferability, Compulsion & Double Taxation | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Direct = Non-Transferable` $\\leftrightarrow$ `Indirect = Transferable` $\\leftrightarrow$ `No Double Taxation` |
+| ECON-02-10 | 6 Direct Taxes: PIT, Corporate, MAT, DDT, CGT, STT | 1 | ★★★★☆ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `PIT 12 Lakh Threshold 2026` $\\leftrightarrow$ `Corporate Tax` $\\leftrightarrow$ `MAT` $\\leftrightarrow$ `DDT` $\\leftrightarrow$ `CGT` $\\leftrightarrow$ `STT` |
+| ECON-02-11 | GST: One Nation One Tax, CGST/SGST Split & 101st Amendment | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `July 2017` $\\leftrightarrow$ `CGST + SGST Equal` $\\leftrightarrow$ `4 Slabs 5/12/18/28` $\\leftrightarrow$ `One Nation One Tax` |
+| ECON-02-12 | 7 Items Under VAT (Not GST): 5 Petroleum + Alcohol + Electricity | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Crude Oil/ATF/Petrol/Diesel/Natural Gas` $\\leftrightarrow$ `Alcohol` $\\leftrightarrow$ `Electricity` $\\leftrightarrow$ `SLVAT State Difference` |
+| ECON-02-13 | 6 Deficits: Revenue, Fiscal, Primary, Budget, Effective Revenue, PSBR | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `3 Presented Annually` $\\leftrightarrow$ `PSBR` $\\leftrightarrow$ `Effective Revenue Deficit` $\\leftrightarrow$ `Budget Deficit` |
+| ECON-02-14 | FRBM Act 2003 (Old) & 2017 (New) + Sri Lanka Case Study | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Fiscal Responsibility` $\\leftrightarrow$ `Gotabaya Default` $\\leftrightarrow$ `IMF Loan` $\\leftrightarrow$ `India Windfall Tax` |
+| ECON-02-15 | Finance Commission: Divisible Pool, 41% Devolution & 16th FC (2026-31) | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `14th/15th/16th FC` $\\leftrightarrow$ `41% Devolution` $\\leftrightarrow$ `CGST Shared with States` $\\leftrightarrow$ `Divisible Pool` |
+| ECON-02-16 | Inclusive Growth: Infrastructure Empowers vs Subsidies Create Dependency | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Physical Dev` $\\leftrightarrow$ `Human Dev` $\\leftrightarrow$ `PMGSY Road Impact` $\\leftrightarrow$ `Job Seeker to Job Creator` |
+| ECON-02-17 | UNDP 5 HDRs: HDI, IHDI/PHDI, GDI, GII (Claudia Goldin 2023), MPI | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UNDP` $\\leftrightarrow$ `Nobel 2023 Gender Inequality` $\\leftrightarrow$ `MPI` $\\leftrightarrow$ `IHDI/PHDI` |
+| ECON-02-18 | Sustainable Development: Zero Growth, Uneconomic Growth, Rebound Effect & Carbon Tax/GCF | 1 | ★★★★☆ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Intergenerational` $\\leftrightarrow$ `Intragenerational` $\\leftrightarrow$ `Carbon Credit` $\\leftrightarrow$ `Green Accounting` |
+| ECON-02-19 | Unemployment Types: Voluntary, Involuntary, Disguised, Frictional, Structural, Seasonal, Cyclical, NRU | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Disguised 2016 PYQ` $\\leftrightarrow$ `NRU` $\\leftrightarrow$ `Structural` $\\leftrightarrow$ `Labour Force = Willing + Capable` |
+| ECON-02-20 | Employment Measurement: PLFS, NSO, UPS/CWS/CDS & Jobless Growth, Gig/Moonlighting | 2 | ★★★★★ | Day 1 | 2026-08-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NSO 2019 (NSSO+CSO)` $\\leftrightarrow$ `PLFS` $\\leftrightarrow$ `Jobless Growth` $\\leftrightarrow$ `Moonlighting Tata 400 Removed` |
+
+---
+
 ## 🎯 Multi-Factor Scheduling & Priority Engine (§14-B)
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage.
 * **Current Top Priority Micro-Topics:**
-  1. `HIS-06-01` (★★★★★ | Diff 2 | Stage Day 2 — Cornwallis Code 1793)
-  2. `HIS-07-03` (★★★★★ | Diff 3 | Stage Day 2 — Charter 1833/Macaulay)
-  3. `HIS-EM-04` (★★★★★ | Diff 3 | Stage Day 2 — Ancient vs EM State Theory)
-  4. `HIS-EM-05` (★★★★★ | Diff 3 | Stage Day 2 — Dharmavijaya/Chakravartin)
-  5. `HIS-EM-06` (★★★★★ | Diff 3 | Stage Day 2 — Varna Sankara/Jatis)
-  6. `HIS-EM-10` (★★★★★ | Diff 3 | Stage Day 1 — Temple Economy/Indian Feudalism)
+  1. `ECON-02-01` (★★★★★ | Diff 2 | Stage Day 1 — Budget Structure: Revenue vs Capital)
+  2. `ECON-02-05` (★★★★★ | Diff 2 | Stage Day 1 — RBI Surplus Dividend & Bimal Jalan)
+  3. `ECON-02-11` (★★★★★ | Diff 2 | Stage Day 1 — GST: One Nation One Tax)
+  4. `ECON-02-14` (★★★★★ | Diff 2 | Stage Day 1 — FRBM Act & Sri Lanka Case)
+  5. `ECON-02-19` (★★★★★ | Diff 2 | Stage Day 1 — Unemployment Types)
+  6. `HIS-06-01` (★★★★★ | Diff 2 | Stage Day 2 — Cornwallis Code 1793)
   7. `GEO-01-03` (★★★★★ | Diff 3 | Retr Str 95% — Day 10 Due 2026-08-23)
   8. `GEO-02-02` (★★★★★ | Diff 3 | Retr Str 86% — Day 5 Due 2026-08-13)
 
