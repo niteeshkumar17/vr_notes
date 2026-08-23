@@ -744,3 +744,334 @@ Each zone has an **Exoteric** (Puram — external/physical) and **Esoteric** (Ah
 
 <!-- 2026-08-10: Created from Lecture A1 transcript and handwritten notes. Covers Decline of Guptas, transition period, Gupta successor states, Ancient vs Early Medieval state theory inversion, Varnashramadharma to Digvijaya, Jati emergence, Dharmasutra to Dharmashastra, Purtadharma, Indian Feudalism, and all four dimensions (political, societal, economic, religious) of Early Medieval change. -->
 <!-- 2026-08-12: Added Lecture A2 content — Vardhana Dynasty & Harshavardhana, Xuanzang, Golden Age of Literature, Pala Dynasty (Gopala, Dharmapala, Devapala, Mahipala), Gurjara-Pratiharas & Rise of Rajputs (36 Biradari, 6 key clans), Deccan dynasties (Chalukyas of Badami — Pulkeshin I/II, Kirtivarman, Mangalesh, Vikramaditya I; Rashtrakutas — Dantidurga, Krishna I, Govinda III, Amoghavarsha; Paramars of Dhar), Early Medieval South India (No Feudalism, Extra-King Relations, Assimilation, Maritime Trade, 5 Merchant Corporations, Taxation, Tamilakam & 5 Tinais, Social Structure, Administration Hierarchy, Women in Administration, Nadu-Kuram system). -->
+
+---
+
+## 15. South Indian Early Kingdoms — Detailed Dynasty Study
+
+*Date added: 2026-08-23*
+
+> **Source:** Vajiram & Ravi Class Lecture A3 Notes (23/08/2026) + Audio Transcript
+> **Last Updated:** 2026-08-23
+
+### Origin Story
+*   Just like in North India (Yashodharman + Prabhakara fought a tribal rebellion → established kingdoms), in South India **two friends** came together to fight a tribal rebellion called the **Kaivardas** → they rose to power and established **Pallavas** and **Pandyas**.
+*   **Pallavas** = **Bharadwaja Gotra Brahmans** (Haridwar origin — first mentioned in Ramayana, court of Rama).
+*   **Pandyas** = **Kshatriyas, Chandravanshi** (also trace genesis to the court of Rama).
+*   *Key Insight*: Both kingdoms **claim legitimacy from North India** — Brahmans of North migrated to South.
+
+### What Happened When Brahmans Came South?
+1.  **Donation of land** → called **Agraharam** (Brahman villages increased rapidly).
+2.  **Sanskritization** → Sanskrit introduced in South India for the first time.
+3.  **Varna hierarchy** appears for the first time in South.
+4.  **Untouchability** appears for the first time (6th century CE — before the Sangam age / before 3rd century CE, **no untouchability** existed in South India).
+
+---
+
+### 15A. Pandya Dynasty
+
+*   **Capital**: **Madurai**
+*   **Founder**: **Kadungon**
+
+#### Maravarman Avani Sulamani — Titles for Rulers (UPSC 2026 PYQ)
+*   Established **two titles** for all Pandyan rulers — the **best way to identify a Pandyan ruler** in exams:
+    *   **Prefix**: **Maravarman** (e.g., Maravarman Chandayan)
+    *   **Suffix**: **Jatiyan/Jadiyan** (e.g., Nedunjadiyan)
+*   *UPSC 2026 Prelims Question*: If a name contains "Maravarman" or "Jadiyan" → the person is a **Pandyan ruler**.
+
+#### Key Pandya Rulers
+
+| Ruler | Key Facts |
+|-------|-----------|
+| **Kadungon** | Founder of early medieval Pandya dynasty |
+| **Maravarman Avani Sulamani** | Established the two title system (Maravarman prefix + Jadiyan suffix) |
+| **Maravarman Chandayan** | — |
+| **Sundara Pandya** | Powerful ruler |
+| **Rajasimha** | Powerful ruler |
+| **Nedunjadiyan** | — |
+| **Varaguna** | Last powerful Pandyan ruler; **helped Nandipotapiranarman in Pallava civil war** (supported Nandipotapiranarman) |
+
+*   **Varaguna** is critical to remember — he connects Pandya history to the Pallava succession crisis and the rise of Cholas.
+
+---
+
+### 15B. Pallava Dynasty
+
+*   **Capital**: **Kanchi** (Kanchipuram)
+*   **Founder**: **Simhavishnu**
+
+#### Dynasty Table
+
+| Ruler | Key Achievements & Facts |
+|-------|--------------------------|
+| **Simhavishnu** | Founder; poet **Bharavi** in his court — wrote **Kiratarjuniya** (Sanskrit); first Sanskrit text produced in South India |
+| **Mahendravarman I** | ① Was a **Jain** → converted to **Shaivism** by saint **Appar** (Bhakti Shaivite saint, contemporary); ② Introduced **rock-cut temple architecture** in South India; ③ Built **5 Rathas of Pandavas**, **Arjuna's Penance**, India's **first lighthouse** (all at Mamallapuram); ④ Title: **Vichittrachitta** ("one who thinks differently" — UPSC 2025 PYQ); ⑤ **Prolific painter** → title **Chitrakarapuli** ("Tiger among painters" — HIGH probability future PYQ); ⑥ Prolific writer → wrote **Mattavilasa Prahasana** (satire on religion, in Sanskrit — MOST PROBABLE future PYQ); ⑦ During his period began the **Pallava–Chalukya conflict** (Pallavas lost initially) |
+| **Narasimhavarman I** | ① Defeated **Chalukyas** → title **Vatapi Konda** ("Destroyer of Vatapi"); ② Shifted capital to **Mamallapuram**; ③ **Xuanzang** (Chinese traveler) visited his court |
+| **Narasimhavarman II** | ① Built **Shore Temple** (Mamallapuram); ② Built **Kailashnath Temple of Kanchi** — **zenith of Dravidian architecture** (true Dravidian architecture); ③ Court poet **Dandin** wrote **Dashavataracharitam** (also called **Dasha Kumara Charitam**) |
+| **Nandivarman II** | Built **Vaikuntha Perumal Temple** (Kanchi) |
+| **Nandivarman III** | Beginning of **decline** — never announced his successor; had two sons: **Nripatunga** and **Aparajita** → **civil war** |
+
+#### Pallava Succession Crisis & Rise of Cholas
+
+```
+Nandivarman III (no successor announced)
+       ↓
+   ┌───────────────┐
+   │               │
+Nripatunga      Aparajita
+(helped by       (helped by
+ PANDYA            a local chief
+ Varaguna)         ADITYA — Cholas)
+   │               │
+   └──── CIVIL WAR ────┘
+           ↓
+     Aparajita WON
+           ↓
+   Aditya (Chola) & Aparajita
+      became enemies
+           ↓
+   Aditya KILLED Aparajita
+           ↓
+   PALLAVAS COLLAPSED
+   CHOLAS ROSE (from Pallava feudatories)
+```
+
+*   *Key Distinction*: **Pallavas** (early medieval) ≠ **Pahlavas** (ancient India) — different spelling, different kingdoms.
+
+---
+
+### 15C. Chera Dynasty
+
+*   **Capital**: **Vanji** (later shifted to **Calicut**)
+*   **Origin**: Unknown caste/association — only two things known: ① **Matrilineal kingdom**; ② **Elders chose rulers** (from mother's side).
+*   **36 settlements** only — smallest kingdom in South India.
+*   **Only source**: **Patittupattu** — the ONLY book from which Chera history can be written (exaggerated/mythological, 10 kings mentioned).
+
+#### Key Chera Rulers
+
+| # | Ruler | Key Facts |
+|---|-------|-----------|
+| 1 | **Adan Cheral (Udayan)** | Founder; mythological claim: fed armies of **both Kauravas and Pandavas** during Mahabharata (ran the royal kitchen); **UPSC 2026 PYQ** |
+| 2 | **Imayavarman (Senguttavan)** | Son of Adan Cheral; claimed to have **conquered the Himalayas** (shot bow and arrow at Himalayas — mythological); Chera symbol = **bow, arrow & mountain**; mentioned in book **Silappadikaram** by **Ilango (Elangovan)** — story of lady **Kannagi** bringing dead husband back to life; built **Kannagi Temple** at Nizhal; established **Pattini Cult** for the first time in India |
+| 3 | **Kulashekar** | Left throne to become a **Vaishnava saint (Alvar)**; one of the **12 Alvar saints** of South India (Kulashekar Alvar); wrote ① **Tirumozhiperimal** (Tamil — still sung at Sri Rangam temple) ② **Mukundamala** (Sanskrit) — bilingual scholar |
+| 4 | **Cheraman Perumal** (9th–10th c.) | **Fact:** Into trade → Arabs were friends; **Myth:** Converted to Islam by Arab travelers → left for Mecca → never returned (actually became a Shaivite saint in nearby village); oldest mosque named after him (in Kerala); **PM mentioned this myth in Saudi Arabia** making it a national diplomatic fact |
+
+#### After Cheraman Perumal
+*   **Cholas attacked** → took Chera territory.
+*   **8 of 36 settlements survived** → shifted to new capital **Calicut**.
+*   Continued trading → **Arabs remained friends**.
+*   **1347 CE**: **Ibn Battuta** visited Calicut → wrote **Rihla** (Arabic) → gave the name **Samutiri Raja** → **Zamorins of Calicut**.
+*   It is in the court of the **Zamorins** that **Vasco da Gama** arrived in **1498 CE**.
+
+> *Key Linkage*: Zamorins of Calicut = descendants of the Cheras.
+
+---
+
+### 15D. Eastern Chalukyas & Gangas — Matrimonial Alliance with Cholas
+
+*   **Eastern Chalukyas** (Vengi) — Brahmans; **Ganga Kingdom** — also Brahmans (from Odisha, shifted to South).
+*   **Cholas** were Kshatriyas → when they **did not have a male heir**, Chola princesses were married into Eastern Chalukya or Ganga families → the **child born was brought back** to become the next Chola emperor.
+*   **Matrimonial alliance** = territorial expansion without warfare.
+*   *Parallel*: Harshvardhana's sister married into Maukhari → controlled Kannauj; Ram Gupta → Chandragupta II → Dhruva Devi story (Devichandraguptam).
+
+---
+
+### 15E. Chola Dynasty — Complete Dynasty Tree
+
+*   **Capitals**: ① **Uraiyur** (original) → ② **Thanjavur** (Tanjavur) → ③ **Gangaikondacholapuram**
+
+#### Shiva–Vishnu Clan Succession System (Unique to Cholas)
+*   Borrowed from Pallavas but **reversed the order**.
+*   **First-born in the family** = **Shiva clan** (since Cholas were Shaivites).
+*   **Second-born** = **Vishnu clan**.
+*   **Only Shiva clan** can become the ruler → prevents succession wars.
+*   **Consequence**: If the ruler (Shiva) dies → his wife (= Parvati) must commit **Sati**. Sati was **very prominent** among Cholas — hence many **Sati stones** and **Hero stones** in Tamil Nadu.
+
+#### Full Dynasty with King Numbers (K1, K2...)
+
+| Ruler | King # | Key Facts |
+|-------|--------|-----------|
+| **Vijayalaya** | — | Founder; local chief who **worked for Pallavas**; given Uraiyur to rule from |
+| **Aditya I** | — | Son of Vijayalaya; friend then enemy of Pallava **Aparajita**; **killed Aparajita in 893 CE** → end of Pallavas |
+| **Parantaka I** | — | Also called **Madurantaka** ("Destroyer of Madurai") → conquered **Pandya territory**; built **Adityeshwara Temple at Kanyakumari** (named after his father); had **3 sons**: Rajaditya (S1, Shiva), Gandaraditya (S2, Vishnu), Arinjaya (S3, Shiva) |
+| **Rajaditya** | — | Eldest son (Shiva clan); taken to battle as a young man → **killed by Rashtrakuta Krishna III** → Parantaka in shock (called "Chola Bhishma" — who sent his child to die) |
+| **Gandaraditya** | K1 | Second son; converted from Vishnu clan to Shiva clan via yajna (because Rajaditya died); became ruler; **wife: Sembiyan Mahadevi** (vital figure — lived to 101 years; great chemist → developed **alloys** → origin of **Chola Bronze** tradition; Australia returned Sembiyan Mahadevi bronze statues to India); ruled 6 years → left throne to become a **celibate saint** → wife did NOT commit Sati (husband still alive) → **first lady to stop Sati** in Chola period |
+| **Arinjaya** | K2 | Third son; became ruler with support of Sembiyan Mahadevi |
+| — | — | **Arinjaya's son**: **Sundara Chola (Parantaka II)** — K3 |
+| **Sundara Chola** | K3 | After Arinjaya's death; also called **Parantaka II**; had 2 sons: **Aditya Karikalan** (S1, Shiva) and **Arulmozhi** (S2, Vishnu, = K5) |
+| **Uttam Chola** | K4 | Son of Gandaraditya; **poisoned and killed his nephew Aditya Karikalan** (wanted the throne — he was Vishnu clan, not entitled); then had a **change of heart** → voluntarily gave throne to **Arulmozhi** |
+| **Arulmozhi (= Rajaraja I)** | K5 | Defeated **24 rulers**; took whatever was left of Pandyas, Rashtrakutas; **in 999 CE captured Cheras** (after Cheraman Perumal left); built **Gopuram** (gate — inscription of his victory = India's first triumphal arch); went to **Sri Lanka** → defeated ruler of **Anuradhapura** → carried granite stones + 5,000 slaves from **Jaffna** → built **Brihadeshwara Temple (Thanjavur)**; title: **Rajarajeshwara** ("King of Kings"); took VRS → transferred power to son Rajendra |
+| **Rajendra I** | K6 | ① **Brought Ganga water to South** → title **Gangaikonda** ("Conqueror of Ganga"); ② Built new capital **Gangaikondacholapuram**; ③ First South Indian ruler with **overseas naval establishments** → title **Pandita Chola**; ④ Had **4 sons** |
+
+#### Rajendra's Four Sons & Later Cholas
+
+```
+Rajendra I
+├── Rajdhiraja (died quickly)
+├── Rajendra II (died quickly)
+├── Vira Rajendra (died quickly)
+│     (3 sons died in quick succession)
+│
+└── Sundara Chola Pandya (sent to Madurai as governor)
+         → performed yajna → added surname "Pandya"
+         → REFUSED to return → established NEW PANDYAN KINGDOM
+         → Jatavarman Sundara Pandya (descendant)
+         → Jatavarman Vira Pandya (descendant — visited by MARCO POLO)
+
+Since all 3 sons of Rajendra died and the 4th refused to return:
+→ Chola princess married into EASTERN CHALUKYA family
+→ Their son brought to Chola kingdom
+→ Named: KULOTTUNGA I (actually an Eastern Chalukyan boy)
+```
+
+#### Kulottunga & Later Cholas
+
+| Ruler | Key Facts |
+|-------|-----------|
+| **Kulottunga I** | Actually an **Eastern Chalukyan boy**; ardent **Shaivite** — ordered **destruction of Vishnu statues**; ordered **capital punishment** for Vaishnava **Alvar saint Ramanujacharya** (whose statue = "Statue of Equality" in Hyderabad); Kamal Hassan's movie *Dashavataram* is about this |
+| **Kulottunga II** | **Caste system consolidated** — villages built with front-door and back-door entries; caste hierarchy fixed |
+| **Rajendra III** (last) | **Killed by Jatavarman Vira Pandya in 1279 CE** → Cholas collapsed; **Marco Polo** visited the court of Jatavarman; *Irony*: The "new Pandyas" who killed the last Chola were actually Chola offshoots themselves (Sundara Chola Pandya's line) |
+| **1309 CE** | **Malik Kafur** (commander of **Alauddin Khalji**) defeated Jatavarman → Pandya kingdom taken by Delhi Sultanate |
+
+---
+
+## 16. Medieval India (1200–1707 CE) — Foundations
+
+*Date added: 2026-08-23*
+
+> **Source:** Vajiram & Ravi Class Lecture A3 Notes (23/08/2026) + Audio Transcript
+> **Exam Strategy Note:** Out of 100, questions from proper medieval (1250–1707) are **insignificant** in GS Prelims. Focus should be on **Early Medieval** and **Ancient**. Medieval India can be done lightly. Pre-modern is important.
+
+---
+
+### 16A. Arab Invasion (Arabic Speakers)
+
+*   **"Arab"** = **linguistic category** (Arabic speakers), NOT a race/geography. Just like "Aryan" = Indo-European language speakers.
+*   Arabs = speakers of Arabic from the **Umayyad Caliphate** (capital: **Damascus**, Syria).
+*   Arabs were always **free men** (not slaves).
+
+#### 712 CE — Muhammad bin Qasim
+*   Defeated **King Dahir of Sindh**.
+*   **First to impose Jaziya** in India (poll tax paid by non-Muslims for **exemption from military service**).
+*   **Converted Jats** of the region — first reference of **conversion** in India.
+
+#### Source
+*   **Chachnama** — written in **Arabic** (original author unknown / lost).
+*   Later translated to **Farsi (Persian)** by **Ali Kufi** → renamed **Fathnama**.
+*   Now both versions are attributed to Ali Kufi.
+
+---
+
+### 16B. Turkish Invasion (Persian Speakers)
+
+*   **"Turkish"** = **Persian speakers** (Farsi) — NOT free men; they were **slaves** (Mamluks/Ghulams).
+*   Persian was NOT the language of the Quran → Persian speakers were **later converts** to Islam → became slaves.
+
+#### Ghaznavids (Capital: Ghazna/Ghazni)
+
+| Person | Key Facts |
+|--------|-----------|
+| **Alptigin** | **Founder** of Ghaznavid Empire; had no son; had a favourite **slave** |
+| **Subuktigin** | Alptigin's slave → succeeded him; **first Turkish invader** to enter India (failed invasion); he is a **slave** and a **Turk** (Persian-speaking) |
+| **Sultan Mahmud** (997–1050 CE) | Son of Subuktigin; **first Sultan** of the dynasty (free man, though from slave family); **1000–1001 CE**: defeated Hindu Shahi ruler **Jayapal** (first invasion); **1010 CE**: captured **Ghor** (turning point — best **horses** + **iron ore** for swords); **1024 CE**: invaded **Mathura**; **1026 CE**: invaded **Somnath** (1000 years ago — significant anniversary); **1030 CE**: captured **Lahore** (made it second capital); court was the **centre of Persian culture** |
+| **Sultan Masud** (1030–40) | Son of Mahmud; captured **Punjab** region |
+
+#### Five Court Scholars of Mahmud (Centre of Persian Culture)
+
+| # | Scholar | Work | Language | Significance |
+|---|---------|------|----------|-------------|
+| 1 | **Abul Fazl Baihaki** | **Tarikh-i-Baihaki** | Farsi | Court historian; **only eyewitness account** of Mathura & Somnath invasions |
+| 2 | **Firdausi** | **Shahnama** | Farsi | First true Persian book ever written; called the **"Mahabharata of Afghanistan"** |
+| 3 | **Al-Hujwiri** | **Kashf-al-Mahjub** | Farsi | **World's first Sufi literature** |
+| 4 | **Ibn Sina** | **Book of Healing** (Latin translation) | Arabic/Latin | **First successful cataract operation** in the world; polymath |
+| 5 | **Al-Biruni** | **Kitab-al-Hind** | Arabic | Uzbek scholar **kidnapped by Mahmud** (chained in court); wrote in Arabic (not Farsi) as protest; great astronomer — calculated distance of earth to moon/sun; also wrote on palmistry |
+
+> *Al-Biruni's Kidnapping*: Mahmud met him at a Karam Sarai (medieval restaurant) in Uzbekistan → impressed by his Farsi → kidnapped him in a sack → chained him in court → Al-Biruni wrote all books in Arabic (rebellion).
+
+---
+
+### 16C. Ghorids — From Ghaznavid Feudatories to Independent Kingdom
+
+*   **Ghor** was under Ghaznavid control through **two brothers** (feudatories).
+*   These brothers **revolted** → burned Ghazna → established the **Ghorid dynasty**.
+*   *Parallel*: Just as Cholas once worked for Pallavas → similarly Ghorids worked for Ghaznavids.
+
+| Person | Role | Capital | Direction |
+|--------|------|---------|-----------|
+| **Ghiyasuddin Firoz** (elder) | Co-ruler | **Ghor** | Moved **left** (away from India → into Iran) — not important for India |
+| **Shihabuddin Muhammad (= Muhammad Ghori)** (younger) | Co-ruler | **Ghazna** (burned city) | Moved **right** (towards India) — **most important** |
+
+*   Mother made them promise: **never fight each other** → two separate thrones.
+*   **Key Difference**: **Mahmud Ghazni** came to India to **loot** (invader); **Muhammad Ghori** came to **settle** (permanent revenue system — brother forced him eastward).
+
+#### Muhammad Ghori → No Son → Army of Slaves + Free Men
+
+*   **Muizzi slaves** = Ghori's personal slaves (named after him).
+*   **Khalji free men** also joined (attracted by promise of wealth).
+*   *Key Rule*: Whenever you see **"Khalji"** → the person is a **free man** (never a slave).
+
+---
+
+### 16D. Muhammad Ghori — Three Phases of Indian Invasion
+
+#### Phase I: Capturing the Frontier (1191–1192 CE)
+
+*   Captured **fort of Tabarhind (Bhatinda)** — the **last frontier fort** of the **Chahamanas (Chauhans)** under **Prithviraj III (Prithvi the Third)**.
+*   **1191 CE — 1st Battle of Tarain**: Ghori **lost** → his army had never seen **elephants** before → horses panicked and ran.
+*   **1192 CE — 2nd Battle of Tarain**: Ghori **won** → took **Delhi, Mathura, Ujjain, Banaras, Gwalior**.
+
+#### Phase II: Feudatory System (Post-1192)
+
+*   Ghori **did not kill Indian rulers** — made them his **feudatories**.
+*   **Prithviraj III was NOT killed** — given **Ajmer** to rule from.
+*   **Evidence**: A **gold coin** discovered:
+    *   One side: **Shiva's Nandi** + name of **Prithvi** in Sanskrit.
+    *   Other side: Written **"Sri Mahasamanta Muhammad"** in Sanskrit.
+    *   → Proves Prithvi was working as **feudatory** of Muhammad Ghori.
+*   Later, Ghori **replaced Prithvi** with his brother **Hari Singh** (dispute over revenue sharing).
+*   **1194 CE — Battle of Chandawar**: Ghori defeated **Jaichand** (last powerful ruler of North India).
+
+#### Phase III: Control of Gangetic Plains
+
+*   Ghori takes over **entire Gangetic plains**.
+*   **Pushed Indian rulers to the fringes**.
+*   **Hari Singh** was replaced by **Prithvi's son Govind** → given **Ranthambore** (last Chauhan outpost → Ranthambore dynasty).
+
+---
+
+### 16E. Slave Dynasty Structure (Post-Ghori)
+
+*   **Muhammad Ghori died → NO SON** → divided kingdom among slaves.
+
+```
+Muhammad Ghori (d. 1206, no son)
+         ↓
+   ┌─────────────────────┐
+   │                     │
+  YILDIZ               QUTBUDDIN AIBAK
+  (Ghazna)             (Lahore & beyond)
+                        ├── Slave: QUBACHA (given Multan)
+                        ├── Slave: ILTUTMISH (given Gwalior → Badaun)
+                        │       → married Aibak's DAUGHTER
+                        │       → only slave MANUMITTED (freed) in lifetime
+                        └── Aibak died 1210
+                                ↓
+                            ARAM SHAH (clan member, successor)
+                                ↓
+                            ILTUTMISH marches from Badaun
+                            → kills Aram Shah
+                            → shifts to DELHI (1211 CE)
+```
+
+*   **Bakhtiyar Khalji** = a **free man** (Khalji = always free, never slave).
+    *   After Ghori's death → went rogue → captured **Lakhnauti (Bengal)**.
+    *   Destroyed **Somapuri & Odantapuri monasteries** and **Nalanda University** (burnt it).
+    *   Attempted to capture Tibet → caught in monsoon floods.
+    *   **Defeated by Raja Prithu** (ruler of Assam).
+    *   **Killed by his own slave Ali Mardan in 1206 CE**.
+
+> *Key Takeaway*: When Ghori dies → his slaves continue (bound by promise to master) → free men (like Bakhtiyar Khalji) go independent → this creates the dual power structure of the early Delhi Sultanate.
+
+---
+
+<!-- 2026-08-23: Added Lecture A3 content — South Indian Early Kingdoms in full dynasty detail (Pallavas: Simhavishnu to Nandivarman III with Appar conversion, rock-cut architecture, Vatapi Konda, Kailashnath Temple; Pandyas: Kadungon to Varaguna with Maravarman/Jadiyan title system; Cheras: Adan Cheral to Zamorins of Calicut with Patittupattu source, Senguttavan/Silappadikaram, Kulashekar Alvar, Cheraman Perumal Islam myth, Ibn Battuta 1347; Cholas: Vijayalaya to Rajendra III 1279 CE with Shiva-Vishnu clan system, Sati tradition, Sembiyan Mahadevi & Chola Bronze, Rajaraja Brihadeshwara, Rajendra Gangaikonda, Kulottunga destruction of Vishnu statues, Marco Polo; Eastern Chalukyas & Gangas matrimonial alliance). Medieval India foundations (Arab Invasion 712 CE Md bin Qasim/Chachnama, Ghaznavids with 5 court scholars including Al-Biruni kidnapping story, Ghorids two brothers, Muhammad Ghori 3 phases of invasion, Prithviraj III feudatory evidence via gold coin, Battle of Tarain 1191-92, Battle of Chandawar 1194, Slave Dynasty chain: Aibak/Iltutmish/Qubacha/Yildiz, Bakhtiyar Khalji Nalanda destruction & defeat by Prithu). -->
