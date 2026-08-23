@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-23
-*   **Active Micro-Topics:** 215
+*   **Active Micro-Topics:** 217
 *   **Overall Database Mastery:** 78.4% 📈
 *   **Today's Recall Completed:** 42 / 42 Micro-Topics Recalled (100% Level 5 Recall 🏆 — Batches 1, 2 & 3 Complete — Full Morning Queue Cleared!)
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 22
+*   **New Topics Ingested Today:** 24
 *   **Weekly Backlog:** 0
 
 ---
@@ -286,6 +286,8 @@
 | CA-260821-02 | Section 295A IPC / 299 BNS: 'Truth No Defence' Doctrine, Heckler's Veto & Ambedkar's Social Reform Priority | 2 | ★★★★★ | Day 2 | 2026-08-24 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-22 | Fast 🟢 | `Section 295A / 299 BNS` $\leftrightarrow$ `Henry Rodrigues 1961` $\leftrightarrow$ `Article 19(1)(a)/19(2)` $\leftrightarrow$ `Article 25(2)(b)` $\leftrightarrow$ `Heckler's Veto` $\leftrightarrow$ `Perumal Murugan 2016` |
 | CA-260822-01 | SC on MGNREGA vs VB-G RAM G Act, Right to Work (Art 21 vs DPSP Art 41) & Fiscal Federalism Shift | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `MGNREGA Repealed` $\leftrightarrow$ `VB-G RAM G Act` $\leftrightarrow$ `Article 41 DPSP` $\leftrightarrow$ `Article 21` $\leftrightarrow$ `Fiscal Federalism 60:40` |
 | CA-260822-02 | Rural Minimum Wages, Article 21 (Dignity) & Article 23 (Forced Labour) Jurisprudence (PUDR/Sanjit Roy) | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `Article 23 Begar` $\leftrightarrow$ `PUDR 1982 Asiad` $\leftrightarrow$ `Sanjit Roy 1983` $\leftrightarrow$ `Article 21 Livelihood` $\leftrightarrow$ `Minimum Wage Floor` |
+| CA-260823-01 | Gorkha Permanent Political Solution, Pankaj Kumar Singh Committee & Evolution from DGHC (1988) to GTA (2011) | 2 | ★★★★★ | Day 1 | 2026-08-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gorkhaland Issue` $\leftrightarrow$ `Pankaj Kumar Singh Committee` $\leftrightarrow$ `DGHC 1988` $\leftrightarrow$ `GTA 2011` $\leftrightarrow$ `Sub-State Autonomy` |
+| CA-260823-02 | Sub-State Autonomy Models (Art 3 Statehood vs Sixth Schedule/Art 371) & Siliguri Corridor Strategic Vulnerability | 2 | ★★★★★ | Day 1 | 2026-08-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 3 State Reorganisation` $\leftrightarrow$ `Sixth Schedule AMTM` $\leftrightarrow$ `Article 371 Asymmetry` $\leftrightarrow$ `Siliguri Corridor Chicken's Neck` $\leftrightarrow$ `ST Status 11 Gorkhas` |
 
 ---
 

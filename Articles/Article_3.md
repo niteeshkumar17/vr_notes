@@ -48,5 +48,17 @@
 - <span style="color: #e53e3e;">**Current Affair (Aug 2026):** For example, the Kerala Assembly passed a resolution in 2024 to change its name to *Keralam*. Subsequently, the Union government introduced and the Rajya Sabha passed the Kerala (Alteration of Name) Bill, 2026 to effect this change.</span>
 </details>
 
+<details><summary>How does Article 3 apply to demands for separate Statehood (e.g. Gorkhaland)?</summary>
+
+- Under **Article 3(a)**, Parliament has the exclusive power to create a new State by separating territory from an existing State (e.g., carving Gorkhaland out of West Bengal).
+- **Procedure:**
+  1. The Bill can be introduced **only on the prior recommendation of the President**.
+  2. The President refers the Bill to the **State Legislature (West Bengal Assembly)** for its views within a specified time limit.
+  3. The views or resolutions of the State Legislature are **NOT binding** on the President or Parliament.
+  4. Under **Article 4(2)**, the Bill is passed by a **Simple Majority** of Parliament (not deemed an amendment under Article 368).
+- <span style="color: #e53e3e;">**Current Affair (Aug 2026 — Gorkha Permanent Political Solution):** Following decades of agitation and the failure of statutory bodies (Darjeeling Gorkha Hill Council 1988 & Gorkhaland Territorial Administration 2011), the Union Ministry of Home Affairs constituted a high-level committee chaired by former Deputy NSA Pankaj Kumar Singh to draft modalities for a permanent constitutional solution (examining Art 3 Statehood/UT vs Sixth Schedule/Art 371 Asymmetric Autonomy).</span>
+</details>
+
 <!-- 2026-08-13: Initial creation with Art 3 overview and Kerala name change CA. -->
 <!-- 2026-08-17: Enriched with detailed 5 powers, pre-conditions (Recommendation of President = Govt Initiative, Opinion non-binding with 3 reasons), UT-only exception, Ambedkar reasoning, federal-unitary balance. -->
+<!-- 2026-08-23: Enriched with Gorkhaland statehood demand under Article 3, non-binding state legislature views, and MHA Pankaj Kumar Singh Committee (Aug 2026) modalities. -->
