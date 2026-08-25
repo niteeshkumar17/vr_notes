@@ -225,6 +225,7 @@ Nucleocapsid = Nucleic Acid + Capsid
   - India's current focus: Females first, males later
 
 ### 2. Hepatitis B Virus (HBV)
+- <span style="color: #e53e3e;">**UPSC Trap Alert (MST-028):** Hepatitis B is a **DNA virus**. (In contrast, Hepatitis A, C, D, and E are RNA viruses).</span>
 - Infects **only liver cells** — best example of virus tropism / host specificity
 - Can cause **liver cancer** (virus-induced cancer)
 - **Preventable** using **HBV vaccine**
@@ -438,3 +439,4 @@ Human body → WBC (White Blood Cells)
 ---
 
 <!-- 2026-08-24: Created from S&T Lecture 1 handwritten notes (8 pages) + audio transcript. Covers syllabus overview (7 chapters) + public health virology deep dive. 20 micro-topics registered in Ghost Recall Tracker (ST-01-01 to ST-01-20). -->
+<!-- 2026-08-25: Added light-red trap note for Hepatitis B Virus (DNA virus vs RNA virus distinction) following Session 16 MCQ results (MST-028). -->
