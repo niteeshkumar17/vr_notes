@@ -253,9 +253,9 @@ Capital Gain Tax
 ### Indexed Cost Formula
 
 ```
-                         CII of Sale Year
+                                   CII of Sale Year
 Indexed Cost = Cost of Purchase × ─────────────────────
-                         CII of Purchase Year
+                                   CII of Purchase Year
 ```
 
 Where **CII = Cost Inflation Index** (published annually by the Income Tax Department)
