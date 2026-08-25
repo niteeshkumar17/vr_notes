@@ -97,6 +97,19 @@
   - Nipah virus
   - Ebola virus
 
+##### Medical Device Regulation Architecture & 2026 Reforms
+<span style="color: #e53e3e;">
+- **Statutory Base:** Regulated as statutory "drugs" under the **Drugs and Cosmetics Act, 1940** and governed by the **Medical Devices Rules, 2017** under the **CDSCO** (headed by DCGI, MoHFW).
+- **4-Tier Risk Classification:**
+  - **Class A (Low Risk):** Surgical dressings, thermometers (State Licensing Authority).
+  - **Class B (Low-to-Moderate Risk):** Hypodermic needles, suction pumps (State Licensing Authority).
+  - **Class C (Moderate-to-High Risk):** Hemodialysis catheters, ventilators (Central Licensing Authority / DCGI).
+  - **Class D (High Risk):** Heart valves, coronary stents, implantable pacemakers (Central Licensing Authority / DCGI).
+- **2026 Ease of Doing Business Amendments:**
+  - **Rule 44 (Sterilisation):** Removed separate loan licence mandate for outsourced sterilisation (facility's licence number must be printed on device label; 6-month transition).
+  - **Rule 63 (Clinical Investigation Waiver):** Added **European Union (EU)** to Stringent Regulatory Jurisdictions (US, UK, Australia, Canada, Japan, EU) to fast-track market approval for novel devices without predicate in India.
+</span>
+
 ---
 
 ## Part B: Public Health — Key Vocabulary
@@ -440,3 +453,5 @@ Human body → WBC (White Blood Cells)
 
 <!-- 2026-08-24: Created from S&T Lecture 1 handwritten notes (8 pages) + audio transcript. Covers syllabus overview (7 chapters) + public health virology deep dive. 20 micro-topics registered in Ghost Recall Tracker (ST-01-01 to ST-01-20). -->
 <!-- 2026-08-25: Added light-red trap note for Hepatitis B Virus (DNA virus vs RNA virus distinction) following Session 16 MCQ results (MST-028). -->
+<!-- 2026-08-25: Enriched with Medical Device Regulation architecture (Drugs & Cosmetics Act 1940, MDR 2017 Class A-D) and 2026 amendments (Rule 44 sterilisation loan licence removal + Rule 63 EU inclusion for clinical trial waiver). -->
+

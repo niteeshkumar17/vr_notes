@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-25
-*   **Active Micro-Topics:** 254
+*   **Active Micro-Topics:** 262
 *   **Overall Database Mastery:** 76.5% 📈
 *   **Today's Recall Completed:** 9
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 17
+*   **New Topics Ingested Today:** 8
 *   **Weekly Backlog:** 0
 
 ---
@@ -288,6 +288,14 @@
 | CA-260822-02 | Rural Minimum Wages, Article 21 (Dignity) & Article 23 (Forced Labour) Jurisprudence (PUDR/Sanjit Roy) | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `Article 23 Begar` $\leftrightarrow$ `PUDR 1982 Asiad` $\leftrightarrow$ `Sanjit Roy 1983` $\leftrightarrow$ `Article 21 Livelihood` $\leftrightarrow$ `Minimum Wage Floor` |
 | CA-260823-01 | Gorkha Permanent Political Solution, Pankaj Kumar Singh Committee & Evolution from DGHC (1988) to GTA (2011) | 2 | ★★★★★ | Day 1 | 2026-08-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gorkhaland Issue` $\leftrightarrow$ `Pankaj Kumar Singh Committee` $\leftrightarrow$ `DGHC 1988` $\leftrightarrow$ `GTA 2011` $\leftrightarrow$ `Sub-State Autonomy` |
 | CA-260823-02 | Sub-State Autonomy Models (Art 3 Statehood vs Sixth Schedule/Art 371) & Siliguri Corridor Strategic Vulnerability | 2 | ★★★★★ | Day 1 | 2026-08-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 3 State Reorganisation` $\leftrightarrow$ `Sixth Schedule AMTM` $\leftrightarrow$ `Article 371 Asymmetry` $\leftrightarrow$ `Siliguri Corridor Chicken's Neck` $\leftrightarrow$ `ST Status 11 Gorkhas` |
+| CA-260824-01 | MMDR Amendment Act 2026: Major Minerals, Mineral Land Regulation & Fiscal Federalism (Entry 54 vs 50) | 2 | ★★★★★ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MMDR Act 2026` $\leftrightarrow$ `Mineral Area Dev Authority 2024` $\leftrightarrow$ `Royalty Not Tax` $\leftrightarrow$ `Entry 54 vs Entry 50` |
+| CA-260824-02 | AI Tutor as Education DPI: Public Rails Private Engines, Open Architecture & APAAR/DIKSHA | 2 | ★★★★★ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Public Rails Private Engines` $\leftrightarrow$ `APAAR/DIKSHA` $\leftrightarrow$ `DEPA Learning Wallet` $\leftrightarrow$ `DPDP Act` |
+| CA-260824-03 | Child Online Safety & Civilisational Social Media Approach: Platform Accountability vs UN CRC | 2 | ★★★★☆ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Safety by Design` $\leftrightarrow$ `UN CRC Best Interests` $\leftrightarrow$ `Guru-Shishya Ethic` $\leftrightarrow$ `Digital Citizenship` |
+| CA-260824-04 | India Global Shipbuilding Hub: ₹3,500 Cr GRSE/YIL Projects, Defence Indigenisation & Maritime Vision | 2 | ★★★★★ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `GRSE DPSU` $\leftrightarrow$ `₹69,725 Cr Maritime Package` $\leftrightarrow$ `Strategic Autonomy` $\leftrightarrow$ `Sagarmala` |
+| CA-260824-05 | Kaziranga Landscape Ecology: Karbi Anglong Corridors, CEC Oversight & Watershed Protection | 2 | ★★★★★ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Central Empowered Committee` $\leftrightarrow$ `Karbi Anglong Refuge` $\leftrightarrow$ `9 Animal Corridors` $\leftrightarrow$ `ESZ` |
+| CA-260824-06 | MV Ocean Winner Sinking: Flag of Convenience, Maritime SAR 1979 & Indian Coast Guard | 2 | ★★★★☆ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SAR Convention 1979` $\leftrightarrow$ `Indian Coast Guard` $\leftrightarrow$ `MRCC Sri Vijaya Puram` $\leftrightarrow$ `Flags of Convenience` |
+| CA-260825-01 | Medical Devices Rules 2017: Rule 44 Sterilisation Loan Licence Removal & Traceability Mandate | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Medical Devices Rules 2017` $\leftrightarrow$ `Rule 44 Outsourced Sterilisation` $\leftrightarrow$ `Loan Licence Removal` $\leftrightarrow$ `Packaging Traceability` |
+| CA-260825-02 | Medical Devices Rules 2017: Rule 63 Clinical Trial Waiver & EU Inclusion in SRJs | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Rule 63 Clinical Investigation Waiver` $\leftrightarrow$ `European Union EU MDR` $\leftrightarrow$ `CDSCO DCGI` $\leftrightarrow$ `Class A-D Classification` |
 
 ---
 
