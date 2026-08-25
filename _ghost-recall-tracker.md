@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-25
-*   **Active Micro-Topics:** 237
+*   **Active Micro-Topics:** 254
 *   **Overall Database Mastery:** 76.5% 📈
 *   **Today's Recall Completed:** 9
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 17
 *   **Weekly Backlog:** 0
 
 ---
@@ -340,6 +340,28 @@
 | ST-01-18 | ACE-2 Receptor: Adult vs Infant Lungs & Differential COVID-19 Severity | 3 | ★★★★★ | Day 2 | 2026-08-26 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-25 | Fast 🟢 | Mature Lungs=More ACE-2 $\leftrightarrow$ Immature=Fewer ACE-2 $\leftrightarrow$ NOT About Immunity $\leftrightarrow$ Blessing In Disguise |
 | ST-01-19 | Antibody-Mediated Immunity: B-Cell Lymphocytes, Mask Spike Protein, Block Infection | 2 | â˜…â˜…â˜…â˜…â˜… | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WBC B-Cells` $\\leftrightarrow$ `Antibodies=Immunoproteins` $\\leftrightarrow$ `Mask Spike` $\\leftrightarrow$ `Block Attachment+Entry` $\\leftrightarrow$ `Virus Forced Out` |
 | ST-01-20 | Virus Living vs Non-Living (No Respiration + Host Reproduction = Transition) & Bacteria vs Virus 7-Point | 2 | â˜…â˜…â˜…â˜…â˜… | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Metabolism=Non-Living` $\\leftrightarrow$ `Reproduction=Living` $\\leftrightarrow$ `Transition Phase` $\\leftrightarrow$ `7 Differences` $\\leftrightarrow$ `Binary Fission=Natural Cloning` |
+
+
+### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-04-01 | GMCT: 15% Minimum, OECD/G20, 139 Members & BEPS | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `OECD/G20 Pillar Two` $\leftrightarrow$ `BEPS` $\leftrightarrow$ `Level Playing Field` $\leftrightarrow$ `PPP 3rd Rank` |
+| ECO-04-02 | MAT: 14% on Book Profit, Direct Tax, Fraud Prevention | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Book Profit = Revenue + Upcoming − Cost − Depreciation` $\leftrightarrow$ `Companies Act 2013 OPC` $\leftrightarrow$ `GMCT 15%` |
+| ECO-04-03 | Book Profit vs Normal Profit Formula & Calculation | 2 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Received + Upcoming Revenue` $\leftrightarrow$ `Only Received Revenue` $\leftrightarrow$ `Depreciation` $\leftrightarrow$ `MAT` |
+| ECO-04-04 | STT: Direct Tax on Securities, Claimable as Business Expense | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Securities = Equity/MF/Bonds` $\leftrightarrow$ `Business Expense Claim` $\leftrightarrow$ `Ricardian Equivalence` $\leftrightarrow$ `SEBI` |
+| ECO-04-05 | Capital Gain Tax: Equity vs Non-Equity Classification | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Equity < 12m ST` $\leftrightarrow$ `Property < 24m ST` $\leftrightarrow$ `Jewellery < 36m ST` $\leftrightarrow$ `STT` |
+| ECO-04-06 | STCG on Equity: 20% (Earlier 15%), Budget Day Crash | 2 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `23 July 2024` $\leftrightarrow$ `15% → 20%` $\leftrightarrow$ `Panic Selling` $\leftrightarrow$ `Budget Day Share Market Crash` |
+| ECO-04-07 | LTCG on Equity: 12.5% on Gain > ₹1.25L (2018 Reintroduction) | 3 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Zero Before 2018` $\leftrightarrow$ `10% → 12.5%` $\leftrightarrow$ `₹1L → ₹1.25L Threshold` $\leftrightarrow$ `PM-KISAN/Ayushman Revenue` |
+| ECO-04-08 | LTCG on Property/Jewellery: 12.5% Without Indexation (Earlier 20% With) | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Simplification` $\leftrightarrow$ `Property ≥ 24m` $\leftrightarrow$ `Jewellery ≥ 36m` $\leftrightarrow$ `Grandfathering Clause` |
+| ECO-04-09 | Indexation: CII Formula, Inflation Adjustment & When Beneficial | 2 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CII = Cost Inflation Index` $\leftrightarrow$ `CoP × (CII Sale / CII Purchase)` $\leftrightarrow$ `High Inflation = Beneficial` |
+| ECO-04-10 | Round Tripping: Black Money via Tax Havens & Stock Manipulation | 3 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mauritius Route` $\leftrightarrow$ `Tax Avoidance` $\leftrightarrow$ `Stock Price Manipulation` $\leftrightarrow$ `1 Apr 2019 Suspension` |
+| ECO-04-11 | DTAA: 90 Countries (88 Enforced), Promotes FDI & Employment | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Tax Treaty` $\leftrightarrow$ `Investment → Production → Employment` $\leftrightarrow$ `Cyprus/UAE Suspended` |
+| ECO-04-12 | Comprehensive vs Limited DTAA (8 Countries, Airlines/Shipping/Oil) | 2 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Comprehensive = All Direct Tax Exempt` $\leftrightarrow$ `Limited = 3 Sectors Only` $\leftrightarrow$ `Oil Machinery Added 2023` |
+| ECO-04-13 | Indo-Mauritius Revised DTAA: TRC + PPT (April 2024) | 3 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `TRC = Tax Residency Certificate` $\leftrightarrow$ `PPT = Principal Purpose Test` $\leftrightarrow$ `April 2024 Amendment` $\leftrightarrow$ `Round Tripping` |
+| ECO-04-14 | SC Verdict on DDT: ₹11,000 Cr Retrospective Tax (Oct 2023) | 3 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `France/NL/Switzerland MNCs` $\leftrightarrow$ `5% vs 10% Withholding` $\leftrightarrow$ `MFN ≠ DTAA` $\leftrightarrow$ `₹3,000 Cr Annual Loss` |
+| ECO-04-15 | Withholding Tax: TDS Concept & DDT Deduction Mechanism | 1 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `TDS` $\leftrightarrow$ `Employer Deduction` $\leftrightarrow$ `Dividend Withholding` $\leftrightarrow$ `DDT` |
+| ECO-04-16 | DTC: Old (2009 Shome) vs New (2017 Akhilesh Ranjan) & Income Tax Act 2025 | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `800+ Sections Outdated` $\leftrightarrow$ `GST Analogy` $\leftrightarrow$ `Parthasarathi Shome 2009` $\leftrightarrow$ `Akhilesh Ranjan 2017` |
+| ECO-04-17 | DTC Objectives: Simplification, International Best Practices & Economic Peculiarities | 2 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Income Tax Act 2025` $\leftrightarrow$ `Ease of Business` $\leftrightarrow$ `Similar to Global DT Structure` $\leftrightarrow$ `Keep Nation Peculiarities` |
 
 
 ---

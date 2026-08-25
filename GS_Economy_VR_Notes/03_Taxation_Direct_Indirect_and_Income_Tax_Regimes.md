@@ -337,6 +337,8 @@ The OECD/G20-led framework seeks an effective minimum corporate tax rate of **15
 
 > **Important qualifier:** The global minimum tax is not a universal 15% corporate-tax rate for every company. It applies to covered multinational groups under detailed OECD Pillar Two rules.
 
+<span style="color: #e53e3e;">**L25 Enrichment:** GMCT has **139 members** (initially ~125, expanded). The US under Trump withdrew. GMCT reduces **BEPS** (Base Erosion & Profit Shifting — shifting operations from higher-tax to lower-tax nations). Level playing field benefits India as **3rd largest PPP economy** (China #1, USA #2). Detailed notes including MAT (14% on book profit), STT, Capital Gain Tax rates, DTAA, Round Tripping, DDT SC Verdict, and DTC are in [`04_Advanced_Taxation_GMCT_MAT_STT_CGT_DTAA_DTC.md`](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/GS_Economy_VR_Notes/04_Advanced_Taxation_GMCT_MAT_STT_CGT_DTAA_DTC.md).</span>
+
 ---
 
 ## Quick Revision Sheet

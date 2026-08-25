@@ -1,4 +1,4 @@
-﻿{
+{
     "GS_Polity_VR_Notes":  [
                                {
                                    "file":  "Indian_Polity_Constitution.md",
@@ -33,6 +33,10 @@
                                 {
                                     "file":  "03_Taxation_Direct_Indirect_and_Income_Tax_Regimes.md",
                                     "title":  "Taxation Direct Indirect and Income Tax Regimes"
+                                },
+                                {
+                                    "file":  "04_Advanced_Taxation_GMCT_MAT_STT_CGT_DTAA_DTC.md",
+                                    "title":  "Advanced Taxation GMCT MAT STT CGT DTAA DTC"
                                 }
                             ],
     "GS_ScienceTech_VR_Notes":  [
