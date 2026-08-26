@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-26
-*   **Active Micro-Topics:** 262
-*   **Overall Database Mastery:** 78.2% 📈
+*   **Active Micro-Topics:** 277
+*   **Overall Database Mastery:** 76.8% 📈
 *   **Today's Recall Completed:** 10
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 15
 *   **Weekly Backlog:** 0
 
 ---
@@ -369,6 +369,26 @@
 | ECO-04-15 | Withholding Tax: TDS Concept & DDT Deduction Mechanism | 1 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `TDS` $\leftrightarrow$ `Employer Deduction` $\leftrightarrow$ `Dividend Withholding` $\leftrightarrow$ `DDT` |
 | ECO-04-16 | DTC: Old (2009 Shome) vs New (2017 Akhilesh Ranjan) & Income Tax Act 2025 | 2 | ★★★★★ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `800+ Sections Outdated` $\leftrightarrow$ `GST Analogy` $\leftrightarrow$ `Parthasarathi Shome 2009` $\leftrightarrow$ `Akhilesh Ranjan 2017` |
 | ECO-04-17 | DTC Objectives: Simplification, International Best Practices & Economic Peculiarities | 2 | ★★★★☆ | Day 1 | 2026-08-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Income Tax Act 2025` $\leftrightarrow$ `Ease of Business` $\leftrightarrow$ `Similar to Global DT Structure` $\leftrightarrow$ `Keep Nation Peculiarities` |
+
+
+### History (Ancient India — Stone Age)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| HIS-AI-01 | Pre-history / Proto-history / History Definitions | 1 | ★★★☆☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Written Records` $\leftrightarrow$ `IVC Undeciphered` $\leftrightarrow$ `Vedic Age Onwards` |
+| HIS-AI-02 | Geological Timeline: Palaeozoic → Mesozoic → Cenozoic & Epochs | 1 | ★★☆☆☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Fish → Reptiles → Mammals` $\leftrightarrow$ `Pleistocene Cycles` $\leftrightarrow$ `Holocene Warming` |
+| HIS-AI-03 | Pleistocene & Holocene Epochs + Anthropocene (Proposed) | 2 | ★★★☆☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ice Age Cycles` $\leftrightarrow$ `10,000 BC Warming` $\leftrightarrow$ `Industrial Revolution` $\leftrightarrow$ `Agriculture After Warming` |
+| HIS-AI-04 | Lower Palaeolithic: Oldowan Tools & Homo Habilis | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Olduvai Gorge Tanzania` $\leftrightarrow$ `Pebble/Chopper-Chopping Tools` $\leftrightarrow$ `Flaking Process` $\leftrightarrow$ `Homo Habilis` |
+| HIS-AI-05 | Soanian Tools: Soan River, Potwar Plateau, Pakistan | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Tributary of Sutlej` $\leftrightarrow$ `West Punjab Pakistan` $\leftrightarrow$ `No Homo Habilis Fossil in India` |
+| HIS-AI-06 | Acheulean Tools, Homo Erectus & Madrasian Industry | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Triangular Hand Axes` $\leftrightarrow$ `Attirampakkam Tamil Nadu` $\leftrightarrow$ `Majority Indian Sites Acheulean` $\leftrightarrow$ `Homo Erectus` |
+| HIS-AI-07 | Narmada Man: Oldest Indian Fossil (Hathnora 1982, 6 Lakh Yrs) | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Homo Erectus Skull` $\leftrightarrow$ `Sehore MP` $\leftrightarrow$ `Narmada Valley` $\leftrightarrow$ `Arun Sonakia` $\leftrightarrow$ `Acidic Soil = Few Fossils` |
+| HIS-AI-08 | Middle Palaeolithic: Mousterian/Nevasian Tools & Levallois Technique | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bifacial Flaking` $\leftrightarrow$ `Scrapers/Points/Triangles` $\leftrightarrow$ `Nevasa Pune Maharashtra` $\leftrightarrow$ `No Neanderthal in India` |
+| HIS-AI-09 | Neanderthals: Earliest Evidence of Religion (Burial, Grave Goods) | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Respectful Burial` $\leftrightarrow$ `Specific Pattern` $\leftrightarrow$ `Grave Goods` $\leftrightarrow$ `Non-Habitational Caves` |
+| HIS-AI-10 | Human Speciation: Australopithecus → Habilis → Erectus → Sapiens | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bipedalism` $\leftrightarrow$ `Tool Use` $\leftrightarrow$ `Walk Straight` $\leftrightarrow$ `Thinking/Dreaming` $\leftrightarrow$ `Common Ancestor Not Monkey` |
+| HIS-AI-11 | Upper Palaeolithic: Parallel Blades, Bone Tools & Cave Art | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `All Others Extinct` $\leftrightarrow$ `Kurnool AP` $\leftrightarrow$ `Bhimbetka` $\leftrightarrow$ `Adamgarh` $\leftrightarrow$ `Lakhudiyar Almora` |
+| HIS-AI-12 | Mesolithic Age: Microliths, Transitionary Phase & Domestication Begins | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `10,000 BC–8,000 BC` $\leftrightarrow$ `Small Stone 1-4cm` $\leftrightarrow$ `Compound Tools` $\leftrightarrow$ `Belan Valley` $\leftrightarrow$ `Sarai Nahar Rai` |
+| HIS-AI-13 | Mesolithic: Pottery Exception vs Feature & Surplus (Irregular) | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pottery APPEARED in Mesolithic` $\leftrightarrow$ `Pottery FEATURE of Neolithic` $\leftrightarrow$ `Surplus Irregular/Unreliable` |
+| HIS-AI-14 | Neolithic Age: Celts, Agriculture & Settled Life in Villages | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Polished/Symmetric/Precision` $\leftrightarrow$ `Sedentary Life` $\leftrightarrow$ `Houses Near Fields` $\leftrightarrow$ `HG Secondary` |
+| HIS-AI-15 | Neolithic Revolution: Division of Labour, Specialization & Prime Species | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Surplus → Free Population` $\leftrightarrow$ `Pottery/Cloth/Masonry` $\leftrightarrow$ `Division of Labour` $\leftrightarrow$ `Control All Species` $\leftrightarrow$ `Revolution = Sudden+Fundamental` |
 
 
 ---
