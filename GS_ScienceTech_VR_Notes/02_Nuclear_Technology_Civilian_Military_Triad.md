@@ -130,7 +130,7 @@
   </g>
 </svg>
 
-<p><em><strong>Figure:</strong> The Official Radura Symbol (<a href="https://commons.wikimedia.org/wiki/File:Radura-Symbol.svg" target="_blank">Wikimedia Commons</a> — Mandatory labeling for irradiated food items)</em></p>
+<p><em><strong>Figure:</strong> The International Radura Symbol (Mandatory labeling for irradiated food items)</em></p>
 
 </div>
 
