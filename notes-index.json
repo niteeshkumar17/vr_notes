@@ -1,456 +1,456 @@
 {
-  "GS_History_VR_Notes": [
+  "Articles": [
     {
-      "title": "Ancient India Stone Age",
-      "file": "Ancient_India_Stone_Age.md"
+      "file": "00_All_Articles_Master.md",
+      "title": "All Articles Master"
     },
     {
-      "title": "Early Medieval India",
-      "file": "Early_Medieval_India.md"
+      "file": "Article_102.md",
+      "title": "Article 102"
     },
     {
-      "title": "Early Modern India",
-      "file": "Early_Modern_India.md"
+      "file": "Article_105.md",
+      "title": "Article 105"
     },
     {
-      "title": "Medieval India",
-      "file": "Medieval_India.md"
+      "file": "Article_111.md",
+      "title": "Article 111"
     },
     {
-      "title": "Modern India",
-      "file": "Modern_India.md"
-    }
-  ],
-  "GS_Polity_VR_Notes": [
-    {
-      "title": "Indian Polity Constitution",
-      "file": "Indian_Polity_Constitution.md"
+      "file": "Article_123.md",
+      "title": "Article 123"
     },
     {
-      "title": "Polity Lec1 AbheyKumar Strategy Constitution President",
-      "file": "Polity_Lec1_AbheyKumar_Strategy_Constitution_President.md"
+      "file": "Article_124.md",
+      "title": "Article 124"
     },
     {
-      "title": "Polity Lec2 AbheyKumar President",
-      "file": "Polity_Lec2_AbheyKumar_President.md"
+      "file": "Article_13.md",
+      "title": "Article 13"
     },
     {
-      "title": "Polity Lec3 AbheyKumar MercyPower ConstitutionalPosition",
-      "file": "Polity_Lec3_AbheyKumar_MercyPower_ConstitutionalPosition.md"
+      "file": "Article_14.md",
+      "title": "Article 14"
     },
     {
-      "title": "Polity Lec4 AbheyKumar VP COM PM CabinetSystem",
-      "file": "Polity_Lec4_AbheyKumar_VP_COM_PM_CabinetSystem.md"
-    }
-  ],
-  "GS_Geography_VR_Notes": [
-    {
-      "title": "Fundamentals of Geography",
-      "file": "01_Fundamentals_of_Geography.md"
+      "file": "Article_142.md",
+      "title": "Article 142"
     },
     {
-      "title": "Geomorphology",
-      "file": "02_Geomorphology.md"
+      "file": "Article_148.md",
+      "title": "Article 148"
     },
     {
-      "title": "Climatology Atmosphere and Troposphere",
-      "file": "03_Climatology_Atmosphere_and_Troposphere.md"
-    }
-  ],
-  "GS_Economy_VR_Notes": [
-    {
-      "title": "Introduction and National Income Basics",
-      "file": "01_Introduction_and_National_Income_Basics.md"
+      "file": "Article_149.md",
+      "title": "Article 149"
     },
     {
-      "title": "Fiscal Policy Budget and Syllabus Overview",
-      "file": "02_Fiscal_Policy_Budget_and_Syllabus_Overview.md"
+      "file": "Article_15.md",
+      "title": "Article 15"
     },
     {
-      "title": "Taxation Direct Indirect and Income Tax Regimes",
-      "file": "03_Taxation_Direct_Indirect_and_Income_Tax_Regimes.md"
+      "file": "Article_151.md",
+      "title": "Article 151"
     },
     {
-      "title": "Advanced Taxation GMCT MAT STT CGT DTAA DTC",
-      "file": "04_Advanced_Taxation_GMCT_MAT_STT_CGT_DTAA_DTC.md"
+      "file": "Article_16.md",
+      "title": "Article 16"
+    },
+    {
+      "file": "Article_161.md",
+      "title": "Article 161"
+    },
+    {
+      "file": "Article_162.md",
+      "title": "Article 162"
+    },
+    {
+      "file": "Article_163.md",
+      "title": "Article 163"
+    },
+    {
+      "file": "Article_164.md",
+      "title": "Article 164"
+    },
+    {
+      "file": "Article_172.md",
+      "title": "Article 172"
+    },
+    {
+      "file": "Article_19.md",
+      "title": "Article 19"
+    },
+    {
+      "file": "Article_191.md",
+      "title": "Article 191"
+    },
+    {
+      "file": "Article_2.md",
+      "title": "Article 2"
+    },
+    {
+      "file": "Article_20.md",
+      "title": "Article 20"
+    },
+    {
+      "file": "Article_21.md",
+      "title": "Article 21"
+    },
+    {
+      "file": "Article_213.md",
+      "title": "Article 213"
+    },
+    {
+      "file": "Article_21A.md",
+      "title": "Article 21A"
+    },
+    {
+      "file": "Article_23.md",
+      "title": "Article 23"
+    },
+    {
+      "file": "Article_246.md",
+      "title": "Article 246"
+    },
+    {
+      "file": "Article_25.md",
+      "title": "Article 25"
+    },
+    {
+      "file": "Article_262.md",
+      "title": "Article 262"
+    },
+    {
+      "file": "Article_275.md",
+      "title": "Article 275"
+    },
+    {
+      "file": "Article_279A.md",
+      "title": "Article 279A"
+    },
+    {
+      "file": "Article_280.md",
+      "title": "Article 280"
+    },
+    {
+      "file": "Article_282.md",
+      "title": "Article 282"
+    },
+    {
+      "file": "Article_3.md",
+      "title": "Article 3"
+    },
+    {
+      "file": "Article_300A.md",
+      "title": "Article 300A"
+    },
+    {
+      "file": "Article_312.md",
+      "title": "Article 312"
+    },
+    {
+      "file": "Article_323A.md",
+      "title": "Article 323A"
+    },
+    {
+      "file": "Article_324.md",
+      "title": "Article 324"
+    },
+    {
+      "file": "Article_326.md",
+      "title": "Article 326"
+    },
+    {
+      "file": "Article_33.md",
+      "title": "Article 33"
+    },
+    {
+      "file": "Article_343.md",
+      "title": "Article 343"
+    },
+    {
+      "file": "Article_356.md",
+      "title": "Article 356"
+    },
+    {
+      "file": "Article_368.md",
+      "title": "Article 368"
+    },
+    {
+      "file": "Article_39b.md",
+      "title": "Article 39b"
+    },
+    {
+      "file": "Article_39c.md",
+      "title": "Article 39c"
+    },
+    {
+      "file": "Article_4.md",
+      "title": "Article 4"
+    },
+    {
+      "file": "Article_41.md",
+      "title": "Article 41"
+    },
+    {
+      "file": "Article_43.md",
+      "title": "Article 43"
+    },
+    {
+      "file": "Article_43A.md",
+      "title": "Article 43A"
+    },
+    {
+      "file": "Article_44.md",
+      "title": "Article 44"
+    },
+    {
+      "file": "Article_45.md",
+      "title": "Article 45"
+    },
+    {
+      "file": "Article_46.md",
+      "title": "Article 46"
+    },
+    {
+      "file": "Article_47.md",
+      "title": "Article 47"
+    },
+    {
+      "file": "Article_48A.md",
+      "title": "Article 48A"
+    },
+    {
+      "file": "Article_50.md",
+      "title": "Article 50"
+    },
+    {
+      "file": "Article_51A_g.md",
+      "title": "Article 51A G"
+    },
+    {
+      "file": "Article_54.md",
+      "title": "Article 54"
+    },
+    {
+      "file": "Article_55.md",
+      "title": "Article 55"
+    },
+    {
+      "file": "Article_71.md",
+      "title": "Article 71"
+    },
+    {
+      "file": "Article_72.md",
+      "title": "Article 72"
+    },
+    {
+      "file": "Article_74.md",
+      "title": "Article 74"
+    },
+    {
+      "file": "Article_75.md",
+      "title": "Article 75"
+    },
+    {
+      "file": "Article_81.md",
+      "title": "Article 81"
+    },
+    {
+      "file": "Article_82.md",
+      "title": "Article 82"
+    },
+    {
+      "file": "Article_83.md",
+      "title": "Article 83"
     }
   ],
   "Current_Affairs": [
     {
-      "title": "08-01 Current Affairs",
-      "file": "August_2026/2026-08-01_Current_Affairs.md"
+      "file": "August_2026/2026-08-01_Current_Affairs.md",
+      "title": "08-01 Current Affairs"
     },
     {
-      "title": "08-02 Current Affairs",
-      "file": "August_2026/2026-08-02_Current_Affairs.md"
+      "file": "August_2026/2026-08-02_Current_Affairs.md",
+      "title": "08-02 Current Affairs"
     },
     {
-      "title": "08-03 Current Affairs",
-      "file": "August_2026/2026-08-03_Current_Affairs.md"
+      "file": "August_2026/2026-08-03_Current_Affairs.md",
+      "title": "08-03 Current Affairs"
     },
     {
-      "title": "08-04 Current Affairs",
-      "file": "August_2026/2026-08-04_Current_Affairs.md"
+      "file": "August_2026/2026-08-04_Current_Affairs.md",
+      "title": "08-04 Current Affairs"
     },
     {
-      "title": "08-05 Current Affairs",
-      "file": "August_2026/2026-08-05_Current_Affairs.md"
+      "file": "August_2026/2026-08-05_Current_Affairs.md",
+      "title": "08-05 Current Affairs"
     },
     {
-      "title": "08-06 Current Affairs",
-      "file": "August_2026/2026-08-06_Current_Affairs.md"
+      "file": "August_2026/2026-08-06_Current_Affairs.md",
+      "title": "08-06 Current Affairs"
     },
     {
-      "title": "08-07 Current Affairs",
-      "file": "August_2026/2026-08-07_Current_Affairs.md"
+      "file": "August_2026/2026-08-07_Current_Affairs.md",
+      "title": "08-07 Current Affairs"
     },
     {
-      "title": "08-08 Current Affairs",
-      "file": "August_2026/2026-08-08_Current_Affairs.md"
+      "file": "August_2026/2026-08-08_Current_Affairs.md",
+      "title": "08-08 Current Affairs"
     },
     {
-      "title": "08-11 Current Affairs",
-      "file": "August_2026/2026-08-11_Current_Affairs.md"
+      "file": "August_2026/2026-08-11_Current_Affairs.md",
+      "title": "08-11 Current Affairs"
     },
     {
-      "title": "08-13 Current Affairs",
-      "file": "August_2026/2026-08-13_Current_Affairs.md"
+      "file": "August_2026/2026-08-13_Current_Affairs.md",
+      "title": "08-13 Current Affairs"
     },
     {
-      "title": "08-16 Current Affairs",
-      "file": "August_2026/2026-08-16_Current_Affairs.md"
+      "file": "August_2026/2026-08-16_Current_Affairs.md",
+      "title": "08-16 Current Affairs"
     },
     {
-      "title": "08-17 Current Affairs",
-      "file": "August_2026/2026-08-17_Current_Affairs.md"
+      "file": "August_2026/2026-08-17_Current_Affairs.md",
+      "title": "08-17 Current Affairs"
     },
     {
-      "title": "08-18 Current Affairs",
-      "file": "August_2026/2026-08-18_Current_Affairs.md"
+      "file": "August_2026/2026-08-18_Current_Affairs.md",
+      "title": "08-18 Current Affairs"
     },
     {
-      "title": "08-19 Current Affairs",
-      "file": "August_2026/2026-08-19_Current_Affairs.md"
+      "file": "August_2026/2026-08-19_Current_Affairs.md",
+      "title": "08-19 Current Affairs"
     },
     {
-      "title": "08-20 Current Affairs",
-      "file": "August_2026/2026-08-20_Current_Affairs.md"
+      "file": "August_2026/2026-08-20_Current_Affairs.md",
+      "title": "08-20 Current Affairs"
     },
     {
-      "title": "08-21 Current Affairs",
-      "file": "August_2026/2026-08-21_Current_Affairs.md"
+      "file": "August_2026/2026-08-21_Current_Affairs.md",
+      "title": "08-21 Current Affairs"
     },
     {
-      "title": "08-22 Current Affairs",
-      "file": "August_2026/2026-08-22_Current_Affairs.md"
+      "file": "August_2026/2026-08-22_Current_Affairs.md",
+      "title": "08-22 Current Affairs"
     },
     {
-      "title": "08-23 Current Affairs",
-      "file": "August_2026/2026-08-23_Current_Affairs.md"
+      "file": "August_2026/2026-08-23_Current_Affairs.md",
+      "title": "08-23 Current Affairs"
     },
     {
-      "title": "08-24 Current Affairs",
-      "file": "August_2026/2026-08-24_Current_Affairs.md"
+      "file": "August_2026/2026-08-24_Current_Affairs.md",
+      "title": "08-24 Current Affairs"
     },
     {
-      "title": "08-25 Current Affairs",
-      "file": "August_2026/2026-08-25_Current_Affairs.md"
+      "file": "August_2026/2026-08-25_Current_Affairs.md",
+      "title": "08-25 Current Affairs"
     },
     {
-      "title": "08-26 Current Affairs",
-      "file": "August_2026/2026-08-26_Current_Affairs.md"
+      "file": "August_2026/2026-08-26_Current_Affairs.md",
+      "title": "08-26 Current Affairs"
     },
     {
-      "title": "07-28 Current Affairs",
-      "file": "July_2026/2026-07-28_Current_Affairs.md"
+      "file": "July_2026/2026-07-28_Current_Affairs.md",
+      "title": "07-28 Current Affairs"
     },
     {
-      "title": "07-29 Current Affairs",
-      "file": "July_2026/2026-07-29_Current_Affairs.md"
+      "file": "July_2026/2026-07-29_Current_Affairs.md",
+      "title": "07-29 Current Affairs"
     },
     {
-      "title": "07-30 Current Affairs",
-      "file": "July_2026/2026-07-30_Current_Affairs.md"
+      "file": "July_2026/2026-07-30_Current_Affairs.md",
+      "title": "07-30 Current Affairs"
     },
     {
-      "title": "07-31 Current Affairs",
-      "file": "July_2026/2026-07-31_Current_Affairs.md"
+      "file": "July_2026/2026-07-31_Current_Affairs.md",
+      "title": "07-31 Current Affairs"
     }
   ],
-  "Articles": [
+  "GS_Economy_VR_Notes": [
     {
-      "title": "All Articles Master",
-      "file": "00_All_Articles_Master.md"
+      "file": "01_Introduction_and_National_Income_Basics.md",
+      "title": "Introduction And National Income Basics"
     },
     {
-      "title": "Article 102",
-      "file": "Article_102.md"
+      "file": "02_Fiscal_Policy_Budget_and_Syllabus_Overview.md",
+      "title": "Fiscal Policy Budget And Syllabus Overview"
     },
     {
-      "title": "Article 105",
-      "file": "Article_105.md"
+      "file": "03_Taxation_Direct_Indirect_and_Income_Tax_Regimes.md",
+      "title": "Taxation Direct Indirect And Income Tax Regimes"
     },
     {
-      "title": "Article 111",
-      "file": "Article_111.md"
-    },
-    {
-      "title": "Article 123",
-      "file": "Article_123.md"
-    },
-    {
-      "title": "Article 124",
-      "file": "Article_124.md"
-    },
-    {
-      "title": "Article 13",
-      "file": "Article_13.md"
-    },
-    {
-      "title": "Article 14",
-      "file": "Article_14.md"
-    },
-    {
-      "title": "Article 142",
-      "file": "Article_142.md"
-    },
-    {
-      "title": "Article 148",
-      "file": "Article_148.md"
-    },
-    {
-      "title": "Article 149",
-      "file": "Article_149.md"
-    },
-    {
-      "title": "Article 15",
-      "file": "Article_15.md"
-    },
-    {
-      "title": "Article 151",
-      "file": "Article_151.md"
-    },
-    {
-      "title": "Article 16",
-      "file": "Article_16.md"
-    },
-    {
-      "title": "Article 161",
-      "file": "Article_161.md"
-    },
-    {
-      "title": "Article 162",
-      "file": "Article_162.md"
-    },
-    {
-      "title": "Article 163",
-      "file": "Article_163.md"
-    },
-    {
-      "title": "Article 164",
-      "file": "Article_164.md"
-    },
-    {
-      "title": "Article 172",
-      "file": "Article_172.md"
-    },
-    {
-      "title": "Article 19",
-      "file": "Article_19.md"
-    },
-    {
-      "title": "Article 191",
-      "file": "Article_191.md"
-    },
-    {
-      "title": "Article 2",
-      "file": "Article_2.md"
-    },
-    {
-      "title": "Article 20",
-      "file": "Article_20.md"
-    },
-    {
-      "title": "Article 21",
-      "file": "Article_21.md"
-    },
-    {
-      "title": "Article 213",
-      "file": "Article_213.md"
-    },
-    {
-      "title": "Article 21A",
-      "file": "Article_21A.md"
-    },
-    {
-      "title": "Article 23",
-      "file": "Article_23.md"
-    },
-    {
-      "title": "Article 246",
-      "file": "Article_246.md"
-    },
-    {
-      "title": "Article 25",
-      "file": "Article_25.md"
-    },
-    {
-      "title": "Article 262",
-      "file": "Article_262.md"
-    },
-    {
-      "title": "Article 275",
-      "file": "Article_275.md"
-    },
-    {
-      "title": "Article 279A",
-      "file": "Article_279A.md"
-    },
-    {
-      "title": "Article 280",
-      "file": "Article_280.md"
-    },
-    {
-      "title": "Article 282",
-      "file": "Article_282.md"
-    },
-    {
-      "title": "Article 3",
-      "file": "Article_3.md"
-    },
-    {
-      "title": "Article 300A",
-      "file": "Article_300A.md"
-    },
-    {
-      "title": "Article 312",
-      "file": "Article_312.md"
-    },
-    {
-      "title": "Article 323A",
-      "file": "Article_323A.md"
-    },
-    {
-      "title": "Article 324",
-      "file": "Article_324.md"
-    },
-    {
-      "title": "Article 326",
-      "file": "Article_326.md"
-    },
-    {
-      "title": "Article 33",
-      "file": "Article_33.md"
-    },
+      "file": "04_Advanced_Taxation_GMCT_MAT_STT_CGT_DTAA_DTC.md",
+      "title": "Advanced Taxation GMCT MAT STT CGT DTAA DTC"
+    }
+  ],
+  "GS_Geography_VR_Notes": [
     {
-      "title": "Article 343",
-      "file": "Article_343.md"
+      "file": "01_Fundamentals_of_Geography.md",
+      "title": "Fundamentals Of Geography"
     },
     {
-      "title": "Article 356",
-      "file": "Article_356.md"
+      "file": "02_Geomorphology.md",
+      "title": "Geomorphology"
     },
     {
-      "title": "Article 368",
-      "file": "Article_368.md"
-    },
-    {
-      "title": "Article 39b",
-      "file": "Article_39b.md"
-    },
-    {
-      "title": "Article 39c",
-      "file": "Article_39c.md"
-    },
-    {
-      "title": "Article 4",
-      "file": "Article_4.md"
-    },
-    {
-      "title": "Article 41",
-      "file": "Article_41.md"
-    },
-    {
-      "title": "Article 43",
-      "file": "Article_43.md"
-    },
-    {
-      "title": "Article 43A",
-      "file": "Article_43A.md"
-    },
+      "file": "03_Climatology_Atmosphere_and_Troposphere.md",
+      "title": "Climatology Atmosphere And Troposphere"
+    }
+  ],
+  "GS_History_VR_Notes": [
     {
-      "title": "Article 44",
-      "file": "Article_44.md"
+      "file": "Ancient_India_Stone_Age.md",
+      "title": "Ancient India Stone Age"
     },
     {
-      "title": "Article 45",
-      "file": "Article_45.md"
+      "file": "Early_Medieval_India.md",
+      "title": "Early Medieval India"
     },
     {
-      "title": "Article 46",
-      "file": "Article_46.md"
+      "file": "Early_Modern_India.md",
+      "title": "Early Modern India"
     },
     {
-      "title": "Article 47",
-      "file": "Article_47.md"
+      "file": "Medieval_India.md",
+      "title": "Medieval India"
     },
     {
-      "title": "Article 48A",
-      "file": "Article_48A.md"
-    },
-    {
-      "title": "Article 50",
-      "file": "Article_50.md"
-    },
-    {
-      "title": "Article 51A g",
-      "file": "Article_51A_g.md"
-    },
-    {
-      "title": "Article 54",
-      "file": "Article_54.md"
-    },
-    {
-      "title": "Article 55",
-      "file": "Article_55.md"
-    },
-    {
-      "title": "Article 71",
-      "file": "Article_71.md"
-    },
-    {
-      "title": "Article 72",
-      "file": "Article_72.md"
-    },
+      "file": "Modern_India.md",
+      "title": "Modern India"
+    }
+  ],
+  "GS_Polity_VR_Notes": [
     {
-      "title": "Article 74",
-      "file": "Article_74.md"
+      "file": "Indian_Polity_Constitution.md",
+      "title": "Indian Polity Constitution"
     },
     {
-      "title": "Article 75",
-      "file": "Article_75.md"
+      "file": "Polity_Lec1_AbheyKumar_Strategy_Constitution_President.md",
+      "title": "Polity Lec1 AbheyKumar Strategy Constitution President"
     },
     {
-      "title": "Article 81",
-      "file": "Article_81.md"
+      "file": "Polity_Lec2_AbheyKumar_President.md",
+      "title": "Polity Lec2 AbheyKumar President"
     },
     {
-      "title": "Article 82",
-      "file": "Article_82.md"
+      "file": "Polity_Lec3_AbheyKumar_MercyPower_ConstitutionalPosition.md",
+      "title": "Polity Lec3 AbheyKumar MercyPower ConstitutionalPosition"
     },
     {
-      "title": "Article 83",
-      "file": "Article_83.md"
+      "file": "Polity_Lec4_AbheyKumar_VP_COM_PM_CabinetSystem.md",
+      "title": "Polity Lec4 AbheyKumar VP COM PM CabinetSystem"
     }
   ],
   "GS_ScienceTech_VR_Notes": [
     {
-      "title": "Public Health Virology",
-      "file": "01_Public_Health_Virology.md"
+      "file": "01_Public_Health_Virology.md",
+      "title": "Public Health Virology"
     },
     {
-      "title": "Nuclear Technology Civilian Military Triad",
-      "file": "02_Nuclear_Technology_Civilian_Military_Triad.md"
+      "file": "02_Nuclear_Technology_Civilian_Military_Triad.md",
+      "title": "Nuclear Technology Civilian Military Triad"
     }
   ]
 }

@@ -110,14 +110,24 @@
 - Irradiated food items globally display the green **Radura symbol**:
 
 ```
-           ╭─────────╮
-         ╱    🌿🌿   ╲     <-- Plant / Flower Motif
-        │    ╭───╮    │
-        │    │ ● │    │     <-- Central Green Dot / Circle
-        │    ╰───╯    │
-         ╲    ───    ╱     <-- Segmented Circular Frame
-           ╰─────────╯
-             RADURA
+                         ╱ ╲
+                        ╱   ╲              ┐
+                       ╱  ●  ╲             │ Plant / Flower Petals
+                      ╱ ● ● ● ╲           │ (stylized leaves
+                     ╱ ●     ● ╲           │  radiating upward)
+                    ╱   ● ● ●   ╲         ┘
+                        ╱ ╲
+                       ╱   ╲
+              ╭───────╱─────╲───────╮
+            ╱                         ╲    ─── Outer Broken
+          ╱                             ╲      Circle (two
+         │              ●                │      segmented arcs
+         │         (Central Dot)         │      with gaps at
+          ╲                             ╱      top represent
+            ╲                         ╱        the "breaks")
+              ╰───────────────────────╯
+
+                     R A D U R A
 ```
 - **Radura:** Derived from *rad*iation and *dura*ble. Mandatory labeling requirement in regulated retail markets.
 
