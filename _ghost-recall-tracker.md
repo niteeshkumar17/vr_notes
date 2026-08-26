@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-26
-*   **Active Micro-Topics:** 277
-*   **Overall Database Mastery:** 76.8% 📈
+*   **Active Micro-Topics:** 292
+*   **Overall Database Mastery:** 72.8% 📈
 *   **Today's Recall Completed:** 10
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 15
+*   **New Topics Ingested Today:** 30
 *   **Weekly Backlog:** 0
 
 ---
@@ -347,6 +347,25 @@
 | ST-01-18 | ACE-2 Receptor: Adult vs Infant Lungs & Differential COVID-19 Severity | 3 | ★★★★★ | Day 5 | 2026-08-31 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-26 | Fast 🟢 | `Mature Lungs=More ACE-2` $\leftrightarrow$ `Immature=Fewer ACE-2` $\leftrightarrow$ `NOT About Immunity` $\leftrightarrow$ `Blessing In Disguise` |
 | ST-01-19 | Antibody-Mediated Immunity: B-Cell Lymphocytes, Mask Spike Protein, Block Infection | 2 | ★★★★★ | Day 2 | 2026-08-28 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-26 | Fast 🟢 | `WBC B-Cells` $\leftrightarrow$ `Antibodies=Immunoproteins` $\leftrightarrow$ `Mask Spike` $\leftrightarrow$ `Block Attachment+Entry` $\leftrightarrow$ `Virus Forced Out` |
 | ST-01-20 | Virus Living vs Non-Living (No Respiration + Host Reproduction = Transition) & Bacteria vs Virus 7-Point | 2 | ★★★★★ | Day 2 | 2026-08-28 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-26 | Fast 🟢 | `No Metabolism=Non-Living` $\leftrightarrow$ `Reproduction=Living` $\leftrightarrow$ `Transition Phase` $\leftrightarrow$ `7 Differences` $\leftrightarrow$ `Binary Fission=Natural Cloning` |
+
+### Science & Technology (Nuclear Technology — Civilian, Military & Triad)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ST-02-01 | S&T Exam Orientation & Source Strategy (90-95% CA, 1-Hr Newspaper, NCERT Filter) | 1 | ★★★☆☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Generalist vs Specialist` $\leftrightarrow$ `Current Affairs 1.5yr` $\leftrightarrow$ `NCERT Concepts Only` $\leftrightarrow$ `Newspaper 1-Hr Cap` |
+| ST-02-02 | Nuclear Tech Spectrum: Energy vs Non-Energy Civilian & Military Domains | 1 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Civilian Power` $\leftrightarrow$ `Non-Energy Medicine/Agri` $\leftrightarrow$ `Military Weapons` $\leftrightarrow$ `Strategic SSBN` |
+| ST-02-03 | Fission vs Fusion vs Radioactivity: Chain Reaction & Thermonuclear Fission Trigger | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `U-235/Pu-239 Fission` $\leftrightarrow$ `Hydrogen Fusion` $\leftrightarrow$ `Fission-Fusion H-Bomb` $\leftrightarrow$ `Spontaneous Radiation` |
+| ST-02-04 | Nuclear Medicine: Cobalt-60 Radioisotope, Gamma Rays & Cancer Radiotherapy | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cobalt-60` $\leftrightarrow$ `Gamma Radiation` $\leftrightarrow$ `Deep Bone/Flesh Penetration` $\leftrightarrow$ `DNA Destruction of Cancer Cells` $\leftrightarrow$ `Radiotherapy vs Chemo` |
+| ST-02-05 | Food Irradiation: Cold Process, Gamma Sanitization, Zero Residual & Radura Symbol | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Airtight Gamma Treatment` $\leftrightarrow$ `Pesticide Residue Elimination` $\leftrightarrow$ `Export Rejection Prevention` $\leftrightarrow$ `FDA/FSSAI Safe` $\leftrightarrow$ `Radura Label` |
+| ST-02-06 | Mutagenic Crops vs GM Crops: Radiation-Induced Random Mutation vs Biotech rDNA | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gamma Seed Exposure` $\leftrightarrow$ `Random Trait Mutation` $\leftrightarrow$ `GM Biotech Specific Gene` $\leftrightarrow$ `No Foreign DNA` |
+| ST-02-07 | Nuclear Submarines vs Diesel Submarines: Fission Silent Reactor vs Oxygen/Battery Limits | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Oxygen Needed` $\leftrightarrow$ `Months Submerged Endurance` $\leftrightarrow$ `Silent Fission` $\leftrightarrow$ `Diesel Snorkel Vulnerability` |
+| ST-02-08 | Indigenous Nuclear Submarine Fleet (INS Arihant, Arighat, Aridhaman) & P5+1 Elite Club | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `INS Arihant 2016` $\leftrightarrow$ `INS Arighat 2024` $\leftrightarrow$ `INS Aridhaman` $\leftrightarrow$ `ATV Project` $\leftrightarrow$ `6th Country P5+1` |
+| ST-02-09 | K-Series SLBMs (K-15 Sagarika, K-4): Underwater Nuclear Strike Capability | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `APJ Abdul Kalam` $\leftrightarrow$ `K-15 Sagarika 750km` $\leftrightarrow$ `K-4 3500km` $\leftrightarrow$ `SLBM Nuclear Capable` $\leftrightarrow$ `SSBN Launch` |
+| ST-02-10 | Ballistic vs Cruise Missiles: Parabolic Rocket Flight vs Horizontal Jet Engine Cruise | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Rocket vs Jet Engine` $\leftrightarrow$ `Parabolic vs Flat Horizon` $\leftrightarrow$ `Leaves Atmosphere vs Air-Breathing` $\leftrightarrow$ `Mach 20+ vs Mach 2.8` |
+| ST-02-11 | Ballistic Missile Dynamics: Space Re-entry, Terminal Speed (>20 Mach) & Interception Barrier | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Initial Boost Phase` $\leftrightarrow$ `Gravity/Momentum Transit` $\leftrightarrow$ `Exosphere Re-entry` $\leftrightarrow$ `Terminal Phase Mach 20+` $\leftrightarrow$ `Anti-Ballistic Interception` |
+| ST-02-12 | Agni-5 ICBM (>5,000 km) & MIRV Technology: Multi-Warhead Autonomous Targeting | 3 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ICBM >5000km` $\leftrightarrow$ `Asia/Europe Reach` $\leftrightarrow$ `Mission Divyastra` $\leftrightarrow$ `MIRV Multi-Warhead` $\leftrightarrow$ `ABM Saturation` |
+| ST-02-13 | BrahMos Supersonic Cruise Missile: Indo-Russian JV, Ramjet Engine (Mach 2.8-3.0) & Exports | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Brahmaputra+Moskva` $\leftrightarrow$ `Liquid Ramjet Engine` $\leftrightarrow$ `Mach 2.8` $\leftrightarrow$ `290km → 450-800km` $\leftrightarrow$ `Philippines Export` $\leftrightarrow$ `Sukhoi-30 Air Launch` |
+| ST-02-14 | India's Nuclear Triad: Operational Integration of Land, Air (Sukhoi-30 MKI) & Sea Legs | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Land=Agni/Prithvi` $\leftrightarrow$ `Air=Sukhoi-30+BrahMos` $\leftrightarrow$ `Sea=Arihant+K-Series` $\leftrightarrow$ `Complete Triad` |
+| ST-02-15 | India's Nuclear Doctrine: Credible Minimum Deterrence, Second-Strike Assurance & NFU Policy | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Deterrence NOT Aggression` $\leftrightarrow$ `No First Use NFU` $\leftrightarrow$ `Massive Retaliation` $\leftrightarrow$ `Submerged SSBN Second Strike` |
 
 
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
