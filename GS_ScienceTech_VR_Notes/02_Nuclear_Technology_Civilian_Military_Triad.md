@@ -111,7 +111,22 @@
 
 <div align="center">
 
-<img src="../assets/images/radura_symbol.svg" alt="Radura Symbol — International Food Irradiation Logo" width="180" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="160" height="160" style="display: block; margin: auto;">
+  <!-- Central Circle (Source / Energy) -->
+  <circle cx="100" cy="85" r="26" fill="#138808" />
+  <!-- Plant Leaves (Two Petals) -->
+  <path fill="#138808" d="M 100,154 C 93,138 68,124 68,106 C 68,98 80,98 90,106 C 96,111 99,118 100,124 C 101,118 104,111 110,106 C 120,98 132,98 132,106 C 132,124 107,138 100,154 Z" />
+  <!-- Outer Ring: Bottom Continuous Semicircle -->
+  <path fill="#138808" d="M 10,100 A 90,90 0 0,0 190,100 L 162,100 A 62,62 0 0,1 38,100 Z" />
+  <!-- Outer Ring: Top Segment 1 (Left horizontal) -->
+  <path fill="#138808" d="M 10.2,93.7 A 90,90 0 0,1 34.2,38.6 L 54.7,57.7 A 62,62 0 0,0 38.2,95.7 Z" />
+  <!-- Outer Ring: Top Segment 2 (Upper-left) -->
+  <path fill="#138808" d="M 38.6,34.2 A 90,90 0 0,1 93.7,10.2 L 95.7,38.2 A 62,62 0 0,0 57.7,54.7 Z" />
+  <!-- Outer Ring: Top Segment 3 (Upper-right) -->
+  <path fill="#138808" d="M 106.3,10.2 A 90,90 0 0,1 161.4,34.2 L 142.3,54.7 A 62,62 0 0,0 104.3,38.2 Z" />
+  <!-- Outer Ring: Top Segment 4 (Right horizontal) -->
+  <path fill="#138808" d="M 165.8,38.6 A 90,90 0 0,1 189.8,93.7 L 161.8,95.7 A 62,62 0 0,0 145.3,57.7 Z" />
+</svg>
 
 <p><em><strong>Figure:</strong> The International Radura Symbol (Mandatory labeling for irradiated food items)</em></p>
 

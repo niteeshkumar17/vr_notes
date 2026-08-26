@@ -1,61 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="220" height="220">
-  <defs>
-    <style>
-      .radura-fill { fill: #138808; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="180" height="180">
+  <!-- Central Circle (Source / Energy) -->
+  <circle cx="100" cy="85" r="26" fill="#138808" />
   
-  <!-- Central Circle (Sun / Source) -->
-  <circle cx="150" cy="130" r="38" class="radura-fill" />
-  
-  <!-- Plant Leaves (Two Petals Cradling Central Circle) -->
-  <path class="radura-fill" d="
-    M 150,215 
-    C 138,195 102,178 102,154 
-    C 102,142 118,142 135,152 
-    C 145,158 148,168 150,175 
-    C 152,168 155,158 165,152 
-    C 182,142 198,142 198,154 
-    C 198,178 162,195 150,215 Z
+  <!-- Plant Leaves (Two Petals) -->
+  <path fill="#138808" d="
+    M 100,154 
+    C 93,138 68,124 68,106 
+    C 68,98 80,98 90,106 
+    C 96,111 99,118 100,124 
+    C 101,118 104,111 110,106 
+    C 120,98 132,98 132,106 
+    C 132,124 107,138 100,154 Z
   " />
   
-  <!-- Outer Ring - Bottom Continuous Semicircle Arc (R_out=135, R_in=95) -->
-  <path class="radura-fill" d="
-    M 15,150 
-    A 135,135 0 0,0 285,150 
-    L 245,150 
-    A 95,95 0 0,1 55,150 Z
-  " />
+  <!-- Outer Ring: Bottom Continuous Semicircle -->
+  <path fill="#138808" d="M 10,100 A 90,90 0 0,0 190,100 L 162,100 A 62,62 0 0,1 38,100 Z" />
   
-  <!-- Outer Ring - Top Segment 1 (Left horizontal: ~173 deg to 142 deg) -->
-  <path class="radura-fill" d="
-    M 16.2,133.5 
-    A 135,135 0 0,1 43.6,66.9 
-    L 74.8,91.5 
-    A 95,95 0 0,0 55.6,138.4 Z
-  " />
+  <!-- Outer Ring: Top Segment 1 (Left horizontal) -->
+  <path fill="#138808" d="M 10.2,93.7 A 90,90 0 0,1 34.2,38.6 L 54.7,57.7 A 62,62 0 0,0 38.2,95.7 Z" />
   
-  <!-- Outer Ring - Top Segment 2 (Upper-left: ~132 deg to 97 deg) -->
-  <path class="radura-fill" d="
-    M 59.7,50.7 
-    A 135,135 0 0,1 133.5,16.2 
-    L 138.4,55.6 
-    A 95,95 0 0,0 86.4,80.1 Z
-  " />
+  <!-- Outer Ring: Top Segment 2 (Upper-left) -->
+  <path fill="#138808" d="M 38.6,34.2 A 90,90 0 0,1 93.7,10.2 L 95.7,38.2 A 62,62 0 0,0 57.7,54.7 Z" />
   
-  <!-- Outer Ring - Top Segment 3 (Upper-right: ~83 deg to 48 deg) -->
-  <path class="radura-fill" d="
-    M 166.5,16.2 
-    A 135,135 0 0,1 240.3,50.7 
-    L 213.6,80.1 
-    A 95,95 0 0,0 161.6,55.6 Z
-  " />
+  <!-- Outer Ring: Top Segment 3 (Upper-right) -->
+  <path fill="#138808" d="M 106.3,10.2 A 90,90 0 0,1 161.4,34.2 L 142.3,54.7 A 62,62 0 0,0 104.3,38.2 Z" />
   
-  <!-- Outer Ring - Top Segment 4 (Right horizontal: ~38 deg to 7 deg) -->
-  <path class="radura-fill" d="
-    M 256.4,66.9 
-    A 135,135 0 0,1 283.8,133.5 
-    L 244.4,138.4 
-    A 95,95 0 0,0 225.2,91.5 Z
-  " />
+  <!-- Outer Ring: Top Segment 4 (Right horizontal) -->
+  <path fill="#138808" d="M 165.8,38.6 A 90,90 0 0,1 189.8,93.7 L 161.8,95.7 A 62,62 0 0,0 145.3,57.7 Z" />
 </svg>
