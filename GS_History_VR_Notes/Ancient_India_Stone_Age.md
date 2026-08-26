@@ -270,16 +270,17 @@ The practice of **agriculture and livestock as main activity** marks the beginni
 
 ## Comparison Table — Stone Age Periods
 
-| | **Neolithic** | **Mesolithic** | **Upper Palaeolithic** | **Middle Palaeolithic** | **Lower Palaeolithic (Acheulean)** | **Lower Palaeolithic (Oldowan)** |
-|:---|:---|:---|:---|:---|:---|:---|
-| **Period** | 8th mill BC – 4th mill BC | 10,000 BC – 8,000 BC | 45K yrs ago – 10K BC | 1.5L yrs ago – 45K yrs ago | 10L yrs ago – 1.5L yrs ago | 25L yrs ago – 10L yrs ago |
-| **Epoch** | Holocene (Warming) | Pleistocene → Holocene | Pleistocene (last phase) | Pleistocene | Pleistocene | Pleistocene |
-| **Lifestyle** | Agriculture, Livestock, Villages | Domestication of Plants & Animals began | Hunter-gatherer; Cave art | Hunter-gatherer | Hunter-gatherer | Hunter-gatherer |
-| **Tools** | Celts | Microliths | Parallel Blades, Bone tools | Mousterian tools | Acheulean tools (called **Madrasian** in India) | Oldowan tools (called **Soanian** in India) |
-| **Tool Type** | Polished, symmetric, precision | Small stone (1–4 cm), compound tools | Fragile blades, substantial bone tools | Scrapers, points, triangles | Triangular hand axes | Pebble / Chopper-chopping tools |
-| **Technique** | Polishing, finishing | Composite/compound | Parallel pressure | Bifacial flaking (Levallois) | Flaking (unifacial) | Flaking (unifacial) |
-| **Human Species** | Homo Sapiens | Homo Sapiens | Homo Sapiens (all others extinct) | Homo Neanderthalensis (Neanderthal man) | Homo Erectus | Homo Habilis |
-| **Key Sites (India)** | *(Chalcolithic next)* | Belan Valley (Allahabad, UP), Sarai Nahar Rai (Pratapgarh) | Kurnool caves (AP), Bhimbetka (MP), Adamgarh (MP), Lakhudiyar (UK) | Nevasa (Pune, Maharashtra) | Attirampakkam (TN), Bhimbetka (MP), Didwana (Raj), Hunsgi (Kar) | Soan River (Potwar Plateau, Pakistan) |
+| Feature | Lower Palaeolithic | Middle Palaeolithic | Upper Palaeolithic | Mesolithic | Neolithic |
+|:---|:---|:---|:---|:---|:---|
+| **Period** | 25 lakh yrs ago – 1.5 lakh yrs ago | 1.5 lakh yrs ago – 45,000 yrs ago | 45,000 yrs ago – 10,000 BC | 10,000 BC – 8,000 BC | 8th mill BC – 4th mill BC |
+| **Epoch** | Pleistocene | Pleistocene | Pleistocene (last phase) | Pleistocene → Holocene | Holocene |
+| **Tools** | Oldowan tools → Acheulean tools | Mousterian tools | Parallel blades, bone tools | Microliths | Celts (polished, symmetric) |
+| **Technique** | Flaking (unifacial) | Bifacial flaking (Levallois) | Parallel pressure | Composite/compound | Polishing, finishing |
+| **Lifestyle** | Hunter-gatherer | Hunter-gatherer | Hunter-gatherer; cave art | Transitionary (HG → food producer) | Agriculture, livestock, settled |
+| **Human Species** | Homo Habilis → Homo Erectus | Neanderthal | Homo Sapiens (all others extinct) | Homo Sapiens | Homo Sapiens |
+| **Indian Name** | Soanian (Oldowan) / Madrasian (Acheulean) | Nevasian | — | — | — |
+| **Key Sites (India)** | Soan River, Hathnora, Attirampakkam, Bhimbetka | Nevasa (Pune) | Kurnool caves, Bhimbetka, Adamgarh, Lakhudiyar | Belan Valley, Sarai Nahar Rai | *(Chalcolithic next)* |
+
 
 
 ---
