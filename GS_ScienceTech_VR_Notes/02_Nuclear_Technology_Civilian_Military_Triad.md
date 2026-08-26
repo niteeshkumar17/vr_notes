@@ -109,22 +109,19 @@
 #### 4. International Identification — The Radura Symbol
 - Irradiated food items globally display the green **Radura symbol**:
 
-```
-                ▄█▄   ▄█▄   ▄█▄
-            ▄██▀   ▀█▀   ▀█▀   ▀██▄          Segmented outer
-          ██  ┌─────────────────────┐  ██      circle (5 arcs
-         █   │                       │   █     with breaks /
-        █   │        ▄██████▄         │   █    gaps at top)
-        █   │      ████████████       │   █
-        █   │      ████████████       │   █    Solid central dot
-        █   │        ▀██████▀         │   █
-         █   │        ╱    ╲         │   █     Two stylized
-          ██  └─────╱────────╲──────┘  ██      leaf petals
-            ▀██▄▄▄╱▄▄▄▄▄▄▄▄▄▄╲▄▄▄██▀          below the dot
-                ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+<div align="center">
 
-                  R A D U R A
-```
+<img src="../assets/images/radura_symbol.svg" alt="Radura Symbol — International Food Irradiation Logo" width="180" />
+
+<p><em><strong>Figure:</strong> The International Radura Symbol (Mandatory labeling for irradiated food items)</em></p>
+
+</div>
+
+- **Symbol Breakdown:**
+  - **Upper Segmented Arcs:** Represent the penetrating radiation rays / energy field.
+  - **Central Solid Dot:** Represents the radioactive source / sun (energy emitter).
+  - **Lower Two Leaf Petals:** Represents the agricultural produce / plant / food item being preserved.
+  - **Solid Lower Ring:** Represents the safe closed protective shield / boundary.
 - **Radura:** Derived from *rad*iation and *dura*ble. Mandatory labeling requirement in regulated retail markets.
 
 ---

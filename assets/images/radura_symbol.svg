@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="220" height="220">
+  <defs>
+    <style>
+      .radura-fill { fill: #138808; }
+    </style>
+  </defs>
+  
+  <!-- Central Circle (Sun / Source) -->
+  <circle cx="150" cy="130" r="38" class="radura-fill" />
+  
+  <!-- Plant Leaves (Two Petals Cradling Central Circle) -->
+  <path class="radura-fill" d="
+    M 150,215 
+    C 138,195 102,178 102,154 
+    C 102,142 118,142 135,152 
+    C 145,158 148,168 150,175 
+    C 152,168 155,158 165,152 
+    C 182,142 198,142 198,154 
+    C 198,178 162,195 150,215 Z
+  " />
+  
+  <!-- Outer Ring - Bottom Continuous Semicircle Arc (R_out=135, R_in=95) -->
+  <path class="radura-fill" d="
+    M 15,150 
+    A 135,135 0 0,0 285,150 
+    L 245,150 
+    A 95,95 0 0,1 55,150 Z
+  " />
+  
+  <!-- Outer Ring - Top Segment 1 (Left horizontal: ~173 deg to 142 deg) -->
+  <path class="radura-fill" d="
+    M 16.2,133.5 
+    A 135,135 0 0,1 43.6,66.9 
+    L 74.8,91.5 
+    A 95,95 0 0,0 55.6,138.4 Z
+  " />
+  
+  <!-- Outer Ring - Top Segment 2 (Upper-left: ~132 deg to 97 deg) -->
+  <path class="radura-fill" d="
+    M 59.7,50.7 
+    A 135,135 0 0,1 133.5,16.2 
+    L 138.4,55.6 
+    A 95,95 0 0,0 86.4,80.1 Z
+  " />
+  
+  <!-- Outer Ring - Top Segment 3 (Upper-right: ~83 deg to 48 deg) -->
+  <path class="radura-fill" d="
+    M 166.5,16.2 
+    A 135,135 0 0,1 240.3,50.7 
+    L 213.6,80.1 
+    A 95,95 0 0,0 161.6,55.6 Z
+  " />
+  
+  <!-- Outer Ring - Top Segment 4 (Right horizontal: ~38 deg to 7 deg) -->
+  <path class="radura-fill" d="
+    M 256.4,66.9 
+    A 135,135 0 0,1 283.8,133.5 
+    L 244.4,138.4 
+    A 95,95 0 0,0 225.2,91.5 Z
+  " />
+</svg>
