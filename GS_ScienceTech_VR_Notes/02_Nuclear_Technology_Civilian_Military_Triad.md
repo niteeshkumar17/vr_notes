@@ -111,24 +111,32 @@
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="160" height="160" style="display: block; margin: auto;">
-  <!-- Central Circle (Source / Energy) -->
-  <circle cx="100" cy="85" r="26" fill="#138808" />
-  <!-- Plant Leaves (Two Petals) -->
-  <path fill="#138808" d="M 100,154 C 93,138 68,124 68,106 C 68,98 80,98 90,106 C 96,111 99,118 100,124 C 101,118 104,111 110,106 C 120,98 132,98 132,106 C 132,124 107,138 100,154 Z" />
-  <!-- Outer Ring: Bottom Continuous Semicircle -->
-  <path fill="#138808" d="M 10,100 A 90,90 0 0,0 190,100 L 162,100 A 62,62 0 0,1 38,100 Z" />
-  <!-- Outer Ring: Top Segment 1 (Left horizontal) -->
-  <path fill="#138808" d="M 10.2,93.7 A 90,90 0 0,1 34.2,38.6 L 54.7,57.7 A 62,62 0 0,0 38.2,95.7 Z" />
-  <!-- Outer Ring: Top Segment 2 (Upper-left) -->
-  <path fill="#138808" d="M 38.6,34.2 A 90,90 0 0,1 93.7,10.2 L 95.7,38.2 A 62,62 0 0,0 57.7,54.7 Z" />
-  <!-- Outer Ring: Top Segment 3 (Upper-right) -->
-  <path fill="#138808" d="M 106.3,10.2 A 90,90 0 0,1 161.4,34.2 L 142.3,54.7 A 62,62 0 0,0 104.3,38.2 Z" />
-  <!-- Outer Ring: Top Segment 4 (Right horizontal) -->
-  <path fill="#138808" d="M 165.8,38.6 A 90,90 0 0,1 189.8,93.7 L 161.8,95.7 A 62,62 0 0,0 145.3,57.7 Z" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 185" width="175" height="175" style="display: block; margin: auto;">
+  <g fill="#18A565">
+    <!-- Center Dot (Source / Energy) -->
+    <circle cx="92.5" cy="78" r="23.5" />
+    
+    <!-- Plant Leaves (Two Petals) -->
+    <path d="M 92.5,142 C 84,124 59,112 59,96 C 59,88 71,88 81,96 C 87,101 91,108 92.5,114 C 94,108 98,101 104,96 C 114,88 126,88 126,96 C 126,112 101,124 92.5,142 Z" />
+    
+    <!-- Top Arc 1 (Far Left) -->
+    <path d="M 7.66,87.31 A 85,85 0 0,1 28.84,36.18 L 46.81,52.08 A 61,61 0 0,0 31.61,88.78 Z" />
+    
+    <!-- Top Arc 2 (Top Left) -->
+    <path d="M 36.18,28.84 A 85,85 0 0,1 87.31,7.66 L 88.78,31.61 A 61,61 0 0,0 52.08,46.81 Z" />
+    
+    <!-- Top Arc 3 (Top Right) -->
+    <path d="M 97.69,7.66 A 85,85 0 0,1 148.82,28.84 L 132.92,46.81 A 61,61 0 0,0 96.22,31.61 Z" />
+    
+    <!-- Top Arc 4 (Far Right) -->
+    <path d="M 156.16,36.18 A 85,85 0 0,1 177.34,87.31 L 153.39,88.78 A 61,61 0 0,0 138.19,52.08 Z" />
+    
+    <!-- Bottom Semicircle (Solid Shield) -->
+    <path d="M 7.66,97.69 A 85,85 0 0,0 177.34,97.69 L 153.39,96.22 A 61,61 0 0,1 31.61,96.22 Z" />
+  </g>
 </svg>
 
-<p><em><strong>Figure:</strong> The International Radura Symbol (Mandatory labeling for irradiated food items)</em></p>
+<p><em><strong>Figure:</strong> The Official Radura Symbol (<a href="https://commons.wikimedia.org/wiki/File:Radura-Symbol.svg" target="_blank">Wikimedia Commons</a> — Mandatory labeling for irradiated food items)</em></p>
 
 </div>
 
