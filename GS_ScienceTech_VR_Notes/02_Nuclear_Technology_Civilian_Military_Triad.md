@@ -205,60 +205,35 @@
 <div align="center">
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="100%" style="max-width:900px;display:block;margin:auto;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-  <defs>
-    <marker id="arrowBallistic" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#dc2626" />
-    </marker>
-    <marker id="arrowCruise" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb" />
-    </marker>
-  </defs>
-
-  <rect x="1" y="1" width="898" height="428" rx="14" fill="#f8fafc" stroke="#e2e8f0" />
-  <text x="450" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#0f172a">Ballistic vs Cruise Missile — Trajectory Profile</text>
-
-  <!-- Atmosphere exit boundary: only the ballistic path crosses it -->
-  <line x1="40" y1="132" x2="860" y2="132" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="7 6" />
-  <text x="46" y="124" font-size="13" fill="#64748b">Exosphere (~100 km)</text>
-  <text x="856" y="124" text-anchor="end" font-size="13" fill="#64748b">Kármán line</text>
-
-  <!-- Ground, terrain and target -->
-  <line x1="40" y1="356" x2="860" y2="356" stroke="#64748b" stroke-width="2.5" />
-  <rect x="40" y="358" width="820" height="16" fill="#e2e8f0" />
-  <polygon points="365,356 450,252 540,356" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5" />
-  <rect x="78" y="340" width="34" height="16" rx="3" fill="#475569" />
-  <rect x="88" y="330" width="14" height="12" rx="2" fill="#334155" />
-
-  <!-- Ballistic: boost, exo-atmospheric coast, steep hypersonic re-entry -->
-  <path d="M 100 348 C 140 250 200 120 340 96 C 470 72 560 96 640 150 C 716 202 758 288 792 330"
-        fill="none" stroke="#dc2626" stroke-width="3.5" marker-end="url(#arrowBallistic)" />
-  <!-- Cruise: low, flat, terrain-hugging in-atmosphere flight -->
-  <path d="M 100 350 C 132 338 140 314 172 310 L 340 310 C 380 308 396 258 430 242 C 446 233 460 232 474 241 C 506 263 520 306 560 308 L 758 308 C 780 308 788 320 793 331"
-        fill="none" stroke="#2563eb" stroke-width="3.5" marker-end="url(#arrowCruise)" />
-
-  <!-- Impact -->
-  <polygon points="800,310 805.5,326.5 822.5,323 811,336 822.5,349 805.5,345.5 800,362 794.5,345.5 777.5,349 789,336 777.5,323 794.5,326.5"
-           fill="#f97316" stroke="#ea580c" stroke-width="1.5" />
-
-  <!-- Phase labels -->
-  <text x="470" y="66" text-anchor="middle" font-size="13" font-weight="600" fill="#dc2626">Midcourse — free fall under gravity (no thrust)</text>
-  <text x="196" y="246" font-size="13" font-weight="600" fill="#dc2626">Boost phase</text>
-  <text x="196" y="263" font-size="12" fill="#7f1d1d">rocket engine — carries own oxidizer</text>
-  <text x="706" y="250" text-anchor="end" font-size="13" font-weight="600" fill="#dc2626">Terminal re-entry</text>
-  <text x="706" y="267" text-anchor="end" font-size="12" fill="#7f1d1d">Mach 20+, hard to intercept</text>
-
-  <text x="450" y="214" text-anchor="middle" font-size="12" fill="#1e3a8a">Waypoint navigation / evasive turns</text>
-  <text x="196" y="292" font-size="13" font-weight="600" fill="#2563eb">Terrain-hugging / sea-skimming</text>
-  <text x="756" y="332" text-anchor="end" font-size="12" fill="#1e3a8a">Jet engine — below radar horizon</text>
-
-  <text x="96" y="392" font-size="13" font-weight="600" fill="#334155">Launcher</text>
-  <text x="800" y="392" text-anchor="middle" font-size="13" font-weight="600" fill="#334155">Target</text>
-
-  <!-- Legend -->
-  <line x1="250" y1="404" x2="288" y2="404" stroke="#dc2626" stroke-width="3.5" />
-  <text x="296" y="409" font-size="13" fill="#334155">Ballistic (Agni, Prithvi, K-series)</text>
-  <line x1="540" y1="404" x2="578" y2="404" stroke="#2563eb" stroke-width="3.5" />
-  <text x="586" y="409" font-size="13" fill="#334155">Cruise (BrahMos, Nirbhay)</text>
+<rect x="1" y="1" width="898" height="428" rx="14" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="450" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#0f172a">Ballistic vs Cruise Missile — Trajectory Profile</text>
+<line x1="40" y1="132" x2="860" y2="132" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="7 6" />
+<text x="46" y="124" font-size="13" fill="#64748b">Exosphere (~100 km)</text>
+<text x="856" y="124" text-anchor="end" font-size="13" fill="#64748b">Kármán line</text>
+<line x1="40" y1="356" x2="860" y2="356" stroke="#64748b" stroke-width="2.5" />
+<rect x="40" y="358" width="820" height="16" fill="#e2e8f0" />
+<polygon points="365,356 450,252 540,356" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="78" y="340" width="34" height="16" rx="3" fill="#475569" />
+<rect x="88" y="330" width="14" height="12" rx="2" fill="#334155" />
+<polygon points="800,310 805.5,326.5 822.5,323 811,336 822.5,349 805.5,345.5 800,362 794.5,345.5 777.5,349 789,336 777.5,323 794.5,326.5" fill="#f97316" stroke="#ea580c" stroke-width="1.5" />
+<path d="M 100 348 C 140 250 200 120 340 96 C 470 72 560 96 640 150 C 706 196 748 274 778 316" fill="none" stroke="#dc2626" stroke-width="3.5" />
+<polygon points="0,-5.5 15,0 0,5.5" fill="#dc2626" transform="translate(778,316) rotate(54)" />
+<path d="M 100 350 C 132 338 140 314 172 310 L 340 310 C 380 308 396 258 430 242 C 446 233 460 232 474 241 C 506 263 520 306 560 308 L 730 308 C 752 308 758 326 772 332" fill="none" stroke="#2563eb" stroke-width="3.5" />
+<polygon points="0,-5.5 15,0 0,5.5" fill="#2563eb" transform="translate(772,332) rotate(23)" />
+<text x="470" y="66" text-anchor="middle" font-size="13" font-weight="600" fill="#dc2626">Midcourse — free fall under gravity (no thrust)</text>
+<text x="196" y="246" font-size="13" font-weight="600" fill="#dc2626">Boost phase</text>
+<text x="196" y="263" font-size="12" fill="#7f1d1d">rocket engine — carries own oxidizer</text>
+<text x="706" y="250" text-anchor="end" font-size="13" font-weight="600" fill="#dc2626">Terminal re-entry</text>
+<text x="706" y="267" text-anchor="end" font-size="12" fill="#7f1d1d">Mach 20+, hard to intercept</text>
+<text x="450" y="214" text-anchor="middle" font-size="12" fill="#1e3a8a">Waypoint navigation / evasive turns</text>
+<text x="196" y="292" font-size="13" font-weight="600" fill="#2563eb">Terrain-hugging / sea-skimming</text>
+<text x="756" y="332" text-anchor="end" font-size="12" fill="#1e3a8a">Jet engine — below radar horizon</text>
+<text x="96" y="392" font-size="13" font-weight="600" fill="#334155">Launcher</text>
+<text x="800" y="392" text-anchor="middle" font-size="13" font-weight="600" fill="#334155">Target</text>
+<line x1="250" y1="404" x2="288" y2="404" stroke="#dc2626" stroke-width="3.5" />
+<text x="296" y="409" font-size="13" fill="#334155">Ballistic (Agni, Prithvi, K-series)</text>
+<line x1="540" y1="404" x2="578" y2="404" stroke="#2563eb" stroke-width="3.5" />
+<text x="586" y="409" font-size="13" fill="#334155">Cruise (BrahMos, Nirbhay)</text>
 </svg>
 
 <p><em><strong>Figure:</strong> Ballistic missiles arc out of the atmosphere and re-enter under gravity at hypersonic speed; cruise missiles stay inside the atmosphere, flying low and flat on a jet engine.</em></p>
