@@ -1,6 +1,6 @@
-# Modern India (1860s–1940s) — Lectures 1–2: Nationalism, Formation of INC & Moderate Phase
+# Modern India (1860s–1940s) — Lectures 1–3: Nationalism, Formation of INC, Moderate Phase, Swadeshi Movement & Moderates vs Extremists
 
-> **Date:** 11 August 2026, 21 August 2026  
+> **Date:** 11 August 2026, 21 August 2026, 26 August 2026  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -509,3 +509,247 @@ The activities of early moderates helped in **arousing patriotic feeling among a
 <!-- 2026-08-16: Further enriched Factor G with detailed ICS examination age reduction (1876: 21 to 19 years), SN Banerjee's Indian Association pan-Indian Civil Service Agitation, and Delhi Durbar details in light red styling. -->
 <!-- 2026-08-15: Enriched with Factor G — Lord Lytton's reactionary policies (Vernacular Press Act 1878, Arms Act 1878, ICS age reduction) and the Ilbert Bill Controversy (1883) as key catalytic triggers for modern Indian nationalism. -->
 <!-- 2026-08-11: Created from Lecture B1 transcript + handwritten notes. Covers Nationalism definition, origin in Europe/America, emergence in India, and 6 factors (Administrative Unification, Uniform Legal System, Social-Religious Reform, Economic Exploitation, Modern Liberal Thought, Modern Transportation & Communication). -->
+
+---
+
+## 7. Swadeshi Movement — 1905 (MOD-B3-01 to MOD-B3-04)
+
+> **Lecture 3 — 26 August 2026**
+
+> **Study Framework for any Movement:**
+> - **(A)** Causes/Circumstances in which the movement started
+> - **(B)** Major Events/Course of the Movement
+> - **(C)** Salient Features/Chief Characteristics
+> - **(D)** Outcome/Result/Consequences
+
+---
+
+### A. Causes & Background of the Swadeshi Movement (MOD-B3-01)
+
+#### A.1 Lord Curzon & the Partition of Bengal (1903–1905)
+
+- In **1903**, **Lord Curzon** (Viceroy & Governor-General, 1899–1905) announced that **Bengal would be partitioned into two halves**:
+
+| Part | Capital |
+|:---|:---:|
+| **East Bengal & Assam** | **Dhaka** |
+| **Bengal** (remainder) | **Calcutta** |
+
+- **Government's stated reason:** Partition was necessary for **administrative convenience** as Bengal was a huge province comprising modern-day **West Bengal, Bangladesh, Bihar, Jharkhand, Odisha** and a few districts of Assam
+- **How big was Bengal?** Undivided Bengal was bigger than UK, France, Germany, Austria-Hungary; it was almost **one-fourth of India** in area and population at that time
+- **Administrative logic:** Creating two capitals would mean two secretariats, two assemblies, two high courts, and potentially a university each → development and access would improve for people in remote areas
+
+#### A.2 The Hidden Agenda — Communal Division
+
+- If the partition was purely administrative, the British could have divided Bengal **horizontally** (North–South) or **vertically** — any logical way
+- Instead, they deliberately drew the boundary in a **zigzag fashion** to create **East Bengal with a Muslim majority** and **Bengal (remainder) with a Hindu majority**
+- **The real cause** was **divide and rule** — to split the politically most active province along communal lines, weaken Bengali unity, and curb the growing nationalist movement centered in Bengal
+- **Intellectuals and historians decoded** the hidden agenda: the claimed purpose (administrative convenience) was different from the actual purpose (communal division)
+
+#### A.3 The Announcement of Partition
+
+- On **8 August 1905**, the government officially announced that **Bengal would be partitioned in October**
+- **Immediate reaction:** The people of Calcutta came on streets, started protesting against the government's order
+- They **formed local bodies and mobilized people**
+
+#### A.4 Rabindranath Tagore & Raksha Bandhan
+
+- **Rabindranath Tagore** used the occasion of **Raksha Bandhan** as a **mark of solidarity among Bengalis**
+- He **tied Rakhi to his Muslim friends** to demonstrate that **Bengalis were united** — both Hindu and Muslim
+- This was meant to counter the British strategy of communal division
+
+> **Key Insight:** Bengali is spoken by more Muslims than Hindus globally (Bangladesh 17 crore Muslims + West Bengal Muslims). Language is connected to **region**, NOT religion — Punjabi, Bengali, Arabic are all spoken across religious lines.
+
+---
+
+### B. Course of the Movement — Major Events (MOD-B3-02)
+
+#### B.1 Day of Partition — Mourning
+
+- On the day of partition (October 1905), people **mourned the day** — many houses **did not lift their hearth** (chulha), meaning they decided not to cook and not to eat as a form of protest
+- This showed the **deep emotional attachment** of Bengalis to their undivided identity
+
+#### B.2 Boycott of British Goods
+
+- People **boycotted English goods**, **burned English clothes**, and **took pledge to use only Swadeshi (indigenous) goods**
+- **This is why it was called the Swadeshi Movement** — the pledge to use only *swadeshi* (of one's own country) products
+
+#### B.3 Boycott of English Educational Institutions
+
+- People boycotted English/government-run educational institutions
+- **Established nationalist educational institutions** like **Bengal National College in Calcutta**
+- **Clarification:** Boycott of British schools ≠ boycott of Western knowledge. They continued teaching Shakespeare, Newton, and Western science. The hostility was against the **British-controlled management**, not English education itself. Congress leaders were themselves products of Western education
+
+#### B.4 Boycott of English Courts
+
+- People boycotted English courts
+- **Lawyers resigned from Bar Councils**
+- They **formed arbitration centres** to resolve disputes independently
+- The most successful arbitration centre was at **Barisal** (today in Bangladesh)
+
+#### B.5 Boycott of English Residential Colonies
+
+- People also **boycotted English residential colonies** and **stopped supplying goods and services** to them — an effective form of economic pressure
+
+---
+
+### C. Salient Features / Chief Characteristics (MOD-B3-03)
+
+#### C.1 Mass Participation — All Classes
+
+The Swadeshi Movement was a **mass movement** in which **peasants, industrial workers, traders, intellectuals, professionals, women, and students** actively participated. This distinguished it from the Moderate phase which was limited to urban upper-middle-class elites.
+
+> **UPSC Trap:** Questions may list categories and ask which groups participated or did NOT participate. Remember all six categories: peasants/workers, traders, intellectuals, professionals, women, students.
+
+#### C.2 Use of Cultural & Religious Symbols for Mobilization
+
+To **mobilize common people**, leaders used **cultural and religious occasions, symbols, and slogans**:
+
+- **"Amar Sonar Bangla"** (My Golden Bengal) — written by **Rabindranath Tagore** to inspire and mobilize Bengalis
+  - Bangladesh later made this their **national anthem** (written by a Hindu, adopted by a Muslim-majority nation — proving language ≠ religion)
+- **Raksha Bandhan** was celebrated as a **mark of unity between Hindus and Muslims**
+- **Festivals like Ganesh Chaturthi, Durga Puja** were used to gather and mobilize people
+  - *But this method was problematic*: it **united Hindus** but could **alienate Muslims, Sikhs, Christians** and others who saw the movement as a Hindu movement rather than a political movement
+
+> **Critical Analysis — Why religious mobilization failed:**
+> - In an era without Instagram, WhatsApp, radio, or TV, festivals were the only way to gather thousands at one place quickly
+> - **Intention was good** (mobilize masses) but **method was problematic** (mixed religion into politics)
+> - This is unlike today's politicians who mix religion into politics with **wrong intentions AND wrong methods**
+> - Historians describe it as an **"error in judgment"** — good intentions, flawed execution
+> - **Gandhi's correction:** When Gandhi came, he started **Sarva Dharma Prarthana Sabha** (All-Religion Prayer Meetings) with priests from all religions, ensuring all communities felt included
+
+#### C.3 Alliance between Nationalists & Indian Capitalists
+
+- The movement **united Indian nationalists and Indian capitalists/industrialists** as they needed each other's help
+- **Textile industry** benefited the most, along with **leather, paper, and glass industries**
+- **P.C. Roy**, the famous chemical scientist, established a **modern chemical factory at Calcutta** (Bengal Chemical)
+- **Tata's** established an **iron and steel plant at Sakchi** (now known as **Jamshedpur**)
+
+---
+
+### D. Outcome / Result / Consequences (MOD-B3-04)
+
+#### D.1 Beginning of Mass Movement
+
+- The Swadeshi Movement had **mobilized a large number of people** and **different sections of society had become active in politics**
+- The movement is seen in history as the **beginning of mass movement in modern India** with new trends like:
+  - **Boycott** (of British goods, institutions, courts)
+  - **Strikes** (labour and student strikes)
+  - **Formation of local assemblies/bodies** like **Swadeshi Bandhav Samiti**
+
+#### D.2 Limitations — Short-Lived Institutions
+
+- Although the Swadeshi Movement **did not last very long** — industries, schools, and colleges established by nationalists **did not have enough funds** and **mostly closed down**
+- Yet the movement had **awakened people** — patriotic feelings were on the rise, creating problems for the government
+
+#### D.3 Formation of Muslim League (1906)
+
+- A group of Muslims formed the **Muslim League at Dhaka in 1906**
+- They were **mostly Muslim elites** like:
+  - **Nawab Salimullah** (Nawab of Dhaka)
+  - **Aga Khan** (spiritual leader of Shia Ismaili Muslims — *Aga Khan is a post, like Dalai Lama or Shankaracharya, not a personal name*)
+  - **Vaqar-ul-Mulk**, **Mohsin-ul-Mulk**, etc.
+- **Connection to Swadeshi Movement:** The use of Hindu religious symbols in the Swadeshi Movement made a section of Muslims feel that Congress was a "Hindu party" → they decided to create their own political organization
+- **Important nuance:** Muslim League was NOT a party of ordinary Muslims — it was a party of **elite, powerful, landed Muslims** (Nawabs, Zamindars)
+
+> **UPSC Critical Point:** Muslims (and Hindus) are NOT homogeneous communities. They are highly **heterogeneous** — divided by class (elite vs poor), sect (Shia vs Sunni), region, ideology, and interests. The claim that "all Muslims" wanted Pakistan is historically inaccurate — only ~8% Muslims had the right to vote under limited suffrage; of those, ~60% voted for Muslim League in 1945–46 → only ~4.8% of all Muslims were actually connected with the League.
+
+#### D.4 Exposure of Moderate-Extremist Differences → Surat Split (1907)
+
+- The Swadeshi Movement **exposed the differences between Moderates and Extremists** within the INC
+- Their differences **culminated in the Surat Split of 1907**
+
+---
+
+## 8. Moderates vs Extremists — The Surat Split (1907) (MOD-B3-05)
+
+### Leaders
+
+| Moderates | Extremists |
+|:---|:---|
+| Pherozeshah Mehta | Aurobindo Ghosh |
+| Dadabhai Naoroji | **Lal** — Lala Lajpat Rai |
+| Gopal Krishna Gokhale | **Bal** — Bal Gangadhar Tilak |
+| S.N. Banerjee | **Pal** — Bipin Chandra Pal |
+
+### Key Differences
+
+| Dimension | Moderates | Extremists |
+|:---|:---|:---|
+| **Political Method** | Constitutional politics: prayers, petitions, appeals | Strikes, boycotts, public meetings, public protest through **mass mobilization** |
+| **Violence** | Non-violent | Also **non-violent** (not revolutionaries — Tilak, Lajpat Rai, Aurobindo never took up guns) |
+| **Platforms & Symbols** | **Secular** means and platforms | Used **religious** means, slogans (Ganesh Chaturthi, Durga Puja, etc.) |
+| **Language of Communication** | Wrote mostly in **English** newspapers; also in local newspapers | Wrote mostly in **local languages**; also in English; also used **posters and pamphlets** |
+| **Class Origin** | Came from **upper middle class** | Came from **middle class**; popular among **lower middle class** also |
+| **Reach** | Narrower — limited to English-educated urban elite | **Wider** — reached masses through vernacular press, posters, pamphlets, religious festivals |
+| **Key Demand** | Reforms within British framework | **Swaraj** (self-rule) — which Moderates eventually accepted at INC 1906 Calcutta session |
+
+> **Key Distinction:** Extremists were NOT revolutionaries. "Extremist" in this context means extreme in **words and methods** (boycotts, hartals, mass mobilization) — NOT violent. Those who used violence were called **Revolutionaries** (a separate category — discussed later).
+
+### Swaraj Resolution — INC Calcutta Session (1906)
+
+- **Extremists demanded Swaraj** (self-rule), which the **Moderates also finally accepted**
+- The **Swaraj resolution was adopted by INC in 1906** at the **Calcutta session** presided by **Dadabhai Naoroji**
+
+---
+
+## 9. Indian Councils Act 1909 (Morley-Minto Reforms) — Background (MOD-B3-06)
+
+> **Study Framework for any Act/Law:**
+> - **(A)** Background — Why was it passed?
+> - **(B)** Major Clauses/Provisions — What does it contain?
+> - **(C)** Critique — What are its positives and negatives?
+
+> **Three most important Acts for UPSC:** 1909 (Indian Councils Act / Morley-Minto), 1919 (Government of India Act), 1935 (Government of India Act)
+
+### A. Background
+
+- In the early years of the 20th century, **political activity in many parts of India had increased** — protest, boycott, and strikes had become the norm
+- The **Swadeshi Movement had further mobilized people**, creating tension in power corridors
+- Three groups were active: **Moderates** (whom the government preferred to negotiate with), **Extremists** (whom the government didn't want to engage), and **Revolutionaries** (who didn't believe in talks — "their AK-47 would talk")
+- The **think tank of the government was convinced** that some **constitutional reform was needed** and some **representation should be given to Indians**
+- This was also influenced by **Utilitarian thinking in England** — involve locals in administration and legislative bodies for more efficient governance
+
+**Three Reasons Why British Included Indians in Governance:**
+1. Indians would establish a **link between government and people**
+2. Indians **knew India better** in administration than the British
+3. Indian labour was **cheaper** than bringing Englishmen for the same jobs
+
+> *"They plundered India very beautifully, very smartly, for 200 years. We didn't even know we were being plundered."*
+
+### Muslim League's Demand for Separate Representation
+
+- **Muslim League was founded in 1906 at Dhaka**
+- A group of Muslim leaders **met Lord Minto II** (the Viceroy) at **Shimla** (the summer capital)
+- They **demanded representation for Muslims** in legislative and executive bodies
+- They **complained** that Muslims were **not represented or under-represented**, whereas **caste-Hindus (upper castes) were over-represented**
+
+> **Representation Imbalance Diagram:** Large communities (A, C) had small shares of resources (land, jobs, political power), while small communities (B, D) had disproportionately large shares. This unequal distribution — rooted in caste, religion, and class — is the fundamental source of conflict in Indian politics from the 20th century to the present.
+
+*(Major Clauses and Critique of the 1909 Act to be covered in the next lecture)*
+
+---
+
+## UPSC PYQ Connections (Lectures 1, 2 & 3)
+
+- Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
+- Role of press, education, and social reform in national awakening
+- Economic critique of colonialism — Drain Theory (Dadabhai Naoroji, R.C. Dutt)
+- Administrative and judicial reforms under British rule
+- "India is a nation in the making" — debate on nation-building
+- Safety Valve Theory vs Nationalist Theory *(Mains + Prelims statement questions)*
+- Demands and methods of the Moderate Phase of INC
+- "Assess the role of Moderates in India's freedom struggle" *(recurring Mains question)*
+- Indian Councils Act 1892 and 1909 — constitutional reforms
+- Pre-INC political organizations (Indian Association, Poona Sarvajanik Sabha, etc.)
+- **Partition of Bengal (1905) — causes, consequences, and annulment (1911)** *(recurring)*
+- **Compare the methods and ideology of Moderates and Extremists** *(recurring Mains question)*
+- **Swadeshi Movement — nature, significance, and limitations** *(recurring)*
+- **Formation of Muslim League (1906) — causes and impact** *(Prelims + Mains)*
+- **Surat Split (1907) — significance for Congress evolution** *(Mains)*
+- **Role of Tagore in the Swadeshi Movement** *(Prelims statement-based)*
+- **Indian Councils Act 1909 / Morley-Minto Reforms** *(recurring Prelims + Mains)*
+
+---
+
+<!-- 2026-08-27: Added Lecture 3 — Swadeshi Movement (1905): Causes (Partition of Bengal, Curzon, hidden communal agenda), Course of Events (boycott of goods/schools/courts, Tagore & Raksha Bandhan, mourning), Salient Features (mass participation, religious mobilization critique, nationalist-capitalist alliance, PC Roy & Tata), Outcomes (beginning of mass movement, Muslim League 1906, Surat Split 1907). Moderates vs Extremists ideological comparison table. Swaraj Resolution at INC Calcutta 1906. Indian Councils Act 1909 background (utilitarianism, Muslim League Shimla deputation). Source: handwritten notes (5 pages) + audio transcript dated 26 Aug 2026. -->
