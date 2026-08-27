@@ -560,6 +560,23 @@ The activities of early moderates helped in **arousing patriotic feeling among a
 
 > **Key Insight:** Bengali is spoken by more Muslims than Hindus globally (Bangladesh 17 crore Muslims + West Bengal Muslims). Language is connected to **region**, NOT religion — Punjabi, Bengali, Arabic are all spoken across religious lines.
 
+#### <span style="color: #e53e3e;">A.5 Standard Chronology of the Swadeshi Phase (enrichment — cross-checked with Bipan Chandra)</span>
+
+<span style="color: #e53e3e;">Prelims questions on this topic are almost always **date-anchored**. Keep this ladder ready:</span>
+
+| Date | Event |
+|:---|:---|
+| **1903** | Curzon's government first floats the partition proposal |
+| **19–20 July 1905** | Partition **officially announced** by the Government of India |
+| **7 August 1905** | **Boycott Resolution** passed at a mass meeting in the **Calcutta Town Hall** — observed thereafter as *Boycott Day*; the formal start of the Swadeshi Movement |
+| **16 October 1905** | Partition **comes into effect** — day of mourning, *rakhi bandhan* for Hindu–Muslim solidarity, *Amar Sonar Bangla* sung |
+| **December 1905** | INC **Benares session** (Gokhale) endorses Swadeshi & Boycott — but **only for Bengal** |
+| **December 1906** | INC **Calcutta session** (Dadabhai Naoroji) — **Swaraj resolution**; Swadeshi & Boycott extended |
+| **1907** | **Surat Split** — Moderates and Extremists part ways |
+| **December 1911** | Partition **annulled** at the **Delhi Durbar**, and the **capital shifted from Calcutta to Delhi** — Bengal reunited on a **linguistic** basis, with Bihar–Odisha and Assam separated out |
+
+> <span style="color: #e53e3e;">**Why the annulment matters:** it was the **first major British retreat before Indian public opinion**, but the simultaneous move of the capital to Delhi also removed the nationalist nerve-centre from Calcutta — and the annulment deeply antagonised the Muslim elite who had gained East Bengal, pushing the Muslim League further along its separate path.</span>
+
 ---
 
 ### B. Course of the Movement — Major Events (MOD-B3-02)
@@ -724,7 +741,40 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 - They **demanded representation for Muslims** in legislative and executive bodies
 - They **complained** that Muslims were **not represented or under-represented**, whereas **caste-Hindus (upper castes) were over-represented**
 
-> **Representation Imbalance Diagram:** Large communities (A, C) had small shares of resources (land, jobs, political power), while small communities (B, D) had disproportionately large shares. This unequal distribution — rooted in caste, religion, and class — is the fundamental source of conflict in Indian politics from the 20th century to the present.
+**The Representation Imbalance — the root of the demand:**
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 268" role="img" aria-label="Bar chart comparing each community's share of population with its share of land, jobs and political power" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="338" height="266" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="170" y="22" text-anchor="middle" font-size="12.5" font-weight="700" fill="#0f172a">How many they are vs how much they get</text>
+<rect x="14" y="32" width="12" height="12" rx="3" fill="#cbd5e1" stroke="#94a3b8" />
+<text x="32" y="42" font-size="11" fill="#334155">population</text>
+<rect x="110" y="32" width="12" height="12" rx="3" fill="#fde68a" stroke="#f59e0b" />
+<text x="128" y="42" font-size="11" fill="#334155">share of land, jobs, power</text>
+<text x="14" y="72" font-size="11.5" font-weight="700" fill="#334155">Community A</text>
+<rect x="110" y="58" width="160" height="13" rx="3" fill="#cbd5e1" stroke="#94a3b8" />
+<rect x="110" y="76" width="40" height="13" rx="3" fill="#fde68a" stroke="#f59e0b" />
+<text x="276" y="68" font-size="11" fill="#64748b">large</text>
+<text x="156" y="86" font-size="11" fill="#b45309">tiny share</text>
+<text x="14" y="116" font-size="11.5" font-weight="700" fill="#334155">Community B</text>
+<rect x="110" y="102" width="40" height="13" rx="3" fill="#cbd5e1" stroke="#94a3b8" />
+<rect x="110" y="120" width="140" height="13" rx="3" fill="#fde68a" stroke="#f59e0b" />
+<text x="156" y="112" font-size="11" fill="#64748b">small</text>
+<text x="256" y="130" font-size="11" fill="#b45309">big share</text>
+<text x="14" y="160" font-size="11.5" font-weight="700" fill="#334155">Community C</text>
+<rect x="110" y="146" width="140" height="13" rx="3" fill="#cbd5e1" stroke="#94a3b8" />
+<rect x="110" y="164" width="56" height="13" rx="3" fill="#fde68a" stroke="#f59e0b" />
+<text x="256" y="156" font-size="11" fill="#64748b">large</text>
+<text x="172" y="174" font-size="11" fill="#b45309">small share</text>
+<text x="14" y="204" font-size="11.5" font-weight="700" fill="#334155">Community D</text>
+<rect x="110" y="190" width="52" height="13" rx="3" fill="#cbd5e1" stroke="#94a3b8" />
+<rect x="110" y="208" width="160" height="13" rx="3" fill="#fde68a" stroke="#f59e0b" />
+<text x="168" y="200" font-size="11" fill="#64748b">small</text>
+<text x="276" y="218" font-size="11" fill="#b45309">big</text>
+<text x="170" y="248" text-anchor="middle" font-size="11.5" fill="#991b1b">Numbers ≠ shares: the engine of Indian politics</text>
+</svg>
+</div>
+<p style="text-align:center;"><em><strong>Figure:</strong> Large communities held small shares of land, jobs and political power while small communities held disproportionately large shares. This mismatch — rooted in caste, religion and class — is the fundamental source of political conflict in India from the 20th century to the present, and it is exactly the grievance the Shimla deputation carried to Lord Minto.</em></p>
 
 *(Major Clauses and Critique of the 1909 Act to be covered in the next lecture)*
 
@@ -752,4 +802,5 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 
 ---
 
+<!-- 2026-08-27 (later): Lecture 3 review pass — added standard Swadeshi chronology table (19-20 July 1905 announcement, 7 Aug 1905 Boycott Day at Calcutta Town Hall, 16 Oct 1905 effect, Benares 1905, Calcutta 1906, Surat 1907, 1911 annulment + capital shift) with a note on why the annulment matters; replaced the prose placeholder for the "Representation Imbalance Diagram" in §9 with a mobile-friendly inline SVG bar chart. -->
 <!-- 2026-08-27: Added Lecture 3 — Swadeshi Movement (1905): Causes (Partition of Bengal, Curzon, hidden communal agenda), Course of Events (boycott of goods/schools/courts, Tagore & Raksha Bandhan, mourning), Salient Features (mass participation, religious mobilization critique, nationalist-capitalist alliance, PC Roy & Tata), Outcomes (beginning of mass movement, Muslim League 1906, Surat Split 1907). Moderates vs Extremists ideological comparison table. Swaraj Resolution at INC Calcutta 1906. Indian Councils Act 1909 background (utilitarianism, Muslim League Shimla deputation). Source: handwritten notes (5 pages) + audio transcript dated 26 Aug 2026. -->
