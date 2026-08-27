@@ -42,18 +42,42 @@
 
 ### 2. Historical & Constitutional Evolution
 
-```
-   [1823: Raja Ram Mohan Roy] ──► Defended Freedom of Indian Press (written in English)
-             │
-   [1890s: Dadabhai Naoroji]  ──► "Drain Theory" in English for Global Impact
-             │
-   [1897: Swami Vivekananda]   ──► Addresses to Indian Audiences in English
-             │
-   [1909: M.K. Gandhi]        ──► "Hind Swaraj" translated into English by Gandhi
-             │
-   [Constituent Assembly]     ──► Munshi-Ayyangar Formula (Hindi as Official Language;
-                                  English retained for official Union purposes)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 406" role="img" aria-label="Timeline of English in India from Raja Ram Mohan Roy 1823 to the Constituent Assembly" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="404" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="60" y="12" width="280" height="30" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="32" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Evolution of English in India</text>
+<line x1="24" y1="87" x2="24" y2="352" stroke="#cbd5e1" stroke-width="2" />
+<line x1="30" y1="87" x2="42" y2="87" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="30" y1="155" x2="42" y2="155" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="30" y1="215" x2="42" y2="215" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="30" y1="275" x2="42" y2="275" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="30" y1="352" x2="42" y2="352" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="42" y="54" width="344" height="66" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="54" y="75" font-size="12.5" font-weight="700" fill="#92400e">1823 · Raja Ram Mohan Roy</text>
+<text x="54" y="95" font-size="12" fill="#334155">Defended freedom of the Indian press</text>
+<text x="54" y="113" font-size="12" fill="#334155">— petitions written in English</text>
+<circle cx="24" cy="87" r="6" fill="#fbbf24" />
+<rect x="42" y="130" width="344" height="50" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="54" y="151" font-size="12.5" font-weight="700" fill="#1e40af">1890s · Dadabhai Naoroji</text>
+<text x="54" y="171" font-size="12" fill="#334155">“Drain Theory” in English for global impact</text>
+<circle cx="24" cy="155" r="6" fill="#60a5fa" />
+<rect x="42" y="190" width="344" height="50" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="54" y="211" font-size="12.5" font-weight="700" fill="#115e59">1897 · Swami Vivekananda</text>
+<text x="54" y="231" font-size="12" fill="#334155">Addresses to Indian audiences in English</text>
+<circle cx="24" cy="215" r="6" fill="#2dd4bf" />
+<rect x="42" y="250" width="344" height="50" rx="8" fill="#f0fdf4" stroke="#4ade80" />
+<text x="54" y="271" font-size="12.5" font-weight="700" fill="#166534">1909 · M.K. Gandhi</text>
+<text x="54" y="291" font-size="12" fill="#334155">“Hind Swaraj” translated into English by Gandhi</text>
+<circle cx="24" cy="275" r="6" fill="#4ade80" />
+<rect x="42" y="310" width="344" height="84" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="54" y="331" font-size="12.5" font-weight="700" fill="#3730a3">Constituent Assembly</text>
+<text x="54" y="351" font-size="12" fill="#334155">Munshi-Ayyangar Formula: Hindi as official</text>
+<text x="54" y="369" font-size="12" fill="#334155">language of the Union; English retained</text>
+<text x="54" y="387" font-size="12" fill="#334155">for official Union purposes</text>
+<circle cx="24" cy="352" r="6" fill="#818cf8" />
+</svg>
+</div>
 
 ### 3. Demographic & Educational Profile (Census Data)
 * **Census 2011 Statistics:**
@@ -89,20 +113,25 @@
 | **Chairperson Eligibility** | Retired **Supreme Court Judge** OR Retired **Chief Justice of a High Court**. |
 | **SC Directive Link** | Implements long-standing Supreme Court directives mandating an independent, professional umbrella commission for tribunal administration. |
 
-```
-                 ┌────────────────────────────────────────────────────────┐
-                 │       National Tribunals Commission (NTC)              │
-                 │              (HQ: New Delhi)                           │
-                 └──────────────────────────┬─────────────────────────────┘
-                                            │
-               ┌────────────────────────────┴────────────────────────────┐
-               │                                                         │
-   ┌───────────┴──────────┐                                   ┌──────────┴───────────┐
-   │     Chairperson      │                                   │      4 Members       │
-   │ (Retd SC Judge / CJ  │                                   │ (2 Judicial Members +│
-   │    of High Court)    │                                   │ 2 Technical Members) │
-   └──────────────────────┘                                   └──────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 190" role="img" aria-label="National Tribunals Commission structure: chairperson and four members" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="188" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="40" y="12" width="320" height="44" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="32" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">National Tribunals Commission (NTC)</text>
+<text x="200" y="48" text-anchor="middle" font-size="11.5" fill="#3730a3">HQ: New Delhi</text>
+<path d="M 200 56 L 200 72 M 102 72 L 298 72 M 102 72 L 102 86 M 298 72 L 298 86" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="15" y="86" width="175" height="90" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="102" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Chairperson</text>
+<text x="102" y="130" text-anchor="middle" font-size="11.5" fill="#334155">Retired Supreme Court</text>
+<text x="102" y="148" text-anchor="middle" font-size="11.5" fill="#334155">Judge OR Retired Chief</text>
+<text x="102" y="166" text-anchor="middle" font-size="11.5" fill="#334155">Justice of a High Court</text>
+<rect x="210" y="86" width="175" height="90" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="297" y="108" text-anchor="middle" font-size="13" font-weight="700" fill="#115e59">4 Members</text>
+<text x="297" y="130" text-anchor="middle" font-size="11.5" fill="#334155">2 Judicial Members</text>
+<text x="297" y="148" text-anchor="middle" font-size="11.5" fill="#334155">+</text>
+<text x="297" y="166" text-anchor="middle" font-size="11.5" fill="#334155">2 Technical Members</text>
+</svg>
+</div>
 
 ### 3. Significance for Governance & Judicial Independence
 * **Uniformity:** Replaces fragmented appointment mechanisms across different ministries with a single, transparent selection panel.

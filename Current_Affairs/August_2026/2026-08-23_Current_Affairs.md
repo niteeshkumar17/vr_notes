@@ -38,30 +38,40 @@ graph TD
 
 ### Historical Evolution of the Gorkhaland Demand
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                    HISTORICAL TRAJECTORY OF GORKHA SUB-STATE AUTONOMY                   │
-├──────────────┬──────────────────────────────────────────┬───────────────────────────────┤
-│ ERA / YEAR   │ POLITICAL MOVEMENT & LEADERSHIP          │ INSTITUTIONAL OUTCOME         │
-├──────────────┼──────────────────────────────────────────┼───────────────────────────────┤
-│ 1907–1980s   │ Early Hillmen's Association petitions;   │ Demand for separate admin unit│
-│              │ demand for administrative separation     │ outside Bengal Presidency     │
-├──────────────┼──────────────────────────────────────────┼───────────────────────────────┤
-│ 1986–1988    │ Gorkha National Liberation Front (GNLF)  │ 1988 Tripartite Accord:       │
-│              │ under Subhash Ghisingh; violent agitation│ Darjeeling Gorkha Hill Council│
-│              │ for separate statehood of Gorkhaland     │ (DGHC) created under State law│
-├──────────────┼──────────────────────────────────────────┼───────────────────────────────┤
-│ 2007–2011    │ Gorkha Janmukti Morcha (GJM) led by      │ 2011 Tripartite Accord:       │
-│              │ Bimal Gurung; mass non-cooperation &     │ Gorkhaland Territorial        │
-│              │ hunger strikes renewing statehood call   │ Administration (GTA) created  │
-├──────────────┼──────────────────────────────────────────┼───────────────────────────────┤
-│ 2017         │ 104-day general strike over Bengali      │ GTA functioning paralysed;    │
-│              │ language imposition; renewed agitation   │ political fragmentation       │
-├──────────────┼──────────────────────────────────────────┼───────────────────────────────┤
-│ 2025–2026    │ Centre appoints Interlocutor Pankaj Kumar│ High-Level Modalities         │
-│              │ Singh (Oct 2025); Siliguri Talks (2026) │ Committee constituted         │
-└──────────────┴──────────────────────────────────────────┴───────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 486" role="img" aria-label="Timeline of the Gorkhaland demand from 1907 to 2026" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="484" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="22" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Gorkha Autonomy — Historical Trajectory</text>
+<rect x="12" y="32" width="376" height="84" rx="10" fill="#f1f5f9" stroke="#cbd5e1" />
+<text x="24" y="52" font-size="12.5" font-weight="700" fill="#334155">1907 – 1980s · Hillmen's Association</text>
+<text x="24" y="70" font-size="11.5" fill="#334155">Early petitions for administrative separation</text>
+<text x="24" y="88" font-size="11.5" fill="#475569">Outcome: demand for a separate administrative unit</text>
+<text x="24" y="104" font-size="11.5" fill="#475569">outside the Bengal Presidency</text>
+<polygon points="194,118 206,118 200,124" fill="#94a3b8" />
+<rect x="12" y="126" width="376" height="84" rx="10" fill="#fffbeb" stroke="#fbbf24" />
+<text x="24" y="146" font-size="12.5" font-weight="700" fill="#92400e">1986 – 1988 · GNLF, Subhash Ghisingh</text>
+<text x="24" y="164" font-size="11.5" fill="#334155">Violent agitation for a separate Gorkhaland state</text>
+<text x="24" y="182" font-size="11.5" fill="#92400e">Outcome: 1988 Tripartite Accord → Darjeeling Gorkha</text>
+<text x="24" y="198" font-size="11.5" fill="#92400e">Hill Council (DGHC) created under State law</text>
+<polygon points="194,212 206,212 200,218" fill="#94a3b8" />
+<rect x="12" y="220" width="376" height="84" rx="10" fill="#eff6ff" stroke="#60a5fa" />
+<text x="24" y="240" font-size="12.5" font-weight="700" fill="#1e40af">2007 – 2011 · GJM, Bimal Gurung</text>
+<text x="24" y="258" font-size="11.5" fill="#334155">Mass non-cooperation &amp; hunger strikes renew the call</text>
+<text x="24" y="276" font-size="11.5" fill="#1e40af">Outcome: 2011 Tripartite Accord → Gorkhaland</text>
+<text x="24" y="292" font-size="11.5" fill="#1e40af">Territorial Administration (GTA) created</text>
+<polygon points="194,306 206,306 200,312" fill="#94a3b8" />
+<rect x="12" y="314" width="376" height="66" rx="10" fill="#fef2f2" stroke="#f87171" />
+<text x="24" y="334" font-size="12.5" font-weight="700" fill="#991b1b">2017 · 104-day general strike</text>
+<text x="24" y="352" font-size="11.5" fill="#334155">Against Bengali language imposition; renewed stir</text>
+<text x="24" y="370" font-size="11.5" fill="#991b1b">Outcome: GTA paralysed; political fragmentation</text>
+<polygon points="194,382 206,382 200,388" fill="#94a3b8" />
+<rect x="12" y="390" width="376" height="84" rx="10" fill="#f0fdf4" stroke="#4ade80" />
+<text x="24" y="410" font-size="12.5" font-weight="700" fill="#166534">2025 – 2026 · Centre-led talks</text>
+<text x="24" y="428" font-size="11.5" fill="#334155">Interlocutor Pankaj Kumar Singh appointed (Oct 2025)</text>
+<text x="24" y="446" font-size="11.5" fill="#334155">Siliguri tripartite talks (2026)</text>
+<text x="24" y="464" font-size="11.5" fill="#166534">Outcome: High-Level Modalities Committee constituted</text>
+</svg>
+</div>
 
 ---
 
@@ -80,24 +90,33 @@ graph TD
 
 ## 2. Constitutional Pathways for Permanent Solution & Strategic Dilemma
 
-```
-                                ┌─────────────────────────────────────────┐
-                                │     CONSTITUTIONAL AUTONOMY OPTIONS     │
-                                └────────────────────┬────────────────────┘
-                                                     │
-         ┌───────────────────────────┬───────────────┴───────────────┬───────────────────────────┐
-         │                           │                               │                           │
-         ▼                           ▼                               ▼                           ▼
-┌──────────────────┐       ┌──────────────────┐            ┌──────────────────┐        ┌──────────────────┐
-│  1. ARTICLE 3    │       │ 2. UNION TERRITORY│            │ 3. SIXTH SCHEDULE│        │ 4. ARTICLE 371   │
-│   FULL STATEHOOD │       │  (ART 239 / 239A)│            │   CONSTITUTIONAL │        │   ASYMMETRIC     │
-│ • Carving from WB│       │ • Direct Central │            │    AMENDMENT     │        │   SPECIAL STATUS │
-│ • Simple Majority│       │   Administration │            │ • ADCs with Law- │        │ • Regional Board │
-│ • State views    │       │ • With/Without   │            │   Making Powers  │        │ • Legislative &  │
-│   non-binding    │       │   Legislature    │            │ • Requires Art   │        │   Fiscal Rings   │
-│ • High friction  │       │ • Strategic Hub  │            │   368 Amendment  │        │   (Art 371A/J)   │
-└──────────────────┘       └──────────────────┘            └──────────────────┘        └──────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 425" role="img" aria-label="Four constitutional pathways for Gorkha autonomy" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="423" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="70" y="12" width="260" height="32" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">Constitutional Autonomy Options</text>
+<path d="M 200 44 L 200 54 M 14 54 L 200 54 M 14 54 L 14 379 M 14 114 L 30 114 M 14 217 L 30 217 M 14 302 L 30 302 M 14 379 L 30 379" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="30" y="64" width="356" height="101" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="42" y="84" font-size="12.5" font-weight="700" fill="#1e40af">1. Article 3 — Full Statehood</text>
+<text x="42" y="104" font-size="11.5" fill="#334155">• Carving a new State out of West Bengal</text>
+<text x="42" y="121" font-size="11.5" fill="#334155">• Passed by simple majority (Article 4)</text>
+<text x="42" y="138" font-size="11.5" fill="#334155">• State Legislature's views are non-binding</text>
+<text x="42" y="155" font-size="11.5" fill="#334155">• High political friction in South Bengal</text>
+<rect x="30" y="175" width="356" height="84" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="42" y="195" font-size="12.5" font-weight="700" fill="#92400e">2. Union Territory (Art 239 / 239A)</text>
+<text x="42" y="215" font-size="11.5" fill="#334155">• Direct Central administration</text>
+<text x="42" y="232" font-size="11.5" fill="#334155">• With or without a Legislature</text>
+<text x="42" y="249" font-size="11.5" fill="#334155">• Strategic hub for the corridor</text>
+<rect x="30" y="269" width="356" height="67" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="42" y="289" font-size="12.5" font-weight="700" fill="#115e59">3. Sixth Schedule — Const. Amendment</text>
+<text x="42" y="309" font-size="11.5" fill="#334155">• ADCs with law-making powers</text>
+<text x="42" y="326" font-size="11.5" fill="#334155">• Requires an Article 368 amendment</text>
+<rect x="30" y="346" width="356" height="67" rx="8" fill="#f0fdf4" stroke="#4ade80" />
+<text x="42" y="366" font-size="12.5" font-weight="700" fill="#166534">4. Article 371 — Asymmetric Status</text>
+<text x="42" y="386" font-size="11.5" fill="#334155">• Regional board with special status</text>
+<text x="42" y="403" font-size="11.5" fill="#334155">• Legislative &amp; fiscal ring-fencing (Art 371A/J)</text>
+</svg>
+</div>
 
 ---
 
@@ -125,22 +144,42 @@ graph TD
 
 ### Strategic Imperative: The Siliguri Corridor ("Chicken's Neck")
 
-```
-                 ┌───────────────────────────────────────────────────────────┐
-                 │     SILIGURI CORRIDOR: GEOPOLITICAL VULNERABILITY MATRIX   │
-                 └─────────────────────────────┬─────────────────────────────┘
-                                               │
-             ┌─────────────────────────────────┼─────────────────────────────────┐
-             │                                 │                                 │
-             ▼                                 ▼                                 ▼
-   ┌──────────────────┐              ┌──────────────────┐              ┌──────────────────┐
-   │ GEOGRAPHY & SPAN │              │ NEIGHBOURHOOD    │              │ LOGISTICAL LIFELINE│
-   │ • Width: 20–22 km│              │ • West: Nepal    │              │ • NH-27 (EW Corridor)
-   │ • Connects NE to │              │ • East: Bhutan   │              │ • Rail links to NE
-   │   rest of India  │              │ • South: B'desh  │              │ • Oil/Gas pipelines
-   │ • 8 States link  │              │ • North: Chumbi V│              │ • Military logistics
-   └──────────────────┘              └──────────────────┘              └──────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 419" role="img" aria-label="Siliguri Corridor geopolitical vulnerability: neighbours, geography and logistics" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="417" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="24" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Siliguri Corridor — Vulnerability Matrix</text>
+<rect x="12" y="36" width="376" height="166" rx="10" fill="#ffffff" stroke="#e2e8f0" />
+<rect x="100" y="46" width="200" height="28" rx="6" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="64" text-anchor="middle" font-size="11.5" font-weight="600" fill="#991b1b">North: Chumbi Valley (China)</text>
+<rect x="16" y="96" width="84" height="44" rx="6" fill="#fef3c7" stroke="#fbbf24" />
+<text x="58" y="114" text-anchor="middle" font-size="11.5" fill="#92400e">West</text>
+<text x="58" y="130" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">Nepal</text>
+<rect x="300" y="96" width="84" height="44" rx="6" fill="#fef3c7" stroke="#fbbf24" />
+<text x="342" y="114" text-anchor="middle" font-size="11.5" fill="#92400e">East</text>
+<text x="342" y="130" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">Bhutan</text>
+<rect x="112" y="88" width="176" height="60" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="200" y="108" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1e40af">SILIGURI CORRIDOR</text>
+<text x="200" y="125" text-anchor="middle" font-size="11.5" fill="#1e3a8a">Width 20–22 km</text>
+<text x="200" y="141" text-anchor="middle" font-size="11.5" fill="#1e3a8a">‘Chicken's Neck’</text>
+<rect x="100" y="162" width="200" height="28" rx="6" fill="#dcfce7" stroke="#4ade80" />
+<text x="200" y="180" text-anchor="middle" font-size="11.5" font-weight="600" fill="#166534">South: Bangladesh</text>
+<line x1="200" y1="74" x2="200" y2="88" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="200" y1="148" x2="200" y2="162" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="100" y1="118" x2="112" y2="118" stroke="#94a3b8" stroke-width="1.5" />
+<line x1="288" y1="118" x2="300" y2="118" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="12" y="212" width="376" height="84" rx="10" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="24" y="232" font-size="13" font-weight="700" fill="#115e59">Geography &amp; Span</text>
+<text x="24" y="252" font-size="11.5" fill="#334155">• Narrowest width: 20–22 km</text>
+<text x="24" y="269" font-size="11.5" fill="#334155">• Connects the North-East to the rest of India</text>
+<text x="24" y="286" font-size="11.5" fill="#334155">• Links 8 North-Eastern States</text>
+<rect x="12" y="306" width="376" height="101" rx="10" fill="#e0e7ff" stroke="#818cf8" />
+<text x="24" y="326" font-size="13" font-weight="700" fill="#3730a3">Logistical Lifeline</text>
+<text x="24" y="346" font-size="11.5" fill="#334155">• NH-27 (East–West Corridor)</text>
+<text x="24" y="363" font-size="11.5" fill="#334155">• Rail links to the North-East</text>
+<text x="24" y="380" font-size="11.5" fill="#334155">• Oil &amp; gas pipelines</text>
+<text x="24" y="397" font-size="11.5" fill="#334155">• Military logistics</text>
+</svg>
+</div>
 
 * **Vulnerability:** The corridor is an extremely narrow land bridge (~20–22 km at its narrowest) linking 45 million citizens of Northeast India to mainland India.
 * **Proximity to Chumbi Valley (China):** The corridor lies in close geographic proximity (~130 km) to the **Chumbi Valley** and the **Doklam plateau** (trijunction of India, Bhutan, and China).

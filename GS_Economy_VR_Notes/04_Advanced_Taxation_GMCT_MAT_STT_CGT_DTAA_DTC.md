@@ -146,20 +146,36 @@ Securities is an umbrella term covering:
 
 Capital gains are divided into **two categories** based on asset type:
 
-```
-Capital Gain Tax
-├── Equity Capital
-│   └── Equity Share (from share market)
-│       ├── Short Term: < 12 months
-│       └── Long Term: ≥ 12 months
-└── Non-Equity Capital
-    ├── Non-Movable Properties (flat, land, building, car)
-    │   ├── Short Term: < 24 months
-    │   └── Long Term: ≥ 24 months
-    └── Jewelleries
-        ├── Short Term: < 36 months
-        └── Long Term: ≥ 36 months
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 428" role="img" aria-label="Capital Gain Tax classification by asset type and holding period" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="426" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="110" y="12" width="180" height="32" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Capital Gain Tax</text>
+<path d="M 200 44 L 200 54 M 20 54 L 200 54 M 20 54 L 20 305 M 20 122 L 34 122 M 20 305 L 34 305" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="34" y="64" width="352" height="116" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="48" y="86" font-size="13" font-weight="700" fill="#1e40af">Equity Capital</text>
+<text x="48" y="106" font-size="12" font-weight="700" fill="#334155">Equity Share (from share market)</text>
+<rect x="46" y="114" width="328" height="26" rx="6" fill="#fef2f2" stroke="#fecaca" />
+<text x="60" y="132" font-size="12" fill="#991b1b">Short Term: &lt; 12 months</text>
+<rect x="46" y="146" width="328" height="26" rx="6" fill="#f0fdf4" stroke="#bbf7d0" />
+<text x="60" y="164" font-size="12" fill="#166534">Long Term: ≥ 12 months</text>
+<rect x="34" y="196" width="352" height="218" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="48" y="218" font-size="13" font-weight="700" fill="#92400e">Non-Equity Capital</text>
+<text x="48" y="238" font-size="12" font-weight="700" fill="#334155">Non-Movable Properties</text>
+<text x="48" y="254" font-size="11.5" fill="#64748b">(flat, land, building, car)</text>
+<rect x="46" y="262" width="328" height="26" rx="6" fill="#fef2f2" stroke="#fecaca" />
+<text x="60" y="280" font-size="12" fill="#991b1b">Short Term: &lt; 24 months</text>
+<rect x="46" y="294" width="328" height="26" rx="6" fill="#f0fdf4" stroke="#bbf7d0" />
+<text x="60" y="312" font-size="12" fill="#166534">Long Term: ≥ 24 months</text>
+<text x="48" y="340" font-size="12" font-weight="700" fill="#334155">Jewelleries</text>
+<rect x="46" y="348" width="328" height="26" rx="6" fill="#fef2f2" stroke="#fecaca" />
+<text x="60" y="366" font-size="12" fill="#991b1b">Short Term: &lt; 36 months</text>
+<rect x="46" y="380" width="328" height="26" rx="6" fill="#f0fdf4" stroke="#bbf7d0" />
+<text x="60" y="398" font-size="12" fill="#166534">Long Term: ≥ 36 months</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Capital gains are first split by asset type (equity vs non-equity), and then into Short Term / Long Term by holding period.</em></p>
 
 ### Tax Rates — Complete Table
 
@@ -252,11 +268,7 @@ Capital Gain Tax
 
 ### Indexed Cost Formula
 
-```
-                                   CII of Sale Year
-Indexed Cost = Cost of Purchase × ─────────────────────
-                                   CII of Purchase Year
-```
+$$\text{Indexed Cost} = \text{Cost of Purchase} \times \frac{\text{CII of Sale Year}}{\text{CII of Purchase Year}}$$
 
 Where **CII = Cost Inflation Index** (published annually by the Income Tax Department)
 

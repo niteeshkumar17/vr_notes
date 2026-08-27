@@ -48,20 +48,32 @@
 
 ### 1.2 Branches of Geography
 
-```
-Geography
-├── Physical Geography (Natural Landscape)
-│   ├── Rock → Lithosphere → GEOMORPHOLOGY
-│   ├── Air → Atmosphere → CLIMATOLOGY
-│   └── Water → Hydrosphere → OCEANOGRAPHY
-│
-└── Human Geography (Man-made features)
-    ├── Agriculture
-    ├── Population
-    ├── Culture, Religion, Language
-    ├── Regions
-    └── Economic Activities (Primary, Secondary, Tertiary)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 390" role="img" aria-label="Branches of geography: physical geography and human geography" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="388" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="130" y="12" width="140" height="32" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Geography</text>
+<path d="M 200 44 L 200 54 M 20 54 L 200 54 M 20 54 L 20 298 M 20 134 L 34 134 M 20 298 L 34 298" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="34" y="64" width="352" height="140" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="48" y="86" font-size="13" font-weight="700" fill="#115e59">Physical Geography <tspan font-size="11.5" font-weight="400" fill="#64748b">(Natural Landscape)</tspan></text>
+<rect x="46" y="98" width="328" height="28" rx="6" fill="#ccfbf1" stroke="#5eead4" />
+<text x="60" y="116" font-size="12" fill="#334155">Rock → Lithosphere → <tspan font-weight="700" fill="#115e59">GEOMORPHOLOGY</tspan></text>
+<rect x="46" y="132" width="328" height="28" rx="6" fill="#ccfbf1" stroke="#5eead4" />
+<text x="60" y="150" font-size="12" fill="#334155">Air → Atmosphere → <tspan font-weight="700" fill="#115e59">CLIMATOLOGY</tspan></text>
+<rect x="46" y="166" width="328" height="28" rx="6" fill="#ccfbf1" stroke="#5eead4" />
+<text x="60" y="184" font-size="12" fill="#334155">Water → Hydrosphere → <tspan font-weight="700" fill="#115e59">OCEANOGRAPHY</tspan></text>
+<rect x="34" y="220" width="352" height="156" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="48" y="242" font-size="13" font-weight="700" fill="#92400e">Human Geography <tspan font-size="11.5" font-weight="400" fill="#64748b">(Man-made features)</tspan></text>
+<text x="52" y="264" font-size="12" fill="#334155">• Agriculture</text>
+<text x="52" y="284" font-size="12" fill="#334155">• Population</text>
+<text x="52" y="304" font-size="12" fill="#334155">• Culture, Religion, Language</text>
+<text x="52" y="324" font-size="12" fill="#334155">• Regions</text>
+<text x="52" y="344" font-size="12" fill="#334155">• Economic Activities</text>
+<text x="64" y="362" font-size="12" fill="#64748b">(Primary, Secondary, Tertiary)</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Geography splits into Physical Geography — each sphere giving one branch — and Human Geography.</em></p>
 
 > **Key:** The intersection of Lithosphere + Atmosphere + Hydrosphere = **Biosphere**
 

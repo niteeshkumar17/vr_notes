@@ -71,21 +71,40 @@
 
 ### Criminal Justice System — Foundation for Understanding Mercy Powers
 
-```
-Crime → Investigation (Law Enforcement) → Trial (Court) → Judgment
-                                                              ↓
-                                                     ┌──────────────┐
-                                                     │  Conviction   │ → Status: Accused → Convict
-                                                     │  (Crime proven│    (beyond reasonable doubt)
-                                                     │   by court)   │
-                                                     └──────┬───────┘
-                                                            ↓
-                                                     ┌──────────────┐
-                                                     │  Sentence     │ → Two Parts:
-                                                     │  (Punishment) │    1. Nature (type)
-                                                     │               │    2. Quantum (amount)
-                                                     └──────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 414" role="img" aria-label="Criminal justice pipeline from crime through investigation, trial and judgment to conviction and sentence" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="412" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="110" y="12" width="180" height="30" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="32" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">Crime</text>
+<line x1="200" y1="44" x2="200" y2="50" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,50) rotate(90)" />
+<rect x="90" y="60" width="220" height="44" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="200" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">Investigation</text>
+<text x="200" y="97" text-anchor="middle" font-size="11.5" fill="#334155">(Law Enforcement)</text>
+<line x1="200" y1="106" x2="200" y2="112" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,112) rotate(90)" />
+<rect x="90" y="122" width="220" height="44" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="200" y="142" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Trial</text>
+<text x="200" y="159" text-anchor="middle" font-size="11.5" fill="#334155">(Court)</text>
+<line x1="200" y1="168" x2="200" y2="174" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,174) rotate(90)" />
+<rect x="110" y="184" width="180" height="30" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="200" y="204" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Judgment</text>
+<line x1="200" y1="216" x2="200" y2="222" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,222) rotate(90)" />
+<rect x="20" y="232" width="360" height="66" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="34" y="254" font-size="13" font-weight="700" fill="#3730a3">Conviction</text>
+<text x="34" y="272" font-size="11.5" fill="#334155">Crime proven by the court, beyond reasonable doubt</text>
+<text x="34" y="290" font-size="11.5" font-weight="600" fill="#3730a3">Status: Accused → Convict</text>
+<line x1="200" y1="300" x2="200" y2="306" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,306) rotate(90)" />
+<rect x="20" y="316" width="360" height="84" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="34" y="338" font-size="13" font-weight="700" fill="#115e59">Sentence (Punishment)</text>
+<text x="34" y="356" font-size="11.5" font-weight="600" fill="#115e59">Two parts:</text>
+<text x="34" y="374" font-size="11.5" fill="#334155">1. Nature (type of punishment)</text>
+<text x="34" y="392" font-size="11.5" fill="#334155">2. Quantum (amount)</text>
+</svg>
+</div>
 
 ### Nature of Sentence (Severity Hierarchy — Highest to Lowest)
 1. **Capital Punishment** (Death penalty — "hanged by the neck until death")

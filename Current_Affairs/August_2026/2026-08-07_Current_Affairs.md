@@ -73,12 +73,27 @@
 
 ### 3. Key Government Initiatives & "Handloom 4.0"
 
-```
-[Handloom Sector Transformation]
-  ├── Legacy Protection: 797 Clusters · 1.24 Lakh Improved Looms · GI & Handloom Mark
-  ├── Tech 4.0: VisioNXT Platform (AI Trend Forecasting) · Digital Quality & Supply Chain Tools
-  └── Target: National Handloom Programme (1,800 Clusters, 65 Lakh Beneficiaries, ₹50,000/mo weaver income goal)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" role="img" aria-label="Handloom sector transformation: legacy protection, Tech 4.0 and national programme targets" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="338" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="70" y="12" width="260" height="32" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">Handloom Sector Transformation</text>
+<path d="M 200 44 L 200 54 M 14 54 L 200 54 M 14 54 L 14 279 M 14 101 L 30 101 M 14 185 L 30 185 M 14 279 L 30 279" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="30" y="64" width="356" height="74" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="42" y="86" font-size="13" font-weight="700" fill="#92400e">Legacy Protection</text>
+<text x="42" y="108" font-size="12" fill="#334155">• 797 clusters · 1.24 lakh improved looms</text>
+<text x="42" y="128" font-size="12" fill="#334155">• GI tags &amp; Handloom Mark</text>
+<rect x="30" y="148" width="356" height="74" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="42" y="170" font-size="13" font-weight="700" fill="#1e40af">Tech 4.0</text>
+<text x="42" y="192" font-size="12" fill="#334155">• VisioNXT platform — AI trend forecasting</text>
+<text x="42" y="212" font-size="12" fill="#334155">• Digital quality &amp; supply-chain tools</text>
+<rect x="30" y="232" width="356" height="94" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="42" y="254" font-size="13" font-weight="700" fill="#115e59">Target</text>
+<text x="42" y="276" font-size="12" fill="#334155">• National Handloom Programme</text>
+<text x="42" y="296" font-size="12" fill="#334155">• 1,800 clusters · 65 lakh beneficiaries</text>
+<text x="42" y="316" font-size="12" fill="#334155">• ₹50,000/month weaver income goal</text>
+</svg>
+</div>
 
 * **Handloom 4.0 Initiative:** Incorporates Artificial Intelligence (AI) and digital monitoring tools (e.g. *VisioNXT* trend forecasting platform) across 100 pilot looms to assist weavers with design trends, quality monitoring, and global market linkages.
 * **National Handloom and Handicraft Programme:** Aims to strengthen 1,800 clusters across >500 districts, directly benefiting 65 lakh artisans.

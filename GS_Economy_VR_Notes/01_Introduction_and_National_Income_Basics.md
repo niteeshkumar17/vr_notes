@@ -263,20 +263,32 @@ Economics has **two fundamental branches**:
 
 #### Real Flow (Without Prices / Adjusted for Prices)
 
-```
-                 ┌──────────────────────────────────┐
-                 │   Final G&S (→ to HHs)           │
-                 │   (e.g., cars, food, services)   │
-                 ▼                                  │
-          ┌──────────┐                       ┌──────────┐
-          │  FIRMS   │◄──────────────────────│    HHs   │
-          └──────────┘                       └──────────┘
-                 │                                  ▲
-                 │   Factors of Production (→ to    │
-                 │   Firms) / Factor Inputs         │
-                 │   (e.g., labour from HH members) │
-                 └──────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Real flow of the two-sector circular flow of income between firms and households" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="298" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Real Flow — Two-Sector Model</text>
+<rect x="60" y="36" width="280" height="54" rx="8" fill="#f0fdf4" stroke="#bbf7d0" />
+<text x="200" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Final Goods &amp; Services</text>
+<text x="200" y="78" text-anchor="middle" font-size="12" fill="#334155">(e.g., cars, food, services)</text>
+<path d="M 90 120 L 90 100 L 310 100 L 310 106" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(310,106) rotate(90)" />
+<rect x="30" y="120" width="120" height="54" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="90" y="144" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">FIRMS</text>
+<text x="90" y="162" text-anchor="middle" font-size="11.5" fill="#3730a3">(Producers)</text>
+<rect x="250" y="120" width="120" height="54" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="310" y="144" text-anchor="middle" font-size="14" font-weight="700" fill="#115e59">HOUSEHOLDS</text>
+<text x="310" y="162" text-anchor="middle" font-size="11.5" fill="#115e59">(Consumers)</text>
+<path d="M 310 174 L 310 194 L 90 194 L 90 188" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(90,188) rotate(-90)" />
+<rect x="45" y="204" width="310" height="62" rx="8" fill="#eff6ff" stroke="#bfdbfe" />
+<text x="200" y="224" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Factors of Production</text>
+<text x="200" y="242" text-anchor="middle" font-size="12" fill="#334155">(also called Factor Inputs)</text>
+<text x="200" y="260" text-anchor="middle" font-size="12" fill="#64748b">e.g., labour from HH members</text>
+<text x="200" y="286" text-anchor="middle" font-size="12" font-style="italic" fill="#64748b">Both sectors are mutually dependent</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Real flow — Firms supply final G&amp;S to households; households supply factors of production to firms. No prices involved.</em></p>
 
 *   **Firms → HHs:** Final Goods & Services (e.g., final cars produced by car-making firm go to households for consumption). "Final" because whenever a household gets a G/S from a firm, it is always **final**.
 *   **HHs → Firms:** Factors of Production / Factor Inputs (e.g., household members provide **labour** — work in car-making companies/factories). Labour = simplest example; also capital, etc. (to be done in next class).
@@ -286,22 +298,33 @@ Economics has **two fundamental branches**:
 
 #### Nominal / Monetary Flow (With Prices)
 
-```
-                 ┌──────────────────────────────────┐
-                 │   Factor Payments / Factor Cost  │
-                 │   / Factor Income (→ to HHs)     │
-                 │   (e.g., wages for labour)       │
-                 ▼                                  │
-          ┌──────────┐                       ┌──────────┐
-          │  FIRMS   │◄──────────────────────│    HHs   │
-          └──────────┘                       └──────────┘
-                 │                                  ▲
-                 │   Private Final Consumption      │
-                 │   Expenditure (PFCE) (→ to Firms)│
-                 │   (e.g., payment for buying a    │
-                 │    book, food, metro ticket)     │
-                 └──────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 330" role="img" aria-label="Nominal or monetary flow of the two-sector circular flow of income between firms and households" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="328" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Nominal / Monetary Flow — With Prices</text>
+<rect x="40" y="38" width="320" height="84" rx="8" fill="#fffbeb" stroke="#fde68a" />
+<text x="200" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">Factor Payments</text>
+<text x="200" y="76" text-anchor="middle" font-size="12" fill="#334155">= Factor Cost (firm's view)</text>
+<text x="200" y="94" text-anchor="middle" font-size="12" fill="#334155">= Factor Income (household's view)</text>
+<text x="200" y="112" text-anchor="middle" font-size="12" fill="#64748b">e.g., wages for labour</text>
+<path d="M 90 154 L 90 134 L 310 134 L 310 140" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(310,140) rotate(90)" />
+<rect x="30" y="154" width="120" height="54" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="90" y="178" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">FIRMS</text>
+<text x="90" y="196" text-anchor="middle" font-size="11.5" fill="#3730a3">(Producers)</text>
+<rect x="250" y="154" width="120" height="54" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="310" y="178" text-anchor="middle" font-size="14" font-weight="700" fill="#115e59">HOUSEHOLDS</text>
+<text x="310" y="196" text-anchor="middle" font-size="11.5" fill="#115e59">(Consumers)</text>
+<path d="M 310 208 L 310 228 L 90 228 L 90 222" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(90,222) rotate(-90)" />
+<rect x="40" y="238" width="320" height="76" rx="8" fill="#eff6ff" stroke="#bfdbfe" />
+<text x="200" y="258" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Private Final Consumption</text>
+<text x="200" y="276" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Expenditure (PFCE)</text>
+<text x="200" y="298" text-anchor="middle" font-size="12" fill="#64748b">e.g., a book, food, metro ticket</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Nominal flow — the same two-sector loop measured in money: firms pay factor payments to households, households return PFCE to firms.</em></p>
 
 *   **Firms → HHs:** **Factor Payments** (what firms pay for factors of production → to households).
     *   Also called: **Factor Cost** (from firm's perspective — part of production cost) = **Factor Income** (from household's perspective — it is their income/salary).

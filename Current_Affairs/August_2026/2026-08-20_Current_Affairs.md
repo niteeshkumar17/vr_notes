@@ -43,32 +43,13 @@ graph TD
 
 ### Specific Reliefs Sought by Petitioners
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    FIVE KEY RELIEFS SOUGHT IN PETITIONS                 │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 1. Constitutional Invalidation of Section 2 of Shariat Act, 1937       │
-│    • Declare Section 2 ultra vires to the extent it permits polygamy,   │
-│      violating Articles 14, 15, and 21 of the Constitution.             │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 2. Universal Application of Section 82 BNS                              │
-│    • Treat polygamy as a uniform criminal offence under Section 82 BNS  │
-│      for all citizens irrespective of religious faith.                  │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 3. Codification of Muslim Personal Law                                  │
-│    • Direct the Law Commission of India or the Union Government to      │
-│      draft a statutory code aligning marriage, divorce, maintenance,    │
-│      and succession with constitutional gender equality.                │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 4. Compulsory Registration of Marriages & Divorces                      │
-│    • Enforce mandatory state registration of all marriages and divorces │
-│      to prevent covert and fraudulent subsequent marriages.             │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 5. Protection of Matrimonial Rights & Housing Security                  │
-│    • Ensure that if bigamy occurs, the first wife and her children have │
-│      the first and lasting statutory right to the matrimonial home.     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+| Five Key Reliefs Sought in Petitions | Substance of the Prayer |
+|:---|:---|
+| **1. Constitutional Invalidation of Section 2 of Shariat Act, 1937** | Declare Section 2 ultra vires to the extent it permits polygamy, violating Articles 14, 15, and 21 of the Constitution. |
+| **2. Universal Application of Section 82 BNS** | Treat polygamy as a uniform criminal offence under Section 82 BNS for all citizens irrespective of religious faith. |
+| **3. Codification of Muslim Personal Law** | Direct the Law Commission of India or the Union Government to draft a statutory code aligning marriage, divorce, maintenance, and succession with constitutional gender equality. |
+| **4. Compulsory Registration of Marriages & Divorces** | Enforce mandatory state registration of all marriages and divorces to prevent covert and fraudulent subsequent marriages. |
+| **5. Protection of Matrimonial Rights & Housing Security** | Ensure that if bigamy occurs, the first wife and her children have the first and lasting statutory right to the matrimonial home. |
 
 ---
 
@@ -86,28 +67,38 @@ graph TD
 
 ### Constitutional & Jurisprudential Dilemmas
 
-```
-                               ┌──────────────────────────────────┐
-                               │   Article 25: Freedom of         │
-                               │   Conscience & Religion          │
-                               └─────────────────┬────────────────┘
-                                                 │
-                                                 ▼
- ┌─────────────────────────────┐       ┌──────────────────┐       ┌─────────────────────────────┐
- │ Essential Religious Practice│ ───►  │ Constitutional   │ ◄───  │ Article 14 (Equality),      │
- │ (ERP) Test: Is Polygamy     │       │ Morality &       │       │ Article 15 (Sex Non-Discrim)│
- │ Mandatory or Permissible?   │       │ Harmonious       │       │ Article 21 (Dignity & Life) │
- └─────────────────────────────┘       │ Construction     │       └─────────────────────────────┘
-                                       └─────────┬────────┘
-                                                 │
-                                                 ▼
-                               ┌──────────────────────────────────┐
-                               │   Article 44: Uniform Civil Code │
-                               │  - Progressive Reform of Laws    │
-                               │  - Elimination of Gender Bias    │
-                               │  - Non-Negotiable Human Dignity  │
-                               └──────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 384" role="img" aria-label="Article 25 religious freedom tested against Articles 14, 15 and 21, resolved through constitutional morality and Article 44" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="382" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="40" y="12" width="320" height="46" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="31" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Article 25: Freedom of</text>
+<text x="200" y="48" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Conscience &amp; Religion</text>
+<path d="M 200 58 L 200 198" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<path d="M 102 176 L 102 188 L 298 188 L 298 176" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="15" y="72" width="175" height="104" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="102" y="98" text-anchor="middle" font-size="12" fill="#334155">Essential Religious</text>
+<text x="102" y="115" text-anchor="middle" font-size="12" fill="#334155">Practice (ERP) Test:</text>
+<text x="102" y="132" text-anchor="middle" font-size="12" fill="#334155">Is Polygamy Mandatory</text>
+<text x="102" y="149" text-anchor="middle" font-size="12" fill="#334155">or Permissible?</text>
+<rect x="210" y="72" width="175" height="104" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="297" y="90" text-anchor="middle" font-size="12" fill="#334155">Article 14 (Equality),</text>
+<text x="297" y="107" text-anchor="middle" font-size="12" fill="#334155">Article 15 (Sex</text>
+<text x="297" y="124" text-anchor="middle" font-size="12" fill="#334155">Non-Discrimination),</text>
+<text x="297" y="141" text-anchor="middle" font-size="12" fill="#334155">Article 21 (Dignity</text>
+<text x="297" y="158" text-anchor="middle" font-size="12" fill="#334155">&amp; Life)</text>
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,198) rotate(90)" />
+<rect x="60" y="210" width="280" height="46" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="229" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Constitutional Morality &amp;</text>
+<text x="200" y="246" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Harmonious Construction</text>
+<path d="M 200 256 L 200 266" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,266) rotate(90)" />
+<rect x="15" y="278" width="370" height="92" rx="8" fill="#f0fdf4" stroke="#4ade80" />
+<text x="27" y="300" font-size="13" font-weight="700" fill="#166534">Article 44: Uniform Civil Code</text>
+<text x="27" y="322" font-size="12" fill="#334155">• Progressive Reform of Laws</text>
+<text x="27" y="340" font-size="12" fill="#334155">• Elimination of Gender Bias</text>
+<text x="27" y="358" font-size="12" fill="#334155">• Non-Negotiable Human Dignity</text>
+</svg>
+</div>
 
 #### 1. Article 25 Freedom of Religion vs. Part III Rights
 * **Conditional Freedom:** Article 25(1) begins with the explicit clause: *"Subject to public order, morality and health and to the other provisions of this Part..."*. 

@@ -79,12 +79,11 @@
   * Unresolved U.S.-Israel military conflict with Iran.
   * Repeated drone/missile attacks on Saudi oil infrastructure and Red Sea shipping blockades by Iran-aligned Houthi forces (Ansar Allah).
 
-```
-   [Trilateral Mecca Defence Pact]
-       ├── Nuclear Power: Pakistan (Troop deployment, deterrence, advisory)
-       ├── Gulf Energy Power: Saudi Arabia (Financial capital, energy, diplomatic hub)
-       └── NATO Member: Turkiye (Defense manufacturing, military hardware/drones, NATO tech)
-```
+| Member (Trilateral Mecca Defence Pact) | Strategic Identity | Contribution to the Pact |
+|:---|:---|:---|
+| **Pakistan** | Nuclear power | Troop deployment, nuclear deterrence, military advisory role |
+| **Saudi Arabia** | Gulf energy power | Financial capital, energy resources, diplomatic hub |
+| **Turkiye** | NATO member state | Defence manufacturing, military hardware/drones, NATO technology |
 
 ### 3. Questions Over Practical Scope & Strategic Implications
 

@@ -107,25 +107,43 @@
 
 *   **Muhammad Ghori died → NO SON** → divided kingdom among slaves.
 
-```
-Muhammad Ghori (d. 1206, no son)
-         ↓
-   ┌─────────────────────┐
-   │                     │
-  YILDIZ               QUTBUDDIN AIBAK
-  (Ghazna)             (Lahore & beyond)
-                        ├── Slave: QUBACHA (given Multan)
-                        ├── Slave: ILTUTMISH (given Gwalior → Badaun)
-                        │       → married Aibak's DAUGHTER
-                        │       → only slave MANUMITTED (freed) in lifetime
-                        └── Aibak died 1210
-                                ↓
-                            ARAM SHAH (clan member, successor)
-                                ↓
-                            ILTUTMISH marches from Badaun
-                            → kills Aram Shah
-                            → shifts to DELHI (1211 CE)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 438" role="img" aria-label="Slave dynasty structure after Muhammad Ghori: Yildiz and Qutbuddin Aibak, Aibak's slaves Qubacha and Iltutmish, and Iltutmish's move to Delhi in 1211" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="436" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="70" y="12" width="260" height="42" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="32" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Muhammad Ghori</text>
+<text x="200" y="48" text-anchor="middle" font-size="11.5" fill="#334155">(d. 1206, no son)</text>
+<path d="M 200 54 L 200 64 M 104 64 L 296 64 M 104 64 L 104 74 M 296 64 L 296 74" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="14" y="74" width="180" height="46" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="104" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">YILDIZ</text>
+<text x="104" y="111" text-anchor="middle" font-size="11.5" fill="#334155">(Ghazna)</text>
+<rect x="206" y="74" width="180" height="46" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="296" y="94" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">QUTBUDDIN AIBAK</text>
+<text x="296" y="111" text-anchor="middle" font-size="11.5" fill="#334155">(Lahore &amp; beyond)</text>
+<path d="M 296 120 L 296 130 M 20 130 L 296 130 M 20 130 L 20 253 M 20 147 L 34 147 M 20 197 L 34 197 M 20 253 L 34 253" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="34" y="134" width="352" height="26" rx="7" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="46" y="152" font-size="12" fill="#334155">Slave: QUBACHA — given Multan</text>
+<rect x="34" y="166" width="352" height="62" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="46" y="186" font-size="13" font-weight="700" fill="#115e59">Slave: ILTUTMISH</text>
+<text x="46" y="204" font-size="11.5" fill="#334155">Given Gwalior → Badaun; married Aibak's DAUGHTER</text>
+<text x="46" y="221" font-size="11.5" fill="#334155">Only slave MANUMITTED (freed) in Aibak's lifetime</text>
+<rect x="34" y="240" width="352" height="26" rx="7" fill="#fee2e2" stroke="#f87171" />
+<text x="46" y="258" font-size="12" fill="#991b1b">Aibak died, 1210</text>
+<line x1="210" y1="268" x2="210" y2="274" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,274) rotate(90)" />
+<rect x="34" y="284" width="352" height="28" rx="7" fill="#fef2f2" stroke="#fecaca" />
+<text x="210" y="303" text-anchor="middle" font-size="12" fill="#334155">ARAM SHAH (clan member, successor)</text>
+<line x1="210" y1="314" x2="210" y2="320" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,320) rotate(90)" />
+<rect x="34" y="330" width="352" height="44" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="210" y="350" text-anchor="middle" font-size="12" fill="#334155">ILTUTMISH marches from Badaun</text>
+<text x="210" y="367" text-anchor="middle" font-size="11.5" fill="#334155">→ kills Aram Shah</text>
+<line x1="210" y1="376" x2="210" y2="382" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,382) rotate(90)" />
+<rect x="34" y="392" width="352" height="32" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="210" y="413" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Shifts to DELHI (1211 CE)</text>
+</svg>
+</div>
 
 *   **Bakhtiyar Khalji** = a **free man** (Khalji = always free, never slave).
     *   After Ghori's death → went rogue → captured **Lakhnauti (Bengal)**.

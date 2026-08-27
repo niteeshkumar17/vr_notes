@@ -52,41 +52,41 @@ $$\text{ECI (Art 324)} \longrightarrow \text{CEO (State/UT - Sec 13A)} \longrigh
 
 ### The Deletion Dynamics & Safeguards
 
-```
-                      ┌────────────────────────────────────────┐
-                      │    Door-to-Door Field Enumeration      │
-                      └──────────────────┬─────────────────────┘
-                                         │
-                                         ▼
-                      ┌────────────────────────────────────────┐
-                      │         ASD Categorisation             │
-                      │   [Absent | Shifted | Dead / Dup]      │
-                      └──────────────────┬─────────────────────┘
-                                         │
-                                         ▼
-                      ┌────────────────────────────────────────┐
-                      │      Draft Electoral Roll Published    │
-                      └──────────────────┬─────────────────────┘
-                                         │
-                                         ▼
-                      ┌────────────────────────────────────────┐
-                      │      Claims & Objections Window        │
-                      ├────────────────────────────────────────┤
-                      │ Form 6 : New Registration / Addition   │
-                      │ Form 7 : Objection to / Deletion of    │
-                      │ Form 8 : Correction / Shifting / PwD   │
-                      └──────────────────┬─────────────────────┘
-                                         │
-                                         ▼
-                      ┌────────────────────────────────────────┐
-                      │ Rule 21A Inquiry & Notice Safeguard    │
-                      └──────────────────┬─────────────────────┘
-                                         │
-                                         ▼
-                      ┌────────────────────────────────────────┐
-                      │      Final Roll Published (Oct 27)     │
-                      └────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Electoral roll deletion pipeline from door-to-door enumeration through ASD categorisation, draft roll, claims and objections window and Rule 21A inquiry to final roll publication" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="438" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Deletion Dynamics &amp; Safeguards</text>
+<rect x="20" y="40" width="360" height="30" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="200" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">Door-to-Door Field Enumeration</text>
+<line x1="200" y1="70" x2="200" y2="82" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,80) rotate(90)" />
+<rect x="20" y="94" width="360" height="48" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">ASD Categorisation</text>
+<text x="200" y="133" text-anchor="middle" font-size="12" fill="#334155">Absent | Shifted | Dead / Duplicate</text>
+<line x1="200" y1="142" x2="200" y2="154" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,152) rotate(90)" />
+<rect x="20" y="166" width="360" height="30" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="200" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Draft Electoral Roll Published</text>
+<line x1="200" y1="196" x2="200" y2="208" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,206) rotate(90)" />
+<rect x="20" y="220" width="360" height="96" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Claims &amp; Objections Window</text>
+<line x1="20" y1="250" x2="380" y2="250" stroke="#818cf8" stroke-width="1" />
+<text x="34" y="270" font-size="12" fill="#334155">Form 6 : New Registration / Addition</text>
+<text x="34" y="289" font-size="12" fill="#334155">Form 7 : Objection to / Deletion of Name</text>
+<text x="34" y="308" font-size="12" fill="#334155">Form 8 : Correction / Shifting / PwD</text>
+<line x1="200" y1="316" x2="200" y2="328" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,326) rotate(90)" />
+<rect x="20" y="340" width="360" height="30" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="200" y="360" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Rule 21A Inquiry &amp; Notice Safeguard</text>
+<line x1="200" y1="370" x2="200" y2="382" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,380) rotate(90)" />
+<rect x="20" y="394" width="360" height="32" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="200" y="415" text-anchor="middle" font-size="13" font-weight="700" fill="#115e59">Final Roll Published (Oct 27)</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> No elector can be dropped straight out of enumeration — every deletion must pass through ASD categorisation, the draft roll, the statutory claims &amp; objections window and a mandatory Rule 21A inquiry with notice.</em></p>
 
 ---
 

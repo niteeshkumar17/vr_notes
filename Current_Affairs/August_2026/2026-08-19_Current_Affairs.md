@@ -45,32 +45,13 @@ graph TD
 
 In *Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)*, a 9-judge Constitution Bench held that any state encroachment upon the Fundamental Right to Privacy under Article 21 must satisfy the **4-Prong Proportionality Test**:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│              THE 4-PRONG PROPORTIONALITY TEST (PUTTASWAMY 2017)         │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 1. Legality (Lawful Basis)                                              │
-│    • State action must be backed by a clear, accessible, parliamentary  │
-│      statute (not mere executive circulars or internal police SOPs).    │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 2. Legitimate State Aim                                                 │
-│    • Must pursue a pressing societal objective (e.g., public order,     │
-│      prevention of violent crimes, national security).                  │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 3. Suitability / Rational Nexus                                         │
-│    • There must be a direct, rational connection between using FRS and  │
-│      achieving the stated security/public order goal.                   │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 4. Necessity / Least Restrictive Measure                                │
-│    • The State must prove that no less intrusive alternative exists to  │
-│      achieve the objective with lesser impairment of privacy.           │
-├─────────────────────────────────────────────────────────────────────────┤
-│ 5. Proportionality Stricto Sensu (Balancing)                            │
-│    • The societal gain from catching criminals must outweigh the harm   │
-│      inflicted on constitutional privacy and the chilling effect on     │
-│      democratic assembly under Article 19(1)(b).                        │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+| The 4-Prong Proportionality Test (Puttaswamy 2017) | Requirement the State Must Satisfy |
+|:---|:---|
+| **1. Legality (Lawful Basis)** | State action must be backed by a clear, accessible, parliamentary statute (not mere executive circulars or internal police SOPs). |
+| **2. Legitimate State Aim** | Must pursue a pressing societal objective (e.g., public order, prevention of violent crimes, national security). |
+| **3. Suitability / Rational Nexus** | There must be a direct, rational connection between using FRS and achieving the stated security/public order goal. |
+| **4. Necessity / Least Restrictive Measure** | The State must prove that no less intrusive alternative exists to achieve the objective with lesser impairment of privacy. |
+| **5. Proportionality Stricto Sensu (Balancing)** | The societal gain from catching criminals must outweigh the harm inflicted on constitutional privacy and the chilling effect on democratic assembly under Article 19(1)(b). |
 
 ---
 
@@ -87,28 +68,37 @@ In *Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)*, a 9-judge Constit
 
 ### UPSC Mains Analytical Dimensions
 
-```
-                               ┌──────────────────────────────────┐
-                               │   State Responsibility: Public   │
-                               │   Order & Crime Prevention       │
-                               └─────────────────┬────────────────┘
-                                                 │
-                                                 ▼
- ┌─────────────────────────────┐       ┌──────────────────┐       ┌─────────────────────────────┐
- │ Identifying Repeat Offender │ ───►  │ Balancing State  │ ◄───  │ Right to Privacy (Art 21) & │
- │ & Hardened History-Sheeters │       │ Security vs      │       │ Peaceful Assembly (19(1)(b))│
- └─────────────────────────────┘       │ Civil Liberties  │       └─────────────────────────────┘
-                                       └─────────┬────────┘
-                                                 │
-                                                 ▼
-                               ┌──────────────────────────────────┐
-                               │   Required Institutional Remedy  │
-                               │  - Statutory Regulatory Charter  │
-                               │  - Independent Privacy Audits    │
-                               │  - Strict Data Deletion Rules    │
-                               │  - Prohibition of Mass Crawling  │
-                               └──────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" role="img" aria-label="Balancing state security against civil liberties in facial recognition surveillance" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="378" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="40" y="12" width="320" height="46" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="31" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">State Responsibility:</text>
+<text x="200" y="48" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Public Order &amp; Crime Prevention</text>
+<path d="M 200 58 L 200 180" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<path d="M 102 158 L 102 170 L 298 170 L 298 158" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="15" y="72" width="175" height="86" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="102" y="103" text-anchor="middle" font-size="12" fill="#334155">Identifying Repeat</text>
+<text x="102" y="120" text-anchor="middle" font-size="12" fill="#334155">Offender &amp; Hardened</text>
+<text x="102" y="137" text-anchor="middle" font-size="12" fill="#334155">History-Sheeters</text>
+<rect x="210" y="72" width="175" height="86" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="297" y="93" text-anchor="middle" font-size="12" fill="#334155">Right to Privacy</text>
+<text x="297" y="110" text-anchor="middle" font-size="12" fill="#334155">(Article 21) &amp;</text>
+<text x="297" y="127" text-anchor="middle" font-size="12" fill="#334155">Peaceful Assembly</text>
+<text x="297" y="144" text-anchor="middle" font-size="12" fill="#334155">(Article 19(1)(b))</text>
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,180) rotate(90)" />
+<rect x="60" y="192" width="280" height="46" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="211" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Balancing State Security</text>
+<text x="200" y="228" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">vs Civil Liberties</text>
+<path d="M 200 238 L 200 248" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,248) rotate(90)" />
+<rect x="15" y="260" width="370" height="108" rx="8" fill="#f0fdf4" stroke="#4ade80" />
+<text x="27" y="282" font-size="13" font-weight="700" fill="#166534">Required Institutional Remedy</text>
+<text x="27" y="304" font-size="12" fill="#334155">• Statutory Regulatory Charter</text>
+<text x="27" y="322" font-size="12" fill="#334155">• Independent Privacy Audits</text>
+<text x="27" y="340" font-size="12" fill="#334155">• Strict Data Deletion Rules</text>
+<text x="27" y="358" font-size="12" fill="#334155">• Prohibition of Mass Crawling</text>
+</svg>
+</div>
 
 #### 1. Security Imperative vs. Mass Surveillance Trap
 * **The State's Case:** Modern public demonstrations are frequently targeted by anti-social elements, provocateurs, and organized criminal syndicates to incite riots and property destruction. Targeted FRS deployment acts as a non-contact, preventive intelligence tool.
@@ -183,24 +173,31 @@ graph TD
 
 ### Core Conceptual Conflicts: CBDR-RC vs. Carbon Border Taxes
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                      THE CLIMATE TRADE PARADOX                          │
-├─────────────────────────────────────────────────────────────────────────┤
-│ Historical Responsibility (Global North):                               │
-│ • Developed nations account for >70% of historical cumulative emissions │
-│   since 1850 while enjoying high per-capita GDP.                        │
-├─────────────────────────────────────────────────────────────────────────┤
-│ Development Necessity (Global South):                                   │
-│ • Developing nations require steel, cement, and energy for basic        │
-│   infrastructure, urbanization, and poverty eradication.                │
-├─────────────────────────────────────────────────────────────────────────┤
-│ The CBAM Distortion:                                                    │
-│ • A uniform carbon price penalizes developing country goods where       │
-│   clean technology capital is expensive, without providing promised    │
-│   climate finance ($100B+ / NCQG) or technology transfer.              │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 392" role="img" aria-label="The climate trade paradox: historical responsibility, development necessity and the CBAM distortion" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="390" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="27" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">The Climate Trade Paradox</text>
+<rect x="15" y="40" width="370" height="92" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="27" y="62" font-size="13" font-weight="700" fill="#92400e">Historical Responsibility — Global North</text>
+<text x="27" y="84" font-size="12" fill="#334155">Developed nations account for &gt;70% of historical</text>
+<text x="27" y="102" font-size="12" fill="#334155">cumulative emissions since 1850 while enjoying</text>
+<text x="27" y="120" font-size="12" fill="#334155">high per-capita GDP.</text>
+<text x="200" y="150" text-anchor="middle" font-size="15" font-weight="700" fill="#94a3b8">+</text>
+<rect x="15" y="158" width="370" height="92" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="27" y="180" font-size="13" font-weight="700" fill="#115e59">Development Necessity — Global South</text>
+<text x="27" y="202" font-size="12" fill="#334155">Developing nations require steel, cement, and</text>
+<text x="27" y="220" font-size="12" fill="#334155">energy for basic infrastructure, urbanization,</text>
+<text x="27" y="238" font-size="12" fill="#334155">and poverty eradication.</text>
+<path d="M 200 250 L 200 262" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,262) rotate(90)" />
+<rect x="15" y="276" width="370" height="104" rx="8" fill="#fef2f2" stroke="#f87171" />
+<text x="27" y="298" font-size="13" font-weight="700" fill="#991b1b">The CBAM Distortion</text>
+<text x="27" y="320" font-size="12" fill="#334155">A uniform carbon price penalizes developing country</text>
+<text x="27" y="338" font-size="12" fill="#334155">goods where clean technology capital is expensive,</text>
+<text x="27" y="356" font-size="12" fill="#334155">without providing promised climate finance</text>
+<text x="27" y="374" font-size="12" fill="#334155">(USD 100B+ / NCQG) or technology transfer.</text>
+</svg>
+</div>
 
 ---
 

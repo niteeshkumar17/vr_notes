@@ -53,14 +53,28 @@
 
 > **Budget** = A record of **government receipts and expenditures**
 
-```
-                            BUDGET
-                 ┌────────────┴────────────┐
-             RECEIPTS                 EXPENDITURE
-          ┌──────┴──────┐          ┌──────┴──────┐
-       Revenue      Capital     Revenue      Capital
-       Receipts     Receipts    Expenditure  Expenditure
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 258" role="img" aria-label="Budget structure: receipts and expenditure, each split into revenue and capital" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="256" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="140" y="12" width="120" height="32" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">BUDGET</text>
+<path d="M 200 44 L 200 54 M 20 54 L 200 54 M 20 54 L 20 204 M 20 104 L 34 104 M 20 204 L 34 204" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="34" y="64" width="352" height="80" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="48" y="86" font-size="13" font-weight="700" fill="#1e40af">RECEIPTS</text>
+<rect x="46" y="98" width="160" height="32" rx="6" fill="#dbeafe" stroke="#93c5fd" />
+<text x="126" y="119" text-anchor="middle" font-size="12.5" fill="#1e40af">Revenue Receipts</text>
+<rect x="214" y="98" width="160" height="32" rx="6" fill="#dbeafe" stroke="#93c5fd" />
+<text x="294" y="119" text-anchor="middle" font-size="12.5" fill="#1e40af">Capital Receipts</text>
+<rect x="34" y="164" width="352" height="80" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="48" y="186" font-size="13" font-weight="700" fill="#92400e">EXPENDITURE</text>
+<rect x="46" y="198" width="160" height="32" rx="6" fill="#fef3c7" stroke="#fcd34d" />
+<text x="126" y="219" text-anchor="middle" font-size="12.5" fill="#92400e">Revenue Expenditure</text>
+<rect x="214" y="198" width="160" height="32" rx="6" fill="#fef3c7" stroke="#fcd34d" />
+<text x="294" y="219" text-anchor="middle" font-size="12.5" fill="#92400e">Capital Expenditure</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Budget structure — Receipts and Expenditure, each further classified into Revenue and Capital.</em></p>
 
 ---
 
@@ -355,15 +369,28 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 
 ### Two Dimensions
 
-```
-                    INCLUSIVE GROWTH
-               ┌──────────┴──────────┐
-         Physical Dev.           Human Dev.
-    ┌────────┼────────┐              │
-    │        │        │         Health &
-  Infra    Civic   Financial   Education
-  Dev.    Amenities Inclusion
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 296" role="img" aria-label="Two dimensions of inclusive growth: physical development and human development" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="294" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="110" y="12" width="180" height="32" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">INCLUSIVE GROWTH</text>
+<path d="M 200 44 L 200 54 M 20 54 L 200 54 M 20 54 L 20 249 M 20 132 L 34 132 M 20 249 L 34 249" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="34" y="64" width="352" height="136" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="48" y="86" font-size="13" font-weight="700" fill="#115e59">Physical Development</text>
+<rect x="46" y="96" width="328" height="28" rx="6" fill="#ccfbf1" stroke="#5eead4" />
+<text x="60" y="115" font-size="12" fill="#115e59">Infrastructure Development</text>
+<rect x="46" y="130" width="328" height="28" rx="6" fill="#ccfbf1" stroke="#5eead4" />
+<text x="60" y="149" font-size="12" fill="#115e59">Civic Amenities</text>
+<rect x="46" y="164" width="328" height="28" rx="6" fill="#ccfbf1" stroke="#5eead4" />
+<text x="60" y="183" font-size="12" fill="#115e59">Financial Inclusion</text>
+<rect x="34" y="214" width="352" height="70" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="48" y="236" font-size="13" font-weight="700" fill="#1e40af">Human Development</text>
+<rect x="46" y="246" width="328" height="28" rx="6" fill="#dbeafe" stroke="#93c5fd" />
+<text x="60" y="265" font-size="12" fill="#1e40af">Health &amp; Education</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Inclusive Growth = quantity + quality, delivered through two dimensions — Physical Development and Human Development.</em></p>
 
 ### F.1 Physical Development
 

@@ -179,17 +179,21 @@ President --(?discretion)--> appoints PM ---(PM's advice)---> President appoints
 ## 7. Cabinet — The Real Decision-Making Body
 
 ### Cabinet vs CoM Relationship
-```
-┌──────────────────────────────────────┐
-│         Council of Ministers (~69)     │
-│                                      │
-│    ┌──────────────────────┐          │
-│    │   CABINET (~30)      │          │
-│    │   (PM + 29 Cabinet   │   MoS,   │
-│    │    Ministers)         │   MoS-IC │
-│    └──────────────────────┘          │
-└──────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 196" role="img" aria-label="The Cabinet of about 30 ministers sits inside the Council of Ministers of about 69, alongside MoS and MoS with independent charge" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="194" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Cabinet sits inside the Council of Ministers</text>
+<rect x="16" y="36" width="368" height="146" rx="12" fill="#eff6ff" stroke="#60a5fa" />
+<text x="200" y="58" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Council of Ministers (~69)</text>
+<rect x="32" y="70" width="218" height="94" rx="10" fill="#e0e7ff" stroke="#818cf8" />
+<text x="141" y="102" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">CABINET (~30)</text>
+<text x="141" y="124" text-anchor="middle" font-size="12" fill="#334155">PM + 29 Cabinet</text>
+<text x="141" y="142" text-anchor="middle" font-size="12" fill="#334155">Ministers</text>
+<rect x="266" y="70" width="102" height="94" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-dasharray="4 3" />
+<text x="317" y="108" text-anchor="middle" font-size="12" fill="#334155">MoS,</text>
+<text x="317" y="128" text-anchor="middle" font-size="12" fill="#334155">MoS-IC</text>
+</svg>
+</div>
 
 ### Cabinet ≠ Council — Key Differences
 | Feature | Council of Ministers | Cabinet |

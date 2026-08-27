@@ -39,31 +39,40 @@ graph TD
 
 ### Historical Evolution: The 1978 *Bangalore Water Supply* Landmark Case
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│              BANGALORE WATER SUPPLY & SEWERAGE BOARD v. A. RAJAPPA (1978)               │
-│                 7-Judge Constitution Bench · Authored by Justice V.R. Krishna Iyer       │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. THE CLASSIC 'TRIPLE TEST':                                                           │
-│    An establishment is an 'Industry' under Section 2(j) of IDA 1947 if:                 │
-│    • (i)   Systematic and organized activity;                                           │
-│    • (ii)  Carried on through employer-employee cooperation;                            │
-│    • (iii) For the production and/or distribution of goods and services to satisfy      │
-│            human wants and desires (material, not purely spiritual/religious).          │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 2. SWEEPING INCLUSIVITY:                                                                │
-│    • Brought universities, schools, colleges, research institutes, hospitals,           │
-│      charitable institutions, clubs, cooperatives, and municipal corporations under     │
-│      the statutory umbrella of 'industry'.                                              │
-│    • Absence of profit motive or investment of capital was held IRRELEVANT.             │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 3. STRICT SOVEREIGN EXEMPTION:                                                          │
-│    • Exempted ONLY strict, primary, inalienable sovereign functions of the State        │
-│      (law & order, armed forces, administration of justice, legislation).               │
-│    • Welfare and economic/commercial departments of the State were treated as 'industry'│
-│      to protect functional autonomy of workers.                                         │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 526" role="img" aria-label="Anatomy of the 1978 Bangalore Water Supply judgment: the triple test, sweeping inclusivity and the strict sovereign exemption" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="524" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="12" y="10" width="376" height="62" rx="10" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="31" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Bangalore Water Supply &amp; Sewerage Board</text>
+<text x="200" y="48" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">v. A. Rajappa (1978)</text>
+<text x="200" y="64" text-anchor="middle" font-size="11.5" fill="#4338ca">7-Judge Constitution Bench · Justice V.R. Krishna Iyer</text>
+<rect x="12" y="84" width="376" height="146" rx="10" fill="#eff6ff" stroke="#60a5fa" />
+<text x="24" y="104" font-size="12.5" font-weight="700" fill="#1e40af">1. The Classic ‘Triple Test’ — Sec 2(j), IDA 1947</text>
+<text x="24" y="124" font-size="12" fill="#334155">An establishment is an ‘Industry’ under Section 2(j)</text>
+<text x="24" y="140" font-size="12" fill="#334155">of the IDA 1947 only if all three are satisfied:</text>
+<text x="24" y="156" font-size="12" fill="#334155">(i) Systematic and organized activity</text>
+<text x="24" y="172" font-size="12" fill="#334155">(ii) Carried on through employer–employee cooperation</text>
+<text x="24" y="188" font-size="12" fill="#334155">(iii) For the production and/or distribution of goods</text>
+<text x="33" y="204" font-size="12" fill="#334155">and services to satisfy human wants and desires</text>
+<text x="33" y="220" font-size="12" fill="#334155">(material, not purely spiritual/religious)</text>
+<rect x="12" y="242" width="376" height="130" rx="10" fill="#f0fdf4" stroke="#4ade80" />
+<text x="24" y="262" font-size="12.5" font-weight="700" fill="#166534">2. Sweeping Inclusivity</text>
+<text x="24" y="282" font-size="12" fill="#334155">• Brought universities, schools, colleges, research</text>
+<text x="33" y="298" font-size="12" fill="#334155">institutes, hospitals, charitable institutions,</text>
+<text x="33" y="314" font-size="12" fill="#334155">clubs, cooperatives and municipal corporations under</text>
+<text x="33" y="330" font-size="12" fill="#334155">the statutory umbrella of ‘industry’</text>
+<text x="24" y="346" font-size="12" fill="#334155">• Absence of profit motive or investment of capital</text>
+<text x="33" y="362" font-size="12" fill="#334155">was held IRRELEVANT</text>
+<rect x="12" y="384" width="376" height="130" rx="10" fill="#fffbeb" stroke="#fbbf24" />
+<text x="24" y="404" font-size="12.5" font-weight="700" fill="#92400e">3. Strict Sovereign Exemption</text>
+<text x="24" y="424" font-size="12" fill="#334155">• Exempted ONLY strict, primary, inalienable</text>
+<text x="33" y="440" font-size="12" fill="#334155">sovereign functions of the State — law &amp; order,</text>
+<text x="33" y="456" font-size="12" fill="#334155">armed forces, administration of justice, legislation</text>
+<text x="24" y="472" font-size="12" fill="#334155">• Welfare and economic/commercial departments of the</text>
+<text x="33" y="488" font-size="12" fill="#334155">State were treated as ‘industry’ to protect</text>
+<text x="33" y="504" font-size="12" fill="#334155">functional autonomy of workers</text>
+</svg>
+</div>
 
 ---
 
@@ -81,26 +90,31 @@ graph TD
 
 ### Constitutional & Economic Implications
 
-```
-                     ┌────────────────────────────────────────────────────────┐
-                     │   Article 19(1)(c): Right to Form Associations/Unions  │
-                     │   Article 43A: Workers' Participation in Management    │
-                     │   Article 43: Living Wage & Humane Working Conditions  │
-                     └───────────────────────────┬────────────────────────────┘
-                                                 │
-                                                 ▼
-     ┌───────────────────────────────────────────┴───────────────────────────────────────────┐
-     │                                                                                       │
-     ▼                                                                                       ▼
-┌──────────────────────────────────────────┐                           ┌──────────────────────────────────────────┐
-│          LABOUR PROTECTION WING          │                           │         ECONOMIC COMPETITIVENESS         │
-│ • Protection against unfair practices    │                           │ • Ease of Doing Business & investments   │
-│ • Safeguards against illegal retrenchment│                           │ • Reduction in vexatious litigation      │
-│ • Collective bargaining & strike rights  │                           │ • Clarity for non-profit & institutions  │
-│ • Social security & statutory dispute    │                           │ • Elimination of 48-year legal ambiguity │
-│   resolution tribunals                   │                           │ • Rationalisation of 29 labour laws      │
-└──────────────────────────────────────────┘                           └──────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 372" role="img" aria-label="Constitutional anchors branching into the labour protection wing and economic competitiveness" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="370" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="30" y="10" width="356" height="88" rx="10" fill="#e0e7ff" stroke="#818cf8" />
+<text x="208" y="30" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Constitutional Anchors</text>
+<text x="42" y="52" font-size="11.5" fill="#334155">Article 19(1)(c): Right to Form Associations/Unions</text>
+<text x="42" y="70" font-size="11.5" fill="#334155">Article 43A: Workers’ Participation in Management</text>
+<text x="42" y="88" font-size="11.5" fill="#334155">Article 43: Living Wage &amp; Humane Working Conditions</text>
+<path d="M 208 98 L 208 108 M 14 108 L 208 108 M 14 108 L 14 303 M 14 177 L 30 177 M 14 303 L 30 303" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="30" y="120" width="356" height="114" rx="10" fill="#f0fdf4" stroke="#4ade80" />
+<text x="42" y="140" font-size="12.5" font-weight="700" fill="#166534">Labour Protection Wing</text>
+<text x="42" y="160" font-size="12" fill="#334155">• Protection against unfair practices</text>
+<text x="42" y="176" font-size="12" fill="#334155">• Safeguards against illegal retrenchment</text>
+<text x="42" y="192" font-size="12" fill="#334155">• Collective bargaining &amp; strike rights</text>
+<text x="42" y="208" font-size="12" fill="#334155">• Social security &amp; statutory dispute</text>
+<text x="52" y="224" font-size="12" fill="#334155">resolution tribunals</text>
+<rect x="30" y="246" width="356" height="114" rx="10" fill="#eff6ff" stroke="#60a5fa" />
+<text x="42" y="266" font-size="12.5" font-weight="700" fill="#1e40af">Economic Competitiveness</text>
+<text x="42" y="286" font-size="12" fill="#334155">• Ease of Doing Business &amp; investments</text>
+<text x="42" y="302" font-size="12" fill="#334155">• Reduction in vexatious litigation</text>
+<text x="42" y="318" font-size="12" fill="#334155">• Clarity for non-profit &amp; institutions</text>
+<text x="42" y="334" font-size="12" fill="#334155">• Elimination of 48-year legal ambiguity</text>
+<text x="42" y="350" font-size="12" fill="#334155">• Rationalisation of 29 labour laws</text>
+</svg>
+</div>
 
 #### 1. Separation of Powers & Legislative Supremacy
 * The 1978 *Bangalore Water Supply* judgment was delivered in an era where Parliament had not comprehensively codified industrial jurisprudence, prompting the Supreme Court to adopt an expansive judicial interpretation to protect vulnerable labour.
@@ -148,58 +162,26 @@ graph TD
 
 ### The Dangerous Jurisprudential Doctrine: "Truth is No Defence"
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                    THE STATE OF MYSORE v. HENRY RODRIGUES (1961)                        │
-│                 Mysore High Court (Following Allahabad High Court Rule)                 │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ • Case Background:                                                                      │
-│   Catholic editor Henry Rodrigues wrote an article titled 'Honour to Mary or            │
-│   Dishonour?' in Konkani magazine 'Crusader', criticising priests for exploiting       │
-│   credulous followers by attributing fake miracles to the Virgin Mary.                  │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ • The Defence of Truth:                                                                 │
-│   The accused pleaded that his critique was factually true, biblically accurate, and    │
-│   aimed at weeding out superstition from within his own faith.                          │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ • The Shocking Judicial Verdict:                                                        │
-│   The High Court rejected the defence outright:                                         │
-│   "Even a wholly true statement can outrage religious feelings. Section 295A punishes    │
-│   the intent to outrage rather than the accuracy of what is said."                      │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ • The Fatal Flaw for Social Reform:                                                     │
-│   Because truth and factual accuracy provide NO legal immunity, any rationalist or      │
-│   reformer exposing exploitative religious practices can be convicted under penal law.  │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
+***The State of Mysore v. Henry Rodrigues (1961)*** — Mysore High Court (following the Allahabad High Court rule)
+
+| Stage | Substance |
+|:---|:---|
+| **Case Background** | Catholic editor **Henry Rodrigues** wrote an article titled *'Honour to Mary or Dishonour?'* in the Konkani magazine *'Crusader'*, criticising priests for exploiting credulous followers by attributing fake miracles to the Virgin Mary. |
+| **The Defence of Truth** | The accused pleaded that his critique was **factually true, biblically accurate**, and aimed at weeding out superstition from within his own faith. |
+| **The Shocking Judicial Verdict** | The High Court rejected the defence outright: *"Even a wholly true statement can outrage religious feelings. Section 295A punishes the intent to outrage rather than the accuracy of what is said."* |
+| **The Fatal Flaw for Social Reform** | Because truth and factual accuracy provide **NO legal immunity**, any rationalist or reformer exposing exploitative religious practices can be convicted under penal law. |
 
 ---
 
 ### How Blasphemy Laws Would Criminalize India's Greatest Social Reformers
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                  REFORMERS AT RISK UNDER LITERAL 295A / 299 BNS LENS                    │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. Mahatma Jyotirao Phule (1870s):                                                      │
-│    • Authored 'Gulamgiri' (Slavery), attacking Brahminical supremacy and priestly       │
-│      exploitation, and recasting mythology to awaken oppressed castes.                 │
-│    • Under a literal reading of Section 295A/299 BNS, his writings would be prosecuted │
-│      for insulting orthodox sentiments and traditions.                                  │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 2. Hamid Dalwai & Muslim Satyashodhak Mandal (1960s–70s):                               │
-│    • Founded the Muslim Satyashodhak Mandal; led historic march of Muslim women to the  │
-│      Maharashtra Assembly demanding an immediate ban on Triple Talaq and Polygamy.     │
-│    • Faced severe ostracism and would easily have been jailed under sacrilege/295A      │
-│      complaints for challenging personal laws.                                          │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 3. Dr. B.R. Ambedkar (1927–1956):                                                       │
-│    • Publicly burnt the 'Manusmriti' at Mahad Satyagraha (1927); authored 'Annihilation │
-│      of Caste' and 'Riddles in Hinduism' dismantling orthodoxy.                         │
-│    • Stated that religion must not be allowed to act as an unassailable veto over       │
-│      modern constitutional morality.                                                    │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
+**Reformers at risk under a literal 295A / 299 BNS lens:**
+
+| Reformer (Period) | Reformist Act / Writing | Penal Exposure / Stance |
+|:---|:---|:---|
+| **Mahatma Jyotirao Phule** (1870s) | Authored *'Gulamgiri'* (Slavery), attacking Brahminical supremacy and priestly exploitation, and recasting mythology to awaken oppressed castes. | Under a literal reading of **Section 295A / 299 BNS**, his writings would be prosecuted for insulting orthodox sentiments and traditions. |
+| **Hamid Dalwai & Muslim Satyashodhak Mandal** (1960s–70s) | Founded the Muslim Satyashodhak Mandal; led a historic march of Muslim women to the Maharashtra Assembly demanding an immediate ban on Triple Talaq and Polygamy. | Faced severe ostracism and would easily have been jailed under **sacrilege / 295A complaints** for challenging personal laws. |
+| **Dr. B.R. Ambedkar** (1927–1956) | Publicly burnt the *'Manusmriti'* at Mahad Satyagraha (1927); authored *'Annihilation of Caste'* and *'Riddles in Hinduism'*, dismantling orthodoxy. | Stated that religion must not be allowed to act as an **unassailable veto over modern constitutional morality**. |
 
 ---
 
@@ -217,33 +199,39 @@ graph TD
 
 ### Constitutional Synthesis & The Way Forward
 
-```
-                              ┌───────────────────────────────────┐
-                              │  CONSTITUENT ASSEMBLY DEBATES     │
-                              │  (Dr. B.R. Ambedkar — Dec 2, 1948)│
-                              └─────────────────┬─────────────────┘
-                                                │
-                                                ▼
-     ┌─────────────────────────────────────────────────────────────────────────────────────┐
-     │ "I personally do not understand why religion should be given this vast, expansive  │
-     │ jurisdiction so as to cover the whole of life and to prevent the legislature from   │
-     │ encroaching upon that field... Personal law shall not be excluded from the State."  │
-     └──────────────────────────────────────────┬──────────────────────────────────────────┘
-                                                │
-                                                ▼
- ┌──────────────────────────────────────────────┴──────────────────────────────────────────────┐
- │                                                                                            │
- ▼                                                                                            ▼
-┌─────────────────────────────────────────┐                        ┌─────────────────────────────────────────┐
-│     ARTICLE 19(1)(a) & 19(2) FREEDOM    │                        │    ARTICLE 25(2)(b) REFORM MANDATE      │
-│ • Free speech is the lifeblood of       │                        │ • State retains inherent sovereignty to │
-│   democracy and scientific temper       │                        │   reform regressive religious practices │
-│ • Article 51A(h): Duty to develop       │                        │ • Religious sentiment cannot veto social│
-│   inquiry and reform                    │                        │   justice or human dignity              │
-│ • 'Spark in Powder Keg' test required   │                        │ • Anti-superstition & anti-black magic  │
-│   (S. Rangarajan / Shreya Singhal)      │                        │   laws must override penal blasphemy    │
-└─────────────────────────────────────────┘                        └─────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" role="img" aria-label="Ambedkar's Constituent Assembly stance flowing into Article 19 free speech and Article 25(2)(b) reform mandate" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="478" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="30" y="10" width="356" height="48" rx="10" fill="#e0e7ff" stroke="#818cf8" />
+<text x="208" y="30" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Constituent Assembly Debates</text>
+<text x="208" y="47" text-anchor="middle" font-size="11.5" fill="#4338ca">Dr. B.R. Ambedkar — Dec 2, 1948</text>
+<line x1="208" y1="58" x2="208" y2="68" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(208,68) rotate(90)" />
+<rect x="30" y="84" width="356" height="94" rx="10" fill="#fffbeb" stroke="#fbbf24" />
+<text x="42" y="104" font-size="11.5" font-style="italic" fill="#92400e">“I personally do not understand why religion</text>
+<text x="42" y="120" font-size="11.5" font-style="italic" fill="#92400e">should be given this vast, expansive jurisdiction</text>
+<text x="42" y="136" font-size="11.5" font-style="italic" fill="#92400e">so as to cover the whole of life and to prevent</text>
+<text x="42" y="152" font-size="11.5" font-style="italic" fill="#92400e">the legislature from encroaching upon that field...</text>
+<text x="42" y="168" font-size="11.5" font-style="italic" fill="#92400e">Personal law shall not be excluded from the State.”</text>
+<path d="M 208 178 L 208 188 M 14 188 L 208 188 M 14 188 L 14 403 M 14 261 L 30 261 M 14 403 L 30 403" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="30" y="196" width="356" height="130" rx="10" fill="#eff6ff" stroke="#60a5fa" />
+<text x="42" y="216" font-size="12.5" font-weight="700" fill="#1e40af">Article 19(1)(a) &amp; 19(2) Freedom</text>
+<text x="42" y="236" font-size="12" fill="#334155">• Free speech is the lifeblood of democracy</text>
+<text x="52" y="252" font-size="12" fill="#334155">and scientific temper</text>
+<text x="42" y="268" font-size="12" fill="#334155">• Article 51A(h): Duty to develop inquiry</text>
+<text x="52" y="284" font-size="12" fill="#334155">and reform</text>
+<text x="42" y="300" font-size="12" fill="#334155">• ‘Spark in Powder Keg’ test required</text>
+<text x="52" y="316" font-size="12" fill="#334155">(S. Rangarajan / Shreya Singhal)</text>
+<rect x="30" y="338" width="356" height="130" rx="10" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="42" y="358" font-size="12.5" font-weight="700" fill="#115e59">Article 25(2)(b) Reform Mandate</text>
+<text x="42" y="378" font-size="12" fill="#334155">• State retains inherent sovereignty to reform</text>
+<text x="52" y="394" font-size="12" fill="#334155">regressive religious practices</text>
+<text x="42" y="410" font-size="12" fill="#334155">• Religious sentiment cannot veto social justice</text>
+<text x="52" y="426" font-size="12" fill="#334155">or human dignity</text>
+<text x="42" y="442" font-size="12" fill="#334155">• Anti-superstition &amp; anti-black magic laws</text>
+<text x="52" y="458" font-size="12" fill="#334155">must override penal blasphemy</text>
+</svg>
+</div>
 
 #### 1. Narrowing Penal Scope to "Incitement to Imminent Violence"
 * In modern constitutional democracies, the threshold for criminalizing speech must strictly be **direct and proximate incitement to imminent lawless action** (the *Brandenburg v. Ohio* standard, recognized in *Shreya Singhal v. Union of India (2015)*).

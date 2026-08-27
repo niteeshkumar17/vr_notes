@@ -37,32 +37,14 @@ graph TD
 
 ### Structural Comparison: MGNREGA vs. VB-G RAM G Act
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                    RURAL EMPLOYMENT PARADIGM SHIFT (COMPARATIVE MATRIX)                  │
-├────────────────────────────┬─────────────────────────────┬──────────────────────────────┤
-│ DIMENSION                  │ MGNREGA (2005) [REPEALED]   │ VB-G RAM G ACT [SUCCESSOR]   │
-├────────────────────────────┼─────────────────────────────┼──────────────────────────────┤
-│ 1. Legal Architecture      │ Demand-driven, rights-based │ Supply-driven, centrally     │
-│                            │ statutory entitlement       │ controlled allocation        │
-├────────────────────────────┼─────────────────────────────┼──────────────────────────────┤
-│ 2. Work Guarantee          │ 100 days per rural          │ 125 days per rural           │
-│                            │ household per financial yr  │ household per financial yr   │
-├────────────────────────────┼─────────────────────────────┼──────────────────────────────┤
-│ 3. Funding Ratio           │ 90:10 (Centre : State)      │ 60:40 (Centre : State)       │
-│    (Centre : State)        │ (Centre bore 100% unskilled │ (States bear 40% total costs │
-│                            │ wage cost + 75% material)   │ including wage component)    │
-├────────────────────────────┼─────────────────────────────┼──────────────────────────────┤
-│ 4. State Fiscal Impact     │ Predictable, lower burden   │ Three-fold increase in state │
-│                            │ on state treasuries         │ budgetary contribution       │
-├────────────────────────────┼─────────────────────────────┼──────────────────────────────┤
-│ 5. Ground Implementation   │ Pan-India social safety net │ Civil society reports 50%    │
-│    Outcomes                │ acting as shock absorber    │ drop in person-days generated│
-├────────────────────────────┼─────────────────────────────┼──────────────────────────────┤
-│ 6. Wage Fixation           │ Indexed to CPI-AL via       │ Prescribed graded/compensa-  │
-│    Mechanism               │ statutory Central base rate │ tory rates linked to states  │
-└────────────────────────────┴─────────────────────────────┴──────────────────────────────┘
-```
+| Dimension | MGNREGA (2005) — *Repealed* | VB-G RAM G Act — *Successor* |
+|:---|:---|:---|
+| **1. Legal Architecture** | **Demand-driven, rights-based** statutory entitlement | **Supply-driven**, centrally controlled allocation |
+| **2. Work Guarantee** | **100 days** per rural household per financial year | **125 days** per rural household per financial year |
+| **3. Funding Ratio** (Centre : State) | **90:10** — Centre bore 100% of unskilled wage cost + 75% of material cost | **60:40** — States bear 40% of total costs, including the wage component |
+| **4. State Fiscal Impact** | Predictable, lower burden on state treasuries | **Three-fold increase** in state budgetary contribution |
+| **5. Ground Implementation Outcomes** | Pan-India social safety net acting as a shock absorber | Civil society reports **50% drop** in person-days generated |
+| **6. Wage Fixation Mechanism** | Indexed to **CPI-AL** via a statutory Central base rate | Prescribed **graded / compensatory rates** linked to states |
 
 ---
 
@@ -119,51 +101,63 @@ graph TD
 
 ### Landmark Supreme Court Precedents on Minimum Wages & Forced Labour
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│              LANDMARK JURISPRUDENCE ON ARTICLE 23 & STATUTORY MINIMUM WAGES             │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. PEOPLE'S UNION FOR DEMOCRATIC RIGHTS (PUDR) v. UNION OF INDIA (1982)                 │
-│    (The Celebrated 'Asiad Workers Case' — Authored by Justice P.N. Bhagwati)            │
-│    • Held that 'force' under Article 23 is not confined to physical or legal force.     │
-│    • Economic force — arising from poverty, hunger, unemployment, and destitution —     │
-│      which compels a person to work for remuneration LESS than the minimum wage,        │
-│      constitutes FORCED LABOUR violating Article 23.                                     │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 2. SANJIT ROY v. STATE OF RAJASTHAN (1983)                                              │
-│    • The State engaged workers in famine relief / drought works and paid wages below    │
-│      the Minimum Wages Act under the Rajasthan Famine Relief Works Act.                 │
-│    • Supreme Court struck down the statutory exception, holding that the State cannot   │
-│      exploit citizens' distress to deny minimum wages. Every worker providing labor is  │
-│      constitutionally entitled to full statutory minimum wages under Article 23.        │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│ 3. OLGA TELLIS v. BOMBAY MUNICIPAL CORPORATION (1985)                                   │
-│    • 5-Judge Constitution Bench ruled that Right to Life under Article 21 encompasses   │
-│      the Right to Livelihood: "Deprive a person of his right to livelihood and you      │
-│      shall have deprived him of his life."                                              │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 447" role="img" aria-label="Landmark Supreme Court precedents on Article 23 and statutory minimum wages" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="445" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="24" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Article 23 &amp; Statutory Minimum Wages</text>
+<text x="200" y="42" text-anchor="middle" font-size="11.5" fill="#64748b">Landmark Supreme Court jurisprudence</text>
+<rect x="12" y="54" width="376" height="139" rx="10" fill="#fef2f2" stroke="#fecaca" />
+<text x="24" y="75" font-size="12.5" font-weight="700" fill="#991b1b">1. PUDR v. Union of India (1982)</text>
+<text x="24" y="92" font-size="11.5" font-style="italic" fill="#b91c1c">The ‘Asiad Workers Case’ — Justice P.N. Bhagwati</text>
+<text x="24" y="112" font-size="11.5" fill="#334155">• ‘Force’ in Article 23 is not confined to physical</text>
+<text x="24" y="129" font-size="11.5" fill="#334155">  or legal force</text>
+<text x="24" y="147" font-size="11.5" fill="#334155">• Economic force — poverty, hunger, unemployment,</text>
+<text x="24" y="164" font-size="11.5" fill="#334155">  destitution — compelling work below minimum wage</text>
+<text x="24" y="182" font-size="11.5" font-weight="700" fill="#991b1b">• Such work = FORCED LABOUR, violating Article 23</text>
+<rect x="12" y="203" width="376" height="120" rx="10" fill="#fffbeb" stroke="#fde68a" />
+<text x="24" y="224" font-size="12.5" font-weight="700" fill="#92400e">2. Sanjit Roy v. State of Rajasthan (1983)</text>
+<text x="24" y="244" font-size="11.5" fill="#334155">• State paid below-minimum wages on famine / drought</text>
+<text x="24" y="260" font-size="11.5" fill="#334155">  works under the Rajasthan Famine Relief Works Act</text>
+<text x="24" y="278" font-size="11.5" fill="#334155">• SC struck down that statutory exception</text>
+<text x="24" y="296" font-size="11.5" fill="#334155">• State cannot exploit distress: every worker gets</text>
+<text x="24" y="312" font-size="11.5" fill="#334155">  full statutory minimum wages under Article 23</text>
+<rect x="12" y="333" width="376" height="102" rx="10" fill="#eff6ff" stroke="#bfdbfe" />
+<text x="24" y="354" font-size="12.5" font-weight="700" fill="#1e40af">3. Olga Tellis v. Bombay Municipal Corp. (1985)</text>
+<text x="24" y="374" font-size="11.5" fill="#334155">• 5-Judge Constitution Bench: Right to Life under</text>
+<text x="24" y="390" font-size="11.5" fill="#334155">  Article 21 encompasses the Right to Livelihood</text>
+<text x="24" y="408" font-size="11.5" font-style="italic" fill="#1e3a8a">“Deprive a person of his right to livelihood and</text>
+<text x="24" y="424" font-size="11.5" font-style="italic" fill="#1e3a8a">you shall have deprived him of his life.”</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Work extracted below the statutory minimum wage is forced labour (<em>begar</em>) under Article 23, and livelihood is part of the Article 21 right to life.</em></p>
 
 ---
 
 ### Analytical Insights for UPSC Mains (GS-2 & GS-3)
 
-```
-                               ┌───────────────────────────────────┐
-                               │   RURAL WELFARE TRILEMMA          │
-                               └─────────────────┬─────────────────┘
-                                                 │
-                                                 ▼
-      ┌──────────────────────────────────────────┴──────────────────────────────────────────┐
-      │                                          │                                          │
-      ▼                                          ▼                                          ▼
-┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐
-│     FISCAL FEASIBILITY    │      │    STATUTORY COMPLIANCE   │      │    HUMAN DIGNITY & WORK   │
-│ • State 60:40 fiscal load │      │ • Strict minimum wage law │      │ • Social safety net       │
-│ • Union budget caps       │      │ • Timely wage disbursal   │      │ • Prevention of distress  │
-│ • Off-budget liabilities  │      │ • Delay compensation (15d)│        migration & rural hunger  │
-└───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 351" role="img" aria-label="Rural welfare trilemma: fiscal feasibility, statutory compliance and human dignity" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="349" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="90" y="12" width="220" height="32" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">Rural Welfare Trilemma</text>
+<path d="M 200 44 L 200 54 M 14 54 L 200 54 M 14 54 L 14 302 M 14 110 L 30 110 M 14 210 L 30 210 M 14 302 L 30 302" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="30" y="64" width="356" height="91" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="42" y="86" font-size="13" font-weight="700" fill="#92400e">Fiscal Feasibility</text>
+<text x="42" y="108" font-size="11.5" fill="#334155">• State 60:40 fiscal load</text>
+<text x="42" y="126" font-size="11.5" fill="#334155">• Union budget caps</text>
+<text x="42" y="144" font-size="11.5" fill="#334155">• Off-budget liabilities</text>
+<rect x="30" y="165" width="356" height="91" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="42" y="187" font-size="13" font-weight="700" fill="#1e40af">Statutory Compliance</text>
+<text x="42" y="209" font-size="11.5" fill="#334155">• Strict minimum wage law</text>
+<text x="42" y="227" font-size="11.5" fill="#334155">• Timely wage disbursal</text>
+<text x="42" y="245" font-size="11.5" fill="#334155">• Delay compensation (15 days)</text>
+<rect x="30" y="266" width="356" height="73" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="42" y="288" font-size="13" font-weight="700" fill="#115e59">Human Dignity &amp; Work</text>
+<text x="42" y="310" font-size="11.5" fill="#334155">• Social safety net</text>
+<text x="42" y="328" font-size="11.5" fill="#334155">• Prevention of distress migration &amp; rural hunger</text>
+</svg>
+</div>
 
 1. **The Employment Elasticity Dilemma:**
    - As noted by the Bench, setting unrealistically high statutory wage thresholds without corresponding fiscal outlays may shrink the overall volume of person-days generated, unintentionally shutting out the poorest casual laborers.

@@ -103,15 +103,20 @@
 
 #### Ancient India: Religion Defines Politics
 
-```
-       ┌─────────┐
-       │ POLITICS│ ← Superstructure
-       │ (Raja)  │
-       ├─────────┤
-       │RELIGION │ ← Base/Foundation
-       │(Dharma) │
-       └─────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" role="img" aria-label="Ancient India state pyramid: religion is the base, politics the superstructure" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="158" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Ancient India</text>
+<rect x="24" y="40" width="170" height="52" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="109" y="63" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">POLITICS</text>
+<text x="109" y="82" text-anchor="middle" font-size="12" fill="#334155">(Raja)</text>
+<rect x="24" y="92" width="170" height="52" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="109" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">RELIGION</text>
+<text x="109" y="134" text-anchor="middle" font-size="12" fill="#334155">(Dharma)</text>
+<text x="206" y="70" font-size="12" font-weight="600" fill="#475569">← Superstructure</text>
+<text x="206" y="122" font-size="12" font-weight="600" fill="#475569">← Base / Foundation</text>
+</svg>
+</div>
 
 *   Religion is the **strongest foundation** of the Raja.
 *   Raja is religious → through religion he protects the people.
@@ -120,15 +125,21 @@
 
 #### Early Medieval India: Politics Defines Religion (The Inversion)
 
-```
-       ┌─────────┐
-       │RELIGION │ ← Superstructure (used to justify politics)
-       │(Dharma) │
-       ├─────────┤
-       │ POLITICS│ ← Base/Foundation
-       │ (Raja)  │
-       └─────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" role="img" aria-label="Early medieval India state pyramid inverted: politics is the base, religion the superstructure" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="158" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Early Medieval India</text>
+<rect x="24" y="40" width="170" height="52" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="109" y="63" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">RELIGION</text>
+<text x="109" y="82" text-anchor="middle" font-size="12" fill="#334155">(Dharma)</text>
+<rect x="24" y="92" width="170" height="52" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="109" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">POLITICS</text>
+<text x="109" y="134" text-anchor="middle" font-size="12" fill="#334155">(Raja)</text>
+<text x="206" y="62" font-size="12" font-weight="600" fill="#475569">← Superstructure</text>
+<text x="206" y="79" font-size="11.5" fill="#64748b">(used to justify politics)</text>
+<text x="206" y="122" font-size="12" font-weight="600" fill="#475569">← Base / Foundation</text>
+</svg>
+</div>
 
 *   Raja is **more concerned about politics** — uses religion to **substantiate** his political actions.
 *   This is called **Medieval Realism** (*Rajyavadi* / Realpolitik).
@@ -698,22 +709,27 @@ Each zone has an **Exoteric** (Puram — external/physical) and **Esoteric** (Ah
 
 ### B. Social Hierarchy
 
-```
-┌──────────────────────────────────────┐
-│           AVENTA (King)               │ ← From Marutam; King = God
-├──────────────────────────────────────┤
-│   HEREDITARY NOBLES                  │
-│   Olay & Arayan                      │ ← Warriors, merchants (relatives)
-├──────────────────────────────────────┤
-│   NON-HEREDITARY OFFICIALS           │
-│   Velen (Magistrate) &              │ ← Anyone can be Velen, even
-│   Padimagalir (Women Officials)     │   untouchables
-├──────────────────────────────────────┤
-│   KELIR (Agriculturalist Class)      │
-│   • Brahman → Udaiyar              │
-│   • Non-Brahman → Vellalar          │
-└──────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 288" role="img" aria-label="South Indian social hierarchy from Aventa the king down to the Kelir agriculturalist class" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="286" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">South Indian Social Hierarchy</text>
+<rect x="14" y="36" width="372" height="44" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="26" y="56" font-size="13" font-weight="700" fill="#3730a3">AVENTA (King)</text>
+<text x="26" y="73" font-size="11.5" fill="#334155">From Marutam; King = God</text>
+<rect x="14" y="86" width="372" height="44" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="26" y="106" font-size="13" font-weight="700" fill="#1e40af">HEREDITARY NOBLES — Olay &amp; Arayan</text>
+<text x="26" y="123" font-size="11.5" fill="#334155">Warriors, merchants (relatives of the king)</text>
+<rect x="14" y="136" width="372" height="62" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="26" y="156" font-size="13" font-weight="700" fill="#115e59">NON-HEREDITARY OFFICIALS</text>
+<text x="26" y="174" font-size="11.5" fill="#334155">Velen (Magistrate) &amp; Padimagalir (Women Officials)</text>
+<text x="26" y="191" font-size="11.5" fill="#334155">Anyone can be Velen — even untouchables</text>
+<rect x="14" y="204" width="372" height="62" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="26" y="224" font-size="13" font-weight="700" fill="#166534">KELIR (Agriculturalist Class)</text>
+<text x="26" y="242" font-size="11.5" fill="#334155">• Brahman → Udaiyar</text>
+<text x="26" y="259" font-size="11.5" fill="#334155">• Non-Brahman → Vellalar</text>
+<text x="200" y="281" text-anchor="middle" font-size="11.5" font-style="italic" fill="#64748b">Status descends from top to bottom</text>
+</svg>
+</div>
 
 ### C. Administrative Divisions
 
@@ -813,28 +829,44 @@ Each zone has an **Exoteric** (Puram — external/physical) and **Esoteric** (Ah
 
 #### Pallava Succession Crisis & Rise of Cholas
 
-```
-Nandivarman III (no successor announced)
-       ↓
-   ┌───────────────┐
-   │               │
-Nripatunga      Aparajita
-(helped by       (helped by
- PANDYA            a local chief
- Varaguna)         ADITYA — Cholas)
-   │               │
-   └──── CIVIL WAR ────┘
-           ↓
-     Aparajita WON
-           ↓
-   Aditya (Chola) & Aparajita
-      became enemies
-           ↓
-   Aditya KILLED Aparajita
-           ↓
-   PALLAVAS COLLAPSED
-   CHOLAS ROSE (from Pallava feudatories)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Pallava succession crisis: Nandivarman III's sons Nripatunga and Aparajita fight a civil war, ending in the collapse of the Pallavas and the rise of the Cholas" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="438" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="70" y="12" width="260" height="42" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="32" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Nandivarman III</text>
+<text x="200" y="48" text-anchor="middle" font-size="11.5" fill="#334155">(no successor announced)</text>
+<path d="M 200 54 L 200 64 M 104 64 L 296 64 M 104 64 L 104 76 M 296 64 L 296 76" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="14" y="76" width="180" height="66" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="104" y="96" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">Nripatunga</text>
+<text x="104" y="114" text-anchor="middle" font-size="11.5" fill="#334155">helped by PANDYA</text>
+<text x="104" y="131" text-anchor="middle" font-size="11.5" fill="#334155">Varaguna</text>
+<rect x="206" y="76" width="180" height="66" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="296" y="96" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Aparajita</text>
+<text x="296" y="114" text-anchor="middle" font-size="11.5" fill="#334155">helped by local chief</text>
+<text x="296" y="131" text-anchor="middle" font-size="11.5" fill="#334155">ADITYA — the Cholas</text>
+<path d="M 104 142 L 104 154 M 296 142 L 296 154 M 104 154 L 296 154 M 200 154 L 200 164" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="120" y="166" width="160" height="30" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="186" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">CIVIL WAR</text>
+<line x1="200" y1="198" x2="200" y2="204" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,204) rotate(90)" />
+<rect x="90" y="214" width="220" height="30" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="200" y="234" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Aparajita WON</text>
+<line x1="200" y1="246" x2="200" y2="252" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,252) rotate(90)" />
+<rect x="50" y="262" width="300" height="44" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="200" y="282" text-anchor="middle" font-size="12.5" font-weight="600" fill="#92400e">Aditya (Chola) &amp; Aparajita</text>
+<text x="200" y="299" text-anchor="middle" font-size="12" fill="#334155">became enemies</text>
+<line x1="200" y1="308" x2="200" y2="314" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,314) rotate(90)" />
+<rect x="50" y="324" width="300" height="30" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="344" text-anchor="middle" font-size="12.5" font-weight="600" fill="#991b1b">Aditya KILLED Aparajita</text>
+<line x1="200" y1="356" x2="200" y2="362" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(200,362) rotate(90)" />
+<rect x="30" y="372" width="340" height="54" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="394" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">PALLAVAS COLLAPSED · CHOLAS ROSE</text>
+<text x="200" y="412" text-anchor="middle" font-size="11.5" fill="#334155">Cholas rose from Pallava feudatories</text>
+</svg>
+</div>
 
 *   *Key Distinction*: **Pallavas** (early medieval) ≠ **Pahlavas** (ancient India) — different spelling, different kingdoms.
 
@@ -905,24 +937,55 @@ Nripatunga      Aparajita
 
 #### Rajendra's Four Sons & Later Cholas
 
-```
-Rajendra I
-├── Rajdhiraja (died quickly)
-├── Rajendra II (died quickly)
-├── Vira Rajendra (died quickly)
-│     (3 sons died in quick succession)
-│
-└── Sundara Chola Pandya (sent to Madurai as governor)
-         → performed yajna → added surname "Pandya"
-         → REFUSED to return → established NEW PANDYAN KINGDOM
-         → Jatavarman Sundara Pandya (descendant)
-         → Jatavarman Vira Pandya (descendant — visited by MARCO POLO)
-
-Since all 3 sons of Rajendra died and the 4th refused to return:
-→ Chola princess married into EASTERN CHALUKYA family
-→ Their son brought to Chola kingdom
-→ Named: KULOTTUNGA I (actually an Eastern Chalukyan boy)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 628" role="img" aria-label="Rajendra I's four sons, the new Pandyan line from Sundara Chola Pandya, and the accession of Kulottunga I" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="626" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="120" y="12" width="160" height="30" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="32" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">Rajendra I</text>
+<path d="M 200 42 L 200 50 M 20 50 L 200 50 M 20 50 L 20 198 M 20 71 L 34 71 M 20 103 L 34 103 M 20 135 L 34 135 M 20 198 L 34 198" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="34" y="58" width="352" height="26" rx="7" fill="#fef2f2" stroke="#fecaca" />
+<text x="46" y="76" font-size="12" fill="#991b1b">Rajdhiraja — died quickly</text>
+<rect x="34" y="90" width="352" height="26" rx="7" fill="#fef2f2" stroke="#fecaca" />
+<text x="46" y="108" font-size="12" fill="#991b1b">Rajendra II — died quickly</text>
+<rect x="34" y="122" width="352" height="26" rx="7" fill="#fef2f2" stroke="#fecaca" />
+<text x="46" y="140" font-size="12" fill="#991b1b">Vira Rajendra — died quickly</text>
+<text x="46" y="166" font-size="11.5" font-style="italic" fill="#64748b">All 3 sons died in quick succession</text>
+<rect x="34" y="176" width="352" height="44" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="46" y="196" font-size="13" font-weight="700" fill="#92400e">Sundara Chola Pandya</text>
+<text x="46" y="213" font-size="11.5" fill="#334155">sent to Madurai as governor</text>
+<line x1="210" y1="222" x2="210" y2="228" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,228) rotate(90)" />
+<rect x="40" y="238" width="340" height="28" rx="7" fill="#fffbeb" stroke="#fbbf24" />
+<text x="210" y="257" text-anchor="middle" font-size="12" fill="#334155">Performed yajna → added surname "Pandya"</text>
+<line x1="210" y1="268" x2="210" y2="274" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,274) rotate(90)" />
+<rect x="40" y="284" width="340" height="44" rx="8" fill="#ccfbf1" stroke="#2dd4bf" />
+<text x="210" y="304" text-anchor="middle" font-size="12.5" font-weight="700" fill="#115e59">REFUSED to return</text>
+<text x="210" y="321" text-anchor="middle" font-size="11.5" fill="#334155">→ established NEW PANDYAN KINGDOM</text>
+<line x1="210" y1="330" x2="210" y2="336" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,336) rotate(90)" />
+<rect x="40" y="346" width="340" height="28" rx="7" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="210" y="365" text-anchor="middle" font-size="12" fill="#334155">Jatavarman Sundara Pandya (descendant)</text>
+<line x1="210" y1="376" x2="210" y2="382" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,382) rotate(90)" />
+<rect x="40" y="392" width="340" height="44" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="210" y="412" text-anchor="middle" font-size="12" fill="#334155">Jatavarman Vira Pandya (descendant)</text>
+<text x="210" y="429" text-anchor="middle" font-size="11.5" font-weight="600" fill="#115e59">visited by MARCO POLO</text>
+<line x1="20" y1="450" x2="380" y2="450" stroke="#e2e8f0" stroke-width="1" />
+<text x="200" y="470" text-anchor="middle" font-size="11.5" font-style="italic" fill="#64748b">3 sons died and the 4th refused to return, so:</text>
+<rect x="40" y="478" width="340" height="28" rx="7" fill="#dbeafe" stroke="#60a5fa" />
+<text x="210" y="497" text-anchor="middle" font-size="12" fill="#334155">Chola princess married into EASTERN CHALUKYAS</text>
+<line x1="210" y1="508" x2="210" y2="514" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,514) rotate(90)" />
+<rect x="40" y="524" width="340" height="28" rx="7" fill="#dbeafe" stroke="#60a5fa" />
+<text x="210" y="543" text-anchor="middle" font-size="12" fill="#334155">Their son brought to the Chola kingdom</text>
+<line x1="210" y1="554" x2="210" y2="560" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 10,0 0,5" fill="#94a3b8" transform="translate(210,560) rotate(90)" />
+<rect x="40" y="570" width="340" height="44" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="210" y="590" text-anchor="middle" font-size="13" font-weight="700" fill="#3730a3">KULOTTUNGA I</text>
+<text x="210" y="607" text-anchor="middle" font-size="11.5" fill="#334155">(actually an Eastern Chalukyan boy)</text>
+</svg>
+</div>
 
 #### Kulottunga & Later Cholas
 

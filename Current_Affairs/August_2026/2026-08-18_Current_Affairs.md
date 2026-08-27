@@ -52,32 +52,41 @@ graph TD
 
 ### Conceptual Framework: Elephant Corridors & Human-Elephant Conflict (HEC)
 
-```
-                              ┌──────────────────────────────────┐
-                              │  Linear Infrastructure Intrusion │
-                              │   (Highways, Railways, Canals)   │
-                              └─────────────────┬────────────────┘
-                                                │
-                                                ▼
-┌──────────────────────────────┐      ┌──────────────────┐      ┌──────────────────────────────┐
-│  Agricultural Encroachment   │ ───► │  Habitat & Range │ ◄─── │   State Border Blockades     │
-│  & Crop-Raiding Hotspots     │      │  Fragmentation   │      │   & Inhumane 'Hula' Parties  │
-└──────────────────────────────┘      └─────────┬────────┘      └──────────────────────────────┘
-                                                │
-                                                ▼
-                              ┌──────────────────────────────────┐
-                              │    Escalating Human-Elephant     │
-                              │          Conflict (HEC)          │
-                              └─────────────────┬────────────────┘
-                                                │
-                                                ▼
-                              ┌──────────────────────────────────┐
-                              │     Judicial Remedy (SC 2026)    │
-                              │  - Nationwide Corridor Survey    │
-                              │  - Free Ecological Passage       │
-                              │  - Enforcement of Fire/Spike Ban │
-                              └──────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 466" role="img" aria-label="Causal chain of elephant corridor fragmentation: linear infrastructure, agricultural encroachment and state border blockades drive habitat fragmentation, escalating human-elephant conflict and the Supreme Court remedy of 2026" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="464" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Elephant Corridors &amp; HEC Framework</text>
+<rect x="14" y="40" width="372" height="180" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-dasharray="5 4" />
+<text x="200" y="58" text-anchor="middle" font-size="12.5" font-weight="700" fill="#64748b">Pressure Drivers</text>
+<rect x="24" y="66" width="352" height="42" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="200" y="84" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">Linear Infrastructure Intrusion</text>
+<text x="200" y="101" text-anchor="middle" font-size="12" fill="#334155">Highways, Railways, Canals</text>
+<rect x="24" y="114" width="352" height="42" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="200" y="132" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">Agricultural Encroachment</text>
+<text x="200" y="149" text-anchor="middle" font-size="12" fill="#334155">&amp; Crop-Raiding Hotspots</text>
+<rect x="24" y="162" width="352" height="42" rx="8" fill="#fef2f2" stroke="#fecaca" />
+<text x="200" y="180" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">State Border Blockades</text>
+<text x="200" y="197" text-anchor="middle" font-size="12" fill="#334155">&amp; Inhumane 'Hula' Parties</text>
+<line x1="200" y1="220" x2="200" y2="232" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,230) rotate(90)" />
+<rect x="40" y="244" width="320" height="34" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="266" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">Habitat &amp; Range Fragmentation</text>
+<line x1="200" y1="278" x2="200" y2="290" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,288) rotate(90)" />
+<rect x="40" y="302" width="320" height="34" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="200" y="324" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">Escalating Human-Elephant Conflict (HEC)</text>
+<line x1="200" y1="336" x2="200" y2="348" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,346) rotate(90)" />
+<rect x="20" y="360" width="360" height="94" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="200" y="380" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Judicial Remedy (SC 2026)</text>
+<line x1="20" y1="390" x2="380" y2="390" stroke="#4ade80" stroke-width="1" />
+<text x="34" y="409" font-size="12" fill="#334155">• Nationwide Corridor Survey</text>
+<text x="34" y="427" font-size="12" fill="#334155">• Free Ecological Passage</text>
+<text x="34" y="445" font-size="12" fill="#334155">• Enforcement of Fire / Spike Ban</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Three independent pressures converge on the same outcome — habitat and range fragmentation — which escalates human-elephant conflict (HEC) and invites the Supreme Court's 2026 remedial directions.</em></p>
 
 #### 1. What are Elephant Corridors?
 * Narrow strips of ecologically viable land that connect two larger, viable elephant habitats/forest patches (*Right of Passage* report by Wildlife Trust of India / Project Elephant).
@@ -138,37 +147,40 @@ graph TD
 
 ### Statutory & Comparative Evolution of Nuclear Liability in India
 
-```
-┌──────────────────────────────────────────────────┐
-│   Civil Liability for Nuclear Damage Act (CLNDA) │
-│                       2010                       │
-├──────────────────────────────────────────────────┤
-│ • Section 17(b): Operator had Right of Recourse  │
-│   against supplier if defect/substandard supply  │
-│ • Strong deterrent against foreign suppliers     │
-│ • Caused friction in Indo-US / Indo-French deals │
-└────────────────────────┬─────────────────────────┘
-                         │
-                         ▼
-┌──────────────────────────────────────────────────┐
-│                SHANTI Act, 2025                  │
-├──────────────────────────────────────────────────┤
-│ • Aim: Accelerate private/foreign capital in SMRs│
-│   and civil nuclear energy expansion.            │
-│ • Operator Cap: ₹3,000 Crore.                    │
-│ • Govt Residual Cap: 300 Million SDR.            │
-│ • Exempts suppliers to unlock technology transfer│
-└────────────────────────┬─────────────────────────┘
-                         │
-                         ▼
-┌──────────────────────────────────────────────────┐
-│     Constitutional Challenge before SC (2026)    │
-├──────────────────────────────────────────────────┤
-│ • Infringement of M.C. Mehta Absolute Liability  │
-│ • Statutory Act cannot abridge Art 32/226 powers │
-│ • Disproportionate cap vs Chernobyl/Fukushima    │
-└──────────────────────────────────────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" role="img" aria-label="Statutory evolution of nuclear liability in India from the CLNDA 2010 right of recourse, to the SHANTI Act 2025 liability caps and supplier exemption, to the constitutional challenge before the Supreme Court in 2026" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="448" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="200" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Evolution of Nuclear Liability in India</text>
+<rect x="20" y="40" width="360" height="128" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="200" y="60" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">CLNDA, 2010</text>
+<text x="200" y="77" text-anchor="middle" font-size="11.5" fill="#1e40af">Civil Liability for Nuclear Damage Act</text>
+<line x1="20" y1="87" x2="380" y2="87" stroke="#60a5fa" stroke-width="1" />
+<text x="34" y="106" font-size="12" fill="#334155">• Sec 17(b): Operator had Right of Recourse</text>
+<text x="44" y="124" font-size="12" fill="#334155">against supplier if defect / substandard supply</text>
+<text x="34" y="142" font-size="12" fill="#334155">• Strong deterrent against foreign suppliers</text>
+<text x="34" y="160" font-size="12" fill="#334155">• Friction in Indo-US / Indo-French deals</text>
+<line x1="200" y1="168" x2="200" y2="180" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,178) rotate(90)" />
+<rect x="20" y="192" width="360" height="129" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="200" y="212" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">SHANTI Act, 2025</text>
+<line x1="20" y1="222" x2="380" y2="222" stroke="#fbbf24" stroke-width="1" />
+<text x="34" y="241" font-size="12" fill="#334155">• Aim: Accelerate private / foreign capital</text>
+<text x="44" y="259" font-size="12" fill="#334155">in SMRs &amp; civil nuclear energy expansion</text>
+<text x="34" y="277" font-size="12" fill="#334155">• Operator Cap: ₹3,000 Crore</text>
+<text x="34" y="295" font-size="12" fill="#334155">• Govt Residual Cap: 300 Million SDR</text>
+<text x="34" y="313" font-size="12" fill="#334155">• Exempts suppliers to unlock technology transfer</text>
+<line x1="200" y1="321" x2="200" y2="333" stroke="#94a3b8" stroke-width="1.5" />
+<polygon points="0,-5 12,0 0,5" fill="#94a3b8" transform="translate(200,331) rotate(90)" />
+<rect x="20" y="345" width="360" height="93" rx="8" fill="#fef2f2" stroke="#fecaca" />
+<text x="200" y="365" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">Constitutional Challenge before SC (2026)</text>
+<line x1="20" y1="375" x2="380" y2="375" stroke="#fecaca" stroke-width="1" />
+<text x="34" y="394" font-size="12" fill="#334155">• Infringement of M.C. Mehta Absolute Liability</text>
+<text x="34" y="412" font-size="12" fill="#334155">• Statutory Act cannot abridge Art 32/226 powers</text>
+<text x="34" y="430" font-size="12" fill="#334155">• Disproportionate cap vs Chernobyl / Fukushima</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> The supplier's right of recourse under CLNDA 2010 was withdrawn by the SHANTI Act 2025 to unlock foreign capital and technology — and that reversal is what is now under constitutional challenge.</em></p>
 
 ---
 
