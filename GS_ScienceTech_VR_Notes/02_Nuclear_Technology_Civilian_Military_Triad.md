@@ -26,28 +26,39 @@
 
 ## 2. Nuclear Technology — Dual-Use Spectrum
 
-```
-                          ┌─────────────────────────┐
-                          │   Nuclear Technology    │
-                          └────────────┬────────────┘
-                                       │
-            ┌──────────────────────────┴──────────────────────────┐
-            ▼                                                     ▼
-┌───────────────────────┐                             ┌───────────────────────┐
-│     Civilian Use      │                             │     Military Use      │
-└───────────┬───────────┘                             └───────────┬───────────┘
-            │                                                     │
-    ┌───────┴───────┐                                     ┌───────┴───────┐
-    ▼               ▼                                     ▼               ▼
-┌────────┐    ┌────────────┐                        ┌──────────┐    ┌───────────┐
-│ Energy │    │ Non-Energy │                        │ Weapons  │    │ Strategic │
-└───┬────┘    └─────┬──────┘                        └───┬──────┘    └─────┬─────┘
-    │               │                                   │                 │
-    ├─ Fission      ├─ Medicine (Radiotherapy)          ├─ Atom/Fission   ├─ Nuclear Subs (SSBN)
-    ├─ Fusion       ├─ Food Preservation (Irradiation)  └─ Hydrogen/      └─ Aircraft Carriers
-    └─ Radio-       ├─ Agriculture (Mutagenic Crops)       Thermonuclear
-       activity     └─ Industry (Tracing, Radiography)     (Fission+Fusion)
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 310" role="img" aria-label="Nuclear technology dual-use spectrum: civilian and military branches" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="308" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="100" y="12" width="200" height="32" rx="8" fill="#e2e8f0" stroke="#94a3b8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Nuclear Technology</text>
+<path d="M 200 44 L 200 58 M 102 58 L 298 58 M 102 58 L 102 72 M 298 58 L 298 72" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="15" y="72" width="175" height="28" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="102" y="91" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Civilian Use</text>
+<rect x="210" y="72" width="175" height="28" rx="8" fill="#fee2e2" stroke="#f87171" />
+<text x="297" y="91" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">Military Use</text>
+<line x1="200" y1="112" x2="200" y2="300" stroke="#e2e8f0" stroke-width="1" />
+<rect x="15" y="112" width="175" height="22" rx="6" fill="#f0fdf4" stroke="#bbf7d0" />
+<text x="24" y="128" font-size="12.5" font-weight="700" fill="#166534">Energy</text>
+<text x="24" y="152" font-size="12" fill="#334155">• Fission</text>
+<text x="24" y="170" font-size="12" fill="#334155">• Fusion</text>
+<text x="24" y="188" font-size="12" fill="#334155">• Radioactivity</text>
+<rect x="15" y="202" width="175" height="22" rx="6" fill="#f0fdf4" stroke="#bbf7d0" />
+<text x="24" y="218" font-size="12.5" font-weight="700" fill="#166534">Non-Energy</text>
+<text x="24" y="242" font-size="12" fill="#334155">• Medicine (Co-60)</text>
+<text x="24" y="260" font-size="12" fill="#334155">• Food irradiation</text>
+<text x="24" y="278" font-size="12" fill="#334155">• Mutagenic crops</text>
+<text x="24" y="296" font-size="12" fill="#334155">• Industry (tracing)</text>
+<rect x="210" y="112" width="175" height="22" rx="6" fill="#fef2f2" stroke="#fecaca" />
+<text x="219" y="128" font-size="12.5" font-weight="700" fill="#991b1b">Weapons</text>
+<text x="219" y="152" font-size="12" fill="#334155">• Atom / fission bomb</text>
+<text x="219" y="170" font-size="12" fill="#334155">• Hydrogen bomb</text>
+<text x="219" y="188" font-size="12" fill="#334155">• Fission + fusion</text>
+<rect x="210" y="202" width="175" height="22" rx="6" fill="#fef2f2" stroke="#fecaca" />
+<text x="219" y="218" font-size="12.5" font-weight="700" fill="#991b1b">Strategic</text>
+<text x="219" y="242" font-size="12" fill="#334155">• Nuclear subs (SSBN)</text>
+<text x="219" y="260" font-size="12" fill="#334155">• Aircraft carriers</text>
+</svg>
+</div>
 
 ---
 
@@ -145,20 +156,13 @@
 
 ### C. Agriculture — Mutagenic Crops vs GM Crops
 
-```
-┌───────────────────────────────┬───────────────────────────────┐
-│        Mutagenic Crops        │      GM Crops (Biotech)       │
-├───────────────────────────────┼───────────────────────────────┤
-│ • Developed via Nuclear Tech  │ • Developed via Biotechnology │
-│ • Radiation (Gamma) exposure  │ • Recombinant DNA Technology  │
-│   induces *random* mutations  │   inserts *targeted* genes    │
-│ • Trial-and-error screening   │ • Precise, deliberate gene    │
-│   for beneficial agronomic    │   alteration (e.g., Cry1Ac in │
-│   traits (yield, resistance)  │   Bt Cotton)                  │
-│ • Free from foreign transgenes│ • Contains specific foreign   │
-│                               │   transgene / genetic code    │
-└───────────────────────────────┴───────────────────────────────┘
-```
+| Parameter | Mutagenic Crops | GM Crops (Biotech) |
+|:---|:---|:---|
+| **Parent Technology** | **Nuclear Technology** (gamma radiation exposure) | **Biotechnology** (recombinant DNA technology) |
+| **Genetic Change** | Induces ***random*** mutations in the plant's own genome | Inserts ***targeted*** genes at a chosen location |
+| **Method** | **Trial-and-error screening** for beneficial agronomic traits (yield, pest/drought resistance) | **Precise, deliberate** gene alteration designed in advance |
+| **Foreign Genes** | **None** — free from foreign transgenes | **Contains a specific foreign transgene** / alien genetic code |
+| **Example** | Improved high-yield and disease-resistant varieties | **Bt Cotton** (*Cry1Ac* gene from *Bacillus thuringiensis*) |
 
 ---
 
@@ -202,43 +206,41 @@
 
 ## 6. Missiles Comparison — Ballistic vs Cruise
 
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="100%" style="max-width:900px;display:block;margin:auto;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="1" y="1" width="898" height="428" rx="14" fill="#f8fafc" stroke="#e2e8f0" />
-<text x="450" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#0f172a">Ballistic vs Cruise Missile — Trajectory Profile</text>
-<line x1="40" y1="132" x2="860" y2="132" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="7 6" />
-<text x="46" y="124" font-size="13" fill="#64748b">Exosphere (~100 km)</text>
-<text x="856" y="124" text-anchor="end" font-size="13" fill="#64748b">Kármán line</text>
-<line x1="40" y1="356" x2="860" y2="356" stroke="#64748b" stroke-width="2.5" />
-<rect x="40" y="358" width="820" height="16" fill="#e2e8f0" />
-<polygon points="365,356 450,252 540,356" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5" />
-<rect x="78" y="340" width="34" height="16" rx="3" fill="#475569" />
-<rect x="88" y="330" width="14" height="12" rx="2" fill="#334155" />
-<polygon points="800,310 805.5,326.5 822.5,323 811,336 822.5,349 805.5,345.5 800,362 794.5,345.5 777.5,349 789,336 777.5,323 794.5,326.5" fill="#f97316" stroke="#ea580c" stroke-width="1.5" />
-<path d="M 100 348 C 140 250 200 120 340 96 C 470 72 560 96 640 150 C 706 196 748 274 778 316" fill="none" stroke="#dc2626" stroke-width="3.5" />
-<polygon points="0,-5.5 15,0 0,5.5" fill="#dc2626" transform="translate(778,316) rotate(54)" />
-<path d="M 100 350 C 132 338 140 314 172 310 L 340 310 C 380 308 396 258 430 242 C 446 233 460 232 474 241 C 506 263 520 306 560 308 L 730 308 C 752 308 758 326 772 332" fill="none" stroke="#2563eb" stroke-width="3.5" />
-<polygon points="0,-5.5 15,0 0,5.5" fill="#2563eb" transform="translate(772,332) rotate(23)" />
-<text x="470" y="66" text-anchor="middle" font-size="13" font-weight="600" fill="#dc2626">Midcourse — free fall under gravity (no thrust)</text>
-<text x="196" y="246" font-size="13" font-weight="600" fill="#dc2626">Boost phase</text>
-<text x="196" y="263" font-size="12" fill="#7f1d1d">rocket engine — carries own oxidizer</text>
-<text x="706" y="250" text-anchor="end" font-size="13" font-weight="600" fill="#dc2626">Terminal re-entry</text>
-<text x="706" y="267" text-anchor="end" font-size="12" fill="#7f1d1d">Mach 20+, hard to intercept</text>
-<text x="450" y="214" text-anchor="middle" font-size="12" fill="#1e3a8a">Waypoint navigation / evasive turns</text>
-<text x="196" y="292" font-size="13" font-weight="600" fill="#2563eb">Terrain-hugging / sea-skimming</text>
-<text x="756" y="332" text-anchor="end" font-size="12" fill="#1e3a8a">Jet engine — below radar horizon</text>
-<text x="96" y="392" font-size="13" font-weight="600" fill="#334155">Launcher</text>
-<text x="800" y="392" text-anchor="middle" font-size="13" font-weight="600" fill="#334155">Target</text>
-<line x1="250" y1="404" x2="288" y2="404" stroke="#dc2626" stroke-width="3.5" />
-<text x="296" y="409" font-size="13" fill="#334155">Ballistic (Agni, Prithvi, K-series)</text>
-<line x1="540" y1="404" x2="578" y2="404" stroke="#2563eb" stroke-width="3.5" />
-<text x="586" y="409" font-size="13" fill="#334155">Cruise (BrahMos, Nirbhay)</text>
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" role="img" aria-label="Ballistic versus cruise missile trajectory profile" style="display:block;margin:0 auto;width:100%;min-width:540px;max-width:860px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="678" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="340" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Ballistic vs Cruise Missile — Trajectory Profile</text>
+<line x1="30" y1="123" x2="650" y2="123" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5" />
+<text x="34" y="115" font-size="12" fill="#64748b">Exosphere (~100 km)</text>
+<text x="646" y="115" text-anchor="end" font-size="12" fill="#64748b">Kármán line</text>
+<line x1="30" y1="331" x2="650" y2="331" stroke="#64748b" stroke-width="2.5" />
+<rect x="30" y="333" width="620" height="13" fill="#e2e8f0" />
+<polygon points="276,331 340,234 408,331" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="59" y="316" width="26" height="15" rx="3" fill="#475569" />
+<rect x="67" y="307" width="11" height="10" rx="2" fill="#334155" />
+<polygon points="604,293 608.3,305.6 621.3,303 612.5,313 621.3,323 608.3,320.4 604,333 599.7,320.4 586.7,323 595.5,313 586.7,303 599.7,305.6" fill="#f97316" stroke="#ea580c" stroke-width="1.4" />
+<path d="M 76 324 C 106 233 151 112 257 89 C 355 67 423 89 484 140 C 534 182 565 255 588 294" fill="none" stroke="#dc2626" stroke-width="3" />
+<polygon points="0,-5 13,0 0,5" fill="#dc2626" transform="translate(588,294) rotate(59)" />
+<path d="M 76 326 C 100 314 106 292 130 288 L 257 288 C 287 287 299 240 325 225 C 337 217 348 216 358 224 C 382 245 393 285 423 287 L 552 287 C 568 287 573 303 583 309" fill="none" stroke="#2563eb" stroke-width="3" />
+<polygon points="0,-5 13,0 0,5" fill="#2563eb" transform="translate(583,309) rotate(31)" />
+<text x="340" y="60" text-anchor="middle" font-size="13" font-weight="600" fill="#dc2626">Midcourse: free fall, no thrust</text>
+<text x="148" y="229" font-size="13" font-weight="600" fill="#dc2626">Boost phase</text>
+<text x="148" y="245" font-size="12" fill="#7f1d1d">rocket engine, own oxidizer</text>
+<text x="533" y="233" text-anchor="end" font-size="13" font-weight="600" fill="#dc2626">Re-entry: Mach 20+</text>
+<text x="533" y="249" text-anchor="end" font-size="12" fill="#7f1d1d">hard to intercept</text>
+<text x="340" y="199" text-anchor="middle" font-size="12" fill="#1e3a8a">Waypoint navigation</text>
+<text x="140" y="272" font-size="13" font-weight="600" fill="#2563eb">Terrain-hugging flight</text>
+<text x="560" y="320" text-anchor="end" font-size="12" fill="#1e3a8a">Below radar horizon</text>
+<text x="70" y="362" font-size="12" font-weight="600" fill="#334155">Launcher</text>
+<text x="604" y="362" text-anchor="middle" font-size="12" font-weight="600" fill="#334155">Target</text>
+<line x1="121" y1="380" x2="149" y2="380" stroke="#dc2626" stroke-width="3" />
+<text x="155" y="384" font-size="12" fill="#334155">Ballistic (Agni, Prithvi, K-series)</text>
+<line x1="385" y1="380" x2="413" y2="380" stroke="#2563eb" stroke-width="3" />
+<text x="419" y="384" font-size="12" fill="#334155">Cruise (BrahMos, Nirbhay)</text>
 </svg>
-
-<p><em><strong>Figure:</strong> Ballistic missiles arc out of the atmosphere and re-enter under gravity at hypersonic speed; cruise missiles stay inside the atmosphere, flying low and flat on a jet engine.</em></p>
-
 </div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Ballistic missiles arc out of the atmosphere and re-enter under gravity at hypersonic speed; cruise missiles stay inside the atmosphere, flying low and flat on a jet engine. (On a phone, swipe the chart sideways.)</em></p>
 
 | Parameter | Ballistic Missiles | Cruise Missiles |
 |:---|:---|:---|
@@ -280,23 +282,28 @@
 ### A. The Nuclear Triad Architecture
 A comprehensive, three-pronged capability to deliver nuclear warheads from **Land, Air, and Sea**:
 
-```
-                       ┌─────────────────────────┐
-                       │   India's Nuclear Triad │
-                       └────────────┬────────────┘
-                                    │
-         ┌──────────────────────────┼──────────────────────────┐
-         ▼                          ▼                          ▼
-┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐
-│     Land Leg     │      │     Air Leg      │      │     Sea Leg      │
-├──────────────────┤      ├──────────────────┤      ├──────────────────┤
-│ • Agni Series    │      │ • Sukhoi-30 MKI  │      │ • INS Arihant    │
-│   (Agni 1 to 5)  │      │   + BrahMos Air- │      │   SSBN Class     │
-│ • Prithvi Series │      │   Launched       │      │ • K-Series SLBMs │
-│ • Land-launched  │      │ • Mirage-2000 /  │      │   (K-15, K-4)    │
-│   BrahMos        │      │   Rafale         │      │ (Most Survivable)│
-└──────────────────┘      └──────────────────┘      └──────────────────┘
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="India's nuclear triad: land, air and sea legs" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="298" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<rect x="100" y="12" width="200" height="32" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="200" y="33" text-anchor="middle" font-size="14" font-weight="700" fill="#3730a3">India's Nuclear Triad</text>
+<path d="M 200 44 L 200 54 M 14 54 L 200 54 M 14 54 L 14 251 M 14 101 L 30 101 M 14 176 L 30 176 M 14 251 L 30 251" fill="none" stroke="#94a3b8" stroke-width="1.5" />
+<rect x="30" y="64" width="356" height="74" rx="8" fill="#fffbeb" stroke="#fbbf24" />
+<text x="42" y="86" font-size="13" font-weight="700" fill="#92400e">Land Leg</text>
+<text x="42" y="108" font-size="12" fill="#334155">• Agni series (Agni 1–5)</text>
+<text x="215" y="108" font-size="12" fill="#334155">• Prithvi series</text>
+<text x="42" y="128" font-size="12" fill="#334155">• Land-launched BrahMos</text>
+<rect x="30" y="148" width="356" height="56" rx="8" fill="#eff6ff" stroke="#60a5fa" />
+<text x="42" y="170" font-size="13" font-weight="700" fill="#1e40af">Air Leg</text>
+<text x="42" y="192" font-size="12" fill="#334155">• Su-30 MKI + BrahMos-A</text>
+<text x="215" y="192" font-size="12" fill="#334155">• Mirage-2000 / Rafale</text>
+<rect x="30" y="214" width="356" height="74" rx="8" fill="#f0fdfa" stroke="#2dd4bf" />
+<text x="42" y="236" font-size="13" font-weight="700" fill="#115e59">Sea Leg</text>
+<text x="42" y="258" font-size="12" fill="#334155">• INS Arihant (SSBN)</text>
+<text x="215" y="258" font-size="12" fill="#334155">• K-series SLBMs (K-15, K-4)</text>
+<text x="42" y="278" font-size="12" font-style="italic" fill="#0f766e">Most survivable leg — assures second strike</text>
+</svg>
+</div>
 
 ---
 
