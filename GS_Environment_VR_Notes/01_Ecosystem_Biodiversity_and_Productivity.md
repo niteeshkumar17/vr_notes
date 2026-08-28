@@ -109,24 +109,115 @@ Nutrients = **elements** that are the building blocks of carbohydrates, fats, pr
 
 They sit in four **reservoirs** (storage pools) of the planet — **atmosphere, lithosphere, hydrosphere, biosphere** — in different chemical forms, and they **move cyclically**. Energy flow is **unidirectional**; nutrient flow is **cyclical**. That cycling, driven by the flow of energy, is a **biogeochemical (B.G.C.) cycle**. Syllabus cycles: **carbon, nitrogen, phosphorus** (NCERT last unit — read all three).
 
-### Carbon cycle (class sketch)
+Energy flow is a **one-way street**. Nutrient flow is a **closed loop** — the element leaves a reservoir and **must return** to it. That is why the class sketches are drawn as **cycles**, not chains.
 
-**CO₂ (carbon dioxide) in atmosphere** → **photosynthesis** into plants (biosphere) → eaten by a bird **or** plant dies → excreta / dead litter in soil (lithosphere) → **decomposition** (bacteria + fungi) → **CO₂** returns to atmosphere. Same form in, same form out.
+### Carbon cycle
 
-### Nitrogen cycle (class sketch)
+Carbon starts as **CO₂ (carbon dioxide) in the atmosphere** and **returns as CO₂** — same form in, same form out.
 
-Plants **cannot** use atmospheric **N₂** (nitrogen gas) directly. Usable soil forms: **NO₃⁻ (nitrate)** and **NH₄⁺ (ammonium)**.
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 312" role="img" aria-label="Carbon cycle: atmosphere to plants to soil and back as carbon dioxide" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="358" height="310" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="180" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Carbon cycle (gaseous)</text>
+<rect x="108" y="32" width="144" height="42" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="180" y="50" text-anchor="middle" font-size="12" font-weight="700" fill="#1e40af">CO₂ Atmosphere</text>
+<text x="180" y="66" text-anchor="middle" font-size="11" fill="#1e3a8a">same form in / out</text>
+<line x1="252" y1="53" x2="298" y2="88" stroke="#64748b" stroke-width="1.5" />
+<polygon points="293,78 304,92 288,86" fill="#64748b" />
+<text x="292" y="78" text-anchor="middle" font-size="11" fill="#334155">photosynthesis</text>
+<rect x="214" y="96" width="132" height="52" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="280" y="116" text-anchor="middle" font-size="12" font-weight="700" fill="#166534">Plants</text>
+<text x="280" y="134" text-anchor="middle" font-size="11" fill="#14532d">Biosphere</text>
+<line x1="280" y1="148" x2="280" y2="168" stroke="#64748b" stroke-width="1.5" />
+<polygon points="275,158 285,158 280,170" fill="#64748b" />
+<text x="328" y="164" font-size="11" fill="#334155">eaten</text>
+<rect x="214" y="172" width="132" height="42" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="280" y="190" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">Bird</text>
+<text x="280" y="206" text-anchor="middle" font-size="11" fill="#78350f">still biosphere</text>
+<line x1="214" y1="193" x2="168" y2="228" stroke="#64748b" stroke-width="1.5" />
+<polygon points="176,218 164,234 182,226" fill="#64748b" />
+<text x="168" y="214" text-anchor="end" font-size="11" fill="#334155">excreta</text>
+<line x1="214" y1="122" x2="168" y2="168" stroke="#64748b" stroke-width="1.5" />
+<polygon points="176,158 164,174 182,166" fill="#64748b" />
+<text x="168" y="148" text-anchor="end" font-size="11" fill="#334155">plant dies</text>
+<rect x="36" y="172" width="132" height="58" rx="8" fill="#ffedd5" stroke="#fb923c" />
+<text x="102" y="192" text-anchor="middle" font-size="12" font-weight="700" fill="#9a3412">Dead litter + soil</text>
+<text x="102" y="208" text-anchor="middle" font-size="11" fill="#7c2d12">Lithosphere</text>
+<text x="102" y="222" text-anchor="middle" font-size="11" fill="#7c2d12">organic C locked</text>
+<line x1="102" y1="172" x2="102" y2="148" stroke="#64748b" stroke-width="1.5" />
+<polygon points="97,158 107,158 102,146" fill="#64748b" />
+<rect x="36" y="96" width="132" height="52" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="102" y="116" text-anchor="middle" font-size="12" font-weight="700" fill="#3730a3">Decomposition</text>
+<text x="102" y="134" text-anchor="middle" font-size="11" fill="#312e81">bacteria + fungi</text>
+<line x1="102" y1="96" x2="102" y2="76" stroke="#64748b" stroke-width="1.5" />
+<line x1="102" y1="76" x2="108" y2="53" stroke="#64748b" stroke-width="1.5" />
+<polygon points="100,60 116,56 108,44" fill="#64748b" />
+<text x="58" y="72" font-size="11" fill="#1e40af">CO₂ back</text>
+<text x="180" y="254" text-anchor="middle" font-size="11.5" fill="#334155">Atmosphere → biosphere → lithosphere → atmosphere</text>
+<text x="180" y="272" text-anchor="middle" font-size="11.5" fill="#334155">The loop closes. Carbon does not leak away as energy does.</text>
+<text x="180" y="296" text-anchor="middle" font-size="11" fill="#64748b">Oceans (hydrosphere) also dissolve CO₂ — same cycle, extra reservoir</text>
+</svg>
+</div>
+<p style="text-align:center;"><em><strong>Figure:</strong> Carbon cycle. The exam line is: it is a <strong>cycle</strong> because CO₂ leaves the atmosphere and CO₂ returns to it.</em></p>
 
-**Nitrogen fixation** (atmosphere → soil): (1) **atmospheric lightning**; (2) bacteria.
+### Nitrogen cycle
+
+Plants **cannot** use atmospheric **N₂ (nitrogen gas)** directly. Usable soil forms: **NO₃⁻ (nitrate)** and **NH₄⁺ (ammonium)**. Fixation puts N₂ into that soil pool; **denitrification** sends N₂ back to air — that return arrow is what makes it a cycle.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 348" role="img" aria-label="Nitrogen cycle: fixation into soil, plant uptake, decomposition, denitrification back to air" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="358" height="346" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
+<text x="180" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Nitrogen cycle (gaseous)</text>
+<rect x="108" y="32" width="144" height="42" rx="8" fill="#dbeafe" stroke="#60a5fa" />
+<text x="180" y="50" text-anchor="middle" font-size="12" font-weight="700" fill="#1e40af">N₂ Atmosphere</text>
+<text x="180" y="66" text-anchor="middle" font-size="11" fill="#1e3a8a">plants cannot use this</text>
+<line x1="180" y1="74" x2="180" y2="96" stroke="#64748b" stroke-width="1.5" />
+<polygon points="175,86 185,86 180,98" fill="#64748b" />
+<text x="252" y="90" font-size="11" fill="#334155">fixation ↓</text>
+<rect x="70" y="102" width="220" height="58" rx="8" fill="#fef3c7" stroke="#fbbf24" />
+<text x="180" y="122" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">Soil: NO₃⁻ and NH₄⁺</text>
+<text x="180" y="138" text-anchor="middle" font-size="11" fill="#78350f">1. lightning  2. bacteria (Rhizobium…)</text>
+<text x="180" y="152" text-anchor="middle" font-size="11" fill="#78350f">usable forms — lithosphere</text>
+<line x1="180" y1="160" x2="180" y2="180" stroke="#64748b" stroke-width="1.5" />
+<polygon points="175,170 185,170 180,182" fill="#64748b" />
+<text x="248" y="176" font-size="11" fill="#334155">uptake</text>
+<rect x="214" y="186" width="128" height="42" rx="8" fill="#dcfce7" stroke="#4ade80" />
+<text x="278" y="204" text-anchor="middle" font-size="12" font-weight="700" fill="#166534">Plants</text>
+<text x="278" y="220" text-anchor="middle" font-size="11" fill="#14532d">Biosphere</text>
+<line x1="214" y1="207" x2="168" y2="207" stroke="#64748b" stroke-width="1.5" />
+<polygon points="178,202 178,212 166,207" fill="#64748b" />
+<text x="190" y="198" font-size="11" fill="#334155">dies / eaten</text>
+<rect x="36" y="186" width="132" height="42" rx="8" fill="#ffedd5" stroke="#fb923c" />
+<text x="102" y="204" text-anchor="middle" font-size="12" font-weight="700" fill="#9a3412">Dead litter</text>
+<text x="102" y="220" text-anchor="middle" font-size="11" fill="#7c2d12">N locked in soil</text>
+<line x1="102" y1="186" x2="102" y2="168" stroke="#64748b" stroke-width="1.5" />
+<polygon points="97,178 107,178 102,166" fill="#64748b" />
+<text x="48" y="176" font-size="11" fill="#334155">decomp.</text>
+<line x1="70" y1="131" x2="48" y2="131" stroke="#64748b" stroke-width="1.5" />
+<line x1="48" y1="131" x2="48" y2="53" stroke="#64748b" stroke-width="1.5" />
+<line x1="48" y1="53" x2="108" y2="53" stroke="#64748b" stroke-width="1.5" />
+<polygon points="96,48 96,58 110,53" fill="#64748b" />
+<text x="22" y="96" font-size="11" fill="#1e40af">denitri-</text>
+<text x="22" y="110" font-size="11" fill="#1e40af">fication</text>
+<text x="22" y="124" font-size="11" fill="#1e40af">N₂ back</text>
+<rect x="70" y="244" width="220" height="40" rx="8" fill="#e0e7ff" stroke="#818cf8" />
+<text x="180" y="262" text-anchor="middle" font-size="11.5" font-weight="700" fill="#3730a3">Pseudomonas: denitrification closes the loop</text>
+<text x="180" y="276" text-anchor="middle" font-size="11" fill="#312e81">complex soil N → N₂ gas → atmosphere again</text>
+<text x="180" y="304" text-anchor="middle" font-size="11.5" fill="#334155">Fixation takes N₂ down; denitrification sends N₂ up.</text>
+<text x="180" y="322" text-anchor="middle" font-size="11.5" fill="#334155">Without that return arrow it would be a one-way drain, not a cycle.</text>
+<text x="180" y="338" text-anchor="middle" font-size="11" fill="#64748b">Nitrification (Nitrosomonas, Nitrobacter) keeps soil N in usable ions</text>
+</svg>
+</div>
+<p style="text-align:center;"><em><strong>Figure:</strong> Nitrogen cycle. The return path is <strong>denitrification</strong> — that is the arrow that makes it a cycle.</em></p>
 
 | Bacterium | Role as taught | Extra precision |
 |:---|:---|:---|
 | ***Rhizobium*** | In **root nodules of legumes**; **symbiotic** (mutually beneficial) | True N₂-fixer |
 | ***Azotobacter*** (class audio: “acetobacter”) | Free-living fixer | True N₂-fixer |
 | ***Nitrosomonas***, ***Nitrobacter*** | Help put N into a **usable** soil form | **Nitrification** (ammonium → nitrate), not fixation |
-| ***Pseudomonas*** | **Denitrification** — complex N back to **N₂** gas → atmosphere | Closes the cycle |
+| ***Pseudomonas*** | **Denitrification** — complex N back to **N₂** gas → atmosphere | **Closes the cycle** |
 
-**Decomposition** (school definition): chemical breakdown of **complex dead organic matter** into simpler organic and inorganic matter (bacteria + fungi).
+**Decomposition** (school definition): chemical breakdown of **complex dead organic matter** into simpler organic and inorganic matter (bacteria + fungi). In both cycles it is the step that **unlocks** the element from dead litter so it can move to the next reservoir.
 
 ### Gaseous vs sedimentary cycles (ENV-01-05)
 
