@@ -6,52 +6,84 @@
 
 ---
 
-## Topic 1: Bodoland Territorial Council (BTC) Deputy Speaker’s Death & the Sixth Schedule Architecture
+## Topic 1: Bodoland — Sixth Schedule, Three Accords, BTC / BTR
 
 > **Micro-Topic ID:** `CA-260828-01`  
-> **GS Paper:** **GS-II** (Indian Constitution — Sixth Schedule; Federalism; Sub-State Autonomy; Polity of the North-East) & **GS-I / Geography** (Bodoland–tea labour demography, already in the 28 Aug Geography lecture)
+> **GS Paper:** **GS-II** (Indian Constitution — Sixth Schedule; Federalism; Sub-State Autonomy; North-East polity) & **GS-I / Geography** (tea-labour demography of the Brahmaputra valley — 28 Aug Agriculture lecture)
 
-### 1. What the news is
-* **Who:** **Bijit Gwra Narzary**, Deputy Speaker of Assam’s **Bodoland Territorial Council (BTC)**.
-* **Party / seat:** **Bharatiya Janata Party (BJP)** leader; represented the **Darrangajuli** constituency of the BTC.
-* **What happened:** Found dead at his residence in **Kumarikata**, **Tamulpur district**, on Wednesday evening. Police said the cause was being ascertained.
-* **Condolences:**
-  - **Hagrama Mohilary** — BTC Chief and president of the **Bodoland People’s Front (BPF)**.
-  - **Pramod Boro** — former BTC Chief, now **Member of Parliament (MP)**; heads the **United People’s Party Liberal (UPPL)**.
-* *The Hindu* carried a distress note: **Tele-MANAS** (Tele Mental Health Assistance and Networking Across States) at **14416**.
+*In the news only as a reminder that the **Bodoland Territorial Council (BTC)** is a living Sixth Schedule body inside Assam. The exam yield is the architecture below, not the personnel.*
 
-The death is a **polity hook**, not a fact to over-read. The UPSC yield is the **institution he sat in**.
-
-```mermaid
-flowchart TD
-    A["Bodo political demand<br/>(identity + land + autonomy)"] --> B["Three peace accords"]
-    B --> B1["1993: Bodoland Autonomous Council"]
-    B --> B2["2003: BTC under Sixth Schedule"]
-    B --> B3["2020: Bodo Peace Accord / BTR"]
-    B2 --> C["BTC = elected territorial council<br/>inside Assam, not a new State"]
-    C --> D["Art 244(2) + 275(1) Sixth Schedule<br/>Assam, Meghalaya, Tripura, Mizoram"]
-```
-
-### 2. What the BTC is (exam core)
+### 1. Who / where / why the demand
 
 | Item | Content |
 |:---|:---|
-| **Legal home** | **Sixth Schedule** of the Constitution — **Articles 244(2)** and **275(1)** |
-| **Political form** | An **Autonomous District Council / Territorial Council** *inside* Assam. It is **not** a State under **Article 3**. |
-| **Origin** | **2003 Bodo Accord** created the BTC; **2020 Bodo Peace Accord** recast the area as the **Bodoland Territorial Region (BTR)**, expanded territory and legislative subjects, and brought remaining armed factions into a settlement |
-| **Compared with Gorkhaland** | Darjeeling’s **GTA (Gorkhaland Territorial Administration)** is a *state-law* body. BTC is a *constitutional* Sixth Schedule body — that is why it has firmer legislative teeth (see 23 Aug CA) |
-| **Party map in the news** | **BPF** (Hagrama Mohilary), **UPPL** (Pramod Boro), **BJP** — the three-cornered BTC politics after 2020 |
-| **Territory hook in the report** | Death at **Kumarikata, Tamulpur**. Tamulpur is a **Bodoland Territorial Region (BTR)** district (carved from Baksa after the 2020 accord’s territorial reorganisation) |
+| **Who** | **Bodos** — largest plains tribe of Assam (Bodo-Kachari group). **Bodo** is in the **Eighth Schedule** (**92nd Constitutional Amendment Act, 2003** — same year as the BTC accord; also added Dogri, Maithili, Santhali). |
+| **Where** | Western Assam, mainly the **north bank of the Brahmaputra** — **Kokrajhar, Chirang, Baksa, Udalguri** (the original **BTAD** four), plus later BTR districts such as **Tamulpur** (carved from Baksa, 2022). |
+| **Why** | Identity + land + political voice. British tea planters imported labour from central/eastern India → local Bodos became a **demographic minority** in parts of their homeland (Geography tea lecture). Armed + student politics followed: **All Bodo Students’ Union (ABSU)**, **Bodo Liberation Tigers (BLT)**, **National Democratic Front of Boroland (NDFB)**. |
+| **What they did *not* get** | A separate State under **Article 3**. What they got is **asymmetric autonomy inside Assam**. |
 
-**Sixth Schedule in one line:** tribal areas of four NE States get **autonomous councils** with powers over land, forests, village administration, inheritance, and (in BTC’s case, after 2020) a long list of transferred subjects — **asymmetric federalism** without carving a new State.
+```mermaid
+flowchart TD
+    A["Bodo demand<br/>identity + land + autonomy"] --> B["Three peace accords"]
+    B --> B1["1993: BAC<br/>state-law council — failed"]
+    B --> B2["2003: BTC under Sixth Schedule<br/>BTAD four districts"]
+    B --> B3["2020: Bodo Peace Accord<br/>area renamed BTR"]
+    B2 --> C["BTC = elected territorial council<br/>inside Assam — not a new State"]
+    C --> D["Art 244(2) + 275(1)<br/>Sixth Schedule: AMTM"]
+```
 
-### 3. Geography link (28 Aug Agriculture lecture)
-British tea planters moved labour into the Brahmaputra valley → local Bodo communities became a demographic minority in parts of their homeland → **Bodoland** demand. The news is Assam polity; the *reason the demand exists* is also **plantation geography**.
+### 2. The three Bodo accords (memorise as a ladder)
 
-### 4. Prelims / Mains cues
-* BTC ≠ State. Sixth Schedule ≠ Fifth Schedule (Fifth = Governors’ Tribes Advisory Councils in other States).
-* Name the three Bodo accords (1993 / 2003 / 2020).
-* **UPPL, BPF, BJP** as the post-2020 BTC party triangle.
+| Year | Settlement | What it created | Why it mattered / failed |
+|:---|:---|:---|:---|
+| **1993** | First Bodo Accord (**ABSU**–**Bodo People's Action Committee (BPAC)** with Assam) | **Bodoland Autonomous Council (BAC)** | *State statute*, weak powers, disputed boundary. Collapsed into a second insurgency. |
+| **10 Feb 2003** | Second Bodo Accord (Union + Assam + **BLT**) | **BTC** inserted into the **Sixth Schedule**; area called **Bodoland Territorial Autonomous Districts (BTAD)** | First *constitutional* home. BLT disbanded. Four districts: **Kokrajhar, Chirang, Baksa, Udalguri**. Council: **46** (40 elected + 6 nominated); most elected seats reserved for **Scheduled Tribes (ST)**. ~40 subjects transferred. |
+| **27 Jan 2020** | Third **Bodo Peace Accord** (Union + Assam + NDFB factions + ABSU + others) | Area recast as **Bodoland Territorial Region (BTR)** | Remaining armed groups in; **BTC seats 40 → 60**; more villages/subjects; **₹1,500 crore** special development package; **Bodo** as **associate official language** of Assam; **Bodo-Kachari Welfare Council** for Bodos *outside* BTR; ST status for Bodos in hill districts (**Karbi Anglong, Dima Hasao**) pursued. |
+
+**BTR ≠ BTC.** **BTR** is the *territory*. **BTC** is the *elected council* that governs it. **Chief Executive Member (CEM)** is the council’s executive head (not a Chief Minister).
+
+### 3. Sixth Schedule home (exam core)
+
+| Item | Content |
+|:---|:---|
+| **Legal home** | **Sixth Schedule** — **Articles 244(2)** and **275(1)** |
+| **Which States** | **AMTM** only: **Assam, Meghalaya, Tripura, Mizoram**. (Nagaland is **Article 371A**, not Sixth Schedule.) |
+| **Assam’s ADCs** | **BTC**; **Karbi Anglong Autonomous Council**; **Dima Hasao** (North Cachar Hills) Autonomous Council |
+| **What an ADC can do** | **Legislative + executive + judicial** bite over land, forests (other than reserved forests), village administration, inheritance, marriage, social custom — and, in BTC’s case after 2003/2020, a long extra list (education, health, agriculture, etc.). Governor of Assam has a special Sixth Schedule role (assent / modification). |
+| **Money** | **Article 275(1)** second proviso: Union grants for Assam’s tribal areas. |
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│              FIFTH SCHEDULE                          SIXTH SCHEDULE         │
+├──────────────────────────────────────────┬──────────────────────────────────┤
+│ Tribal areas of 10 States (not NE-4)     │ Tribal areas of AMTM only        │
+│ Art 244(1)                               │ Art 244(2) + 275(1)              │
+│ Tribes Advisory Council; Governor        │ Autonomous District / Regional   │
+│  reports to President                    │  Councils with law-making power  │
+│ PESA 1996 on Fifth Schedule Panchayats   │ Village courts + custom          │
+│ Weaker legislative teeth                 │ Stronger sub-State legislature   │
+└──────────────────────────────────────────┴──────────────────────────────────┘
+```
+
+**Gorkhaland contrast (23 Aug CA):** Darjeeling **GTA (Gorkhaland Territorial Administration)** is a *West Bengal statute*. BTC is in the *Constitution*. That is why BTC has firmer legislative teeth, and why Gorkhas still demand Sixth Schedule / Art 371 / Art 3.
+
+### 4. Politics of the BTR (post-2020 triangle)
+
+| Party | Full form | Anchor |
+|:---|:---|:---|
+| **BPF** | **Bodoland People’s Front** | **Hagrama Mohilary** (ex-BLT; long-time BTC CEM; 2003 accord lineage) |
+| **UPPL** | **United People’s Party Liberal** | **Pramod Boro** (ex-ABSU; BTC CEM after 2020; now **MP**) |
+| **BJP** | **Bharatiya Janata Party** | Third pole in BTC elections after the 2020 accord |
+
+This is **coalition sub-State politics inside Assam**, not a separate State party system.
+
+### 5. Prelims traps
+* **BTC ≠ State.** No Article 3. Assam Assembly + Governor still sit above it.
+* **Sixth ≠ Fifth.** Fifth = TAC + Governor; Sixth = ADC with laws and courts. **PESA** is Fifth Schedule, not Sixth.
+* **AMTM**, not Nagaland / Manipur / Arunachal.
+* Name the **three** accords (1993 BAC → 2003 BTC/BTAD → 2020 BTR). 1993 had **no** Sixth Schedule status.
+* **92nd CAA 2003** put **Bodo** in the Eighth Schedule — same year as BTC, different amendment.
+* **BTR** (area) vs **BTC** (council) vs **BTAD** (2003 name of the area).
 * Contrast **BTC (constitutional)** with **GTA (statutory)**.
 
 ---
@@ -142,18 +174,27 @@ Parliament’s job is not only to *mirror* population. It is to **deliberate**.
 | Shortcut | Full form |
 |:---|:---|
 | **BTC** | Bodoland Territorial Council |
-| **BTR** | Bodoland Territorial Region (post-2020) |
+| **BTR** | Bodoland Territorial Region (post-2020 name of the area) |
+| **BTAD** | Bodoland Territorial Autonomous Districts (2003–2020 name) |
+| **BAC** | Bodoland Autonomous Council (1993) |
+| **ADC** | Autonomous District Council |
+| **AMTM** | Assam, Meghalaya, Tripura, Mizoram (Sixth Schedule States) |
+| **ABSU** | All Bodo Students’ Union |
+| **BPAC** | Bodo People's Action Committee (1993 accord) |
+| **BLT** | Bodo Liberation Tigers |
+| **NDFB** | National Democratic Front of Boroland |
 | **BPF** | Bodoland People’s Front |
 | **UPPL** | United People’s Party Liberal |
 | **BJP** | Bharatiya Janata Party |
+| **CEM** | Chief Executive Member (BTC’s executive head) |
+| **ST** | Scheduled Tribe |
+| **GTA** | Gorkhaland Territorial Administration |
 | **MP** | Member of Parliament |
 | **MLA** | Member of Legislative Assembly |
 | **LS** | Lok Sabha (House of the People) |
 | **CEC** | Chief Election Commissioner |
 | **CAA** | Constitutional Amendment Act |
-| **Tele-MANAS** | Tele Mental Health Assistance and Networking Across States |
-| **GTA** | Gorkhaland Territorial Administration |
 
 ---
 
-<!-- 2026-08-28: Current Affairs from The Hindu — BTC Deputy Speaker death used as Sixth Schedule/Bodoland hook; S.Y. Quraishi editorial on keeping Lok Sabha at 543 through intra-State delimitation, federal fairness and women's reservation without enlargement. -->
+<!-- 2026-08-28: Current Affairs from The Hindu — Bodoland/Sixth Schedule (three accords, BTC/BTR, Fifth vs Sixth, GTA contrast); S.Y. Quraishi editorial on keeping Lok Sabha at 543. -->
