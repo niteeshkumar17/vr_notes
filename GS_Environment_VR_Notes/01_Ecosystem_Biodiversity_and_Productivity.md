@@ -137,18 +137,18 @@ Carbon starts as **CO₂ (carbon dioxide) in the atmosphere** and **returns as C
 <text x="60" y="194" text-anchor="middle" font-size="12.5" font-weight="700" fill="#3730a3">Decomposition</text>
 <text x="60" y="212" text-anchor="middle" font-size="11.5" fill="#312e81">bacteria + fungi</text>
 <text x="60" y="230" text-anchor="middle" font-size="11.5" fill="#312e81">unlocks C</text>
-<path d="M 250 78 Q 318 110 300 170" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="292,160 308,168 296,176" fill="#334155" />
-<text x="300" y="128" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">photosynthesis</text>
-<path d="M 300 250 Q 318 300 274 328" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="280,316 272,332 264,318" fill="#334155" />
-<text x="306" y="292" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">dies / eaten</text>
-<path d="M 86 354 Q 28 300 60 250" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="52,260 60,248 70,258" fill="#334155" />
-<text x="28" y="312" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">to microbes</text>
-<path d="M 60 170 Q 28 100 96 66" fill="none" stroke="#1d4ed8" stroke-width="2.8" />
-<polygon points="86,74 98,62 104,76" fill="#1d4ed8" />
-<text x="28" y="118" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">CO₂ back</text>
+<path d="M 250 78 Q 318 110 300 170" fill="none" stroke="#334155" stroke-width="2.2" />
+<polygon points="297.2,156.6 300.0,170.0 309.7,160.4" fill="#334155" />
+<text x="292" y="128" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">photosynthesis</text>
+<path d="M 300 250 Q 318 300 274 328" fill="none" stroke="#334155" stroke-width="2.2" />
+<polygon points="280.6,316.1 274.0,328.0 287.6,327.0" fill="#334155" />
+<text x="300" y="292" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">dies / eaten</text>
+<path d="M 86 354 Q 52 308 60 250" fill="none" stroke="#334155" stroke-width="2.2" />
+<polygon points="64.8,262.8 60.0,250.0 51.9,261.0" fill="#334155" />
+<text x="64" y="308" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">to microbes</text>
+<path d="M 60 170 Q 48 108 96 66" fill="none" stroke="#1d4ed8" stroke-width="2.8" />
+<polygon points="91.2,78.8 96.0,66.0 82.7,69.0" fill="#1d4ed8" />
+<text x="58" y="118" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">CO₂ back</text>
 <text x="180" y="400" text-anchor="middle" font-size="11.5" fill="#334155">Atmosphere → biosphere → lithosphere → atmosphere</text>
 <text x="180" y="416" text-anchor="middle" font-size="11.5" fill="#64748b">Oceans also dissolve CO₂ — extra reservoir, same loop</text>
 </svg>
@@ -183,24 +183,24 @@ Plants **cannot** use atmospheric **N₂ (nitrogen gas)** directly. Usable soil 
 <text x="60" y="194" text-anchor="middle" font-size="11.5" fill="#7c2d12">organic N</text>
 <text x="60" y="210" text-anchor="middle" font-size="11.5" fill="#7c2d12">after death</text>
 <text x="60" y="228" text-anchor="middle" font-size="11.5" fill="#7c2d12">of plants</text>
-<path d="M 248 72 Q 304 100 300 156" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="292,146 304,156 288,154" fill="#334155" />
-<text x="300" y="108" text-anchor="middle" font-size="11.5" font-weight="700" fill="#92400e">fixation</text>
-<text x="300" y="124" text-anchor="middle" font-size="11" fill="#78350f">lightning + bacteria</text>
-<path d="M 280 244 Q 268 286 270 314" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="262,302 270,316 278,302" fill="#334155" />
+<path d="M 248 72 Q 304 100 300 156" fill="none" stroke="#334155" stroke-width="2.2" />
+<polygon points="294.4,143.6 300.0,156.0 307.3,144.5" fill="#334155" />
+<text x="298" y="108" text-anchor="middle" font-size="11.5" font-weight="700" fill="#92400e">fixation</text>
+<text x="298" y="124" text-anchor="middle" font-size="11" fill="#78350f">lightning + bacteria</text>
+<path d="M 280 244 Q 268 286 270 314" fill="none" stroke="#334155" stroke-width="2.2" />
+<polygon points="262.7,302.5 270.0,314.0 275.6,301.6" fill="#334155" />
 <text x="304" y="286" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">uptake</text>
-<path d="M 90 339 Q 40 286 60 244" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="50,254 60,242 70,254" fill="#334155" />
-<text x="36" y="300" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">death</text>
-<line x1="112" y1="258" x2="248" y2="258" stroke="#ea580c" stroke-width="2" />
-<polygon points="238,252 250,258 238,264" fill="#ea580c" />
+<path d="M 90 339 Q 52 290 60 244" fill="none" stroke="#334155" stroke-width="2.2" />
+<polygon points="64.3,256.9 60.0,244.0 51.5,254.7" fill="#334155" />
+<text x="56" y="300" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">death</text>
+<line x1="112" y1="258" x2="236" y2="258" stroke="#ea580c" stroke-width="2.2" />
+<polygon points="236.0,264.5 248.0,258.0 236.0,251.5" fill="#ea580c" />
 <text x="180" y="276" text-anchor="middle" font-size="11.5" font-weight="700" fill="#c2410c">decomp. → soil ions</text>
-<path d="M 60 156 Q 28 86 90 61" fill="none" stroke="#1d4ed8" stroke-width="3" />
-<polygon points="80,70 92,58 98,72" fill="#1d4ed8" />
-<text x="40" y="100" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">denitrification</text>
-<text x="40" y="116" text-anchor="middle" font-size="11" fill="#1e40af">Pseudomonas</text>
-<text x="40" y="132" text-anchor="middle" font-size="11" fill="#1e40af">N₂ back to air</text>
+<path d="M 60 156 Q 48 92 90 61" fill="none" stroke="#1d4ed8" stroke-width="3" />
+<polygon points="84.2,73.4 90.0,61.0 76.5,62.9" fill="#1d4ed8" />
+<text x="72" y="100" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">denitrification</text>
+<text x="72" y="116" text-anchor="middle" font-size="11" fill="#1e40af">Pseudomonas</text>
+<text x="72" y="132" text-anchor="middle" font-size="11" fill="#1e40af">N₂ back to air</text>
 <text x="180" y="386" text-anchor="middle" font-size="11.5" fill="#334155">Outer ring: N₂ down by fixation, N₂ up by denitrification.</text>
 <text x="180" y="404" text-anchor="middle" font-size="11.5" fill="#334155">Inner orange arrow: litter → soil (decomposition).</text>
 <text x="180" y="420" text-anchor="middle" font-size="11.5" fill="#64748b">Nitrification (Nitrosomonas, Nitrobacter) keeps those soil ions usable</text>
@@ -395,4 +395,4 @@ Largest tiger reserve of Odisha. Famous for **pseudo-melanistic** tigers: **blac
 
 ---
 
-<!-- 2026-08-28: Created from Environment & Ecology Lecture 1. Later: C/N as clockwise rings; N decomp pulled off the hub so it no longer crosses the centre. -->
+<!-- 2026-08-28: Created from Environment & Ecology Lecture 1. Later: C/N rings; clipped left labels pulled in; arrowheads aligned to path tangents. -->
