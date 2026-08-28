@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-28
-*   **Active Micro-Topics:** 320
+*   **Active Micro-Topics:** 333
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 11
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 0
+*   **New Topics Ingested Today:** 13
 *   **Weekly Backlog:** 0
 
 ---
@@ -140,6 +140,23 @@
 | GEO-04-06 | Density, Thermal Differentiation & Melting Point Logic | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MP>T=Solid` $\leftrightarrow$ `T>MP=Liquid` $\leftrightarrow$ `Heterogeneous Interior` |
 | GEO-04-07 | Interior of Earth: Direct vs Indirect Evidence | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Kola Superdeep` $\leftrightarrow$ `Koyna Maharashtra` $\leftrightarrow$ `EQ Waves` $\leftrightarrow$ `Gravity Anomaly` |
 | GEO-04-08 | 3 Models of Earth's Interior & Discontinuities | 2 | ★★★★★ | Day 2 | 2026-08-12 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Suess→CD` $\leftrightarrow$ `Moho→SFS` $\leftrightarrow$ `Seismic→PT` $\leftrightarrow$ `Moho 40km` $\leftrightarrow$ `Gutenberg 2900km` |
+
+### Geography (Agriculture — Importance, Trade & Commodities)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-05-01 | Agriculture as Backbone: 45% Workforce vs 17% GDP | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Economic Survey 46.2%` $\leftrightarrow$ `GDP <20%` $\leftrightarrow$ `Inflation+FD+Trade Drivers` |
+| GEO-05-02 | Who Is a Farmer: Swaminathan / NCF Inclusive List | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Statutory Definition` $\leftrightarrow$ `Owner-Cultivator` $\leftrightarrow$ `Tenant` $\leftrightarrow$ `Sharecropper/Bataidar` $\leftrightarrow$ `Landless Worker` $\leftrightarrow$ `Allied+MFP` |
+| GEO-05-03 | Engel's Law, NFSA/PMGKAY & Agri Subsidy Chain | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Engel: Food Share Falls` $\leftrightarrow$ `CPI Food Weight` $\leftrightarrow$ `NFSA 75/50 → 82 Cr` $\leftrightarrow$ `2023 Free Rice/Wheat` $\leftrightarrow$ `MSP=PDS+Buffer` $\leftrightarrow$ `Urea NG / DAP 80% Import` $\leftrightarrow$ `64% GW Irrigation` |
+| GEO-05-04 | Agri Trade Surplus vs Three Chronic Imports | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Goods Deficit vs Agri Surplus` $\leftrightarrow$ `Edible Oils` $\leftrightarrow$ `Pulses` $\leftrightarrow$ `Cotton Net Importer` $\leftrightarrow$ `2.4% Land / 4% Water / 18% People / 18% Livestock` |
+| GEO-05-05 | Rice: 40% World Trade, Basmati GI & Virtual Water | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Largest Area+Producer+Exporter` $\leftrightarrow$ `Basmati GI NW Belt vs MP Aromatic` $\leftrightarrow$ `West Asia (Iran#1)` $\leftrightarrow$ `Non-Basmati Africa/BD/Nepal` $\leftrightarrow$ `5000 L/kg Punjab` |
+| GEO-05-06 | Marine Products: Aquaculture Belt & Export Markets | 2 | ★★★★☆ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `2nd after China` $\leftrightarrow$ `Aquaculture > Capture` $\leftrightarrow$ `AP>WB>GJ>TN` $\leftrightarrow$ `USA Shrimp #1` $\leftrightarrow$ `EU + E/SE Asia` |
+| GEO-05-07 | Buffalo Meat (Carabeef): Dairy Link & Destinations | 2 | ★★★★☆ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `>50% World Buffaloes` $\leftrightarrow$ `UP/AP/MH` $\leftrightarrow$ `Boneless Boxes` $\leftrightarrow$ `Egypt Vietnam Cambodia Malaysia Russia UAE` |
+| GEO-05-08 | Sugar: Dual Food-Fuel Pathway, Crude Link & Export Ban | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UP>MH>KA` $\leftrightarrow$ `Raw Sugar→Crystal + Molasses Ethanol` $\leftrightarrow$ `2018 Juice→Ethanol` $\leftrightarrow$ `Crude↔World Sugar 1:1` $\leftrightarrow$ `Ban till Sept 2026` $\leftrightarrow$ `PDS Calories` |
+| GEO-05-09 | Tea Belts: Assam, Duars, Nilgiris & Himalayan GI | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `China 1st / India 2nd` $\leftrightarrow$ `1300 mn kg; 2/3 Domestic` $\leftrightarrow$ `Assam 50% + Bodoland Labour` $\leftrightarrow$ `Duars=Door to Himalayas` $\leftrightarrow$ `Darjeeling & Kangra GI` $\leftrightarrow$ `Russia Iran CIS China` |
+| GEO-05-10 | Coffee: Baba Budan, Coorg Dominance & Tribal Belts | 2 | ★★★★☆ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Yemen Saint→Bababudangiri/Chikmagalur` $\leftrightarrow$ `KA>70% / Coorg>50%` $\leftrightarrow$ `Araku Valley AP` $\leftrightarrow$ `Koraput Odisha` $\leftrightarrow$ `Export Value > Tea` |
+| GEO-05-11 | Edible Oils: 60% Import, Palm/Soy/Sunflower & NMEO-Oilseeds | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Comfortable till 1991` $\leftrightarrow$ `$20 bn / 60% Import` $\leftrightarrow$ `Palm=Indonesia-Malaysia + Biodiesel` $\leftrightarrow$ `Sunflower Ukraine 80%` $\leftrightarrow$ `NMEO-Oilseeds 2024 (7yr) <30%` |
+| GEO-05-12 | Pulses: Self-Sufficiency Map & Atmanirbharta Mission | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Self-Suff: Gram + Moong` $\leftrightarrow$ `Arhar←Myanmar` $\leftrightarrow$ `Masoor←E Africa` $\leftrightarrow$ `Yellow Peas←Canada/Aus/Russia` $\leftrightarrow$ `Mission 2025–31` |
+| GEO-05-13 | Cotton: Net Importer, Saurashtra–Vidarbha Belts & Pink Bollworm | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Largest Area; Net Importer ~1 yr` $\leftrightarrow$ `US/Egypt Giza/Burkina/Benin` $\leftrightarrow$ `Warm + 50–100 cm` $\leftrightarrow$ `GJ Saurashtra > MH Vidarbha > TG` $\leftrightarrow$ `Pink Bollworm` |
 
 ### Economy (Basics)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
