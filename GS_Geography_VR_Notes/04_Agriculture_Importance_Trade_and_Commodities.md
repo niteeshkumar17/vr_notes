@@ -3,8 +3,10 @@
 > **Date of Lecture:** 28 August 2026  
 > **Date Added:** 2026-08-28  
 > **Source:** Vajiram & Ravi class lecture + audio transcript + 4 handwritten notebook pages  
-> **Also relevant for:** GS-III (agriculture, food security, subsidies, trade), Prelims (crops, GI, missions), Essay  
+> **Also relevant for:** GS-III / General Studies Paper III (agriculture, food security, subsidies, trade), Prelims (crops, Geographical Indication / GI, missions), Essay  
 > **Exam strategy from class:** Do **not** memorise exact figures now — learn the *range* and the *logic*. Data is for Mains colour, not for Prelims trap questions.
+
+**How to read class shortcuts:** the notebook uses short forms for speed. In this note the **full form is given on first use**, then the short form is kept. A glossary is at the end.
 
 ---
 
@@ -14,14 +16,14 @@ Physical geography (Class XI NCERTs + G.C. Leong principles) is **static** — q
 
 | Source | How to use it |
 |:---|:---|
-| **NCERT XI & XII** | Concepts and standard definitions only |
+| **NCERT** (National Council of Educational Research and Training) **XI & XII** | Concepts and standard definitions only |
 | **G.C. Leong** | Pick **one** source per topic (do not double-read overlapping NCERT + Leong chapters) |
 | **Yellow Books** | Institute compilation (NCERT + Leong + magazines + newspapers) |
 | **Newspapers** | Primary source for class discussions. Make notes **topic-wise**, not date-wise; revise every Sunday |
 | **Economic Survey** | Two must-read chapters every February: **Agriculture & Food Management** and **Climate Change & Environment** (read the full chapter, not the summary) |
 | **Yojana / Kurukshetra** | Summary is enough if time is short |
 | **Down to Earth** | Fortnightly; **do not** read cover to cover — selective, after you know the syllabus |
-| **Ashok Gulati** | *Indian Express* Ideas page, **Mondays** — column *"From Plate to Plough"* (high GS-III yield; ASR of the lecture said “From Plague to Glow”) |
+| **Ashok Gulati** | *Indian Express* Ideas page, **Mondays** — column *"From Plate to Plough"* (high GS-III yield; the lecture audio misheard this as “From Plague to Glow”) |
 | **Harish Damodaran** | *Indian Express* Rural Affairs editor — read whenever he writes |
 
 ---
@@ -33,7 +35,7 @@ India is called a farmers' country because almost every layer of life — physic
 | Indicator | Figure to remember (range) | Source / year |
 |:---|:---|:---|
 | Workforce **directly** dependent on agriculture | **~45%** (Economic Survey: **46.2%**) | Latest Economic Survey |
-| Direct share in GDP | **~17%** (less than 20%) | Latest Economic Survey |
+| Direct share in **GDP (Gross Domestic Product)** | **~17%** (less than 20%) | Latest Economic Survey |
 | Indirect dependence | Much higher (inputs, agro-industry, rural demand) | — |
 
 The puzzle of the lecture: **how can a sector that gives <20% of GDP still be the backbone?** Because the **macro indicators** — inflation, fiscal deficit, trade — are agriculture-driven even when the GDP share is small.
@@ -53,7 +55,7 @@ There is **no single official definition** of "farmer" in India. That ambiguity 
 | **Sharecropper** (*bataidar*) | Cultivates someone else's land and **shares the harvest** (no cash rent) |
 | **Landless agricultural worker** | Daily-wage labour on another's field (e.g. pesticide spraying) |
 | **Allied activities** | Dairy, poultry, fisheries, **beekeeping** (pollination raises mustard yield; beekeeper sells honey, beeswax, royal jelly) |
-| **Tribal collectors** | Communities gathering **minor forest produce** |
+| **Tribal collectors** | Communities gathering **minor forest produce (MFP)** |
 
 > Farming is not only crop cultivation. Allied and forest-based livelihoods sit inside the same "farmer" tent that Swaminathan drew.
 
@@ -65,7 +67,7 @@ There is **no single official definition** of "farmer" in India. That ambiguity 
 
 **Engel's Law:** as income rises, the **proportion** of income spent on food **falls** (the rupee amount may still rise). A Delhi earner on ₹10,000/month may spend ~40% on food; a ₹1 crore/month earner cannot spend 40% on food.
 
-That is why **CPI** gives **maximum weight to food and beverages** — most Indians still spend a large share of income on food. Weak monsoon / **El Niño** → food inflation → headline inflation. Buffer stocks of grain can **soften the blow**.
+That is why **CPI (Consumer Price Index)** gives **maximum weight to food and beverages** — most Indians still spend a large share of income on food. Weak monsoon / **El Niño** (Pacific warming that often weakens the Indian monsoon) → food inflation → headline inflation. Buffer stocks of grain can **soften the blow**.
 
 A common newspaper metric: **cost of thali**.
 
@@ -77,6 +79,8 @@ Fiscal deficit = expenditure − revenue (the borrowing gap). Government spendin
 - **Revenue / non-capital expenditure** — salaries and **subsidies**. Being a welfare state, the largest subsidy buckets are **food and agriculture**.
 
 #### Food subsidy — NFSA / PMGKAY
+
+**NFSA** = **National Food Security Act, 2013**. **PMGKAY** = **Pradhan Mantri Garib Kalyan Anna Yojana** (the free-grain overlay on NFSA from the COVID years; from Jan 2023 the NFSA rice/wheat issue price itself became zero).
 
 | Item | Detail |
 |:---|:---|
@@ -90,16 +94,16 @@ Fiscal deficit = expenditure − revenue (the borrowing gap). Government spendin
 **Two purposes of procurement, not one:**
 
 1. **Food security** of consumers who cannot pay economic cost.
-2. **Remunerative price for farmers** via **MSP** — FCI lifts surplus so market price does not crash, then uses grain for **PDS + buffer stock**. Government often procures *more* than the strategic buffer needs, because that extra lift is what **stabilises farm prices**.
+2. **Remunerative price for farmers** via **MSP (Minimum Support Price)** — **FCI (Food Corporation of India)** lifts surplus so market price does not crash, then uses grain for the **PDS (Public Distribution System) + buffer stock**. Government often procures *more* than the strategic buffer needs, because that extra lift is what **stabilises farm prices**.
 
 #### Fertilizer subsidy — urea and DAP
 
 - **Urea** is made from **ammonia** (hydrogen from **methane/natural gas** + nitrogen from air). **~51%** of natural gas is imported, much of it from **West Asia**. Strait of Hormuz / Qatar disruption → gas dearer → urea costlier, but the farmer's retail price is held — so **subsidy balloons** (class example: ~₹1.7 lakh crore → ~₹3.4 lakh crore).
 - **~30% of India's natural gas** is used just for fertilizer.
 - Pre-2015, some urea used **naphtha** from refining. India is a **net importer of crude** but a **net exporter of petroleum products**.
-- **DAP (di-ammonium phosphate)** — **~80% imported** from **China, Morocco, Saudi Arabia, Russia**. Needs phosphoric acid ← rock phosphate + sulphuric acid.
-- **Food vs fuel / food vs cars:** China is diverting phosphoric acid into **LFP (lithium-iron-phosphate) EV batteries**, which are cheaper than lithium-ion — so less DAP/phosphoric acid for India.
-- India has a **5-year DAP offtake treaty with Saudi Arabia**, but **landed (CIF) price** still rises: Houthi risk in the **Red Sea** and trouble in the **Strait of Hormuz** raise **insurance**; the Cape of Good Hope detour raises **freight**.
+- **DAP (Diammonium Phosphate)** — **~80% imported** from **China, Morocco, Saudi Arabia, Russia**. Needs phosphoric acid ← rock phosphate + sulphuric acid.
+- **Food vs fuel / food vs cars:** China is diverting phosphoric acid into **LFP (Lithium Iron Phosphate) EV (Electric Vehicle) batteries**, which are cheaper than lithium-ion — so less DAP/phosphoric acid for India.
+- India has a **5-year DAP offtake treaty with Saudi Arabia**, but **landed CIF (Cost, Insurance and Freight) price** still rises: Houthi risk in the **Red Sea** and trouble in the **Strait of Hormuz** raise **insurance**; the Cape of Good Hope detour raises **freight**.
 - Class prediction: this year **fertilizer subsidy may exceed food subsidy**.
 
 #### Power subsidy for irrigation
@@ -108,9 +112,9 @@ Fiscal deficit = expenditure − revenue (the borrowing gap). Government spendin
 
 | Completely free farm power | Heavily subsidised |
 |:---|:---|
-| Punjab (since 2001), Andhra Pradesh, Telangana, Tamil Nadu | Bihar, UP, Rajasthan, Madhya Pradesh |
+| Punjab (since 2001), Andhra Pradesh, Telangana, Tamil Nadu | Bihar, **UP (Uttar Pradesh)**, Rajasthan, **MP (Madhya Pradesh)** |
 
-**NITI Aayog Fiscal Health Index 2026:** Punjab **last** among 18 major states; Andhra Pradesh also near the bottom — both heavy subsidy states. Tamil Nadu CM's white paper on fiscal burden makes the same point: **food + agriculture subsidies strain state finances**.
+**NITI Aayog** (*National Institution for Transforming India*) **Fiscal Health Index 2026:** Punjab **last** among 18 major states; Andhra Pradesh also near the bottom — both heavy subsidy states. Tamil Nadu **CM (Chief Minister)**'s white paper on fiscal burden makes the same point: **food + agriculture subsidies strain state finances**.
 
 ---
 
@@ -123,7 +127,7 @@ India has a **merchandise trade deficit**, but an **agricultural trade surplus**
 | Basmati + non-basmati rice | **Edible oils** (~$20 bn / year; **60%** of requirement) |
 | Marine / aquaculture products | **Pulses** (India is among the world's largest importers) |
 | Buffalo meat (*carabeef* / "buff") | **Cotton** (net importer for the last ~1 year) |
-| Tea, coffee, spices, tobacco, F&V | — |
+| Tea, coffee, spices, tobacco, **F&V (Fruits and Vegetables)** | — |
 | Sugar (when not banned) | — |
 
 **Resource paradox to quote in Mains:**
@@ -149,11 +153,11 @@ India has a **merchandise trade deficit**, but an **agricultural trade surplus**
 |:---|:---|:---|
 | Character | **Aromatic**; long grain is secondary | All other varieties |
 | Grown for | **Export** (too expensive for most Indians) | Domestic + cheap export |
-| Belt | **North-west GI belt:** Punjab, Haryana (biggest market), western UP, Uttarakhand, HP, J&K | Rest of India |
-| Markets | **West Asia is #1** (Iran biggest, then Saudi, UAE, Iraq); also EU and USA | **Africa** (DRC, Benin, Côte d'Ivoire, Burkina Faso), **Bangladesh, Nepal** |
+| Belt | **North-west GI (Geographical Indication) belt:** Punjab, Haryana (biggest market), western **UP (Uttar Pradesh)**, Uttarakhand, **HP (Himachal Pradesh)**, **J&K (Jammu and Kashmir)** | Rest of India |
+| Markets | **West Asia is #1** (Iran biggest, then Saudi, **UAE (United Arab Emirates)**, Iraq); also **EU (European Union)** and USA | **Africa** (**DRC / Democratic Republic of the Congo**, Benin, Côte d'Ivoire, Burkina Faso), **Bangladesh, Nepal** |
 | Current affair | US tariff threat over "dumping"; US grew **Texmati** (Texas) which failed commercially | — |
 
-**GI fight:** only those seven north-western states can export under the name "basmati". **Madhya Pradesh** grows aromatic rice but must label it "fragrant/aromatic" — farmers do not get the full premium, so MP demands a basmati GI; existing states say that would **dilute** the tag.
+**GI (Geographical Indication) fight:** only those seven north-western states can export under the name "basmati". **Madhya Pradesh** grows aromatic rice but must label it "fragrant/aromatic" — farmers do not get the full premium, so MP demands a basmati GI; existing states say that would **dilute** the tag.
 
 ### Virtual export of water
 
@@ -165,11 +169,11 @@ Rice is water-intensive. In **semi-arid Punjab–Haryana** it is grown on **assu
 
 - India is the **2nd largest** producer of marine products (China 1st): fish, crustaceans (crab, prawn, shrimp), seaweed.
 - Coastline **>11,000 km** (including islands) + inland water — but **maximum output is from aquaculture** (farm ponds + fingerlings), not capture fisheries.
-- **Why aquaculture:** FAO says marine stocks are **over-exploited**. **Bottom trawling** takes juveniles (fine mesh) and **bycatch** (turtles). Mechanised fishing made ocean harvest unsustainable.
+- **Why aquaculture:** **FAO (Food and Agriculture Organization of the UN)** says marine stocks are **over-exploited**. **Bottom trawling** takes juveniles (fine mesh) and **bycatch** (turtles). Mechanised fishing made ocean harvest unsustainable.
 
 | Top producing states | Export markets |
 |:---|:---|
-| **Andhra Pradesh** (esp. East & West Godavari, Krishna) > West Bengal > Gujarat > Tamil Nadu | **EU**; **USA = biggest market for Indian shrimp/prawn**; East & SE Asia (Hong Kong, Singapore) |
+| **Andhra Pradesh** (esp. East & West Godavari, Krishna) > West Bengal > Gujarat > Tamil Nadu | **EU (European Union)**; **USA = biggest market for Indian shrimp/prawn**; East & **SE (South-East) Asia** (Hong Kong, Singapore) |
 
 ---
 
@@ -178,13 +182,13 @@ Rice is water-intensive. In **semi-arid Punjab–Haryana** it is grown on **assu
 - India is the **largest producer of buffalo meat** because it holds **>50% of the world's buffaloes**.
 - Top states: **Uttar Pradesh, Andhra Pradesh, Maharashtra**.
 - Export is **boneless boxed meat**; bones have other uses. Spent buffaloes (after lactation cycles) are sold — proceeds buy a new calf and **support the dairy economy** even though the trade is politically sensitive.
-- Markets: **Egypt, Vietnam, Cambodia, Malaysia**; newer: **Russia, Central Asia, UAE**.
+- Markets: **Egypt, Vietnam, Cambodia, Malaysia**; newer: **Russia, Central Asia, UAE (United Arab Emirates)**.
 
 ---
 
 ## 8. Sugar — Dual Use, Irregular Export (GEO-05-08)
 
-Top cane/sugar states: **UP > Maharashtra > Karnataka**. World sugar also comes from **sugar beet**; India is overwhelmingly **cane**. India is the **2nd largest producer** (Brazil 1st) but the **largest consumer**.
+Top cane/sugar states: **UP (Uttar Pradesh) > Maharashtra > Karnataka**. World sugar also comes from **sugar beet**; India is overwhelmingly **cane**. India is the **2nd largest producer** (Brazil 1st) but the **largest consumer**.
 
 Export of sugar is **not regular**. Government **banned sugar export until September 2026** (likely to be extended) because: (a) we are the largest consumer; (b) high crude → mills would dump sugar abroad; (c) El Niño / weak monsoon risk to cane.
 
@@ -220,7 +224,7 @@ Export of sugar is **not regular**. Government **banned sugar export until Septe
 </div>
 <p style="text-align:center;"><em><strong>Figure:</strong> Sugarcane is either a food crop (refined sugar + molasses ethanol) or, since 2018, a fuel crop (direct juice-to-ethanol). World sugar prices move one-for-one with crude oil — which is why an export ban appears whenever oil spikes.</em></p>
 
-**Why sugar is still on PDS:** it is the **cheapest source of calories** for manual labourers who cannot afford a high-protein diet.
+**Why sugar is still on PDS (Public Distribution System):** it is the **cheapest source of calories** for manual labourers who cannot afford a high-protein diet.
 
 ---
 
@@ -232,12 +236,12 @@ Export of sugar is **not regular**. Government **banned sugar export until Septe
 | Region | Places / notes |
 |:---|:---|
 | **Assam (~50%)** | Upper Assam: **Dibrugarh, Tinsukia, Lakhimpur, Sivasagar** (where British tea began); also Udalguri, Darrang, Sonitpur |
-| **Bodoland link** | Sparse NE needed labour → British moved workers from **central and eastern India** → demography flipped → local groups became a minority → **Bodoland** demand (NDFB etc.) |
-| **West Bengal (~20–25%)** | **Darjeeling** (GI; ~6,500+ ft) and the **Duars** (Jalpaiguri, Siliguri, Alipurduar) — *dwar* = **door to the Himalayas** |
-| **South** | TN: **Ooty / Nilgiris**; Kerala: **Munnar (Idukki), Wayanad**; limited Karnataka |
-| **Western Himalaya** | UK: **Dehradun, Almora**; HP: **Kangra** (GI), **Mandi** |
+| **Bodoland link** | Sparse **NE (North-East)** needed labour → British moved workers from **central and eastern India** → demography flipped → local groups became a minority → **Bodoland** demand (**NDFB = National Democratic Front of Boroland**, etc.) |
+| **West Bengal (~20–25%)** | **Darjeeling** (**GI / Geographical Indication**; ~6,500+ ft) and the **Duars** (Jalpaiguri, Siliguri, Alipurduar) — *dwar* = **door to the Himalayas** |
+| **South** | **TN (Tamil Nadu):** **Ooty / Nilgiris**; Kerala: **Munnar (Idukki), Wayanad**; limited Karnataka |
+| **Western Himalaya** | **UK here = Uttarakhand** (not United Kingdom): **Dehradun, Almora**; **HP (Himachal Pradesh):** **Kangra** (GI), **Mandi** |
 
-**Export markets:** Russia, Iran, CIS (Commonwealth of Independent States), China (even though China is the largest producer).
+**Export markets:** Russia, Iran, **CIS (Commonwealth of Independent States)**, China (even though China is the largest producer).
 
 ---
 
@@ -270,16 +274,16 @@ Until **1991** India was fairly comfortable in edible oil. After liberalisation,
 
 **Demand side:** population + **middle-class dietary shift** after 1991 — from cereal-heavy poor diets to fat- and protein-rich diets; festival fried food became everyday; restaurant culture. (Palm oil in chips, soaps, cosmetics; biggest food use = **hydrogenated vegetable oil / vanaspati / Dalda**, because it is cheaper than mustard/soy/sunflower.)
 
-**Supply side:** Green Revolution research went into **rice and wheat**, not **oilseeds and pulses**. No comparable HYVs. Oilseeds are grown on **unirrigated, poorer land** — exactly the land El Niño hits.
+**Supply side:** Green Revolution research went into **rice and wheat**, not **oilseeds and pulses**. No comparable **HYVs (High-Yielding Varieties)**. Oilseeds are grown on **unirrigated, poorer land** — exactly the land El Niño hits.
 
 | Oil | Source | Notes |
 |:---|:---|:---|
-| **Palm oil** | **Indonesia, Malaysia** | Oil palm is **endemic to equatorial West Africa**, not SE Asia — Europeans replaced SE Asian evergreen forest with plantations. Indonesia's **biodiesel programme** → less export → **palm price high** |
+| **Palm oil** | **Indonesia, Malaysia** | Oil palm is **endemic to equatorial West Africa**, not **SE (South-East) Asia** — Europeans replaced SE Asian evergreen forest with plantations. Indonesia's **biodiesel programme** → less export → **palm price high** |
 | **Soybean oil** | Brazil, Argentina | — |
 | **Sunflower** | Ukraine, Russia, Argentina | **Ukraine ~80%** of India's sunflower oil |
 | **Canola** | Canada | A mustard-family oil |
 
-**National Mission on Edible Oils – Oilseeds (NMEO-Oilseeds), 2024, 7 years:** bring imports to **<30%** of requirement by (1) **HYV seeds** to farmers and (2) **better procurement** of oilseeds.
+**NMEO-Oilseeds = National Mission on Edible Oils – Oilseeds (2024, 7 years):** bring imports to **<30%** of requirement by (1) **HYV (High-Yielding Variety) seeds** to farmers and (2) **better procurement** of oilseeds.
 
 ---
 
@@ -304,38 +308,70 @@ India has the **largest area** under cotton, and used to be a net **exporter**. 
 
 **Imports:** USA; **Egypt (Giza cotton)**; West Africa (**Burkina Faso, Benin**).
 
-**Growing conditions:** **warm** tropics (Ukraine is Europe's northern limit; J&K / Uttarakhand / Himachal cannot grow it); rainfall **50–100 cm** (class notebook wrote 50–100 *mm* — almost certainly a missed zero; the lecture said centimetres) — **not** the heavy-rain east or Kerala.
+**Growing conditions:** **warm** tropics (Ukraine is Europe's northern limit; **J&K (Jammu and Kashmir)** / Uttarakhand / Himachal cannot grow it); rainfall **50–100 cm** (class notebook wrote 50–100 *mm* — almost certainly a missed zero; the lecture said centimetres) — **not** the heavy-rain east or Kerala.
 
 | Rank / belt | Region |
 |:---|:---|
-| **1. Gujarat** | **Saurashtra / Kathiawar plateau** — Bhavnagar, Surendranagar, Rajkot, Amreli, Porbandar, Junagadh |
-| **2. Maharashtra** | **Vidarbha** — Nagpur, Akola, Amravati, Yavatmal, Chandrapur |
+| **1. GJ (Gujarat)** | **Saurashtra / Kathiawar plateau** — Bhavnagar, Surendranagar, Rajkot, Amreli, Porbandar, Junagadh |
+| **2. MH (Maharashtra)** | **Vidarbha** — Nagpur, Akola, Amravati, Yavatmal, Chandrapur |
 | **3. Telangana** | — |
-| Other black-soil belts | SE Tamil Nadu (Tirunelveli), **Dharwad** (Karnataka), **Malwa** (MP: Indore, Ujjain, Ratlam, Dhar) |
-| North | Punjab, Haryana, Rajasthan |
+| Other black-soil belts | **SE (South-East) Tamil Nadu** (Tirunelveli), **Dharwad** (Karnataka), **Malwa — MP (Madhya Pradesh):** Indore, Ujjain, Ratlam, Dhar |
+| North | Punjab, **HR (Haryana)**, **RJ (Rajasthan)** |
 
 > **One-line reason production collapsed: Pink Bollworm.** Detail in a later lecture.
 
 ---
 
+## Abbreviations used in class sheets
+
+| Shortcut on the sheet | Full form |
+|:---|:---|
+| **PDS** | Public Distribution System |
+| **NFSA** | National Food Security Act, 2013 |
+| **PMGKAY** | Pradhan Mantri Garib Kalyan Anna Yojana |
+| **MSP** | Minimum Support Price |
+| **FCI** | Food Corporation of India |
+| **CPI** | Consumer Price Index |
+| **GDP** | Gross Domestic Product |
+| **DAP** | Diammonium Phosphate |
+| **LFP** | Lithium Iron Phosphate (battery chemistry) |
+| **EV** | Electric Vehicle |
+| **CIF** | Cost, Insurance and Freight (landed import price) |
+| **GI** | Geographical Indication |
+| **HYV** | High-Yielding Variety |
+| **NMEO** | National Mission on Edible Oils |
+| **MFP** | Minor Forest Produce |
+| **FAO** | Food and Agriculture Organization (UN) |
+| **NITI** | National Institution for Transforming India |
+| **CIS** | Commonwealth of Independent States |
+| **EU** | European Union |
+| **UAE** | United Arab Emirates |
+| **F&V** | Fruits and Vegetables |
+| **NDFB** | National Democratic Front of Boroland |
+| **AP / GJ / MH / KA / WB / TN / UP / MP / HP / HR / RJ / J&K** | Andhra Pradesh / Gujarat / Maharashtra / Karnataka / West Bengal / Tamil Nadu / Uttar Pradesh / Madhya Pradesh / Himachal Pradesh / Haryana / Rajasthan / Jammu and Kashmir |
+| **UK** *(in this lecture)* | **Uttarakhand** — not the United Kingdom |
+| **SE / NE** | South-East / North-East |
+
+---
+
 ## UPSC Cues & PYQ Connections
 
-- **Workforce vs GDP gap** (45% workers, 17% GDP) is the standard "disguised unemployment / structural transformation" Mains hook.
-- **No legal definition of farmer** + Swaminathan's inclusive list (tenant, sharecropper, landless, allied, MFP).
-- **Engel's Law** → why CPI is food-heavy.
-- **NFSA coverage (75/50)** and the **2023 free-grain shift**; economic cost vs issue price.
-- **MSP = price support + PDS + buffer**, not charity.
-- **DAP 80% imported**; phosphoric acid → **LFP batteries**; Red Sea / Hormuz **CIF** shock.
+- **Workforce vs GDP (Gross Domestic Product) gap** (45% workers, 17% GDP) is the standard "disguised unemployment / structural transformation" Mains hook.
+- **No legal definition of farmer** + Swaminathan's inclusive list (tenant, sharecropper, landless, allied, **MFP / Minor Forest Produce**).
+- **Engel's Law** → why **CPI (Consumer Price Index)** is food-heavy.
+- **NFSA (National Food Security Act) coverage (75/50)** and the **2023 free-grain shift**; economic cost vs issue price.
+- **MSP (Minimum Support Price) = price support + PDS (Public Distribution System) + buffer**, not charity.
+- **DAP (Diammonium Phosphate) 80% imported**; phosphoric acid → **LFP (Lithium Iron Phosphate) batteries**; Red Sea / Hormuz **CIF (Cost, Insurance and Freight)** shock.
 - **64% irrigation = groundwater**; free power ↔ Punjab's fiscal rank.
 - **Agri trade surplus vs three chronic imports** (oil, pulses, now cotton).
 - **Rice: 40% of world exports** vs **virtual water** (5,000 L/kg in Punjab).
-- **Basmati GI belt** vs MP's aromatic rice; **Texmati**.
+- **Basmati GI (Geographical Indication) belt** vs **MP (Madhya Pradesh)**'s aromatic rice; **Texmati**.
 - **Duars = door to the Himalayas**; Darjeeling & Kangra GI tea.
 - **Baba Budan / Yemen → Chikmagalur coffee**; Araku, Koraput.
-- **Palm oil not native to SE Asia**; Indonesia biodiesel.
-- **NMEO-Oilseeds (2024)** and **Mission for Atmanirbharta in Pulses (2025–31)**.
+- **Palm oil not native to SE (South-East) Asia**; Indonesia biodiesel.
+- **NMEO-Oilseeds (National Mission on Edible Oils – Oilseeds, 2024)** and **Mission for Atmanirbharta in Pulses (2025–31)**.
 - **Pink bollworm** as the cotton-import trigger.
 
 ---
 
-<!-- 2026-08-28: Created from Geography lecture (28 Aug 2026) — book-list strategy, agriculture as backbone (45%/17%), Swaminathan farmer definition, Engel's Law & CPI, NFSA/PMGKAY free grain, MSP-PDS-buffer logic, urea/DAP/power subsidies, agri trade surplus, rice (basmati GI, virtual water), marine aquaculture, buffalo meat, sugar dual-use + crude-oil link + export ban, tea belts & Bodoland/Duars, coffee (Baba Budan, Araku, Koraput), edible-oil import surge & NMEO-Oilseeds, pulses mission, cotton belts & pink bollworm. One inline SVG (sugarcane pathways). Source: handwritten notes (4 pages) + audio transcript dated 28 Aug 2026. -->
+<!-- 2026-08-28: Created from Geography lecture (28 Aug 2026). 2026-08-28 later: expanded class shortcuts to full forms on first use + glossary (PDS, NFSA, MSP, GI, state codes, UK=Uttarakhand, etc.). -->

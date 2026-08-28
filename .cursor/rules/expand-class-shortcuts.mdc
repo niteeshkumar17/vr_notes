@@ -1,0 +1,15 @@
+---
+description: Expand handwritten class shortcuts to full forms in VR lecture notes
+globs: GS_*_VR_Notes/**/*.md
+alwaysApply: true
+---
+
+# Expand class shortcuts in lecture notes
+
+Nik writes **short forms** in class notebooks for speed (PDS, MSP, GI, DAP, UP, UK, F&V, etc.). When converting sheets + transcripts into VR notes:
+
+1. On **first use**, write **Full Form (SHORT)**. After that the short form is fine.
+2. Never leave a scheme, law, index, or state code as letters-only if the sheet used a shortcut. Examples: PDS → Public Distribution System; NFSA → National Food Security Act, 2013; MSP → Minimum Support Price; GI → Geographical Indication; DAP → Diammonium Phosphate.
+3. Expand **state codes** (AP, GJ, MH, KA, WB, TN, UP, MP, HP, HR, RJ, J&K). If **UK** appears next to Dehradun/Almora, it is **Uttarakhand**, not the United Kingdom — say so explicitly.
+4. Add a small **abbreviations table** at the end of a lecture note whenever the sheets are shortcut-heavy.
+5. Do not invent full forms. If a shortcut is unclear from the transcript/sheet, keep the short form and flag it.
