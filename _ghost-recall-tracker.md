@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-28
-*   **Active Micro-Topics:** 333
+*   **Active Micro-Topics:** 344
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 11
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 13
+*   **New Topics Ingested Today:** 24
 *   **Weekly Backlog:** 0
 
 ---
@@ -157,6 +157,21 @@
 | GEO-05-11 | Edible Oils: 60% Import, Palm/Soy/Sunflower & NMEO-Oilseeds | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Comfortable till 1991` $\leftrightarrow$ `$20 bn / 60% Import` $\leftrightarrow$ `Palm=Indonesia-Malaysia + Biodiesel` $\leftrightarrow$ `Sunflower Ukraine 80%` $\leftrightarrow$ `NMEO-Oilseeds 2024 (7yr) <30%` |
 | GEO-05-12 | Pulses: Self-Sufficiency Map & Atmanirbharta Mission | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Self-Suff: Gram + Moong` $\leftrightarrow$ `Arhar←Myanmar` $\leftrightarrow$ `Masoor←E Africa` $\leftrightarrow$ `Yellow Peas←Canada/Aus/Russia` $\leftrightarrow$ `Mission 2025–31` |
 | GEO-05-13 | Cotton: Net Importer, Saurashtra–Vidarbha Belts & Pink Bollworm | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Largest Area; Net Importer ~1 yr` $\leftrightarrow$ `US/Egypt Giza/Burkina/Benin` $\leftrightarrow$ `Warm + 50–100 cm` $\leftrightarrow$ `GJ Saurashtra > MH Vidarbha > TG` $\leftrightarrow$ `Pink Bollworm` |
+
+### Environment & Ecology (Ecosystem, Biodiversity & Productivity)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ENV-01-01 | Env Syllabus Split: Conceptual vs CA + 2-Year Prelims Window | 1 | ★★★★☆ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ecosystem/Biodiversity/Biomes/Productivity` $\leftrightarrow$ `Env Challenges` $\leftrightarrow$ `Env Governance of India` $\leftrightarrow$ `NCERT XII Last Unit` $\leftrightarrow$ `Prelims CA = Previous 2 Years` |
+| ENV-01-02 | Environment vs Ecosystem: Tansley Definition & Biotic-Abiotic Links | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Surroundings = Biotic+Abiotic` $\leftrightarrow$ `Functional Unit` $\leftrightarrow$ `A.G. Tansley` $\leftrightarrow$ `Energy+Nutrient Flow` $\leftrightarrow$ `Orographic Rainfall` $\leftrightarrow$ `Terrestrial/Aquatic; Natural/Artificial` |
+| ENV-01-03 | Trophic Structure, Thermodynamics & 10% Rule | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Trophos=Food` $\leftrightarrow$ `Biotic Only` $\leftrightarrow$ `Unidirectional Energy` $\leftrightarrow$ `10% Transfer` $\leftrightarrow$ `Generally 4 TL; Max 5` $\leftrightarrow$ `Tapered Pyramid` |
+| ENV-01-04 | Macronutrients, Carbon Cycle & Nitrogen Cycle Bacteria | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `C H N O vs Cu Zn Fe` $\leftrightarrow$ `4 Reservoirs` $\leftrightarrow$ `Energy Uni vs Nutrient Cycle` $\leftrightarrow$ `Rhizobium+Azotobacter` $\leftrightarrow$ `Nitrosomonas/Nitrobacter` $\leftrightarrow$ `Pseudomonas Denitrification` |
+| ENV-01-05 | Gaseous vs Sedimentary BGC Cycles: Phosphorus & Sulphur PYQ Trap | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gaseous=Atmosphere (C,N,H2O)` $\leftrightarrow$ `Sedimentary=Crust Only` $\leftrightarrow$ `P = Weathering Only` $\leftrightarrow$ `S = Weathering+Volcanism (SO2)` $\leftrightarrow$ `MAIN Source = P` |
+| ENV-01-06 | Ecological Productivity: GPP, NPP, PAR Equation | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Rate of Biomass / Area` $\leftrightarrow$ `NPP=GPP−R` $\leftrightarrow$ `GPP 2–10% PAR` $\leftrightarrow$ `R~20% GPP` $\leftrightarrow$ `NPP 1.6–8% PAR` $\leftrightarrow$ `Default Q = Primary` |
+| ENV-01-07 | Terrestrial NPP Controls: Temperature, Water, Nutrients | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Positive Correlation` $\leftrightarrow$ `Simultaneous Interplay` $\leftrightarrow$ `Low Lat / Low Elev` $\leftrightarrow$ `Sahara Water-Limited` $\leftrightarrow$ `Amazon vs Sahara` |
+| ENV-01-08 | Biodiversity: Genetic, Species (Richness+Evenness) & Ecosystem | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Totality of Genes/Species/Ecosystems` $\leftrightarrow$ `Gene Pool Variety` $\leftrightarrow$ `Range of Tolerance→Resilience` $\leftrightarrow$ `Evenness from 10% Rule` |
+| ENV-01-09 | Project Tiger 1973: NTCA, 3682 Census & Tiger Capital | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CSS 1973` $\leftrightarrow$ `NTCA Statutory under MoEF&CC` $\leftrightarrow$ `3682 vs 1411 (2006)` $\leftrightarrow$ `>70% World` $\leftrightarrow$ `Phase-2 = Genetics not just Headcount` |
+| ENV-01-10 | Similipal: Pseudo-Melanism, Fragmentation & Inbreeding | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Odisha Largest TR` $\leftrightarrow$ `Wider Black Stripes ≠ Disease` $\leftrightarrow$ `Melanistic=Fully Black` $\leftrightarrow$ `Habitat Loss vs Fragmentation` $\leftrightarrow$ `Inbreeding` $\leftrightarrow$ `Wildlife Corridors` |
+| ENV-01-11 | High-NPP High-Biodiversity Ecosystems: Rainforest, Mangrove, Coral, Wetland | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Positive PP↔BD` $\leftrightarrow$ `Equatorial RF 10°N–S Amazon` $\leftrightarrow$ `Mangrove Intertidal 30° Sundarbans` $\leftrightarrow$ `Coral 30° GBR` $\leftrightarrow$ `Wular/Sambhar/Chilika/Loktak/Kanwar/Vembanad` |
 
 ### Economy (Basics)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |

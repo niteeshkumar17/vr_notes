@@ -389,6 +389,12 @@
       "title": "Advanced Taxation Gmct Mat Stt Cgt Dtaa Dtc"
     }
   ],
+  "GS_Environment_VR_Notes": [
+    {
+      "file": "01_Ecosystem_Biodiversity_and_Productivity.md",
+      "title": "Ecosystem Biodiversity And Productivity"
+    }
+  ],
   "GS_Geography_VR_Notes": [
     {
       "file": "01_Fundamentals_of_Geography.md",
