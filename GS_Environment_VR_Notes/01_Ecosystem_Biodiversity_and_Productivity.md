@@ -139,10 +139,10 @@ Carbon starts as **CO₂ (carbon dioxide) in the atmosphere** and **returns as C
 <text x="60" y="230" text-anchor="middle" font-size="11.5" fill="#312e81">unlocks C</text>
 <path d="M 250 78 Q 318 110 300 170" fill="none" stroke="#334155" stroke-width="2" />
 <polygon points="292,160 308,168 296,176" fill="#334155" />
-<text x="318" y="128" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">photosynthesis</text>
+<text x="300" y="128" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">photosynthesis</text>
 <path d="M 300 250 Q 318 300 274 328" fill="none" stroke="#334155" stroke-width="2" />
 <polygon points="280,316 272,332 264,318" fill="#334155" />
-<text x="328" y="292" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">dies / eaten</text>
+<text x="306" y="292" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">dies / eaten</text>
 <path d="M 86 354 Q 28 300 60 250" fill="none" stroke="#334155" stroke-width="2" />
 <polygon points="52,260 60,248 70,258" fill="#334155" />
 <text x="28" y="312" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">to microbes</text>
@@ -157,56 +157,56 @@ Carbon starts as **CO₂ (carbon dioxide) in the atmosphere** and **returns as C
 
 ### Nitrogen cycle
 
-Plants **cannot** use atmospheric **N₂ (nitrogen gas)** directly. Usable soil forms: **NO₃⁻ (nitrate)** and **NH₄⁺ (ammonium)**. Read **clockwise** for fixation → uptake → death. The **left-hand blue arc** is denitrification — that is the arrow that closes the cycle.
+Plants **cannot** use atmospheric **N₂ (nitrogen gas)** directly. Usable soil forms: **NO₃⁻ (nitrate)** and **NH₄⁺ (ammonium)**. Read **clockwise**: fixation → uptake → death. The **blue arc** is denitrification — that closes the cycle. The short orange arrow is **decomposition** feeding ions back into the soil pool (an inner loop, not a shortcut through the hub).
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 428" role="img" aria-label="Nitrogen cycle as a closed ring: fixation down, denitrification back up" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 428" role="img" aria-label="Nitrogen cycle as a closed clockwise ring with denitrification return and a separate soil decomposition loop" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <rect x="1" y="1" width="358" height="426" rx="12" fill="#f8fafc" stroke="#e2e8f0" />
 <text x="180" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Nitrogen cycle — closed ring (clockwise)</text>
-<circle cx="180" cy="210" r="96" fill="none" stroke="#fde68a" stroke-width="22" />
-<circle cx="180" cy="210" r="52" fill="#fffbeb" stroke="#f59e0b" stroke-width="2" />
-<text x="180" y="200" text-anchor="middle" font-size="16" font-weight="700" fill="#b45309">N</text>
-<text x="180" y="216" text-anchor="middle" font-size="11.5" fill="#92400e">N₂ goes down</text>
-<text x="180" y="232" text-anchor="middle" font-size="11.5" fill="#92400e">N₂ comes back</text>
-<rect x="90" y="38" width="180" height="52" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2" />
-<text x="180" y="59" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">N₂ Atmosphere</text>
-<text x="180" y="76" text-anchor="middle" font-size="11.5" fill="#1e3a8a">nitrogen gas — plants cannot use</text>
-<rect x="246" y="164" width="108" height="92" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2" />
-<text x="300" y="186" text-anchor="middle" font-size="12.5" font-weight="700" fill="#92400e">Soil pool</text>
-<text x="300" y="204" text-anchor="middle" font-size="11.5" fill="#78350f">NO₃⁻ nitrate</text>
-<text x="300" y="220" text-anchor="middle" font-size="11.5" fill="#78350f">NH₄⁺ ammonium</text>
-<text x="300" y="238" text-anchor="middle" font-size="11.5" fill="#78350f">usable ions</text>
-<rect x="90" y="328" width="180" height="52" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2" />
-<text x="180" y="349" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Plants — Biosphere</text>
-<text x="180" y="366" text-anchor="middle" font-size="11.5" fill="#14532d">uptake of soil ions</text>
-<rect x="6" y="164" width="108" height="92" rx="10" fill="#ffedd5" stroke="#ea580c" stroke-width="2" />
-<text x="60" y="186" text-anchor="middle" font-size="12.5" font-weight="700" fill="#9a3412">Dead litter</text>
-<text x="60" y="204" text-anchor="middle" font-size="11.5" fill="#7c2d12">dies / eaten</text>
-<text x="60" y="220" text-anchor="middle" font-size="11.5" fill="#7c2d12">N in organic form</text>
-<text x="60" y="238" text-anchor="middle" font-size="11.5" fill="#7c2d12">then decomposes</text>
-<path d="M 250 78 Q 318 110 300 164" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="292,154 308,162 296,170" fill="#334155" />
-<text x="322" y="122" text-anchor="middle" font-size="11.5" font-weight="700" fill="#92400e">fixation</text>
-<text x="322" y="138" text-anchor="middle" font-size="11" fill="#78350f">lightning + bacteria</text>
-<path d="M 280 256 Q 260 300 270 328" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="262,316 270,330 278,316" fill="#334155" />
-<text x="318" y="300" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">uptake</text>
-<path d="M 90 354 Q 36 300 60 256" fill="none" stroke="#334155" stroke-width="2" />
-<polygon points="50,266 60,254 70,266" fill="#334155" />
-<text x="28" y="316" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">death</text>
-<path d="M 114 210 Q 180 248 246 210" fill="none" stroke="#ea580c" stroke-width="1.8" />
-<polygon points="236,204 248,210 236,216" fill="#ea580c" />
-<text x="180" y="268" text-anchor="middle" font-size="11.5" font-weight="700" fill="#c2410c">decomp. back to soil</text>
-<path d="M 60 164 Q 24 90 90 64" fill="none" stroke="#1d4ed8" stroke-width="3" />
-<polygon points="80,72 92,60 98,74" fill="#1d4ed8" />
-<text x="26" y="108" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">denitrification</text>
-<text x="26" y="124" text-anchor="middle" font-size="11" fill="#1e40af">Pseudomonas</text>
-<text x="26" y="138" text-anchor="middle" font-size="11" fill="#1e40af">N₂ back to air</text>
-<text x="180" y="400" text-anchor="middle" font-size="11.5" fill="#334155">Fixation takes N₂ down. Denitrification (blue) sends N₂ up.</text>
-<text x="180" y="416" text-anchor="middle" font-size="11.5" fill="#64748b">Nitrification (Nitrosomonas, Nitrobacter) keeps soil ions usable</text>
+<circle cx="180" cy="200" r="78" fill="none" stroke="#fde68a" stroke-width="16" />
+<circle cx="180" cy="200" r="44" fill="#fffbeb" stroke="#f59e0b" stroke-width="2" />
+<text x="180" y="196" text-anchor="middle" font-size="18" font-weight="700" fill="#b45309">N</text>
+<text x="180" y="214" text-anchor="middle" font-size="11.5" fill="#92400e">N₂ ↻ N₂</text>
+<rect x="90" y="36" width="180" height="50" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2" />
+<text x="180" y="56" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">N₂ Atmosphere</text>
+<text x="180" y="74" text-anchor="middle" font-size="11.5" fill="#1e3a8a">nitrogen gas — unusable</text>
+<rect x="248" y="156" width="104" height="88" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2" />
+<text x="300" y="176" text-anchor="middle" font-size="12.5" font-weight="700" fill="#92400e">Soil pool</text>
+<text x="300" y="194" text-anchor="middle" font-size="11.5" fill="#78350f">NO₃⁻ nitrate</text>
+<text x="300" y="210" text-anchor="middle" font-size="11.5" fill="#78350f">NH₄⁺ ammonium</text>
+<text x="300" y="228" text-anchor="middle" font-size="11.5" fill="#78350f">usable ions</text>
+<rect x="90" y="314" width="180" height="50" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2" />
+<text x="180" y="334" text-anchor="middle" font-size="13" font-weight="700" fill="#166534">Plants — Biosphere</text>
+<text x="180" y="352" text-anchor="middle" font-size="11.5" fill="#14532d">uptake of soil ions</text>
+<rect x="8" y="156" width="104" height="88" rx="10" fill="#ffedd5" stroke="#ea580c" stroke-width="2" />
+<text x="60" y="176" text-anchor="middle" font-size="12.5" font-weight="700" fill="#9a3412">Dead litter</text>
+<text x="60" y="194" text-anchor="middle" font-size="11.5" fill="#7c2d12">organic N</text>
+<text x="60" y="210" text-anchor="middle" font-size="11.5" fill="#7c2d12">after death</text>
+<text x="60" y="228" text-anchor="middle" font-size="11.5" fill="#7c2d12">of plants</text>
+<path d="M 248 72 Q 304 100 300 156" fill="none" stroke="#334155" stroke-width="2" />
+<polygon points="292,146 304,156 288,154" fill="#334155" />
+<text x="300" y="108" text-anchor="middle" font-size="11.5" font-weight="700" fill="#92400e">fixation</text>
+<text x="300" y="124" text-anchor="middle" font-size="11" fill="#78350f">lightning + bacteria</text>
+<path d="M 280 244 Q 268 286 270 314" fill="none" stroke="#334155" stroke-width="2" />
+<polygon points="262,302 270,316 278,302" fill="#334155" />
+<text x="304" y="286" text-anchor="middle" font-size="11.5" font-weight="700" fill="#166534">uptake</text>
+<path d="M 90 339 Q 40 286 60 244" fill="none" stroke="#334155" stroke-width="2" />
+<polygon points="50,254 60,242 70,254" fill="#334155" />
+<text x="36" y="300" text-anchor="middle" font-size="11.5" font-weight="700" fill="#9a3412">death</text>
+<line x1="112" y1="258" x2="248" y2="258" stroke="#ea580c" stroke-width="2" />
+<polygon points="238,252 250,258 238,264" fill="#ea580c" />
+<text x="180" y="276" text-anchor="middle" font-size="11.5" font-weight="700" fill="#c2410c">decomp. → soil ions</text>
+<path d="M 60 156 Q 28 86 90 61" fill="none" stroke="#1d4ed8" stroke-width="3" />
+<polygon points="80,70 92,58 98,72" fill="#1d4ed8" />
+<text x="40" y="100" text-anchor="middle" font-size="11.5" font-weight="700" fill="#1d4ed8">denitrification</text>
+<text x="40" y="116" text-anchor="middle" font-size="11" fill="#1e40af">Pseudomonas</text>
+<text x="40" y="132" text-anchor="middle" font-size="11" fill="#1e40af">N₂ back to air</text>
+<text x="180" y="386" text-anchor="middle" font-size="11.5" fill="#334155">Outer ring: N₂ down by fixation, N₂ up by denitrification.</text>
+<text x="180" y="404" text-anchor="middle" font-size="11.5" fill="#334155">Inner orange arrow: litter → soil (decomposition).</text>
+<text x="180" y="420" text-anchor="middle" font-size="11.5" fill="#64748b">Nitrification (Nitrosomonas, Nitrobacter) keeps those soil ions usable</text>
 </svg>
 </div>
-<p style="text-align:center;"><em><strong>Figure:</strong> Nitrogen is a <strong>cycle</strong> because of the thick blue arc — <strong>denitrification</strong>. Without it, fixation would be a one-way drain of N₂ from the air.</em></p>
+<p style="text-align:center;"><em><strong>Figure:</strong> Nitrogen is a <strong>cycle</strong> because of the thick blue arc — <strong>denitrification</strong>. The orange line is a side-loop that returns N to the soil, not a second trip through the centre.</em></p>
 
 | Bacterium | Role as taught | Extra precision |
 |:---|:---|:---|
@@ -395,4 +395,4 @@ Largest tiger reserve of Odisha. Famous for **pseudo-melanistic** tigers: **blac
 
 ---
 
-<!-- 2026-08-28: Created from Environment & Ecology Lecture 1. Later: C and N redrawn as clockwise rings with a highlighted return arc. -->
+<!-- 2026-08-28: Created from Environment & Ecology Lecture 1. Later: C/N as clockwise rings; N decomp pulled off the hub so it no longer crosses the centre. -->
