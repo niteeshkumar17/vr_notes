@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-29
-*   **Active Micro-Topics:** 362
+*   **Active Micro-Topics:** 364
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 11
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 15
+*   **New Topics Ingested Today:** 17
 *   **Weekly Backlog:** 0
 
 ---
@@ -383,6 +383,8 @@
 | CA-260828-01 | Bodoland: Sixth Schedule BTC/BTR, Three Accords 1993/2003/2020, AMTM ADCs & BPF-UPPL-BJP Triangle | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bodoland Territorial Council` $\leftrightarrow$ `Sixth Schedule Art 244(2)/275(1)` $\leftrightarrow$ `Bodo Accords 1993 BAC / 2003 BTAD / 2020 BTR` $\leftrightarrow$ `Fifth vs Sixth Schedule` $\leftrightarrow$ `92nd CAA Bodo 8th Schedule` $\leftrightarrow$ `BPF-UPPL-BJP` |
 | CA-260828-02 | Delimitation Freeze: Art 81/82, 42nd & 84th CAA, 1971 Census & First Census after 2026 | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 81` $\leftrightarrow$ `Article 82` $\leftrightarrow$ `42nd CAA 1976` $\leftrightarrow$ `84th CAA 2001` $\leftrightarrow$ `1971 Census Freeze` $\leftrightarrow$ `87th CAA Intra-State` |
 | CA-260828-03 | Quraishi: Keep Lok Sabha at 543, Intra-State Delimitation, Vidhan Sabha Expansion & Women's Reservation without Enlargement | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `543 Lok Sabha` $\leftrightarrow$ `S.Y. Quraishi CEC` $\leftrightarrow$ `106th CAA Nari Shakti` $\leftrightarrow$ `Vidhan Sabha Art 170` $\leftrightarrow$ `Federal Fairness South` $\leftrightarrow$ `Parliamentary Deliberation` |
+| CA-260829-01 | Nepal Rasuwa Ice-Rock Collapse: Lhende Khola to Bhotekoshi-Trishuli Transboundary Cascade | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Lhende Khola Tibet-Nepal` $\leftrightarrow$ `Bhotekoshi Trishuli` $\leftrightarrow$ `Ice Rock Permafrost` $\leftrightarrow$ `Debris Dam Outburst` $\leftrightarrow$ `Rasuwa` $\leftrightarrow$ `Cryosphere Load` |
+| CA-260829-02 | New Moraine-Dammed Lakes, NDMA Satellite Watch & 30-45 Minute GLOF Warning Limit | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `19.80 ha / 7.28 ha Lakes` $\leftrightarrow$ `Moraine Dam` $\leftrightarrow$ `Krishna Vatsa NDMA` $\leftrightarrow$ `Lake Not Imminent GLOF` $\leftrightarrow$ `30-45 min EWS` $\leftrightarrow$ `Suhora Lhende Khola` |
 
 ---
 
