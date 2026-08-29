@@ -1,9 +1,9 @@
 # 03 — Climatology: Atmosphere and Troposphere
 
-> **Date of Lecture:** 25 August 2026 (Lecture 6)  
-> **Date Added:** 2026-08-25  
-> **Source:** Vajiram & Ravi class lecture + audio transcript + 5 handwritten notebook pages  
-> **Topics Covered:** Basic properties of the atmosphere, heat transfer, vertical zonation, troposphere, air circulation, albedo, and adiabatic temperature change
+> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)**  
+> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**  
+> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8)  
+> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**
 
 ---
 
@@ -433,4 +433,325 @@ graph TD
 
 ---
 
+# Lecture 7 — 29 August 2026
+
+> Continues Lecture 6. Four questions the class was collecting tools for: (1) why tropopause height varies, (2) why the troposphere is the geographer's real atmosphere, (3) why it is named *troposphere*, (4) why the lower stratosphere is the ideal flying zone. Then the first two *pieces* of the **tropospheric air-circulation** puzzle (Lectures 8–10).
+
+**How to read class shortcuts:** **ELR** = Environmental Lapse Rate; **NLR** = Normal Lapse Rate. Full forms on first use; glossary at the end of this lecture block.
+
+---
+
+## 14. Environmental Lapse Rate and Normal Lapse Rate (GEO-06-01)
+
+**Lapse** in English = decline. In the atmosphere we quantify *how fast* temperature falls with height. That rate depends on the **local weather**, so it is a tool for comparing weather, not a single worldwide constant.
+
+### 14.1 Environmental Lapse Rate (ELR)
+
+> **ELR:** the **actual** rate of decline of temperature with increase in height in the atmosphere at a **particular place and time**, under **local weather conditions**.
+
+- If you could go up over Karol Bagh at 4 pm and measure it, that observed value is today's ELR there.
+- Change the **place** (Delhi vs Chennai — inland vs coast) → ELR changes. That is **spatial** variation.
+- Change the **time** (afternoon vs 7 pm, or summer vs winter) at the same place → ELR changes. That is **temporal** variation.
+
+> **ELR has lots of spatial and temporal variations.** It is the *weather-department* number, not the GS average.
+
+### 14.2 Normal Lapse Rate (NLR)
+
+A GS student does not need every local sounding. Scientists averaged ELRs of many places and many years.
+
+> **NLR:** the **average** of the ELR. Generally estimated as a decline of about **6.5 °C per km** rise in the atmosphere.
+
+- Keyword in ELR = **actual**. Keyword in NLR = **average**.
+- On a given day the ELR may be less than, close to, or more than 6.5 °C/km — same logic as an “expected exam score” vs the score you actually get.
+
+| | ELR | NLR |
+|:---|:---|:---|
+| Meaning | Observed lapse *here, now* | Long-run average of ELRs |
+| Value | Varies in space and time | **~6.5 °C / km** |
+| Use | Weather / sounding | GS baseline (“what do I expect if I go up?”) |
+
+---
+
+## 15. Temperature Inversion — and What It Is *Not* (GEO-06-02)
+
+Routine: temperature **falls** with height (ELR). Special case: it **rises**.
+
+> **Temperature inversion:** an atmospheric condition in which, with increase in height, there is an **increase** in temperature rather than the usual ELR decline.
+
+**Inversion** in English = the opposite of what you expect. You expect decline; you get rise.
+
+### 15.1 Do not confuse inversion with stratosphere / thermosphere
+
+Last lecture: temperature **rises** with height in the **stratosphere** (ozone absorbs ultraviolet) and in the **thermosphere** (ionisation / high-energy absorption). That is **not** called inversion.
+
+| Layer | Temperature rises with height because… | Inversion? |
+|:---|:---|:---|
+| **Stratosphere** | Ozone (O₃) — you *expect* warming, and you *get* warming | **No** |
+| **Thermosphere** | Ionisation — you *expect* warming, and you *get* warming | **No** |
+| **Troposphere** (usual) | Heated from below → ELR decline | — |
+| **Troposphere** (special) | You expect decline, you get rise | **Yes** |
+
+> **Temperature inversion as a phenomenon primarily relates to the troposphere.**
+
+**Why “primarily”, not “only”?** Two reasons from class:
+
+1. Nature is complex — never make an absolute statement.
+2. Of the 6–7 inversion examples coming in this course, **all but one** sit inside the troposphere. The **first** example (today) is the exception: inversion **across the tropopause** (cold tropospheric top under a warmer lower stratosphere). Writing “only troposphere” would be caught by that one case.
+
+---
+
+## 16. Why Tropopause Height Varies — and the Apparent Paradox (GEO-06-03)
+
+Redraw the Lecture 6 wedge. Average tropopause **13–14 km**; **16–18 km** over the equator; **8–10 km** over the poles. The tropopause is an **inclined** transition, not a flat lid.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 272" role="img" aria-label="Tropopause higher and colder over the equator than over the North Pole" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="504" height="256" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="260" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Tropopause = lid of the weather sphere</text>
+<ellipse cx="360" cy="48" rx="118" ry="16" fill="#e0f2fe" stroke="#0284c7" stroke-width="1"/>
+<text x="360" y="52" text-anchor="middle" font-size="11" fill="#0369a1">Isothermal zone (lower stratosphere)</text>
+<line x1="48" y1="200" x2="472" y2="200" stroke="#334155" stroke-width="2"/>
+<text x="68" y="218" font-size="12" fill="#0f172a">N. Pole</text>
+<text x="418" y="218" font-size="12" fill="#0f172a">Equator</text>
+<polygon points="70,196 70,164 448,88 448,196" fill="#dcfce7" stroke="#166534" stroke-width="1"/>
+<line x1="70" y1="164" x2="448" y2="88" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="230" y="118" font-size="12" font-weight="700" fill="#1d4ed8">Tropopause</text>
+<text x="84" y="156" font-size="11" fill="#1e3a8a">8–10 km</text>
+<text x="84" y="142" font-size="11" fill="#b91c1c">-45 C</text>
+<text x="392" y="80" font-size="11" fill="#1e3a8a">16–18 km</text>
+<text x="392" y="66" font-size="11" fill="#b91c1c">-80 C</text>
+<text x="200" y="178" font-size="12" fill="#166534">Troposphere = weather sphere</text>
+<text x="36" y="242" font-size="11" fill="#475569">Stronger convection: air rises higher, lapse seen to greater height, tropopause higher and colder.</text>
+<text x="36" y="258" font-size="11" fill="#475569">Weaker convection toward poles: tropopause lower and less cold at its top.</text>
+</svg>
+</div>
+
+### 16.1 Why the equator’s tropopause is higher
+
+Lower latitudes are the most intensely heated belt (Sun stays between the tropics; rays at a **higher angle** → thinner atmospheric path + energy concentrated on a smaller area). So they have **very strong convectional currents**.
+
+- **Warmer the air, higher it rises.**
+- As warm air rises it is **adiabatically cooled** (expansion).
+- Therefore the decline of temperature is seen up to **greater elevations** over the lower latitudes — in particular over the equator, generally **16–18 km**.
+- As we go higher in latitude, convection gets weaker — warm air rises only to a **lower** elevation. Decline of temperature is seen only up to **8–10 km** over the poles.
+
+This is the **spatial** variation of tropopause height. PYQ (Previous Year Question) theme (asked about three times): *why is tropopause higher over the equator?*
+
+### 16.2 Temporal variation
+
+What decides the height is **convection**. Convection at a given place also changes with time (cloud cover, season).
+
+- **Summer** = stronger convection → **higher** tropopause at that place.
+- Winter / weaker heating → lower tropopause.
+
+So tropopause height varies **spatially** (place to place) **and temporally** (at one place).
+
+### 16.3 Apparent paradox (exam line)
+
+At tropopause height:
+
+| Place | Height | Typical temperature |
+|:---|:---|:---|
+| Equator (hottest surface) | 16–18 km | about **−80 °C** |
+| Poles (coldest surface) | 8–10 km | about **−45 °C** |
+
+> It is **apparently** a paradox that the **lowest temperature in the troposphere** is vertically overhead at the **equator**, rather than at the poles.
+
+It is only *apparent*. Equatorial air rises farther, so it is cooled through more kilometres. −80 °C vs −45 °C is therefore **logically explained**, not a real contradiction.
+
+### 16.4 Coldest place in the *whole* atmosphere
+
+- Coldest **in the troposphere** = tropopause over the equator (~ −80 °C).
+- Coldest **in the entire atmosphere** = **mesopause** (top of the mesosphere, ~90–100 km): generally **−90 °C to −100 °C** (remember ~ −95 °C).
+
+---
+
+## 17. Why the Troposphere Is the Real Atmosphere (GEO-06-04)
+
+We study the atmosphere in geography to understand **weather** (weathering of rocks, soils, agriculture all need it).
+
+- Most of what comprises weather (say **clouds**) remains confined within the troposphere.
+- Science therefore calls the troposphere the **weather sphere** of nature.
+- If the subject-matter (weather) lives here, **this** is the geographer’s real atmosphere.
+
+**Practical evidence:** after take-off a civil aircraft is climbed above the tropopause; from the window the flight level is generally clear and the **clouds lie beneath**. Most clouds, most of the time, are inside the troposphere.
+
+**Not absolute:** some weather can enter the stratosphere. Later: **jet streams** (high-velocity upper-tropospheric winds, typically **west → east**, ~100–400+ km/h) can **puncture** the tropopause at places and carry cloud / weather elements upward. *Generally*, the tropopause still holds.
+
+### 17.1 Tropopause as the “lid”
+
+The tropopause is the **lid** of the tropospheric container. It generally does **not** allow weather elements (clouds) into the stratosphere.
+
+**Why the lid works — first inversion example (the exception):**
+
+1. Air near the surface is warmed by Earth’s **out-radiation** (atmosphere heated from below).
+2. Warm air rises and is adiabatically cooled. Just **beneath** the tropopause it is very cold (−80 °C equator, −45 °C poles, maybe ~ −60 °C in mid-latitudes).
+3. The **stratosphere** above is warmer because **ozone** absorbs ultraviolet.
+4. Crossing the tropopause, height increases and temperature **increases** → **temperature inversion**.
+5. **Cold air under warm air cannot rise.** Warm air is what rises. So weather stays trapped below the lid.
+
+```text
+Surface: out-radiation warms air
+        ↓ convection (rise + adiabatic cooling)
+Cold top of troposphere  (−80 °C / −45 °C)
+        ── tropopause (inversion) ──
+Warmer lower stratosphere (ozone)
+        ↓
+Cold-under-warm = stable lid → weather confined
+```
+
+---
+
+## 18. Why “Troposphere”? Air Keeps Turning (GEO-06-05)
+
+*Tropos* in Latin → **turn**.
+
+1. Air near the Earth’s surface gets warm by Earth’s out-radiation.
+2. As warm air rises, it gets **adiabatically cooled**.
+3. This cold air **cannot go beyond the tropopause**, so it sinks.
+4. As it sinks it gets **adiabatically warmed** (compression). Near the surface it is also warmed again by out-radiation.
+5. This warm air rises again.
+
+> The troposphere is the zone of the atmosphere in which **air keeps turning itself**.
+
+(Cloud formation comes later — do not jump ahead.)
+
+---
+
+## 19. Isothermal Zone and Why Aircraft Fly There (GEO-06-06)
+
+Three possibilities as you go up:
+
+| With height, temperature… | Name |
+|:---|:---|
+| Falls | ELR / routine lapse |
+| Rises | Inversion |
+| Stays **almost constant** for several km | **Isothermal** (*iso* = same, *thermal* = temperature) |
+
+An isothermal patch *can* appear anywhere, anytime (weather is *n* elements in changing permutations). For General Studies, the **more-or-less permanent** case is:
+
+> The **lower stratosphere**, just above the tropopause (a vertical slab of roughly **6–8 km**), generally represents isothermal conditions. That slab is the **isothermal zone**.
+
+**Why it is isothermal (two sides):**
+
+- Temperature does **not decrease much** — there is **not much convection** here (the tropopause lid has already stopped most rising air).
+- Temperature does **not increase much** — there is **not much ozone** here. Most stratospheric ozone starts around **~25–26 km**, not in this lowest stratospheric slab.
+
+**Trap:** “with increase in **height**”. Iso-thermal is a **vertical** statement. There is **no** constancy of temperature if you fly *horizontally* from India to Europe.
+
+### 19.1 Three reasons this zone is ideal for aircraft
+
+1. **In general, the absence of clouds** — visibility + avoid thunder/lightning. (Low / middle / high / **vertically developed** clouds, e.g. tropical-cyclone towers 15–16 km, all live mainly in the troposphere.)
+2. **In general, the absence of strong convectional currents** — smoother ride; tropopause already boxed the strong convection in. Avoid tropical-cyclone convection as a safety hazard.
+3. **In general, the presence of isothermal conditions** — less vertical change of temperature → less turbulence. Horizontal change still exists; vertical change is muted, so the ride is smoother than in the troposphere.
+
+After climb-out, the aircraft is typically put on auto; this is why long-haul crews can rest (one at a time). UPSC will ask the **three technical reasons**, not the crew-rest anecdote.
+
+**Coming later (not a finished topic today):** upper-tropospheric **westerlies** and their fast cores (**jet streams**, ~100–400+ km/h, west → east). Westbound vs eastbound routing can use or avoid that push. **Rossby waves**, monsoon, tropical / temperate cyclones, El Niño / La Niña, Indian Ocean Dipole, Madden–Julian Oscillation, polar vortex — all are **circulation systems**. Prerequisite = **tropospheric air circulation** (Lectures 8–10). Treat today’s rotation notes as puzzle pieces, not the finished picture.
+
+---
+
+## 20. Earth’s Rotation: Three Perspectives and Two Speeds (GEO-06-07)
+
+Title for the next block of classes: **Tropospheric air circulations.** First pieces collected today.
+
+### 20.1 Direction — three perspectives
+
+School said “Earth rotates **west to east**.” That is only one way of looking.
+
+| Perspective | How you look | What you see |
+|:---|:---|:---|
+| **Equatorial** | Through the equator (the school view) | **West → East** |
+| **North Pole** | From above the North Pole | **Anti-clockwise** |
+| **South Pole** | From above the South Pole | **Clockwise** |
+
+There is no east/west *at the pole* — only a sense of spin. North-Pole / anti-clockwise will be used in the next lecture.
+
+### 20.2 Angular speed — uniform
+
+Earth spins once in **24 hours**. Every place turns **360°** in that time.
+
+$$\text{Angular speed} = \frac{360^\circ}{24\ \text{h}} = 15^\circ/\text{h}$$
+
+**Uniform** for every place on Earth.
+
+### 20.3 Rotational (linear) speed — not uniform
+
+$$\text{Rotational speed} = \frac{\text{distance travelled}}{\text{time taken}}$$
+
+Time is the same (24 h) everywhere. Distance along a parallel is **not**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="Parallels shrink toward the pole so linear rotational speed falls from equator to pole" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:480px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="404" height="284" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="210" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Linear speed falls toward the poles</text>
+<circle cx="150" cy="168" r="100" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.5"/>
+<line x1="50" y1="168" x2="250" y2="168" stroke="#0f172a" stroke-width="1.5"/>
+<line x1="54" y1="134" x2="246" y2="134" stroke="#334155" stroke-width="1"/>
+<line x1="70" y1="104" x2="230" y2="104" stroke="#334155" stroke-width="1"/>
+<line x1="100" y1="80" x2="200" y2="80" stroke="#334155" stroke-width="1"/>
+<line x1="128" y1="72" x2="172" y2="72" stroke="#334155" stroke-width="1"/>
+<text x="268" y="172" font-size="11" fill="#0f172a">0 deg Eq  P1  D1  S1</text>
+<text x="268" y="138" font-size="11" fill="#0f172a">20N  P2  D2  S2</text>
+<text x="268" y="108" font-size="11" fill="#0f172a">40N  P3  D3  S3</text>
+<text x="268" y="84" font-size="11" fill="#0f172a">60N  P4  D4  S4</text>
+<text x="268" y="68" font-size="11" fill="#0f172a">80N  P5  D5  S5</text>
+<text x="24" y="278" font-size="11" fill="#475569">P = parallel, D = distance in 24 h, S = linear rotational speed. Time is 24 h at every latitude.</text>
+</svg>
+</div>
+
+Earth is spherical → it gets **smaller** at higher latitudes.
+
+**Trend**
+
+- Distances: \(D_1 > D_2 > D_3 > D_4 > D_5\)
+- Speeds: \(S_1 > S_2 > S_3 > S_4 > S_5\)
+
+Maximum linear speed at the **equator**; it **decreases toward the poles**.
+
+**Progressive change** (Earth gets *increasingly* smaller toward the poles — the *gaps* widen):
+
+\[
+(D_1 - D_2) < (D_2 - D_3) < (D_3 - D_4) < (D_4 - D_5)
+\]
+
+\[
+(S_1 - S_2) < (S_2 - S_3) < (S_3 - S_4) < (S_4 - S_5)
+\]
+
+The drop in distance (and therefore in linear speed) **steepens** as you approach the pole. This piece is for next class’s circulation, not a finished Coriolis lecture.
+
+---
+
+## 21. Lecture 7 — UPSC Quick Recall
+
+1. **ELR** = actual lapse at a place and time; lots of spatial and temporal variation.
+2. **NLR** = average of ELRs ≈ **6.5 °C/km**.
+3. **Inversion** = temperature *rises* with height; **primarily tropospheric**. Stratosphere (O₃) and thermosphere (ionisation) are *expected* warming, not inversion.
+4. Tropopause higher over equator (**16–18 km**, ~ **−80 °C**) than poles (**8–10 km**, ~ **−45 °C**) because convection is stronger / air rises farther.
+5. Summer → higher tropopause at a given place.
+6. Apparent paradox: coldest *tropospheric* air is overhead at the **equator**. Real coldest of the whole atmosphere = **mesopause** (−90 to −100 °C).
+7. Troposphere = **weather sphere**; tropopause = **lid** because of inversion (cold under warm).
+8. *Tropos* = turn: rise–cool–blocked–sink–warm–rise again.
+9. **Isothermal zone** = lower stratosphere just above tropopause: little convection + little ozone. Constancy is **vertical**, not horizontal.
+10. Aircraft fly there: few clouds, no strong convection, isothermal smoothness.
+11. Rotation views: equator **W→E**; North Pole **anti-clockwise**; South Pole **clockwise**.
+12. Angular speed **15°/h** everywhere. Linear speed **maximum at equator**, decreases (progressively) toward the poles.
+
+---
+
+## Abbreviations used in Lecture 7
+
+| Shortcut | Full form |
+|:---|:---|
+| **ELR** | Environmental Lapse Rate |
+| **NLR** | Normal Lapse Rate |
+| **GS** | General Studies |
+| **O₃** | Ozone |
+| **UV** | Ultraviolet radiation |
+| **PYQ** | Previous Year Question |
+
+---
+
 <!-- 2026-08-25: Created from Geography Lecture 6 transcript and five handwritten notebook pages. -->
+<!-- 2026-08-29: Appended Lecture 7 (29/8) from transcript + 6 notebook pages — ELR/NLR, inversion vs strat/thermo, tropopause height and apparent paradox, weather-sphere lid, tropos=turn, isothermal zone and aviation, Earth rotation perspectives and linear speed. -->
