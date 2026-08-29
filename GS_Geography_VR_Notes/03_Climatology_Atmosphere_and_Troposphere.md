@@ -671,32 +671,37 @@ There is no east/west *at the pole* — only a sense of spin. North-Pole / anti-
 
 Earth spins once in **24 hours**. Every place turns **360°** in that time.
 
-$$\text{Angular speed} = \frac{360^\circ}{24\ \text{h}} = 15^\circ/\text{h}$$
+<div style="text-align:center;margin:12px 0;padding:12px 10px;background:#f1f5f9;border-radius:8px;font-size:16px;line-height:1.45">
+<strong>Angular speed</strong> = 360° ÷ 24 h = <strong>15°/h</strong>
+</div>
 
 **Uniform** for every place on Earth.
 
 ### 20.3 Rotational (linear) speed — not uniform
 
-$$\text{Rotational speed} = \frac{\text{distance travelled}}{\text{time taken}}$$
+<div style="text-align:center;margin:12px 0;padding:12px 10px;background:#f1f5f9;border-radius:8px;font-size:16px;line-height:1.45">
+<strong>Rotational speed</strong> = distance travelled ÷ time taken
+</div>
 
 Time is the same (24 h) everywhere. Distance along a parallel is **not**.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="Parallels shrink toward the pole so linear rotational speed falls from equator to pole" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:480px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="404" height="284" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
-<text x="210" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Linear speed falls toward the poles</text>
-<circle cx="150" cy="168" r="100" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.5"/>
-<line x1="50" y1="168" x2="250" y2="168" stroke="#0f172a" stroke-width="1.5"/>
-<line x1="54" y1="134" x2="246" y2="134" stroke="#334155" stroke-width="1"/>
-<line x1="70" y1="104" x2="230" y2="104" stroke="#334155" stroke-width="1"/>
-<line x1="100" y1="80" x2="200" y2="80" stroke="#334155" stroke-width="1"/>
-<line x1="128" y1="72" x2="172" y2="72" stroke="#334155" stroke-width="1"/>
-<text x="268" y="172" font-size="11" fill="#0f172a">0 deg Eq  P1  D1  S1</text>
-<text x="268" y="138" font-size="11" fill="#0f172a">20N  P2  D2  S2</text>
-<text x="268" y="108" font-size="11" fill="#0f172a">40N  P3  D3  S3</text>
-<text x="268" y="84" font-size="11" fill="#0f172a">60N  P4  D4  S4</text>
-<text x="268" y="68" font-size="11" fill="#0f172a">80N  P5  D5  S5</text>
-<text x="24" y="278" font-size="11" fill="#475569">P = parallel, D = distance in 24 h, S = linear rotational speed. Time is 24 h at every latitude.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Parallels shrink toward the pole so linear rotational speed falls from equator to pole" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="464" height="284" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="240" y="30" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Linear speed falls toward the poles</text>
+<circle cx="148" cy="160" r="96" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.5"/>
+<line x1="52" y1="160" x2="244" y2="160" stroke="#0f172a" stroke-width="1.5"/>
+<line x1="56" y1="128" x2="240" y2="128" stroke="#334155" stroke-width="1"/>
+<line x1="72" y1="100" x2="224" y2="100" stroke="#334155" stroke-width="1"/>
+<line x1="100" y1="78" x2="196" y2="78" stroke="#334155" stroke-width="1"/>
+<line x1="126" y1="70" x2="170" y2="70" stroke="#334155" stroke-width="1"/>
+<text x="262" y="164" font-size="12" fill="#0f172a">0° Eq — P1 D1 S1</text>
+<text x="262" y="132" font-size="12" fill="#0f172a">20°N — P2 D2 S2</text>
+<text x="262" y="104" font-size="12" fill="#0f172a">40°N — P3 D3 S3</text>
+<text x="262" y="82" font-size="12" fill="#0f172a">60°N — P4 D4 S4</text>
+<text x="262" y="68" font-size="12" fill="#0f172a">80°N — P5 D5 S5</text>
+<text x="28" y="248" font-size="12" fill="#475569">P = parallel. D = distance travelled in 24 h.</text>
+<text x="28" y="268" font-size="12" fill="#475569">S = linear rotational speed. Time = 24 h at every latitude.</text>
 </svg>
 </div>
 
@@ -704,20 +709,15 @@ Earth is spherical → it gets **smaller** at higher latitudes.
 
 **Trend**
 
-- Distances: \(D_1 > D_2 > D_3 > D_4 > D_5\)
-- Speeds: \(S_1 > S_2 > S_3 > S_4 > S_5\)
+- Distances: **D1 > D2 > D3 > D4 > D5**
+- Speeds: **S1 > S2 > S3 > S4 > S5**
 
 Maximum linear speed at the **equator**; it **decreases toward the poles**.
 
 **Progressive change** (Earth gets *increasingly* smaller toward the poles — the *gaps* widen):
 
-\[
-(D_1 - D_2) < (D_2 - D_3) < (D_3 - D_4) < (D_4 - D_5)
-\]
-
-\[
-(S_1 - S_2) < (S_2 - S_3) < (S_3 - S_4) < (S_4 - S_5)
-\]
+- **(D1 − D2) < (D2 − D3) < (D3 − D4) < (D4 − D5)**
+- **(S1 − S2) < (S2 − S3) < (S3 − S4) < (S4 − S5)**
 
 The drop in distance (and therefore in linear speed) **steepens** as you approach the pole. This piece is for next class’s circulation, not a finished Coriolis lecture.
 
