@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-29
-*   **Active Micro-Topics:** 354
+*   **Active Micro-Topics:** 362
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 11
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 7
+*   **New Topics Ingested Today:** 15
 *   **Weekly Backlog:** 0
 
 ---
@@ -183,6 +183,18 @@
 | ENV-01-09 | Project Tiger 1973: NTCA, 3682 Census & Tiger Capital | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CSS 1973` $\leftrightarrow$ `NTCA Statutory under MoEF&CC` $\leftrightarrow$ `3682 vs 1411 (2006)` $\leftrightarrow$ `>70% World` $\leftrightarrow$ `Phase-2 = Genetics not just Headcount` |
 | ENV-01-10 | Similipal: Pseudo-Melanism, Fragmentation & Inbreeding | 3 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Odisha Largest TR` $\leftrightarrow$ `Wider Black Stripes ≠ Disease` $\leftrightarrow$ `Melanistic=Fully Black` $\leftrightarrow$ `Habitat Loss vs Fragmentation` $\leftrightarrow$ `Inbreeding` $\leftrightarrow$ `Wildlife Corridors` |
 | ENV-01-11 | High-NPP High-Biodiversity Ecosystems: Rainforest, Mangrove, Coral, Wetland | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Positive PP↔BD` $\leftrightarrow$ `Equatorial RF 10°N–S Amazon` $\leftrightarrow$ `Mangrove Intertidal 30° Sundarbans` $\leftrightarrow$ `Coral 30° GBR` $\leftrightarrow$ `Wular/Sambhar/Chilika/Loktak/Kanwar/Vembanad` |
+
+### Environment & Ecology (Climate Change & Climate Action)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ENV-02-01 | Climate Change Definition, Anthropogenic vs Natural & IPCC AR6 +1.1 C | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Weather 30-yr Climate` $\leftrightarrow$ `>= Decade Shift` $\leftrightarrow$ `Holocene Natural` $\leftrightarrow$ `IPCC 1988 UNEP+WMO` $\leftrightarrow$ `AR1 1990 / AR6 2022-23` $\leftrightarrow$ `+1.1 C Pre-Industrial` |
+| ENV-02-02 | Two Causes: GHG Rise + Shrinking Sinks; CO2 280 to 420 ppm | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Long-wave Trap` $\leftrightarrow$ `280 ppm vs 420 ppm` $\leftrightarrow$ `150% Pre-Industrial` $\leftrightarrow$ `8 Lakh Year High` $\leftrightarrow$ `59 Gt / 75% CO2` $\leftrightarrow$ `Energy Three-Fourths` |
+| ENV-02-03 | Methane 260%, Landfills, SBM 1.0/2.0 & Indore vs Delhi Waste | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CH4 ppb 260%` $\leftrightarrow$ `Paddy+Livestock` $\leftrightarrow$ `Anaerobic=CH4 Aerobic=CO2` $\leftrightarrow$ `SBM ODF vs SWM` $\leftrightarrow$ `Collection 90% Treatment 20%` $\leftrightarrow$ `Indore Bio-CNG` |
+| ENV-02-04 | N2O/NOx, Trop Ozone & GHG vs Air Pollutant Venn | 3 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Only N2O is GHG` $\leftrightarrow$ `All NOx via Trop O3` $\leftrightarrow$ `N2O 125%` $\leftrightarrow$ `CO2+WV not Pollutants` $\leftrightarrow$ `PM2.5/10+SO2 not GHG` $\leftrightarrow$ `CH4 O3 CFC Overlap` |
+| ENV-02-05 | Carbon Sinks, Ecological Degradation & Oceans as 90% Heat Sponges | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sink=Long Store` $\leftrightarrow$ `Sequestration=Absorption` $\leftrightarrow$ `NPP Decline` $\leftrightarrow$ `Fire/Marine/Soil/Coral` $\leftrightarrow$ `IPCC >90% Heat in Ocean` |
+| ENV-02-06 | UNFCCC 1992/1994, COPs, Mitigation Trio & CCS/CCUS | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Rio 1992 Adopted` $\leftrightarrow$ `In Force 1994 2/3 Ratify` $\leftrightarrow$ `COP 1995 Yearly Skip 2020` $\leftrightarrow$ `Non-Fossil+Forests+CCS` $\leftrightarrow$ `Depleted Oil/Gas Pores` $\leftrightarrow$ `CCUS PYQ` |
+| ENV-02-07 | CC Impacts: Disaster Intensity, SLR 3-4 mm, LECZ 10 m & SIDS | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Not New Disasters More Severe` $\leftrightarrow$ `GLOF Cloudburst` $\leftrightarrow$ `3-4 mm/yr >1 m by 2100` $\leftrightarrow$ `Cryosphere+Thermal Expansion` $\leftrightarrow$ `LECZ <=10 m` $\leftrightarrow$ `Maldives Fiji Tuvalu` |
+| ENV-02-08 | Equity, SDGs, Disaster EWS & Climate-Smart Agriculture (DSR/Millets/Drip) | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Emit Most Hit Least` $\leftrightarrow$ `LDC Agri/Forestry` $\leftrightarrow$ `Doppler Radar <10` $\leftrightarrow$ `FAO CSA Triple Aim` $\leftrightarrow$ `DSR Cuts CH4` $\leftrightarrow$ `Drip Sprinkler vs Flood` |
 
 ### Economy (Basics)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
