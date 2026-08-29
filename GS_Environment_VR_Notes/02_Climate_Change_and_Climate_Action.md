@@ -126,20 +126,23 @@ Urbanisation → more consumption → more solid waste.
 > **Air pollutant:** an atmospheric **contaminant** (solid, liquid or gas) that poses a **health hazard** to humans and other life forms — a **toxin** in the air.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Venn diagram: greenhouse gases, air pollutants, and the overlap" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:480px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="4" y="4" width="392" height="212" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
-<text x="200" y="24" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">GHG vs air pollutant — not the same list</text>
-<circle cx="145" cy="118" r="72" fill="#bbf7d0" fill-opacity="0.85" stroke="#15803d" stroke-width="1.5"/>
-<circle cx="255" cy="118" r="72" fill="#fecaca" fill-opacity="0.7" stroke="#b91c1c" stroke-width="1.5"/>
-<text x="108" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#14532d">GHG only</text>
-<text x="108" y="98" text-anchor="middle" font-size="12" fill="#14532d">CO2</text>
-<text x="108" y="116" text-anchor="middle" font-size="12" fill="#14532d">Water vapour</text>
-<text x="200" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#7c2d12">Both</text>
-<text x="200" y="118" text-anchor="middle" font-size="11" fill="#7c2d12">CH4, trop. O3, CFCs</text>
-<text x="292" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">Pollutant only</text>
-<text x="292" y="98" text-anchor="middle" font-size="12" fill="#7f1d1d">SO2</text>
-<text x="292" y="116" text-anchor="middle" font-size="12" fill="#7f1d1d">PM2.5 and PM10</text>
-<text x="200" y="204" text-anchor="middle" font-size="11" fill="#475569">PM2.5 = particles &lt;= 2.5 microns. Chronic exposure: irreversible lung damage in children.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" role="img" aria-label="Venn diagram: greenhouse gases only, air pollutants only, and gases that are both" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="6" y="6" width="428" height="238" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="220" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">GHG vs air pollutant — not the same list</text>
+<circle cx="155" cy="130" r="88" fill="#bbf7d0" fill-opacity="0.9" stroke="#15803d" stroke-width="1.5"/>
+<circle cx="285" cy="130" r="88" fill="#fecaca" fill-opacity="0.75" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="112" y="88" text-anchor="middle" font-size="12" font-weight="700" fill="#14532d">GHG only</text>
+<text x="112" y="112" text-anchor="middle" font-size="13" fill="#14532d">CO2</text>
+<text x="112" y="132" text-anchor="middle" font-size="12" fill="#14532d">Water vapour</text>
+<text x="220" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#7c2d12">Both</text>
+<text x="220" y="120" text-anchor="middle" font-size="12" fill="#7c2d12">CH4</text>
+<text x="220" y="138" text-anchor="middle" font-size="12" fill="#7c2d12">trop. O3</text>
+<text x="220" y="156" text-anchor="middle" font-size="12" fill="#7c2d12">CFCs</text>
+<text x="328" y="88" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">Pollutant only</text>
+<text x="328" y="112" text-anchor="middle" font-size="13" fill="#7f1d1d">SO2</text>
+<text x="328" y="132" text-anchor="middle" font-size="12" fill="#7f1d1d">PM2.5</text>
+<text x="328" y="150" text-anchor="middle" font-size="12" fill="#7f1d1d">PM10</text>
+<text x="220" y="228" text-anchor="middle" font-size="12" fill="#475569">PM is pollutant-only, not a GHG.</text>
 </svg>
 </div>
 
