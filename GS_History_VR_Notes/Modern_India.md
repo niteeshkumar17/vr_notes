@@ -1,6 +1,6 @@
-# Modern India (1860s–1940s) — Lectures 1–3: Nationalism, Formation of INC, Moderate Phase, Swadeshi Movement & Moderates vs Extremists
+# Modern India (1860s–1940s) — Lectures 1–4: Nationalism, INC, Swadeshi, 1909 Act, Delhi Durbars, Home Rule & Lucknow Pact
 
-> **Date:** 11 August 2026, 21 August 2026, 26 August 2026  
+> **Date:** 11 August 2026, 21 August 2026, 26 August 2026, 30 August 2026  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -19,12 +19,18 @@
 
 ---
 
-## Topics Covered in This Lecture
+## Topics Covered in These Lectures
 
 1. **Nationalism:** A brief definition → Origin in Europe & America
 2. **Nationalism in India:** When, where, among whom → Factors responsible for emergence of Indian Nationalism (+ debate on whether India is "real" or "imagined" nation)
-3. **Formation of INC** — Different Theories: (A) Safety Valve Theory, (B) Nationalist Theory *(next lecture)*
-4. **The Moderate Phase of INC: 1885–1905** — (A) Demands/Objectives, (B) Nature of Struggle, (C) Role/Contribution & Criticism *(next lecture)*
+3. **Formation of INC** — Safety Valve Theory vs Nationalist Theory
+4. **The Moderate Phase of INC: 1885–1905** — Demands, methods, contribution & criticism
+5. **Swadeshi Movement (1905)** — Partition of Bengal, course, features, Surat Split, Moderates vs Extremists
+6. **Indian Councils Act 1909** — Background, clauses (CLC 69, separate electorate), critique
+7. **Three Delhi Durbars (1877 / 1903 / 1911)** — Lytton famine, Curzon, Hardinge II
+8. **1911 announcements** — Bengal reunited; capital Calcutta → Delhi
+9. **Home Rule Leagues, 1916** — Tilak (Pune) & Besant (Madras); urban limit; Gandhi’s critique
+10. **Lucknow Pact, 1916** — INC–Muslim League; 1/3 seats; 3/4 Muslim veto
 
 ---
 
@@ -776,11 +782,167 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 </div>
 <p style="text-align:center;"><em><strong>Figure:</strong> Large communities held small shares of land, jobs and political power while small communities held disproportionately large shares. This mismatch — rooted in caste, religion and class — is the fundamental source of political conflict in India from the 20th century to the present, and it is exactly the grievance the Shimla deputation carried to Lord Minto.</em></p>
 
-*(Major Clauses and Critique of the 1909 Act to be covered in the next lecture)*
+---
+
+## 10. Indian Councils Act 1909 — Clauses (MOD-B4-01)
+
+> Continues §9. Framework: **(B) provisions**, then **(C) critique**.
+
+The **Imperial Council / Central Legislative Council (CLC)** was enlarged to **69**. Four kinds of member (two elected, two nominated):
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 248" role="img" aria-label="Imperial Council split into elected and nominated members, then into general or separate electorates and officials or non-officials" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="246" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<rect x="110" y="10" width="180" height="36" rx="8" fill="#dbeafe" stroke="#60a5fa"/>
+<text x="200" y="33" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">Imperial Council / CLC (69)</text>
+<rect x="16" y="72" width="168" height="36" rx="8" fill="#fef3c7" stroke="#f59e0b"/>
+<text x="100" y="95" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">Elected</text>
+<rect x="216" y="72" width="168" height="36" rx="8" fill="#e0e7ff" stroke="#818cf8"/>
+<text x="300" y="95" text-anchor="middle" font-size="12" font-weight="700" fill="#3730a3">Nominated</text>
+<line x1="200" y1="46" x2="200" y2="60" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="100" y1="60" x2="300" y2="60" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="100" y1="60" x2="100" y2="72" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="300" y1="60" x2="300" y2="72" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="16" y="132" width="80" height="48" rx="8" fill="#fffbeb" stroke="#fbbf24"/>
+<text x="56" y="152" text-anchor="middle" font-size="11" fill="#78350f">General</text>
+<text x="56" y="168" text-anchor="middle" font-size="11" fill="#78350f">electorate</text>
+<rect x="104" y="132" width="80" height="48" rx="8" fill="#fef2f2" stroke="#f87171"/>
+<text x="144" y="152" text-anchor="middle" font-size="11" fill="#7f1d1d">Separate</text>
+<text x="144" y="168" text-anchor="middle" font-size="11" fill="#7f1d1d">electorate</text>
+<rect x="216" y="132" width="80" height="48" rx="8" fill="#ecfdf5" stroke="#34d399"/>
+<text x="256" y="160" text-anchor="middle" font-size="11" fill="#065f46">Officials</text>
+<rect x="304" y="132" width="80" height="48" rx="8" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="344" y="152" text-anchor="middle" font-size="11" fill="#334155">Non-</text>
+<text x="344" y="168" text-anchor="middle" font-size="11" fill="#334155">officials</text>
+<line x1="100" y1="108" x2="100" y2="120" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="56" y1="120" x2="144" y2="120" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="56" y1="120" x2="56" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="144" y1="120" x2="144" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="300" y1="108" x2="300" y2="120" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="256" y1="120" x2="344" y2="120" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="256" y1="120" x2="256" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="344" y1="120" x2="344" y2="132" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="200" y="208" text-anchor="middle" font-size="11" fill="#334155">Separate seats: Muslims, Hindu zamindars,</text>
+<text x="200" y="226" text-anchor="middle" font-size="11" fill="#334155">Chamber of Commerce Calcutta &amp; Bombay</text>
+</svg>
+</div>
+
+| Provision | Class lock |
+|:---|:---|
+| **Separate electorate** | Four groups: **Indian Muslims**, **Hindu zamindars**, **Chamber of Commerce, Calcutta**, **Chamber of Commerce, Bombay**. (Chambers = business associations — ancestors of later **FICCI (Federation of Indian Chambers of Commerce and Industry)** / **CII (Confederation of Indian Industry)** type bodies) |
+| **Governor-General’s Executive Council** | **One Indian**. First: **Satyendra Prasanno Sinha (S.P. Sinha)** |
+| **India Council, London** | **Two Indians**: **Syed Hussain Bilgrami** and **K.C. Gupta** (class spelling; standard form often **K.G. / Krishna Govinda Gupta**) |
+| **Budget** | Legislature got **some more powers** over the budget — still not a responsible ministry |
 
 ---
 
-## UPSC PYQ Connections (Lectures 1, 2 & 3)
+## 11. Critique of the 1909 Act (MOD-B4-02)
+
+**Positive.** The Act **enlarged** legislative councils at the **Centre and in the provinces**. Nationalists could now put questions on **poverty, famine, drain of wealth, destruction of indigenous industry, high taxation, restrictions on the press**. Those questions *are* the issue-list of 1909–11.
+
+**Negatives (memorise as three):**
+
+1. **Separate electorate communalised elections and polarised society** — the long fuse to later communal politics.
+2. Legislature still **weak**: **no control over the executive**. The **Governor-General** kept **discretionary power**.
+3. **Electorate tiny**: class **>90%** (audio also **~92%**) had **no vote**. Franchise was **limited** (property / education). **Universal adult franchise** arrives only with the **first general election, 1951–52** (Lok Sabha + Vidhan Sabhas together).
+
+---
+
+## 12. Three Delhi Durbars (MOD-B4-03)
+
+All three at **Red Fort, Delhi**. Red Fort is the point: after **September 1857** the British took it from the Mughals; it became a **symbol of sovereignty**. **Jawaharlal Nehru** hoisted the tricolour from there from **15 August 1948** onward (class: “first servant of the nation”). That is why *not* any other building.
+
+| # | Year | Honouring | Governor-General | Exam hook |
+|:---|:---|:---|:---|:---|
+| **1st** | **1877** | **Queen Victoria** declared **Empress of India** | **Lord Lytton (1876–1880)** | **Controversial:** huge spend while **Central India famine 1876–78** killed **>25 lakh**. Nationalist charge: British **insensitivity** |
+| **2nd** | **1903** | **King Edward VII** | **Lord Curzon (1899–1905)** | Match-the-following bait with Curzon |
+| **3rd** | **1911** | **King George V** | **Lord Hardinge II (1910–1916)** | Two announcements below. (**Hardinge I** is a *different* earlier GG — historians number only when two men in the *same office-line* share a name.) |
+
+**Prelims pairing:** **Gateway of India (Bombay)** — honour of George V / western-sea entry. **India Gate (Delhi)** — **First World War** Indian dead; later a wider war memorial.
+
+---
+
+## 13. 1911 Announcements: Bengal Reunited, Capital to Delhi (MOD-B4-04)
+
+**Hardinge II** announced at the 1911 Durbar:
+
+**(a) Partition of Bengal annulled.** The two Bengali-speaking halves reunited. **Bihar and Odisha** were cut out of Bengal, with **Patna as common capital**. **Odisha** became a separate province in **1936** (under the **1935 Act**). Class homework: track **state reorganisation 1911–2019** — language, tribe, *or* regional identity (**Telangana** same language as Andhra; **Uttarakhand** = hills vs plains of **Uttar Pradesh (UP)**, not a tribe cut).
+
+**(b) Capital: Calcutta → Delhi (1911).**
+
+Why leave Calcutta, and why *Delhi*?
+
+| Why leave Calcutta | Why Delhi |
+|:---|:---|
+| **Activist hotspot** — Moderates, Extremists, Revolutionaries; British feared Bengali students and politics | **Politically quieter** after 1857 (no second big rising there) |
+| Bombay / Madras also nationalist, but Calcutta was the *capital* of that heat | **Capital of the past** (Sultanate + later Mughals) |
+| | **Geo-strategy** — not a coastal / border city like Bombay, Madras, or the North-West |
+
+---
+
+## 14. Home Rule League, 1916 — Founders and Nature (MOD-B4-05)
+
+Study frame: **(A) founders & aim (B) nature (C) significance / limits.**
+
+### A. Founders and aim
+
+Inspired by the **Irish Home Rule** movement (Irish nationalism vs English rule *inside* the **United Kingdom (UK)** — here the UK *is* the United Kingdom).
+
+| Who | When | Where |
+|:---|:---|:---|
+| **Bal Gangadhar Tilak** | **April 1916** | **Pune** |
+| **Annie Besant** (Irish) | **September 1916** | **Madras** |
+
+Aim: **Home Rule / Swaraj** (self-rule) on the Irish model.
+
+### B. Nature
+
+| | Tilak | Besant |
+|:---|:---|:---|
+| Volunteers (class) | **>30,000** — Pune, **Berar**, **Central Provinces (CP)**, Karnataka | **~20,000** (audio also said ~28,000) — Bombay, Madras, other parts |
+| Press | ***Mahratta*** (**English**), ***Kesari*** (**Marathi**) | ***New India***, ***Commonweal*** |
+
+Meetings in cities; demand **Swaraj**. People hit by **World War I (WW-I)** hardships backed it. Other nationalists used the platform: **Muhammad Ali Jinnah**, **Jawaharlal Nehru**, **Vallabhbhai Patel**, **Maulana Abul Kalam Azad**, **Mohandas Karamchand Gandhi**.
+
+---
+
+## 15. Home Rule — Significance, Slogan, Why Gandhi Was Cold (MOD-B4-06)
+
+- Launched in **WW-I**, when Indians faced hardship → **urban** surge: **traders, journalists, lawyers, students, youth**.
+- The **Swaraj** slogan became household language; patriotic feeling rose.
+
+**“Swaraj is my birthright and I shall have it.”** Sheet links it to **Tilak’s 1908–14 Mandalay** exile and the 1916 moment. **Class story (rare Maharashtra account, not every textbook):** after release (**1914**), a **1915** sedition case; **Jinnah** was Tilak’s lawyer in **Bombay High Court**; a judge asked why Indians wanted Swaraj when the Raj had given schools and roads; Jinnah told Tilak to answer with that line; Tilak popularised it. **Prelims rule from class:** if the option-set **includes Jinnah**, remember this version; if not, treat it as **Tilak’s** slogan.
+
+**Why Gandhi was not impressed:** the movement stayed in **cities**. **>90%** of Indians lived in **villages**. Gandhi’s India “lived in villages.”
+
+**C.F. Andrews** (English priest / history teacher; class: closest English friend of Gandhi, **1940–48**) is the type of Briton who backed Indian freedom. **Degree varies:** **A.O. Hume** was not anti-British in Besant’s later sense; Besant herself **softened toward the Raj after ~1918**. Separate the **ruling class** (Company, then Crown) from **British society**.
+
+---
+
+## 16. Lucknow Pact, 1916 — INC and the Muslim League (MOD-B4-07)
+
+### A. Background
+
+**WW-I hardships** → unrest: (i) death and injury of a large number of Indian **soldiers** (ii) **hyperinflation** (class: prices up to **~300%**) (iii) **high taxation** (iv) **curtailment of civil liberty** (bans on movement, newspapers, books).
+
+**Indian National Congress (INC)** and **Muslim League (ML)** leaders decided to join hands. Many League men were **also Congressmen** — **dual membership** was allowed in Congress **until 1938** (after that, Congress-only). Class names: **Jinnah**, the **Ali brothers**, **Hakim Ajmal Khan** (Unani *hakim*; Karol Bagh / Ajmal Khan Road), **Dr M.A. Ansari**.
+
+They held a **joint annual session at Lucknow, December 1916** (sheet also has “summer 1916” — use **December**).
+
+### B. The pact (six locks)
+
+1. **Joint annual sessions every year** thereafter (not only Lucknow).
+2. Work together for **Swaraj** and **against imperialism**.
+3. **Communal harmony:** Muslim leaders would appeal **not to slaughter cows**; Hindu leaders would appeal **not to play music near mosques at prayer time**.
+4. **One-third** of **elected** seats in the **Central Legislative Assembly** reserved for **Muslims**.
+5. Congress would **not oppose separate electorate**.
+6. If a bill was opposed by **three-fourths (3/4)** of the **Muslim members**, it **should not be passed**.
+
+**Class political-theory line:** democracy = government **elected by the majority, for all** — not **majoritarianism** (majority only for the majority). The 3/4 Muslim veto is the Pact’s attempt to lower **minority fear**.
+
+---
+
+## UPSC PYQ Connections (Lectures 1–4)
 
 - Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
 - Role of press, education, and social reform in national awakening
@@ -799,8 +961,32 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 - **Surat Split (1907) — significance for Congress evolution** *(Mains)*
 - **Role of Tagore in the Swadeshi Movement** *(Prelims statement-based)*
 - **Indian Councils Act 1909 / Morley-Minto Reforms** *(recurring Prelims + Mains)*
+- **1909 clauses:** separate electorate (not only Muslims), S.P. Sinha, India Council London, budget powers vs no executive control *(Prelims)*
+- **Three Delhi Durbars (1877 / 1903 / 1911)** — match GG, monarch, famine *(Prelims)*
+- **1911:** annulment of Partition + capital Calcutta → Delhi; why Delhi *(Prelims + Mains)*
+- **Home Rule Leagues 1916** — Tilak (Pune, April) vs Besant (Madras, September); newspapers; urban limit *(Prelims + Mains)*
+- **Lucknow Pact 1916** — 1/3 Muslim seats, separate electorate accepted, 3/4 Muslim veto *(Prelims + Mains)*
 
 ---
 
+## Abbreviations used in Lecture 4
+
+| Shortcut | Full form |
+|:---|:---|
+| **ICA / CLC** | Indian Councils Act / Central Legislative Council (Imperial Council) |
+| **GG** | Governor-General |
+| **INC** | Indian National Congress |
+| **ML** | Muslim League |
+| **HRL** | Home Rule League |
+| **WW-I** | World War I |
+| **FICCI** | Federation of Indian Chambers of Commerce and Industry |
+| **CII** | Confederation of Indian Industry |
+| **CP** | Central Provinces |
+| **UK** *(in this lecture)* | United Kingdom (Irish Home Rule context) — *not* Uttarakhand |
+| **UP** | Uttar Pradesh |
+
+---
+
+<!-- 2026-08-30: Lecture 4 — ICA 1909 clauses and critique; three Delhi Durbars; 1911 annulment + capital shift; Home Rule Leagues (Tilak/Besant); Lucknow Pact. Source: 6 notebook pages + HistoryL300826 transcript. -->
 <!-- 2026-08-27 (later): Lecture 3 review pass — added standard Swadeshi chronology table (19-20 July 1905 announcement, 7 Aug 1905 Boycott Day at Calcutta Town Hall, 16 Oct 1905 effect, Benares 1905, Calcutta 1906, Surat 1907, 1911 annulment + capital shift) with a note on why the annulment matters; replaced the prose placeholder for the "Representation Imbalance Diagram" in §9 with a mobile-friendly inline SVG bar chart. -->
 <!-- 2026-08-27: Added Lecture 3 — Swadeshi Movement (1905): Causes (Partition of Bengal, Curzon, hidden communal agenda), Course of Events (boycott of goods/schools/courts, Tagore & Raksha Bandhan, mourning), Salient Features (mass participation, religious mobilization critique, nationalist-capitalist alliance, PC Roy & Tata), Outcomes (beginning of mass movement, Muslim League 1906, Surat Split 1907). Moderates vs Extremists ideological comparison table. Swaraj Resolution at INC Calcutta 1906. Indian Councils Act 1909 background (utilitarianism, Muslim League Shimla deputation). Source: handwritten notes (5 pages) + audio transcript dated 26 Aug 2026. -->

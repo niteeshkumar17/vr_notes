@@ -5,11 +5,11 @@
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-08-30
-*   **Active Micro-Topics:** 373
+*   **Active Micro-Topics:** 380
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 11
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 9
+*   **New Topics Ingested Today:** 16
 *   **Weekly Backlog:** 0
 
 ---
@@ -114,6 +114,13 @@
 | MOD-B3-04 | Swadeshi Outcomes: Muslim League 1906, Surat Split 1907 & Mass Movement Legacy | 3 | ★★★★★ | Day 2 | 2026-08-30 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-28 | Fast 🟢 | `Swadeshi Bandhav Samiti` $\leftrightarrow$ `Muslim League Dhaka 1906` $\leftrightarrow$ `Nawab Salimullah` $\leftrightarrow$ `Aga Khan` $\leftrightarrow$ `Surat Split 1907` $\leftrightarrow$ `Heterogeneous Communities` |
 | MOD-B3-05 | Moderates vs Extremists: Surat Split & Ideological Comparison (1907) | 2 | ★★★★★ | Day 2 | 2026-08-30 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-28 | Fast 🟢 | `Pherozeshah Mehta/Gokhale/Dadabhai` $\leftrightarrow$ `Lal-Bal-Pal/Aurobindo` $\leftrightarrow$ `Constitutional vs Mass Mobilization` $\leftrightarrow$ `Secular vs Religious Symbols` $\leftrightarrow$ `Swaraj Resolution INC 1906 Calcutta` |
 | MOD-B3-06 | Indian Councils Act 1909 (Morley-Minto): Background & Muslim League Shimla Deputation | 2 | ★★★★★ | Day 2 | 2026-08-30 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-28 | Fast 🟢 | `Utilitarian Thinking` $\leftrightarrow$ `Lord Minto II` $\leftrightarrow$ `Shimla Deputation 1906` $\leftrightarrow$ `Muslim Under-representation` $\leftrightarrow$ `Caste-Hindu Over-representation` $\leftrightarrow$ `3 Reasons for Indian Inclusion` |
+| MOD-B4-01 | ICA 1909 Clauses: CLC 69, Separate Electorate Four Groups, S.P. Sinha | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CLC 69` $\leftrightarrow$ `Elected General/Separate` $\leftrightarrow$ `Nominated Official/Non-official` $\leftrightarrow$ `Muslims+Zamindars+CoC Cal/Bom` $\leftrightarrow$ `S.P. Sinha Exec Council` $\leftrightarrow$ `Bilgrami + K.C. Gupta London` |
+| MOD-B4-02 | ICA 1909 Critique: Polarisation, Weak House, Tiny Franchise | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Questions on Drain/Famine/Press` $\leftrightarrow$ `Communalised Elections` $\leftrightarrow$ `No Control over Executive` $\leftrightarrow$ `GG Discretion` $\leftrightarrow$ `>90% No Vote` $\leftrightarrow$ `UAF 1951-52` |
+| MOD-B4-03 | Three Delhi Durbars: 1877 Lytton Famine, 1903 Curzon, 1911 George V | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Red Fort Sovereignty` $\leftrightarrow$ `1877 Victoria Empress + Famine 25 Lakh` $\leftrightarrow$ `1903 Edward + Curzon` $\leftrightarrow$ `1911 George V + Hardinge II` |
+| MOD-B4-04 | 1911: Bengal Annulment, Bihar-Odisha, Capital Calcutta to Delhi | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Partition Annulled` $\leftrightarrow$ `Patna Common Capital` $\leftrightarrow$ `Odisha 1936` $\leftrightarrow$ `Calcutta Hotspot` $\leftrightarrow$ `Delhi Past Capital + Quiet + Geo-strategy` |
+| MOD-B4-05 | Home Rule 1916: Tilak Pune April, Besant Madras September, Press | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Irish Model` $\leftrightarrow$ `Tilak >30k Berar-CP-KA` $\leftrightarrow$ `Besant ~20k` $\leftrightarrow$ `Mahratta+Kesari` $\leftrightarrow$ `New India+Commonweal` |
+| MOD-B4-06 | Home Rule Limits: Urban Only; Gandhi Cold; Swaraj Birthright Slogan | 2 | ★★★★☆ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WW-I Hardships` $\leftrightarrow$ `Jinnah Nehru Patel Azad Gandhi` $\leftrightarrow$ `>90% Village` $\leftrightarrow$ `Mandalay 1908-14` $\leftrightarrow$ `Class: Jinnah Prompted Slogan` |
+| MOD-B4-07 | Lucknow Pact 1916: Joint Session, 1/3 Seats, 3/4 Muslim Veto | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WW-I Unrest` $\leftrightarrow$ `Dual Membership till 1938` $\leftrightarrow$ `Cow + Mosque Music` $\leftrightarrow$ `1/3 Elected Muslim Seats` $\leftrightarrow$ `Accept Separate Electorate` $\leftrightarrow$ `3/4 Muslim Veto` |
 
 
 
