@@ -1,5 +1,7 @@
 # Polity — Lecture 3 (Abhey Kumar) — Mercy Powers & Constitutional Position of President
 
+## Lecture 3 — Mercy Powers & Constitutional Position of President
+
 > **Source:** Vajiram & Ravi — Polity Class Lecture 03 (Abhey Kumar) + Handwritten Notes + Audio Transcript  
 > **Date:** 18 August 2026  
 > **Last Updated:** 2026-08-18

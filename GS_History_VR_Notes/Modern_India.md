@@ -36,6 +36,8 @@
 
 ---
 
+### Lecture 1 — 11 August 2026
+
 ## 1. Nationalism — Definition (MOD-B1-01)
 
 ### What is Nationalism?
@@ -312,7 +314,7 @@ British economic policies brought:
 
 ## 5. Formation of Indian National Congress — INC (MOD-B2-01)
 
-> **Lecture 2 — 21 August 2026**
+### Lecture 2 — 21 August 2026
 
 ### A. Safety Valve Theory
 
@@ -522,7 +524,7 @@ The activities of early moderates helped in **arousing patriotic feeling among a
 
 ## 7. Swadeshi Movement — 1905 (MOD-B3-01 to MOD-B3-04)
 
-> **Lecture 3 — 26 August 2026**
+### Lecture 3 — 26 August 2026
 
 > **Study Framework for any Movement:**
 > - **(A)** Causes/Circumstances in which the movement started
@@ -788,7 +790,7 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 
 ## 10. Indian Councils Act 1909 — Clauses (MOD-B4-01)
 
-> **Lecture 4 — 30 August 2026**
+### Lecture 4 — 30 August 2026
 
 > Continues **section 9** (1909 Act background from Lecture 3). This part is **(B) provisions**, then **(C) critique**.
 

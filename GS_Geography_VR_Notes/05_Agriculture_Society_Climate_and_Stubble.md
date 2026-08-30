@@ -1,5 +1,7 @@
 # 05 — Agriculture: Society, Climate and Stubble
 
+## Lecture 2 — Agriculture: Society, Climate and Stubble
+
 > **Date of Lecture:** 30 August 2026  
 > **Date Added:** 2026-08-30  
 > **Source:** Vajiram & Ravi class lecture + audio transcript + 4 handwritten notebook pages  

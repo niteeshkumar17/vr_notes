@@ -7,6 +7,8 @@
 
 ---
 
+### Lecture A1 — 8 August 2026
+
 ## References
 
 | Priority | Source | Usage |
@@ -336,6 +338,8 @@ Three theories that explain the arrangement of continents & ocean basins:
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ██  LECTURE A2 — 9 August 2026  ██ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+### Lecture A2 — 9 August 2026
 
 > **Date of Lecture:** 9 August 2026 (Lecture A2)
 > **Date Added:** 2026-08-09

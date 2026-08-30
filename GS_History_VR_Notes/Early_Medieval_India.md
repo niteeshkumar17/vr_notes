@@ -7,6 +7,8 @@
 
 ---
 
+### Lecture A1 — Ancient to Early Medieval Transition
+
 ## 1. The Transition Problem: Ancient → Early Medieval
 
 ### Periodization & the "Gap"
@@ -295,6 +297,8 @@
 ---
 
 ---
+
+### Lecture A2 — 12 August 2026
 
 ## 8. The Vardhana Dynasty & Harshavardhana (606–647 CE)
 
@@ -762,6 +766,8 @@ Each zone has an **Exoteric** (Puram — external/physical) and **Esoteric** (Ah
 <!-- 2026-08-12: Added Lecture A2 content — Vardhana Dynasty & Harshavardhana, Xuanzang, Golden Age of Literature, Pala Dynasty (Gopala, Dharmapala, Devapala, Mahipala), Gurjara-Pratiharas & Rise of Rajputs (36 Biradari, 6 key clans), Deccan dynasties (Chalukyas of Badami — Pulkeshin I/II, Kirtivarman, Mangalesh, Vikramaditya I; Rashtrakutas — Dantidurga, Krishna I, Govinda III, Amoghavarsha; Paramars of Dhar), Early Medieval South India (No Feudalism, Extra-King Relations, Assimilation, Maritime Trade, 5 Merchant Corporations, Taxation, Tamilakam & 5 Tinais, Social Structure, Administration Hierarchy, Women in Administration, Nadu-Kuram system). -->
 
 ---
+
+### Lecture A3 — 23 August 2026
 
 ## 15. South Indian Early Kingdoms — Detailed Dynasty Study
 

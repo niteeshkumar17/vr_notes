@@ -9,6 +9,8 @@
 
 ---
 
+### Lecture A3 — 23 August 2026
+
 ## 1. Arab Invasion (Arabic Speakers)
 
 *   **"Arab"** = **linguistic category** (Arabic speakers), NOT a race/geography. Just like "Aryan" = Indo-European language speakers.
@@ -156,6 +158,8 @@
 > *Key Takeaway*: When Ghori dies → his slaves continue (bound by promise to master) → free men (like Bakhtiyar Khalji) go independent → this creates the dual power structure of the early Delhi Sultanate.
 
 ---
+
+### Lecture A4 — 27 August 2026
 
 > ### PART II — THE DELHI SULTANATE
 > *Lecture A4 — 27 August 2026 · handwritten notes (8 pages) + audio transcript*

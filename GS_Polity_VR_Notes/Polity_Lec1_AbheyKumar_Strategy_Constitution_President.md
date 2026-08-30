@@ -1,5 +1,7 @@
 # Polity — Lecture 1 (Abhey Kumar)
 
+## Lecture 1 — Strategy, Constitution & President
+
 > **Source:** Vajiram & Ravi — Polity Class Lecture 01 (Abhey Kumar) + Handwritten Notes  
 > **Date:** 13 August 2026  
 > **Last Updated:** 2026-08-13

@@ -1,5 +1,7 @@
 # GS Economy — Lecture 01: Introduction & National Income Basics
 
+## Lecture 01 — Introduction & National Income Basics
+
 *Date added: 2026-08-06*
 *Lecture date: 2026-08-05*
 
@@ -376,6 +378,8 @@ Economics has **two fundamental branches**:
 ---
 
 > **Date added:** 2026-08-07
+
+## Lecture 02 — Factors of Production & National Income
 
 ## ECO-02-01: Factors of Production & Factor Payments
 

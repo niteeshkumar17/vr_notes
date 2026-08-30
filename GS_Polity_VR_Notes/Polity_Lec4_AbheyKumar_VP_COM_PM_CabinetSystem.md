@@ -1,5 +1,7 @@
 # Polity — Lecture 4 (Abhey Kumar) — VP, Council of Ministers, Cabinet System & PM
 
+## Lecture 4 — VP, Council of Ministers, Cabinet System & PM
+
 > **Source:** Vajiram & Ravi — Polity Class Lecture 04 (Abhey Kumar) + Handwritten Notes + Audio Transcript  
 > **Date:** 19 August 2026  
 > **Last Updated:** 2026-08-19

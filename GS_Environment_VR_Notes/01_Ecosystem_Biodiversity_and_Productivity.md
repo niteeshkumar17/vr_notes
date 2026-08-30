@@ -1,5 +1,7 @@
 # 01 — Ecosystem, Biodiversity and Ecological Productivity
 
+## Lecture 1 — Ecosystem, Biodiversity and Ecological Productivity
+
 > **Date of Lecture:** 28 August 2026 (Lecture 1)  
 > **Date Added:** 2026-08-28  
 > **Source:** Vajiram & Ravi class lecture + audio transcript + 7 handwritten notebook pages  

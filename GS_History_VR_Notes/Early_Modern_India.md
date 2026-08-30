@@ -5,6 +5,8 @@
 
 ---
 
+### Lecture 1: Later Mughals & Transition
+
 ## 1. Later Mughals & Succession Timeline (1707–1748)
 
 ### Conceptual Transition: Medieval to Modern India

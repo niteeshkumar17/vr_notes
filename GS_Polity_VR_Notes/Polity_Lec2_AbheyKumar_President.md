@@ -1,5 +1,7 @@
 # Polity — Lecture 2 (Abhey Kumar) — President of India
 
+## Lecture 2 — President of India
+
 > **Source:** Vajiram & Ravi — Polity Class Lecture 02 (Abhey Kumar) + Handwritten Notes  
 > **Date:** 14 August 2026  
 > **Last Updated:** 2026-08-14

@@ -5,6 +5,8 @@
 > **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8)  
 > **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**
 
+### Lecture 6 — 25 August 2026
+
 ---
 
 ## 1. Why the Atmosphere Matters

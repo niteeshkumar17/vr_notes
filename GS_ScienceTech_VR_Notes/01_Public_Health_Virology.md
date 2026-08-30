@@ -1,5 +1,7 @@
 # Science & Technology — Lecture 1: S&T Syllabus Overview & Public Health (Virology)
 
+## Lecture 1 — S&T Syllabus Overview & Public Health (Virology)
+
 > **Date:** 24 August 2026 | **Subject:** GS Science & Technology | **Lecture:** 01
 > **Source:** Class Notes + Audio Transcript
 

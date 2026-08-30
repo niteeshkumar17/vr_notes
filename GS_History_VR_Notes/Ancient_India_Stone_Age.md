@@ -1,5 +1,7 @@
 # Ancient India — Stone Age (Lecture 26)
 
+## Lecture 26 — Stone Age
+
 > **Date:** 26 August 2026 | **Source:** Class Notes + Transcript + Handouts
 > **NCERT Sources:** (1) Old NCERT — R.S. Sharma, 11th/12th (Oxford reprint) → (2) New NCERT — 4 Chapters/Themes → (3) Class 11th Fine Arts
 > **Reading Order:** Class Notes → Old NCERT → New NCERT → 11th

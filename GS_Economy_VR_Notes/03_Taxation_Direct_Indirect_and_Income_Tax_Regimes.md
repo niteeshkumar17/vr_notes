@@ -1,5 +1,7 @@
 # GS Economy — Extra Class: Taxation, Income-Tax Regimes & Corporate Tax
 
+## Lecture 24 — Extra Class: Taxation, Income-Tax Regimes & Corporate Tax
+
 *Date added: 2026-08-24*  
 *Lecture date: 2026-08-24*
 

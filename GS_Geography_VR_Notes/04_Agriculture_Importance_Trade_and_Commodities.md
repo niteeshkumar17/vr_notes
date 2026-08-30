@@ -1,5 +1,7 @@
 # 04 — Agriculture: Importance, Trade and Commodities
 
+## Lecture 1 — Agriculture: Importance, Trade and Commodities
+
 > **Date of Lecture:** 28 August 2026  
 > **Date Added:** 2026-08-28  
 > **Source:** Vajiram & Ravi class lecture + audio transcript + 4 handwritten notebook pages  

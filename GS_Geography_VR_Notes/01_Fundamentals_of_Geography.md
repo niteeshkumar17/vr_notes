@@ -1,5 +1,7 @@
 # 01 — Fundamentals of Geography
 
+## Lecture 1 — Fundamentals of Geography
+
 > **Source:** Vajiram & Ravi class notes + self-study (notebook extraction)
 > **Date added:** 2026-07-28
 

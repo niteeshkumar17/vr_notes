@@ -1,5 +1,7 @@
 # 02 — Climate Change and Climate Action
 
+## Lecture 2 — Climate Change and Climate Action
+
 > **Date of Lecture:** 29 August 2026 (Lecture 2)  
 > **Date Added:** 2026-08-29  
 > **Source:** Vajiram & Ravi class lecture + audio transcript + 7 handwritten notebook pages  

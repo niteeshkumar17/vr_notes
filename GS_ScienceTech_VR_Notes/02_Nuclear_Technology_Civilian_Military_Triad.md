@@ -1,5 +1,7 @@
 # Nuclear Technology — Civilian & Military Applications, Missiles & Nuclear Triad (Lecture 08)
 
+## Lecture 08 — Nuclear Technology, Missiles & Nuclear Triad
+
 > **Date:** 26 August 2026 | **Faculty:** Shobhit Sir | **Subject:** Science & Technology (Lecture 08)
 > **Source Material:** Class Notes (3 Pages) + Audio Transcript
 > **Topic Blueprint:** Nuclear Tech (Civilian Non-Energy & Military) $\rightarrow$ Food Irradiation & Agriculture $\rightarrow$ Nuclear Submarines $\rightarrow$ Ballistic vs Cruise Missiles $\rightarrow$ Nuclear Triad & NFU Doctrine
