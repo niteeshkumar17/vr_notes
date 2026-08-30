@@ -790,7 +790,7 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 
 > **Lecture 4 — 30 August 2026**
 
-> Continues §9. Framework: **(B) provisions**, then **(C) critique**.
+> Continues **section 9** (1909 Act background from Lecture 3). This part is **(B) provisions**, then **(C) critique**.
 
 The **Imperial Council / Central Legislative Council (CLC)** was enlarged to **69**. Four kinds of member (two elected, two nominated):
 
