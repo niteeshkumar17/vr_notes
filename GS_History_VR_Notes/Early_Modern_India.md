@@ -276,7 +276,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 2
+### Lecture 2 — 1 August 2026
 
 #### A. Mysore & Anglo-Mysore Rivalry
 *   **Haider Ali (1720–1782)**:
@@ -286,13 +286,13 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **Tipu Sultan (d. 1799)**:
     *   **The First Modern State**: Recognized as the "father of multilateralism in India" because he established independent relations globally.
     *   Legitimized his rule by taking permission from the highest Islamic authority, the **Caliph (Ottoman Shah)**, rather than the Mughals. *Context: This is why Mysore was classified as an 'outsider' — he did not take permission from Delhi.* This granted him the right to issue new coinage known as **'Paisa'** (*Who gave you Paisa? Tipu Sultan. Who gave you Rupaiya? Sher Shah.*).
-    *   Established foreign embassies in Istanbul, Paris, Cairo, Iran, and Iraq.
+    *   Established foreign embassies in Istanbul, Paris, Cairo, **Pegu**, Iran.
     *   In alliance with the French, developed **modern rockets**.
     *   Deeply inspired by the French Revolution: established a **JACOBIN SOCIETY (Blue-sock)** and planted the **Tree of Liberty** at Srirangapatnam. Built the first Indian dam.
 *   **Anglo-Mysore Wars**:
     1.  **1st War (1767–69)**: Haider Ali defeated the English. Concluded with the **Treaty of Madras**. *Context:* The English were forced to accept a defensive territoriality; the modern concept of a "border" was formulated for the first time here.
     2.  **2nd War (1780–84)**: Haider died in 1782, Tipu took over. Concluded with the **Treaty of Mangalore**. *Context: English officially recognized Mysore as a 'state' — territory, population, governance, law, army, and sovereignty. This is India's equivalent of the **Treaty of Westphalia (1648)** where the word sovereignty was first used. Tipu thus became the "father of multilateralism in India" — he engaged with multiple states independently.*
-    3.  **3rd War (1790–92)**: Lord Cornwallis (arriving after losing America) formed an overwhelming coalition (English + Marathas + Hyderabad) against Tipu. Concluded with the harsh **Treaty of Srirangapatnam** (Mysore lost half its territory; 2 of Tipu's young sons — Abdul Khaliq and Muiz-ud-Din — were taken as hostages to Madras until indemnity was paid in 1794).
+    3.  **3rd War (1790–92)**: Lord Cornwallis (arriving after losing America) formed an overwhelming coalition (English + Marathas + Hyderabad) against Tipu. Concluded with the harsh **Treaty of Srirangapatnam** (Mysore lost half its territory; **2 sons of Tipu were sent to London**).
     4.  **4th War (1799)**: Triggered by the **Malartic Proclamation** — French Governor Malartic recklessly promised Tipu military help to recover lost lands, **breaking the 1763 Treaty of Paris** ban on French military engagement in India. This angered the British. Tipu died fighting Lord Wellesley at the **Battle of Srirangapatnam**. Following his death in 1799, the British relocated Tipu Sultan's entire family (his 12 sons including eldest son Fateh Hyder, daughters, wives, and dependents) to **Vellore Fort** under strict military guard to prevent royal restoration in Mysore.
 
 #### B. The Poligar Revolts & Cultural Resistance
@@ -379,7 +379,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 3
+### Lecture 3 — 2 August 2026
 
 > **Source:** Vajiram & Ravi Class Lecture 03 & Notes
 
@@ -388,7 +388,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 #### A. Bengal — Rise of the Banking–Revenue Nexus
 
 ##### Murshid Quli Khan (Aurangzeb's Diwan of Bengal)
-*   **Origin**: Original name **Surya Narayana Mishra** → converted/renamed to **Kartalab Khan** — a slave sent by Aurangzeb to increase Bengal's revenue. Post-1707 (AZB's death), became the **F.M. (Diwan)** of Bengal. *Context: "Once upon a time there was a king. The crown wanted to increase the revenue of Bengal. So the crown sent a slave."*
+*   **Origin**: Original name **Surya Narayana Mishra** → converted/renamed to **Kartalab Khan** — Aurangzeb’s slave / *naib*. **1704**: became the **F.M. (Diwan)** of Bengal (sheet; capital **Murshidabad**). *Context: "Once upon a time there was a king. The crown wanted to increase the revenue of Bengal. So the crown sent a slave."*
 *   **Mal Jismani System** (also referred to as *Mal Jasmani / Mal Zamini*) — Fixed two things:
     1.  Fixed the **amount** of revenue (arbitrarily increased).
     2.  Fixed the **date** of collection — *no exceptions*. *Context: Agricultural produce has no fixed harvest date — you cannot guarantee revenue on a fixed date. Murshid Quli Khan understood this and yet imposed it deliberately to create room for a banking institution.*
@@ -648,7 +648,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 4
+### Lecture 4 — 10 August 2026
 
 > **Source:** Vajiram & Ravi Class Lecture A1 Notes & Audio Transcript
 
@@ -970,7 +970,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
-<!-- 2026-08-30: L1 dated 31 July only (on the notebook). L2/L3/L4 dates removed — 1 Aug, 2 Aug, 10 Aug were inferred, not on sheets. L2 still starts at Mysore. -->
+<!-- 2026-08-30: L1 31 July; L2 1 Aug (Mysore notebook 1/8/26); L3 2 Aug (Bengal notebook 2/8 — sheet year 25 is a slip); L4 10 Aug (Phase III 10/8/26). -->
 <!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
