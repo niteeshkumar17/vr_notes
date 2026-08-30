@@ -1,6 +1,8 @@
 # Modern India (1860s–1940s) — Lectures 1–4: Nationalism, INC, Swadeshi, 1909 Act, Delhi Durbars, Home Rule & Lucknow Pact
 
-> **Date:** 11 August 2026, 21 August 2026, 26 August 2026, 30 August 2026  
+> **Date of Lecture:** 30 August 2026 (**Lecture 4**)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 26 August 2026 (L3)  
+> **Date Added:** 2026-08-30  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -785,6 +787,8 @@ To **mobilize common people**, leaders used **cultural and religious occasions, 
 ---
 
 ## 10. Indian Councils Act 1909 — Clauses (MOD-B4-01)
+
+> **Lecture 4 — 30 August 2026**
 
 > Continues §9. Framework: **(B) provisions**, then **(C) critique**.
 
