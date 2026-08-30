@@ -2,11 +2,11 @@
 
 ## Lecture 1 — 26 July 2026
 
-> **Dates of Lecture:** 26 July 2026 (L1) + 27 July 2026 (L2) + 28 July 2026 (L3) + **29 July 2026 (L4)**  
+> **Dates of Lecture:** 26 July 2026 (L1) + 27 July 2026 (L2) + 28 July 2026 (L3) + 29 July 2026 (L4) + **30 July 2026 (L5)**  
 > **Date Added:** 2026-07-28; split **2026-08-30** from the notebook  
 > **Source:** Vajiram & Ravi class lecture + handwritten notebook. Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
 > **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
-> **Lecture 4** is circled 20–23 plus the International Meridian Conference (IMC) sheet (circled 27). Some of those pages still say 27/7; they sit after 28 July’s page 19, so this class is **29 July**. 30 July (IDL onwards) stays below.
+> **Lecture 5** is the page dated **30/7/26** (quotes, International Date Line, Daylight Saving Time, jet lag). Assignments from class sit in the note.
 
 ---
 
@@ -130,8 +130,6 @@ The imaginary plane that cuts the Earth through the middle and divides it into t
 ---
 
 ## 6. Great Circles, Illumination, Parallels and Seasonality
-
-*(Notebook heading on this page also has International Meridian Conference (IMC), 1884 — the conference itself is in the later, unsplit pages.)*
 
 ### Great circle
 
@@ -358,13 +356,96 @@ Division of the world into **24 time zones**, each **15°** of longitude.
 
 ---
 
-> **Lecture 4 stops here.** 30 July sheets (IDL, DST, and the rest) are still below.
+> **Lecture 4 stops here.**
 
 ---
 
-> Pressure belts and planetary winds were in the merged file but **not** on the 28 July sheets or these time-zone sheets. They stay here until you send that page.
+### Lecture 5 — 30 July 2026
 
-## 17. Global Pressure Belts & Planetary Winds
+> Notebook page dated **30/7/26**. Quotes, International Date Line (IDL), Daylight Saving Time (DST), jet lag. Class also set two written tasks (IDL deviations; 200 words on Zulu Time).
+
+## 18. Quotes from this class
+
+- "Done is better than perfect."
+- "Choices are the hinges of destiny."
+- "You can't cross the sea merely by standing and staring at the water."
+- "Aim above morality — be not simply good, be good for something."
+- "Religion is not the cause of war; it's an excuse."
+- "Giving birth to a baby is easier than worrying about it."
+
+---
+
+## 19. International Date Line (IDL)
+
+We travel **longitudinally** (east or west) relative to the Greenwich meridian. East and west of Greenwich each cover **12 hours** (12 + 12 = 24).
+
+Class diagram (as written):
+
+| | **180° W** | **Greenwich / Prime Meridian** | **180° E** |
+|---|---|---|---|
+| Example | 6 PM **Sunday 24 Dec** | 6 AM **Monday 25 Dec** | 6 PM **Tuesday 26 Dec** |
+
+The west side is **12 hours behind** Greenwich (Sunday evening when Greenwich is Monday morning). The usual pair at the date line is the **same clock time on consecutive dates**. The sheet’s east label jumps to **Tuesday 26 Dec** — treat that as the **calendar change when you cross the IDL**, not as 36 hours of clock time.
+
+> **Assignment from class:** list and analyse the major **deviations of the IDL from the 180° meridian**.
+
+The IDL is an agreed imaginary line, opposite the Prime Meridian, that **broadly follows 180°** and bends so island groups stay on one calendar. Crossing it changes the **date**, not the clock (it sits in the middle of a time zone).
+
+| Direction of travel | Effect on the calendar |
+|---------------------|------------------------|
+| **West → East** (across the IDL) | **Gain** a day (repeat a calendar day) |
+| **East → West** (across the IDL) | **Lose** a day (skip a calendar day) |
+
+Putting Greenwich at 0° puts the opposite arc in the **Pacific**, where few people live, so date changes cause less local confusion.
+
+Already in this day’s note (not on the four photos): Magellan’s crew finishing one day short; a new day starts at midnight on the IDL and takes 48 hours to leave the Earth; deviations at the **Bering Sea** (Aleutians), **Fiji / Tonga**, and **Kiribati**.
+
+---
+
+## 20. Daylight Saving Time (DST)
+
+**Spring forward, fall back.**
+
+- Higher the latitude, **longer** the summer day.
+- Dawn and twilight get **longer** as latitude increases.
+
+1. DST uses the **extra summer daylight**.
+2. Clocks go **forward**, usually **1 hour**, in **spring** (just before summer) so waking hours get more sunlight.
+4. Clocks go **back** to standard time in **autumn / fall** (just before winter). *(The sheet skips number 3.)*
+5. First suggested, half-seriously, in **1784** by **Benjamin Franklin**.
+6. Not widely used until the **First World War (WWI)**. **Australia, Britain, Germany and the US** adopted it to **save energy**.
+7. Other benefits besides energy:
+   - **(a)** more evening leisure
+   - **(b)** a boost to economic activity
+   - **(c)** safer highway journeys
+8. In the **tropical belt**, day and night change little with the season and there is **little twilight**, so DST saves **little or nothing**. (On the sheet this sat under 7(d); it is a limit, not a benefit.)
+
+---
+
+## 21. Jet Lag
+
+- **Circadian rhythm:** the metabolic rhythm in most organisms, generally lined up with the **24-hour** day. The clearest sign is the **sleep–wake** cycle.
+- **Jet lag:** a sudden switch of time zone in **air travel**. Result: tiredness, and being out of step with day and night at the destination.
+
+---
+
+## 22. Zulu Time
+
+> **Assignment from class:** write **200 words** on Zulu Time.
+
+**Zulu Time** is the military / aviation / maritime name for **Coordinated Universal Time (UTC)** (and older Greenwich Mean Time). **Z** = the zero meridian; in the NATO phonetic alphabet Z is **Zulu**.
+
+Already in this day’s note: GMT was replaced by a universal system in **1928**, expanded as **UTC in 1964** (calculations collected in Paris). Used for joint military ops, flight plans and METAR/TAF (`1400Z`), and satellite / launch countdowns.
+
+---
+
+> **Lecture 5 ends the Fundamentals notebook** (26–30 July). Pressure belts were never on these sheets.
+
+---
+
+> Pressure belts and planetary winds were in the merged file but **not** on the 26–30 July photos. They stay here until you send that page.
+
+## 23. Global Pressure Belts & Planetary Winds
 
 | Pressure Belt | Origin Type | Latitude | Key Characteristics |
 |---|---|---|---|
@@ -379,150 +460,5 @@ Division of the world into **24 time zones**, each **15°** of longitude.
 *   **Westerlies:** Blow from **Subtropical High Pressure Belts** (30° N/S) towards **Subpolar Low Pressure Belts** (60° N/S).
 *   **Polar Easterlies:** Blow from **Polar High Pressure Belts** towards **Subpolar Low Pressure Belts**.
 
----
-
-> **Date added:** 2026-07-30
-
-## 19. General & Motivational Quotes (Part 4)
-
-- "Done is better than perfect."
-- "Choices are the hinges of destiny."
-- "You can't cross the sea merely by standing and staring at the water."
-- "Aim above morality — be not simply good, be good for something."
-- "Religion is not the cause of war; it's an excuse."
-- "Giving birth to a baby is easier than worrying about it."
-
----
-
-## 20. International Date Line (IDL)
-
-### Location & Purpose
-
-- The IDL lies on the **opposite side of the Earth** from the Prime Meridian.
-- It is an **imaginary line**, agreed upon internationally, that broadly follows the **180° meridian** with some deviations to accommodate certain land areas.
-
-### Crossing the IDL
-
-| Direction of Travel | Effect on Calendar |
-|---------------------|--------------------|
-| **West → East** (crossing the IDL) | **Gain** a day (repeat a calendar day) |
-| **East → West** (crossing the IDL) | **Lose** a day (skip a calendar day) |
-
-### Time Relationship with Greenwich
-
-| Location | Time Relative to GMT | Example (when GMT = 6 PM Friday 26 Jan) |
-|----------|---------------------|------------------------------------------|
-| **180° W** (just west of IDL) | 12 hours **behind** GMT | 6 AM Friday 26 Jan |
-| **Greenwich (0°)** | Reference | 6 PM Friday 26 Jan |
-| **180° E** (just east of IDL) | 12 hours **ahead** of GMT | 6 AM Saturday 27 Jan |
-
-> In theory, along the 180° meridian, it is simultaneously both **6 AM Friday** and **6 AM Saturday**.
-
-### Why the Pacific Ocean?
-
-One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridian is that its **opposite arc (the IDL) falls in the Pacific Ocean**. Locating the Date Line in the **sparsely populated Pacific Ocean** minimizes most local confusion over date changes.
-
-### Historical Origin — Magellan's Circumnavigation
-
-- In **1519**, **Ferdinand Magellan** set out westward from Spain for East Asia with **241 men in 5 ships**.
-- Three years later, the remnants of his crew (**18 men in 1 ship**) completed the **first circumnavigation of the globe**.
-- Although a careful log had been kept, the crew found that their calendar was **one day short** of the correct date.
-- This was the **first human experience with time change on a global scale**, the realization of which eventually led to the establishment of the IDL.
-
-### How New Days Begin & End
-
-- The new day **first appears** on Earth at **midnight at the IDL**.
-- For the next **24 hours**, the new day advances **westward** around the world, finally covering the entire surface at the end of this period.
-- For the following **24 hours**, this day leaves the Earth 1 hour at a time, making its **final exit 48 hours** after its first appearance.
-- **Key principle:** As the Earth rotates **eastward**, the time/day moves **westward**.
-
-### Deviations of the IDL from 180°
-
-| Region | Reason for Deviation |
-|--------|--------------------|
-| **Bering Sea** | Shifts to include all **Aleutian Islands of Alaska** within the same day. |
-| **South Pacific** | Keeps islands of the same group (**Fiji, Tonga**) within the same day. |
-| **Central Pacific** (extensive eastward displacement) | Accommodates the widely scattered islands of **Kiribati**. |
-
-### IDL & Time Zones
-
-- Since the IDL is in the **middle of a time zone** (defined by the 180° meridian), crossing it causes **no change on the clock** — only the **date** changes.
-
----
-
-## 21. Daylight Saving Time (DST)
-
-### Concept
-
-- DST takes advantage of the **extra daylight hours** available during summer in higher latitudes.
-- Clocks are set **forward** (usually by **1 hour**) in **spring** (just before summer begins), thus gaining an hour of sunlight during conventional waking hours.
-- Clocks are brought **back to standard time** in **autumn/fall** (just before winter begins).
-
-### Historical Background
-
-| Year / Event | Detail |
-|-------------|--------|
-| **1784** | The practice was first suggested (half-seriously) in an essay by the American statesman & scientist **Benjamin Franklin**. |
-| **Until World War I** | Several countries — including **Australia, Britain, Germany, and the USA** — adopted DST as a means of **conserving energy resources**. |
-
-### Benefits of DST
-
-| Benefit | Description |
-|---------|-------------|
-| **Energy conservation** | Primary original purpose — reduces need for artificial lighting. |
-| **Increased leisure time** | Longer evening daylight for outdoor activities. |
-| **Boost in economic activity** | More daylight encourages consumer spending and outdoor business. |
-| **Safer highway journeys** | Better visibility during peak evening travel hours. |
-
-### Why DST is Irrelevant in the Tropics
-
-- In the **tropical belt**, the length of day and night changes **very little** seasonally, and there is **not much twilight**.
-- Consequently, DST would offer **little or no saving** for tropical regions.
-
----
-
-## 22. Jet Lag
-
-### Circadian Rhythm
-
-- **Circadian rhythm** is the metabolic rhythm found in most organisms, which generally coincides with the **24-hour day cycle**.
-- Its most evident manifestation is a regular cycle of **sleeping and waking**.
-
-### Jet Lag Defined
-
-- **Jet lag** is the effect of a sudden shift of time zones during **air travel**, resulting in:
-  - **Tiredness** and fatigue
-  - Getting **out of step** with the cycle of day and night at the destination
-
-### Connection to Time Zones
-
-- Jet lag is a practical, human consequence of the time-zone system — the body's internal clock (circadian rhythm) needs time to adjust to the new local time after rapidly crossing multiple meridians.
-
----
-
-## 23. Transition from GMT to UTC
-
-- **Greenwich Mean Time (GMT)** was replaced by a universal time system in **1928**.
-- This system was expanded in **1964** when **Coordinated Universal Time (UTC)** was instituted.
-- Today, **UTC is the reference for official time** in all countries.
-- Although the Prime Meridian still runs through Greenwich, UTC is based on **average time calculations collected in Paris** and broadcast worldwide.
-
----
-
-## 24. Zulu Time (Z Time)
-
-### Definition & Origin
-
-- **Zulu Time** is the military, aviation, maritime, and scientific designation for **Coordinated Universal Time (UTC)** / Greenwich Mean Time (GMT).
-- **Phonetic Origin:** The letter **'Z'** stands for the **Zero Meridian** (Greenwich Meridian, 0° longitude), which anchors the zero time zone. In the **NATO Phonetic Alphabet**, the letter 'Z' is pronounced **"Zulu"**.
-
-### Key Applications & Importance
-
-| Domain | Usage & Significance |
-|--------|----------------------|
-| **Military Operations** | Synchronizes multi-national joint military operations to a single, unambiguous global reference clock. |
-| **Aviation (ICAO & ATC)** | All international flight plans, Air Traffic Control communications, and aviation weather reports (METAR/TAF) use Zulu time (e.g., `1400Z` means 14:00 UTC). |
-| **Meteorology & Space (ISRO / NASA)** | Satellite observations, weather prediction models, and space launch countdowns use Zulu time to avoid regional time-zone confusion. |
-
-<!-- 2026-08-30: L4 29 Jul — local time, Tokyo/Sydney/NY sums, ST/IST 82½° E, Fleming, IMC 1884, 7½° zone edges. Pressure belts left unassigned (not on L3 or L4 sheets). 30 Jul (IDL/DST/UTC) still unsplit. -->
+<!-- 2026-08-30: L5 30 Jul / notebook 30/7/26 — quotes, IDL, DST, jet lag, Zulu assignment. Tropical DST limit split from benefits. Pressure belts still undated. -->
 
