@@ -2,11 +2,11 @@
 
 ## Lecture 1 — 26 July 2026
 
-> **Dates of Lecture:** 26 July 2026 (Lecture 1) + 27 July 2026 (Lecture 2) + **28 July 2026 (Lecture 3)**  
+> **Dates of Lecture:** 26 July 2026 (L1) + 27 July 2026 (L2) + 28 July 2026 (L3) + **29 July 2026 (L4)**  
 > **Date Added:** 2026-07-28; split **2026-08-30** from the notebook  
 > **Source:** Vajiram & Ravi class lecture + handwritten notebook. Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
 > **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
-> **Lecture 3** is the page dated **28/7/26** (circled 12) through heat-transfer shares (circled 19). 29–30 July stay below.
+> **Lecture 4** is circled 20–23 plus the International Meridian Conference (IMC) sheet (circled 27). Some of those pages still say 27/7; they sit after 28 July’s page 19, so this class is **29 July**. 30 July (IDL onwards) stays below.
 
 ---
 
@@ -287,11 +287,84 @@ Between about **35° N and 35° S** there is a **surplus of energy** (insolation
 
 ---
 
-> **Lecture 3 stops here.** 29 and 30 July sheets will split everything below.
+> **Lecture 3 stops here.**
 
 ---
 
-## 13. Global Pressure Belts & Planetary Winds
+### Lecture 4 — 29 July 2026
+
+> Circled **20** (quotes) through local-time sums, standard meridian (circled **22–23**), and the IMC sheet (circled **27**). A few pages still show **27/7**; they follow 28 July’s page 19.  
+> Preview headings on the last sheet: **International Date Line (IDL)**, **Daylight Saving Time (DST)**, **Intertropical Convergence Zone (ITCZ)** — those topics are not done in this class. Margin: "Test on Tuesday" / "Rules on Reasonability".
+
+## 13. Quotes from this class
+
+- "Fears kills more dreams than failure ever will."
+- "You always have to choose your commitment vs your fear."
+- "In every walk with nature receives far more than he seeks."
+- "The mind is not a vessel to be filled in, but a fire to be kindled."
+- "If you want to live a happy life, tie it to a goal, not to the people or object."
+
+---
+
+## 14. Local Time
+
+1. **Local time** is the time at a place fixed by the **Sun’s position** in the sky.
+2. It is **12 noon local time** when the sun is highest (shortest shadow).
+3. Romans used **meridian** for 12 noon local time.
+4. All places on a given meridian have the **same local time**.
+5. Earth spins once in **24 hours**, so **360° of longitude = 24 hours**.
+6. Time difference = **4 minutes for every 1°** of longitude.
+7. Earth rotates **west → east**: **add** time for places to the **east**; **subtract** for places to the **west**.
+
+### Class problems
+
+| Given | Find | Answer |
+|-------|------|--------|
+| 12 noon **Monday** at Greenwich | Tokyo **140° E** | **9:20 PM Monday** (140 ÷ 15 = 9 h, remainder 5° × 4 min = 20 min) |
+| 10 AM **Sunday** at Delhi **77° E** | Sydney **150° E** | **2:52 PM Sunday** |
+| 10 AM **Sunday** at Delhi **77° E** | New York **74° W** | **11:56 PM Saturday** (10:04 PM was written first, then crossed out) |
+
+---
+
+## 15. Standard Time, Standard Meridian, Time Zones
+
+> **Assignment from class:** list and explore countries with **multiple time zones**.
+
+- Before the mid-**19th century**, clocks of different time systems were in use across the world.
+- **Sir Sandford Fleming** (Canada) pushed for an international prime meridian. The **US and Canada** adopted standard time in **1883**. In **1884** the **International Meridian Conference (IMC)** met in **Washington DC**.
+- **Standard Time (ST):** the common uniform time followed in a country or part of a country. Example: **Indian Standard Time (IST)**.
+- **Standard meridian:** the meridian on which that uniform time is based. For IST: **82½° E**.
+
+Criteria for choosing a standard meridian:
+
+- **(a)** Central location.
+- **(b)** Proximity to some important place.
+- **(c)** Value **exactly divisible by 7½°**, so standard time differs from **Greenwich Mean Time (GMT)** in **multiples of ½ hour**. (China’s choice: **120° E**.)
+- **(d)** National interest. China spans about **four 15° zones** but officially keeps **one** time zone.
+
+**Time zone:** a longitudinal belt with common uniform time. **India = 1 time zone.** Large countries with a wide east–west spread generally take **several** zones, each about **15°**.
+
+---
+
+## 16. International Meridian Conference, 1884
+
+Division of the world into **24 time zones**, each **15°** of longitude.
+
+1. The **local solar time** of the Greenwich meridian became the standard for the whole system (**GMT**).
+2. Greenwich is the **centre** of a zone that runs **7½° west and 7½° east** of that meridian.
+3. Meridians that are multiples of **15°** (15°, 30°, …) east and west of Greenwich are the standard meridians for the other **23** zones.
+4. The **12 zones east** of Greenwich are **ahead** of GMT by **1 hour per zone**. The **12 zones west** are **behind**.
+5. In **international waters**, zone edges sit exactly **7½°** either side of the standard meridian. Over **land**, the edges bend to match **political and socio-economic** boundaries.
+
+---
+
+> **Lecture 4 stops here.** 30 July sheets (IDL, DST, and the rest) are still below.
+
+---
+
+> Pressure belts and planetary winds were in the merged file but **not** on the 28 July sheets or these time-zone sheets. They stay here until you send that page.
+
+## 17. Global Pressure Belts & Planetary Winds
 
 | Pressure Belt | Origin Type | Latitude | Key Characteristics |
 |---|---|---|---|
@@ -305,84 +378,6 @@ Between about **35° N and 35° S** there is a **surplus of energy** (insolation
 *   **Trade Winds:** Blow from the **Subtropical High Pressure Belts** (30° N/S) towards the **Equatorial Low Pressure Belt** (0°). Deflect to the right in Northern Hemisphere (North-East Trades) and left in Southern Hemisphere (South-East Trades) due to Coriolis force.
 *   **Westerlies:** Blow from **Subtropical High Pressure Belts** (30° N/S) towards **Subpolar Low Pressure Belts** (60° N/S).
 *   **Polar Easterlies:** Blow from **Polar High Pressure Belts** towards **Subpolar Low Pressure Belts**.
-
----
-
-> **Date added:** 2026-07-29
-
-## 15. General & Motivational Quotes (Part 3)
-
-- "Fears kills more dreams than failure ever will."
-- "You always have to choose your commitment vs your fear."
-- "In every walk with nature receives far more than he seeks."
-- "The mind is not a vessel to be filled in, but a fire to be kindled."
-- "If you want to live a happy life, tie it to a goal, not to the people or object."
-
----
-
-## 16. Local Time Concepts
-
-- **Local Time Definition:** It is a time at a place fixed in reference to the Sun's position in the sky.
-- It is **12 noon local time** when the sun is highest in the sky, which corresponds to the **shortest shadow** movement.
-- The term **"meridian"** was used by Romans to indicate 12 noon local time.
-- All places on a given meridian have the **same local time**.
-
-### Calculating Time Differences
-
-- Earth spins once in **24 hours**, therefore **360° of longitude = 24 hours**.
-- This implies a time difference of **4 minutes for every 1° difference in longitude**.
-- Since Earth rotates from **west to east**:
-  - **Add** time for places to the **east** of a given point.
-  - **Subtract** time for places to the **west**.
-
-### Practice Problems
-
-| Problem | Answer |
-|---------|--------|
-| If it is **12 noon Monday** at Greenwich → Local time at **Tokyo (140° E)**? | **9:20 PM Monday** |
-| If it is **10 AM Sunday** at Delhi (77° E) → Local time at **Sydney (150° E)**? | **2:52 PM Sunday** |
-| If it is **10 AM Sunday** at Delhi (77° E) → Local time at **New York (74° W)**? | **11:56 PM Saturday** |
-
----
-
-## 17. Standard Time & The Standard Meridian
-
-### Historical Context
-
-- Before the middle of the **19th century**, hundreds of different local time systems were in use throughout the world.
-- **Sir Sandford Fleming** led the fight in Canada for an international agreement upon a prime meridian.
-- His struggle led the **US and Canada to adopt a standard time in 1883**.
-- In **1884**, the **International Meridian Conference (IMC)** was held in **Washington DC**.
-
-### Definitions
-
-- **Standard Time (ST):** The common uniform time followed in a country or a part of a country (e.g., **IST**).
-- **Standard Meridian:** The meridian on which the common uniform time is based (e.g., **82½° E** for IST).
-
-### Criteria for Selecting a Standard Meridian
-
-1. **Central location** within the country.
-2. **Proximity** to some important place.
-3. The value is chosen so that it is **exactly divisible by 7½°**, allowing the standard time to differ from GMT in **multiples of ½ hours**.
-4. **National interest** — e.g., although China officially extends across multiple zones, the entire nation uses only one at **120° E**.
-
----
-
-## 18. Time Zones & The International Meridian Conference (1884)
-
-- **Time Zone:** The longitudinal zone with common uniform time (e.g., India makes **1 time zone**).
-- Large countries with vast longitudinal extent generally opt for **multiple time zones** (e.g., Russia has approximately **11** in extent).
-
-### IMC (1884) Guidelines
-
-1. Division of the world into **24 time zones**, each **15°** in longitudinal extent.
-2. The **local solar time of the Greenwich meridian** was chosen as the standard for the entire system (**GMT**).
-3. The Greenwich meridian became the center of a time zone that extends **7½° of longitude** both to the west and to the east.
-4. Similarly, meridians that are multiples of **15°** (like 15°, 30°, etc.), both east and west of Greenwich, were set as the **standard meridians** for the remaining **23 time zones**.
-5. **12 zones to the east** of the Greenwich meridian are **ahead** of GMT by 1 hour per zone; the **12 zones to the west** are **behind** GMT.
-6. **Boundaries:**
-   - In **international waters** — time zones are shown exactly 7½° to the east and 7½° to the west of the standard meridians.
-   - Over **land areas** — actual eastern and western boundaries vary to coincide with appropriate **political and socio-economic constraints**.
 
 ---
 
@@ -529,5 +524,5 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 | **Aviation (ICAO & ATC)** | All international flight plans, Air Traffic Control communications, and aviation weather reports (METAR/TAF) use Zulu time (e.g., `1400Z` means 14:00 UTC). |
 | **Meteorology & Space (ISRO / NASA)** | Satellite observations, weather prediction models, and space launch countdowns use Zulu time to avoid regional time-zone confusion. |
 
-<!-- 2026-08-30: Split Lectures 1–3 from Fundamentals. L1 26 Jul (geoid). L2 27 Jul (grid to day-length). L3 28 Jul / notebook 28/7/26 pages 12–19 (quotes, degree-to-km, lat belts, weather/climate, Greek zones, fronts, heat imbalance 80/20). Removed a leftover ocean-circulation table row under pressure belts. 29–30 Jul still unsplit. -->
+<!-- 2026-08-30: L4 29 Jul — local time, Tokyo/Sydney/NY sums, ST/IST 82½° E, Fleming, IMC 1884, 7½° zone edges. Pressure belts left unassigned (not on L3 or L4 sheets). 30 Jul (IDL/DST/UTC) still unsplit. -->
 
