@@ -1,11 +1,15 @@
 # Early Modern India (1707 Onwards)
 
-> **Source:** Vajiram & Ravi Class Lecture 01, 02, 03 & Lecture A1 Notes/Transcript
-> **Last Updated:** 2026-08-10
+> **Source:** Vajiram & Ravi Class Lecture 01, 02, 03 & Lecture A1 Notes/Transcript  
+> **Last Updated:** 2026-08-30  
+> **Lecture 1:** 31 July 2026 — first History class; ends at **Awadh** (Saadat Khan II, Subsidiary Alliance 1801).  
+> **Lecture 2:** 1 August 2026 — **Mysore** starts.
 
 ---
 
-### Lecture 1: Later Mughals & Transition
+### Lecture 1 — 31 July 2026
+
+> Notebook page dated **31/7/26**, circled **1** (Early Modern). Awadh pages (circled **10–11**) close this class. **25 July** was convocation — no lecture.
 
 ## 1. Later Mughals & Succession Timeline (1707–1748)
 
@@ -102,10 +106,13 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
     *   **Shuja-ud-Daulah**: Was not appointed PM → Invited Abdali to invade India. *Context: After Safdarjung died, Abdali invaded again and ruined Delhi. The Mughal court blamed Awadh governors for the damage and refused to make Shuja PM. This angered Shuja → he invited Abdali for the 3rd Battle of Panipat. Awadh "helped" Abdali by NOT sending forces for the Mughals at the last moment.*
         *   **1764 — Battle of Buxar**: Shuja lost to the EIC. <span style="color: #e53e3e;">**1765 Treaty of Allahabad:** Shuja-ud-Daulah was forced to pay ₹50 Lakh war indemnity to EIC.</span>
     *   **Asaf-ud-Daulah**:
-        *   **1773 — Treaty of Benaras**: Kora & Allahabad **returned to Awadh**. *(Note: Audio says 1773; handwritten notes say 1775.)*
+        *   **1775 — Treaty of Benares** (handwritten; audio had said 1773): Kora and Allahabad **returned to Awadh**.
         *   **1775 — Treaty of Faizabad**: **British entered Awadh** politically for the first time.
         *   <span style="color: #e53e3e;">**Capital Shift Trap:** Asaf-ud-Daulah (NOT Saadat Khan Burhan-ul-Mulk) shifted the capital of Awadh from **Faizabad to Lucknow** in 1775.</span>
     *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley <span style="color: #e53e3e;">(forced to cede half of Awadh's territory including Rohilkhand and the Doab).</span>
+
+> **Lecture 1 stops here** (Awadh). Mysore is **1 August**. Items below (Bengal onward, Sikhs, Nadir / Abdali) were already in this file and were **not** on the 31 July Awadh sheets.
+
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.
@@ -276,8 +283,9 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 2: Regional Powers & Marathas
-*Date added: 2026-08-01*
+### Lecture 2 — 1 August 2026
+
+*Date added: 2026-08-01. **Mysore** starts this class.*
 
 #### A. Mysore & Anglo-Mysore Rivalry
 *   **Haider Ali (1720–1782)**:
@@ -973,6 +981,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
+<!-- 2026-08-30: Dated Lecture 1 as 31 July 2026 (first History class; ends at Awadh / Saadat Khan II 1801). Lecture 2 dated 1 August 2026 (Mysore starts). 25 July was convocation. Treaty of Benares aligned to handwritten 1775. -->
 <!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
