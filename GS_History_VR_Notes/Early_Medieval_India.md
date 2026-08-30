@@ -3,11 +3,11 @@
 *Date added: 2026-08-10*
 
 > **Source:** Vajiram & Ravi Class Lecture A1 Notes (Ancient → Early Medieval Transition)
-> **Last Updated:** 2026-08-10
+> **Last Updated:** 2026-08-30
 
 ---
 
-### Lecture A1 — Ancient to Early Medieval Transition
+### Lecture A1 — 10 August 2026
 
 ## 1. The Transition Problem: Ancient → Early Medieval
 
@@ -762,6 +762,7 @@ Each zone has an **Exoteric** (Puram — external/physical) and **Esoteric** (Ah
 
 ---
 
+<!-- 2026-08-30: Dated Lecture A1 as 10 August 2026 (notebook: Early Medieval c. 750 / Decline of Gupta Empire). Same calendar day as Early Modern Lecture 4. -->
 <!-- 2026-08-10: Created from Lecture A1 transcript and handwritten notes. Covers Decline of Guptas, transition period, Gupta successor states, Ancient vs Early Medieval state theory inversion, Varnashramadharma to Digvijaya, Jati emergence, Dharmasutra to Dharmashastra, Purtadharma, Indian Feudalism, and all four dimensions (political, societal, economic, religious) of Early Medieval change. -->
 <!-- 2026-08-12: Added Lecture A2 content — Vardhana Dynasty & Harshavardhana, Xuanzang, Golden Age of Literature, Pala Dynasty (Gopala, Dharmapala, Devapala, Mahipala), Gurjara-Pratiharas & Rise of Rajputs (36 Biradari, 6 key clans), Deccan dynasties (Chalukyas of Badami — Pulkeshin I/II, Kirtivarman, Mangalesh, Vikramaditya I; Rashtrakutas — Dantidurga, Krishna I, Govinda III, Amoghavarsha; Paramars of Dhar), Early Medieval South India (No Feudalism, Extra-King Relations, Assimilation, Maritime Trade, 5 Merchant Corporations, Taxation, Tamilakam & 5 Tinais, Social Structure, Administration Hierarchy, Women in Administration, Nadu-Kuram system). -->
 
