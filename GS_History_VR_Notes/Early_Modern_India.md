@@ -1,15 +1,11 @@
 # Early Modern India (1707 Onwards)
 
 > **Source:** Vajiram & Ravi Class Lecture 01, 02, 03 & Lecture A1 Notes/Transcript  
-> **Last Updated:** 2026-08-30  
-> **Lecture 1:** 31 July 2026 — first History class; ends at **Awadh** (Saadat Khan II, Subsidiary Alliance 1801).  
-> **Lecture 2:** 1 August 2026 — **Mysore** starts.
+> **Last Updated:** 2026-08-30
 
 ---
 
 ### Lecture 1 — 31 July 2026
-
-> Notebook page dated **31/7/26**, circled **1** (Early Modern). Awadh pages (circled **10–11**) close this class. **25 July** was convocation — no lecture.
 
 ## 1. Later Mughals & Succession Timeline (1707–1748)
 
@@ -111,7 +107,7 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
         *   <span style="color: #e53e3e;">**Capital Shift Trap:** Asaf-ud-Daulah (NOT Saadat Khan Burhan-ul-Mulk) shifted the capital of Awadh from **Faizabad to Lucknow** in 1775.</span>
     *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley <span style="color: #e53e3e;">(forced to cede half of Awadh's territory including Rohilkhand and the Doab).</span>
 
-> **Lecture 1 stops here** (Awadh). Mysore is **1 August**. Items below (Bengal onward, Sikhs, Nadir / Abdali) were already in this file and were **not** on the 31 July Awadh sheets.
+### Lecture 2 — 1 August 2026
 
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
@@ -283,10 +279,6 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 2 — 1 August 2026
-
-*Date added: 2026-08-01. **Mysore** starts this class.*
-
 #### A. Mysore & Anglo-Mysore Rivalry
 *   **Haider Ali (1720–1782)**:
     *   Began as a *Piada* (military agent). Established a **Military-Fiscal State** by implementing the **Risala System** (direct state control of military and economy, bringing him into direct conflict with local Poligars). *Context: Piada → Poligar → Nayak (Odayar family) → Vijayanagar. Each time a political system collapsed, the one below took over. Haider was the first Piada (lowest rung) to rise to the top.*
@@ -388,8 +380,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 3: Bengal, European Companies & British India
-*Date added: 2026-08-02*
+### Lecture 3 — 2 August 2026
 
 > **Source:** Vajiram & Ravi Class Lecture 03 & Notes
 
@@ -658,8 +649,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 4: British Administration (Phase III–V) & Viceroys
-*Date added: 2026-08-10*
+### Lecture 4 — 10 August 2026
 
 > **Source:** Vajiram & Ravi Class Lecture A1 Notes & Audio Transcript
 
