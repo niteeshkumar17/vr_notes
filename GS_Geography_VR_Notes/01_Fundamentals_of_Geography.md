@@ -2,11 +2,11 @@
 
 ## Lecture 1 — 26 July 2026
 
-> **Dates of Lecture:** 26 July 2026 (Lecture 1) + **27 July 2026 (Lecture 2)**  
-> **Date Added:** 2026-07-28; split **2026-08-30** from the notebook (Lecture 1 = first sheets through geoid; Lecture 2 = page dated 27/7, circled 5–11)  
+> **Dates of Lecture:** 26 July 2026 (Lecture 1) + 27 July 2026 (Lecture 2) + **28 July 2026 (Lecture 3)**  
+> **Date Added:** 2026-07-28; split **2026-08-30** from the notebook  
 > **Source:** Vajiram & Ravi class lecture + handwritten notebook. Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
 > **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
-> **Lecture 2 ends** at the day-length rules. 28–30 July stay below until those sheets arrive.
+> **Lecture 3** is the page dated **28/7/26** (circled 12) through heat-transfer shares (circled 19). 29–30 July stay below.
 
 ---
 
@@ -184,118 +184,114 @@ The imaginary plane that cuts the Earth through the middle and divides it into t
 
 ---
 
-> **Lecture 2 stops here.** 28, 29 and 30 July sheets will split everything below into those class days.
+> **Lecture 2 stops here.**
 
 ---
 
-## 9. General & Motivational Quotes (Part 2)
+### Lecture 3 — 28 July 2026
+
+> Notebook page dated **28/7/26**, circled **12**. Same class through circled **19** (80% atmosphere / 20% ocean).  
+> Page headers **Albedo** and **Coriolis Effect** appear on these sheets; those terms are not defined in this class.
+
+## 7. Quotes from this class
 
 - "Try to be a rainbow in someone else's cloud."
 - "Those who stand for nothing, fall for anything."
-- "Failure is an event not a person."
+- "Failure is an event, not a person."
 - "We don't have to be smarter than the rest, we have to be more disciplined than the rest."
-- "We are humans until race disconnected us, religion separated us, politics divided us & wealth classified us."
+- "We are humans until race disconnected us, religion separated us, politics divided us and wealth classified us."
 
 ---
 
-## 10. Conversion of Degrees to Linear Distance
+## 8. Conversion of a Degree of Latitude / Longitude into Linear Distance
 
 ### (a) Latitude
 
 - **1° of latitude ≈ 111 km.**
-- 90° of latitude = ¼ × Earth's Circumference.
-- Circumference = 2πR (where R = Radius of Earth ≈ 6,400 km).
+- 90° of latitude = ¼ × Earth's circumference = ¼ × 2πR.
+- Radius of Earth **R ≈ 6,400 km**.
 
-> **Note:** A degree of latitude is slightly **larger** in linear distance at the poles than at the equator because of the slight flattening of the Earth at the poles.
+A degree of latitude is a little **larger** in linear distance at the poles than at the equator because of the slight flattening of the Earth at the poles.
 
 ### (b) Longitude
 
-- **1° of longitude varies based on location.**
+- At a first look, **1° of longitude ≈ 111 km** — but that is only true at the equator. The value **changes with latitude**.
 
-| Location | 1° of Longitude |
+| Location | 1° of longitude |
 |----------|----------------|
-| North Pole / South Pole | **0 km** |
+| North Pole and South Pole | **0 km** (meridians meet) |
 | Equator (0°) | **≈ 111 km** (360° = 2πR) |
-| 60° N or S | **≈ 56 km** (about half of equator's distance) |
+| 60° N or S | **≈ 56 km** (about half of the equator) |
 
 ---
 
-## 11. Latitudinal Regions / Zones / Belts
+## 9. Latitudinal Regions / Zones / Belts
 
-### Detailed Breakdown
-
-| Region | Latitude Range |
-|--------|---------------|
+| Region | Latitude range |
+|--------|----------------|
 | Equatorial | 0° – 10° N or S |
-| Tropical | 23.5° N – 23.5° S |
-| Sub-Tropical | 23.5° – 40° N/S |
-| Temperate | 23.5° – 66.5° N/S |
+| Tropical | 23½° N – 23½° S |
+| Sub-tropical | 23½° – 40° N, and 23½° – 40° S |
+| Temperate | 23½° – 66½° N, and 23½° – 66½° S |
 | Polar | Area around the poles (no exact measure) |
-| Sub-Polar | Higher latitudes just outside the Arctic & Antarctic circles |
+| Sub-polar | Higher latitudes just outside the Arctic and Antarctic Circles |
 
-### Broader Perspective (3 Parts)
+In a broader view the whole Earth's surface is three parts:
 
-| Zone | Latitude Type |
-|------|--------------|
-| **(a) Tropical** | Lower latitudes |
-| **(b) Temperate** | Middle latitudes |
-| **(c) Polar** | Higher latitudes |
-
----
-
-## 12. Weather vs. Climate
-
-- **Weather:** Refers to the atmospheric conditions involving heat, moisture, and their motion for a **given specific area** and a **short duration** of time.
-- **Climate:** Refers to the aggregating atmospheric conditions involving heat, moisture, and motion for a **larger area** and for a **long period** of time (usually **≥ 30 years**).
-
-### Key Quotes / Insights
-
-- **Mark Twain:** *"Climate is what you expect, weather is what you get."*
-- *"It is the climate that attracts people & the weather makes them leave."*
+| | Zone | Meaning |
+|---|------|---------|
+| (a) | Tropical | Lower latitudes |
+| (b) | Temperate | Middle latitudes |
+| (c) | Polar | Higher latitudes |
 
 ---
 
-## 13. Greek Climate Regionalization (3 Zones)
+## 10. Weather and Climate
 
-| Zone | Conditions | Location |
-|------|-----------|----------|
-| **(a) Torrid Zone** | Hot | Tropical / Lower latitudes (0° to 23.5° N/S) |
-| **(b) Frigid Zone** | Cold | Polar / Higher latitudes (66.5° to Poles) |
-| **(c) Temperate Zone** | Moderate | Middle latitudes (23.5° to 66.5° N/S) |
+- **Weather:** atmospheric conditions involving heat, moisture and their motion for a **given specific area** and a **short duration** of time.
+- **Climate:** the **aggregation** of those atmospheric conditions for a **larger area** and a **long period** — **≥ 30 years**.
 
-### The "Temperate" Misnomer & Fronts
-
-- The use of the term **"Temperate" is a misnomer** for the middle latitudes because these areas actually experience the **highest variability in weather conditions** in the world.
-- **Front:** A zone of transition (generally formed in the middle latitudes) between contrasting air masses — the cold, dry **Polar air masses** and the warm, moist **Tropical air masses**.
-- Some of these fronts result in the formation of **Temperate cyclones** (under favourable conditions). These cyclones are the major reason for the high variability of weather experienced in the middle latitudes.
+- **Mark Twain:** "Climate is what you expect, weather is what you get."
+- "It is the climate that attracts people and the weather makes them leave."
 
 ---
 
-## 14. Global Heat Imbalance
+## 11. Greek Climate Regionalization (3 Zones)
 
-> **Miscellaneous Note:** Mercalli scale = Intensity of Earthquake.
+| Zone | Conditions | Where |
+|------|-----------|--------|
+| **(a) Torrid** | Hot | Tropical / lower latitudes |
+| **(b) Frigid** | Cold | Polar / higher latitudes |
+| **(c) Temperate** | Moderate | Middle latitudes |
 
-### The Imbalance Zones
+- Calling the middle latitudes **"temperate" is a misnomer** — these areas have the **highest weather variability** in the world.
+- **Front:** a zone of transition (generally in the middle latitudes) between contrasting air masses — cold, dry **polar** air and warm, moist **tropical** air.
+- Under favourable conditions some fronts form **temperate cyclones**. Those cyclones are the main reason for the high variability of weather in the middle latitudes.
 
-- Between approximately **35° N and 35° S** → **Surplus of Energy** (insolation exceeds outgoing radiation).
-- Outside of 35° N and 35° S (towards the poles) → **Deficit of Energy** (outgoing radiation exceeds insolation).
+---
 
-### Consequences & Moderation
+## 12. Global Heat Imbalance
 
-1. Theoretically, such an imbalance could result in lower latitudes becoming continually **warmer** and higher latitudes becoming continually **colder**.
-2. In reality, however, energy is **transferred from areas of surplus to areas of deficit**.
-3. Mother Nature has provided **mechanisms of circulation**, both in the atmosphere and the world ocean, which attempt to moderate the global heat imbalance.
+> Side note on the same page: **Mercalli scale** = intensity of an earthquake.
 
-### Heat Transfer Mechanisms
+Between about **35° N and 35° S** there is a **surplus of energy** (insolation exceeds outgoing radiation). Outside 35° N and 35° S (towards the poles) there is a **deficit** (outgoing radiation exceeds insolation).
 
-| Mechanism | Share |
-|-----------|-------|
-| **Atmospheric circulation** (cyclones, monsoons, etc.) | **~80%** |
+1. In theory that imbalance would make lower latitudes ever warmer and higher latitudes ever colder.
+2. In reality, energy is **transferred from surplus to deficit**.
+3. Circulation in the **atmosphere** and the **world ocean** moderates the imbalance.
+
+| Mechanism | Share (broad estimate) |
+|-----------|------------------------|
+| **Atmospheric circulation** (cyclones, monsoon, etc.) | **~80%** |
 | **Oceanic circulation** (ocean currents) | **~20%** |
 
 ---
 
-## 15. Global Pressure Belts & Planetary Winds
+> **Lecture 3 stops here.** 29 and 30 July sheets will split everything below.
+
+---
+
+## 13. Global Pressure Belts & Planetary Winds
 
 | Pressure Belt | Origin Type | Latitude | Key Characteristics |
 |---|---|---|---|
@@ -309,7 +305,6 @@ The imaginary plane that cuts the Earth through the middle and divides it into t
 *   **Trade Winds:** Blow from the **Subtropical High Pressure Belts** (30° N/S) towards the **Equatorial Low Pressure Belt** (0°). Deflect to the right in Northern Hemisphere (North-East Trades) and left in Southern Hemisphere (South-East Trades) due to Coriolis force.
 *   **Westerlies:** Blow from **Subtropical High Pressure Belts** (30° N/S) towards **Subpolar Low Pressure Belts** (60° N/S).
 *   **Polar Easterlies:** Blow from **Polar High Pressure Belts** towards **Subpolar Low Pressure Belts**.
-| **Oceanic circulation** (ocean currents) | **~20%** |
 
 ---
 
@@ -534,5 +529,5 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 | **Aviation (ICAO & ATC)** | All international flight plans, Air Traffic Control communications, and aviation weather reports (METAR/TAF) use Zulu time (e.g., `1400Z` means 14:00 UTC). |
 | **Meteorology & Space (ISRO / NASA)** | Satellite observations, weather prediction models, and space launch countdowns use Zulu time to avoid regional time-zone confusion. |
 
-<!-- 2026-08-30: Split Lecture 1 (26 July — through geoid / 0.3%) and Lecture 2 (27 July — notebook date 27/7, circled 5–11: quotes, grid, Greenwich, lat/long, great circles, illumination, tropics, equinox, day-length rules). Later sections stay unsplit until 28–30 July sheets arrive. -->
+<!-- 2026-08-30: Split Lectures 1–3 from Fundamentals. L1 26 Jul (geoid). L2 27 Jul (grid to day-length). L3 28 Jul / notebook 28/7/26 pages 12–19 (quotes, degree-to-km, lat belts, weather/climate, Greek zones, fronts, heat imbalance 80/20). Removed a leftover ocean-circulation table row under pressure belts. 29–30 Jul still unsplit. -->
 
