@@ -106,9 +106,6 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
         *   **1775 — Treaty of Faizabad**: **British entered Awadh** politically for the first time.
         *   <span style="color: #e53e3e;">**Capital Shift Trap:** Asaf-ud-Daulah (NOT Saadat Khan Burhan-ul-Mulk) shifted the capital of Awadh from **Faizabad to Lucknow** in 1775.</span>
     *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley <span style="color: #e53e3e;">(forced to cede half of Awadh's territory including Rohilkhand and the Doab).</span>
-
-### Lecture 2 — 1 August 2026
-
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.
@@ -278,6 +275,8 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *Context: Abdali invaded India **7 times** total (1748, 1749, 1751, 1754, 1761, 1764, 1767).*
 
 ---
+
+### Lecture 2 — 1 August 2026
 
 #### A. Mysore & Anglo-Mysore Rivalry
 *   **Haider Ali (1720–1782)**:
@@ -971,7 +970,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
-<!-- 2026-08-30: Dated Lecture 1 as 31 July 2026 (first History class; ends at Awadh / Saadat Khan II 1801). Lecture 2 dated 1 August 2026 (Mysore starts). 25 July was convocation. Treaty of Benares aligned to handwritten 1775. -->
+<!-- 2026-08-30: Lecture 1 = 31 July (Later Mughals, 8-3-4, Sikhs, Nadir/Abdali, Panipat, Awadh). Lecture 2 = 1 August starting at Mysore. -->
 <!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
