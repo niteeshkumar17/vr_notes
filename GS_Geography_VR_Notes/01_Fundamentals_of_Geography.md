@@ -2,11 +2,11 @@
 
 ## Lecture 1 — 26 July 2026
 
-> **Date of Lecture:** 26 July 2026 (Lecture 1)  
-> **Date Added:** 2026-07-28; lecture split confirmed **2026-08-30**  
-> **Source:** Vajiram & Ravi class lecture + handwritten notebook (pages through circled 11). Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
+> **Dates of Lecture:** 26 July 2026 (Lecture 1) + **27 July 2026 (Lecture 2)**  
+> **Date Added:** 2026-07-28; split **2026-08-30** from the notebook (Lecture 1 = first sheets through geoid; Lecture 2 = page dated 27/7, circled 5–11)  
+> **Source:** Vajiram & Ravi class lecture + handwritten notebook. Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
 > **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
-> **This class ends** at the day-length rules (higher latitude → longer summer day / shorter winter day). Later pages stay below until 28–30 July sheets arrive.
+> **Lecture 2 ends** at the day-length rules. 28–30 July stay below until those sheets arrive.
 
 ---
 
@@ -27,12 +27,6 @@
 - "No winter lasts."
 - "Everything is changing — people are taking their comedians seriously, and politicians as a joke."
 - "Humans have brought into being the mountains of hate, rivers of ruthless traditions, and oceans of ignorance."
-- "Teaching kids to count is fine, but teaching them what counts is the best."
-- "Nothing that is natural is disgraceful."
-- "Procrastination is the thief of time."
-- "Tolerance becomes a crime when it is applied to evil."
-- "Let the people think they govern and they will be governed."
-- "Teachers open the door, but you must enter by yourself."
 
 ---
 
@@ -78,7 +72,22 @@ The variation is very minute, so **in most practical cases we treat the Earth as
 
 ---
 
-## 4. Grid, Greenwich, Latitude and Longitude
+### Lecture 2 — 27 July 2026
+
+> Notebook page dated **27/7**, circled **5**. Same class through circled **11**.
+
+## 4. Quotes from this class
+
+- "Teaching kids to count is fine, but teaching them what counts is the best."
+- "Nothing that is natural is disgraceful."
+- "Procrastination is the thief of time."
+- "Tolerance becomes a crime when it is applied to evil."
+- "Let the people think they govern and they will be governed."
+- "Teachers open the door, but you must enter by yourself."
+
+---
+
+## 5. Grid, Greenwich, Latitude and Longitude
 
 Fundamental to geographic analysis is a comprehensive, logical framework to fix the **accurate location** of any spot on the Earth's surface.
 
@@ -120,7 +129,7 @@ The imaginary plane that cuts the Earth through the middle and divides it into t
 
 ---
 
-## 5. Great Circles, Illumination, Parallels and Seasonality
+## 6. Great Circles, Illumination, Parallels and Seasonality
 
 *(Notebook heading on this page also has International Meridian Conference (IMC), 1884 — the conference itself is in the later, unsplit pages.)*
 
@@ -175,7 +184,7 @@ The imaginary plane that cuts the Earth through the middle and divides it into t
 
 ---
 
-> **Lecture 1 stops here.** 28, 29 and 30 July sheets will split everything below into those class days.
+> **Lecture 2 stops here.** 28, 29 and 30 July sheets will split everything below into those class days.
 
 ---
 
@@ -525,5 +534,5 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 | **Aviation (ICAO & ATC)** | All international flight plans, Air Traffic Control communications, and aviation weather reports (METAR/TAF) use Zulu time (e.g., `1400Z` means 14:00 UTC). |
 | **Meteorology & Space (ISRO / NASA)** | Satellite observations, weather prediction models, and space launch countdowns use Zulu time to avoid regional time-zone confusion. |
 
-<!-- 2026-08-30: Split Lecture 1 (26 July 2026) from the combined Fundamentals file using handwritten pages through circled 11 (quotes, etymology, geodesy, geoid, Greenwich, lat/long, great circles, illumination, tropics, equinox, day-length rules). Later sections stay unsplit until 28–30 July sheets arrive. -->
+<!-- 2026-08-30: Split Lecture 1 (26 July — through geoid / 0.3%) and Lecture 2 (27 July — notebook date 27/7, circled 5–11: quotes, grid, Greenwich, lat/long, great circles, illumination, tropics, equinox, day-length rules). Later sections stay unsplit until 28–30 July sheets arrive. -->
 
