@@ -323,19 +323,23 @@ Transplant **20 June** + Pusa-44 → harvest **~1 November** → **15-day** whea
 **Happy Seeder / Super Seeder:** cuts stubble, lays it as mulch, drills wheat in one pass. **50–80% capital subsidy** (higher for cooperatives in the class example). Still unpopular: needs a **high-horsepower tractor**, **slow**, **more diesel** — subsidy is one-time, **operating cost** is every season.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" role="img" aria-label="Rice-wheat calendar: Pusa-44 leaves a 15-day window; a short-duration PR variety can open 55 days unless moong is squeezed in" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="1" y="1" width="398" height="248" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 312" role="img" aria-label="Rice-wheat calendar: Pusa-44 leaves a 15-day window; a short-duration PR variety can open 55 days unless moong is squeezed in" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="310" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <text x="200" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Rice–wheat window in Punjab</text>
-<text x="20" y="46" font-size="11" fill="#334155">Law: no transplant before 15 June ± 5 (2009, groundwater)</text>
-<rect x="20" y="58" width="360" height="52" rx="8" fill="#fef2f2" stroke="#f87171"/>
-<text x="32" y="78" font-size="11" font-weight="700" fill="#991b1b">Pusa-44 (150–160 d)</text>
-<text x="32" y="96" font-size="11" fill="#334155">20 Jun transplant → ~1 Nov harvest → wheat by 15 Nov = 15 days → burn</text>
-<rect x="20" y="120" width="360" height="52" rx="8" fill="#f0fdf4" stroke="#4ade80"/>
-<text x="32" y="140" font-size="11" font-weight="700" fill="#166534">PR-128 (~120 d, PAU Ludhiana)</text>
-<text x="32" y="158" font-size="11" fill="#334155">~40 days saved → ~55-day gap = decomposer time — unless moong is inserted</text>
-<rect x="20" y="182" width="360" height="52" rx="8" fill="#fffbeb" stroke="#fbbf24"/>
-<text x="32" y="202" font-size="11" font-weight="700" fill="#92400e">What actually happens</text>
-<text x="32" y="220" font-size="11" fill="#334155">Short moong (55–60 d) eats the extra days → window closes → fire again</text>
+<text x="20" y="42" font-size="11" fill="#334155">Law: no transplant before 15 June ± 5</text>
+<text x="20" y="58" font-size="11" fill="#334155">(2009 — groundwater)</text>
+<rect x="16" y="70" width="368" height="70" rx="8" fill="#fef2f2" stroke="#f87171"/>
+<text x="28" y="90" font-size="12" font-weight="700" fill="#991b1b">Pusa-44 (150–160 d)</text>
+<text x="28" y="110" font-size="11" fill="#334155">20 Jun transplant → ~1 Nov harvest</text>
+<text x="28" y="128" font-size="11" fill="#334155">wheat by 15 Nov = 15 days → burn</text>
+<rect x="16" y="148" width="368" height="70" rx="8" fill="#f0fdf4" stroke="#4ade80"/>
+<text x="28" y="168" font-size="12" font-weight="700" fill="#166534">PR-128 (~120 d, PAU Ludhiana)</text>
+<text x="28" y="188" font-size="11" fill="#334155">~40 days saved → ~55-day gap</text>
+<text x="28" y="206" font-size="11" fill="#334155">= decomposer time — unless moong is added</text>
+<rect x="16" y="226" width="368" height="70" rx="8" fill="#fffbeb" stroke="#fbbf24"/>
+<text x="28" y="246" font-size="12" font-weight="700" fill="#92400e">What actually happens</text>
+<text x="28" y="266" font-size="11" fill="#334155">Short moong (55–60 d) eats extra days</text>
+<text x="28" y="284" font-size="11" fill="#334155">window closes → fire again</text>
 </svg>
 </div>
 
