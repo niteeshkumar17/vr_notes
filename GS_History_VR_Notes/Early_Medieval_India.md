@@ -302,7 +302,7 @@
 
 ### A. Background: Post-Gupta North India
 
-After the Gupta decline, four successor states emerged (see §3). Among these:
+After the Gupta decline, four successor states emerged (see section 3). Among these:
 *   **Karna Suvarna** (Bengal — under **Shashanka**) and the **Vardhanas** (North India) were the two most significant powers.
 *   **Prabhakar Vardhana** — ancestor of the Vardhana dynasty, capital at **Thaneshwar** (modern Haryana).
 

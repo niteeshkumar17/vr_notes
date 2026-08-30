@@ -185,7 +185,7 @@
 | **4** | Created the post of **Chief Religious Minister** and appointed a **Sufi — Bahauddin Zakariya** (Suhrawardi) to it | A Sufi religious minister ⇒ the state now formally adheres to **Sharia** |
 | **5** | Formally **extended Dar-al-Islam** | The legal-religious basis of the Sultanate |
 | **6** | Created **two administrative posts**: **Wazir** (Prime Minister) and **Ariz-i-Mamalik** (Defence Minister) | The first ministries of the Sultanate |
-| **7** | Created **two systems**: **(a) IQTA** — land assigned as **salary/revenue assignment**; **(b) an audit system — Naqib** | Iqta is the backbone of Sultanate finance (see §14). Audit was built in from day one |
+| **7** | Created **two systems**: **(a) IQTA** — land assigned as **salary/revenue assignment**; **(b) an audit system — Naqib** | Iqta is the backbone of Sultanate finance (see section 14). Audit was built in from day one |
 | **8** | Bought his own corps of slaves — the **CHAHALGANI** (*Turkan-i-Chihalgani*, "The Forty") | The **first military elite** of the Sultanate — and the force that will later make and unmake Sultans |
 | **9** | Appointed **Razia as Sultan-in-absentia** whenever he left Delhi | Unprecedented — a woman formally on the throne of Delhi |
 | **10** | Brought the **Gupta iron pillar from Udayagiri (Madhya Pradesh)** and installed it **in front of the Qutub Minar** | It still stands in the Qutub complex |
@@ -291,7 +291,7 @@
 |:---:|:---|:---|
 | **1** | **Abolished the post of Naib** (Deputy Sultan) | Only a Chahalgani could become Naib — so the post itself had to go |
 | **2** | **POLICY OF BLOOD** | Killed the other Chahalgani and anyone who could be a probable threat to the throne |
-| **3** | **POLICY OF IRON** | The **Mongols** were the standing external problem → he answered it by **consolidating** the Sultanate (creating the departments — see §13) |
+| **3** | **POLICY OF IRON** | The **Mongols** were the standing external problem → he answered it by **consolidating** the Sultanate (creating the departments — see section 13) |
 | **4** | **DIVINE THEORY OF KINGSHIP** | The first Sultan to claim divinity. Consequences below |
 
 **Elements of the Divine Theory of Kingship:**
