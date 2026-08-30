@@ -22,7 +22,7 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
 | Faction | Origin & Sect | Key Leaders | Power Base & Historical Significance |
 |:---|:---|:---|:---|
 | **1. Turani Faction** | Central Asian Sunnis (Transoxiana / Bukhara) | **Chin Qilich Khan (Nizam-ul-Mulk)**, Zakariya Khan | Traditional Sunni nobility; strongly opposed Sayyid Brothers; Nizam-ul-Mulk founded independent **Hyderabad (1724)** after becoming disillusioned with Mughal court corruption. |
-| **2. Irani Faction** | Persian Shias | **Zulfiqar Khan**, **Saadat Khan Burhan-ul-Mulk**, Safdarjung | Dominant under Bahadur Shah I & Jahandar Shah; promoted alliance with Rajputs/Marathas (abolished Jaziya in Gujarat); Saadat Khan founded autonomous **Awadh (1722)**. |
+| **2. Irani Faction** | Persian Shias | **Zulfiqar Khan**, **Saadat Khan Burhan-ul-Mulk**, Safdarjung | Dominant under Bahadur Shah I & Jahandar Shah; promoted alliance with Rajputs/Marathas (abolished Jaziya in Gujarat); Saadat Khan founded autonomous **Awadh (1724)**. |
 | **3. Hindustani Faction** | Indian Muslims (Native / Indo-Muslims) | **Sayyid Brothers** (*Abdullah Khan* & *Husain Ali Khan* of Barha) | Allied with Hindu nobles, Rajputs, and Marathas (1719 treaty); Kingmakers who installed and deposed 4 Emperors between 1713 and 1720. |
 | **4. Afghan Faction** | Rohillas & Pathans (North-West Frontiers) | **Muhammad Khan Bangash**, **Ali Muhammad Khan** | Valiant soldiers; carved out autonomous principalities in **Farrukhabad** and **Rohilkhand** (Ganga-Yamuna doab). |
 
@@ -65,7 +65,7 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
 *   **Accession**: Farrukh Siyar and the Sayyid Brothers **killed Jahandar Shah and Zulfiqar Khan** (1713).
 *   **Key Actions** (sheet order):
     *   **Abolished Jaziya** nationwide.
-    *   **1715**: Crushed the Sikh anti-state movement by killing **Banda Bahadur** (Sikh page later writes **1716**).
+    *   **1716**: Crushed the Sikh anti-state movement by killing **Banda Bahadur** (Mughal page had 1715; Sikh page has 1716).
     *   **1717**: Issued the **Golden Farman** to the East India Company (EIC), granting *Dastak* (toll / duty-free trade pass) and *Dastur* (customs exemption). <span style="color: #e53e3e;">(Class add-on: Bengal for ₹3,000 a year; Surat for ₹10,000. Applied to official EIC trade, not private trade of Company servants.)</span>
 *   **Marathas — 1713 / Peshwa Balaji Vishwanath**:
     1.  Letter of **1716** to Farrukh Siyar proposing **Dual Governance**: River **Narmada** as the line — North = **Hindustan** (Mughals), South = Maratha **Swaraj**. Forts south of the Narmada must pay **Chauth** (25%).
@@ -158,7 +158,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **SUKERCHAKIA** Misl — a 9-year-old boy became the leader: **RANJIT SINGH** (born 1780, took charge 1789).
 *   **Ranjit Singh Empire (1789–1839)**:
     *   **1798**: Captured Lahore from Zaman Shah (Afghan); declared Lahore as his capital.
-    *   **Treaty of Amritsar / Treaty of Lahore (1809)** (sheet heading is Lahore; standard name is Amritsar):
+    *   **Treaty of Amritsar (1809)** (sheet also wrote “Treaty of Lahore”; class correction is Amritsar):
         *   Signed between **Maharaja Ranjit Singh** and the EIC (Charles Metcalfe).
         *   River **Sutlej** as the line: **Cis-Sutlej** (south/east) = British India; west of Sutlej = Ranjit Singh (Lahore).
         *   **British gave arms, training, and money to the Sikhs to fight the Afghans.**
@@ -177,7 +177,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   *Context — 3 Results of 1st Anglo-Sikh War*: (1) Sikh Empire disintegrated — J&K broken out. (2) Rise of Dogra Rajputs. (3) Border buffer reduced, came under British control.
 *   **2nd Anglo-Sikh War (1848–49)**:
     *   **Mulraj** (Divan / Finance Minister) vs British — Mulraj questioned: "Why are you investing our money for your Afghan problem?" *Context: British was using Sikh empire's money to fight Afghanistan, angering the Sikhs.*
-    *   **1849 — Treaty of Amritsar**: **SIKHS signed Subsidiary Alliance**. **Duleep Singh was sent to London.** *Context: Duleep Singh met the Queen and offered the Koh-i-Noor — "and that is how Koh-i-Noor reached England."*
+    *   **1849**: Sheet first wrote Treaty of Amritsar, then struck it — **Sikhs signed Subsidiary Alliance**. **Duleep Singh was sent to London.** *Context: Duleep Singh met the Queen and offered the Koh-i-Noor — "and that is how Koh-i-Noor reached England."*
 
 ---
 
@@ -276,7 +276,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 2 — 1 August 2026
+### Lecture 2
 
 #### A. Mysore & Anglo-Mysore Rivalry
 *   **Haider Ali (1720–1782)**:
@@ -379,7 +379,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 3 — 2 August 2026
+### Lecture 3
 
 > **Source:** Vajiram & Ravi Class Lecture 03 & Notes
 
@@ -648,7 +648,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 4 — 10 August 2026
+### Lecture 4
 
 > **Source:** Vajiram & Ravi Class Lecture A1 Notes & Audio Transcript
 
@@ -970,7 +970,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
-<!-- 2026-08-30: Lecture 1 order = Later Mughals (Sayyids after Bahadur Shah) → 8-3-4 names only → Sikhs → Nadir/Abdali → Panipat → Awadh. Lecture 2 starts at Mysore. -->
+<!-- 2026-08-30: L1 dated 31 July only (on the notebook). L2/L3/L4 dates removed — 1 Aug, 2 Aug, 10 Aug were inferred, not on sheets. L2 still starts at Mysore. -->
 <!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
