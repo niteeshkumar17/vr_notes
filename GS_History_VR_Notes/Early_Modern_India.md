@@ -50,36 +50,34 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
         *   Mughal noble **Wazir Khan** (Governor of Sirhind) assassinated the 10th Sikh Guru, **Guru Gobind Singh**, at Nanded (Deccan).
         *   *Historical Impact*: Transformed the Sikh community from a religious group into a militant, anti-state movement under Banda Bahadur.
 
-#### C. Jahandar Shah (1712–1713) & Zulfiqar Khan's Rise
-*   *Succession Struggle (1712)*: After Bahadur Shah I died at age 74, a brutal war broke out among his 4 sons (Azim, Rafi, Ahsan, Jahandar Shah).
-*   **Zulfiqar Khan's Elephant Strategy**:
-    *   Zulfiqar Khan invited all 4 sons for dinner in a pavilion. He ruthlessly **trampled 3 rival brothers under the feet of elephants** (Azim, Rafi, Ahsan).
-    *   Jahandar Shah was left alive and crowned Emperor, while Zulfiqar Khan became Prime Minister (*Wazir*).
-*   **Core UPSC Concept: Why Zulfiqar Khan Abolished Jaziya**:
-    *   *The Problem*: A Kingmaker must control both administration and finances. To remain supreme, he requires a powerful personal army.
-    *   *The Logic*: Military strength is a function of individual capability, not religion. Strong soldiers exist among Hindus, Rajputs, Marathas, and Jats, not just Muslims.
-    *   *The Solution*: Jaziya (tax paid by non-Muslims as **exemption from military service**) alienated non-Muslims and prevented their recruitment. Zulfiqar Khan pressured Jahandar Shah to **abolish Jaziya** — but **only in Gujarat first**, so it benefited Zulfiqar alone. *Context: This selective abolition was the last nail in the coffin — other nobles were furious that only Zulfiqar could recruit non-Muslims.*
-*   **Backlash & Overthrow Plot**:
-    *   Zulfiqar's massive accumulation of power alarmed the **Sayyid Brothers** (Abdullah Khan of Allahabad & Husain Ali Khan of Bihar). *Context: They were brothers who did not like each other, but united against the common threat.*
-    *   To legitimize their revolt, the Sayyid Brothers recruited **Farrukh Siyar** (son of Azim, one of the princes trampled under elephants by Zulfiqar). *Context: A coup needs a Mughal-blood face — all of Bahadur Shah's sons were dead, but their children were not.*
+#### C. Rise of the Sayyid Brothers (Kingmakers)
+*   **Abdullah Khan** — Allahabad.
+*   **Husain Ali Khan** — Bihar.
+*   They are the second kingmaker pair after Zulfiqar Khan. *Context: They did not like each other, but united against Zulfiqar.*
 
-#### D. Farrukh Siyar (1713–1719) & Maratha Alliance
-*   **Accession**: Farrukh Siyar and the **Sayyid Brothers** defeated and **executed Jahandar Shah & Zulfiqar Khan** in 1713. *Context: They were trampled under the feet of the same elephant — first Mughal Emperor murdered in office.*
-*   **Key Actions & Reforms**:
-    *   **Abolished Jaziya** nationwide permanently.
-    *   **1716**: Executed **Banda Bahadur**, temporarily suppressing the Sikh uprising.
-    *   **1717**: Issued the **Golden Farman** (Magna Carta of the Company) to the East India Company (EIC), granting *Dastak* (duty-free trade pass) and *Dastur* (customs duty exemption) in Bengal in exchange for an annual payment of **₹3,000** <span style="color: #e53e3e;">(and exempted from all duties at Surat for an annual sum of ₹10,000)</span>. <span style="color: #e53e3e;">**(UPSC Prelims Trap):** This exemption strictly applied to official EIC corporate trade, NOT to the private trade of Company servants. Coins minted by EIC at Bombay were also made valid currency throughout the Mughal Empire.</span>
-*   **Maratha Coalition & Imperial Execution**:
-    1.  Peshwa **Balaji Vishwanath** proposed **Dual Governance** directly to Farrukh Siyar in 1716: River **Narmada** as natural frontier — North of Narmada = **HINDUSTAN** (Mughals), South of Narmada = **Maratha SWARAJ**. Any Mughal fort south of Narmada must pay 25% *Chauth* (security tax). Farrukh Siyar rejected it.
-    2.  Balaji Vishwanath approached the real powerholders, **Sayyid Husain Ali Khan** and **Abdullah Khan**.
-    3.  Together with Maratha troops, the Sayyid Brothers executed Farrukh Siyar in 1719 — making him the **first Mughal Emperor to be executed by his own nobles**.
+#### D. Jahandar Shah (1712–1713) & Zulfiqar Khan
+*   *Succession Struggle (1712)*: After Bahadur Shah I died at age 74, a war broke out among his sons. Sheet names the other three as **Azim, Rafi, Ahsan**.
+*   **Zulfiqar Khan** remained the kingmaker. He **trampled 3 rival brothers under elephants** (Azim, Rafi, Ahsan). Jahandar Shah was left alive and crowned; Zulfiqar became Prime Minister (*Wazir*).
+*   *Context (class, not the sheet headline):* Zulfiqar first pushed to **abolish Jaziya (Jizya)** — a poll tax paid by non-Muslims as **exemption from military service** — **only in Gujarat**, so only he could recruit non-Muslims.
+*   The Sayyid Brothers recruited **Farrukh Siyar** (son of Azim) as the Mughal-blood face of their coup.
 
-#### E. Puppet Emperors (1719)
+#### E. Farrukh Siyar (1713–1719) & Maratha Alliance
+*   **Accession**: Farrukh Siyar and the Sayyid Brothers **killed Jahandar Shah and Zulfiqar Khan** (1713).
+*   **Key Actions** (sheet order):
+    *   **Abolished Jaziya** nationwide.
+    *   **1715**: Crushed the Sikh anti-state movement by killing **Banda Bahadur** (Sikh page later writes **1716**).
+    *   **1717**: Issued the **Golden Farman** to the East India Company (EIC), granting *Dastak* (toll / duty-free trade pass) and *Dastur* (customs exemption). <span style="color: #e53e3e;">(Class add-on: Bengal for ₹3,000 a year; Surat for ₹10,000. Applied to official EIC trade, not private trade of Company servants.)</span>
+*   **Marathas — 1713 / Peshwa Balaji Vishwanath**:
+    1.  Letter of **1716** to Farrukh Siyar proposing **Dual Governance**: River **Narmada** as the line — North = **Hindustan** (Mughals), South = Maratha **Swaraj**. Forts south of the Narmada must pay **Chauth** (25%).
+    2.  Farrukh Siyar rejected it. Balaji then went to the Sayyid Brothers (the real power).
+    3.  With Maratha troops, the Sayyid Brothers executed Farrukh Siyar in 1719.
+
+#### F. Puppet Emperors (1719)
 *   The Sayyid Brothers placed two teenage sons of Rafi-ush-Shan on the throne:
     1.  **Rafi-al-Darajat (1719)**: Placed as emperor; **accepted the [Maratha dual governance] offer** that Farrukh Siyar had rejected. *Context: Sayyid Brothers placed the younger son first to get the work done — an obedient puppet.* Died shortly of Tuberculosis (T.B.).
     2.  **Rafi-ud-Daulah / Shah Jahan II (1719)**: Placed next; also died shortly of T.B. (communicable disease).
 
-#### F. Muhammad Shah 'Rangeela' (1719–1748)
+#### G. Muhammad Shah 'Rangeela' (1719–1748)
 *   **Accession**: Son of **Ahsan** (the third killed brother). Placed on the throne by the Sayyid Brothers as the last option. *Context: In the span of one year (1719), the Mughal Empire saw 4 emperors — Farrukh Siyar, Rafi-al-Darajat, Rafi-ud-Daulah, and Muhammad Shah.*
 *   **Elimination of Sayyid Brothers**: Muhammad Shah allied with **Nizam-ul-Mulk** (Chin Qilich Khan) to assassinate the Sayyid Brothers.
 *   **Catalyst for Disintegration**: Rangeela was a drunkard who did not understand administration. He replaced good old nobles with **incompetent new favorites** — directly triggering imperial breakdown.
@@ -91,21 +89,11 @@ The Later Mughal nobility fragmented along ethnic, regional, and sectarian lines
 ### Regional Classification of 15 Early Modern Entities
 
 #### A. 8 Successor States (Broke away directly from Mughals)
-1.  **Punjab**: Zakariya Khan (semi-independent governor).
-2.  **Bangash**: Muhammad Bangash (Pathan region bordering UP/Farrukhabad).
-3.  **Rohillas**: Khan Bahadur of Kumaon (Garhwal/Kumaon hills).
-4.  **Awadh**: 
-    *   **Geopolitical Structure**: Mughal Centre (Delhi) → Faujdar (PM) → Governor → Awadh. Agra served as the intermediate administrative node.
-    *   **1724 — Saadat Khan (Burhan-ul-Mulk)**: PM of Mughals. Founded Awadh as a semi-independent state.
-    *   **1739 — Battle of Karnal**: *Context: Incompetent nobles spread a rumour that Saadat Khan had invited Nadir Shah. To prove his loyalty, Saadat fought at Karnal but was defeated.* He lost both respect (rumour) and wealth (spent fighting Nadir) → **committed suicide**.
-    *   **Safdarjung (1739–1754)**: Saadat Khan’s son. PM of the Mughal Empire. *Context: His period is considered the last era of stability in the Mughal Empire — no major fights.*
-    *   **Shuja-ud-Daulah**: Was not appointed PM → Invited Abdali to invade India. *Context: After Safdarjung died, Abdali invaded again and ruined Delhi. The Mughal court blamed Awadh governors for the damage and refused to make Shuja PM. This angered Shuja → he invited Abdali for the 3rd Battle of Panipat. Awadh "helped" Abdali by NOT sending forces for the Mughals at the last moment.*
-        *   **1764 — Battle of Buxar**: Shuja lost to the EIC. <span style="color: #e53e3e;">**1765 Treaty of Allahabad:** Shuja-ud-Daulah was forced to pay ₹50 Lakh war indemnity to EIC.</span>
-    *   **Asaf-ud-Daulah**:
-        *   **1775 — Treaty of Benares** (handwritten; audio had said 1773): Kora and Allahabad **returned to Awadh**.
-        *   **1775 — Treaty of Faizabad**: **British entered Awadh** politically for the first time.
-        *   <span style="color: #e53e3e;">**Capital Shift Trap:** Asaf-ud-Daulah (NOT Saadat Khan Burhan-ul-Mulk) shifted the capital of Awadh from **Faizabad to Lucknow** in 1775.</span>
-    *   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801** with Lord Wellesley <span style="color: #e53e3e;">(forced to cede half of Awadh's territory including Rohilkhand and the Doab).</span>
+*(Sheet is only names here. Awadh is written out later, after Panipat.)*
+1.  **Punjab**: Zakariya Khan.
+2.  **Bangash**: Muhammad Bangash.
+3.  **Rohillas**: Khan Bahadur of Kumaon.
+4.  **Awadh**: Saadat Khan (Burhan-ul-Mulk).
 5.  **Bengal**: Murshid Quli Khan — Ganges Delta; capital shifted to Murshidabad; Izaradari system.
 6.  **Rajputana**:
     *   *Jodhpur*: Ajit Singh.
@@ -170,10 +158,11 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   **SUKERCHAKIA** Misl — a 9-year-old boy became the leader: **RANJIT SINGH** (born 1780, took charge 1789).
 *   **Ranjit Singh Empire (1789–1839)**:
     *   **1798**: Captured Lahore from Zaman Shah (Afghan); declared Lahore as his capital.
-    *   **Treaty of AMRITSAR (1809)**:
-        *   Signed between **Maharaja Ranjit Singh** and British EIC (represented by **Charles Metcalfe**).
-        *   River **SUTLEJ** established as permanent boundary: **CIS-SUTLEJ** territory (south/east of Sutlej) placed under British protection/sphere of influence.
-        *   <span style="color: #e53e3e;">**UPSC Prelims Crucial Scope:** Treaty restricted Ranjit Singh's expansion **only** in the Cis-Sutlej region. Ranjit Singh retained **unrestricted freedom** to expand North and West of the Sutlej, leading to his conquest of **Multan (1818)**, **Kashmir (1819)**, and **Peshawar (1834)**.</span>
+    *   **Treaty of Amritsar / Treaty of Lahore (1809)** (sheet heading is Lahore; standard name is Amritsar):
+        *   Signed between **Maharaja Ranjit Singh** and the EIC (Charles Metcalfe).
+        *   River **Sutlej** as the line: **Cis-Sutlej** (south/east) = British India; west of Sutlej = Ranjit Singh (Lahore).
+        *   **British gave arms, training, and money to the Sikhs to fight the Afghans.**
+        *   <span style="color: #e53e3e;">Restricted Ranjit only on the Cis-Sutlej side. He stayed free to expand north and west — Multan (1818), Kashmir (1819), Peshawar (1834).</span>
     *   **EASTERN Question — Afghan Question — The Great Game**:
         *   *Geopolitical Context (Page 6 diagram)*: **France** (Napoleon) + **Russia** (CZAR) → competing for influence over **Afghanistan** (DOST KHAN). British feared Franco-Russian invasion via Persia & Afghanistan into India. *(1776 context: USA Briton Lost — British didn't want to lose India next).*
         *   **Policy of Non-Intervention / Masterly Inactivity**: British strategy to use the Sikh Empire as a buffer state. *Context: "The answer to the Eastern Question is masterly inactivity... whoever holds power there will enter India."*
@@ -232,47 +221,58 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
     *   SIKHS got peace.
     *   ADINA got Lahore.
     *   Marathas captured **ATTOCK FORT** & took **Chauth**.
-    *   (**Raghunath Rao** & **Dataji Scindia**)
+    *   (**Raghunath Rao** & **Dattaji Scindia**)
 
 ---
 
 ### C. 3rd Battle of Panipat (1761)
 
-→ *For Revenge of Son.*
+→ *For revenge of son* (Timur Shah). **Shah Alam II** on the Mughal throne.
 
-**1761 — 3rd Battle of Panipat** & **Shah Alam-II**
-
-#### 3rd Panipat, 1761
-
-**Abdali VS Mughals / Marathas**
-
-*Context: Why "Mughals" and not just "Marathas"? Because the Narmada letter stated that anything north of Narmada belongs to the Mughals. Panipat is north of Narmada. So the Marathas fought under the Mughal banner — Sadashiv Rao carried the Mughal flag into battle.*
+**Abdali vs Marathas** (sheet crossed out “Mughals”).
 
 | **Abdali's Side** | **Maratha Side** |
 |---|---|
-| **Bangash** | **VISWAS RAO** — Son of Peshwa |
-| **Rohilla** | **Balaji Baji Rao** (Peshwa) |
-| **Awadh** — Shuja-ud-daulah | **SADASHIV RAO** — Brother of Peshwa |
-| | **Hyderabad** |
-| | French — Bussy's army |
-| | **Ibrahim Gardi** |
+| **Bangash** | **Viswas Rao** — son of Peshwa **Balaji Baji Rao** |
+| **Rohilla** | **Sadashiv Rao** — brother of the Peshwa |
+| **Awadh** — **Shuja-ud-Daulah** | |
 
-**Other Maratha Commanders**: Madhav Rao, Malhar Rao, Raghunath Rao, Mahadji Scindia, Nana Phadnavis.
+**Hyderabad** (listed separately on the sheet): French — **Bussy's** army; **Ibrahim Gardi**.
+
+**Names in the margin** (next generation / later Maratha house): Madhav Rao, Madhav Rao, Raghunath Rao, Mahadji Scindia, Nana Fadnavis.
 
 #### 3rd Panipat — Impact / Result
-1.  **Accelerated Mughal disintegration** — 8 Successor States declared independence.
+1.  **Accelerated Mughal disintegration.** *(Sheet had “successor states declared independence” and then crossed it out.)*
 2.  **Checked Maratha Imperialism.**
-3.  **Checked the entry of English in N.W.F. Politics.**
-4.  **Indirectly led to the rise of SIKH powers.**
+3.  **Checked the entry of the English in North-West Frontier (N.W.F.) politics.**
+4.  **Indirectly led to the rise of Sikh powers.**
 
-#### Post-Panipat Timeline
+#### Post-Panipat Timeline (sheet only — no 1809 treaty here)
 *   **1764** — Abdali failed to get Lahore.
 *   **1767** — Failed again.
-*   **1786** — Afghan captured Lahore (**Zaman Shah**).
-*   **1798** — **Ranjit Singh** (Sukerchakia Misl) captured Lahore → established unified Sikh Empire.
-*   **Treaty of Amritsar (1809)**: Signed between **Maharaja Ranjit Singh** and the East India Company (represented by **Charles Metcalfe**). Established the **Sutlej River** (not Yamuna) as the permanent boundary separating Ranjit Singh's kingdom (west of Sutlej) from EIC's sphere of influence (east of Sutlej). Ranjit Singh agreed not to expand east of the Sutlej, in exchange for British non-interference in his western/northern conquests (Kashmir, Multan, Peshawar).
+*   **1780s** — Afghan captured Lahore (**Zaman Shah**).
+*   **1798** — **Ranjit Singh** took Lahore.
 
-*Context: Abdali invaded India **7 times** total (1748, 1749, 1751, 1754, 1761, 1764, 1767).*
+*Context: Abdali invaded India **7 times** (1748, 1749, 1751, 1754, 1761, 1764, 1767).*
+
+---
+
+## 5. Awadh
+
+*(Sheet pages after Panipat — this is where Awadh is written out, not inside the 8-state list.)*
+
+*   **Geopolitical structure**: **Delhi** and **Agra** = **Mughal centre**. Triangle **Delhi–Agra–Awadh**. Delhi: loyalist / PM → Governor.
+
+*   **1724 — Saadat Khan (Burhan-ul-Mulk)**: PM of the Mughals. Founded Awadh as a semi-independent state.
+*   **1739 — Battle of Karnal**: Saadat was defeated by Nadir’s forces → **committed suicide**.
+*   **Safdarjung (1739–1754)**: PM of the Empire. *Context: last stretch of relative stability at the Mughal centre.*
+*   **Shuja-ud-Daulah**: Was **not appointed PM** → **invited Abdali**.
+    *   **1764 — Battle of Buxar**: Shuja lost. <span style="color: #e53e3e;">**1765 Treaty of Allahabad:** ₹50 lakh indemnity to the EIC (class add-on).</span>
+*   **Asaf-ud-Daulah**:
+    *   **1775 — Treaty of Benares** (handwritten; audio had said 1773): **Kora and Allahabad returned to Awadh**.
+    *   **1775 — Treaty of Faizabad**: **British entered Awadh**.
+    *   Nawab shifted the capital from **Faizabad to Lucknow**. <span style="color: #e53e3e;">Capital-shift trap: Asaf-ud-Daulah, not Saadat Khan Burhan-ul-Mulk.</span>
+*   **Saadat Khan II**: Signed **Subsidiary Alliance in 1801**. <span style="color: #e53e3e;">(Class add-on: Wellesley; half of Awadh, including Rohilkhand and the Doab, ceded.)</span>
 
 ---
 
@@ -970,7 +970,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
-<!-- 2026-08-30: Lecture 1 = 31 July (Later Mughals, 8-3-4, Sikhs, Nadir/Abdali, Panipat, Awadh). Lecture 2 = 1 August starting at Mysore. -->
+<!-- 2026-08-30: Lecture 1 order = Later Mughals (Sayyids after Bahadur Shah) → 8-3-4 names only → Sikhs → Nadir/Abdali → Panipat → Awadh. Lecture 2 starts at Mysore. -->
 <!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->
