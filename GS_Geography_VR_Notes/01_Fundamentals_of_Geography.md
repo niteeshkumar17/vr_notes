@@ -1,30 +1,32 @@
 # 01 — Fundamentals of Geography
 
-## Lecture 1 — Fundamentals of Geography
+## Lecture 1 — 26 July 2026
 
-> **Source:** Vajiram & Ravi class notes + self-study (notebook extraction)
-> **Date added:** 2026-07-28
+> **Date of Lecture:** 26 July 2026 (Lecture 1)  
+> **Date Added:** 2026-07-28; lecture split confirmed **2026-08-30**  
+> **Source:** Vajiram & Ravi class lecture + handwritten notebook (pages through circled 11). Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
+> **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
+> **This class ends** at the day-length rules (higher latitude → longer summer day / shorter winter day). Later pages stay below until 28–30 July sheets arrive.
 
 ---
 
-## 1. General & Motivational Quotes
+## 1. Quotes from this class
 
-> *These quotes are useful for Essay / Ethics papers rather than Geography.*
+> Useful for Essay / Ethics more than for Geography facts.
 
-- "Nature Nurtures us, we must nurture nature."
+- "Hearing is easy; Listening is difficult."
+- "Nature nurtures us, we must nurture nature."
 - "Nature to be commanded, must be obeyed."
 - "While we are postponing, life speeds by."
 - "Seize the day."
-- "Ambition is the path to success."
-- "Persistence is the vehicle you arrive in."
+- "Ambition is the path to success." Persistence is the vehicle you arrive in.
 - "All sins are attempts to fill voids."
 - "The whole purpose of education is to turn mirrors into windows."
 - "If you think education is expensive, try ignorance."
 - "Talk does not cook rice."
-- "No winters lasts."
+- "No winter lasts."
 - "Everything is changing — people are taking their comedians seriously, and politicians as a joke."
-- "Humans have brought into beings the mountains of hate, rivers of inflexible traditions, and oceans of ignorance."
-- "Hearing is easy, Listening is difficult."
+- "Humans have brought into being the mountains of hate, rivers of ruthless traditions, and oceans of ignorance."
 - "Teaching kids to count is fine, but teaching them what counts is the best."
 - "Nothing that is natural is disgraceful."
 - "Procrastination is the thief of time."
@@ -34,110 +36,110 @@
 
 ---
 
-## 2. Fundamentals of Geography
+## 2. What Geography Is
 
-- **Etymology:** Geography comes from *Geo* + *Graphien*, which literally means **the description of the Earth**.
-- **Origins:** Greeks are the first geographers of the world.
-- **Definition:** **Eratosthenes** coined the word *geography* and defined it as the study of the earth as the home of man. This involves **Nature, Man, and their Interaction**.
+- **Etymology:** Geography → *Geo* + *Graphein*. Literally **the description of the Earth**.
+- **Origins:** Greeks are **supposed to be** the first geographers of the world.
+- **Eratosthenes** coined the word *geography* and defined it as the **study of the Earth as the home of man**.
+- That study has three parts: **Nature**, **Man**, and their **Interaction**.
+- Class instruction: **enrich the answer with spatial analysis**.
 
-### Core Concepts
+### Landscapes, method, two definitions
 
-- **Landscapes:** Refers to the assembly or collection of land types. Every landscape is the stage of an eternal fight between **endogenic and exogenic forces**.
-- **Methodology:** Geography is governed by **method** rather than by specific knowledge, and this method is known as **spatial analysis**. Geography, being a Spatial Science, attempts to discover spatial ordering in the occurrence of natural and human elements of the Earth's surface.
-- **Insolation:** Incoming solar radiation.
-- **Geopolitics:** Refers to the geographical calculation of international politics.
-- Every science attempts discovering an order in the apparent chaos of Nature. **Science is the deadly enemy of uniqueness.**
+- **Landscapes:** the assembly / collection of land types. Every landscape is the stage of an eternal fight between **endogenous (endogenic) and exogenous (exogenic)** processes.
+- Geography is governed by **method** rather than by a fixed body of facts. That method is **spatial analysis**.
+- **Insolation:** incoming solar radiation.
+- **Geopolitics:** the geographical constellation / context of international politics.
+
+### Geography as a spatial science
+
+- Every science attempts to discover an **order** in the apparent **chaos** of Nature.
+- **Science is the deadly enemy of uniqueness.**
+- Geography, being a **spatial science**, attempts to discover **spatial ordering** in the occurrence of natural and human elements of the Earth's surface.
 
 ---
 
-## 3. Earth's Shape & Geodesy
+## 3. Geodesy and the Earth's Shape
 
-- **Geodesy:** The science that attempts to determine Earth's size and shape by surveys and mathematical calculations.
+- **Geodesy:** the science that attempts to determine Earth's **size and shape** by surveys and mathematical calculations.
 
-### Historical Progression
-
-1. **Until 1687:** The **spherical perfection model** was the basic assumption of geodesy.
-2. **1687 — Newton's Postulate:** Sir Isaac Newton postulated that the round earth along with planets could not be perfectly spherical.
-3. **Oblate Spheroid:** Newton reasoned that Earth is slightly misshapen by its spinning, making it **bulge through the equator** and **flatten at the poles** → oblate spheroid.
-4. **Geoid:** Today the earth is considered a **geoid** — the shape of the earth is uniquely earth-shaped.
-
-### Dimensions & Variations
+1. Until **1687**, the **spherical-perfection model** was the basic assumption of geodesy.
+2. In **1687** Sir Isaac Newton postulated that the round Earth (and the other planets) could **not** be perfectly spherical.
+3. Newton reasoned that spin slightly misshapes the Earth: it **bulges at the equator** and is **flattened at the poles** → **oblate spheroid**.
+4. Today the Earth is considered a **geoid** — the shape of the Earth is uniquely Earth-shaped.
 
 | Measurement | Value |
 |-------------|-------|
 | Polar diameter (slightly flattened) | ≈ 12,714 km |
 | Equatorial diameter (slightly bulging) | ≈ 12,756 km |
-| Variation from true sphere | ≈ **0.3%** → `((12756 − 12714) / 12756) × 100` |
+| Variation from a true sphere | `((12756 − 12714) / 12756) × 100` ≈ **0.3%** |
 
-Because Earth's variation from a true spherical shape is very minute, **in most practical cases we can treat the Earth as if it were a perfect sphere**.
+The variation is very minute, so **in most practical cases we treat the Earth as a perfect sphere**.
 
 ---
 
-## 4. The Geographic Grid System
+## 4. Grid, Greenwich, Latitude and Longitude
 
-- **Framework:** Fundamental to geographic analysis is the development of a comprehensive and logical framework to establish accurate location of any spot on the Earth's surface.
-- **Grid Anchors:** The imaginary grid system is anchored by the positions of the **poles and equator**, which are determined by the earth's slight variance from a perfectly spherical shape.
-- **Earth's Axis:** An imaginary line joining the North Pole and South Pole, passing through the centre.
+Fundamental to geographic analysis is a comprehensive, logical framework to fix the **accurate location** of any spot on the Earth's surface.
 
-### Selection of Prime Meridian
+The imaginary grid is anchored by the **poles and the equator**, which come from Earth's slight variance from a perfect sphere.
 
-Three reasons played a role:
+**Earth's axis:** an imaginary line joining the North Pole and the South Pole, passing through the centre.
+
+### Why Greenwich was chosen as the prime meridian
+
+Three reasons:
 
 1. The **Royal Observatory at Greenwich** was already in use as a reference.
 2. **Dominance of the English Empire.**
-3. A convenient choice for the **International Date Line**.
+3. A convenient choice for the **International Date Line (IDL)**.
 
----
+### Equatorial plane
 
-## 5. Latitude, Longitude & Time
-
-### Equatorial Plane
-
-The imaginary plane that cuts the earth through the middle, dividing it into two halves: **Northern Hemisphere** and **Southern Hemisphere**.
+The imaginary plane that cuts the Earth through the middle and divides it into the **Northern Hemisphere** and the **Southern Hemisphere**. In the class diagram, segment **CA** is the equatorial plane.
 
 ### Latitude
 
-- **Definition:** The angular distance of a place **north or south** of the equator.
-- If you project a line from a given point on the earth's surface to the centre (C) of the earth, the angle between this line and the equatorial plane is a measure of the latitude of that point.
+- Angular distance of a place **north or south** of the equator.
+- Project a line from point **P** on the surface to the centre **C**. The angle between **PC** and the equatorial plane (**CA**) is the latitude of P.
+- Written as **P (latitude, longitude)** or **P (x° N, y° E)**.
 - **Range:** 0° to 90° N or S.
-- **Parallel:** A line connecting all points of the same latitude. Lines of latitude are called *parallels* as they run parallel to each other.
-- The **0° parallel** is called the **equator** of the earth.
+- **Parallel:** a line connecting all points of the same latitude. They run parallel to each other.
+- The **0° parallel** is the **equator**.
 
 ### Longitude
 
-- **Definition:** The angular distance of a place **east or west** of the Greenwich Meridian.
-- **Meridian:** A line joining places of the same longitude.
+- Angular distance of a place **east or west** of the **Greenwich Meridian** (0° meridian / prime meridian).
+- **Meridian:** a line joining places of the same longitude.
 - **Range:** 0° to 180° E or W.
 
-### Time & Meridians
+### Time and meridians
 
-- The word **meridian** was used by the Romans to indicate **12 noon local time** — the moment of the day when the sun is highest in the sky (the shortest shadow moment).
-- All places on a given meridian/longitude have the **same local time**.
-
----
-
-## 6. Great Circles & Circle of Illumination
-
-### Great Circle Properties
-
-- Any plane passed through the **centre of a sphere** bisects that sphere and creates a **great circle** where it intersects the surface.
-- A great circle is the **largest circle** that can be drawn on a sphere — it represents the circumference of the sphere.
-- There are **infinite great circles** for a given sphere.
-- Of all the parallels, the **equator alone** makes a great circle. All other parallels make **small circles**.
-- Each meridian makes a **semi-great circle**.
-- An arc of a great circle joining any two points on the earth's surface is always the **shortest route** between those points.
-
-### Circle of Illumination
-
-- The sun illuminates **one half** of the earth at any given moment.
-- The edge of the sunlit hemisphere is called the **circle of illumination**.
-- It is a great circle that divides the earth into a **light half** and a **dark half**.
+- Romans used **meridian** for **12 noon local time** — the moment the sun is highest (shortest shadow).
+- All places on a given meridian / longitude have the **same local time**.
 
 ---
 
-## 7. Seasonality & Important Parallels
+## 5. Great Circles, Illumination, Parallels and Seasonality
 
-### Key Parallels
+*(Notebook heading on this page also has International Meridian Conference (IMC), 1884 — the conference itself is in the later, unsplit pages.)*
+
+### Great circle
+
+1. Any plane through the **centre** of a sphere bisects it and creates a **great circle** where it meets the surface.
+2. A great circle is the **largest** circle that can be drawn on a sphere — the circumference.
+3. A given sphere has **infinite** great circles.
+4. Of all the parallels, the **equator alone** is a great circle. All other parallels are **small circles**.
+5. Each meridian is a **semi-great circle**.
+6. An **arc of a great circle** joining any two points on the Earth's surface is always the **shortest route** between them.
+
+### Circle of illumination
+
+- The sun illuminates **one half** of the Earth at any given moment.
+- The edge of the sunlit hemisphere is the **circle of illumination**.
+- It is a great circle that divides the Earth into a **light half** and a **dark half**.
+
+### Important parallels
 
 | Parallel | Latitude |
 |----------|----------|
@@ -147,38 +149,33 @@ The imaginary plane that cuts the earth through the middle, dividing it into two
 | Tropic of Capricorn | 23½° S |
 | Antarctic Circle | 66½° S |
 
-**Significance:** These parallels help us understand the distribution of **insolation** on the Earth's surface.
+1. These parallels help us understand the distribution of **insolation** on the Earth's surface.
+2. The two tropics are the **farthest limits** of the sun's apparent movement.
+3. The two tropics are also the farthest limits of the sun's **vertical** (overhead) position.
 
-### Tropics
+- **Tropic** from Latin *tropicus* — the parallel **from where the sun turns**.
+- **Solstice:** the sun reaching **farthest** in the given hemisphere.
+- **Equinox:** the two days when the sun is overhead at the equator and **all places** have equal day and night.
 
-- The term **tropic** comes from the Latin word *tropicus* — refers to the parallel from where the **sun turns**.
-- The two tropics represent the **farthest limits** of the sun's apparent movement and vertical limit.
+### Seasonality (how the class closed)
 
-### Key Terms
+1. As Earth revolves around the sun in a year, the relationship between the two keeps changing.
+2. **Seasonality** is the consequence of that changing relationship.
+3. Seasonality shows up as the **changing length of a day**.
+4. Day length depends on **how the circle of illumination cuts the Earth into two halves**.
+5. The circle of illumination is always a great circle, so it always cuts the Earth in half — but it does so **differently at different times of the year**.
+6. The **equator** is the only parallel cut evenly all year → **12 hours day and 12 hours night** every day.
+7. All other parallels are cut unevenly, except on the two **equinox** days.
+8. Seasonal variation in day length is **0 at the equator** and **increases as latitude increases**.
 
-- **Solstice:** The sun reaching **farthest** in the given hemisphere.
-- **Equinox:** The 2 days of the year when the sun is overhead at the equator and all places on Earth have **equal lengths of day and night**.
+**Day-length rules (DS):**
 
-### Seasonality Observations
-
-- As Earth revolves around the sun in a year's time, the relationship between the two keeps changing.
-- **Seasonality** is the consequence of this changing relationship.
-- Seasonality gets manifested by the **changing length of a day**.
-- Length of a day depends on how the **great circle of illumination** cuts our earth into 2 halves.
+- **(a)** Higher the latitude, **longer** the summer day.
+- **(b)** Higher the latitude, **shorter** the winter day.
 
 ---
 
-## 8. Circle of Illumination & Seasonality (Continued)
-
-- **Circle of Illumination:** Being a great circle, it always cuts the earth into two halves, but it does so **differently at different times of the year**.
-- **The Equator:** It is the only parallel which gets cut evenly throughout the year, and therefore has **12 hours of day and 12 hours of night throughout the year**.
-- **Other Parallels:** All other parallels get cut unevenly throughout the year except on two days called **equinox**.
-- **Seasonal Variation:** Thus, seasonal variation in the length of a day is **0 at the equator** and it **increases as we go higher in latitude**.
-
-### Rules
-
-- **Rule A:** Higher the latitude, **longer** is the summer day.
-- **Rule B:** Higher the latitude, **shorter** the winter day.
+> **Lecture 1 stops here.** 28, 29 and 30 July sheets will split everything below into those class days.
 
 ---
 
@@ -527,4 +524,6 @@ One key advantage of establishing the Greenwich Meridian as the 0° Prime Meridi
 | **Military Operations** | Synchronizes multi-national joint military operations to a single, unambiguous global reference clock. |
 | **Aviation (ICAO & ATC)** | All international flight plans, Air Traffic Control communications, and aviation weather reports (METAR/TAF) use Zulu time (e.g., `1400Z` means 14:00 UTC). |
 | **Meteorology & Space (ISRO / NASA)** | Satellite observations, weather prediction models, and space launch countdowns use Zulu time to avoid regional time-zone confusion. |
+
+<!-- 2026-08-30: Split Lecture 1 (26 July 2026) from the combined Fundamentals file using handwritten pages through circled 11 (quotes, etymology, geodesy, geoid, Greenwich, lat/long, great circles, illumination, tropics, equinox, day-length rules). Later sections stay unsplit until 28–30 July sheets arrive. -->
 
