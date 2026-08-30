@@ -4,12 +4,12 @@
 > Morning Control Center (4:30 AM – 6:00 AM). Self-Optimizing Learning Engine (§14).
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-08-29
-*   **Active Micro-Topics:** 364
+*   **Today's Date:** 2026-08-30
+*   **Active Micro-Topics:** 373
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 11
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 17
+*   **New Topics Ingested Today:** 9
 *   **Weekly Backlog:** 0
 
 ---
@@ -168,6 +168,20 @@
 | GEO-06-05 | Tropos = Turn: Rise-Cool-Sink-Warm Circulation Loop | 1 | ★★★★☆ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Latin Tropos = Turn` $\leftrightarrow$ `Adiabatic Cooling on Rise` $\leftrightarrow$ `Blocked at Tropopause` $\leftrightarrow$ `Adiabatic Warming on Sink` |
 | GEO-06-06 | Isothermal Zone (Lower Stratosphere) & Three Aviation Reasons | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Little Convection + Little Ozone` $\leftrightarrow$ `Vertical Not Horizontal Constancy` $\leftrightarrow$ `No Clouds` $\leftrightarrow$ `No Strong Convection` $\leftrightarrow$ `Isothermal Smoothness` |
 | GEO-06-07 | Earth Rotation: 3 Perspectives, 15 deg/h Angular, Linear Speed vs Latitude | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `W to E Equatorial View` $\leftrightarrow$ `NP Anti-clockwise` $\leftrightarrow$ `SP Clockwise` $\leftrightarrow$ `Angular 15 deg/h Uniform` $\leftrightarrow$ `Linear Max at Equator` $\leftrightarrow$ `Progressive Gap to Poles` |
+
+### Geography (Agriculture — Society, Climate & Stubble)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-07-01 | Harvest Festivals: Baisakhi, Bihu, Pongal, Harela (Uttarakhand) | 1 | ★★★★☆ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Baisakhi Wheat NW` $\leftrightarrow$ `Bihu Assam` $\leftrightarrow$ `Pongal TN` $\leftrightarrow$ `Harela Uttarakhand Sowing` |
+| GEO-07-02 | Mauza vs Statutory Town vs Census Town Triple; Distress Urbanisation | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mauza=Revenue Village` $\leftrightarrow$ `Statutory=Municipal/Cantonment` $\leftrightarrow$ `5000+400/km2+75% Males Non-Agri` $\leftrightarrow$ `Census 2011 69% Rural` $\leftrightarrow$ `Smart Cities Need Smart Villages` |
+| GEO-07-03 | Agri as Climate Bet: 2022 Wheat Shrink, El Nino, 2020 Locusts, Bundelkhand | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `March Heat Grain Filling` $\leftrightarrow$ `Transpiration Energy Trade-off` $\leftrightarrow$ `El Nino Pacific` $\leftrightarrow$ `2019 E Africa Rain → 2020 Locusts` $\leftrightarrow$ `Bundelkhand UP+MP +3.5C` |
+| GEO-07-04 | Feminisation of Agriculture: 60% Workforce, <15% Titles, Machines, Credit | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sex Ratio 943/949/929` $\leftrightarrow$ `Age+Sex Selective Migration` $\leftrightarrow$ `MH Forced Hysterectomy` $\leftrightarrow$ `Machines Follow Male PP` $\leftrightarrow$ `Loan Waiver → Moneylender 24-36%` |
+| GEO-07-05 | Farmer Suicides: NCRB 3 Lakh / 10786; MH 35-40%; TN NE Monsoon 2016 | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NCRB 1995-2015 >3 Lakh` $\leftrightarrow$ `2023 10786 Cultivator+Landless` $\leftrightarrow$ `MH Marathwada+Vidarbha` $\leftrightarrow$ `TN Rain=NE Oct-Dec` $\leftrightarrow$ `2016 65% Deficit` |
+| GEO-07-06 | Land Reform + Green Revolution → OBC / Bullock Capitalists | 2 | ★★★★☆ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Zamindari Abolition Art 39b/c` $\leftrightarrow$ `Intermediate Castes Dominant` $\leftrightarrow$ `GR Belts PB-HR-W UP` $\leftrightarrow$ `Late 60s State Parties` $\leftrightarrow$ `Rudolph Bullock Capitalists` |
+| GEO-07-07 | Agri↔CC: FAO 18% GHGs; Short/Long Wave; Tropics Hit Harder | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hot=Short Wave / Cool=Long Wave` $\leftrightarrow$ `Natural Tilt+Orbit+Sunspot` $\leftrightarrow$ `Present Rate Anthropogenic` $\leftrightarrow$ `FAO 18% Agri+LUC` $\leftrightarrow$ `Tropics People+12mo+Poor` |
+| GEO-07-08 | Transplantation Methane vs DSR + AWD (SRI Is Not DSR) | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Water=Herbicide 7-8d` $\leftrightarrow$ `Anaerobic CH4 ~10% World` $\leftrightarrow$ `DSR Drill + AWD 15 Irrig` $\leftrightarrow$ `Punjab 2026 +36% >4 Lakh ha` $\leftrightarrow$ `Weed Challenge` |
+| GEO-07-09 | Livestock Enteric Methane, Breed-Diet Gap and Non-Veg Milk | 2 | ★★★★☆ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CH4 via Belching > Paddy` $\leftrightarrow$ `AI Raised Herd Size` $\leftrightarrow$ `Gir 3.5L vs Israel 35L` $\leftrightarrow$ `Blood Meal / Intestine Feed` $\leftrightarrow$ `8 Cr Backyard Dairy` |
+| GEO-07-10 | Stubble Burning: 15-Day Window, Pusa-44 vs PR, Haryana Cash, Satellite Gap | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `15-Day Rice-Wheat Window` $\leftrightarrow$ `Pusa Decomposer 30d` $\leftrightarrow$ `15 Jun±5 Transplant Ban` $\leftrightarrow$ `Pusa-44 vs PAU PR-128` $\leftrightarrow$ `HR Cash > PB Machines` $\leftrightarrow$ `Evening Fires vs Satellite` |
 
 ### Environment & Ecology (Ecosystem, Biodiversity & Productivity)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
