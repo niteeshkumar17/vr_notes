@@ -1,7 +1,7 @@
 # Modern India (1860s–1940s) — Lectures 1–4: Nationalism, INC, Swadeshi, 1909 Act, Delhi Durbars, Home Rule & Lucknow Pact
 
 > **Date of Lecture:** 30 August 2026 (**Lecture 4**)  
-> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 26 August 2026 (L3)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3)  
 > **Date Added:** 2026-08-30  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
@@ -524,7 +524,7 @@ The activities of early moderates helped in **arousing patriotic feeling among a
 
 ## 7. Swadeshi Movement — 1905 (MOD-B3-01 to MOD-B3-04)
 
-### Lecture 3 — 26 August 2026
+### Lecture 3 — 27 August 2026
 
 > **Study Framework for any Movement:**
 > - **(A)** Causes/Circumstances in which the movement started
@@ -995,4 +995,4 @@ They held a **joint annual session at Lucknow, December 1916** (sheet also has �
 
 <!-- 2026-08-30: Lecture 4 — ICA 1909 clauses and critique; three Delhi Durbars; 1911 annulment + capital shift; Home Rule Leagues (Tilak/Besant); Lucknow Pact. Source: 6 notebook pages + HistoryL300826 transcript. -->
 <!-- 2026-08-27 (later): Lecture 3 review pass — added standard Swadeshi chronology table (19-20 July 1905 announcement, 7 Aug 1905 Boycott Day at Calcutta Town Hall, 16 Oct 1905 effect, Benares 1905, Calcutta 1906, Surat 1907, 1911 annulment + capital shift) with a note on why the annulment matters; replaced the prose placeholder for the "Representation Imbalance Diagram" in section 9 with a mobile-friendly inline SVG bar chart. -->
-<!-- 2026-08-27: Added Lecture 3 — Swadeshi Movement (1905): Causes (Partition of Bengal, Curzon, hidden communal agenda), Course of Events (boycott of goods/schools/courts, Tagore & Raksha Bandhan, mourning), Salient Features (mass participation, religious mobilization critique, nationalist-capitalist alliance, PC Roy & Tata), Outcomes (beginning of mass movement, Muslim League 1906, Surat Split 1907). Moderates vs Extremists ideological comparison table. Swaraj Resolution at INC Calcutta 1906. Indian Councils Act 1909 background (utilitarianism, Muslim League Shimla deputation). Source: handwritten notes (5 pages) + audio transcript dated 26 Aug 2026. -->
+<!-- 2026-08-27: Added Lecture 3 — Swadeshi Movement (1905): Causes (Partition of Bengal, Curzon, hidden communal agenda), Course of Events (boycott of goods/schools/courts, Tagore & Raksha Bandhan, mourning), Salient Features (mass participation, religious mobilization critique, nationalist-capitalist alliance, PC Roy & Tata), Outcomes (beginning of mass movement, Muslim League 1906, Surat Split 1907). Moderates vs Extremists ideological comparison table. Swaraj Resolution at INC Calcutta 1906. Indian Councils Act 1909 background (utilitarianism, Muslim League Shimla deputation). Source: handwritten notes (5 pages) + audio transcript. Class date: 27 Aug 2026. -->

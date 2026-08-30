@@ -3,7 +3,7 @@
 ## Lecture 01 — Introduction & National Income Basics
 
 *Date added: 2026-08-06*
-*Lecture date: 2026-08-05*
+*Lecture date: 2026-08-06*
 
 > **Source:** Vajiram & Ravi — Shyam Sundar Sir | Economy Lecture 01 | Class Notes + Transcript
 
