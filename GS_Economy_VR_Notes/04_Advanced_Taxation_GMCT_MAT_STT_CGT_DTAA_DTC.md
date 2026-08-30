@@ -1,6 +1,6 @@
 # GS Economy — Lecture 25: Advanced Taxation — GMCT, MAT, STT, Capital Gain Tax, DTAA & DTC
 
-## Lecture 25 — Advanced Taxation
+## Lecture 25 — 25 August 2026
 
 *Date added: 2026-08-25*  
 *Lecture date: 2026-08-25*

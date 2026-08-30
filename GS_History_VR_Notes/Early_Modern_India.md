@@ -648,7 +648,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 
 ---
 
-### Lecture 4 — 10 August 2026
+### Lecture 4 — 10 August 2026 (Part 1)
 
 > **Source:** Vajiram & Ravi Class Lecture A1 Notes & Audio Transcript
 
@@ -970,7 +970,7 @@ Of these 15 entities, **7 entities** are high-yield for **UPSC Mains GS Paper 1 
 *   The retired ICS officer was **A.O. Hume** — *"a code name"* for the end of Early Modern India.
 *   *"From here on, Modern Indian politics will take over."*
 
-<!-- 2026-08-30: L1 31 July; L2 1 Aug (Mysore notebook 1/8/26); L3 2 Aug (Bengal notebook 2/8 — sheet year 25 is a slip); L4 10 Aug (Phase III 10/8/26). -->
+<!-- 2026-08-30: L1 31 July; L2 1 Aug Mysore; L3 2 Aug Bengal; L4 10 Aug Part 1 (same class as Early Medieval A1 Part 2). -->
 <!-- 2026-08-15: Enriched Charter of 1833 with Section 53 Law Commission mandate under Macaulay, cessation of EIC commercial business, and exclusive legislative supremacy of GG of India in Council. -->
 <!-- 2026-08-14: Enriched Section 1 with the Four Major Court Factions (Turani, Irani, Hindustani, Afghan) including sectarian origins, leaders (Nizam-ul-Mulk, Zulfiqar Khan, Saadat Khan, Sayyid Brothers, Bangash/Rohillas), and power bases from active recall session. -->
 <!-- 2026-08-10: Added Phase III (Cornwallis Code, Regulation VII of 1819, Coinage Act 1834, Awadh Talukdars), Phase IV (Bentinck, Charters 1813/1833/1853), Phase V (Gov of India Act 1858, Indian Council Act 1861, High Court Act 1861), and Viceroys (Canning through Dufferin/INC 1885) from Lecture A1 transcript and handwritten notes. -->

@@ -9,7 +9,7 @@
 
 ---
 
-### Lecture A3 — 23 August 2026
+### Lecture A3 — 23 August 2026 (Part 2)
 
 ## 1. Arab Invasion (Arabic Speakers)
 

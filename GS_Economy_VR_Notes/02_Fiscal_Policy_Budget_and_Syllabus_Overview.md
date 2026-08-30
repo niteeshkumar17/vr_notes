@@ -1,6 +1,6 @@
 # GS Economy — Lecture 01: Fiscal Policy, Budget & Syllabus Overview
 
-## Lecture 01 — Fiscal Policy, Budget & Syllabus Overview
+## Lecture 01 — 22 August 2026
 
 *Date added: 2026-08-22*
 *Lecture date: 2026-08-22*

@@ -1,0 +1,21 @@
+---
+description: Date every VR lecture; date added is the class date; one-a-day / two-a-day calendar
+globs: GS_*_VR_Notes/**/*.md
+alwaysApply: true
+---
+
+# Date every lecture
+
+Nik writes the note the **same day** as class. **Date added = class date.** Do not treat “date added” as unknown.
+
+## Calendar
+- **25 July 2026:** convocation — no class.
+- **26 July–23 August:** **one** class a day, except **15 August** (Independence Day).
+- **24 August onward:** **two** classes a day.
+- One class may sit in **two files** (two parts). Count as **one**. Known: **10 August** = Early Modern L4 + Early Medieval A1; **23 August** = Early Medieval A3 + Medieval A3.
+
+## When you add or edit a lecture
+1. Put the date on the heading: `### Lecture 2 — 1 August 2026` (same style as Geography / History).
+2. If the file only has `*Date added: YYYY-MM-DD*`, copy that day onto the Lecture heading.
+3. Never leave a new lecture undated. Never invent a date to fill a hole if Nik did not add a note that day.
+4. Two-part same-day class: label **(Part 1)** and **(Part 2)** on the headings; do not mark that day as two classes.

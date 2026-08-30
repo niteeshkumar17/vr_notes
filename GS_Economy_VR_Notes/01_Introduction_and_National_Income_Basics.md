@@ -1,6 +1,6 @@
 # GS Economy — Lecture 01: Introduction & National Income Basics
 
-## Lecture 01 — Introduction & National Income Basics
+## Lecture 01 — 6 August 2026
 
 *Date added: 2026-08-06*
 *Lecture date: 2026-08-06*
@@ -377,9 +377,7 @@ Economics has **two fundamental branches**:
 
 ---
 
-> **Date added:** 2026-08-07
-
-## Lecture 02 — Factors of Production & National Income
+## Lecture 02 — 7 August 2026
 
 ## ECO-02-01: Factors of Production & Factor Payments
 
@@ -493,7 +491,7 @@ Individuals who **ordinarily reside** in a country and their **centre of economi
 
 ---
 
-# Lecture 03 — GDP, GNP & Methods of Calculation (20 Aug 2026)
+## Lecture 03 — 20 August 2026
 
 > **Source:** Vajiram & Ravi — Shyam Sundar Sir | Economy Lecture 03 | Class Notes + Transcript
 
