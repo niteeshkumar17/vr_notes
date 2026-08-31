@@ -5,7 +5,8 @@
 *Date added: 2026-08-22*
 *Lecture date: 2026-08-22*
 
-> **Source:** Vajiram & Ravi — Economy Teacher (Lecture 01) | Class Notes + Transcript
+> **Source:** Vajiram & Ravi — Economy Teacher (Lecture 01) | Class Notes + Transcript  
+> **Covered next:** Tax continues as **Lectures 2–4** in [`03_Taxation.md`](03_Taxation.md) (24, 25 and 31 August 2026).
 
 ---
 

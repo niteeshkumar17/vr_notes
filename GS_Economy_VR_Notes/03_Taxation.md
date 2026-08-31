@@ -1,13 +1,13 @@
 # 03 — Taxation
 
-> **Dates of Lecture:** 24 August 2026 (Lecture 24) + **25 August 2026 (Lecture 25)** + **31 August 2026 (Lecture 26)**  
-> **Date Added:** 2026-08-24; Lecture 25 added **2026-08-25**; Lecture 26 added **2026-08-31**  
-> **Source:** Vajiram & Ravi Economy classes | transcripts + handwritten notes (L24 extra class; L25 six pages; L26 seven pages dated 31/8/26)  
-> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L24); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L25); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L26)
+> **Dates of Lecture:** 24 August 2026 (Lecture 2) + **25 August 2026 (Lecture 3)** + **31 August 2026 (Lecture 4)**  
+> **Date Added:** 2026-08-24; Lecture 3 added **2026-08-25**; Lecture 4 added **2026-08-31**  
+> **Source:** Vajiram & Ravi Economy classes | transcripts + handwritten notes (L2 class notes; L3 six pages; L4 seven pages dated 31/8/26)  
+> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L2); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L3); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L4)
 
-### Lecture 24 — 24 August 2026
+### Lecture 2 — 24 August 2026
 
-> Extra class. First tax class in this unit — classifications, old vs new personal-income-tax regimes, corporate tax, then the first pieces of Global Minimum Corporate Tax (GMCT).
+> Continues **Lecture 1** (Fiscal Policy, 22 August 2026). First tax class — classifications, old vs new personal-income-tax regimes, corporate tax, then the first pieces of Global Minimum Corporate Tax (GMCT).
 
 ## Section A: Classification of Taxes
 
@@ -339,7 +339,7 @@ The OECD/G20-led framework seeks an effective minimum corporate tax rate of **15
 
 > **Important qualifier:** The global minimum tax is not a universal 15% corporate-tax rate for every company. It applies to covered multinational groups under detailed OECD Pillar Two rules.
 
-<span style="color: #e53e3e;">**L25 Enrichment:** GMCT has **139 members** (initially ~125, expanded). The US under Trump withdrew. GMCT reduces **BEPS** (Base Erosion & Profit Shifting — shifting operations from higher-tax to lower-tax nations). Level playing field benefits India as **3rd largest PPP economy** (China #1, USA #2). Detail continues in **Lecture 25** below (MAT, STT, Capital Gain Tax, DTAA, Round Tripping, DDT SC verdict, DTC).</span>
+<span style="color: #e53e3e;">**L3 Enrichment:** GMCT has **139 members** (initially ~125, expanded). The US under Trump withdrew. GMCT reduces **BEPS** (Base Erosion & Profit Shifting — shifting operations from higher-tax to lower-tax nations). Level playing field benefits India as **3rd largest PPP economy** (China #1, USA #2). Detail continues in **Lecture 3** below (MAT, STT, Capital Gain Tax, DTAA, Round Tripping, DDT SC verdict, DTC).</span>
 
 ---
 
@@ -365,9 +365,9 @@ The OECD/G20-led framework seeks an effective minimum corporate tax rate of **15
 
 ---
 
-### Lecture 25 — 25 August 2026
+### Lecture 3 — 25 August 2026
 
-> Continues Lecture 24’s GMCT, then MAT, STT, capital gains, DTAA and the Direct Tax Code cliffhanger.
+> Continues Lecture 2’s GMCT, then MAT, STT, capital gains, DTAA and the Direct Tax Code cliffhanger.
 
 ## Section A: Global Minimum Corporate Tax (GMCT)
 
@@ -884,7 +884,7 @@ Key rulings:
 4. It shall be **similar to other countries' direct tax structure**
 5. It should **incorporate international best practices** while keeping **economic peculiarities of the nation intact**
 
-<span style="color: #e53e3e;">**Covered next:** New Direct Tax Code (DTC) = New Income Tax Act 2025. Akhilesh Ranjan Committee recommendations vs what was accepted — **Lecture 26 (31 August 2026)** below in this note.</span>
+<span style="color: #e53e3e;">**Covered next:** New Direct Tax Code (DTC) = New Income Tax Act 2025. Akhilesh Ranjan Committee recommendations vs what was accepted — **Lecture 4 (31 August 2026)** below in this note.</span>
 
 ---
 
@@ -912,13 +912,13 @@ Key rulings:
 
 ---
 
-<!-- 2026-08-25: Added notes from Economy Lecture 25 covering GMCT (15% OECD/G20 minimum, BEPS, 139 members), MAT (14% on book profit, direct tax, fraud prevention), STT (direct tax on securities, claimable as business expense, Ricardian Equivalence), Capital Gain Tax (equity/non-equity, short/long term, rates changed 23 Jul 2024, STCG 20%, LTCG 12.5%), Indexation (CII formula, when beneficial), Round Tripping (black money via Mauritius, stock manipulation, 1 Apr 2019 suspension), DTAA (90 countries, comprehensive vs limited, airlines/shipping/oil machinery), Indo-Mauritius Revised DTAA (April 2024, TRC + PPT requirement), SC Verdict on DDT (Oct 2023, ₹11,000 Cr retrospective tax on France/NL/Switzerland MNCs), Withholding Tax (TDS concept), DTC (Direct Tax Code, Parthasarathi Shome 2009 old DTC, Akhilesh Ranjan 2017 new DTC, Income Tax Act 2025). -->
+<!-- 2026-08-25: Added notes from Economy Lecture 3 covering GMCT (15% OECD/G20 minimum, BEPS, 139 members), MAT (14% on book profit, direct tax, fraud prevention), STT (direct tax on securities, claimable as business expense, Ricardian Equivalence), Capital Gain Tax (equity/non-equity, short/long term, rates changed 23 Jul 2024, STCG 20%, LTCG 12.5%), Indexation (CII formula, when beneficial), Round Tripping (black money via Mauritius, stock manipulation, 1 Apr 2019 suspension), DTAA (90 countries, comprehensive vs limited, airlines/shipping/oil machinery), Indo-Mauritius Revised DTAA (April 2024, TRC + PPT requirement), SC Verdict on DDT (Oct 2023, ₹11,000 Cr retrospective tax on France/NL/Switzerland MNCs), Withholding Tax (TDS concept), DTC (Direct Tax Code, Parthasarathi Shome 2009 old DTC, Akhilesh Ranjan 2017 new DTC, Income Tax Act 2025). -->
 
 ---
 
-### Lecture 26 — 31 August 2026
+### Lecture 4 — 31 August 2026
 
-> Continues Lecture 25 Section K — Direct Tax Code (DTC) / New Income Tax Act, 2025. Today: Akhilesh Ranjan Committee recommendations vs what was accepted, then Dividend Distribution Tax (DDT), cess vs surcharge, Tax Deducted at Source (TDS) / Tax Collected at Source (TCS), General Anti-Avoidance Rule (GAAR), and the start of **revenue deficit**.
+> Continues Lecture 3 Section K — Direct Tax Code (DTC) / New Income Tax Act, 2025. Today: Akhilesh Ranjan Committee recommendations vs what was accepted, then Dividend Distribution Tax (DDT), cess vs surcharge, Tax Deducted at Source (TDS) / Tax Collected at Source (TCS), General Anti-Avoidance Rule (GAAR), and the start of **revenue deficit**.
 
 ## 1. New Direct Tax Code (DTC) = New Income Tax Act, 2025
 
@@ -926,7 +926,7 @@ Old Income Tax Act, **1961**: **more than 800 sections**, several outdated. The 
 
 **What was enacted:** New Income Tax Act, **2025** — **536 sections, 23 chapters, 16 schedules**. Applicable (new regime numbers) from **1 April 2026**.
 
-Class also used **Old Tax Regime (OTR)** vs **New Tax Regime (NTR)** as the working comparison of *rates*. Full personal-income-tax design (rebate vs exemption, standard deduction) is already in Lecture 24.
+Class also used **Old Tax Regime (OTR)** vs **New Tax Regime (NTR)** as the working comparison of *rates*. Full personal-income-tax design (rebate vs exemption, standard deduction) is already in Lecture 2.
 
 | OTR (sheet) | NTR (7 slabs; class) |
 |:---|:---|
@@ -948,10 +948,10 @@ More slabs → a given income (class: ₹11 lakh) sits in a **lower** band under
 | Keep a minimum exemption (was ₹2.5 lakh) | **Raised** — NTR nil slab **₹4 lakh** from 1 April 2026 |
 | Keep a rebate (was up to ₹5 lakh) | **Raised** — NTR **full rebate up to ₹12 lakh** (tax is computed, then rebated; crossing the threshold is not “lifetime ₹12 lakh”) |
 | Increase slabs from **3** to **4 or more** | **Done** — NTR has **7** slabs |
-| Scrap **Minimum Alternate Tax (MAT)** | **Not done** — MAT continues (14% on book profit from 1 April 2026; Lecture 25) |
+| Scrap **Minimum Alternate Tax (MAT)** | **Not done** — MAT continues (14% on book profit from 1 April 2026; Lecture 3) |
 | Scrap **Dividend Distribution Tax (DDT)** | **Done** — DDT scrapped **1 April 2020**; dividend taxed in the **shareholder’s** hands |
 | Discourage **surcharges**; if needed, keep them **temporary** | **Not done yet** |
-| Capital-gains tax to be part of income tax | **Partially done** — short-term on **immovable property** and **jewellery** follows income-tax treatment; long-term still a separate track (Lecture 25) |
+| Capital-gains tax to be part of income tax | **Partially done** — short-term on **immovable property** and **jewellery** follows income-tax treatment; long-term still a separate track (Lecture 3) |
 | **TDS** and **TCS** rates to fall, but apply to **all** income / transactions | **Not done yet** |
 | Same corporate tax for **domestic and foreign** companies | **Not done yet** (domestic concessional 15% / 22% / 30%; foreign still separately prescribed) |
 | **Tax year** to replace Financial Year + Assessment Year | **Done** from **1 April 2026** — one **tax year** (pay for tax year 2025–26; no FY/AY pair) |
@@ -1115,7 +1115,7 @@ Same three endings as dividend TDS: full refund + interest / partial refund / on
 | Bullion — **pure** gold and silver | Sheet: with jewellery band; class also more than ₹2 lakh | **1–2%** |
 | Jewellery | Sheet: more than ₹10 lakh | **1–2%** |
 
-Not double taxation in the Lecture 24 sense: TCS is **credit** against income tax, refunded or adjusted when the return is filed. Government just holds the cash for months (April purchase → held almost a year).
+Not double taxation in the Lecture 2 sense: TCS is **credit** against income tax, refunded or adjusted when the return is filed. Government just holds the cash for months (April purchase → held almost a year).
 
 ### 5.1 When it is payable
 
@@ -1142,7 +1142,7 @@ Not double taxation in the Lecture 24 sense: TCS is **credit** against income ta
 
 ## 6. General Anti-Avoidance Rule (GAAR)
 
-Lecture 24 already defined GAAR in one block. Today’s class is the **working** version.
+Lecture 2 already defined GAAR in one block. Today’s class is the **working** version.
 
 **Tax evasion** hides the transaction. **Tax avoidance** shows the transaction but uses loopholes. Lawful **tax planning** (eligible insurance, PF) is not the target.
 
@@ -1156,7 +1156,7 @@ Lecture 24 already defined GAAR in one block. Today’s class is the **working**
 |:---|:---|:---|
 | Threshold (class illustration) | ~**₹10 crore** | **₹3 crore** — **income** for an individual, **turnover** for a business |
 | Reach | Few people; easy to stay just under | Most small businesses and many individuals |
-| Round-tripping example (Lecture 25) | Show ₹2 crore as “Mauritius” with no real substance there | Benefit can be **denied** |
+| Round-tripping example (Lecture 3) | Show ₹2 crore as “Mauritius” with no real substance there | Benefit can be **denied** |
 
 **Penalties discussed**
 
@@ -1205,7 +1205,7 @@ Government **announces three** every year: **revenue, fiscal, primary**. Class w
 
 ---
 
-## 8. Lecture 26 — UPSC Quick Recall
+## 8. Lecture 4 — UPSC Quick Recall
 
 1. New IT Act **2025**: **536** sections / **23** chapters / **16** schedules; from **1 April 2026**; **tax year** replaces FY+AY.  
 2. NTR: nil to **₹4 lakh**; rebate to **₹12 lakh**; **7** slabs. MAT **stays**; DDT **went (1 Apr 2020)**. Equal domestic/foreign corporate tax and blanket cheap TDS/TCS — **not done**.  
@@ -1218,7 +1218,7 @@ Government **announces three** every year: **revenue, fiscal, primary**. Class w
 
 ---
 
-## Abbreviations used in Lecture 26
+## Abbreviations used in Lecture 4
 
 | Shortcut | Full form |
 |:---|:---|
@@ -1242,4 +1242,4 @@ Government **announces three** every year: **revenue, fiscal, primary**. Class w
 
 ---
 
-<!-- 2026-08-31: Lecture 26 from Economy transcript + 7 notebook pages — New IT Act 2025 vs Akhilesh Ranjan recs, DDT from 1 Apr 2020, cess vs surcharge (order, 41% pool, Centre-only exam line), TDS/TCS, GAAR vs SAAR, revenue deficit start. -->
+<!-- 2026-08-31: Lecture 4 from Economy transcript + 7 notebook pages — New IT Act 2025 vs Akhilesh Ranjan recs, DDT from 1 Apr 2020, cess vs surcharge (order, 41% pool, Centre-only exam line), TDS/TCS, GAAR vs SAAR, revenue deficit start. -->
