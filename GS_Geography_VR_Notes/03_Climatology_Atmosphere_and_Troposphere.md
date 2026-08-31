@@ -875,31 +875,39 @@ Same rule on India’s relief:
 - **Great Northern Plains** — little change of elevation → **widely** spaced contours.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" role="img" aria-label="Closely spaced isobars between high and low pressure versus widely spaced isobars" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:600px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="544" height="234" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
-<text x="150" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Steep — close isobars</text>
-<text x="410" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Gentle — wide isobars</text>
-<circle cx="58" cy="120" r="28" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
-<text x="58" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">HP</text>
-<circle cx="242" cy="120" r="28" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
-<text x="242" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">LP</text>
-<path d="M 92 88 Q 150 120 208 88" fill="none" stroke="#334155" stroke-width="1.4"/>
-<path d="M 96 104 Q 150 128 204 104" fill="none" stroke="#334155" stroke-width="1.4"/>
-<path d="M 96 136 Q 150 112 204 136" fill="none" stroke="#334155" stroke-width="1.4"/>
-<path d="M 92 152 Q 150 120 208 152" fill="none" stroke="#334155" stroke-width="1.4"/>
-<polygon points="118,118 178,118 168,110 168,126" fill="#b91c1c"/>
-<circle cx="318" cy="120" r="28" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
-<text x="318" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">HP</text>
-<circle cx="502" cy="120" r="28" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
-<text x="502" y="124" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">LP</text>
-<line x1="352" y1="78" x2="352" y2="162" stroke="#334155" stroke-width="1.4"/>
-<line x1="410" y1="78" x2="410" y2="162" stroke="#334155" stroke-width="1.4"/>
-<line x1="468" y1="78" x2="468" y2="162" stroke="#334155" stroke-width="1.4"/>
-<polygon points="372,118 448,118 438,110 438,126" fill="#b91c1c"/>
-<text x="280" y="198" text-anchor="middle" font-size="12" fill="#0f172a">PGF acts at right angles to the isobars, toward low pressure.</text>
-<text x="280" y="218" text-anchor="middle" font-size="11" fill="#475569">No real wind on any weather chart ever moves at 90° — Coriolis and friction also act.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 430" role="img" aria-label="Steep pressure gradient has closely spaced isobars; gentle gradient has widely spaced isobars. PGF is perpendicular toward low pressure." style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="428" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<rect x="14" y="14" width="372" height="196" rx="10" fill="#fff" stroke="#fecaca"/>
+<text x="200" y="38" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Steep — close isobars</text>
+<circle cx="58" cy="118" r="26" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="58" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#7f1d1d">HP</text>
+<circle cx="342" cy="118" r="26" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="342" y="123" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">LP</text>
+<path d="M 112 58 Q 124 118 112 178" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 132 58 Q 144 118 132 178" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 152 58 Q 164 118 152 178" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 172 58 Q 184 118 172 178" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 192 58 Q 204 118 192 178" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 212 58 Q 224 118 212 178" fill="none" stroke="#334155" stroke-width="1.6"/>
+<line x1="90" y1="118" x2="300" y2="118" stroke="#b91c1c" stroke-width="2.5"/>
+<polygon points="0,-6 14,0 0,6" fill="#b91c1c" transform="translate(300,118)"/>
+<text x="200" y="198" text-anchor="middle" font-size="12" fill="#991b1b">fast ΔP → strong PGF → fast wind</text>
+<rect x="14" y="222" width="372" height="192" rx="10" fill="#fff" stroke="#bfdbfe"/>
+<text x="200" y="246" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Gentle — wide isobars</text>
+<circle cx="58" cy="326" r="26" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="58" y="331" text-anchor="middle" font-size="13" font-weight="700" fill="#7f1d1d">HP</text>
+<circle cx="342" cy="326" r="26" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="342" y="331" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">LP</text>
+<line x1="130" y1="268" x2="130" y2="384" stroke="#334155" stroke-width="1.6"/>
+<line x1="200" y1="268" x2="200" y2="384" stroke="#334155" stroke-width="1.6"/>
+<line x1="270" y1="268" x2="270" y2="384" stroke="#334155" stroke-width="1.6"/>
+<line x1="90" y1="326" x2="300" y2="326" stroke="#b91c1c" stroke-width="2.5"/>
+<polygon points="0,-6 14,0 0,6" fill="#b91c1c" transform="translate(300,326)"/>
+<text x="200" y="404" text-anchor="middle" font-size="12" fill="#1e40af">gradual ΔP → weak PGF → slow wind</text>
 </svg>
 </div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> PGF acts at right angles to the isobars, toward low pressure. No real wind on a weather chart moves at 90° — Coriolis and friction also act.</em></p>
 
 ### 24.6 Nature of PGF — and why no real wind is perpendicular
 
@@ -988,34 +996,41 @@ Anything on a parallel is always moving **east** at that parallel’s speed. We 
 If the aircraft does **not** allow for S_A − S_B: in one hour B reaches **B′**; the aeroplane, having drifted twice as far east, reaches **A′**. To people on Earth it *appears* to have followed the broken path, to the **right** of the dark **intended path** A → B.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" role="img" aria-label="Aeroplane from city A to city B appears deflected to the right of the intended path because it keeps the faster eastward speed of the lower-latitude parallel" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="504" height="324" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
-<text x="260" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">A → B in 1 h: apparent deflection to the right</text>
-<circle cx="200" cy="175" r="118" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.5"/>
-<line x1="82" y1="175" x2="318" y2="175" stroke="#0f172a" stroke-width="1.6"/>
-<text x="330" y="178" font-size="11" fill="#0f172a">0° Eq</text>
-<line x1="95" y1="128" x2="305" y2="128" stroke="#334155" stroke-width="1.2"/>
-<text x="330" y="132" font-size="11" fill="#0f172a">P_A / S_A</text>
-<line x1="118" y1="78" x2="282" y2="78" stroke="#334155" stroke-width="1.2"/>
-<text x="330" y="82" font-size="11" fill="#0f172a">P_B / S_B</text>
-<circle cx="168" cy="128" r="5" fill="#0f172a"/>
-<text x="152" y="148" font-size="12" font-weight="700" fill="#0f172a">A</text>
-<circle cx="168" cy="78" r="5" fill="#0f172a"/>
-<text x="152" y="70" font-size="12" font-weight="700" fill="#0f172a">B</text>
-<line x1="168" y1="128" x2="168" y2="78" stroke="#166534" stroke-width="2" stroke-dasharray="4 3"/>
-<text x="118" y="108" font-size="10" fill="#166534">intended</text>
-<circle cx="214" cy="78" r="4" fill="#b91c1c"/>
-<text x="220" y="70" font-size="12" fill="#b91c1c">B′</text>
-<circle cx="260" cy="78" r="5" fill="#b91c1c"/>
-<text x="268" y="70" font-size="12" font-weight="700" fill="#b91c1c">A′</text>
-<path d="M 168 128 Q 200 118 260 78" fill="none" stroke="#b91c1c" stroke-width="2"/>
-<text x="218" y="118" font-size="10" fill="#b91c1c">apparent</text>
-<text x="28" y="268" font-size="12" fill="#475569">S_A &gt; S_B; take S_A = 2 S_B. Time = 1 h. A.D. ∝ (S_A − S_B).</text>
-<text x="28" y="288" font-size="12" fill="#475569">Deflection is always judged against the intended path of the journey.</text>
-<text x="28" y="308" font-size="12" fill="#475569">NH: apparent path lies to the right of intended A → B.</text>
-<text x="28" y="326" font-size="11" fill="#64748b">Two bodies from the equator in time t: S_I = 2 S_II → I crosses more parallels → more Coriolis.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Aeroplane from city A to city B appears deflected to the right of the intended path because it keeps the faster eastward speed of the lower-latitude parallel" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="398" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="200" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">A → B in 1 h — deflects right (NH)</text>
+<circle cx="200" cy="200" r="132" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<line x1="68" y1="200" x2="332" y2="200" stroke="#0f172a" stroke-width="1.6"/>
+<text x="344" y="204" font-size="12" fill="#0f172a">Eq</text>
+<line x1="82" y1="148" x2="318" y2="148" stroke="#334155" stroke-width="1.3"/>
+<text x="14" y="152" font-size="12" fill="#0f172a">P_A</text>
+<line x1="108" y1="88" x2="292" y2="88" stroke="#334155" stroke-width="1.3"/>
+<text x="14" y="92" font-size="12" fill="#0f172a">P_B</text>
+<circle cx="168" cy="148" r="5.5" fill="#0f172a"/>
+<text x="150" y="168" font-size="13" font-weight="700" fill="#0f172a">A</text>
+<circle cx="168" cy="88" r="5.5" fill="#0f172a"/>
+<text x="150" y="78" font-size="13" font-weight="700" fill="#0f172a">B</text>
+<line x1="168" y1="148" x2="168" y2="88" stroke="#166534" stroke-width="2.2" stroke-dasharray="5 3"/>
+<text x="102" y="122" font-size="12" font-weight="700" fill="#166534">intended</text>
+<circle cx="216" cy="88" r="5" fill="#b91c1c"/>
+<text x="208" y="74" font-size="12" font-weight="700" fill="#b91c1c">B′</text>
+<circle cx="264" cy="88" r="5.5" fill="#b91c1c"/>
+<text x="272" y="74" font-size="13" font-weight="700" fill="#b91c1c">A′</text>
+<path d="M 168 148 Q 210 128 264 88" fill="none" stroke="#b91c1c" stroke-width="2.2"/>
+<text x="230" y="132" font-size="12" font-weight="700" fill="#b91c1c">apparent</text>
+<line x1="168" y1="160" x2="248" y2="160" stroke="#0369a1" stroke-width="1.6"/>
+<polygon points="0,-5 11,0 0,5" fill="#0369a1" transform="translate(248,160)"/>
+<text x="208" y="178" text-anchor="middle" font-size="12" fill="#0369a1">east, S_A</text>
+<line x1="168" y1="100" x2="208" y2="100" stroke="#0369a1" stroke-width="1.6"/>
+<polygon points="0,-5 11,0 0,5" fill="#0369a1" transform="translate(208,100)"/>
+<text x="228" y="104" font-size="12" fill="#0369a1">S_B</text>
+<text x="200" y="352" text-anchor="middle" font-size="12" fill="#334155">S_A = 2 S_B · time = 1 h · east is right</text>
+<text x="200" y="372" text-anchor="middle" font-size="12" fill="#334155">city moves BB′ ; plane drifts twice as far to A′</text>
+<text x="200" y="390" text-anchor="middle" font-size="12" fill="#0f172a">A.D. = B′A′  ∝  (S_A − S_B)</text>
 </svg>
 </div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Judge deflection against the <strong>intended path</strong>. In the Northern Hemisphere the apparent path lies to the right of A → B. Faster objects cross more parallels in the same time, so they feel more Coriolis.</em></p>
 
 **What this proves**
 
