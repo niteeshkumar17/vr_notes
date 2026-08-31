@@ -898,9 +898,9 @@ Same rule on India’s relief:
 <text x="58" y="331" text-anchor="middle" font-size="13" font-weight="700" fill="#7f1d1d">HP</text>
 <circle cx="342" cy="326" r="26" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
 <text x="342" y="331" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">LP</text>
-<line x1="130" y1="268" x2="130" y2="384" stroke="#334155" stroke-width="1.6"/>
-<line x1="200" y1="268" x2="200" y2="384" stroke="#334155" stroke-width="1.6"/>
-<line x1="270" y1="268" x2="270" y2="384" stroke="#334155" stroke-width="1.6"/>
+<path d="M 130 268 Q 142 326 130 384" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200 268 Q 212 326 200 384" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 270 268 Q 282 326 270 384" fill="none" stroke="#334155" stroke-width="1.6"/>
 <line x1="90" y1="326" x2="300" y2="326" stroke="#b91c1c" stroke-width="2.5"/>
 <polygon points="0,-6 14,0 0,6" fill="#b91c1c" transform="translate(300,326)"/>
 <text x="200" y="404" text-anchor="middle" font-size="12" fill="#1e40af">gradual ΔP → weak PGF → slow wind</text>
