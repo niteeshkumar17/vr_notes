@@ -5,8 +5,8 @@
 *Date added: 2026-08-22*
 *Lecture date: 2026-08-22*
 
-> **Source:** Vajiram & Ravi — Economy Teacher (Lecture 01) | Class Notes + Transcript  
-> **Covered next:** Tax continues as **Lectures 2–4** in [`03_Taxation.md`](03_Taxation.md) (24, 25 and 31 August 2026).
+> **Source:** Vajiram & Ravi — **Shyam Sundar Sir (SS Sir)** | Economy Lecture 01 | Class Notes + Transcript  
+> **Other Economy notes:** National Income and Taxation are **BS Sir** (`01_Introduction_and_National_Income_Basics.md`, `03_Taxation.md`).
 
 ---
 
@@ -592,5 +592,5 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 
 ---
 
-<!-- 2026-08-22: Chapter created from Economy Lecture 1 (new teacher). Covers syllabus overview, budget structure, taxation (direct/indirect, GST vs VAT), deficits introduction, FRBM Act, Finance Commission, inclusive growth with infrastructure examples, UNDP HDRs, sustainable development, employment & unemployment types and measurement. -->
+<!-- 2026-08-22: Chapter created from SS Sir (Shyam Sundar) Economy Lecture 1. Covers syllabus overview, budget structure, taxation (direct/indirect, GST vs VAT), deficits introduction, FRBM Act, Finance Commission, inclusive growth with infrastructure examples, UNDP HDRs, sustainable development, employment & unemployment types and measurement. -->
 <!-- 2026-08-22: Enriched Asset Monetisation vs Disinvestment classification and NMP sovereign ownership safeguards following Evening MCQ Session 15. -->

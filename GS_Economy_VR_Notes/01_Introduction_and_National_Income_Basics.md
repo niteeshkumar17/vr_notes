@@ -5,7 +5,7 @@
 *Date added: 2026-08-06*
 *Lecture date: 2026-08-06*
 
-> **Source:** Vajiram & Ravi — Shyam Sundar Sir | Economy Lecture 01 | Class Notes + Transcript
+> **Source:** Vajiram & Ravi — **BS Sir** | Economy Lecture 01 | Class Notes + Transcript
 
 ---
 
@@ -161,7 +161,7 @@ Economics has **two fundamental branches**:
 | 1 | **NCERT — Indian Economic Development** | **Background reading** — read like a story book, ignore data (outdated). Finish within a month. Read once more before Mains. *Latest edition only.* |
 | 2 | **NCERT — Introductory Macroeconomics** | Do **selectively** — only chapters related to topics. **Older edition** recommended (simpler language, better chapter division for GS). Avoid NCERT on Microeconomics. **Avoid graphs & numericals.** |
 | 3 | **Institute reference books** (Yellow/Orange books) | Use same way as macro NCERT — refer chapter-wise per topic. |
-| 4 | **Handouts** from teachers | Short (2–5 pages) but CRISP. For Shyam Sundar Sir's classes: **Class notes + Handout = Full class notes** (not optional). |
+| 4 | **Handouts** from teachers | Short (2–5 pages) but CRISP. For **BS Sir's** classes: **Class notes + Handout = Full class notes** (not optional). |
 | 5 | **Current Affairs (Dynamic Part):** | |
 | | — Institute material (monthly booklets, student portal, YouTube channel) | Minimum current affairs coverage. |
 | | — **Newspapers** — Editorials + Economy articles (NOT business articles) | Develop a habit. Repetition = stronger recall. |
@@ -208,7 +208,7 @@ Economics has **two fundamental branches**:
 
 ---
 
-### Topic List (Shyam Sundar Sir — ~13-14 lectures)
+### Topic List (BS Sir — ~13-14 lectures)
 
 | # | Topic | Prelims Relevance | Mains Relevance | Classes |
 |---|---|---|---|---|
@@ -493,7 +493,7 @@ Individuals who **ordinarily reside** in a country and their **centre of economi
 
 ## Lecture 03 — 20 August 2026
 
-> **Source:** Vajiram & Ravi — Shyam Sundar Sir | Economy Lecture 03 | Class Notes + Transcript
+> **Source:** Vajiram & Ravi — **BS Sir** | Economy Lecture 03 | Class Notes + Transcript
 
 ---
 
