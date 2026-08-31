@@ -524,7 +524,7 @@ Key rulings:
 4. It shall be **similar to other countries' direct tax structure**
 5. It should **incorporate international best practices** while keeping **economic peculiarities of the nation intact**
 
-<span style="color: #e53e3e;">**Recommendation:** New DTC = New Income Tax Act 2025. The recommendations of the Akhilesh Ranjan Committee and what was accepted will be covered in the next class.</span>
+<span style="color: #e53e3e;">**Covered next:** New Direct Tax Code (DTC) = New Income Tax Act 2025. Akhilesh Ranjan Committee recommendations vs what was accepted — **Lecture 26 (31 August 2026)** in [`05_New_IT_Act_2025_DDT_Cess_TDS_GAAR.md`](05_New_IT_Act_2025_DDT_Cess_TDS_GAAR.md).</span>
 
 ---
 
