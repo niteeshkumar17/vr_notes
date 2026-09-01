@@ -24,7 +24,9 @@
   * SC struck down provisions of the *Rajasthan Famine Relief Works Employees Act* that allowed paying famine-affected workers less than the minimum wage.
   * Held that the State cannot take advantage of the helpless condition of citizens struck by drought or famine to extract labour below statutory minimum wages.
 * **<span style="color: #e53e3e;">Rural Work & Minimum Wages Scrutiny (Aug 2026):</span>** <span style="color: #e53e3e;">In the MGNREGA / VB-G RAM G Act hearing (Aug 2026), the Supreme Court examined the argument that rural work provided below statutory minimum wage floors violates Article 23, reaffirming that economic vulnerability cannot be leveraged by the State to dilute wage entitlements.</span>
+* **<span style="color: #e53e3e;">Delink from Minimum Wages Act, 1948 (Sep 2026 CA):</span>** <span style="color: #e53e3e;">MGNREGA notified wages were delinked from the Minimum Wages Act, 1948 from 2009, so scheme wages need not equal the statutory minimum — the *Sanjit Roy* / *PUDR* Article 23 floor is the constitutional argument against that gap.</span>
 
 </details>
 
 <!-- 2026-08-22: Created Article 23 note covering text, scope, PUDR Asiad Workers (1982) economic force doctrine, Sanjit Roy (1983) famine relief ruling, and Aug 2026 SC observations on rural wage protections. -->
+<!-- 2026-09-01: Noted 2009 delink of MGNREGA wages from the Minimum Wages Act, 1948. -->

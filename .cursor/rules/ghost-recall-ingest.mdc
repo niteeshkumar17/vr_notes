@@ -14,3 +14,4 @@ Nik’s morning session is **8 questions / 60 min**. Flooding the tracker with m
 3. You may keep several micro-topic *rows* inside the cluster for fact-level logging **after a miss**. They share the cluster’s first three gaps (1 → 3 → 7).
 4. Do **not** skip the tracker. A note with no cluster will not be revised.
 5. Publish the note as usual (index + commit + push). Ghost Recall calendar: `_ghost-recall-schedule.md`.
+6. **Newspaper already covered:** patch the existing cluster’s knowledge graph. Do **not** add a new Day-1 row for the same Act/treaty/case.

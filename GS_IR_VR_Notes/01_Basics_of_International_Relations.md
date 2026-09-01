@@ -212,7 +212,7 @@ Nobody **wants** war — war makes you **poorer**. Last option. Conflicts are in
 |:---|:---|
 | **UNFCCC** | United Nations Framework Convention on Climate Change — cut carbon. |
 | **UNCLOS** | United Nations Convention on the Law of the Sea — **maritime** disputes (sea territory). |
-| **Indus Waters Treaty, 1960** | India–Pakistan share of Indus and tributaries. **World Bank mediated** (*madhyasthata*). Class: **65 years** of peace on **water war**. India **suspended** it in **2025** after the **Pahalgam** terror attack. Detail in the Pakistan lecture. |
+| **Indus Waters Treaty (IWT), 1960** | India–Pakistan share of Indus and tributaries. **World Bank mediated** (*madhyasthata*). Class: **65 years** of peace on **water war**. Class wording: India **suspended** it in **2025** after **Pahalgam**. **MEA (Ministry of External Affairs)** wording after the **22 April 2025** Pahalgam attack: treaty placed **“in abeyance.”** Detail in the Pakistan lecture. |
 
 **International law** = treaties and conventions between sovereign states. If they are respected → **rule-based order** in international politics (common rules).
 
@@ -224,6 +224,16 @@ Nobody **wants** war — war makes you **poorer**. Last option. Conflicts are in
 States stay sovereign: they can **de-ratify**. Class: **US signed UNCLOS but has not ratified** — no legal obligation. India has signed some treaties it has **not** ratified.
 
 <span style="color: #e53e3e;">**Prelims trap:** UN is **not** a world government. Creating a world government would mean India is **not** sovereign. Orgs are **tools of sovereign states**. Signing ≠ ratification.</span>
+
+#### Newspaper update — 1 September 2026 (*The Hindu*; Kallol Bhattacherjee)
+
+Same IWT file as class — **do not duplicate** as a new CA topic.
+
+* **Permanent Court of Arbitration (PCA), The Hague** (Court of Arbitration chaired by **Prof. Sean D. Murphy**, US): treaty remains **“fully in force”**; India must observe obligations on **Western Rivers** hydro-electric design and operation. Terror attacks, in the court’s view, do **not** justify suspension or termination.
+* **India’s rejection:** MEA calls it a **“so-called award”** of an **illegally constituted** court; World Bank’s constitution of the body is a **“grave violation” / “patent breach”** of the treaty. India **will not appear** and will **not take cognisance** of its pronouncements. Abeyance after **Pahalgam (22 April 2025)** **remains in force** (India’s position).
+* **Ratle Hydro-Electric Plant (RHEP):** “Award on the Status of the IWT and Order on Interim Measures.” India is prohibited from **concreting the dam wall and power intake** above set levels until **90 days after** a **Neutral Expert’s** final decision (expected **July 2027**).
+
+<span style="color: #e53e3e;">**Prelims trap:** PCA says IWT is **in force**; India says it is **in abeyance**. Class said **suspended**. Neutral Expert on Ratle is **July 2027**, then **+90 days** on the concreting bar — not a 2026 finish.</span>
 
 ---
 
@@ -328,5 +338,9 @@ flowchart TD
 | **HAL** | Hindustan Aeronautics Limited |
 | **PSIR** | Political Science and International Relations (optional) |
 | **IFS / MEA** | Indian Foreign Service / Ministry of External Affairs |
+| **IWT** | Indus Waters Treaty, 1960 |
+| **PCA** | Permanent Court of Arbitration (The Hague) |
+| **RHEP** | Ratle Hydro-Electric Plant |
 
 <!-- 2026-09-01: IR Lecture 1, Iqbal Singh Sandhu — basics: state, domestic vs anarchy, hard power, realism/idealism, BOP vs collective security, from transcript + 3 sheets. -->
+<!-- 2026-09-01: Patched IWT from *The Hindu* — MEA “abeyance” after Pahalgam 22 Apr 2025; PCA Hague (Sean D. Murphy) says treaty in force; India rejects jurisdiction; Ratle HEP interim until Neutral Expert July 2027 + 90 days. -->

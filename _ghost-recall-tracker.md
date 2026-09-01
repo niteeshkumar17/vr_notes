@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-01
-*   **Active Micro-Topics:** 402
+*   **Active Micro-Topics:** 403
 *   **Overall Database Mastery:** 74.8% 📈
 *   **Today's Recall Completed:** 0 *(sessions skipped ~30 Aug–1 Sep — length)*
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 2 clusters (**IR-01**, **MOD-B5**) — first review **2 Sep 2026** morning
+*   **New Topics Ingested Today:** 2 lecture clusters (**IR-01**, **MOD-B5**) + **CA-260901-01** (INS Nipun) — first review **2 Sep 2026** morning
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -407,8 +407,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260820-02 | Codification of Personal Laws, Compulsory Marriage Registration & Gender Justice vs Article 25 ERP Test | 2 | ★★★★★ | Day 5 | 2026-08-28 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-23 | Fast 🟢 | `Personal Laws Codification` $\leftrightarrow$ `Compulsory Registration` $\leftrightarrow$ `Matrimonial Rights` $\leftrightarrow$ `ERP Test` $\leftrightarrow$ `Article 44 UCC` $\leftrightarrow$ `21st Law Commission` |
 | CA-260821-01 | SC 9-Judge Bench: IRC 2020 Clean Slate vs 1978 Bangalore Water Supply Triple Test & Labour Welfare | 2 | ★★★★★ | Day 2 | 2026-08-24 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-22 | Fast 🟢 | `Bangalore Water Supply 1978` $\leftrightarrow$ `IRC 2020 Sec 2(p)` $\leftrightarrow$ `Triple Test` $\leftrightarrow$ `IDA 1947 Sec 2(j)` $\leftrightarrow$ `Article 43A` |
 | CA-260821-02 | Section 295A IPC / 299 BNS: 'Truth No Defence' Doctrine, Heckler's Veto & Ambedkar's Social Reform Priority | 2 | ★★★★★ | Day 2 | 2026-08-24 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-22 | Fast 🟢 | `Section 295A / 299 BNS` $\leftrightarrow$ `Henry Rodrigues 1961` $\leftrightarrow$ `Article 19(1)(a)/19(2)` $\leftrightarrow$ `Article 25(2)(b)` $\leftrightarrow$ `Heckler's Veto` $\leftrightarrow$ `Perumal Murugan 2016` |
-| CA-260822-01 | SC on MGNREGA vs VB-G RAM G Act, Right to Work (Art 21 vs DPSP Art 41) & Fiscal Federalism Shift | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `MGNREGA Repealed` $\leftrightarrow$ `VB-G RAM G Act` $\leftrightarrow$ `Article 41 DPSP` $\leftrightarrow$ `Article 21` $\leftrightarrow$ `Fiscal Federalism 60:40` |
-| CA-260822-02 | Rural Minimum Wages, Article 21 (Dignity) & Article 23 (Forced Labour) Jurisprudence (PUDR/Sanjit Roy) | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `Article 23 Begar` $\leftrightarrow$ `PUDR 1982 Asiad` $\leftrightarrow$ `Sanjit Roy 1983` $\leftrightarrow$ `Article 21 Livelihood` $\leftrightarrow$ `Minimum Wage Floor` |
+| CA-260822-01 | SC on MGNREGA vs VB-G RAM G Act, Right to Work (Art 21 vs DPSP Art 41) & Fiscal Federalism Shift | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `MGNREGA Repealed` $\leftrightarrow$ `VB-G RAM G Act` $\leftrightarrow$ `Article 41 DPSP` $\leftrightarrow$ `Article 21` $\leftrightarrow$ `Fiscal Federalism 60:40` $\leftrightarrow$ `Navtej Non-retrogression` $\leftrightarrow$ `68% Jul-Aug Drop` |
+| CA-260822-02 | Rural Minimum Wages, Article 21 (Dignity) & Article 23 (Forced Labour) Jurisprudence (PUDR/Sanjit Roy) | 2 | ★★★★★ | Day 2 | 2026-08-25 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-08-23 | Fast 🟢 | `Article 23 Begar` $\leftrightarrow$ `PUDR 1982 Asiad` $\leftrightarrow$ `Sanjit Roy 1983` $\leftrightarrow$ `Article 21 Livelihood` $\leftrightarrow$ `Minimum Wage Floor` $\leftrightarrow$ `MWA 1948 Delink 2009` |
 | CA-260823-01 | Gorkha Permanent Political Solution, Pankaj Kumar Singh Committee & Evolution from DGHC (1988) to GTA (2011) | 2 | ★★★★★ | Day 1 | 2026-08-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gorkhaland Issue` $\leftrightarrow$ `Pankaj Kumar Singh Committee` $\leftrightarrow$ `DGHC 1988` $\leftrightarrow$ `GTA 2011` $\leftrightarrow$ `Sub-State Autonomy` |
 | CA-260823-02 | Sub-State Autonomy Models (Art 3 Statehood vs Sixth Schedule/Art 371) & Siliguri Corridor Strategic Vulnerability | 2 | ★★★★★ | Day 1 | 2026-08-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 3 State Reorganisation` $\leftrightarrow$ `Sixth Schedule AMTM` $\leftrightarrow$ `Article 371 Asymmetry` $\leftrightarrow$ `Siliguri Corridor Chicken's Neck` $\leftrightarrow$ `ST Status 11 Gorkhas` |
 | CA-260824-01 | MMDR Amendment Act 2026: Major Minerals, Mineral Land Regulation & Fiscal Federalism (Entry 54 vs 50) | 2 | ★★★★★ | Day 1 | 2026-08-25 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MMDR Act 2026` $\leftrightarrow$ `Mineral Area Dev Authority 2024` $\leftrightarrow$ `Royalty Not Tax` $\leftrightarrow$ `Entry 54 vs Entry 50` |
@@ -430,6 +430,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260828-03 | Quraishi: Keep Lok Sabha at 543, Intra-State Delimitation, Vidhan Sabha Expansion & Women's Reservation without Enlargement | 2 | ★★★★★ | Day 1 | 2026-08-29 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `543 Lok Sabha` $\leftrightarrow$ `S.Y. Quraishi CEC` $\leftrightarrow$ `106th CAA Nari Shakti` $\leftrightarrow$ `Vidhan Sabha Art 170` $\leftrightarrow$ `Federal Fairness South` $\leftrightarrow$ `Parliamentary Deliberation` |
 | CA-260829-01 | Nepal Rasuwa Ice-Rock Collapse: Lhende Khola to Bhotekoshi-Trishuli Transboundary Cascade | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Lhende Khola Tibet-Nepal` $\leftrightarrow$ `Bhotekoshi Trishuli` $\leftrightarrow$ `Ice Rock Permafrost` $\leftrightarrow$ `Debris Dam Outburst` $\leftrightarrow$ `Rasuwa` $\leftrightarrow$ `Cryosphere Load` |
 | CA-260829-02 | New Moraine-Dammed Lakes, NDMA Satellite Watch & 30-45 Minute GLOF Warning Limit | 2 | ★★★★★ | Day 1 | 2026-08-30 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `19.80 ha / 7.28 ha Lakes` $\leftrightarrow$ `Moraine Dam` $\leftrightarrow$ `Krishna Vatsa NDMA` $\leftrightarrow$ `Lake Not Imminent GLOF` $\leftrightarrow$ `30-45 min EWS` $\leftrightarrow$ `Suhora Lhende Khola` |
+
+### Current Affairs (September 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| CA-260901-01 | INS Nipun: 2nd Nistar-class DSV, HSL Visakhapatnam, Naval Dockyard Mumbai | 2 | ★★★★☆ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `INS Nipun A17` $\leftrightarrow$ `Nistar Class DSV` $\leftrightarrow$ `HSL Visakhapatnam` $\leftrightarrow$ `Submarine Rescue` $\leftrightarrow$ `Admiral Krishna Swaminathan` |
 
 ---
 
@@ -549,7 +554,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | IR-01-01 | IR = IP = Geopolitics; Four Features of a State | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sovereignty Territory Population Government` $\leftrightarrow$ `State = Country Not Punjab` $\leftrightarrow$ `Strait of Hormuz` $\leftrightarrow$ `Siliguri Chicken's Neck` |
 | IR-01-02 | Domestic Hierarchy vs International Anarchy; Hard Power | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Police Inside` $\leftrightarrow$ `No World Police` $\leftrightarrow$ `Diplomacy Limit` $\leftrightarrow$ `Military Last Resort` |
 | IR-01-03 | Finite Resources, Pax Silica, Realism vs Idealism | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Struggle for Power` $\leftrightarrow$ `Panchsheel 1954 → 1962` $\leftrightarrow$ `Realism Power` $\leftrightarrow$ `Idealism Law/UN` |
-| IR-01-04 | Treaties: Sign vs Ratify; Indus Waters Treaty 1960 / WB / Suspended 2025 | 3 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `World Bank` $\leftrightarrow$ `Pahalgam` $\leftrightarrow$ `Sign ≠ Ratify` $\leftrightarrow$ `UNCLOS` |
+| IR-01-04 | Treaties: Sign vs Ratify; Indus Waters Treaty 1960 / WB / Abeyance 2025; PCA Hague / Ratle | 3 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `World Bank` $\leftrightarrow$ `Pahalgam 22 Apr 2025` $\leftrightarrow$ `Sign ≠ Ratify` $\leftrightarrow$ `UNCLOS` $\leftrightarrow$ `PCA Hague Sean Murphy` $\leftrightarrow$ `Ratle HEP July 2027` |
 | IR-01-05 | Balance of Power Internal/External; Wilson, League, UN 1945, P5 Veto | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BOP` $\leftrightarrow$ `US Never Joined League` $\leftrightarrow$ `Collective Security` $\leftrightarrow$ `P5 Veto` |
 
 ---

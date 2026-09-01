@@ -1,0 +1,16 @@
+---
+description: Search existing notes before adding newspaper CA. If the story is already covered, patch new facts in place — do not clone it into a new date file.
+globs: Current_Affairs/**/*.md, GS_*_VR_Notes/**/*.md, Articles/**/*.md
+alwaysApply: true
+---
+
+# Newspaper CA — update in place if already covered
+
+When Nik sends *The Hindu* / *IE* clips (photos or text):
+
+1. **Grep first** — Current Affairs, GS notes, `Articles/`, `_ghost-recall-tracker.md`. Same Act, treaty, case, or ship = already covered.
+2. **Already covered → patch only.** Append a dated `### Update — D Month YYYY` block on the **original** note. New facts only. Keep the old SC/class context. **Do not** write a second full topic on today’s date file.
+3. **Truly new →** that day’s file: `Current_Affairs/September_2026/YYYY-MM-DD_Current_Affairs.md` (month folder matches the date). Index title `"MM-DD Current Affairs"`.
+4. **Mixed clips:** covered items get in-place updates; only the new story goes in today’s file. A one-line “already in notes” pointer on today’s file is optional so the paper trail is visible.
+5. **Ghost Recall:** a **new** topic = **one** cluster, Next Due = **next morning**. An update to an old cluster does **not** spawn extra Day-1 rows — patch the knowledge graph on the existing ID.
+6. Expand shortcuts on first use (MGNREGA, VB-G RAM G, PCA, IWT, DSV, HSL). Do not invent numbers beyond the clip.

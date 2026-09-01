@@ -168,4 +168,28 @@ graph TD
 
 ---
 
+### Update — 1 September 2026 (*The Hindu* Economic Notes)
+
+> **Source:** Rajendran Narayanan & Vijay Ram S, *“The broken promise of right to work”* (Centre for the Study of the Indian Economy, Azim Premji University). **Not a new topic** — same MGNREGA / VB-G RAM G / Art 21 vs Art 41 file as 22 August.
+
+* **Timeline:** Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) was replaced by the **Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G)** in **December 2025**; the new Act was implemented from **1 July 2026**.
+* **Employment drop (July–August):** **68%** fewer person-days in July and August 2026 than the preceding **five-year average**.
+* **Table — “A shrinking safety net” (July & August; data as of 31 August 2026):**
+
+| Year | Scheme | Households provided work | Person-days | Average daily wage |
+|:---|:---|---:|---:|---:|
+| **2021-22** | MGNREGA | **4.79 crore** | **65.74 crore** | **₹210** |
+| **2026-27** | VB-G RAM G | **1.39 crore** | **14.94 crore** | **₹282.9** |
+
+* **Household earnings (July–August):** about **₹13.78 thousand crore** (2021-22) down to about **₹4.23 thousand crore** (2026-27, projected under VB-G RAM G).
+* **Doctrine of non-retrogression:** *Navtej Singh Johar v. Union of India* — once the State has raised the floor of a right through progressive legislation, it cannot deliberately unwind that floor. Authors apply this to replacing a demand-driven statutory guarantee with a capped successor.
+* **Denotification:** VB-G RAM G allows **denotifying** certain areas, shrinking the earlier near-universal rural coverage.
+* **Wage delink:** MGNREGA wages were **delinked from the Minimum Wages Act, 1948** (from **2009**), so notified scheme wages need not track statutory minimum wages or inflation in the same way.
+* **FRBM (Fiscal Responsibility and Budget Management):** already in the 22 August note — States’ 40% share sits against FRBM borrowing ceilings.
+
+<span style="color: #e53e3e;">**Prelims trap:** VB-G RAM G **implemented 1 July 2026**, not the December 2025 enactment date. **68%** is July–August vs the **five-year average**, not vs 2021-22 alone. *Navtej Singh Johar* is the non-retrogression cite, not *Olga Tellis*.</span>
+
+---
+
 <!-- 2026-08-22: Created daily current affairs note covering (1) Supreme Court 3-judge bench observations on scrapped MGNREGA vs successor VB-G RAM G Act, centralisation vs rights-based demand framework, and 60:40 fiscal federalism strain; and (2) Right to Work jurisprudence under Article 21 vs Article 41 DPSP, Article 23 forced labour doctrine, and PUDR / Sanjit Roy minimum wage precedents. -->
+<!-- 2026-09-01: Patched in place from *The Hindu* Economic Notes — VB-G RAM G Dec 2025 / implement 1 July 2026; 68% Jul–Aug drop; 4.79 cr vs 1.39 cr HH; wages ₹210 vs ₹282.9; earnings ₹13.78 th cr → ₹4.23 th cr; Navtej non-retrogression; denotification; MWA 1948 delink 2009. -->
