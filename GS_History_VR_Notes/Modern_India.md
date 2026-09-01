@@ -1,8 +1,8 @@
-# Modern India (1860s–1940s) — Lectures 1–4: Nationalism, INC, Swadeshi, 1909 Act, Delhi Durbars, Home Rule & Lucknow Pact
+# Modern India (1860s–1940s) — Lectures 1–5: Nationalism to the Making of Mahatma
 
-> **Date of Lecture:** 30 August 2026 (**Lecture 4**)  
-> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3)  
-> **Date Added:** 2026-08-30  
+> **Date of Lecture:** 1 September 2026 (**Lecture 5**)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4)  
+> **Date Added:** 2026-08-30; Lecture 5 added **2026-09-01**  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -33,6 +33,8 @@
 8. **1911 announcements** — Bengal reunited; capital Calcutta → Delhi
 9. **Home Rule Leagues, 1916** — Tilak (Pune) & Besant (Madras); urban limit; Gandhi’s critique
 10. **Lucknow Pact, 1916** — INC–Muslim League; 1/3 seats; 3/4 Muslim veto
+11. **Lucknow Pact (C) — significance** — communal harmony; Rowlatt 1919; Khilafat–NCM 1920–22; Montagu–Chelmsford → Government of India Act 1919
+12. **The Making of Mahatma** — Gandhi in South Africa (1893–1914/15); Satyagraha; religious thought
 
 ---
 
@@ -948,7 +950,161 @@ They held a **joint annual session at Lucknow, December 1916** (sheet also has �
 
 ---
 
-## UPSC PYQ Connections (Lectures 1–4)
+### Lecture 5 — 1 September 2026
+
+> Continues **Lucknow Pact C** (significance / impact / consequences) from Lecture 4, then the board topic **The Making of Mahatma**. Same calendar day as IR Lecture 1 (two classes a day from 24 August). Class closed with a Moderates / Swadeshi test — not new Gandhi content.
+
+---
+
+## 17. Lucknow Pact — C. Significance / impact / consequences (MOD-B5-01)
+
+**Why the Pact even exists (class theory, before the three points):** once **elections** start in a modern sense (from the **1880s**), **demography** becomes a **state** question, not only a social one. Caste, religion, gender were already social. A **pan-India Parliament** and large provincial assemblies, plus **first-past-the-post (FPTP)** (largest vote-share wins even if well under 50%), create a **majority–minority** fear that locality-level medieval relations did not produce.
+
+Franchise was **limited** → mainly **upper-caste Hindu males**. **Dalits, Other Backward Classes (OBC), women** enter the electoral story much later (class pointed to the **73rd / 74th** Constitutional Amendments and still **~15%** women in Parliament). So Lucknow is an **upper-layer** Hindu–Muslim deal. The **3/4 Muslim veto** applied only to **certain bills**, not every law.
+
+### Three consequences (sheet)
+
+**(i) One platform + communal harmony in cities.** Indian National Congress (INC) and Muslim League on one platform. Unity helped **communal harmony**: in several cities **Muslims stopped slaughtering cows**; **Hindus stopped playing music near mosques at prayer time**. (Same two practices as lock 3 of the Pact — here they are a **lived impact**, not only a clause.)
+
+**(ii) Unity in later mass movements.** Seen in the **Rowlatt Satyagraha (1919)** and the **Khilafat and Non-Cooperation Movement (NCM) (1920–22)**.
+
+**(iii) Pressure for constitutional reform.** Unity pressured the government to promise reforms. In **1918** the Government of India recommended the **Montagu–Chelmsford Reforms**: **Edwin Montagu** = **Secretary of State for India**; **Lord Chelmsford** = **Viceroy (1916–21)**. Enacted as the **Government of India Act, 1919**.
+
+<span style="color: #e53e3e;">**Prelims:** recommendations **1918** / Act **1919**. Montagu is London (Secretary of State); Chelmsford is the Viceroy. Do not write “Montegu / Chiefsford”.</span>
+
+### Two theories of why the Raj “gave” reforms
+
+| Theory | Claim |
+|:---|:---|
+| **Benevolence** | Nice gentlemen periodically gift Indians Councils Acts (**1861, 1892, 1909**…) |
+| **Pressure** | Reform to **avoid revolt** (memory of **1857**). Hidden fear behind “generosity” — class compared this to rich-country aid that looks like charity but is also self-protection |
+
+**Exam line:** British reforms were given **not mainly because they wanted to**, but because they were **compelled** — small periodic concessions so Indians would not revolt. **Unless you protest and demand, government does not concede.**
+
+Sheet margin **Noakhali / Calcutta** belongs to **Gandhi in 1946–47**, not to Lucknow geography. See the map below.
+
+---
+
+## 18. The Making of Mahatma — how class split the topic (MOD-B5-02)
+
+Board title: **The making of Mahatma**. Gandhi stays in the story **till independence**. Two headings for convenience:
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 268" role="img" aria-label="Gandhi topic split: South Africa events and thoughts versus India comparisons and movements 1917 to 1948" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:620px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="518" height="266" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<rect x="175" y="10" width="170" height="32" rx="8" fill="#dbeafe" stroke="#60a5fa"/>
+<text x="260" y="31" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Gandhi</text>
+<line x1="260" y1="42" x2="260" y2="58" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="130" y1="58" x2="390" y2="58" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="130" y1="58" x2="130" y2="72" stroke="#94a3b8" stroke-width="1.5"/>
+<line x1="390" y1="58" x2="390" y2="72" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="28" y="72" width="204" height="28" rx="8" fill="#fef3c7" stroke="#f59e0b"/>
+<text x="130" y="91" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">In South Africa</text>
+<rect x="288" y="72" width="204" height="28" rx="8" fill="#e0e7ff" stroke="#818cf8"/>
+<text x="390" y="91" text-anchor="middle" font-size="12" font-weight="700" fill="#3730a3">In India</text>
+<rect x="28" y="112" width="204" height="56" rx="8" fill="#fffbeb" stroke="#fbbf24"/>
+<text x="130" y="134" text-anchor="middle" font-size="11" font-weight="700" fill="#78350f">(A) Major events of his life</text>
+<text x="130" y="154" text-anchor="middle" font-size="10.5" fill="#334155">this class — points 1–10</text>
+<rect x="28" y="178" width="204" height="74" rx="8" fill="#fffbeb" stroke="#fbbf24"/>
+<text x="130" y="200" text-anchor="middle" font-size="11" font-weight="700" fill="#78350f">(B) His thoughts</text>
+<text x="130" y="220" text-anchor="middle" font-size="10.5" fill="#334155">(i) Religious — this class</text>
+<text x="130" y="238" text-anchor="middle" font-size="10.5" fill="#64748b">(ii) Political — later</text>
+<rect x="288" y="112" width="204" height="70" rx="8" fill="#eef2ff" stroke="#a5b4fc"/>
+<text x="390" y="136" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">(A) Thoughts with Tagore,</text>
+<text x="390" y="154" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">Nehru &amp; Ambedkar</text>
+<text x="390" y="172" text-anchor="middle" font-size="10.5" fill="#64748b">later class</text>
+<rect x="288" y="192" width="204" height="60" rx="8" fill="#eef2ff" stroke="#a5b4fc"/>
+<text x="390" y="216" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">(B) Gandhian movement</text>
+<text x="390" y="236" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">1917–48</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Board map. This lecture finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought and the India branch come later.</em></p>
+
+**India branch (signposted, not taught today):** compare Gandhi with **Rabindranath Tagore, Jawaharlal Nehru, B.R. Ambedkar**. Movements **1917–48**. Last crisis: **Noakhali**; **15 August 1947 Gandhi was not in Delhi** — communal riots / peace work (**Calcutta / Noakhali**).
+
+**Reading / film (class):** Ramachandra Guha, *Gandhi Before India* (he wrote *India After Gandhi* first); Richard Attenborough’s film *Gandhi* (South Africa to India); Shyam Benegal, *The Making of Mahatma* (**South Africa only**). Autobiography: *The Story of My Experiments with Truth*.
+
+---
+
+## 19. Gandhi before South Africa — short timeline (MOD-B5-03)
+
+| Years | What |
+|:---|:---|
+| **1888–91** | Law in England (barrister). Class: **Theosophical Society**; first read the **Bhagavad Gita in English**, gifted by **Christians** — “I was ignorant of my own religion.” |
+| **1891–93** | Back in India: **Rajkot**; tried **Bombay High Court** — struggling lawyer, little work |
+| **1893–1914/15** | **South Africa**. Landed **1893**; left **1914** by ship; reached India **9 January 1915** |
+
+<span style="color: #e53e3e;">**Prelims:** return date is **9 January 1915**, not 14 January (class self-corrected). That date is **Pravasi Bharatiya Divas**. Period in South Africa: **1893–1914** (arrival 1915).</span>
+
+---
+
+## 20. South Africa — major events (MOD-B5-04)
+
+1. **Arrival, 1893.** Came at the invitation of **Dada Abdullah** (sheet: Dada Bhai Abdulla) — **Gujarati** businessman, old friend — to defend a **business legal case**. (Audio “Dada Bhai” is a slip; this is **not** Dadabhai Naoroji.)
+
+2. **Train incident, Durban → Pretoria.** Travelling **first class**; thrown off because of **racial segregation** (class used **apartheid** for the wider system: separate coaches, churches, parks, hotels). **Cold night on the station** (class: look up the station name — **Pietermaritzburg** in the standard account; he did not dictate the name). Next morning a **hotel refused** him; that hotel is now a **museum**. Before this, Gandhi thought the British humiliated Indians because Indians were **illiterate / “uncivilised”**; once educated, they would be respected. The incident forced a rethink: he was a **suited, English-educated barrister** and was still humiliated. Racism does not run on logic or even on the ticket in his pocket.
+
+3. **Stayed ~20 years.** After winning the case he meant to return. Local Indians asked him to stay and fight **racial discrimination**. He agreed for a few months; stayed **over 20 years**.
+
+4. **Who the Indians were.** Indians **~2%** of South Africa’s population. Mostly **indentured labour** (mines / plantations) and **traders**. From **Gujarat (GJ), Maharashtra (MH), Tamil Nadu (TN)** and **Hindi / Urdu / Bengali**-speaking regions. **Hindus, Muslims, Sikhs, Christians, Parsis**. Class: a **Mini-India**. Indenture also sent Indians to **Fiji, Mauritius, West Indies, Suriname** — the start of today’s **Indian diaspora**. Gandhi’s early house in South Africa was a **Muslim** household; close friends included Muslims and Christians; Jain gurus; Jewish colleagues from England to South Africa. That mix, class said, is why he could later lead a **diverse** India without it feeling foreign.
+
+5. **Why they needed him.** He was a **lawyer** (they were largely illiterate of statute) and he spoke **English** (the language of officials).
+
+6. **Organisation and ashram.** Mobilised Indians through the **Natal Indian Congress** (sheet / audio: “Natal National Org / Natal National Congress”). **Natal** is a **province**, not a city (class slip). Founded **Tolstoy Farm** ashram, named after **Leo Tolstoy** (Russian author; Gandhi **admired** him and had read him; they **never met**). Class named Tolstoy’s novel ***War and Peace***. Members of **all identities** lived under a **strict code of conduct** (details later). Same ashram idea later: **Sabarmati** (Gujarat) and **Sevagram, Wardha** (Maharashtra).
+
+7. **Discriminatory laws he fought** (see next section): **Pass**, **Marriage**, **poll tax**, **immigration**.
+
+8. **Weekly *Indian Opinion*.** Newspaper of the South African struggle.
+
+9. **Satyagraha named, September 1906.** Class: **9 September 1906** he gave the name **Satyagraha** to his political thought and movement. Literal meaning: **insistence on truth**. Full method = later, with political thought.
+
+10. **Return.** On the advice of **Gopal Krishna Gokhale** (political **guru**) and **C.F. Andrews** (lifelong friend — the only person who called him **Mohan**; those who liked him said **Bapu** — Nehru, Maulana Azad; those who did not said **Mr Gandhi** — **Jinnah, Ambedkar**). Returned **9 January 1915** = **Pravasi Bharatiya Divas**.
+
+**Image of India abroad:** class paired **Swami Vivekananda** and **Gandhi** as two devout Hindus whose intellect and conduct corrected a 18th–19th century Western caricature of Hinduism (idol-worship, sati, child marriage, and so on).
+
+---
+
+## 21. Four laws in South Africa — what they actually were (MOD-B5-05)
+
+| Law | What class said |
+|:---|:---|
+| **Pass law** | Whites inside the city; Black and brown outside. Pass compulsory to **enter the city** for work; pay for it; miss it → fine / humiliation. Gandhi petitioned. |
+| **Marriage law** | Marriages had to be **registered with the local authority** or they were **null and void**. Christians had church registers. Poor Hindus and Muslims often had **no paper** (Hindu marriage before *agni* / *phere*; Muslim *nikahnama* existed in principle but not among the poor). By then **Kasturba** was in South Africa — Gandhi had to prove she was his legally wedded wife. Some **relief / amendment** followed. |
+| **Poll tax** | Tax on the person **because you exist** (class compared it to a head tax). |
+| **Immigration law** | Extra money and documents to **enter** South Africa. |
+
+Illiterate traders could not fill the forms. That is why a **lawyer who wrote English** was useful.
+
+---
+
+## 22. Gandhi’s religious thoughts (MOD-B5-06)
+
+**Influences:** parents (**Jain liberals**); Jain muni **Hira Chand / Hira Bai** (class was unsure of the exact name — do not invent a third spelling); **Bhagavad Gita** and other religious literature.
+
+**Which Gita?** Scholars split it: **(1) bhakti** — *atma* / *paramatma*, liberation from desire (class: ISKCON-type reading); **(2) karma / worldly duty** — ruler’s duty, individual’s duty to society. **Gandhi was drawn to (2)** — he stays **among people**, not in Himalayan withdrawal. He first met the Gita in **England**, in **English**. Also: Jesus — **if slapped on one cheek, present the other** (Sermon on the Mount). Gandhi wrote that he **fell in love with that Christianity**; cheap prejudice against other faiths dropped once he read prophets in their own words.
+
+### Five points (sheet + class)
+
+**(i) Truth is God and God is Truth.** Absolute truth originates from God.
+
+**(ii) Service to man is service to God.** (Class: “man” here includes women — the idiom of the time.)
+
+**(iii) Soul of a religion > body of a religion.** **Body** = temple, mosque, church (holy *places*). **Soul / means** = love, faith, compassion, empathy, sympathy, kindness, justice, brotherhood (and sisterhood). Saints (Buddha, Mahavira, Kabir, Nanak, Chishti, Meera, Chaitanya) stressed the **soul**. Priestly classes and “common religiosity” cling to the **body**. When people say “religion divides,” they mean the **body / identity** form (beard, cap, saffron) — **dogmatism**, not the soul. Class: *ishq* as unconditional devotion is Gandhi’s idea of **soul-force**.
+
+**(iv) Different religions are different routes to the same destination.** Analogy: several trains / coaches, **same terminus** (God / heaven) — Hinduism, Jainism, Buddhism, Christianity, Islam, Sikhism. Therefore Gandhi **neither preached conversion** (as some Christian/Muslim missions did) **nor reconversion / *shuddhi*** (Arya Samaj). Public line: if you are Hindu, be a **good** Hindu; if Muslim, be a **good** Muslim.
+
+**(v) Core of all religions is the same.** Like the **Preamble** of the Constitution vs the rest of the text. **Shikhara / vimana**, mosque dome, gurdwara — these are **periphery / architecture**. Fighting over who owns a structure while ignoring the core (point iii) is, for Gandhi, missing the religion.
+
+**GS-IV / Essay hook from class:** “Can Gandhi be relevant in the 21st century?” — these five points are the answer they want, not a biography dump. Most people inherit religion **accidentally** (born into it) and from **semi-literate** family / local priests; Gandhi **inquired for himself**.
+
+**Not this class:** political thoughts (Satyagraha as method in full); Gandhi vs Tagore / Nehru / Ambedkar; 1917–48 movements.
+
+**Class test extras (Prelims, same sitting — Moderates / Swadeshi paper):** **Tilak** and **A.O. Hume** **never** became Congress President. **Gandhi did** — **1924, Belgaum** (Karnataka). If an option-set has Tilak or Hume as session president, eliminate.
+
+---
+
+## UPSC PYQ Connections (Lectures 1–5)
 
 - Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
 - Role of press, education, and social reform in national awakening
@@ -972,10 +1128,14 @@ They held a **joint annual session at Lucknow, December 1916** (sheet also has �
 - **1911:** annulment of Partition + capital Calcutta → Delhi; why Delhi *(Prelims + Mains)*
 - **Home Rule Leagues 1916** — Tilak (Pune, April) vs Besant (Madras, September); newspapers; urban limit *(Prelims + Mains)*
 - **Lucknow Pact 1916** — 1/3 Muslim seats, separate electorate accepted, 3/4 Muslim veto *(Prelims + Mains)*
+- **Lucknow Pact significance** — communal harmony practices; Rowlatt 1919; Khilafat–NCM 1920–22; Montagu–Chelmsford / GoI Act 1919 *(Prelims + Mains)*
+- **Gandhi in South Africa** — Dada Abdullah 1893; Durban–Pretoria train; Natal Indian Congress; Tolstoy Farm; *Indian Opinion*; Satyagraha Sept 1906; return **9 January 1915** = Pravasi Bharatiya Divas *(Prelims)*
+- **Gandhi’s religious thought** — Truth/God, service, soul vs body of religion, many paths *(GS-IV / Essay)*
+- **Gandhi Congress President 1924 Belgaum**; Tilak and A.O. Hume never presidents *(Prelims)*
 
 ---
 
-## Abbreviations used in Lecture 4
+## Abbreviations used in Lectures 4–5
 
 | Shortcut | Full form |
 |:---|:---|
@@ -990,9 +1150,16 @@ They held a **joint annual session at Lucknow, December 1916** (sheet also has �
 | **CP** | Central Provinces |
 | **UK** *(in this lecture)* | United Kingdom (Irish Home Rule context) — *not* Uttarakhand |
 | **UP** | Uttar Pradesh |
+| **FPTP** | First-past-the-post |
+| **NCM** | Non-Cooperation Movement |
+| **GoI Act** | Government of India Act |
+| **GJ / MH / TN** | Gujarat / Maharashtra / Tamil Nadu |
+| **OBC** | Other Backward Classes |
+| **PBD** | Pravasi Bharatiya Divas (9 January — Gandhi’s 1915 return) |
 
 ---
 
+<!-- 2026-09-01: Lecture 5 — Lucknow Pact C (significance: harmony, Rowlatt 1919, Khilafat–NCM, Montagu–Chelmsford / GoI Act 1919); The Making of Mahatma — Gandhi in South Africa (events 1–10, four laws, religious thoughts). Political thoughts and India branch (Tagore/Nehru/Ambedkar; 1917–48; Noakhali) not this class. Source: 3 notebook pages (dated 1/9/26) + History L010926 transcript. -->
 <!-- 2026-08-30: Lecture 4 — ICA 1909 clauses and critique; three Delhi Durbars; 1911 annulment + capital shift; Home Rule Leagues (Tilak/Besant); Lucknow Pact. Source: 6 notebook pages + HistoryL300826 transcript. -->
 <!-- 2026-08-27 (later): Lecture 3 review pass — added standard Swadeshi chronology table (19-20 July 1905 announcement, 7 Aug 1905 Boycott Day at Calcutta Town Hall, 16 Oct 1905 effect, Benares 1905, Calcutta 1906, Surat 1907, 1911 annulment + capital shift) with a note on why the annulment matters; replaced the prose placeholder for the "Representation Imbalance Diagram" in section 9 with a mobile-friendly inline SVG bar chart. -->
 <!-- 2026-08-27: Added Lecture 3 — Swadeshi Movement (1905): Causes (Partition of Bengal, Curzon, hidden communal agenda), Course of Events (boycott of goods/schools/courts, Tagore & Raksha Bandhan, mourning), Salient Features (mass participation, religious mobilization critique, nationalist-capitalist alliance, PC Roy & Tata), Outcomes (beginning of mass movement, Muslim League 1906, Surat Split 1907). Moderates vs Extremists ideological comparison table. Swaraj Resolution at INC Calcutta 1906. Indian Councils Act 1909 background (utilitarianism, Muslim League Shimla deputation). Source: handwritten notes (5 pages) + audio transcript. Class date: 27 Aug 2026. -->
