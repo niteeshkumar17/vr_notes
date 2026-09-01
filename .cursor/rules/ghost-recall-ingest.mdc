@@ -1,0 +1,16 @@
+---
+description: When adding a VR lecture or Current Affairs note, register one Ghost Recall cluster due the next morning — never 10–20 separate Day-1 cards.
+globs: GS_*_VR_Notes/**/*.md, Current_Affairs/**/*.md, _ghost-recall-tracker.md
+alwaysApply: true
+---
+
+# New notes → one Ghost Recall cluster
+
+Nik’s morning session is **8 questions / 60 min**. Flooding the tracker with many Day-1 micro-topics is what made recall overrun.
+
+## When you add or extend a lecture / CA note
+1. Register **one cluster** in `_ghost-recall-tracker.md` (one `###` block or one ID prefix, e.g. `MOD-B5`, `IR-01`).
+2. **Next Due = next calendar morning** (24 h after class). That cluster is Q1–Q2 of Ghost Recall. Do not set a dozen rows all due *today*.
+3. You may keep several micro-topic *rows* inside the cluster for fact-level logging **after a miss**. They share the cluster’s first three gaps (1 → 3 → 7).
+4. Do **not** skip the tracker. A note with no cluster will not be revised.
+5. Publish the note as usual (index + commit + push). Ghost Recall calendar: `_ghost-recall-schedule.md`.

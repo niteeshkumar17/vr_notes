@@ -1,0 +1,45 @@
+---
+description: Ghost Recall morning quiz. Apply when Nik says ghost recall, morning recall, spaced repetition, recall session, interval plan, or that recall is taking over an hour.
+alwaysApply: false
+---
+
+# Ghost Recall — 60 min + spaced intervals
+
+Nik needs **every topic** on an expanding gap, inside **one hour**. That only works if the **review unit is a lecture cluster**, not 391 separate Day-1 cards.
+
+Full calendar: `_ghost-recall-schedule.md`.
+
+## Hard limits
+
+- **60 minutes.** Stop. Leftover stays on its interval date.
+- **8 questions, one message.** Nik answers in one reply (`pass` allowed).
+- Do **not** run 15–16 sequential Q&A.
+
+## Interval ladder (pass)
+
+`1 → 3 → 7 → 16 → 35 → 90` days.
+
+- **Fail** one fact → that **micro-topic** becomes an atomic card (Mistake Bank / Level 2) at **1 day**. The rest of the lecture cluster can still advance if 2/3 facts were right.
+- Do **not** use Day 2 + Day 5 + Day 10 on the same packet. That density is why 370 rows looked “due.”
+
+## Two levels
+
+| Level | Unit | When |
+|:---|:---|:---|
+| **1 Cluster** | One lecture / CA-week | First **three** gaps (1, 3, 7). One prompt = 2–3 facts from that lecture. |
+| **2 Atom** | One micro-topic | Only **failed** facts, **Mistake Bank**, and ★★★★★ traps after Day 7. |
+
+Yesterday’s **two classes** = two Level-1 clusters the next morning (24 h gap). Register new notes as **one cluster**, not 15 Day-1 rows.
+
+## What goes in the 8 (catch-up fortnight, then steady)
+
+| Slots | Catch-up (until first-pass queue is empty) | After that |
+|:---|:---|:---|
+| 2 | Yesterday’s lectures (or extra catch-up if no class) | Same |
+| 4 | Two catch-up clusters, 2 facts each (see schedule) | Due **3 / 7 / 16** clusters |
+| 1 | Cluster at its **+3 or +7** | Due **35 / 90** flash |
+| 1 | Mistake Bank if due; else 1-line flash | Same |
+
+Mark: `✅` silent if right; `❌` + one trap sentence if wrong. Then log tracker + mistake bank.
+
+If 8 still overruns, next session is **6**, same ladder.

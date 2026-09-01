@@ -1,16 +1,34 @@
 # Ghost Recall Tracker — UPSC CSE 2027 (v4.0 Adaptive Engine)
 
 > **Auto-maintained by the revision mentor agent.**
-> Morning Control Center (4:30 AM – 6:00 AM). Self-Optimizing Learning Engine (§14).
+> Morning Control Center (**4:30 AM – 5:30 AM**, 60 min). Self-Optimizing Learning Engine (§14).
+
+## ⏱️ 60-Minute Session Protocol (do not skip)
+
+**Coverage plan (gap intervals):** `_ghost-recall-schedule.md`  
+**Agent rule:** `.cursor/rules/ghost-recall.mdc`
+
+| Rule | Number |
+|:---|:---|
+| Clock | **60 min hard stop** |
+| Questions | **8**, posted **all at once** |
+| Review unit | **Lecture cluster** (2–3 facts), not 391 Day-1 cards |
+| Gaps after a pass | **1 → 3 → 7 → 16 → 35 → 90** days |
+| Fail | That **one fact** back to +1 day (atomic). Cluster can still advance. |
+| Catch-up | Two untested lectures per morning **2–13 Sep**, then ladder only |
+
+Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use the schedule table.
+
+---
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-08-30
-*   **Active Micro-Topics:** 380
+*   **Today's Date:** 2026-09-01
+*   **Active Micro-Topics:** 402
 *   **Overall Database Mastery:** 74.8% 📈
-*   **Today's Recall Completed:** 11
+*   **Today's Recall Completed:** 0 *(sessions skipped ~30 Aug–1 Sep — length)*
 *   **Active Learning Gaps Detected:** 0
-*   **New Topics Ingested Today:** 16
-*   **Weekly Backlog:** 0
+*   **New Topics Ingested Today:** 2 clusters (**IR-01**, **MOD-B5**) — first review **2 Sep 2026** morning
+*   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
 
@@ -121,6 +139,12 @@
 | MOD-B4-05 | Home Rule 1916: Tilak Pune April, Besant Madras September, Press | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Irish Model` $\leftrightarrow$ `Tilak >30k Berar-CP-KA` $\leftrightarrow$ `Besant ~20k` $\leftrightarrow$ `Mahratta+Kesari` $\leftrightarrow$ `New India+Commonweal` |
 | MOD-B4-06 | Home Rule Limits: Urban Only; Gandhi Cold; Swaraj Birthright Slogan | 2 | ★★★★☆ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WW-I Hardships` $\leftrightarrow$ `Jinnah Nehru Patel Azad Gandhi` $\leftrightarrow$ `>90% Village` $\leftrightarrow$ `Mandalay 1908-14` $\leftrightarrow$ `Class: Jinnah Prompted Slogan` |
 | MOD-B4-07 | Lucknow Pact 1916: Joint Session, 1/3 Seats, 3/4 Muslim Veto | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WW-I Unrest` $\leftrightarrow$ `Dual Membership till 1938` $\leftrightarrow$ `Cow + Mosque Music` $\leftrightarrow$ `1/3 Elected Muslim Seats` $\leftrightarrow$ `Accept Separate Electorate` $\leftrightarrow$ `3/4 Muslim Veto` |
+| MOD-B5-01 | Lucknow Pact C: Harmony, Rowlatt 1919, Khilafat–NCM, Montford 1918 / GoI Act 1919 | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `FPTP Majority-Minority` $\leftrightarrow$ `Cow + Mosque Music Lived` $\leftrightarrow$ `Rowlatt 1919` $\leftrightarrow$ `NCM 1920-22` $\leftrightarrow$ `Montagu SoS + Chelmsford 1916-21` $\leftrightarrow$ `GoI Act 1919` |
+| MOD-B5-02 | Making of Mahatma Map: SA vs India; Noakhali; 15 Aug 1947 Not Delhi | 1 | ★★★★☆ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Guha Gandhi Before India` $\leftrightarrow$ `Attenborough Gandhi` $\leftrightarrow$ `Benegal Making of Mahatma` $\leftrightarrow$ `Tagore Nehru Ambedkar Later` $\leftrightarrow$ `1917-48 Later` |
+| MOD-B5-03 | Gandhi Timeline: Law 1888-91, Rajkot/BHC 1891-93, SA 1893-1914, Return 9 Jan 1915 PBD | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Theosophical Society` $\leftrightarrow$ `Gita in English` $\leftrightarrow$ `9 Jan 1915 Not 14` $\leftrightarrow$ `Pravasi Bharatiya Divas` |
+| MOD-B5-04 | SA Events: Dada Abdullah, Durban-Pretoria Train, Natal Indian Congress, Tolstoy Farm, Indian Opinion, Satyagraha Sept 1906 | 3 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mini-India 2%` $\leftrightarrow$ `Lawyer + English` $\leftrightarrow$ `Natal Province Not City` $\leftrightarrow$ `Insistence on Truth` $\leftrightarrow$ `Gokhale Guru` $\leftrightarrow$ `CF Andrews Mohan` |
+| MOD-B5-05 | SA Laws: Pass, Marriage (Kasturba), Poll Tax, Immigration | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pass Enter City` $\leftrightarrow$ `Marriage Null if Unregistered` $\leftrightarrow$ `Nikahnama vs Phere` $\leftrightarrow$ `Poll Tax Exist` |
+| MOD-B5-06 | Gandhi Religious Thought: Truth=God, Service, Soul vs Body, Many Paths, Same Core | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Jain Hira Chand/Bai` $\leftrightarrow$ `Gita Karma Not Only Bhakti` $\leftrightarrow$ `No Conversion No Shuddhi` $\leftrightarrow$ `1924 Belgaum President` |
 
 
 
@@ -519,23 +543,26 @@
 | HIS-AI-14 | Neolithic Age: Celts, Agriculture & Settled Life in Villages | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Polished/Symmetric/Precision` $\leftrightarrow$ `Sedentary Life` $\leftrightarrow$ `Houses Near Fields` $\leftrightarrow$ `HG Secondary` |
 | HIS-AI-15 | Neolithic Revolution: Division of Labour, Specialization & Prime Species | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Surplus → Free Population` $\leftrightarrow$ `Pottery/Cloth/Masonry` $\leftrightarrow$ `Division of Labour` $\leftrightarrow$ `Control All Species` $\leftrightarrow$ `Revolution = Sudden+Fundamental` |
 
+### IR (Basics — Iqbal Singh Sandhu, Lecture 1, 1 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| IR-01-01 | IR = IP = Geopolitics; Four Features of a State | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sovereignty Territory Population Government` $\leftrightarrow$ `State = Country Not Punjab` $\leftrightarrow$ `Strait of Hormuz` $\leftrightarrow$ `Siliguri Chicken's Neck` |
+| IR-01-02 | Domestic Hierarchy vs International Anarchy; Hard Power | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Police Inside` $\leftrightarrow$ `No World Police` $\leftrightarrow$ `Diplomacy Limit` $\leftrightarrow$ `Military Last Resort` |
+| IR-01-03 | Finite Resources, Pax Silica, Realism vs Idealism | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Struggle for Power` $\leftrightarrow$ `Panchsheel 1954 → 1962` $\leftrightarrow$ `Realism Power` $\leftrightarrow$ `Idealism Law/UN` |
+| IR-01-04 | Treaties: Sign vs Ratify; Indus Waters Treaty 1960 / WB / Suspended 2025 | 3 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `World Bank` $\leftrightarrow$ `Pahalgam` $\leftrightarrow$ `Sign ≠ Ratify` $\leftrightarrow$ `UNCLOS` |
+| IR-01-05 | Balance of Power Internal/External; Wilson, League, UN 1945, P5 Veto | 2 | ★★★★★ | Day 1 | 2026-09-02 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BOP` $\leftrightarrow$ `US Never Joined League` $\leftrightarrow$ `Collective Security` $\leftrightarrow$ `P5 Veto` |
 
 ---
 
 
 
 ## 🎯 Multi-Factor Scheduling & Priority Engine (§14-B)
-* **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage.
+* **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
+* **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. `ECO-04-07` (★★★★★ | Diff 3 | Stage Day 1 — LTCG on Equity: 12.5% > ₹1.25L)
-  2. `ECO-04-10` (★★★★★ | Diff 3 | Stage Day 1 — Round Tripping via Tax Havens)
-  3. `ECO-04-13` (★★★★★ | Diff 3 | Stage Day 1 — Indo-Mauritius Revised DTAA: TRC + PPT)
-  4. `ECO-04-01` (★★★★★ | Diff 2 | Stage Day 1 — GMCT: 15% Minimum, OECD/G20 & BEPS)
-  5. `ECO-04-02` (★★★★★ | Diff 2 | Stage Day 1 — MAT: 14% on Book Profit & Fraud Prevention)
-  6. `ECO-04-16` (★★★★★ | Diff 2 | Stage Day 1 — DTC: Shome vs Akhilesh Ranjan & Income Tax Act 2025)
-  7. `CA-260825-01` (★★★★★ | Diff 2 | Stage Day 1 — Medical Devices Rules 2017: Rule 44 Sterilisation)
-  8. `CA-260825-02` (★★★★★ | Diff 2 | Stage Day 1 — Medical Devices Rules 2017: Rule 63 Clinical Trial Waiver)
-  9. `ST-01-05` (★★★★★ | Diff 2 | Stage Day 1 — AI: Fixed vs Learning, Deep Learning)
-  10. `ST-01-06` (★★★★★ | Diff 2 | Stage Day 1 — LLMs: ChatGPT/Gemini/Claude/Sarvam)
+  1. `IR-01` cluster (1 Sep class — first review **2 Sep**, Q1)
+  2. `MOD-B5` cluster (1 Sep class — first review **2 Sep**, Q2)
+  3. Medieval + Ancient first-pass (catch-up Q3–Q6)
+  4. `MST-019` Zanskar (Q8)
 
 

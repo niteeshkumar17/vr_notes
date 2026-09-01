@@ -39,6 +39,8 @@
 | GS_ScienceTech_VR_Notes | S&T Lecture 1: Syllabus Overview & Public Health (Virology) | 2026-08-25 | 3 | 66.7% | 2026-08-28 | Confident | 2019, 2020, 2022, 2024 | Mastered Spike protein/ACE-2 receptor and virus genome either/or rule. Logged HBV DNA virus trap (MST-028). |
 | GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-08-26 | 0 | 0% | 2026-08-27 | New | 2014, 2018, 2021, 2024 | Added ST-02-01 to ST-02-15 (15 micro-topics: Cobalt-60 Radiotherapy, Food Irradiation & Radura, Mutagenic vs GM Crops, INS Arihant/SSBN P5+1, K-series SLBMs, Ballistic vs Cruise, Agni-5 MIRV, BrahMos, Nuclear Triad & NFU Second Strike). |
 | GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-08-25 | 8 | 87.5% | 2026-08-28 | Confident | 2018, 2020, 2023, 2024 | Mastered MAT 14%, CGT holding periods, STT, Round Tripping, CII indexation, DTC, Limited DTAA. Reviewing SC DDT verdict DTAA vs MFN (MST-029). |
+| GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-01 | 1 | 75.0% | 2026-09-02 | Somewhat | 2024 | Mastered League/US Congress bar, BOP vs collective security, IWT 1960 sign≠ratify. Reviewing: state ≠ democracy (`MST-031`). |
+| GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-01 | 1 | 80.0% | 2026-09-02 | Confident | 2015, 2019 | Mastered Montford 1918/Act 1919, PBD 9 Jan 1915, Satyagraha Sept 1906, Tilak never INC President. Reviewing Lucknow as upper-layer pact (`MST-032`). |
 
 
 ---
@@ -46,6 +48,15 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 17 — 2026-09-01
+- **Subject:** GS_IR (L1), GS_History (Modern L5), Geography drainage (Mistake Bank)
+- **Format:** 10 Prelims MCQs (batched; 30-min evening slot)
+- **Score:** 14.68 / 20.00 (Net Score: +16.00 − 1.32 = 14.68 | Accuracy: 80.00% — 8/10 correct | 2 Incorrect | 0 Unattempted)
+- **Strengths:** Zanskar → Indus at Nimmu, not Ganga (`MST-019` Resolved 🟢); Shyok/Nubra west into Indus, not Tsangpo (`MST-022` Resolved 🟢); Montagu ≠ Viceroy / Chelmsford ≠ SoS, recommendations 1918 / Act 1919; PBD **9 Jan 1915**; League — US Congress sovereignty bar; BOP internal/external vs collective security vs Panchsheel 1954→1962; Satyagraha = insistence on truth (Sept 1906); Tilak never Congress President; IWT 1960 / World Bank / sign ≠ ratify / 2025 Pahalgam link.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-031 / Four features of a state:* Government is required; **democratic** government is not (`MST-031` New Entry ⚠️).
+  - *MST-032 / Lucknow Pact C:* Upper-layer limited-franchise deal; 3/4 veto **not** every bill. User kept only stmt 1 and dropped the (correct) elite-pact line (`MST-032` New Entry ⚠️).
 
 ### Session 16 — 2026-08-25
 - **Subject:** GS_Economy (Taxation & Budget), GS_ScienceTech (Virology), GS_Polity, GS_History, Current Affairs
