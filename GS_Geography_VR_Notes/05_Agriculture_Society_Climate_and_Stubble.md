@@ -360,6 +360,26 @@ Then **give the straw a price**: manure; **second-generation ethanol** (residue,
 
 **Environment as tragedy of the commons / free-rider:** Delhi blames Punjab in October; Punjab asks why Delhi runs **ACs** for **7–8 months** on a grid that is **>70% coal**, and why it will not use public transport. Blame is cheap; nobody owns the clean-up.
 
+### Update — 2 September 2026 (same GHG list; not a new topic)
+
+Class closed the 30 August agri–GHG sequence, then started **features of Indian agriculture** (`06_Agriculture_Rainfed_Irrigation_and_Land.md`).
+
+**Point 2 — livestock (already above):** **enteric fermentation** of feed → **CH₄**, released largely through **belching**. Keep the 30 August breed/diet / “non-veg milk” frame.
+
+**Point 3 — in-situ combustion of agri residue:** stubble burning as a major reason for **winter smog in Delhi and nearby areas**; cheapest and most convenient residue management; GHGs **+ particulate matter**, worse in **stagnant** winter air. Four solutions dictated in class (adds machines not named on 30 Aug):
+
+1. **Technological inputs:** decomposers, **mouldboard (MB) plough**, **Happy Seeder**, **Super Straw Management System (Super SMS)**
+2. **Monetary incentives** for environment-friendly residue management
+3. **Strict enforcement** of rules
+4. **Change the cropping pattern** of the region
+
+**Point 4 — land-use change due to agriculture (new on this note):** trees = **carbon sinks** (absorb CO₂, release O₂). Cut them → that CO₂ stays in the air. **Deforestation** is a major reason for global warming. **Large tracts of forest** have become agri fields → **loss of carbon sinks** → higher GHG concentration.
+
+Class examples:
+
+- **Shifting / slash-and-burn:** cut, burn, crop a few seasons without fertiliser, abandon when fertility falls, repeat. Primitive land-use change.
+- **Partition refugees** given land in **Punjab**, **Ganganagar (Rajasthan)**, **Yamunanagar (Haryana)**, and the **Terai** belt (**Udham Singh Nagar, Uttarakhand**; **Lakhimpur Kheri, UP**) — once **dense sal jungle**, now fields. Many **Sikh** settlements in this Terai belt.
+
 ---
 
 ## UPSC Cues
@@ -374,6 +394,7 @@ Then **give the straw a price**: manure; **second-generation ethanol** (residue,
 - **FAO: 18% GHGs from agri + land-use change.** Paddy **~10% of world CH₄** — **transplantation**, not rice itself. **DSR + AWD**. **SRI ≠ DSR.**
 - Livestock CH₄ **> paddy**; **enteric / belching**; **non-veg milk** = blood meal / meat in feed.
 - Stubble: **15-day** rice–wheat window; **Pusa decomposer = 30 days**; **15 June ± 5** transplant ban (2009); **Pusa-44 vs PAU PR-12x**; **Happy/Super Seeder** opex; **Haryana cash > Punjab machines**; **evening fires vs satellite**; long-term = **leave rice**.
+- **2 Sep add-on:** four-point stubble list includes **MB plough** + **Super SMS**; **land-use change** = slash-and-burn + **sal Terai** cleared for Partition settlement (**Ganganagar, Yamunanagar, Udham Singh Nagar, Lakhimpur Kheri**). Full rainfed/irrigation class → `06_...`.
 
 ---
 
@@ -404,6 +425,7 @@ Then **give the straw a price**: manure; **second-generation ethanol** (residue,
 | **USAID** | United States Agency for International Development |
 | **SW / NE** | South-West / North-East (monsoon) |
 | **UP / MP / MH / TN / HR / RJ / HP / KA / AP / TG / GJ / WB / UK** | Uttar Pradesh / Madhya Pradesh / Maharashtra / Tamil Nadu / Haryana / Rajasthan / Himachal Pradesh / Karnataka / Andhra Pradesh / Telangana / Gujarat / West Bengal / **Uttarakhand** (not the United Kingdom) |
+| **MB plough / Super SMS** | Mouldboard plough / Super Straw Management System |
 
 ---
 
