@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-02
-*   **Active Micro-Topics:** 403
+*   **Active Micro-Topics:** 407
 *   **Overall Database Mastery:** 75.1% 📈
 *   **Today's Recall Completed:** 8 *(Ghost Recall 2 Sep — 7/8 after Q1 remark; atom: MST-034)*
 *   **Active Learning Gaps Detected:** 1 (`MST-034` Khalsa/Iqta flow)
-*   **New Topics Ingested Today:** — *(2 Sep morning was first-pass, not ingest)*
+*   **New Topics Ingested Today:** **ECO-05** (BS Sir last NI — 2 Sep) — first review **3 Sep 2026** morning
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -271,6 +271,14 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-03-14 | Net Remittances vs NFIA Distinction | 2 | ★★★★★ | Day 5 | 2026-08-28 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-23 | Fast 🟢 | `India #1 Remittance Receiver` $\leftrightarrow$ `Venn Diagram COE Overlap` $\leftrightarrow$ `NRI Transfers` $\leftrightarrow$ `No Contradiction` |
 | ECO-03-15 | Expenditure Method — GDP = C+I+G+NX Formula | 2 | ★★★★★ | Day 5 | 2026-08-28 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-23 | Fast 🟢 | `PFCE 55-60%` $\leftrightarrow$ `GDCF` $\leftrightarrow$ `GFCE` $\leftrightarrow$ `NX Negative India` $\leftrightarrow$ `Imports Hidden in C,I,G` |
 | ECO-03-16 | Expenditure Method for Policy Making & C-I Interrelation | 2 | ★★★★★ | Day 5 | 2026-08-28 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-23 | Fast 🟢 | `Employment Policy → C` $\leftrightarrow$ `Investment Promotion → I` $\leftrightarrow$ `Fiscal Policy → G` $\leftrightarrow$ `MSME PYQ` $\leftrightarrow$ `Savings → Investment` |
+
+### Economy (Lecture 04 — last NI, BS Sir, 2 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-05-01 | NI at MP / FC / BP; UN SNA 2008; India BP from 2015 | 2 | ★★★★★ | Day 1 | 2026-09-03 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MP = both net taxes` $\leftrightarrow$ `BP = production taxes only` $\leftrightarrow$ `FC = neither` $\leftrightarrow$ `UN SNA 2008` |
+| ECO-05-02 | Production vs Product Tax/Subsidy; Transfers vs Two-sided | 3 | ★★★★★ | Day 1 | 2026-09-03 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Land Revenue/Stamp Duty` $\leftrightarrow$ `GST/Excise` $\leftrightarrow$ `Fertilizer Farmer vs Company` $\leftrightarrow$ `MGNREGA ≠ Transfer` |
+| ECO-05-03 | GDP steps since 2015: GVA_BP → official GDP_MP; old = GDP_FC | 3 | ★★★★★ | Day 1 | 2026-09-03 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `VA primary+reg mfg` $\leftrightarrow$ `Income other sectors` $\leftrightarrow$ `GDP_MP = GDP_BP + Net Product Taxes` $\leftrightarrow$ `45-48% product tax India` |
+| ECO-05-04 | MER vs PPP-ER; GDP at MER < PPP; per capita GDP | 2 | ★★★★★ | Day 1 | 2026-09-03 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Importers buy $` $\leftrightarrow$ `Exports 14-15% GDP` $\leftrightarrow$ `PPP CCB` $\leftrightarrow$ `WB $3/day PPP` $\leftrightarrow$ `India 6th MER / 3rd PPP` |
 
 ### Polity (Abhey Kumar — Lecture 1)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -565,7 +573,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. Tomorrow **3 Sep** paper: yesterday’s classes (if any) + GEO-06 · GEO-07 (`_ghost-recall-schedule.md`)
+  1. Tomorrow **3 Sep** paper: **ECO-05** (2 Sep NI last class) + any other 2 Sep class + GEO-06 · GEO-07 (`_ghost-recall-schedule.md`)
   2. Atomic **+1:** `MST-034` Khalsa–Iqta (`HIS-MED-19`)
   3. Passed clusters return **5 Sep** (`IR-01` including IWT, `MOD-B5`, Medieval pillars, Ancient Stone Age, `CA-260901-01`)
   4. Do **not** re-quiz `MST-019` until **16 Sep**

@@ -484,7 +484,8 @@ Individuals who **ordinarily reside** in a country and their **centre of economi
 * <span style="color: #e53e3e;">`GDP at Market Prices = GVA at Basic Prices + Product Taxes - Product Subsidies`</span>
 * <span style="color: #e53e3e;">**UPSC Prelims Crucial Trap:**</span>
   * <span style="color: #e53e3e;">**Production Taxes/Subsidies:** Independent of actual volume of production (e.g., Land Revenue, Stamp Duty, Registration Fee, Payroll Tax, Profession Tax).</span>
-  * <span style="color: #e53e3e;">**Product Taxes/Subsidies:** Directly dependent on volume per unit of product (e.g., GST, Excise Duty, Custom Duty, Sales Tax, Service Tax, Food/Fertilizer/Petroleum Subsidies).</span>
+  * <span style="color: #e53e3e;">**Product Taxes/Subsidies:** Directly dependent on volume per unit of product (e.g., GST, Excise Duty, Custom Duty, Sales Tax, Service Tax). Fertilizer subsidy to *farmers* is production; to *fertilizer companies* is product.</span>
+  * Full class: **Lecture 04 — 2 September 2026** below.
 
 <!-- 2026-08-09: Added GVA Production vs Product Taxes distinction post evening quiz -->
 <!-- 2026-08-07: Created ECO-02-01 to ECO-02-05 based on Lecture 2 notes. -->
@@ -921,3 +922,137 @@ Expenditure method is used in India **mainly for policy making** (not primarily 
 *   **Conclusion:** Savings are generally treated as **good for economic growth**.
 
 <!-- 2026-08-20: Added ECO-03-01 to ECO-03-16 — Lecture 3 content merged (Resident Institutions, GNP/GDP/NNP, Domestic Territory, 3 Producing Sectors, Registered/Unregistered Mfg, Organized/Unorganized, 3 Methods of GDP Calculation, NFIA, Remittances, Expenditure Method Policy Applications). -->
+
+---
+
+### Lecture 04 — 2 September 2026
+
+> **Date of Lecture:** 2 September 2026  
+> **Date Added:** 2026-09-02  
+> **Teacher:** **BS Sir** — last class on **National Income** (continues Lecture 03, 20 August). Same calendar day as a second VR class (two-a-day from 24 August).  
+> **Source:** Vajiram & Ravi class + `Economy L020926_transcript.txt` + 5 handwritten pages (dated **2/9/26**)  
+> **Also relevant for:** Prelims (GVA / GDP valuation); **GS-III** (GDP method since 2015, MER vs PPP); Mains comparison of old vs new GDP.
+
+---
+
+## ECO-05-01: Three valuations — Market Price, Factor Cost, Basic Price
+
+**National Income (NI) at Market Price (MP):** inclusive of **all** taxes paid by producers = **Net Production Taxes + Net Product Taxes**. This is the price you actually pay in the market.
+
+**NI at Factor Cost (FC):** **neither** net production taxes **nor** net product taxes. Same as **wages + rent + interest + profit (W + R + I + P)** — the **basic cost of production**, the minimum a producer must recover to stay in business. FC **excludes taxes** but **includes subsidies** (because “net tax” = tax − subsidy; dropping tax means adding the opposite).
+
+**NI at Basic Price (BP):** **between** FC and MP. Inclusive of **net production taxes only** (not net product taxes).
+
+| Valuation | Net production taxes | Net product taxes |
+|:---|:---:|:---:|
+| **MP** | Yes | Yes |
+| **BP** | Yes | No |
+| **FC** | No | No |
+
+**FC < BP < MP.** Traditional view: **FC is better than MP** because FC gives **less importance to transfer payments**. **United Nations System of National Accounts (UN SNA), 2008** recommended **BP**: production taxes are **similar to the basic cost of production** (without stamp duty / land revenue, production is illegal — like unpaid wages). India adopted the BP route from **2015**. FC vs BP is still debated; the rupee gap is small because production taxes are a **tiny** share of India’s tax revenue.
+
+<span style="color: #e53e3e;">**Prelims trap:** BP is **not** “no tax.” It includes **production** taxes, excludes **product** taxes (Goods and Services Tax (GST), excise, customs).</span>
+
+---
+
+## ECO-05-02: Production vs product taxes and subsidies
+
+**Production taxes / subsidies:** paid or received by producers **in relation to production**, **independent of the volume** of actual output. You can infer that production is happening, not *how much* or *of what*.
+
+| | Examples (class) |
+|:---|:---|
+| Production **tax** | **Land revenue** (area, not crop); **stamp duty paid by producers** (factory / land / building) |
+| Production **subsidy** | **Fertilizer subsidy to farmers** (urea bag ≠ wheat quintals) |
+
+**Product taxes / subsidies:** paid or received **per unit of product** — **dependent on volume**. Same core idea as **indirect taxes**.
+
+| | Examples (class) |
+|:---|:---|
+| Product **tax** | **GST**, **excise**, **customs** |
+| Product **subsidy** | **Fertilizer subsidy to fertilizer companies** (50 t output → subsidy on 50 t) |
+
+**Net** = that tax **minus** that subsidy.
+
+**Value of a good/service at BP** = amount **receivable** per unit by producers, inclusive of **net production taxes**, **not** net product taxes. Producers actually *receive* MP; BP is a constructed valuation.
+
+**Transfers (one-sided payments):** A pays B **without** the same-value good/service returning. Examples: **taxes, subsidies, old-age (social) pensions, scholarships, grants, donations**. NRI transfers (part of remittances) are international transfers.
+
+**Two-sided payments:** same-value return. **Private Final Consumption Expenditure (PFCE)**; **factor payments**.
+
+<span style="color: #e53e3e;">**Prelims traps:** (1) Fertilizer to **farmer** = production subsidy; to **company** = product subsidy. (2) **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) / Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G)** is **wages for labour**, **not** a transfer. (3) **Service pension** after work = deferred salary (two-sided); **old-age social pension** = transfer.</span>
+
+---
+
+## ECO-05-03: India’s GDP steps since 2015
+
+**National Statistical Office (NSO)** under the **Ministry of Statistics and Programme Implementation (MoSPI)** calculates. **UN SNA recommends**; it does **not** compute India’s GDP.
+
+**Before 2015:** official GDP was **GDP at Factor Cost**. Step 1 used GVA at **MP**, then converted toward FC. Handout has the old steps; class did not drill them.
+
+**Since 2015 — five steps**
+
+1. **Value Added (VA) method** → **Gross Value Added (GVA) at BP** for **primary + registered manufacturing**.  
+   `GVA_BP = (gross output of final goods at BP) − (gross output of intermediate goods at BP)`
+2. **Other sectors** (unregistered manufacturing, construction, public utilities, **services**): mainly **Income method** (expenditure method for some sub-sectors, e.g. construction) → **GVA at FC**.  
+   `GVA_FC = Compensation of Employees (COE) + Operating Surplus (OS) + Mixed Income (MI) + provision for depreciation`  
+   Income method is **net** by default; **depreciation** is added to make it **gross**. Step 1 already used *gross* output, so depreciation was inside.
+3. Convert: `GVA_BP = GVA_FC + Net Production Taxes`
+4. Add all sectors: `GDP_BP = Σ GVA_BP`
+5. **Official GDP since 2015:** `GDP_MP = GDP_BP + Net Product Taxes`
+
+Quarterly estimates often **copy registered manufacturing growth onto unregistered** — data lag, not a valuation debate. Black money is **outside** GDP; that is a general limitation.
+
+### Criticism of the 2015 method (vs pre-2015)
+
+1. **Overestimates GDP compared with the old method** — because **GDP_MP > GDP_FC**. Comparing 2016 MP with 2014 FC is **technically wrong**.
+2. Gives **more weight to transfers**, mainly **product taxes** (GST, excise) — not production taxes.
+3. **Product / indirect tax share of total tax revenue** is **higher in developing countries**. Class: India roughly **45–48%** product taxes (direct ~52–55%); developed countries often **~20–30%**. Same UN method **inflates India more** than a rich country. Indirect taxes are often **regressive**; development should raise the **direct-tax** share.
+
+Government defence: **UN SNA recommendation**, not a homemade trick.
+
+---
+
+## ECO-05-04: International comparison — MER vs PPP; per capita GDP
+
+**Exchange Rate (ER)** (India): units of **₹ needed for US $1**.
+
+**Market Exchange Rate (MER)** = **flexible / floating ER** = ER from **demand and supply of dollars in India**. **Importers buy $**; **exporters sell $**. **Internationalisation of the rupee** is a later external-sector point.
+
+**GDP at MER:** ₹GDP converted to $ using MER. Class illustration: if MER = ₹90/$, $GDP = ₹GDP × (1/90). Newspaper **“$4 trillion+”** talk is **GDP at MER**.
+
+MER is **popular**, not **ideal** for India: **exports are only ~14–15% of GDP**, and MER is an **trade-FX** price. Imports are **not** part of GDP (they are subtracted).
+
+**Purchasing Power Parity (PPP)–based ER:** amount of ₹ needed in India to buy the **same Common Consumption Basket (CCB)** that $1 buys in the USA.  
+`PPP-ER (₹/$) = (expenditure on CCB in India, ₹) / (expenditure on CCB in USA, $)`  
+CCB ≈ **essentials** (food, fuels, clothing). History: **Big Mac Index** as a one-good shortcut.
+
+| | Use |
+|:---|:---|
+| **MER** | International **transactions** (export, import) |
+| **PPP-ER** | Non-trade comparisons — e.g. **World Bank poverty line $3 / person / day at PPP-ER** |
+
+Class numbers (order of magnitude, not to invent precision): for India **MER > PPP-ER** (~**₹80/$** MER vs ~**₹20/$** PPP) because **cost of living is lower** than in rich countries; MER is **higher** for an **import-dependent** country.
+
+**GDP at MER < GDP at PPP** (same ₹GDP, smaller divisor at PPP). Class rank: India **6th** at MER (sheet: earlier **4th**); **3rd** at **PPP**.
+
+**Per capita GDP = GDP / total population** — **better indicator of economic welfare** than raw GDP.
+
+<span style="color: #e53e3e;">**Prelims trap:** Official Indian GDP since 2015 is **GDP_MP**, not GDP_FC and not GDP_BP. **PPP** is for **welfare / poverty comparison**, not for invoicing exports. **$4 tn** headlines = **MER**.</span>
+
+---
+
+## Abbreviations used in Lecture 04
+
+| Short | Full |
+|:---|:---|
+| **NI / MP / FC / BP** | National Income / Market Price / Factor Cost / Basic Price |
+| **GVA / GDP / VA** | Gross Value Added / Gross Domestic Product / Value Added |
+| **UN SNA** | United Nations System of National Accounts (2008) |
+| **NSO / MoSPI** | National Statistical Office / Ministry of Statistics and Programme Implementation |
+| **GST** | Goods and Services Tax |
+| **COE / OS / MI** | Compensation of Employees / Operating Surplus / Mixed Income |
+| **PFCE** | Private Final Consumption Expenditure |
+| **MER / PPP / CCB / ER** | Market Exchange Rate / Purchasing Power Parity / Common Consumption Basket / Exchange Rate |
+| **MGNREGA / VB-G RAM G** | Mahatma Gandhi National Rural Employment Guarantee Act / Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin) |
+
+<!-- 2026-09-02: Lecture 04 last NI class — MP/FC/BP, production vs product tax, India GDP steps since 2015, MER vs PPP. Transcript + 5 sheets. -->
