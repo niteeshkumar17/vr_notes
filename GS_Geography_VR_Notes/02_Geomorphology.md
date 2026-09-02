@@ -1,13 +1,14 @@
 # 02 — Geomorphology (World Physical Geography — Chapter 1)
 
-> **Date of Lecture:** 8 August 2026 (Lecture A1)
+> **Date of Lecture:** 8 August 2026 (Lecture A1) + 9 August 2026 (Lecture A2)
 > **Date Added:** 2026-08-08
-> **Source:** Vajiram & Ravi class notes (Lecture A1) + Audio Transcript
+> **Teacher:** **Shiv Arpit Sir** (both Geomorphology lectures)
+> **Source:** Vajiram & Ravi — **Shiv Arpit Sir** | class notes (Lecture A1 + A2) + Audio Transcript
 > **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)
 
 ---
 
-### Lecture A1 — 8 August 2026
+### Lecture A1 — 8 August 2026 (Shiv Arpit Sir)
 
 ## References
 
@@ -339,11 +340,12 @@ Three theories that explain the arrangement of continents & ocean basins:
 <!-- ██  LECTURE A2 — 9 August 2026  ██ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-### Lecture A2 — 9 August 2026
+### Lecture A2 — 9 August 2026 (Shiv Arpit Sir)
 
 > **Date of Lecture:** 9 August 2026 (Lecture A2)
 > **Date Added:** 2026-08-09
-> **Source:** Vajiram & Ravi class notes (Lecture A2) + Audio Transcript
+> **Teacher:** **Shiv Arpit Sir**
+> **Source:** Vajiram & Ravi — **Shiv Arpit Sir** | class notes (Lecture A2) + Audio Transcript
 > **Topics Covered:** Endogenetic Forces (detailed), Energy Source for Endo, Earth's Evolution & Geological Time Scale, Hadean Eon & Giant Impact, Density Adjustment, Heat Transfer Mechanisms (Convection as driving mechanism), Interior of Earth (Approaches & Models 1–2)
 
 ---
@@ -854,3 +856,4 @@ graph TD
 
 <!-- 2026-08-08: Created from Vajiram Lecture A1 (Geomorphology intro). Covers Topics I & partial IX of syllabus. 6 handwritten pages + full audio transcript integrated. -->
 <!-- 2026-08-09: Lecture A2 integrated. Topics II (Endogenetic Forces) & III (Interior of Earth — Models 1 & 2) added. 7 handwritten pages + full audio transcript processed. Seismic Model (Model 3) to be elaborated in next class. -->
+<!-- 2026-09-02: Teacher recorded — both Geomorphology lectures (A1 8 Aug, A2 9 Aug) are Shiv Arpit Sir. -->

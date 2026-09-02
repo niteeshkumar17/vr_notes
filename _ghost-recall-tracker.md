@@ -148,7 +148,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 
 
-### Geography (Fundamentals & Geomorphology)
+### Geography (Fundamentals & Geomorphology — A1/A2 Shiv Arpit Sir)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | GEO-01-01 | Geodesy, Ellipsoid & Great Circle Geometry | 1 | ★★★☆☆ | Day 21 | 2026-09-03 | 100% | High 🌟 | 95% | 92% | 5 | 0 | - | 2026-08-13 | Fast 🟢 | `Earth Oblateness` $\leftrightarrow$ `Meridians` $\leftrightarrow$ `Flight Paths` |
