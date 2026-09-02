@@ -925,12 +925,12 @@ Expenditure method is used in India **mainly for policy making** (not primarily 
 
 ---
 
-### Lecture 04 — 2 September 2026
+### Lecture 04 — 2 September 2026 (Shyam Sundar Sir)
 
 > **Date of Lecture:** 2 September 2026  
 > **Date Added:** 2026-09-02  
-> **Teacher:** **BS Sir** — last class on **National Income** (continues Lecture 03, 20 August). Same calendar day as a second VR class (two-a-day from 24 August).  
-> **Source:** Vajiram & Ravi class + `Economy L020926_transcript.txt` + 5 handwritten pages (dated **2/9/26**)  
+> **Teacher:** **Shyam Sundar Sir (SS Sir)** — last class on **National Income** (continues Lecture 03, 20 August, which was BS Sir). Same calendar day as a second VR class (two-a-day from 24 August).  
+> **Source:** Vajiram & Ravi — **SS Sir** | class + `Economy L020926_transcript.txt` + 5 handwritten pages (dated **2/9/26**)  
 > **Also relevant for:** Prelims (GVA / GDP valuation); **GS-III** (GDP method since 2015, MER vs PPP); Mains comparison of old vs new GDP.
 
 ---
@@ -1055,4 +1055,4 @@ Class numbers (order of magnitude, not to invent precision): for India **MER > P
 | **MER / PPP / CCB / ER** | Market Exchange Rate / Purchasing Power Parity / Common Consumption Basket / Exchange Rate |
 | **MGNREGA / VB-G RAM G** | Mahatma Gandhi National Rural Employment Guarantee Act / Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin) |
 
-<!-- 2026-09-02: Lecture 04 last NI class — MP/FC/BP, production vs product tax, India GDP steps since 2015, MER vs PPP. Transcript + 5 sheets. -->
+<!-- 2026-09-02: Lecture 04 last NI class — SS Sir (Shyam Sundar). MP/FC/BP, production vs product tax, India GDP steps since 2015, MER vs PPP. Transcript + 5 sheets. -->

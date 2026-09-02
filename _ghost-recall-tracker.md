@@ -27,7 +27,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Overall Database Mastery:** 75.1% 📈
 *   **Today's Recall Completed:** 8 *(Ghost Recall 2 Sep — 7/8 after Q1 remark; atom: MST-034)*
 *   **Active Learning Gaps Detected:** 1 (`MST-034` Khalsa/Iqta flow)
-*   **New Topics Ingested Today:** **ECO-05** (BS Sir last NI — 2 Sep) — first review **3 Sep 2026** morning
+*   **New Topics Ingested Today:** **ECO-05** (SS Sir last NI — 2 Sep) — first review **3 Sep 2026** morning
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -272,7 +272,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-03-15 | Expenditure Method — GDP = C+I+G+NX Formula | 2 | ★★★★★ | Day 5 | 2026-08-28 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-23 | Fast 🟢 | `PFCE 55-60%` $\leftrightarrow$ `GDCF` $\leftrightarrow$ `GFCE` $\leftrightarrow$ `NX Negative India` $\leftrightarrow$ `Imports Hidden in C,I,G` |
 | ECO-03-16 | Expenditure Method for Policy Making & C-I Interrelation | 2 | ★★★★★ | Day 5 | 2026-08-28 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-23 | Fast 🟢 | `Employment Policy → C` $\leftrightarrow$ `Investment Promotion → I` $\leftrightarrow$ `Fiscal Policy → G` $\leftrightarrow$ `MSME PYQ` $\leftrightarrow$ `Savings → Investment` |
 
-### Economy (Lecture 04 — last NI, BS Sir, 2 Sep 2026)
+### Economy (Lecture 04 — last NI, SS Sir / Shyam Sundar, 2 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | ECO-05-01 | NI at MP / FC / BP; UN SNA 2008; India BP from 2015 | 2 | ★★★★★ | Day 1 | 2026-09-03 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MP = both net taxes` $\leftrightarrow$ `BP = production taxes only` $\leftrightarrow$ `FC = neither` $\leftrightarrow$ `UN SNA 2008` |

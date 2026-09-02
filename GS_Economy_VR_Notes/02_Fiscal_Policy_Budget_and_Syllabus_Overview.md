@@ -6,7 +6,7 @@
 *Lecture date: 2026-08-22*
 
 > **Source:** Vajiram & Ravi — **Shyam Sundar Sir (SS Sir)** | Economy Lecture 01 | Class Notes + Transcript  
-> **Other Economy notes:** National Income and Taxation are **BS Sir** (`01_Introduction_and_National_Income_Basics.md`, `03_Taxation.md`).
+> **Other Economy notes:** National Income L1–L3 and Taxation are **BS Sir**. **Last NI class (2 Sep — MP/FC/BP, GDP since 2015, MER/PPP)** is **SS Sir** (`01_Introduction_and_National_Income_Basics.md` Lecture 04). Taxation: `03_Taxation.md`.
 
 ---
 
