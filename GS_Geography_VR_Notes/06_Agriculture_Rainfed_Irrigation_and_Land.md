@@ -96,6 +96,8 @@ Most of UP from **Haridwar** toward **Varanasi** is a **flat alluvial plain**. C
 
 - **Arunachal Pradesh** hills named after tribes: **Dafla, Miri, Abor, Mishmi**. Himalaya from **Nanga Parbat (Kashmir)** to **Namcha Barwa (Arunachal)**; three parallel ranges (**Himadri / Himachal / Shiwalik**) continue — only the *names* change with the dominant tribe.
 - Hills bordering **Myanmar**, collectively **Purvanchal Hills**: **Patkai Bum, Naga, Manipur, Mizo / Lushai**, plus **Barail**.
+
+<span style="color: #e53e3e;">**Prelims trap:** **Dafla–Miri–Abor–Mishmi ≠ Purvanchal.** Those four are **Arunachal Himalaya** labels. **Purvanchal** = Patkai–Naga–Manipur–Mizo/Lushai (+ Barail), the Myanmar-border arc.</span>
 - **Meghalaya**: **Garo, Khasi, Jaintia** — **flat-topped plateaus**, *not* Himalaya; class: part of the **peninsular plateau** family (with Deccan, Chota Nagpur).
 - **Brahmaputra** occupies a **narrow valley** between Himalaya (north) and the Meghalaya plateau (south). Hill water dumps into the river → **April–September floods** are perennial in Assam.
 

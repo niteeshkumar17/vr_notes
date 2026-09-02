@@ -26,7 +26,7 @@
 | Current_Affairs | Current Affairs (18 August 2026) | 2026-08-18 | 0 | 0% | 2026-08-19 | New | 2015, 2020, 2022 | Added CA-260818-01 & CA-260818-02 (SC Elephant Corridors Survey, WPA 1972 Schedule I & State Blockade Ban; SHANTI Act 2025 Nuclear Liability Caps vs Absolute Liability M.C. Mehta & Art 21/32 Constitutional Tort). |
 | Current_Affairs | Current Affairs (19 August 2026) | 2026-08-19 | 0 | 0% | 2026-08-20 | New | 2018, 2020, 2021, 2023 | Added CA-260819-01 & CA-260819-02 (SC FRS Proportionality Scrutiny under Art 21/19(1)(b) & Puttaswamy 4-Prong Test; 12th BRICS Environment Ministers Joint Statement against EU CBAM Green Protectionism & Tripling COP30 Adaptation Finance). |
 | GS_History_VR_Notes | Modern India (L1–L2: Nationalism, INC Formation & Moderates) | 2026-08-25 | 5 | 75.0% | 2026-08-28 | Confident | 2015, 2017, 2019, 2022 | Mastered Lytton reactionary catalysts, Moderate demands & Famine Code 1883, Safety Valve vs Nationalist theory. Reviewing Moderate phase demands vs Swaraj trap (MST-030). |
-| Current_Affairs | Current Affairs (18–20 August 2026) | 2026-08-21 | 4 | 75.0% | 2026-08-24 | Confident | 2017, 2019, 2021, 2024 | Mastered Polygamy & Section 82 BNS / Shariat Act, FRS Puttaswamy 4-Prong Proportionality, Elephant Corridors Right of Passage. Reviewing CLND Act Sec 17 Right of Recourse (MST-023). |
+| Current_Affairs | Current Affairs (18–20 August 2026) | 2026-09-02 | 5 | 80.0% | 2026-09-17 | Confident | 2017, 2019, 2021, 2024 | Mastered Polygamy & Section 82 BNS / Shariat Act, FRS Puttaswamy 4-prong, Elephant Corridors. CLND operator liability + Sec 17(b) (`MST-023` Resolved 🟢). |
 | Current_Affairs | Current Affairs (21 August 2026) | 2026-08-21 | 0 | 0% | 2026-08-22 | New | 2016, 2018, 2021, 2024 | Added CA-260821-01 & CA-260821-02 (SC 9-Judge Bench: IRC 2020 Clean Slate vs 1978 Bangalore Water Supply Triple Test & Labour Welfare; Section 295A IPC / 299 BNS: 'Truth No Defence' Doctrine, Heckler's Veto & Ambedkar's Social Reform Priority). |
 | Current_Affairs | Current Affairs (22 August 2026) | 2026-08-22 | 0 | 0% | 2026-08-23 | New | 2015, 2017, 2021, 2024 | Added CA-260822-01 & CA-260822-02 (SC on MGNREGA vs VB-G RAM G Act, Right to Work Art 21 vs DPSP Art 41 & 60:40 Fiscal Federalism Shift; Rural Minimum Wages, Art 21 Dignity & Art 23 Forced Labour Jurisprudence PUDR/Sanjit Roy). |
 | GS_History_VR_Notes | Early Medieval India (L3: South Indian Kingdoms — Pallavas, Pandyas, Cheras, Cholas) | 2026-08-23 | 0 | 0% | 2026-08-24 | New | 2025, 2026 | Added HIS-EM-11 to HIS-EM-24 (14 micro-topics). Pallavas (Simhavishnu→Nandivarman III, Vichittrachitta 2025 PYQ, Chitrakarapuli, Mattavilasa Prahasana), Pandyas (Maravarman/Jadiyan titles 2026 PYQ), Cheras (Adan Cheral 2026 PYQ, Patittupattu, Silappadikaram, Kulashekar Alvar, Cheraman Perumal→Zamorins), Cholas (full dynasty tree Vijayalaya→Rajendra III 1279, Shiva-Vishnu clan, Sembiyan Mahadevi Chola Bronze, Brihadeshwara, Gangaikonda, Kulottunga Ramanujacharya, Marco Polo). |
@@ -41,9 +41,11 @@
 | GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-08-25 | 8 | 87.5% | 2026-08-28 | Confident | 2018, 2020, 2023, 2024 | Mastered MAT 14%, CGT holding periods, STT, Round Tripping, CII indexation, DTC, Limited DTAA. Reviewing SC DDT verdict DTAA vs MFN (MST-029). |
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
-| GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 1 | 67.0% | 2026-09-05 | Somewhat | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Reviewing Khalsa vs Iqta cash flow (`MST-034`, +1 day). |
+| GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 2 | 83.5% | 2026-09-05 | Confident | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Khalsa → treasury / Iqta = non-feudal salary (`MST-034` Resolved 🟢). |
 | GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | 2021 | Pre/proto/history + IVC proto; pottery Mesolithic exception / Neolithic feature; microliths; Neolithic Revolution. |
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
+| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | 2015, 2020 | Mastered MP includes both net taxes; fertilizer farmer vs company; MGNREGA ≠ transfer; official GDP since 2015 = GDP_MP. |
+| GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-02 | 1 | 83.3% | 2026-09-05 | Somewhat | 2024 | Mastered rainfed/GSA, Warabandi, census 86/66, FPC hybrid, canal share fall. Reviewing Purvanchal vs Dafla–Miri–Abor–Mishmi (`MST-035`). |
 
 
 ---
@@ -51,6 +53,14 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 19 — 2026-09-02 (Evening MCQ)
+- **Subject:** GS_Economy (L04 NI), GS_Geography (L3 rainfed/irrigation), Medieval Khalsa/Iqta, CLND
+- **Format:** 10 Prelims MCQs (batched; 30-min evening slot)
+- **Score:** 17.34 / 20.00 (Net Score: +18.00 − 0.66 = 17.34 | Accuracy: 90.00% — 9/10 correct | 1 Incorrect | 0 Unattempted)
+- **Strengths:** Khalsa → imperial treasury, Iqta non-feudal salary (`MST-034` Resolved 🟢); NI at MP vs FC vs BP; fertilizer farmer/company + MGNREGA ≠ transfer; Punjab irrigation vs GSA 1.5×; Warabandi head-reach; Census 86%/66%; FPC hybrid; canal share fell / Punjab WT; CLND operator liability + Sec 17(b) (`MST-023` Resolved 🟢).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-035 / Purvanchal ≠ Dafla–Miri–Abor–Mishmi:* Those four are **Arunachal Himalaya** tribe names. **Purvanchal** = Patkai–Naga–Manipur–Mizo/Lushai (+ Barail) (`MST-035` New Entry ⚠️). Due **17 Sep**.
 
 ### Session 18 — 2026-09-02 (Ghost Recall)
 - **Subject:** IR L1, Modern L5, Medieval Sultanate, Ancient Stone Age, Early Modern flash, INS Nipun
