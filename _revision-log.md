@@ -39,7 +39,7 @@
 | GS_ScienceTech_VR_Notes | S&T Lecture 1: Syllabus Overview & Public Health (Virology) | 2026-08-25 | 3 | 66.7% | 2026-08-28 | Confident | 2019, 2020, 2022, 2024 | Mastered Spike protein/ACE-2 receptor and virus genome either/or rule. Logged HBV DNA virus trap (MST-028). |
 | GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-08-26 | 0 | 0% | 2026-08-27 | New | 2014, 2018, 2021, 2024 | Added ST-02-01 to ST-02-15 (15 micro-topics: Cobalt-60 Radiotherapy, Food Irradiation & Radura, Mutagenic vs GM Crops, INS Arihant/SSBN P5+1, K-series SLBMs, Ballistic vs Cruise, Agni-5 MIRV, BrahMos, Nuclear Triad & NFU Second Strike). |
 | GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-08-25 | 8 | 87.5% | 2026-08-28 | Confident | 2018, 2020, 2023, 2024 | Mastered MAT 14%, CGT holding periods, STT, Round Tripping, CII indexation, DTC, Limited DTAA. Reviewing SC DDT verdict DTAA vs MFN (MST-029). |
-| GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 80.0% | 2026-09-05 | Confident | 2024 | Ghost Recall: 4 features + sign≠ratify locked. Reviewing IWT trigger = **Pahalgam 22 Apr 2025** not Pulwama (`MST-033`, +1 day). Cluster +3 except `IR-01-04`. |
+| GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
 | GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 1 | 67.0% | 2026-09-05 | Somewhat | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Reviewing Khalsa vs Iqta cash flow (`MST-034`, +1 day). |
 | GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | 2021 | Pre/proto/history + IVC proto; pottery Mesolithic exception / Neolithic feature; microliths; Neolithic Revolution. |
@@ -55,10 +55,10 @@
 ### Session 18 — 2026-09-02 (Ghost Recall)
 - **Subject:** IR L1, Modern L5, Medieval Sultanate, Ancient Stone Age, Early Modern flash, INS Nipun
 - **Format:** 8 clustered recall questions (60-min morning)
-- **Score:** 6 / 8 (Q3 passed with a one-line trap; two atomic fails)
-- **Strengths:** Four features of a state; signing ≠ ratification; Montford 1918/1919; Satyagraha Sept 1906; PBD 9 Jan 1915; Sultanate four pillars; Iltutmish Caliph + Tanka; pre/proto/history + IVC; pottery/microliths/Neolithic Revolution; 1717 Farman dastak scope; INS Nipun / HSL / Mumbai.
+- **Score:** 7 / 8 (Q1 remarked ✅ — sheet has **Pahalgam**; Q3 passed with a one-line trap; one atomic fail)
+- **Strengths:** Four features of a state; signing ≠ ratification; IWT 1960 / WB / **Pahalgam**; Montford 1918/1919; Satyagraha Sept 1906; PBD 9 Jan 1915; Sultanate four pillars; Iltutmish Caliph + Tanka; pre/proto/history + IVC; pottery/microliths/Neolithic Revolution; 1717 Farman dastak scope; INS Nipun / HSL / Mumbai.
 - **Weak Spots Logged to Mistake Bank:**
-  - *MST-033 / IWT trigger:* **Pahalgam 22 April 2025**, not Pulwama (`MST-033` New Entry ⚠️). Due **3 Sep**.
+  - *MST-033:* Voided — agent misread Pahalgam as Pulwama.
   - *MST-034 / Khalsa–Iqta:* Khalsa → **imperial treasury**; Iqta = salary assignment (~75% of revenue), **non-feudal** (`MST-034` New Entry ⚠️). Due **3 Sep**.
 
 ### Session 17 — 2026-09-01

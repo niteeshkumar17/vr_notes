@@ -25,8 +25,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Today's Date:** 2026-09-02
 *   **Active Micro-Topics:** 403
 *   **Overall Database Mastery:** 75.1% 📈
-*   **Today's Recall Completed:** 8 *(Ghost Recall 2 Sep — 6/8; atoms: MST-033, MST-034)*
-*   **Active Learning Gaps Detected:** 2 (`MST-033` Pahalgam ≠ Pulwama; `MST-034` Khalsa/Iqta flow)
+*   **Today's Recall Completed:** 8 *(Ghost Recall 2 Sep — 7/8 after Q1 remark; atom: MST-034)*
+*   **Active Learning Gaps Detected:** 1 (`MST-034` Khalsa/Iqta flow)
 *   **New Topics Ingested Today:** — *(2 Sep morning was first-pass, not ingest)*
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
@@ -554,7 +554,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | IR-01-01 | IR = IP = Geopolitics; Four Features of a State | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Sovereignty Territory Population Government` $\leftrightarrow$ `State = Country Not Punjab` $\leftrightarrow$ `Strait of Hormuz` $\leftrightarrow$ `Siliguri Chicken's Neck` |
 | IR-01-02 | Domestic Hierarchy vs International Anarchy; Hard Power | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Police Inside` $\leftrightarrow$ `No World Police` $\leftrightarrow$ `Diplomacy Limit` $\leftrightarrow$ `Military Last Resort` |
 | IR-01-03 | Finite Resources, Pax Silica, Realism vs Idealism | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Struggle for Power` $\leftrightarrow$ `Panchsheel 1954 → 1962` $\leftrightarrow$ `Realism Power` $\leftrightarrow$ `Idealism Law/UN` |
-| IR-01-04 | Treaties: Sign vs Ratify; Indus Waters Treaty 1960 / WB / Abeyance 2025; PCA Hague / Ratle | 3 | ★★★★★ | Day 1 | 2026-09-03 | 50% | Rising 📈 | 70% | 65% | 1 | 1 | 2026-09-02 | - | Pending | `World Bank` $\leftrightarrow$ `Pahalgam 22 Apr 2025` $\leftrightarrow$ `Sign ≠ Ratify` $\leftrightarrow$ `UNCLOS` $\leftrightarrow$ `PCA Hague Sean Murphy` $\leftrightarrow$ `Ratle HEP July 2027` |
+| IR-01-04 | Treaties: Sign vs Ratify; Indus Waters Treaty 1960 / WB / Abeyance 2025; PCA Hague / Ratle | 3 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `World Bank` $\leftrightarrow$ `Pahalgam 22 Apr 2025` $\leftrightarrow$ `Sign ≠ Ratify` $\leftrightarrow$ `UNCLOS` $\leftrightarrow$ `PCA Hague Sean Murphy` $\leftrightarrow$ `Ratle HEP July 2027` |
 | IR-01-05 | Balance of Power Internal/External; Wilson, League, UN 1945, P5 Veto | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `BOP` $\leftrightarrow$ `US Never Joined League` $\leftrightarrow$ `Collective Security` $\leftrightarrow$ `P5 Veto` |
 
 ---
@@ -566,8 +566,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
   1. Tomorrow **3 Sep** paper: yesterday’s classes (if any) + GEO-06 · GEO-07 (`_ghost-recall-schedule.md`)
-  2. Atomic **+1:** `MST-033` Pahalgam / `IR-01-04`; `MST-034` Khalsa–Iqta (`HIS-MED-19`)
-  3. Passed clusters return **5 Sep** (`IR-01`, `MOD-B5`, Medieval pillars, Ancient Stone Age, `CA-260901-01`)
+  2. Atomic **+1:** `MST-034` Khalsa–Iqta (`HIS-MED-19`)
+  3. Passed clusters return **5 Sep** (`IR-01` including IWT, `MOD-B5`, Medieval pillars, Ancient Stone Age, `CA-260901-01`)
   4. Do **not** re-quiz `MST-019` until **16 Sep**
 
 
