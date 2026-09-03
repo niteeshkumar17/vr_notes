@@ -38,7 +38,7 @@ Almost **all mass** sits in the nucleus. Nucleus held by the **strong nuclear fo
 
 **Z** = protons. **Mass number A** = protons + neutrons.
 
-Standard symbol: \(^{A}_{Z}\mathrm{X}\) (example \(^{12}_{6}\mathrm{C}\)).
+Standard symbol: **A/Z X** — mass number **A** top-left, atomic number **Z** bottom-left (example **¹²₆C**).
 
 **Isotopes** = same element (same **Z**) , different neutron number → different **A**. **Similar chemical properties** (same electrons); **nuclear properties can differ**.
 
@@ -46,9 +46,9 @@ Standard symbol: \(^{A}_{Z}\mathrm{X}\) (example \(^{12}_{6}\mathrm{C}\)).
 
 | Isotope | Notation (sheet) | Notes (class) |
 |:---|:---|:---|
-| **Protium** | \(^{1}_{1}\mathrm{H}\) | Ordinary; non-radioactive; makes \(\mathrm{H_2O}\) |
-| **Deuterium** | \(^{2}_{1}\mathrm{H}\) | Extra neutron; \(\mathrm{D_2O}\) = **heavy water** (needed in **nuclear reactors**, not as drinking water) |
-| **Tritium** | \(^{3}_{1}\mathrm{H}\) | **Scarce** on Earth; \(\mathrm{T_2O}\); **radioactive** |
+| **Protium** | **¹₁H** | Ordinary; non-radioactive; makes **H₂O** |
+| **Deuterium** | **²₁H** | Extra neutron; **D₂O** = **heavy water** (needed in **nuclear reactors**, not as drinking water) |
+| **Tritium** | **³₁H** | **Scarce** on Earth; **T₂O**; **radioactive** |
 
 **Carbon:** **C-12** non-radioactive / stable; **C-14** radioactive — used for **carbon dating**.
 
@@ -62,8 +62,8 @@ Standard symbol: \(^{A}_{Z}\mathrm{X}\) (example \(^{12}_{6}\mathrm{C}\)).
 
 | | What it is | Charge | Nucleus change (class) |
 |:---|:---|:---|:---|
-| **Alpha (α)** | **2 protons + 2 neutrons** = **helium nucleus** = \(\mathrm{He}^{2+}\) (“doubly charged helium”) | Positive | \(^{A}_{Z}X \xrightarrow{\alpha} {}^{A-4}_{Z-2}Y\) — **new element** |
-| **Beta (β⁻)** | **Fast-moving electron.** Inside: \(n \rightarrow p + e^{-}\); proton **stays** in the nucleus | Negative | \(^{A}_{Z}X \xrightarrow{\beta^{-}} {}^{A}_{Z+1}Y\) — **A unchanged, Z + 1** |
+| **Alpha (α)** | **2 protons + 2 neutrons** = **helium nucleus** = **He²⁺** (“doubly charged helium”) | Positive | **A/Z X --α--> (A−4)/(Z−2) Y** — **new element** |
+| **Beta (β⁻)** | **Fast-moving electron.** Inside: **n → p + e⁻**; proton **stays** in the nucleus | Negative | **A/Z X --β⁻--> A/(Z+1) Y** — **A unchanged, Z + 1** |
 | **Gamma (γ)** | **Energy only** (not a particle in this scheme) | — | No change of Z or A in the class picture |
 
 **Penetrating power:** **γ > β > α**. Class: α exposure is the *least* dangerous of the three in this ranking; **gamma is highly dangerous** (largest penetrating capacity).
