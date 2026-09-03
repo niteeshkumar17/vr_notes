@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-03
-*   **Active Micro-Topics:** 431
+*   **Active Micro-Topics:** 434
 *   **Overall Database Mastery:** 75.4% 📈
 *   **Today's Recall Completed:** 8 *(Ghost Recall 3 Sep — 6/8; atoms: MST-036–039)*
 *   **Active Learning Gaps Detected:** 4 (`MST-036` fertilizer axis; `MST-037` NSA 142; `MST-038` inversion = troposphere; `MST-039` Nationalist theory)
-*   **New Topics Ingested Today:** **ST-03** (S&T L09) + **ECO-06** (SS Sir deficits / FRBM; first Ghost Recall **4 Sep**)
+*   **New Topics Ingested Today:** **ST-03** (S&T L09) + **ECO-06** (SS Sir deficits / FRBM; first Ghost Recall **4 Sep**) + **CA-260903** (Today’s Current Affairs)
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -467,6 +467,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | CA-260901-01 | INS Nipun: 2nd Nistar-class DSV, HSL Visakhapatnam, Naval Dockyard Mumbai | 2 | ★★★★☆ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `INS Nipun A17` $\leftrightarrow$ `Nistar Class DSV` $\leftrightarrow$ `HSL Visakhapatnam` $\leftrightarrow$ `Submarine Rescue` $\leftrightarrow$ `Admiral Krishna Swaminathan` |
+| CA-260903-01 | UNEP “Limiting Overshoot”: Overshoot → Peak → Decline pathway; 1.5°C breach planning & 2100 return | 2 | ★★★★☆ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UNEP` $\leftrightarrow$ `Overshoot/Peak/Decline` $\leftrightarrow$ `1.5°C` $\leftrightarrow$ `2100` |
+| CA-260903-02 | SC directs TN to formulate rules for fishing vessel transit to EEZ (purse-seine regulation; cooperative federalism) | 3 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SC` $\leftrightarrow$ `TN` $\leftrightarrow$ `EEZ transit rules` $\leftrightarrow$ `Purse seine` |
+| CA-260903-03 | JCR upgrade: India credit rating moves A- → BBB+; borrowing at lower cost | 2 | ★★★★☆ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `JCR` $\leftrightarrow$ `A- to BBB+` $\leftrightarrow$ `Lower borrowing cost` $\leftrightarrow$ `Interest burden` |
 
 ---
 

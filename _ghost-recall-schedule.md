@@ -42,7 +42,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 |:---|:---|:---|:---|:---|
 | **Tue 2 Sep** | IR L1 + Modern India L5 (1 Sep classes) | Medieval Sultanate · Ancient Stone Age | Early Modern (tested, 1-line) | **MST-019** Zanskar (due 1 Sep) |
 | **Wed 3 Sep** | **ECO-05** (SS Sir, last NI) + **GEO-08** (rainfed / irrigation / land) | Geo climatology (GEO-06) · Geo agri-society (GEO-07) | Medieval **+3** starts 5 Sep; today: Modern L1–L3 flash | Strong Economy (fiscal) flash |
-| **Thu 4 Sep** | **ST-03** (S&T L09 atoms) + **ECO-06** (SS Sir deficits / FRBM) | Env ecosystem · Env climate action | Ancient **+3** | **MST-038** inversion (troposphere) · `MST-036`/`037`/`039` if one slot left |
+| **Thu 4 Sep** | **ST-03** (S&T L09 atoms) + **ECO-06** (SS Sir deficits / FRBM) | Env ecosystem · Env climate action | Ancient **+3** | **MST-038** inversion (troposphere) · `MST-036`/`037`/`039` or `CA-260903-01` if one slot left |
 | **Fri 5 Sep** | Previous classes | S&T nuclear · Economy tax | Medieval **+3** · **MST-022** Shyok/Nubra if using Q8 | — |
 | **Sat 6 Sep** | Previous classes | Polity President · Polity secularism / Preamble | GEO-06 **+3** · **MST-023** CLND | — |
 | **Sun 7 Sep** | Previous classes | Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow | GEO-07 **+3** | — |
