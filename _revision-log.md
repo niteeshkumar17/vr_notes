@@ -42,7 +42,7 @@
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
 | GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 2 | 83.5% | 2026-09-05 | Confident | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Khalsa → treasury / Iqta = non-feudal salary (`MST-034` Resolved 🟢). |
-| GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-04 | 2 | 50.0% | 2026-09-05 | Somewhat | 2021 | Proto=IVC held. Swapped pre-history and history (`MST-040`). Pottery / microliths still for Ghost Recall. |
+| GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-04 | 2 | 100% | 2026-09-05 | Confident | 2021 | Definitions held (no records / unread / can read). Q9 was a matching-slip; `MST-040` voided. |
 | GS_ScienceTech_VR_Notes | 03 — Atoms, Radioactivity, Elementary Particles (L09) | 2026-09-04 | 1 | 100% | 2026-09-07 | Confident | - | MCQ clean: Z=protons; p=uud; α A−4/Z−2; β⁻ Z+1; γ no A/Z change. Ghost Recall still due this morning. |
 | GS_Economy_VR_Notes | 04 — Deficits, FRBM (SS Sir L02) | 2026-09-04 | 1 | 100% | 2026-09-07 | Confident | 2023 | MCQ clean: FD excludes borrowing; Chakravarty 1997; low PD not always healthy; old FRBM RD 0.5%→0. Ghost Recall still due. |
 | GS_Environment_VR_Notes | Ecosystem + Climate (ENV-01 / ENV-02 first MCQ) | 2026-09-04 | 1 | 100% | 2026-09-07 | Confident | 2013, 2022 | Tansley; 10% rule; NPP=GPP−R; P sedimentary; CO₂ 420; N₂O only N-oxide GHG; UNFCCC 1992/1994. |
@@ -60,10 +60,10 @@
 ### Session 21 — 2026-09-04 (Morning MCQ, before Ghost Recall)
 - **Subject:** ST-03 atoms, ECO-06 deficits/FRBM, ENV-01/02, Ancient Stone Age, inversion atom
 - **Format:** 10 Prelims MCQs (batched; morning, then recall)
-- **Score:** 17.34 / 20.00 (Net Score: +18.00 − 0.66 = 17.34 | Accuracy: 90.00% — 9/10 correct | 1 Incorrect | 0 Unattempted)
-- **Strengths:** Identity = Z / p=uud / e⁻ lepton; α and β⁻ nucleus change, γ no A/Z; FD excludes borrowing; Chakravarty 1997 + old FRBM RD 0.5%; Tansley; 10% + NPP; CO₂ 420 ppm; N₂O / NOₓ / UNFCCC 1992≠1994; inversion primarily troposphere (`MST-038` Resolved 🟢).
+- **Score:** 17.34 / 20.00 on the bubble (Q9 option **d**). Concept on Q9 remarked ✅ — definitions held; `MST-040` voided.
+- **Strengths:** Identity = Z / p=uud / e⁻ lepton; α and β⁻ nucleus change, γ no A/Z; FD excludes borrowing; Chakravarty 1997 + old FRBM RD 0.5%; Tansley; 10% + NPP; CO₂ 420 ppm; N₂O / NOₓ / UNFCCC 1992≠1994; inversion primarily troposphere (`MST-038` Resolved 🟢); pre / proto / history **definitions**.
 - **Weak Spots Logged to Mistake Bank:**
-  - *MST-040 / Pre vs History:* Pre-history = **no writing** (Palaeolithic). History = **readable** (Vedic onwards). Proto = IVC was correct; A and C were swapped.
+  - *MST-040:* Voided — matching slip, not a concept miss.
 
 ### Session 20 — 2026-09-03 (Ghost Recall)
 - **Subject:** ECO-05, GEO-08, GEO-06, GEO-07, Modern L1–L3 flash, fiscal flash

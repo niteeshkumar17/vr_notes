@@ -26,7 +26,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Active Micro-Topics:** 434
 *   **Overall Database Mastery:** 75.4% 📈
 *   **Today's Recall Completed:** 0 *(Morning MCQ 9/10 done; Ghost Recall not yet)*
-*   **Active Learning Gaps Detected:** 4 (`MST-036` fertilizer; `MST-037` NSA 142; `MST-039` Nationalist theory; `MST-040` pre/proto/history)
+*   **Active Learning Gaps Detected:** 3 (`MST-036` fertilizer; `MST-037` NSA 142; `MST-039` Nationalist theory)
 *   **New Topics Ingested Today:** — (ST-03 + ECO-06 still due this morning)
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
@@ -578,7 +578,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| HIS-AI-01 | Pre-history / Proto-history / History Definitions | 1 | ★★★☆☆ | Day 1 | 2026-09-05 | 50% | Falling 📉 | 70% | 68% | 2 | 1 | 2026-09-04 | 2026-09-02 | Pending | `No Writing=Pre` $\leftrightarrow$ `IVC=Proto Unread` $\leftrightarrow$ `Vedic=History` $\leftrightarrow$ `MST-040` |
+| HIS-AI-01 | Pre-history / Proto-history / History Definitions | 1 | ★★★☆☆ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 2 | 0 | - | 2026-09-04 | Fast 🟢 | `No Written Records` $\leftrightarrow$ `IVC Undeciphered` $\leftrightarrow$ `Vedic Age Onwards` |
 | HIS-AI-02 | Geological Timeline: Palaeozoic → Mesozoic → Cenozoic & Epochs | 1 | ★★☆☆☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Fish → Reptiles → Mammals` $\leftrightarrow$ `Pleistocene Cycles` $\leftrightarrow$ `Holocene Warming` |
 | HIS-AI-03 | Pleistocene & Holocene Epochs + Anthropocene (Proposed) | 2 | ★★★☆☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ice Age Cycles` $\leftrightarrow$ `10,000 BC Warming` $\leftrightarrow$ `Industrial Revolution` $\leftrightarrow$ `Agriculture After Warming` |
 | HIS-AI-04 | Lower Palaeolithic: Oldowan Tools & Homo Habilis | 2 | ★★★★☆ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Olduvai Gorge Tanzania` $\leftrightarrow$ `Pebble/Chopper-Chopping Tools` $\leftrightarrow$ `Flaking Process` $\leftrightarrow$ `Homo Habilis` |
@@ -612,7 +612,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
   1. **Now:** Ghost Recall — **ST-03** + **ECO-06** · Env ecosystem · Env climate action · Ancient pottery + `MST-040`
-  2. Atomic due: `MST-036` fertilizer, `MST-037` NSA 142, `MST-039` Nationalist. **`MST-038` inversion Resolved** (MCQ Q10). `MST-040` due **5 Sep**
+  2. Atomic due: `MST-036` fertilizer, `MST-037` NSA 142, `MST-039` Nationalist. **`MST-038` inversion Resolved**. `MST-040` voided (definitions held; matching slip)
   3. Passed clusters return **5 Sep** (`IR-01` including IWT, `MOD-B5`, Medieval pillars, Ancient Stone Age, `CA-260901-01`)
   4. Do **not** re-quiz `MST-019` until **16 Sep**
 
