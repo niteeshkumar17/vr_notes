@@ -44,8 +44,8 @@
 | GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 2 | 83.5% | 2026-09-05 | Confident | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Khalsa → treasury / Iqta = non-feudal salary (`MST-034` Resolved 🟢). |
 | GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | 2021 | Pre/proto/history + IVC proto; pottery Mesolithic exception / Neolithic feature; microliths; Neolithic Revolution. |
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
-| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | 2015, 2020 | Mastered MP includes both net taxes; fertilizer farmer vs company; MGNREGA ≠ transfer; official GDP since 2015 = GDP_MP. |
-| GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-02 | 1 | 83.3% | 2026-09-05 | Somewhat | 2024 | Mastered rainfed/GSA, Warabandi, census 86/66, FPC hybrid, canal share fall. Reviewing Purvanchal vs Dafla–Miri–Abor–Mishmi (`MST-035`). |
+| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-03 | 2 | 75.0% | 2026-09-06 | Somewhat | 2015, 2020 | Mastered GDP_MP / FC / BP table; MGNREGA ≠ transfer. Reviewing fertilizer farmer=production / company=product (`MST-036`). |
+| GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 
 
 ---
@@ -53,6 +53,17 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 20 — 2026-09-03 (Ghost Recall)
+- **Subject:** ECO-05, GEO-08, GEO-06, GEO-07, Modern L1–L3 flash, fiscal flash
+- **Format:** 8 clustered recall questions (60-min morning)
+- **Score:** 6 / 8 (Q1–Q2 clusters advanced with atoms; Q3 inversion fail; Q5–Q6 clean; Q7 Nationalist invert; Q8 fiscal gist ok)
+- **Strengths:** Official GDP at MP; FC / BP / MP tax table; MGNREGA ≠ transfer; Purvanchal recovered (`MST-035` Resolved 🟢); Warabandi turn+bund; ELR vs NLR 6.5 °C/km; tropopause higher/colder at equator (convection); mauza + census-town triple; Harela = Uttarakhand sowing; SRI ≠ DSR; Pusa 30 d vs 15-day window; CH₄ via belching; Moderates no Swaraj; primary deficit = FD − interest; 5 petroleum + alcohol + electricity outside GST.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-036 / Fertilizer axis:* Farmer = **production** subsidy; company = **product** subsidy — not “farmer transfer / company two-sided payment.”
+  - *MST-037 / NSA:* **~142 million ha**, not 146 (146 = holdings 2015–16).
+  - *MST-038 / Inversion:* **Primarily troposphere**. Stratosphere warming is **not** inversion.
+  - *MST-039 / Nationalist theory:* INC = **Indian** brainchild. Hume/British creation = Safety Valve. Bengal **1905**.
 
 ### Session 19 — 2026-09-02 (Evening MCQ)
 - **Subject:** GS_Economy (L04 NI), GS_Geography (L3 rainfed/irrigation), Medieval Khalsa/Iqta, CLND
