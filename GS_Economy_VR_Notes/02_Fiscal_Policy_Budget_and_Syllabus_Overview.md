@@ -6,7 +6,7 @@
 *Lecture date: 2026-08-22*
 
 > **Source:** Vajiram & Ravi — **Shyam Sundar Sir (SS Sir)** | Economy Lecture 01 | Class Notes + Transcript  
-> **Other Economy notes:** National Income L1–L3 and Taxation are **BS Sir**. **Last NI class (2 Sep — MP/FC/BP, GDP since 2015, MER/PPP)** is **SS Sir** (`01_Introduction_and_National_Income_Basics.md` Lecture 04). Taxation: `03_Taxation.md`.
+> **Other Economy notes:** National Income L1–L3 and Taxation are **BS Sir**. **Last NI class (2 Sep — MP/FC/BP, GDP since 2015, MER/PPP)** is **SS Sir** (`01_Introduction_and_National_Income_Basics.md` Lecture 04). Taxation: `03_Taxation.md`. **Deficits & FRBM in full — Lecture 02, 3 September 2026:** `04_Deficits_FRBM_and_Fiscal_Consolidation.md`.
 
 ---
 
@@ -310,7 +310,7 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 | 5 | **Effective Revenue Deficit** | No (Historical/Academic) |
 | 6 | **PSBR** (Public Sector Borrowing Requirement) | No (Historical/Academic) |
 
-> *Detailed formulas and concepts to be covered in subsequent classes.*
+> *Detailed formulas, 1997 shift, and FRBM targets: **Lecture 02 — 3 September 2026** (`04_Deficits_FRBM_and_Fiscal_Consolidation.md`).*
 
 ---
 

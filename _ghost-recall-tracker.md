@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-03
-*   **Active Micro-Topics:** 423
+*   **Active Micro-Topics:** 431
 *   **Overall Database Mastery:** 75.4% 📈
 *   **Today's Recall Completed:** 8 *(Ghost Recall 3 Sep — 6/8; atoms: MST-036–039)*
 *   **Active Learning Gaps Detected:** 4 (`MST-036` fertilizer axis; `MST-037` NSA 142; `MST-038` inversion = troposphere; `MST-039` Nationalist theory)
-*   **New Topics Ingested Today:** **ST-03** (S&T L09 — atoms, radioactivity, elementary particles; first Ghost Recall **4 Sep**)
+*   **New Topics Ingested Today:** **ST-03** (S&T L09) + **ECO-06** (SS Sir deficits / FRBM; first Ghost Recall **4 Sep**)
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -291,6 +291,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-05-02 | Production vs Product Tax/Subsidy; Transfers vs Two-sided | 3 | ★★★★★ | Day 1 | 2026-09-04 | 50% | Rising 📈 | 70% | 68% | 1 | 1 | 2026-09-03 | - | Pending | `Land Revenue/Stamp Duty` $\leftrightarrow$ `GST/Excise` $\leftrightarrow$ `Fertilizer Farmer=Production NOT Transfer-vs-Payment` $\leftrightarrow$ `Company=Product Subsidy` $\leftrightarrow$ `MGNREGA ≠ Transfer` |
 | ECO-05-03 | GDP steps since 2015: GVA_BP → official GDP_MP; old = GDP_FC | 3 | ★★★★★ | Day 3 | 2026-09-06 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-03 | Fast 🟢 | `VA primary+reg mfg` $\leftrightarrow$ `Income other sectors` $\leftrightarrow$ `GDP_MP = GDP_BP + Net Product Taxes` $\leftrightarrow$ `45-48% product tax India` |
 | ECO-05-04 | MER vs PPP-ER; GDP at MER < PPP; per capita GDP | 2 | ★★★★★ | Day 1 | 2026-09-03 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Importers buy $` $\leftrightarrow$ `Exports 14-15% GDP` $\leftrightarrow$ `PPP CCB` $\leftrightarrow$ `WB $3/day PPP` $\leftrightarrow$ `India 6th MER / 3rd PPP` |
+
+### Economy (Deficits & FRBM — SS Sir Lecture 02, 3 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-06-01 | Budget vs Fiscal Deficit; Non-Debt CR = Recovery + Disinvestment | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `BD Includes Borrowing` $\leftrightarrow$ `FD Except Borrowing` $\leftrightarrow$ `WMA 90 Days` |
+| ECO-06-02 | Pre-1997 Monetised Deficit + RBI Window; Chakravarty → Market Finance | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Printing Most Inflationary` $\leftrightarrow$ `Deficit Financing WB/ADB/NDB/Bonds` $\leftrightarrow$ `Sukhamoy Chakravarty 1997` |
+| ECO-06-03 | Market Borrowing: Crowding Out; 4% ± 2 Inflation; Demand Without Output | 3 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Govt Securities Crowd Out Private` $\leftrightarrow$ `Interest = Price of Money` $\leftrightarrow$ `India 4±2` |
+| ECO-06-04 | RD Widens via Interest; Rating Agencies; Low Primary Deficit ≠ Healthy | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `RD=RE−RR` $\leftrightarrow$ `PD=FD−Interest` $\leftrightarrow$ `S&P Moody's Fitch` $\leftrightarrow$ `Old Interest Trap` |
+| ECO-06-05 | Effective RD: Mukherjee 2012; Subtract State Grants for Assets | 2 | ★★★★☆ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pranab Mukherjee` $\leftrightarrow$ `Net Adverse Impact` $\leftrightarrow$ `Not Headline RD` |
+| ECO-06-06 | PSBR = Centre+State FD + PSU Off-Budget; Rangarajan/Jalan; 16th FC Stop | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Headline FD = Centre Only` $\leftrightarrow$ `IOC 70k/10k/60k` $\leftrightarrow$ `Off-Budget Stop 16th FC` |
+| ECO-06-07 | Old FRBM 2003 Kelkar: RD 0.5%/yr → 0; FD 0.3%/yr → 3% by 2008-09 | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Passed 2003 Path 2004-09` $\leftrightarrow$ `Consolidation = Cut Exp + Raise Rev` $\leftrightarrow$ `Not Achieved` |
+| ECO-06-08 | NK Singh: RD 2.1→0.8; FD 3% then 2.5%; Escape ±0.5%; Debt 70→60 | 3 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `May 2016 Report 2017` $\leftrightarrow$ `Fiscal Council` $\leftrightarrow$ `Rename Debt Management` $\leftrightarrow$ `ET 2022 1% GSDP` $\leftrightarrow$ `MoRD 80/20` |
 
 ### Polity (Abhey Kumar — Lecture 1)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -596,7 +608,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. Tomorrow **4 Sep** paper: **ST-03** (Q1–Q2) · Env ecosystem · Env climate action + Ancient **+3** (`_ghost-recall-schedule.md`)
+  1. Tomorrow **4 Sep** paper: **ST-03** + **ECO-06** (Q1–Q2) · Env ecosystem · Env climate action + Ancient **+3** (`_ghost-recall-schedule.md`)
   2. Atomic **+1:** `MST-038` inversion = troposphere (Q8). Also due: `MST-036` fertilizer, `MST-037` NSA 142, `MST-039` Nationalist theory
   3. Passed clusters return **5 Sep** (`IR-01` including IWT, `MOD-B5`, Medieval pillars, Ancient Stone Age, `CA-260901-01`)
   4. Do **not** re-quiz `MST-019` until **16 Sep**
