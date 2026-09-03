@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-03
-*   **Active Micro-Topics:** 415
+*   **Active Micro-Topics:** 423
 *   **Overall Database Mastery:** 75.4% 📈
 *   **Today's Recall Completed:** 8 *(Ghost Recall 3 Sep — 6/8; atoms: MST-036–039)*
 *   **Active Learning Gaps Detected:** 4 (`MST-036` fertilizer axis; `MST-037` NSA 142; `MST-038` inversion = troposphere; `MST-039` Nationalist theory)
-*   **New Topics Ingested Today:** — (first review of **ECO-05** + **GEO-08** done this morning)
+*   **New Topics Ingested Today:** **ST-03** (S&T L09 — atoms, radioactivity, elementary particles; first Ghost Recall **4 Sep**)
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -526,6 +526,17 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-02-14 | India's Nuclear Triad: Operational Integration of Land, Air (Sukhoi-30 MKI) & Sea Legs | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Land=Agni/Prithvi` $\leftrightarrow$ `Air=Sukhoi-30+BrahMos` $\leftrightarrow$ `Sea=Arihant+K-Series` $\leftrightarrow$ `Complete Triad` |
 | ST-02-15 | India's Nuclear Doctrine: Credible Minimum Deterrence, Second-Strike Assurance & NFU Policy | 2 | ★★★★★ | Day 1 | 2026-08-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Deterrence NOT Aggression` $\leftrightarrow$ `No First Use NFU` $\leftrightarrow$ `Massive Retaliation` $\leftrightarrow$ `Submerged SSBN Second Strike` |
 
+### Science & Technology (Atoms, Radioactivity & Elementary Particles — Lecture 09, 3 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ST-03-01 | Atom Identity = Z (Protons); p=uud n=udd + Gluons; e = Lepton | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Z=Protons=Element` $\leftrightarrow$ `A=p+n` $\leftrightarrow$ `p Not Elementary` $\leftrightarrow$ `Rutherford Chadwick Thomson` |
+| ST-03-02 | Isotopes: Same Z Different A; Protium Deuterium Tritium; C-12 vs C-14 | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Same Chemistry` $\leftrightarrow$ `D2O Heavy Water Reactors` $\leftrightarrow$ `Tritium Scarce Radioactive` $\leftrightarrow$ `C-14 Dating` |
+| ST-03-03 | Radioactivity: α = He Nucleus A−4 Z−2; β− = n→p+e− Z+1; γ Energy | 3 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `He2+ Doubly Charged` $\leftrightarrow$ `Beta Not Orbital Electron` $\leftrightarrow$ `Penetration γ>β>α` $\leftrightarrow$ `Spontaneous Stability` |
+| ST-03-04 | Half-Life: 2× ≠ Gone; Tc-99m ~6 h; C-14 ~5,000 y; Chernobyl 1986 Ukraine | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cannot Alter Half-Life` $\leftrightarrow$ `Tc-99m Diagnosis` $\leftrightarrow$ `C-14 Food Chain Then Decay` $\leftrightarrow$ `Long Half-Life Abandonment` |
+| ST-03-05 | Fermions (6 Quarks + 6 Leptons) vs Bosons (Gluon Photon W/Z Graviton) | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Matter vs Force` $\leftrightarrow$ `Strange Charm` $\leftrightarrow$ `Higgs Outside 4-Force Table` $\leftrightarrow$ `LHC 2012 God Particle` |
+| ST-03-06 | Quarks: Fractional Charge All 4 Forces; Leptons No Strong; Hadrons Not Elementary | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `±1/3 ±2/3` $\leftrightarrow$ `Lepton No Strong Force` $\leftrightarrow$ `Proton Neutron = Hadrons` |
+| ST-03-07 | Neutrinos Ghost Particles; INO Theni / Bodi West Hills / 1.2 km; IceCube Antarctica | 2 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `2nd After Photons` $\leftrightarrow$ `Rarely Interact` $\leftrightarrow$ `INO Tamil Nadu` $\leftrightarrow$ `IceCube Not India` |
+| ST-03-08 | S.N. Bose ≠ J.C. Bose; Plasma vs BEC; Particle + Antiparticle → Photons | 2 | ★★★★☆ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bose-Einstein Statistics` $\leftrightarrow$ `Plasma Ionised Gas Stars` $\leftrightarrow$ `Positron` $\leftrightarrow$ `Mains Indians in S&T` |
 
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -585,7 +596,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. Tomorrow **4 Sep** paper: Env ecosystem · Env climate action + Ancient **+3** (`_ghost-recall-schedule.md`)
+  1. Tomorrow **4 Sep** paper: **ST-03** (Q1–Q2) · Env ecosystem · Env climate action + Ancient **+3** (`_ghost-recall-schedule.md`)
   2. Atomic **+1:** `MST-038` inversion = troposphere (Q8). Also due: `MST-036` fertilizer, `MST-037` NSA 142, `MST-039` Nationalist theory
   3. Passed clusters return **5 Sep** (`IR-01` including IWT, `MOD-B5`, Medieval pillars, Ancient Stone Age, `CA-260901-01`)
   4. Do **not** re-quiz `MST-019` until **16 Sep**

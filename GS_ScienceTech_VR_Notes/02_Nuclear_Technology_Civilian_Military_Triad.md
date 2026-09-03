@@ -5,6 +5,7 @@
 > **Date:** 26 August 2026 | **Faculty:** Shobhit Sir | **Subject:** Science & Technology (Lecture 08)
 > **Source Material:** Class Notes (3 Pages) + Audio Transcript
 > **Topic Blueprint:** Nuclear Tech (Civilian Non-Energy & Military) $\rightarrow$ Food Irradiation & Agriculture $\rightarrow$ Nuclear Submarines $\rightarrow$ Ballistic vs Cruise Missiles $\rightarrow$ Nuclear Triad & NFU Doctrine
+> **Continued:** atoms, radioactivity, elementary particles — **Lecture 09 (3 September 2026)** in `03_Atoms_Radioactivity_and_Elementary_Particles.md`
 
 ---
 
