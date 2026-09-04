@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-04
-*   **Active Micro-Topics:** 452
+*   **Active Micro-Topics:** 454
 *   **Overall Database Mastery:** 75.1% 📉
 *   **Today's Recall Completed:** 8 (5/8) · Morning MCQ 9/10 earlier
 *   **Active Learning Gaps Detected:** 5 (`MST-036` fertilizer repeat; `MST-037` NSA 142; `MST-039` Nationalist; `MST-041` NPP=GPP−R; `MST-042` two engines)
-*   **New Topics Ingested Today:** **IR-02** (Varma Sir UN) + **ST-04** (Vinay Krishna space intro) — first due **5 Sep**
+*   **New Topics Ingested Today:** **IR-02** + **ST-04** + **CA-260904** (Bang HBNC / WMO El Niño) — first due **5 Sep**. Stubble CAQM clip = patch on **GEO-07-10**, no extra Day-1.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -212,7 +212,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-07-07 | Agri↔CC: FAO 18% GHGs; Short/Long Wave; Tropics Hit Harder | 2 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hot=Short Wave / Cool=Long Wave` $\leftrightarrow$ `Natural Tilt+Orbit+Sunspot` $\leftrightarrow$ `Present Rate Anthropogenic` $\leftrightarrow$ `FAO 18% Agri+LUC` $\leftrightarrow$ `Slash-and-Burn` $\leftrightarrow$ `Sal Terai Partition Settlement` $\leftrightarrow$ `Tropics People+12mo+Poor` |
 | GEO-07-08 | Transplantation Methane vs DSR + AWD (SRI Is Not DSR) | 3 | ★★★★★ | Day 3 | 2026-09-07 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-03 | Fast 🟢 | `Water=Herbicide 7-8d` $\leftrightarrow$ `Anaerobic CH4 ~10% World` $\leftrightarrow$ `DSR Drill + AWD 15 Irrig` $\leftrightarrow$ `Punjab 2026 +36% >4 Lakh ha` $\leftrightarrow$ `Weed Challenge` $\leftrightarrow$ `SRI Still Transplant` |
 | GEO-07-09 | Livestock Enteric Methane, Breed-Diet Gap and Non-Veg Milk | 2 | ★★★★☆ | Day 3 | 2026-09-07 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-03 | Fast 🟢 | `CH4 via Belching > Paddy` $\leftrightarrow$ `AI Raised Herd Size` $\leftrightarrow$ `Gir 3.5L vs Israel 35L` $\leftrightarrow$ `Blood Meal / Intestine Feed` $\leftrightarrow$ `8 Cr Backyard Dairy` |
-| GEO-07-10 | Stubble Burning: 15-Day Window, Pusa-44 vs PR, Haryana Cash, Satellite Gap | 3 | ★★★★★ | Day 3 | 2026-09-07 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-03 | Fast 🟢 | `15-Day Rice-Wheat Window` $\leftrightarrow$ `Pusa Decomposer 30d` $\leftrightarrow$ `15 Jun±5 Transplant Ban` $\leftrightarrow$ `Pusa-44 vs PAU PR-128` $\leftrightarrow$ `HR Cash > PB Machines` $\leftrightarrow$ `Evening Fires vs Satellite` $\leftrightarrow$ `MB Plough + Super SMS` $\leftrightarrow$ `4-Point: Tech/Cash/Enforce/Cropping` |
+| GEO-07-10 | Stubble Burning: 15-Day Window, Pusa-44 vs PR, Haryana Cash, Satellite Gap | 3 | ★★★★★ | Day 3 | 2026-09-07 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-03 | Fast 🟢 | `15-Day Rice-Wheat Window` $\leftrightarrow$ `Pusa Decomposer 30d` $\leftrightarrow$ `15 Jun±5 Transplant Ban` $\leftrightarrow$ `Pusa-44 vs PAU PR-128` $\leftrightarrow$ `HR Cash > PB Machines` $\leftrightarrow$ `Evening Fires vs Satellite` $\leftrightarrow$ `MB Plough + Super SMS` $\leftrightarrow$ `4-Point: Tech/Cash/Enforce/Cropping` $\leftrightarrow$ `CAQM+ISRO Protocol` $\leftrightarrow$ `1:30pm 2020 → 5pm 2024` $\leftrightarrow$ `Winter PM ≤15% / Spike 44%` $\leftrightarrow$ `Punjab 90% Since 2021 Exaggerated` |
 
 ### Geography (Agriculture — Rainfed, Irrigation & Land — Lecture 3, 2 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -470,6 +470,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260903-01 | UNEP “Limiting Overshoot”: Overshoot → Peak → Decline pathway; 1.5°C breach planning & 2100 return | 2 | ★★★★☆ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UNEP` $\leftrightarrow$ `Overshoot/Peak/Decline` $\leftrightarrow$ `1.5°C` $\leftrightarrow$ `2100` |
 | CA-260903-02 | SC directs TN to formulate rules for fishing vessel transit to EEZ (purse-seine regulation; cooperative federalism) | 3 | ★★★★★ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SC` $\leftrightarrow$ `TN` $\leftrightarrow$ `EEZ transit rules` $\leftrightarrow$ `Purse seine` |
 | CA-260903-03 | JCR upgrade: India credit rating moves A- → BBB+; borrowing at lower cost | 2 | ★★★★☆ | Day 1 | 2026-09-04 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `JCR` $\leftrightarrow$ `A- to BBB+` $\leftrightarrow$ `Lower borrowing cost` $\leftrightarrow$ `Interest burden` |
+| CA-260904-01 | Abhay Bang: Hospital + Home; SEARCH Gadchiroli HBNC 62.2%; JSY Fill vs SNCU Safety | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Institutional 39%→90%` $\leftrightarrow$ `SNCU +28%` $\leftrightarrow$ `Lancet 1999` $\leftrightarrow$ `1800g / 34w Home` $\leftrightarrow$ `8 Lakh ASHA` |
+| CA-260904-02 | WMO Supersized El Niño: Near-100% through Feb 2027; Strongest on Record; Saulo | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Eastern Pacific Warming` $\leftrightarrow$ `Trade Winds Weaken` $\leftrightarrow$ `2–7 yr / 9–12 mo` $\leftrightarrow$ `Latin America Droughts` |
 
 ---
 
@@ -637,7 +639,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (5 Sep) Q1–Q2:** **IR-02** (Varma Sir UN) + **ST-04** (Vinay Krishna space)
+  1. **Tomorrow (5 Sep) Q1–Q2:** **IR-02** (Varma Sir UN) + **ST-04** (Vinay Krishna space). **CA-260904** (Bang / El Niño) is Day-1 but does **not** replace those two class slots
   2. **Q3–Q6:** S&T nuclear · Economy tax (schedule). **Q7:** Medieval **+3**. **Q8:** `MST-036` (repeat) + `MST-041` NPP / `MST-042` engines if a slot
   3. Atomic due **5 Sep:** `MST-036` fertilizer invert, `MST-037` NSA 142, `MST-039` Nationalist, `MST-041` NPP=GPP−R, `MST-042` two engines. ECO-06-08 NK Singh 2.5%/2023–24
   4. Passed clusters: **ST-03** + **ECO-06** (except 08) + ENV Tansley/10%/UNFCCC/N₂O → **7 Sep**. Ancient pottery still **5 Sep** (+3)

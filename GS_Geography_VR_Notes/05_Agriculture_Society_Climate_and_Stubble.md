@@ -380,6 +380,16 @@ Class examples:
 - **Shifting / slash-and-burn:** cut, burn, crop a few seasons without fertiliser, abandon when fertility falls, repeat. Primitive land-use change.
 - **Partition refugees** given land in **Punjab**, **Ganganagar (Rajasthan)**, **Yamunanagar (Haryana)**, and the **Terai** belt (**Udham Singh Nagar, Uttarakhand**; **Lakhimpur Kheri, UP**) — once **dense sal jungle**, now fields. Many **Sikh** settlements in this Terai belt.
 
+### Update — 4 September 2026 (*The Hindu* — CAQM + ISRO; not a new topic)
+
+**Commission for Air Quality Management (CAQM)** in the National Capital Region (NCR) and Adjoining Areas has asked the **Indian Space Research Organisation (ISRO)** for a **basic protocol** that goes beyond **fire counts**. Chairman **Rajesh Varma**: satellite-pass counts “may not be the most accurate picture.” Need better **ground-truthing**.
+
+Satellites still struggle with **straw quantity, moisture, combustion efficiency, and per-pollutant emission factors**.
+
+**Share (clip, not the class year-round 14%):** farm fires **≤15%** of winter particulate matter over the whole season; can spike to **~44%** in some **October–November** weeks.
+
+**ISRO Space Applications Centre (SAC) study:** peak fire activity shifted from **1:30 p.m. (2020)** to **~5:00 p.m. (2024)** — after the **two polar-orbiting** day-time passes. That is why Punjab’s claimed **90% drop since 2021** is treated as **exaggerated** (same “sensor gap” the 30 August class already flagged via **IFEST 2025**).
+
 ---
 
 ## UPSC Cues
@@ -395,6 +405,7 @@ Class examples:
 - Livestock CH₄ **> paddy**; **enteric / belching**; **non-veg milk** = blood meal / meat in feed.
 - Stubble: **15-day** rice–wheat window; **Pusa decomposer = 30 days**; **15 June ± 5** transplant ban (2009); **Pusa-44 vs PAU PR-12x**; **Happy/Super Seeder** opex; **Haryana cash > Punjab machines**; **evening fires vs satellite**; long-term = **leave rice**.
 - **2 Sep add-on:** four-point stubble list includes **MB plough** + **Super SMS**; **land-use change** = slash-and-burn + **sal Terai** cleared for Partition settlement (**Ganganagar, Yamunanagar, Udham Singh Nagar, Lakhimpur Kheri**). Full rainfed/irrigation class → `06_...`.
+- **4 Sep paper:** **CAQM** (Rajesh Varma) + **ISRO / SAC** protocol beyond fire counts; winter PM **≤15%** / weekly spike **~44%**; peak burn **1:30 p.m. (2020) → ~5 p.m. (2024)** vs two polar day-passes; Punjab **90% since 2021** = exaggerated.
 
 ---
 
@@ -426,6 +437,8 @@ Class examples:
 | **SW / NE** | South-West / North-East (monsoon) |
 | **UP / MP / MH / TN / HR / RJ / HP / KA / AP / TG / GJ / WB / UK** | Uttar Pradesh / Madhya Pradesh / Maharashtra / Tamil Nadu / Haryana / Rajasthan / Himachal Pradesh / Karnataka / Andhra Pradesh / Telangana / Gujarat / West Bengal / **Uttarakhand** (not the United Kingdom) |
 | **MB plough / Super SMS** | Mouldboard plough / Super Straw Management System |
+| **CAQM** | Commission for Air Quality Management (NCR and Adjoining Areas) |
+| **SAC** | Space Applications Centre (ISRO) |
 
 ---
 
