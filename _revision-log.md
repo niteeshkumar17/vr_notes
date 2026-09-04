@@ -42,12 +42,12 @@
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
 | GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 2 | 83.5% | 2026-09-05 | Confident | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Khalsa → treasury / Iqta = non-feudal salary (`MST-034` Resolved 🟢). |
-| GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-04 | 2 | 100% | 2026-09-05 | Confident | 2021 | Definitions held (no records / unread / can read). Q9 was a matching-slip; `MST-040` voided. |
-| GS_ScienceTech_VR_Notes | 03 — Atoms, Radioactivity, Elementary Particles (L09) | 2026-09-04 | 1 | 100% | 2026-09-07 | Confident | - | MCQ clean: Z=protons; p=uud; α A−4/Z−2; β⁻ Z+1; γ no A/Z change. Ghost Recall still due this morning. |
-| GS_Economy_VR_Notes | 04 — Deficits, FRBM (SS Sir L02) | 2026-09-04 | 1 | 100% | 2026-09-07 | Confident | 2023 | MCQ clean: FD excludes borrowing; Chakravarty 1997; low PD not always healthy; old FRBM RD 0.5%→0. Ghost Recall still due. |
-| GS_Environment_VR_Notes | Ecosystem + Climate (ENV-01 / ENV-02 first MCQ) | 2026-09-04 | 1 | 100% | 2026-09-07 | Confident | 2013, 2022 | Tansley; 10% rule; NPP=GPP−R; P sedimentary; CO₂ 420; N₂O only N-oxide GHG; UNFCCC 1992/1994. |
+| GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-04 | 3 | 83.5% | 2026-09-05 | Confident | 2021 | Pottery **appeared** Mesolithic held. Trap: **feature** of pottery is **Neolithic**; “stones as tools” is Palaeolithic. |
+| GS_ScienceTech_VR_Notes | 03 — Atoms, Radioactivity, Elementary Particles (L09) | 2026-09-04 | 2 | 100% | 2026-09-07 | Confident | - | Ghost Recall clean (Shobhit Sir): p=uud / n=udd; 25% after 2 half-lives; Tc-99m 6 h; C-14 ~5000 y; INO Theni / Bodi West Hills / 1.2 km. Cluster +3. |
+| GS_Economy_VR_Notes | 04 — Deficits, FRBM (SS Sir L02) | 2026-09-04 | 2 | 87.5% | 2026-09-07 | Confident | 2023 | Non-debt CR, WMA 90 days, PD=FD−interest, escape ±0.5% held. Reviewing NK Singh: **3% by 2017–18, stay 3 yrs, then 2.5% by 2023–24** (ECO-06-08). |
+| GS_Environment_VR_Notes | Ecosystem + Climate (ENV-01 / ENV-02) | 2026-09-04 | 2 | 50.0% | 2026-09-07 | Somewhat | 2013, 2022 | Tansley / 10% / P sedimentary / UNFCCC 1992/1994 / N₂O held. Reviewing NPP=GPP−R (`MST-041`) and two engines = GHG + sinks (`MST-042`). |
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
-| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-03 | 2 | 75.0% | 2026-09-06 | Somewhat | 2015, 2020 | Mastered GDP_MP / FC / BP table; MGNREGA ≠ transfer. Reviewing fertilizer farmer=production / company=product (`MST-036`). |
+| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-03 | 3 | 66.7% | 2026-09-05 | Somewhat | 2015, 2020 | MGNREGA ≠ transfer held again. Fertilizer axis inverted a second time (`MST-036` Repeat 2). |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 
 
@@ -56,6 +56,17 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 22 — 2026-09-04 (Ghost Recall)
+- **Subject:** ST-03 (Shobhit Sir atoms), ECO-06 (SS Sir deficits/FRBM), ENV-01/02 catch-up, Ancient pottery, MST-036 fertilizer
+- **Format:** 8 clustered recall questions (60-min morning)
+- **Score:** 5 / 8 (Q1, Q2, Q3, Q6, Q7 pass; Q4, Q5, Q8 fail)
+- **Strengths:** p=uud / n=udd; 25% after 2 half-lives; Tc-99m 6 h; C-14 ~5000 y; INO Theni / Bodi West Hills / 1.2 km; non-debt CR + WMA 90 days + PD=FD−interest + escape ±0.5%; 10% rule / 4–5 levels; P sedimentary; UNFCCC 1992/1994; N₂O only N-oxide GHG / NOₓ via tropospheric O₃; pottery appeared Mesolithic; MGNREGA ≠ transfer.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-036 / Fertilizer axis (Repeat 2):* Farmer = **production**; company = **product**. He inverted again.
+  - *MST-041 / NPP:* **NPP = GPP − R** (~80% of GPP). Naming NPP is not enough.
+  - *MST-042 / Two engines:* **GHG rise + shrinking sinks**, not GHG + CO₂.
+- **Traps (no new MST):** A.G. Tansley not A.S.; NK Singh stay **3%** three years then **2.5% by 2023–24**; pottery **feature** = Neolithic.
 
 ### Session 21 — 2026-09-04 (Morning MCQ, before Ghost Recall)
 - **Subject:** ST-03 atoms, ECO-06 deficits/FRBM, ENV-01/02, Ancient Stone Age, inversion atom
