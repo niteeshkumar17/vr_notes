@@ -127,20 +127,34 @@ Walk up from Earth’s curvature. Imaginary boundary at **100 km** = **Kármán 
 **United Nations Outer Space Treaty (OST), 1967** — Cold War, fear of space militarisation. Class: **non-binding / non-enforceable** — moral pressure. That is why militarisation is creeping back.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img" aria-label="Karman Line and aeronautical versus outer space" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="1" y="1" width="638" height="278" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
-<path d="M40 250 Q320 210 600 250 L600 270 L40 270 Z" fill="#dbeafe" stroke="#3b82f6"/>
-<text x="320" y="262" text-anchor="middle" font-size="12" font-weight="700" fill="#1e40af">Earth</text>
-<ellipse cx="320" cy="168" rx="250" ry="52" fill="none" stroke="#94a3b8" stroke-dasharray="6 4"/>
-<text x="575" y="155" text-anchor="end" font-size="11" fill="#334155">Karman Line ~100 km</text>
-<text x="575" y="172" text-anchor="end" font-size="10" fill="#64748b">NASA / US ~80 km</text>
-<text x="180" y="200" font-size="11" fill="#0f172a">Aeronautical space (air · aircraft · sovereign)</text>
-<text x="200" y="118" font-size="11" font-weight="700" fill="#1e3a5f">Outer / astronautical space</text>
-<text x="200" y="136" font-size="10.5" fill="#334155">OST 1967 · no sovereign claim · no mili-base · non-binding</text>
-<rect x="468" y="28" width="56" height="22" rx="3" fill="#334155"/>
-<rect x="454" y="50" width="28" height="14" rx="2" fill="#64748b"/>
-<rect x="510" y="50" width="28" height="14" rx="2" fill="#64748b"/>
-<text x="496" y="88" text-anchor="middle" font-size="10" fill="#475569">satellite</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-label="Karman Line, NASA 80 km, and 30 km atmosphere" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="638" height="338" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="24" y="28" font-size="13" font-weight="700" fill="#0f172a">Walk up from Earth — three heights class used</text>
+<path d="M48 300 Q200 40 352 300 Z" fill="#e0f2fe" stroke="#3b82f6" stroke-width="1.5"/>
+<text x="200" y="288" text-anchor="middle" font-size="16" font-weight="700" fill="#1e40af">E</text>
+<text x="200" y="308" text-anchor="middle" font-size="11" fill="#1e40af">Earth</text>
+<path d="M72 276 Q200 168 328 276" fill="none" stroke="#22c55e" stroke-width="2.5"/>
+<line x1="328" y1="276" x2="400" y2="276" stroke="#22c55e" stroke-width="1"/>
+<text x="408" y="272" font-size="12" font-weight="700" fill="#15803d">~30 km</text>
+<text x="408" y="288" font-size="11" fill="#334155">99.99% of atmosphere</text>
+<text x="408" y="304" font-size="10.5" fill="#64748b">sat cannot stay — air drag</text>
+<path d="M80 248 Q200 112 320 248" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5 3"/>
+<line x1="320" y1="248" x2="400" y2="220" stroke="#f59e0b" stroke-width="1"/>
+<text x="408" y="216" font-size="12" font-weight="700" fill="#b45309">NASA / US ~80 km</text>
+<text x="408" y="232" font-size="11" fill="#64748b">not a rigid brick wall</text>
+<path d="M88 220 Q200 72 312 220" fill="none" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="7 4"/>
+<line x1="312" y1="220" x2="400" y2="164" stroke="#1d4ed8" stroke-width="1"/>
+<text x="408" y="160" font-size="12" font-weight="700" fill="#1e40af">Karman Line ~100 km</text>
+<text x="408" y="176" font-size="11" fill="#334155">Theodor Karman</text>
+<text x="200" y="248" text-anchor="middle" font-size="11" fill="#0f172a">Aeronautical</text>
+<text x="200" y="262" text-anchor="middle" font-size="10" fill="#64748b">air · aircraft · sovereign</text>
+<text x="200" y="108" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a5f">Outer / astronautical space</text>
+<text x="200" y="126" text-anchor="middle" font-size="10.5" fill="#334155">OST 1967 · no sovereign claim</text>
+<text x="200" y="142" text-anchor="middle" font-size="10.5" fill="#334155">no mili-base · non-binding</text>
+<rect x="168" y="36" width="40" height="16" rx="2" fill="#334155"/>
+<rect x="158" y="52" width="20" height="10" rx="1" fill="#64748b"/>
+<rect x="198" y="52" width="20" height="10" rx="1" fill="#64748b"/>
+<text x="188" y="78" text-anchor="middle" font-size="10" fill="#475569">satellite</text>
 </svg>
 </div>
 
@@ -186,17 +200,21 @@ That is **why** outer space is defined where it is: **beyond Karman, motion is n
 Fuel quantity is a **strong determinant of lifespan**. First mistake after dry tanks is the last. World (including India) is working on **on-orbit refuelling** — not operational in class’s “at the moment.”
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Atmosphere, Karman Line, ISS orbit and satellite fuel uses" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Atmosphere at 30 km, Karman Line, ISS orbit and satellite fuel uses" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <rect x="1" y="1" width="638" height="298" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <circle cx="200" cy="200" r="52" fill="#93c5fd" stroke="#1d4ed8"/>
 <text x="200" y="205" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a5f">E</text>
-<ellipse cx="200" cy="200" rx="88" ry="70" fill="none" stroke="#86efac" stroke-width="2"/>
-<text x="292" y="248" font-size="10" fill="#166534">~30 km · 99.99% atm (sheet)</text>
-<ellipse cx="200" cy="200" rx="118" ry="92" fill="none" stroke="#f59e0b" stroke-dasharray="5 3"/>
-<text x="322" y="132" font-size="10" fill="#b45309">KL ~100 km</text>
-<ellipse cx="200" cy="200" rx="160" ry="122" fill="none" stroke="#6366f1" stroke-width="2"/>
-<text x="368" y="92" font-size="10" fill="#4338ca">~400 km ISS</text>
-<text x="48" y="36" font-size="12" font-weight="700" fill="#0f172a">Beyond KL: inertia holds speed — not continuous thrust</text>
+<ellipse cx="200" cy="200" rx="78" ry="64" fill="none" stroke="#22c55e" stroke-width="2.5"/>
+<line x1="274" y1="168" x2="318" y2="148" stroke="#22c55e" stroke-width="1"/>
+<text x="322" y="144" font-size="11" font-weight="700" fill="#15803d">~30 km</text>
+<text x="322" y="158" font-size="10" fill="#334155">99.99% atm</text>
+<ellipse cx="200" cy="200" rx="112" ry="90" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5 3"/>
+<line x1="300" y1="130" x2="318" y2="112" stroke="#f59e0b" stroke-width="1"/>
+<text x="322" y="108" font-size="11" font-weight="700" fill="#b45309">KL ~100 km</text>
+<ellipse cx="200" cy="200" rx="150" ry="118" fill="none" stroke="#6366f1" stroke-width="2"/>
+<line x1="318" y1="100" x2="332" y2="78" stroke="#6366f1" stroke-width="1"/>
+<text x="336" y="74" font-size="11" font-weight="700" fill="#4338ca">~400 km ISS</text>
+<text x="24" y="28" font-size="12" font-weight="700" fill="#0f172a">Beyond KL: inertia holds speed — not continuous thrust</text>
 <rect x="400" y="40" width="220" height="236" rx="8" fill="#fff7ed" stroke="#fb923c"/>
 <text x="510" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Fuel — yes, but only for</text>
 <text x="420" y="100" font-size="12" fill="#0f172a">1. Initial velocity</text>
@@ -212,18 +230,23 @@ Fuel quantity is a **strong determinant of lifespan**. First mistake after dry t
 **Coverage assignment (remember):** **three** satellites on the vertices of an **equilateral triangle**, same orbit, **35,786 km** from Earth’s **surface** → **global coverage**. Same orbit ⇒ **same** orbital velocity. Towers cannot wrap the planet this cheaply.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="Three satellites at 35786 km give global coverage" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="1" y="1" width="638" height="258" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
-<circle cx="320" cy="145" r="36" fill="#93c5fd" stroke="#1d4ed8"/>
-<text x="320" y="150" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a5f">E</text>
-<polygon points="320,38 500,210 140,210" fill="none" stroke="#0f766e" stroke-width="2"/>
-<circle cx="320" cy="38" r="8" fill="#0f766e"/>
-<circle cx="500" cy="210" r="8" fill="#0f766e"/>
-<circle cx="140" cy="210" r="8" fill="#0f766e"/>
-<text x="320" y="24" text-anchor="middle" font-size="11" fill="#0f766e">Sat 1</text>
-<text x="520" y="230" font-size="11" fill="#0f766e">Sat 2</text>
-<text x="88" y="230" font-size="11" fill="#0f766e">Sat 3</text>
-<text x="320" y="248" text-anchor="middle" font-size="12" fill="#334155">Equilateral · same orbit · 35,786 km · three enough for the whole Earth</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Three GEO satellites at 35786 km give global coverage" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="638" height="298" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<circle cx="320" cy="158" r="118" fill="none" stroke="#99f6e4" stroke-width="1.5" stroke-dasharray="4 4"/>
+<path d="M320 40 A118 118 0 0 1 422 217" fill="none" stroke="#0d9488" stroke-width="3" opacity="0.35"/>
+<path d="M422 217 A118 118 0 0 1 218 217" fill="none" stroke="#0d9488" stroke-width="3" opacity="0.35"/>
+<path d="M218 217 A118 118 0 0 1 320 40" fill="none" stroke="#0d9488" stroke-width="3" opacity="0.35"/>
+<polygon points="320,40 422,217 218,217" fill="#ccfbf1" fill-opacity="0.25" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="320" cy="158" r="40" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="320" y="154" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a5f">E</text>
+<text x="320" y="172" text-anchor="middle" font-size="10" fill="#1e40af">Earth</text>
+<circle cx="320" cy="40" r="9" fill="#0f766e"/>
+<circle cx="422" cy="217" r="9" fill="#0f766e"/>
+<circle cx="218" cy="217" r="9" fill="#0f766e"/>
+<text x="348" y="48" font-size="11" font-weight="700" fill="#0f766e">Sat 1</text>
+<text x="436" y="232" font-size="11" font-weight="700" fill="#0f766e">Sat 2</text>
+<text x="168" y="232" font-size="11" font-weight="700" fill="#0f766e">Sat 3</text>
+<text x="320" y="278" text-anchor="middle" font-size="12" fill="#334155">35,786 km from the surface · equilateral · same velocity · three cover Earth</text>
 </svg>
 </div>
 
