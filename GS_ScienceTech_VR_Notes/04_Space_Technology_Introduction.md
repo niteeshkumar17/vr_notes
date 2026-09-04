@@ -168,7 +168,7 @@ Value is not “a new application terrestrial tech cannot do.” Value is **cove
 
 **Orbit** = the path. Each orbit needs a **unique orbital velocity**. More or less → you leave that orbit.
 
-Sheet: **~20 km** holds **99.99%** of Earth’s atmosphere. Audio: **under the Karman Line** sits **nearly 100%** of the atmosphere (gravity glues it). **International Space Station (ISS)** class altitude: **~400 km**.
+Sheet: **~30 km** holds **99.99%** of Earth’s atmosphere. Audio: **under the Karman Line** sits **nearly 100%** of the atmosphere (gravity glues it). **International Space Station (ISS)** class altitude: **~400 km**.
 
 **Thought experiment:** plant a satellite at **30 km** vs **400 km**, both given the “right” speed.
 
@@ -191,7 +191,7 @@ Fuel quantity is a **strong determinant of lifespan**. First mistake after dry t
 <circle cx="200" cy="200" r="52" fill="#93c5fd" stroke="#1d4ed8"/>
 <text x="200" y="205" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a5f">E</text>
 <ellipse cx="200" cy="200" rx="88" ry="70" fill="none" stroke="#86efac" stroke-width="2"/>
-<text x="292" y="248" font-size="10" fill="#166534">~20 km · 99.99% atm (sheet)</text>
+<text x="292" y="248" font-size="10" fill="#166534">~30 km · 99.99% atm (sheet)</text>
 <ellipse cx="200" cy="200" rx="118" ry="92" fill="none" stroke="#f59e0b" stroke-dasharray="5 3"/>
 <text x="322" y="132" font-size="10" fill="#b45309">KL ~100 km</text>
 <ellipse cx="200" cy="200" rx="160" ry="122" fill="none" stroke="#6366f1" stroke-width="2"/>
