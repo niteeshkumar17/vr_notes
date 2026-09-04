@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-04
-*   **Active Micro-Topics:** 434
+*   **Active Micro-Topics:** 442
 *   **Overall Database Mastery:** 75.1% 📉
 *   **Today's Recall Completed:** 8 (5/8) · Morning MCQ 9/10 earlier
 *   **Active Learning Gaps Detected:** 5 (`MST-036` fertilizer repeat; `MST-037` NSA 142; `MST-039` Nationalist; `MST-041` NPP=GPP−R; `MST-042` two engines)
-*   **New Topics Ingested Today:** — (ST-03 + ECO-06 first-pass done)
+*   **New Topics Ingested Today:** **IR-02** (Varma Sir UN — first due **5 Sep**)
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -603,6 +603,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | IR-01-04 | Treaties: Sign vs Ratify; Indus Waters Treaty 1960 / WB / Abeyance 2025; PCA Hague / Ratle | 3 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `World Bank` $\leftrightarrow$ `Pahalgam 22 Apr 2025` $\leftrightarrow$ `Sign ≠ Ratify` $\leftrightarrow$ `UNCLOS` $\leftrightarrow$ `PCA Hague Sean Murphy` $\leftrightarrow$ `Ratle HEP July 2027` |
 | IR-01-05 | Balance of Power Internal/External; Wilson, League, UN 1945, P5 Veto | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `BOP` $\leftrightarrow$ `US Never Joined League` $\leftrightarrow$ `Collective Security` $\leftrightarrow$ `P5 Veto` |
 
+### IR (United Nations — Dr Sushant Varma, Lecture 2, 4 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| IR-02-01 | UN Origin: 4 Objectives; SF Apr–Jun 1945; 24 Oct 1945; 50→193; League 1919 | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Collective Security` $\leftrightarrow$ `India Founding Colony` $\leftrightarrow$ `HR By Birth` $\leftrightarrow$ `Holocaust 6M` |
+| IR-02-02 | Six Organs: UNSC Binds; UNGA Rec / 1-1-1; ICJ Hague; SG 5yr; Trusteeship 1994; ECOSOC 54 | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NY vs Hague` $\leftrightarrow$ `Guterres Portugal` $\leftrightarrow$ `Global Commons` $\leftrightarrow$ `Tharoor US Block` |
+| IR-02-03 | UNESCO 45 / Sarnath / Deepawali; WHO Pact; ILO League; UNDP HDI; US Out | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 23 Child Labour` $\leftrightarrow$ `HP Mizoram 100% Literacy` $\leftrightarrow$ `Trump UNESCO WHO` |
+| IR-02-04 | UNSC 15=5+10; 2yr; India 8×; 9/15 + No P5 No; Abstention ≠ Veto | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Veto Not In Charter` $\leftrightarrow$ `Pak Ends 31 Dec 2026` $\leftrightarrow$ `Gaza Abstain RU CN` |
+| IR-02-05 | Ch VI UNCIP/LoC; Ch VII NK 1950 / 38th; Ch 6½ PKM Not In Charter | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `1 Jan 1949 Ceasefire` $\leftrightarrow$ `Blue Helmets Self-Defence` $\leftrightarrow$ `Sofiya Qureshi` |
+| IR-02-06 | ICJ Only Govt / No Enforce; PCA 1899/1907 / India-BD 2014; ICC Rome 4 Crimes | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `US Nicaragua Veto` $\leftrightarrow$ `SA Israel Genocide` $\leftrightarrow$ `India Not ICC` $\leftrightarrow$ `Kulbhushan` |
+| IR-02-07 | Assess: 1–3 Poor / 4 Good; MAD ≠ UN; Rwanda 8L; Searchlight; HDI+SDG; 1267 | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Iraq 2003 Matsyanyaya` $\leftrightarrow$ `COP-30 Brazil` $\leftrightarrow$ `Saeed Azhar` |
+| IR-02-08 | Charter 2/3 + All P5; G4 vs UFC; India Claim; China / Coffee / Status Quo | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `128 of 193` $\leftrightarrow$ `15→24/26 vs 25 NP/SP` $\leftrightarrow$ `Table or Menu` $\leftrightarrow$ `Shyam Saran` |
+
 ---
 
 
@@ -611,7 +623,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (5 Sep) Q1–Q2:** 4 Sep classes if ingested; else leftover catch-up
+  1. **Tomorrow (5 Sep) Q1–Q2:** **IR-02** (Varma Sir UN) + second 4 Sep class if ingested
   2. **Q3–Q6:** S&T nuclear · Economy tax (schedule). **Q7:** Medieval **+3**. **Q8:** `MST-036` (repeat) + `MST-041` NPP / `MST-042` engines if a slot
   3. Atomic due **5 Sep:** `MST-036` fertilizer invert, `MST-037` NSA 142, `MST-039` Nationalist, `MST-041` NPP=GPP−R, `MST-042` two engines. ECO-06-08 NK Singh 2.5%/2023–24
   4. Passed clusters: **ST-03** + **ECO-06** (except 08) + ENV Tansley/10%/UNFCCC/N₂O → **7 Sep**. Ancient pottery still **5 Sep** (+3)

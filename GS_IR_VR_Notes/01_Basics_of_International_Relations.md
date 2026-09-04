@@ -4,7 +4,7 @@
 
 > **Date of Lecture:** 1 September 2026 (Lecture 1)  
 > **Date Added:** 2026-09-01  
-> **Teacher:** **Iqbal Singh Sandhu** (GS International Relations). Later UN lecture: **Dr Sushant Varma**.  
+> **Teacher:** **Iqbal Singh Sandhu** (GS International Relations). UN lecture (4 September): **Dr Sushant Varma** — `02_United_Nations_Organisation.md`.  
 > **Source:** Vajiram & Ravi class + audio transcript + 3 handwritten notebook pages (dated **1/9/26**, circled **1**)  
 > **Also relevant for:** Prelims IR current affairs; **GS-II** (bilateral, groupings, international organisations); **GS-IV** (ethics in IR); Essay; Interview (retired IFS on the board)  
 > **How to read class shortcuts:** full form on first use, then the short form. Glossary at the end.
