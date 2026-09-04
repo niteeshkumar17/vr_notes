@@ -202,51 +202,56 @@ Fuel quantity is a **strong determinant of lifespan**. First mistake after dry t
 <div style="overflow-x:auto;">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Atmosphere at 30 km, Karman Line, ISS orbit and satellite fuel uses" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <rect x="1" y="1" width="638" height="298" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
-<circle cx="200" cy="200" r="52" fill="#93c5fd" stroke="#1d4ed8"/>
-<text x="200" y="205" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a5f">E</text>
-<ellipse cx="200" cy="200" rx="78" ry="64" fill="none" stroke="#22c55e" stroke-width="2.5"/>
-<line x1="274" y1="168" x2="318" y2="148" stroke="#22c55e" stroke-width="1"/>
-<text x="322" y="144" font-size="11" font-weight="700" fill="#15803d">~30 km</text>
-<text x="322" y="158" font-size="10" fill="#334155">99.99% atm</text>
-<ellipse cx="200" cy="200" rx="112" ry="90" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5 3"/>
-<line x1="300" y1="130" x2="318" y2="112" stroke="#f59e0b" stroke-width="1"/>
-<text x="322" y="108" font-size="11" font-weight="700" fill="#b45309">KL ~100 km</text>
-<ellipse cx="200" cy="200" rx="150" ry="118" fill="none" stroke="#6366f1" stroke-width="2"/>
-<line x1="318" y1="100" x2="332" y2="78" stroke="#6366f1" stroke-width="1"/>
-<text x="336" y="74" font-size="11" font-weight="700" fill="#4338ca">~400 km ISS</text>
-<text x="24" y="28" font-size="12" font-weight="700" fill="#0f172a">Beyond KL: inertia holds speed — not continuous thrust</text>
-<rect x="400" y="40" width="220" height="236" rx="8" fill="#fff7ed" stroke="#fb923c"/>
-<text x="510" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Fuel — yes, but only for</text>
-<text x="420" y="100" font-size="12" fill="#0f172a">1. Initial velocity</text>
-<text x="420" y="128" font-size="12" fill="#0f172a">2. Orbit raising / lowering</text>
-<text x="432" y="148" font-size="11" fill="#64748b">GISAT: transfer orbit first</text>
-<text x="420" y="180" font-size="12" fill="#0f172a">3. CAM — dodge debris</text>
-<text x="432" y="200" font-size="11" fill="#64748b">25–30,000 km/h · millions</text>
-<text x="420" y="232" font-size="12" fill="#0f172a">Dry tank → next error = dead</text>
-<text x="420" y="256" font-size="11" fill="#64748b">Refuelling = aspiration (India too)</text>
+<text x="24" y="26" font-size="12" font-weight="700" fill="#0f172a">Beyond KL: inertia holds speed — not continuous thrust</text>
+<circle cx="176" cy="168" r="132" fill="none" stroke="#6366f1" stroke-width="2"/>
+<circle cx="176" cy="168" r="100" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="5 3"/>
+<circle cx="176" cy="168" r="72" fill="none" stroke="#22c55e" stroke-width="2.5"/>
+<circle cx="176" cy="168" r="46" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="176" y="174" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a5f">E</text>
+<line x1="244" y1="148" x2="300" y2="128" stroke="#22c55e" stroke-width="1"/>
+<text x="304" y="124" font-size="12" font-weight="700" fill="#15803d">~30 km</text>
+<text x="304" y="140" font-size="11" fill="#334155">99.99% atm</text>
+<line x1="268" y1="108" x2="300" y2="86" stroke="#f59e0b" stroke-width="1"/>
+<text x="304" y="82" font-size="12" font-weight="700" fill="#b45309">KL ~100 km</text>
+<line x1="268" y1="58" x2="300" y2="42" stroke="#6366f1" stroke-width="1"/>
+<text x="304" y="40" font-size="12" font-weight="700" fill="#4338ca">~400 km ISS</text>
+<circle cx="176" cy="36" r="5" fill="#334155"/>
+<rect x="400" y="48" width="220" height="228" rx="8" fill="#fff7ed" stroke="#fb923c"/>
+<text x="510" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Fuel — yes, but only for</text>
+<text x="420" y="108" font-size="12" fill="#0f172a">1. Initial velocity</text>
+<text x="420" y="136" font-size="12" fill="#0f172a">2. Orbit raising / lowering</text>
+<text x="432" y="156" font-size="11" fill="#64748b">GISAT: transfer orbit first</text>
+<text x="420" y="188" font-size="12" fill="#0f172a">3. CAM — dodge debris</text>
+<text x="432" y="208" font-size="11" fill="#64748b">25–30,000 km/h · millions</text>
+<text x="420" y="240" font-size="12" fill="#0f172a">Dry tank → next error = dead</text>
+<text x="420" y="260" font-size="11" fill="#64748b">Refuelling = aspiration (India too)</text>
 </svg>
 </div>
 
 **Coverage assignment (remember):** **three** satellites on the vertices of an **equilateral triangle**, same orbit, **35,786 km** from Earth’s **surface** → **global coverage**. Same orbit ⇒ **same** orbital velocity. Towers cannot wrap the planet this cheaply.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Three GEO satellites at 35786 km give global coverage" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="1" y="1" width="638" height="298" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
-<circle cx="320" cy="158" r="118" fill="none" stroke="#99f6e4" stroke-width="1.5" stroke-dasharray="4 4"/>
-<path d="M320 40 A118 118 0 0 1 422 217" fill="none" stroke="#0d9488" stroke-width="3" opacity="0.35"/>
-<path d="M422 217 A118 118 0 0 1 218 217" fill="none" stroke="#0d9488" stroke-width="3" opacity="0.35"/>
-<path d="M218 217 A118 118 0 0 1 320 40" fill="none" stroke="#0d9488" stroke-width="3" opacity="0.35"/>
-<polygon points="320,40 422,217 218,217" fill="#ccfbf1" fill-opacity="0.25" stroke="#0f766e" stroke-width="1.5"/>
-<circle cx="320" cy="158" r="40" fill="#93c5fd" stroke="#1d4ed8"/>
-<text x="320" y="154" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a5f">E</text>
-<text x="320" y="172" text-anchor="middle" font-size="10" fill="#1e40af">Earth</text>
-<circle cx="320" cy="40" r="9" fill="#0f766e"/>
-<circle cx="422" cy="217" r="9" fill="#0f766e"/>
-<circle cx="218" cy="217" r="9" fill="#0f766e"/>
-<text x="348" y="48" font-size="11" font-weight="700" fill="#0f766e">Sat 1</text>
-<text x="436" y="232" font-size="11" font-weight="700" fill="#0f766e">Sat 2</text>
-<text x="168" y="232" font-size="11" font-weight="700" fill="#0f766e">Sat 3</text>
-<text x="320" y="278" text-anchor="middle" font-size="12" fill="#334155">35,786 km from the surface · equilateral · same velocity · three cover Earth</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-label="Three satellites in equilateral triangulation covering Earth" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="638" height="318" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<circle cx="280" cy="160" r="112" fill="none" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 4"/>
+<polygon points="224,63  308,116  228,158" fill="#94a3b8" fill-opacity="0.38" stroke="#64748b" stroke-width="0.6"/>
+<polygon points="336,63  332,162  252,116" fill="#94a3b8" fill-opacity="0.38" stroke="#64748b" stroke-width="0.6"/>
+<polygon points="280,272 234,184  326,184" fill="#94a3b8" fill-opacity="0.38" stroke="#64748b" stroke-width="0.6"/>
+<circle cx="280" cy="160" r="52" fill="#3b82f6" stroke="#1d4ed8"/>
+<text x="280" y="166" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">EARTH</text>
+<circle cx="224" cy="63" r="6.5" fill="#93c5fd" stroke="#1e3a5f" stroke-width="1.2"/>
+<circle cx="336" cy="63" r="6.5" fill="#93c5fd" stroke="#1e3a5f" stroke-width="1.2"/>
+<circle cx="280" cy="272" r="6.5" fill="#93c5fd" stroke="#1e3a5f" stroke-width="1.2"/>
+<line x1="430" y1="118" x2="318" y2="100" stroke="#0f172a" stroke-width="1"/>
+<line x1="430" y1="118" x2="300" y2="210" stroke="#0f172a" stroke-width="1"/>
+<polygon points="318,100 312,106 322,108" fill="#0f172a"/>
+<polygon points="300,210 296,202 306,204" fill="#0f172a"/>
+<text x="438" y="114" font-size="13" font-style="italic" fill="#0f172a">satellite coverage</text>
+<text x="438" y="132" font-size="13" font-style="italic" fill="#0f172a">(footprint)</text>
+<line x1="430" y1="272" x2="290" y2="272" stroke="#0f172a" stroke-width="1"/>
+<polygon points="290,272 298,268 298,276" fill="#0f172a"/>
+<text x="438" y="276" font-size="13" font-style="italic" fill="#0f172a">satellite</text>
+<text x="320" y="306" text-anchor="middle" font-size="12" fill="#334155">35,786 km · equilateral · same orbit · three cover Earth</text>
 </svg>
 </div>
 
