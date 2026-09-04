@@ -25,8 +25,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Today's Date:** 2026-09-04
 *   **Active Micro-Topics:** 454
 *   **Overall Database Mastery:** 75.1% 📉
-*   **Today's Recall Completed:** 8 (5/8) · Morning MCQ 9/10 earlier
-*   **Active Learning Gaps Detected:** 5 (`MST-036` fertilizer repeat; `MST-037` NSA 142; `MST-039` Nationalist; `MST-041` NPP=GPP−R; `MST-042` two engines)
+*   **Today's Recall Completed:** 8 (5/8) · Morning MCQ 9/10 · Evening MCQ 8/10
+*   **Active Learning Gaps Detected:** 7 (`MST-036` fertilizer; `MST-037` NSA 142; `MST-039` Nationalist; `MST-041` NPP; `MST-042` engines; `MST-043` Karman≠OST line; `MST-044` 44% weekly spike)
 *   **New Topics Ingested Today:** **IR-02** + **ST-04** + **CA-260904** (Bang HBNC / WMO El Niño) — first due **5 Sep**. Stubble CAQM clip = patch on **GEO-07-10**, no extra Day-1.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 

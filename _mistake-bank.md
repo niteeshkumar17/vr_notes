@@ -50,6 +50,8 @@
 | MST-040 | HIS-AI-01 | Pre-history ≠ Vedic; History ≠ Palaeolithic | *Remarked — Nik stated the three definitions correctly (no records / unread / can read). Q9 miss was List-I letter-to-example map, not the concept. Do not drill as a Day-1 atom.* | 2026-09-04 | `Question Misread` | 0 | - | Void (matching slip; concept held)
 | MST-041 | ENV-01-06 | NPP = GPP − respiration, not just the expansion | **Net Primary Productivity (NPP) = Gross Primary Productivity (GPP) − Respiration (R).** Plants use ~**20%** of GPP; NPP is ~**80%**. Naming NPP without the equation is a miss. | 2026-09-04 | `Fact Error` | 1 | 2026-09-05 | Active (atomic +1) ⚠️ |
 | MST-042 | ENV-02-02 | Two engines = GHG rise + shrinking sinks, not GHG + CO₂ | Class two engines of climate change: **(1) greenhouse-gas rise** and **(2) shrinking sinks** (forests, oceans). **CO₂ is a GHG**, not the second engine. 280 → 420 ppm held. | 2026-09-04 | `Concept Error` | 1 | 2026-09-05 | Active (atomic +1) ⚠️ |
+| MST-043 | ST-04-03 | Karman 100 km ≠ a rigid OST legal line | **Karman ~100 km** is a convention (NASA/US ~**80 km**). **OST 1967** is **non-binding**. The treaty does **not** fix a rigid 100 km boundary. Evening MCQ Q1: he took statement 1 as true. | 2026-09-04 | `Concept Error` | 1 | 2026-09-05 | Active (atomic +1) ⚠️ |
+| MST-044 | GEO-07-10 | Farm-fire 44% is a weekly spike, not the whole winter | Clip: farm fires **≤15%** of winter PM over the **whole season**; **~44%** only in **some October–November weeks**. Class year-round share was ~**14%**. Evening MCQ Q8: he treated 44% as all-winter. | 2026-09-04 | `Fact Error` | 1 | 2026-09-05 | Active (atomic +1) ⚠️ |
 
 ---
 

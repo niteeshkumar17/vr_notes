@@ -47,7 +47,11 @@
 | GS_Economy_VR_Notes | 04 — Deficits, FRBM (SS Sir L02) | 2026-09-04 | 2 | 87.5% | 2026-09-07 | Confident | 2023 | Non-debt CR, WMA 90 days, PD=FD−interest, escape ±0.5% held. Reviewing NK Singh: **3% by 2017–18, stay 3 yrs, then 2.5% by 2023–24** (ECO-06-08). |
 | GS_Environment_VR_Notes | Ecosystem + Climate (ENV-01 / ENV-02) | 2026-09-04 | 2 | 50.0% | 2026-09-07 | Somewhat | 2013, 2022 | Tansley / 10% / P sedimentary / UNFCCC 1992/1994 / N₂O held. Reviewing NPP=GPP−R (`MST-041`) and two engines = GHG + sinks (`MST-042`). |
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
-| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-03 | 3 | 66.7% | 2026-09-05 | Somewhat | 2015, 2020 | MGNREGA ≠ transfer held again. Fertilizer axis inverted a second time (`MST-036` Repeat 2). |
+| GS_IR_VR_Notes | 02 — United Nations (Varma Sir L2) | 2026-09-04 | 1 | 100% | 2026-09-05 | Confident | - | Evening MCQ clean: origin, UNSC veto/abstention, ICJ+ICC / PCA not 1945. Ghost Recall still **5 Sep**. |
+| GS_ScienceTech_VR_Notes | 04 — Space Technology Introduction (Vinay Krishna L10) | 2026-09-04 | 1 | 75.0% | 2026-09-05 | Somewhat | - | Station / EOS / Rohini held. Reviewing Karman ≠ rigid OST line (`MST-043`). |
+| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-05 | Confident | - | Hospital+home / 62.2%; El Niño through Feb 2027. |
+| GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-04 | 1 | 0.0% | 2026-09-05 | Somewhat | - | Timing + CAQM+ISRO held. **44% = some weeks**, not whole winter (`MST-044`). |
+| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-04 | 4 | 75.0% | 2026-09-05 | Somewhat | 2015, 2020 | Fertilizer invert **held** on evening MCQ. Still drill tomorrow (`MST-036` Repeat 2). |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 
 
@@ -56,6 +60,15 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 23 — 2026-09-04 (Evening MCQ)
+- **Subject:** IR-02 UN, ST-04 space, CA-260904 (Bang / El Niño), GEO-07 stubble CAQM patch, MST-036 fertilizer
+- **Format:** 10 Prelims MCQs (batched; evening slot)
+- **Score:** 14.68 / 20.00 (Net Score: +16.00 − 1.32 = 14.68 | Accuracy: 80.00% — 8/10 correct | 2 Incorrect | 0 Unattempted)
+- **Strengths:** EOS⊂RS / Chandrayaan not EOS; station = micro-g + weightlessness + radiation, **not** zero-g; UN SF 1945 / 24 Oct / India colony founder; UNSC 15=5+10 + abstention ≠ veto; ICJ+ICC, PCA ≠ 1945; Rohini rockets ≠ sats, Thumba 1963 / RH-75 1967; HBNC 62.2% + do **not** shut SNCUs; El Niño near-100% through Feb 2027; fertilizer invert **held** (farmer ≠ product).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-043 / Karman vs OST:* 100 km is **not** a rigid OST line. NASA ~80; OST non-binding.
+  - *MST-044 / 44% fires:* **weekly spike**, not whole-winter PM. Season ≤**15%**.
 
 ### Session 22 — 2026-09-04 (Ghost Recall)
 - **Subject:** ST-03 (Shobhit Sir atoms), ECO-06 (SS Sir deficits/FRBM), ENV-01/02 catch-up, Ancient pottery, MST-036 fertilizer
