@@ -261,7 +261,7 @@ Fuel quantity is a **strong determinant of lifespan**. First mistake after dry t
 
 Astronomy is as old as humankind. **Space technology** is ~a century old.
 
-**1930s (audio; sheet wrote 1950):** United States sent **hot-air balloons** — first military surveillance (height = coverage), then **scientific instruments** for **vertical profiling** (layer-by-layer: thermometer, pH, carbon dioxide (CO₂), magnetic field, particles). **Two limits:** very **slow**; ceiling ~**25 km** (outer pressure falls, balloon bursts / drops). Not outer space — but it posed the problem.
+**1930 (sheet and class):** United States sent **hot-air balloons** — first military surveillance (height = coverage), then **scientific instruments** for **vertical profiling** (layer-by-layer: thermometer, pH, carbon dioxide (CO₂), magnetic field, particles). **Two limits:** very **slow**; ceiling ~**25 km** (outer pressure falls, balloon bursts / drops). Not outer space — but it posed the problem.
 
 **Sounding rockets** — faster + higher; still carry instruments for **atmospheric investigation**. **“Sounding”** is figurative: a **naval** term (sound waves for **underwater** vertical profiling). Not because the rocket uses sound. **India / ISRO:** **Rohini** series of sounding rockets (regular). **Do not confuse** with **Rohini satellites**.
 
@@ -287,7 +287,7 @@ Astronomy is as old as humankind. **Space technology** is ~a century old.
 <rect x="1" y="1" width="638" height="198" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <line x1="40" y1="88" x2="600" y2="88" stroke="#94a3b8" stroke-width="2"/>
 <circle cx="70" cy="88" r="8" fill="#0284c7"/>
-<text x="70" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">1930s</text>
+<text x="70" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">1930</text>
 <text x="70" y="120" text-anchor="middle" font-size="10" fill="#334155">Balloons</text>
 <text x="70" y="136" text-anchor="middle" font-size="10" fill="#64748b">profile · 25 km</text>
 <circle cx="190" cy="88" r="8" fill="#0284c7"/>
