@@ -263,7 +263,9 @@ Astronomy is as old as humankind. **Space technology** is ~a century old.
 
 **1930 (sheet and class):** United States sent **hot-air balloons** — first military surveillance (height = coverage), then **scientific instruments** for **vertical profiling** (layer-by-layer: thermometer, pH, carbon dioxide (CO₂), magnetic field, particles). **Two limits:** very **slow**; ceiling ~**25 km** (outer pressure falls, balloon bursts / drops). Not outer space — but it posed the problem.
 
-**Sounding rockets** — faster + higher; still carry instruments for **atmospheric investigation**. **“Sounding”** is figurative: a **naval** term (sound waves for **underwater** vertical profiling). Not because the rocket uses sound. **India / ISRO:** **Rohini** series of sounding rockets (regular). **Do not confuse** with **Rohini satellites**.
+**Sounding rockets** — faster + higher; still carry instruments for **atmospheric investigation**. **“Sounding”** is figurative: a **naval** term (sound waves for **underwater** vertical profiling). Not because the rocket uses sound.
+
+**India / ISRO** example is **later than Sputnik**, not before it. Class named the **Rohini** series (regular; **do not confuse** with **Rohini satellites**). First Indian sounding-rocket launch: **21 November 1963** (Nike-Apache from **Thumba Equatorial Rocket Launching Station (TERLS)**, Thiruvananthapuram). First fully Indian **Rohini RH-75: 20 November 1967**.
 
 **Space Race 1.0** = **military hostility + geopolitical antagonism + high optics** (whatever goes up is visible). Tool of **upmanship**, not humanity. Expect a Mains “**then vs now**” question.
 
@@ -290,14 +292,14 @@ Astronomy is as old as humankind. **Space technology** is ~a century old.
 <text x="70" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">1930</text>
 <text x="70" y="120" text-anchor="middle" font-size="10" fill="#334155">Balloons</text>
 <text x="70" y="136" text-anchor="middle" font-size="10" fill="#64748b">profile · 25 km</text>
-<circle cx="190" cy="88" r="8" fill="#0284c7"/>
-<text x="190" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">Rockets</text>
-<text x="190" y="120" text-anchor="middle" font-size="10" fill="#334155">Sounding</text>
-<text x="190" y="136" text-anchor="middle" font-size="10" fill="#64748b">Rohini (ISRO)</text>
-<circle cx="310" cy="88" r="8" fill="#dc2626"/>
-<text x="310" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">1957</text>
-<text x="310" y="120" text-anchor="middle" font-size="10" fill="#334155">Sputnik</text>
-<text x="310" y="136" text-anchor="middle" font-size="10" fill="#64748b">Gagarin · Laika</text>
+<circle cx="190" cy="88" r="8" fill="#dc2626"/>
+<text x="190" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">1957</text>
+<text x="190" y="120" text-anchor="middle" font-size="10" fill="#334155">Sputnik</text>
+<text x="190" y="136" text-anchor="middle" font-size="10" fill="#64748b">Gagarin · Laika</text>
+<circle cx="310" cy="88" r="8" fill="#0284c7"/>
+<text x="310" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">1963 / 67</text>
+<text x="310" y="120" text-anchor="middle" font-size="10" fill="#334155">India sounding</text>
+<text x="310" y="136" text-anchor="middle" font-size="10" fill="#64748b">Thumba · Rohini</text>
 <circle cx="430" cy="88" r="8" fill="#2563eb"/>
 <text x="430" y="48" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">16 / 20 Jul 1969</text>
 <text x="430" y="120" text-anchor="middle" font-size="10" fill="#334155">Apollo 11</text>
@@ -449,6 +451,7 @@ Leave page-space. Next lecture: why they later **shared** a station (Internation
 | PYQ | Previous Year Question |
 | RS | Remote Sensing |
 | SBIS | Satellite-Based Internet Services |
+| TERLS | Thumba Equatorial Rocket Launching Station |
 | UP | Uttar Pradesh |
 | UPSC | Union Public Service Commission |
 | USSR | Union of Soviet Socialist Republics |
