@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-04
-*   **Active Micro-Topics:** 442
+*   **Active Micro-Topics:** 452
 *   **Overall Database Mastery:** 75.1% 📉
 *   **Today's Recall Completed:** 8 (5/8) · Morning MCQ 9/10 earlier
 *   **Active Learning Gaps Detected:** 5 (`MST-036` fertilizer repeat; `MST-037` NSA 142; `MST-039` Nationalist; `MST-041` NPP=GPP−R; `MST-042` two engines)
-*   **New Topics Ingested Today:** **IR-02** (Varma Sir UN — first due **5 Sep**)
+*   **New Topics Ingested Today:** **IR-02** (Varma Sir UN) + **ST-04** (Vinay Krishna space intro) — first due **5 Sep**
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -553,6 +553,20 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-03-07 | Neutrinos Ghost Particles; INO Theni / Bodi West Hills / 1.2 km; IceCube Antarctica | 2 | ★★★★★ | Day 3 | 2026-09-07 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-04 | Fast 🟢 | `2nd After Photons` $\leftrightarrow$ `Rarely Interact` $\leftrightarrow$ `INO Tamil Nadu` $\leftrightarrow$ `IceCube Not India` |
 | ST-03-08 | S.N. Bose ≠ J.C. Bose; Plasma vs BEC; Particle + Antiparticle → Photons | 2 | ★★★★☆ | Day 3 | 2026-09-07 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-04 | Fast 🟢 | `Bose-Einstein Statistics` $\leftrightarrow$ `Plasma Ionised Gas Stars` $\leftrightarrow$ `Positron` $\leftrightarrow$ `Mains Indians in S&T` |
 
+### Science & Technology (Space Technology Introduction — Vinay Krishna, Lecture 10, 4 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ST-04-01 | Space Predictable: CA + Apps + India; GISAT 4 Sep GSLV; Vikram 1 Private Orbital; ISRO 57 | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `GS-I Smart Agri` $\leftrightarrow$ `GS-III` $\leftrightarrow$ `Science→Engg→Tech` $\leftrightarrow$ `NCERT 6–10 + Ministry 10–15d` |
+| ST-04-02 | Biotech = Rate/Direction of Evolution; BT Cotton ≠ “Biotech” Word; Bollworms; Food Web | 2 | ★★★★☆ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gradual→Quick` $\leftrightarrow$ `GM Trade/Mustard` $\leftrightarrow$ `mRNA` $\leftrightarrow$ `Ethanol Feedstock` |
+| ST-04-03 | Karman 100 km (NASA 80); Aero vs Astro; OST 1967 Non-Binding; No Sovereign / No Mili-Base | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Theodor Karman` $\leftrightarrow$ `Airspace Sovereign` $\leftrightarrow$ `Common Property` $\leftrightarrow$ `Moral Not Enforceable` |
+| ST-04-04 | Satellite = Identity From Another; Comm TV 70–75% / SBIS Starlink; EOS⊂RS; Nav = P+T | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Chandrayaan RS Not EOS` $\leftrightarrow$ `Tele-Ed/Med` $\leftrightarrow$ `Surgical Precision` $\leftrightarrow$ `Coverage = Cheap` |
+| ST-04-05 | Orbital v Unique; Beyond KL Inertia Not Fuel; Fuel = Start / Raise-Lower / CAM; 3×35786 km | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ISS ~400 km` $\leftrightarrow$ `20 km 99.99% Atm` $\leftrightarrow$ `Debris 25–30k km/h` $\leftrightarrow$ `Refuel Aspiration` |
+| ST-04-06 | 1930s Balloons 25 km Profile; Sounding = Naval Metaphor; Rohini Rockets ≠ Rohini Sats | 2 | ★★★★☆ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Vertical Profile` $\leftrightarrow$ `Speed+Altitude` $\leftrightarrow$ `ISRO Rohini` |
+| ST-04-07 | Race 1.0: Sputnik 1957; Gagarin; Tereshkova; Laika; Apollo 11 16/20 Jul 1969; A-17 1972 End | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Optics+Hostility` $\leftrightarrow$ `JFK Hard` $\leftrightarrow$ `Isolated Missions` $\leftrightarrow$ `>60% Budget` |
+| ST-04-08 | Race 2.0 Lunar: Artemis1 2022 Orion; A2 1 Apr 2026 Manned No Land; 2028 Land; 2032 Stay | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Additive ≠ Isolated` $\leftrightarrow$ `Koch / Glover` $\leftrightarrow$ `No Gateway` $\leftrightarrow$ `Mars Springboard` |
+| ST-04-09 | ILRS CN-RU 2031 Orbital or Base; India Not In Race; Sarabhai Doctrine; Man-Moon Sheet 2040 | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sustained Presence` $\leftrightarrow$ `Development Not Prestige` $\leftrightarrow$ `Gaganyaan Delay` |
+| ST-04-10 | Station = Sustained Presence; Micro-g NOT Zero-g; Weightless = Free Fall; UV/X; Skylab / Mir | 3 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gravity Binds` $\leftrightarrow$ `Curve of Fall ∥ Earth` $\leftrightarrow$ `Next Class Continues` |
+
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -623,7 +637,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (5 Sep) Q1–Q2:** **IR-02** (Varma Sir UN) + second 4 Sep class if ingested
+  1. **Tomorrow (5 Sep) Q1–Q2:** **IR-02** (Varma Sir UN) + **ST-04** (Vinay Krishna space)
   2. **Q3–Q6:** S&T nuclear · Economy tax (schedule). **Q7:** Medieval **+3**. **Q8:** `MST-036` (repeat) + `MST-041` NPP / `MST-042` engines if a slot
   3. Atomic due **5 Sep:** `MST-036` fertilizer invert, `MST-037` NSA 142, `MST-039` Nationalist, `MST-041` NPP=GPP−R, `MST-042` two engines. ECO-06-08 NK Singh 2.5%/2023–24
   4. Passed clusters: **ST-03** + **ECO-06** (except 08) + ENV Tansley/10%/UNFCCC/N₂O → **7 Sep**. Ancient pottery still **5 Sep** (+3)
