@@ -10,7 +10,7 @@
 
 **How to read class shortcuts:** full form on first use. Glossary at the end. Do not invent a number the sheet / class did not give.
 
-Class paused after **special majority / Article 61**. Next sitting: houses in detail + **confidence / no-confidence / censure / adjournment** motions.
+Class paused after **special majority / Article 61**. Second class the same day: Lecture 6 — `Polity_Lec6_AbheyKumar_Houses_Motions_Speaker.md`.
 
 **Homework (next class):** short note (~**100 words** / ~9–10 sentences) on the **spectrum of political ideology** — two sentences each for **left / right / centre**, plus **one non-India, non-United States, non-United Kingdom example** each. Read first; do not paste from AI.
 

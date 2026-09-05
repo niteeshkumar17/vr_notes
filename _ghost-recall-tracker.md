@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-05
-*   **Active Micro-Topics:** 466
+*   **Active Micro-Topics:** 476
 *   **Overall Database Mastery:** 76.4% 📈
 *   **Today's Recall Completed:** 8 (8/8 clusters; 1 atom — MAT 14%)
 *   **Active Learning Gaps Detected:** 5 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-045` MAT 14%≠15%; leftover `CA-260904`)
-*   **New Topics Ingested Today:** **POL-06** (Abhey Kumar L5 — interim / AGI / majorities) — first due **6 Sep**
+*   **New Topics Ingested Today:** **POL-06** (Abhey L5) + **POL-07** (Abhey L6 — houses / motions / Speaker) — both first due **6 Sep**
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -417,6 +417,20 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | POL-06-11 | Absolute 272+ / Simple Present+Voting / Effective = Total−Vacancy | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Absolute Forms Govt Only` $\leftrightarrow$ `Simple 256 Drill` $\leftrightarrow$ `Effective = Removal 8 Posts` $\leftrightarrow$ `RS Effective / LS Simple VP` |
 | POL-06-12 | Special: 249/312 = 2/3 P+V; 368 = 2/3 P+V + >½ Total; 61 = 2/3 Total | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 249 State List` $\leftrightarrow$ `Art 312 AIS` $\leftrightarrow$ `368 Floor = Absolute` $\leftrightarrow$ `Art 61 Never Used` |
 
+### Polity (Abhey Kumar — Lecture 6: Two Houses, Motions & Speaker)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-07-01 | RS 233+12 / LS 543 FPTP; PR+STV ≠ President PR; 4th Sch vs RPA 1950 | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Both Houses = People` $\leftrightarrow$ `UP 31 RS / 403 MLA` $\leftrightarrow$ `Why Two RPAs` |
+| POL-07-02 | RS Open Ballot 2003; Kuldip Nayar 2006; ADL≠Election; No NOTA Indirect | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cross-Voting` $\leftrightarrow$ `Observer Sees Vote` $\leftrightarrow$ `ADL = House Proceeding Only` |
+| POL-07-03 | RS Continuous 1952 / 1/3 per 2yr; LS 5yr; 1971 Early; NE Extend ≤1yr | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `18th LS ~2yr` $\leftrightarrow$ `RS 74yr` $\leftrightarrow$ `1977 Used / 1978 Unused` $\leftrightarrow$ `Bye = Leftover Term` |
+| POL-07-04 | RS Federal Plus/Minus/Equal; 249=0 / 312 Forest; 44th RS Diluted 45th Bill | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 75(3) Why LS Breaks Govt` $\leftrightarrow$ `No Tax w/o Representation` $\leftrightarrow$ `RS Alone if LS Dissolved` $\leftrightarrow$ `No JS for 368` |
+| POL-07-05 | PAC/COPU 15+7; DRSC/JPC 21+10; RS ≠ Secondary House; 4 PMs from RS | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `CAG→PAC` $\leftrightarrow$ `24 DRSCs` $\leftrightarrow$ `Indira/Gujral/Deve Gowda/MMS` |
+| POL-07-06 | Motion vs Resolution; Rules 184/191/198; 3 LS Special Powers | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Every Resolution = Motion` $\leftrightarrow$ `CM/Censure = Convention` $\leftrightarrow$ `NE Discontinue = Spl LS` |
+| POL-07-07 | NCM vs Censure: Entire CoM / Reason / 50 Leave / Never Passed | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Notice 10am` $\leftrightarrow$ `≤10 Days` $\leftrightarrow$ `2023 NCM` $\leftrightarrow$ `1999 Confidence Not NCM` |
+| POL-07-08 | Adjournment Motion: Urgent Public; ≥50; Element of Censure; LS Only | 2 | ★★★★☆ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Rules 56–63` $\leftrightarrow$ `≠ Daily Adjournment` |
+| POL-07-09 | Speaker/Chairman Regulate; Casting Vote; Suspend ≤ Session End | 2 | ★★★★☆ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Panel ≤10 / Vice-Chair ≤6` $\leftrightarrow$ `Face of House` |
+| POL-07-10 | Speaker: Money-Bill Final; JS Chair Chain; Art 94 Continuity; Pro Tem | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Final ≠ Unreviewable` $\leftrightarrow$ `S→DyS→DyC` $\leftrightarrow$ `Art 93 ASAP / No DyS 7yr` $\leftrightarrow$ `Vacancy ≠ Absence` |
+
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -655,8 +669,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (6 Sep) Q1–Q2:** **POL-06** (Abhey L5 — interim / AGI / majorities) + leftover **CA-260904** (Bang / El Niño)
-  2. **Q3–Q6:** Polity President · Polity secularism / Preamble (schedule) — do **not** replace with POL-06 facts
+  1. **Tomorrow (6 Sep) Q1–Q2:** **POL-06** (Abhey L5 — AGI / majorities) + **POL-07** (Abhey L6 — houses / motions / Speaker)
+  2. **Q3–Q6:** Polity President · Polity secularism / Preamble (schedule). Leftover **CA-260904** if a first-pass slot opens — do **not** replace Q1–Q2
   3. **Q7:** GEO-06 **+3**. **Q8:** `MST-045` MAT 14% · leftover `MST-037`/`039`/`042` if one slot
   4. Passed 5 Sep morning: **IR-02** + **ST-04** + **ST-02** + **ECO-04** (except 02) → **8 Sep**. Medieval 09/14/19 → **12 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` stay resolved.
