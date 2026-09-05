@@ -37,21 +37,21 @@
 | Current_Affairs | Current Affairs (26 August 2026) | 2026-08-26 | 0 | 0% | 2026-08-27 | New | 2012, 2015, 2019, 2022, 2024 | Added CA-260826-01 to CA-260826-03 (Judicial Appointments Transparency: Justice Ujjal Bhuyan observation, Three Judges Cases evolution, MediaOne sealed-cover doctrine, Umadevi public employment equality, Uncle Judges data, UK JAC & South Africa JSC comparative models, 4-point reform blueprint). |
 | Current_Affairs | Current Affairs (27 August 2026) | 2026-08-27 | 0 | 0% | 2026-08-28 | New | 2014, 2017, 2019, 2021, 2024 | Added CA-260827-01 to CA-260827-03 (Meghalaya Uranium Mining Resolution, Sixth Schedule Customary Land Rights & SC Dimasa 2019 Verdict; Kaziranga ESZ Reduction Plan 10km to 1-3km, Karbi Anglong Corridors & EPA 1986 Section 3; Climate-Resilient Food Systems: UN WFP Faure-Mehta Blueprint, NFSA 2013 Shift to 'Climate Buffer', PDS Diversification & Net-Zero Agri). |
 | GS_ScienceTech_VR_Notes | S&T Lecture 1: Syllabus Overview & Public Health (Virology) | 2026-08-25 | 3 | 66.7% | 2026-08-28 | Confident | 2019, 2020, 2022, 2024 | Mastered Spike protein/ACE-2 receptor and virus genome either/or rule. Logged HBV DNA virus trap (MST-028). |
-| GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-08-26 | 0 | 0% | 2026-08-27 | New | 2014, 2018, 2021, 2024 | Added ST-02-01 to ST-02-15 (15 micro-topics: Cobalt-60 Radiotherapy, Food Irradiation & Radura, Mutagenic vs GM Crops, INS Arihant/SSBN P5+1, K-series SLBMs, Ballistic vs Cruise, Agni-5 MIRV, BrahMos, Nuclear Triad & NFU Second Strike). |
-| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-08-25 | 8 | 87.5% | 2026-08-28 | Confident | 2018, 2020, 2023, 2024 | Mastered MAT 14%, CGT holding periods, STT, Round Tripping, CII indexation, DTC, Limited DTAA. Reviewing SC DDT verdict DTAA vs MFN (MST-029). |
+| GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-09-05 | 1 | 100% | 2026-09-08 | Confident | 2014, 2018, 2021, 2024 | Ghost Recall first pass: Co-60 γ / Radura / mutagenic vs GM; Arihant–Arighat–Aridhaman; K-15 750 / K-4 3500; ballistic space vs cruise skim. Trap: Co-60 also radiotherapy; Arisudan / US Trident not class. |
+| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-05 | 9 | 88.9% | 2026-09-08 | Somewhat | 2018, 2020, 2023, 2024 | Cluster pass. **MAT = 14%** from 1 Apr 2026, not 15% (`MST-045`). GMCT 15% OECD + DTAA≠MFN held. `MST-029` still 9 Sep. |
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
-| GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-02 | 2 | 83.5% | 2026-09-05 | Confident | 2017, 2019 | Pillars + Iltutmish Caliph/Tanka ok. Khalsa → treasury / Iqta = non-feudal salary (`MST-034` Resolved 🟢). |
+| GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-05 | 3 | 100% | 2026-09-12 | Confident | 2017, 2019 | +3 held: Iltutmish Caliph / Tanka; four pillars; Khalsa → treasury / Iqta salary. Cluster → **12 Sep**. |
 | GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-04 | 3 | 83.5% | 2026-09-05 | Confident | 2021 | Pottery **appeared** Mesolithic held. Trap: **feature** of pottery is **Neolithic**; “stones as tools” is Palaeolithic. |
 | GS_ScienceTech_VR_Notes | 03 — Atoms, Radioactivity, Elementary Particles (L09) | 2026-09-04 | 2 | 100% | 2026-09-07 | Confident | - | Ghost Recall clean (Shobhit Sir): p=uud / n=udd; 25% after 2 half-lives; Tc-99m 6 h; C-14 ~5000 y; INO Theni / Bodi West Hills / 1.2 km. Cluster +3. |
 | GS_Economy_VR_Notes | 04 — Deficits, FRBM (SS Sir L02) | 2026-09-04 | 2 | 87.5% | 2026-09-07 | Confident | 2023 | Non-debt CR, WMA 90 days, PD=FD−interest, escape ±0.5% held. Reviewing NK Singh: **3% by 2017–18, stay 3 yrs, then 2.5% by 2023–24** (ECO-06-08). |
-| GS_Environment_VR_Notes | Ecosystem + Climate (ENV-01 / ENV-02) | 2026-09-04 | 2 | 50.0% | 2026-09-07 | Somewhat | 2013, 2022 | Tansley / 10% / P sedimentary / UNFCCC 1992/1994 / N₂O held. Reviewing NPP=GPP−R (`MST-041`) and two engines = GHG + sinks (`MST-042`). |
+| GS_Environment_VR_Notes | Ecosystem + Climate (ENV-01 / ENV-02) | 2026-09-05 | 3 | 75.0% | 2026-09-07 | Somewhat | 2013, 2022 | NPP=GPP−R held (`MST-041` Resolved 🟢). Still drill two engines = GHG + sinks (`MST-042`). |
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
-| GS_IR_VR_Notes | 02 — United Nations (Varma Sir L2) | 2026-09-04 | 1 | 100% | 2026-09-05 | Confident | - | Evening MCQ clean: origin, UNSC veto/abstention, ICJ+ICC / PCA not 1945. Ghost Recall still **5 Sep**. |
-| GS_ScienceTech_VR_Notes | 04 — Space Technology Introduction (Vinay Krishna L10) | 2026-09-04 | 1 | 75.0% | 2026-09-05 | Somewhat | - | Station / EOS / Rohini held. Reviewing Karman ≠ rigid OST line (`MST-043`). |
-| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-05 | Confident | - | Hospital+home / 62.2%; El Niño through Feb 2027. |
-| GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-04 | 1 | 0.0% | 2026-09-05 | Somewhat | - | Timing + CAQM+ISRO held. **44% = some weeks**, not whole winter (`MST-044`). |
-| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-04 | 4 | 75.0% | 2026-09-05 | Somewhat | 2015, 2020 | Fertilizer invert **held** on evening MCQ. Still drill tomorrow (`MST-036` Repeat 2). |
+| GS_IR_VR_Notes | 02 — United Nations (Varma Sir L2) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Ghost Recall clean: 24 Oct 1945 / 50→193 / ICJ Hague / 15=5+10 / 9/15 + no P5 no / abstention ≠ veto. Cluster +3. |
+| GS_ScienceTech_VR_Notes | 04 — Space Technology Introduction (Vinay Krishna L10) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Karman ≠ rigid OST line held (`MST-043` Resolved 🟢). Trap: fuel’s third job = **initial velocity**. Cluster +3. |
+| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-06 | New | - | Still untested in Ghost Recall. First-pass leftover for **6 Sep** Q1–Q2. |
+| GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-05 | 2 | 100% | 2026-09-20 | Confident | - | **44% = some weeks**, season 14–15% (`MST-044` Resolved 🟢). |
+| GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-05 | 5 | 100% | 2026-09-20 | Confident | 2015, 2020 | Fertilizer farmer=production / company=product held (`MST-036` Resolved 🟢). |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 
 
@@ -60,6 +60,16 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 24 — 2026-09-05 (Ghost Recall)
+- **Subject:** IR-02 UN, ST-04 space, ST-02 nuclear first pass, ECO-04 tax first pass, Medieval +3, MST-036/041/043/044
+- **Format:** 8 clustered recall questions (60-min morning)
+- **Score:** 8 / 8 clusters (Q5 atom fail: MAT rate)
+- **Strengths:** UN Day 24 Oct 1945 / 50→193 / ICJ Hague / 15=5+10 / 9/15 + no P5 no / abstention ≠ veto; Karman 100 / NASA 80 / OST non-binding; 30 km air drag; micro-g + free fall; Skylab US / Mir USSR; food irradiation cold + Radura + no residual; mutagenic vs GM; Arihant–Arighat–Aridhaman; K-15 750 / K-4 3500; ballistic space vs cruise skim; GMCT 15% OECD; book profit includes upcoming; DTAA not mere MFN; Iltutmish Caliph / Tanka; four pillars; Khalsa → treasury / Iqta salary; farmer=production / company=product; 44% = some weeks; NPP=GPP−R.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-045 / MAT rate:* **14%** (from 1 Apr 2026), **not 15%**. 15% is **GMCT**.
+- **Traps (no new MST):** Fuel’s third job = **initial velocity** (he named CAM + orbit change only). Co-60 γ is **also radiotherapy**, not only food. P5+1 ≠ US **Trident**. **Arisudan** not in class note. Iqta = **revenue assignment as salary**, not a feudal land grant. Coin = **Tanka**.
+- **Resolved:** `MST-036` fertilizer, `MST-041` NPP, `MST-043` Karman, `MST-044` 44% weekly.
 
 ### Session 23 — 2026-09-04 (Evening MCQ)
 - **Subject:** IR-02 UN, ST-04 space, CA-260904 (Bang / El Niño), GEO-07 stubble CAQM patch, MST-036 fertilizer
