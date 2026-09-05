@@ -53,6 +53,7 @@
 | GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-05 | 2 | 100% | 2026-09-20 | Confident | - | **44% = some weeks**, season 14–15% (`MST-044` Resolved 🟢). |
 | GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-05 | 5 | 100% | 2026-09-20 | Confident | 2015, 2020 | Fertilizer farmer=production / company=product held (`MST-036` Resolved 🟢). |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
+| GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-05 | 0 | 0% | 2026-09-06 | New | 2012, 2017, 2022 | Added POL-06-01 to POL-06-12. Traps: interim ≠ caretaker; minority ≠ coalition; AGI pleasure ≠ minister pleasure; 368 = 2/3 P+V **and** >½ total; Art 61 = 2/3 **total**. |
 
 
 ---

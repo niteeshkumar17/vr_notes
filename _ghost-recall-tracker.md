@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-05
-*   **Active Micro-Topics:** 454
+*   **Active Micro-Topics:** 466
 *   **Overall Database Mastery:** 76.4% 📈
 *   **Today's Recall Completed:** 8 (8/8 clusters; 1 atom — MAT 14%)
 *   **Active Learning Gaps Detected:** 5 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-045` MAT 14%≠15%; leftover `CA-260904`)
-*   **New Topics Ingested Today:** — (no new class yet)
+*   **New Topics Ingested Today:** **POL-06** (Abhey Kumar L5 — interim / AGI / majorities) — first due **6 Sep**
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -401,6 +401,22 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | POL-04A-11 | Kitchen Cabinet / Coterie: Extra-Constitutional Power Centres & Accountability | 2 | ★★★★★ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `Coterie` $\leftrightarrow$ `Extra-Constitutional` $\leftrightarrow$ `Power Without Accountability` $\leftrightarrow$ `Political vs Public Interest` |
 | POL-04A-12 | Shadow Cabinet: UK/Canada/NZ, Cabinet in Waiting & Two-Party System Requirement | 2 | ★★★★☆ | Day 5 | 2026-08-27 | 100% | High 🌟 | 97% | 94% | 2 | 0 | - | 2026-08-22 | Fast 🟢 | `PM in Waiting` $\leftrightarrow$ `Cabinet in Waiting` $\leftrightarrow$ `Two-Party System` $\leftrightarrow$ `India: Two-Alliance` $\leftrightarrow$ `Training Ground` |
 
+### Polity (Abhey Kumar — Lecture 5: Interim, AGI & Parliamentary Majorities)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| POL-06-01 | Interim / Provisional Govt vs Caretaker (System vs No System; GOI Act 1935) | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `GOI Act 1935` $\leftrightarrow$ `Yunus Chief Advisor` $\leftrightarrow$ `Caretaker Under Constitution` |
+| POL-06-02 | Minority Govt ≠ Coalition: UPA 2004 218+Outside; NDA Majority; AAP 2013 | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Issue-Based Support` $\leftrightarrow$ `2008 India-US Nuclear` $\leftrightarrow$ `NDA 293→318` $\leftrightarrow$ `BJP 240 / 2019 303` |
+| POL-06-03 | AGI Art 76: President+MoLJ; No Term; Pleasure=Govt; CoS Rules 1987 3+3 | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 77(3) AOBR` $\leftrightarrow$ `Resign on CoM Dissolution` $\leftrightarrow$ `Venkataramani 2025 +2yr` $\leftrightarrow$ `Tushar Mehta 2018` |
+| POL-06-04 | AGI Eligibility = SC Judge (Citizen + 5yr HC / 10yr Adv / Jurist SC-only) | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Distinguished Jurist Never Used` $\leftrightarrow$ `Not for High Court` |
+| POL-06-05 | AGI Duties: Const 3 + 1950 Notification 3; Art 143 ≥5 Judges; DoLA Path | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Advise GoI` $\leftrightarrow$ `Rep SC/HC` $\leftrightarrow$ `Presidential Reference` |
+| POL-06-06 | AGI Rights: Art 76(3) Audience / 88 Speak No Vote / 105(4) MP Privileges | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Any Court incl Tribunal` $\leftrightarrow$ `UK AG is Minister` $\leftrightarrow$ `Civil Arrest 40+40` |
+| POL-06-07 | AGI Limits + Private Practice + Retainer (Not Employee / No Salary) | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Brief Against GoI` $\leftrightarrow$ `Criminal Defence Needs Permission` $\leftrightarrow$ `Director Needs Permission` |
+| POL-06-08 | Law Officers Hierarchy + Advocates Act 1961 Sec 23 Pre-Audience | 2 | ★★★★☆ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `AGI→SGI→Addl SG→Adv Gen State` $\leftrightarrow$ `Pre-Audience ≠ Audience` |
+| POL-06-09 | Art 79: President Integral Part; Summon/Prorogue/Adjourn; 5 Functions | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 78 PM Duty` $\leftrightarrow$ `Art 245 Extra-Territorial` $\leftrightarrow$ `BNS 2023 S.1` $\leftrightarrow$ `Q Hour 11 / Zero 12` |
+| POL-06-10 | Max 550/250 vs Total 543/245; Quorum Art 100 = 1/10 Total | 1 | ★★★★☆ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Max Unused in Maths` $\leftrightarrow$ `Below Quorum = Adjourn` |
+| POL-06-11 | Absolute 272+ / Simple Present+Voting / Effective = Total−Vacancy | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Absolute Forms Govt Only` $\leftrightarrow$ `Simple 256 Drill` $\leftrightarrow$ `Effective = Removal 8 Posts` $\leftrightarrow$ `RS Effective / LS Simple VP` |
+| POL-06-12 | Special: 249/312 = 2/3 P+V; 368 = 2/3 P+V + >½ Total; 61 = 2/3 Total | 3 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 249 State List` $\leftrightarrow$ `Art 312 AIS` $\leftrightarrow$ `368 Floor = Absolute` $\leftrightarrow$ `Art 61 Never Used` |
+
 ### Current Affairs (August 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -639,10 +655,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (6 Sep) Q1–Q2:** today’s classes if ingested; else leftover **CA-260904** (Bang / El Niño)
-  2. **Q3–Q6:** Polity President · Polity secularism / Preamble (schedule)
+  1. **Tomorrow (6 Sep) Q1–Q2:** **POL-06** (Abhey L5 — interim / AGI / majorities) + leftover **CA-260904** (Bang / El Niño)
+  2. **Q3–Q6:** Polity President · Polity secularism / Preamble (schedule) — do **not** replace with POL-06 facts
   3. **Q7:** GEO-06 **+3**. **Q8:** `MST-045` MAT 14% · leftover `MST-037`/`039`/`042` if one slot
-  4. Passed today: **IR-02** + **ST-04** + **ST-02** + **ECO-04** (except 02) → **8 Sep**. Medieval 09/14/19 → **12 Sep**
+  4. Passed 5 Sep morning: **IR-02** + **ST-04** + **ST-02** + **ECO-04** (except 02) → **8 Sep**. Medieval 09/14/19 → **12 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` stay resolved.
 
 
