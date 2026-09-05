@@ -55,6 +55,7 @@
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 | GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-05 | 0 | 0% | 2026-09-06 | New | 2012, 2017, 2022 | Added POL-06-01 to POL-06-12. Traps: interim ≠ caretaker; minority ≠ coalition; AGI pleasure ≠ minister pleasure; 368 = 2/3 P+V **and** >½ total; Art 61 = 2/3 **total**. |
 | GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-05 | 0 | 0% | 2026-09-06 | New | 2006, 2012 | Added POL-07-01 to POL-07-10. Traps: RS PR ≠ President PR; open ballot 2003 / *Kuldip Nayar*; RS ≠ secondary; NCM never passed; Art 94 Speaker stays; vacancy ≠ absence. |
+| Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-05 | 0 | 0% | 2026-09-06 | New | - | New: 2015 Model BIT State-heavy / democratic deficit; SC 60→62, 5.18 cr, 7 States. EOS-05 + UNCLOS = in-place patches. |
 
 
 ---

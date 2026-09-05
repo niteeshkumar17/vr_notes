@@ -38,6 +38,24 @@ He is **not** a stickler for National Council of Educational Research and Traini
 
 On **Independence Day**, the **Indian Space Research Organisation (ISRO)** marked its **57th Founder’s Day**. The programme is opening to **private** entities — scale and economic size are meant to become manifold.
 
+### Update — 5 September 2026 (*The Hindu* — EOS-05 / GSLV-F17; not a new topic)
+
+Same GISAT launch Vinay Sir flagged in class (~**2:30** a.m.). Paper: **2:55 a.m., Friday 4 September 2026**, second pad, **Satish Dhawan Space Centre (SDSC), Sriharikota**.
+
+| Clip fact | Number / name |
+|:---|:---|
+| Satellite | **Earth Observation Satellite-05 (EOS-05)** — first dedicated Earth-observation sat in a **geosynchronous** orbit; “eye in the sky” |
+| Vehicle | **GSLV-F17** — **51.7 m**, **3** stages (third **cryogenic**), lift-off **420.5 tonnes** |
+| Count | **107th** launch from Sriharikota; **19th** GSLV flight |
+| Mass / life | **2,367 kg** (heaviest GSLV payload so far; **GSLV-D1** was **1,536 kg**) · **9 years** |
+| Orbit | **Sub-geosynchronous transfer orbit (Sub-GTO)** now; raise to **geosynchronous (GEO) ~36,000 km** (class **35,786 km**) |
+| Uses | Real-time multi-band imagery — agriculture, environment, disaster management; “strategic data” for national activities |
+| Chair | **V. Narayanan** — solar panels out; “operating perfectly” |
+
+**Replaces EOS-03**, lost on **GSLV-F10 (August 2021)**. Relief after **PSLV-C61 (18 May 2025)** and **PSLV-C62 / EOS-N1 (12 January 2026)**. ISRO had not flown since January 2026.
+
+Class fuel point still holds: transfer orbit is temporary; fuel **raises** it to GEO.
+
 ---
 
 ## 1. Why space (and later biotech) stay predictable (ST-04-01)

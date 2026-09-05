@@ -320,6 +320,10 @@ Judge the UN on the **four founding objectives**. Class verdict after ~80 years:
 
 Class current illustrations of the same “might is right”: **Venezuela**; **Strait of Hormuz** / **UNCLOS** freedom of navigation.
 
+### Update — 5 September 2026 (*The Hindu* — Tommy Koh; not a new topic)
+
+Same UNCLOS / Hormuz file as Lecture 1–2. **Tommy Koh**: transit passage is **customary law** (binds **Iran**, a non-party). **172** parties; USA still unratified over **Part XI / common heritage**. Full clip on `01_Basics_of_International_Relations.md`.
+
 ### 6.3 Human rights — two glaring misses
 
 | Case | What class said |

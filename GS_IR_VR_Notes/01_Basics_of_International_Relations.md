@@ -223,6 +223,15 @@ Nobody **wants** war — war makes you **poorer**. Last option. Conflicts are in
 
 States stay sovereign: they can **de-ratify**. Class: **US signed UNCLOS but has not ratified** — no legal obligation. India has signed some treaties it has **not** ratified.
 
+### Update — 5 September 2026 (*The Hindu* — Tommy Koh on UNCLOS; not a new topic)
+
+Same convention as class (sign ≠ ratify; US unsigned-into-force). Interview: **Tommy Koh** (president, Third UN Conference on the Law of the Sea, **1982**; Ramon Magsaysay award).
+
+- **172** parties — “near universal.” Koh: no need for a **“UNCLOS IV.”** Still the **“constitution of oceans.”**
+- **Ronald Reagan** blocked on **Part XI** (deep seabed = **common heritage of mankind** — against free-enterprise / private-property). A **1994** fix to Part XI exists; the **United States of America (USA) still has not ratified**. It treats UNCLOS as **authoritative customary law**.
+- **Iran** is not a party. **Transit passage** (class / paper: **Strait of Hormuz**; also **Malacca–Singapore**) is **customary international law** → binds non-parties too.
+- South China Sea / Indian Ocean **Exclusive Economic Zone (EEZ)** and seabed disputes: core architecture “holding.” **“Dark fleet”** (unregulated / sanctioned shipping) on the high seas → take it to the **International Maritime Organization (IMO)**.
+
 <span style="color: #e53e3e;">**Prelims trap:** UN is **not** a world government. Creating a world government would mean India is **not** sovereign. Orgs are **tools of sovereign states**. Signing ≠ ratification.</span>
 
 #### Newspaper update — 1 September 2026 (*The Hindu*; Kallol Bhattacherjee)
