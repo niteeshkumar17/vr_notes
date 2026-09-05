@@ -25,7 +25,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Today's Date:** 2026-09-05
 *   **Active Micro-Topics:** 478
 *   **Overall Database Mastery:** 76.4% 📈
-*   **Today's Recall Completed:** 8 (8/8 clusters; 1 atom — MAT 14%)
+*   **Today's Recall Completed:** 8 (8/8 clusters; 1 atom — MAT 14%) · Evening MCQ 10/10
 *   **Active Learning Gaps Detected:** 6 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-045` MAT 14%≠15%; leftover `CA-260904`; new `CA-260905`)
 *   **New Topics Ingested Today:** **POL-06** + **POL-07** + **CA-260905** (BIT reset / district-judge age) — first due **6 Sep**. EOS-05 + UNCLOS = patches, no extra Day-1.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
