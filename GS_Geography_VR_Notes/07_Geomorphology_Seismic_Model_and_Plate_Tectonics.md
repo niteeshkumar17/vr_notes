@@ -76,28 +76,34 @@ Plates **rest on** the asthenosphere. Energy in the asthenosphere (from the inte
 **Radius** used in class = **6,400 km** (surface → centre).
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Earth interior wedge. Upper mantle is the band from Moho at about 40 km to Repetti at 700 km: lithospheric root plus the whole asthenosphere. Then lower mantle, outer core and inner core." style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Earth interior wedge. Crust is the green 0 to 40 km rind ending at Moho. Upper mantle is 40 to 700 km. Then lower mantle, outer core and inner core." style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <rect x="1" y="1" width="638" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <text x="20" y="26" font-size="13" font-weight="700" fill="#0f172a">Cross-section of Earth's interior (class depths — not to scale)</text>
-<text x="20" y="44" font-size="11" fill="#64748b">Colours = state of matter. Upper mantle is the 40–700 km band, not its own colour.</text>
+<text x="20" y="44" font-size="11" fill="#64748b">Crust is its own rind (0–40 km). Upper mantle is the 40–700 km band, not its own colour.</text>
 <!-- wedge: centre (360, 368); vertical cut faces the depth rail -->
 <path d="M360 68 A300 300 0 0 0 60 368 L360 368 Z" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<path d="M360 88 A280 280 0 0 0 80 368 L360 368 Z" fill="#fde68a" stroke="#ca8a04" stroke-width="1"/>
 <path d="M360 108 A260 260 0 0 0 100 368 L360 368 Z" fill="#fed7aa" stroke="#ea580c" stroke-width="1"/>
 <path d="M360 148 A220 220 0 0 0 140 368 L360 368 Z" fill="#fdba74" stroke="#c2410c" stroke-width="1"/>
 <path d="M360 228 A140 140 0 0 0 220 368 L360 368 Z" fill="#fca5a5" stroke="#dc2626" stroke-width="1"/>
 <path d="M360 300 A68 68 0 0 0 292 368 L360 368 Z" fill="#fb7185" stroke="#9f1239" stroke-width="1"/>
+<!-- crust rind on top so the 0–40 km skin is visible -->
+<path d="M360 68 A300 300 0 0 0 60 368 L80 368 A280 280 0 0 1 360 88 Z" fill="#86efac" stroke="#15803d" stroke-width="1"/>
 <!-- layer names -->
-<text x="100" y="96" font-size="11" font-weight="700" fill="#92400e">Lithosphere · solid</text>
-<text x="100" y="110" font-size="10" fill="#92400e">crust + lithospheric root of UM</text>
-<text x="110" y="142" font-size="11" font-weight="700" fill="#9a3412">Asthenosphere · semi-solid</text>
-<text x="110" y="156" font-size="10" fill="#9a3412">entirely inside upper mantle</text>
+<text x="72" y="78" font-size="11" font-weight="700" fill="#14532d">Crust · SIAL · 0–40 km</text>
+<text x="100" y="104" font-size="11" font-weight="700" fill="#92400e">Lithospheric root · solid SIMA</text>
+<text x="100" y="118" font-size="10" fill="#92400e">still lithosphere · already in UM</text>
+<text x="110" y="146" font-size="11" font-weight="700" fill="#9a3412">Asthenosphere · semi-solid</text>
+<text x="110" y="160" font-size="10" fill="#9a3412">entirely inside upper mantle</text>
 <text x="148" y="210" font-size="11" font-weight="700" fill="#7c2d12">Lower mantle · solid SIMA</text>
 <text x="198" y="292" font-size="11" font-weight="700" fill="#7f1d1d">Outer core · liquid NiFe</text>
 <text x="288" y="348" font-size="10" font-weight="700" fill="#4c0519">Inner core</text>
 <text x="288" y="362" font-size="10" font-weight="700" fill="#4c0519">solid NiFe</text>
-<!-- upper-mantle brace on the cut: Moho y=88 → Repetti y=148 -->
+<!-- crust brace 0–40; upper-mantle brace 40–700 -->
+<line x1="366" y1="68" x2="366" y2="88" stroke="#15803d" stroke-width="3"/>
+<line x1="360" y1="68" x2="366" y2="68" stroke="#15803d" stroke-width="2"/>
+<line x1="360" y1="88" x2="366" y2="88" stroke="#15803d" stroke-width="2"/>
 <line x1="366" y1="88" x2="366" y2="148" stroke="#0f766e" stroke-width="3"/>
-<line x1="360" y1="88" x2="366" y2="88" stroke="#0f766e" stroke-width="2"/>
 <line x1="360" y1="148" x2="366" y2="148" stroke="#0f766e" stroke-width="2"/>
 <!-- depth rail -->
 <line x1="376" y1="68" x2="376" y2="368" stroke="#94a3b8" stroke-width="1.5"/>
@@ -108,9 +114,10 @@ Plates **rest on** the asthenosphere. Energy in the asthenosphere (from the inte
 <circle cx="376" cy="228" r="3.5" fill="#dc2626"/>
 <circle cx="376" cy="300" r="3.5" fill="#9f1239"/>
 <circle cx="376" cy="368" r="3.5" fill="#0f172a"/>
-<text x="392" y="62" font-size="12" font-weight="700" fill="#0f172a">0 km · surface</text>
-<text x="392" y="86" font-size="12" font-weight="700" fill="#0f766e">~40 km · Moho · UM starts</text>
-<text x="392" y="100" font-size="10.5" fill="#0f766e">crust ↔ mantle · still inside lithosphere</text>
+<text x="392" y="58" font-size="12" font-weight="700" fill="#14532d">0 km · surface · CRUST starts</text>
+<text x="392" y="74" font-size="11" font-weight="700" fill="#15803d">CRUST · 0–40 km · SIAL</text>
+<text x="392" y="90" font-size="12" font-weight="700" fill="#0f766e">~40 km · Moho · crust ends · UM starts</text>
+<text x="392" y="104" font-size="10.5" fill="#0f766e">crust ↔ mantle · still inside lithosphere</text>
 <text x="392" y="118" font-size="11" fill="#0f172a">~100 km · lithosphere ends</text>
 <text x="392" y="132" font-size="12" font-weight="700" fill="#0f766e">UPPER MANTLE · 40–700 km</text>
 <text x="392" y="152" font-size="12" font-weight="700" fill="#0f172a">700 km · Repetti · UM ends</text>
