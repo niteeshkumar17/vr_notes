@@ -80,38 +80,38 @@ Plates **rest on** the asthenosphere. Energy in the asthenosphere (from the inte
 <rect x="1" y="1" width="638" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <text x="20" y="26" font-size="13" font-weight="700" fill="#0f172a">Cross-section of Earth's interior (class depths — not to scale)</text>
 <text x="20" y="44" font-size="11" fill="#64748b">Radius 6,400 km · state of matter · discontinuities where wave behaviour jumps</text>
-<!-- wedge layers: centre (48, 368), surface r=300 -->
-<path d="M48 68 A300 300 0 0 1 348 368 L48 368 Z" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
-<path d="M48 108 A260 260 0 0 1 308 368 L48 368 Z" fill="#fed7aa" stroke="#ea580c" stroke-width="1"/>
-<path d="M48 148 A220 220 0 0 1 268 368 L48 368 Z" fill="#fdba74" stroke="#c2410c" stroke-width="1"/>
-<path d="M48 228 A140 140 0 0 1 188 368 L48 368 Z" fill="#fca5a5" stroke="#dc2626" stroke-width="1"/>
-<path d="M48 300 A68 68 0 0 1 116 368 L48 368 Z" fill="#fb7185" stroke="#9f1239" stroke-width="1"/>
+<!-- wedge: centre (360, 368); vertical cut faces the depth rail -->
+<path d="M360 68 A300 300 0 0 0 60 368 L360 368 Z" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<path d="M360 108 A260 260 0 0 0 100 368 L360 368 Z" fill="#fed7aa" stroke="#ea580c" stroke-width="1"/>
+<path d="M360 148 A220 220 0 0 0 140 368 L360 368 Z" fill="#fdba74" stroke="#c2410c" stroke-width="1"/>
+<path d="M360 228 A140 140 0 0 0 220 368 L360 368 Z" fill="#fca5a5" stroke="#dc2626" stroke-width="1"/>
+<path d="M360 300 A68 68 0 0 0 292 368 L360 368 Z" fill="#fb7185" stroke="#9f1239" stroke-width="1"/>
 <!-- layer names inside wedge -->
-<text x="168" y="92" font-size="11" font-weight="700" fill="#92400e">Lithosphere · solid · SIAL→SIMA</text>
-<text x="178" y="128" font-size="11" font-weight="700" fill="#9a3412">Asthenosphere · semi-solid</text>
-<text x="158" y="188" font-size="11" font-weight="700" fill="#7c2d12">Lower mantle · solid SIMA</text>
-<text x="98" y="278" font-size="11" font-weight="700" fill="#7f1d1d">Outer core · liquid NiFe</text>
-<text x="58" y="348" font-size="10" font-weight="700" fill="#4c0519">Inner core</text>
-<text x="58" y="362" font-size="10" font-weight="700" fill="#4c0519">solid NiFe</text>
-<!-- right-side depth rail -->
-<line x1="372" y1="68" x2="372" y2="368" stroke="#94a3b8" stroke-width="1.5"/>
-<circle cx="372" cy="68" r="3.5" fill="#d97706"/>
-<circle cx="372" cy="108" r="3.5" fill="#ea580c"/>
-<circle cx="372" cy="148" r="3.5" fill="#c2410c"/>
-<circle cx="372" cy="228" r="3.5" fill="#dc2626"/>
-<circle cx="372" cy="300" r="3.5" fill="#9f1239"/>
-<circle cx="372" cy="368" r="3.5" fill="#0f172a"/>
-<text x="388" y="64" font-size="12" font-weight="700" fill="#0f172a">0 km · surface</text>
-<text x="388" y="80" font-size="11" fill="#b45309">Moho ~40 km · crust ↔ mantle (inside lithosphere)</text>
-<text x="388" y="104" font-size="12" font-weight="700" fill="#0f172a">~100 km · lithosphere ends</text>
-<text x="388" y="120" font-size="11" fill="#64748b">transition; asthenosphere mid-point ~400–500</text>
-<text x="388" y="148" font-size="12" font-weight="700" fill="#0f172a">700 km · Repetti</text>
-<text x="388" y="164" font-size="11" fill="#64748b">upper ↔ lower mantle · astheno ↔ LM</text>
-<text x="388" y="224" font-size="12" font-weight="700" fill="#0f172a">2,900 km · Gutenberg</text>
-<text x="388" y="240" font-size="11" fill="#64748b">mantle ↔ core · solid → liquid</text>
-<text x="388" y="296" font-size="12" font-weight="700" fill="#0f172a">5,150 km · Lehmann</text>
-<text x="388" y="312" font-size="11" fill="#64748b">outer ↔ inner core · liquid → solid</text>
-<text x="388" y="372" font-size="12" font-weight="700" fill="#0f172a">6,400 km · centre</text>
+<text x="118" y="100" font-size="11" font-weight="700" fill="#92400e">Lithosphere · solid · SIAL→SIMA</text>
+<text x="128" y="148" font-size="11" font-weight="700" fill="#9a3412">Asthenosphere · semi-solid</text>
+<text x="148" y="210" font-size="11" font-weight="700" fill="#7c2d12">Lower mantle · solid SIMA</text>
+<text x="198" y="292" font-size="11" font-weight="700" fill="#7f1d1d">Outer core · liquid NiFe</text>
+<text x="288" y="348" font-size="10" font-weight="700" fill="#4c0519">Inner core</text>
+<text x="288" y="362" font-size="10" font-weight="700" fill="#4c0519">solid NiFe</text>
+<!-- depth rail flush with the vertical cut -->
+<line x1="376" y1="68" x2="376" y2="368" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="376" cy="68" r="3.5" fill="#d97706"/>
+<circle cx="376" cy="108" r="3.5" fill="#ea580c"/>
+<circle cx="376" cy="148" r="3.5" fill="#c2410c"/>
+<circle cx="376" cy="228" r="3.5" fill="#dc2626"/>
+<circle cx="376" cy="300" r="3.5" fill="#9f1239"/>
+<circle cx="376" cy="368" r="3.5" fill="#0f172a"/>
+<text x="392" y="64" font-size="12" font-weight="700" fill="#0f172a">0 km · surface</text>
+<text x="392" y="80" font-size="11" fill="#b45309">Moho ~40 km · crust ↔ mantle (inside lithosphere)</text>
+<text x="392" y="104" font-size="12" font-weight="700" fill="#0f172a">~100 km · lithosphere ends</text>
+<text x="392" y="120" font-size="11" fill="#64748b">transition; asthenosphere mid-point ~400–500</text>
+<text x="392" y="148" font-size="12" font-weight="700" fill="#0f172a">700 km · Repetti</text>
+<text x="392" y="164" font-size="11" fill="#64748b">upper ↔ lower mantle · astheno ↔ LM</text>
+<text x="392" y="224" font-size="12" font-weight="700" fill="#0f172a">2,900 km · Gutenberg</text>
+<text x="392" y="240" font-size="11" fill="#64748b">mantle ↔ core · solid → liquid</text>
+<text x="392" y="296" font-size="12" font-weight="700" fill="#0f172a">5,150 km · Lehmann</text>
+<text x="392" y="312" font-size="11" fill="#64748b">outer ↔ inner core · liquid → solid</text>
+<text x="392" y="372" font-size="12" font-weight="700" fill="#0f172a">6,400 km · centre</text>
 </svg>
 </div>
 
