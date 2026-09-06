@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-06
-*   **Active Micro-Topics:** 494
+*   **Active Micro-Topics:** 496
 *   **Overall Database Mastery:** 76.2% 📈
 *   **Today's Recall Completed:** 8 (morning Ghost Recall) + Evening MCQ **8/10**. Afternoon: **GEO-09** + **MOD-B6** ingested.
 *   **Active Learning Gaps Detected:** 7 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-046` interim≠caretaker **repeat 2**; `MST-047` UPA 2004 / AAP 2013; `MST-048` Art 94; `MST-049` Preamble liberties held evening) · leftover `CA-260904` / `CA-260905`
-*   **New Topics Ingested Today:** **GEO-09** (Rizwan Sir A3) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore) — first due **7 Sep**. GEO-04-08 and MOD-B5-02 patched only (no extra Day-1).
+*   **New Topics Ingested Today:** **GEO-09** + **MOD-B6** (classes) + **CA-260906** (*Hindu*: Yarlung dam + BRICS payments) — first due **7 Sep**. GEO-04-08, MOD-B5-02, **CA-260829** patched only (no extra Day-1).
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -524,6 +524,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260904-02 | WMO Supersized El Niño: Near-100% through Feb 2027; Strongest on Record; Saulo | 2 | ★★★★★ | Day 1 | 2026-09-05 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Eastern Pacific Warming` $\leftrightarrow$ `Trade Winds Weaken` $\leftrightarrow$ `2–7 yr / 9–12 mo` $\leftrightarrow$ `Latin America Droughts` |
 | CA-260905-01 | Model BIT Reset: 2015 State-Heavy; Cabinet Text; Democratic Deficit; Ranjan / LCI 260 | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Budget 2025` $\leftrightarrow$ `Investor vs Regulate` $\leftrightarrow$ `Parliament / DRSCs` $\leftrightarrow$ `UK-Aus-Norway-Colombia` |
 | CA-260905-02 | SC: District Judge 60→62; 5.18 Cr Backlog; 7 States Yes; Surya Kant 1 Sep | 2 | ★★★★★ | Day 1 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Merit Not Automatic` $\leftrightarrow$ `Specialised Service` $\leftrightarrow$ `Sanctioned vs Working` $\leftrightarrow$ `1 Oct Listing` |
+| CA-260906-01 | China Yarlung Zangbo Mega-Dam: 1.2 Tn Yuan / 5 Stations / 15th FYP / Great Bend; Collapse Won't Halt | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Yarlung = Upper Brahmaputra` $\leftrightarrow$ `Nyingchi Li Qiang Jul 2025` $\leftrightarrow$ `No Public Reservoir Data` $\leftrightarrow$ `Rasuwa Hook = CA-260829` |
+| CA-260906-02 | BRICS Payments: SWIFT + USD Vehicle; UPI-PayNow / Nexus / mBridge / BRICS Clear; India ≠ De-dollarise | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Correspondent Banks` $\leftrightarrow$ `SWIFT Messaging Not Money` $\leftrightarrow$ `India Cost+Speed` $\leftrightarrow$ `Trump 100% Tariff Threat` |
 
 ---
 
@@ -692,7 +694,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
   1. **Tomorrow (7 Sep) Q1–Q2:** **GEO-09** (Rizwan Sir A3 — Seismic Model / plume / SFS) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore). Do **not** dump POL-06
-  2. **Q3–Q6:** Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow. Leftover **CA-260904** / **CA-260905** if a slot — do **not** replace Q1–Q2
+  2. **Q3–Q6:** Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow. Leftover **CA-260904** / **CA-260905** / **CA-260906** if a slot — do **not** replace Q1–Q2
   3. **Q7:** GEO-07 **+3**. **Q8:** `MST-046` interim≠caretaker · `MST-047` UPA 2004 / AAP 2013. Leftover `MST-048` Art 94 / `MST-049` TEBFW / `MST-037`/`039`/`042` if one flash
   4. Passed 6 Sep morning: **POL-07** + **POL-02** → **9 Sep**. **GEO-06** → **13 Sep**. **POL-06** did **not** advance. **ECO-04-02** +3 **9 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** stay resolved.

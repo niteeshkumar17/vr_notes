@@ -60,6 +60,7 @@
 | GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-06 | 2 | 85.0% | 2026-09-09 | Somewhat | 2006, 2012 | Open 2003 + no ADL; NCM never passed / 1999 = confidence; Money-Bill final ≠ court-proof. Art 94 = till **next LS first meeting** (`MST-048`). Cluster +3 except 07-10. |
 | GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-06 | 2 | 70.0% | 2026-09-09 | Somewhat | 2013, 2017 | Secularism positive vs laïcité held. Preamble five **TEBFW** held evening (`MST-049` still due 7 Sep Ghost Recall to lock). UoI vs ToI still thin. |
 | Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-05 | 1 | 100% | 2026-09-07 | Confident | - | Evening MCQ held. First Ghost Recall still leftover if a **7 Sep** slot opens. |
+| Current_Affairs | 06 September 2026 (Yarlung dam + BRICS payments) | 2026-09-06 | 0 | 0% | 2026-09-07 | New | - | Added CA-260906-01 / 02. Rasuwa collapse patched only on 29 Aug. First Ghost Recall leftover if a **7 Sep** slot — do **not** bump GEO-09 / MOD-B6. |
 
 
 ---

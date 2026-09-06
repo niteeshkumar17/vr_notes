@@ -106,4 +106,11 @@ Yesterday’s note: mitigation cannot put the cryosphere back this century → *
 
 ---
 
+### Update — 6 September 2026
+
+*The Hindu* (Ananth Krishnan): a Nepal–China **glacial collapse** will **not** halt China’s **Yarlung Zangbo** mega-dam. Mechanism / Rasuwa river-chain stay above. Dam facts (1.2 trillion yuan, five stations, Great Bend, 15th FYP) → `September_2026/2026-09-06_Current_Affairs.md` (`CA-260906-01`). No extra Day-1 row on this cluster.
+
+---
+
 <!-- 2026-08-29: Current Affairs from The Hindu — Nepal Rasuwa ice-rock collapse on Lhende Khola / Bhotekoshi-Trishuli; new moraine-dammed lakes; NDMA 30-45 min GLOF warning limit. -->
+<!-- 2026-09-06: Pointer only — glacial-collapse hook reused for Yarlung dam; full dam note is 6 Sep CA. -->
