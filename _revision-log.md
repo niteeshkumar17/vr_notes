@@ -52,13 +52,13 @@
 | Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-07 | New | - | Still untested in Ghost Recall. Leftover first-pass if a **7 Sep** slot opens. |
 | GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-05 | 2 | 100% | 2026-09-20 | Confident | - | **44% = some weeks**, season 14–15% (`MST-044` Resolved 🟢). |
 | GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-05 | 5 | 100% | 2026-09-20 | Confident | 2015, 2020 | Fertilizer farmer=production / company=product held (`MST-036` Resolved 🟢). |
-| GS_Geography_VR_Notes | 02 — Geomorphology (Lec A3: Seismic Model / plume / SFS) | 2026-09-06 | 0 | 0% | 2026-09-07 | New | 2021 | Rizwan Sir A3, same Geomorphology chapter. GEO-09-01 to GEO-09-10. First Ghost Recall **7 Sep**. Moho ≠ litho–astheno; Conrad today = continental vs oceanic crust; NCERT granite/basalt density reversed. |
-| GS_History_VR_Notes | Modern India (L6: Satyagraha method + Gandhi–Tagore) | 2026-09-06 | 0 | 0% | 2026-09-07 | New | Essay / GS-IV | Added MOD-B6-01 to MOD-B6-06. First Ghost Recall **7 Sep**. Ruskin ≠ Bond; PEASC relative boxes; Tagore patriotism ≠ nationalism; Visva-Bharati 1901 / univ 1921; dignity of physical labour. |
+| GS_Geography_VR_Notes | 02 — Geomorphology (Lec A3: Seismic Model / plume / SFS) | 2026-09-06 | 1 | 75.0% | 2026-09-07 | Somewhat | 2021 | Evening: models, crust types, plume held. Miss: lithosphere **continues below Moho** (crust = outermost of lithosphere). Ghost Recall **7 Sep**. |
+| GS_History_VR_Notes | Modern India (L6: Satyagraha method + Gandhi–Tagore) | 2026-09-06 | 1 | 100% | 2026-09-07 | Somewhat | Essay / GS-IV | Evening 4/4: Ruskin ≠ Bond; conscience final; Tagore patriotism ≠ nationalism; Visva-Bharati 1901 / univ 1921. First Ghost Recall **7 Sep**. |
 | GS_Geography_VR_Notes | Climatology (GEO-06 lapse / tropopause) | 2026-09-06 | 3 | 82.0% | 2026-09-13 | Somewhat | 2013 | +3 held: ELR = actual, NLR = average. Trap: NLR **6.5°C/km**; coldest **layer** = **mesopause**, not equator tropopause. Cluster → **13 Sep**. |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-07 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
-| GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-06 | 2 | 50.0% | 2026-09-07 | Somewhat | 2012, 2017, 2022 | 368 / 61 / 249 held. Swapped interim↔caretaker (`MST-046`). Examples: UPA **2004** + AAP Delhi **2013**, not 2003 / 2019 (`MST-047`). Cluster did **not** advance. AGI rows leftover **8 Sep**. |
+| GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-06 | 3 | 40.0% | 2026-09-07 | Somewhat | 2012, 2017, 2022 | 368 / 61 / 249 held. `MST-046` **repeat 2** (evening still swapped). Examples: UPA **2004** + AAP Delhi **2013** (`MST-047`). Cluster did **not** advance. |
 | GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-06 | 2 | 85.0% | 2026-09-09 | Somewhat | 2006, 2012 | Open 2003 + no ADL; NCM never passed / 1999 = confidence; Money-Bill final ≠ court-proof. Art 94 = till **next LS first meeting** (`MST-048`). Cluster +3 except 07-10. |
-| GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-06 | 1 | 55.0% | 2026-09-09 | Somewhat | 2013, 2017 | Secularism positive vs laïcité held. Four bulky reasons miss GOI Act 1935 + single Constitution. Preamble liberties ≠ movement (`MST-049`). UoI vs ToI still thin. |
+| GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-06 | 2 | 70.0% | 2026-09-09 | Somewhat | 2013, 2017 | Secularism positive vs laïcité held. Preamble five **TEBFW** held evening (`MST-049` still due 7 Sep Ghost Recall to lock). UoI vs ToI still thin. |
 | Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-05 | 1 | 100% | 2026-09-07 | Confident | - | Evening MCQ held. First Ghost Recall still leftover if a **7 Sep** slot opens. |
 
 
@@ -67,6 +67,15 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 27 — 2026-09-06 (Evening MCQ)
+- **Subject:** GEO-09 (Rizwan A3), MOD-B6 (Tarique L6), MST-046 caretaker, MST-049 Preamble
+- **Format:** 10 Prelims MCQs (batched; evening slot)
+- **Score:** 14.68 / 20.00 (Net Score: +16.00 − 1.32 = 14.68 | Accuracy: 80.00% — 8/10 correct | 2 Incorrect | 0 Unattempted)
+- **Strengths:** Suess→CD / Moho→SFS / Seismic→PT (Q1 guessed **a**, counted); granite vs basalt + Conrad today = C↔O; hotspot lower mantle / plume indirect / IC solid ≠ cooler; Ruskin ≠ Bond + own experiments; conscience final + means=ends; Tagore patriotism ≠ nationalism; Visva-Bharati 1901 / univ 1921 + dignity of labour; Preamble **TEBFW** (`MST-049` held).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-046 / interim vs caretaker (Repeat 2):* He again picked caretaker = “no Constitution.” **Caretaker** stays under the Constitution. **Interim** = no (or sidelined) system. **1947–52 / GOI Act 1935** is the interim example.
+- **Traps (no new MST):** Moho ≠ lithosphere–asthenosphere was rejected correctly. Miss was statement 3: **crust is the outermost of the lithosphere**, so lithosphere **continues below Moho** to ~100 km. Drill on **7 Sep** GEO-09, do not spawn a second Day-1 row.
 
 ### Session 26 — 2026-09-06 (Ghost Recall)
 - **Subject:** POL-06 interim/majorities, POL-07 houses/motions, POL-02 President first pass, POL-03/04 Preamble, GEO-06 +3, MST-045 MAT

@@ -25,8 +25,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Today's Date:** 2026-09-06
 *   **Active Micro-Topics:** 494
 *   **Overall Database Mastery:** 76.2% 📈
-*   **Today's Recall Completed:** 8 (morning Ghost Recall already logged). Afternoon: **GEO-09** + **MOD-B6** ingested.
-*   **Active Learning Gaps Detected:** 7 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-046` interim≠caretaker; `MST-047` UPA 2004 / AAP 2013; `MST-048` Art 94; `MST-049` Preamble liberties) · leftover `CA-260904` / `CA-260905`
+*   **Today's Recall Completed:** 8 (morning Ghost Recall) + Evening MCQ **8/10**. Afternoon: **GEO-09** + **MOD-B6** ingested.
+*   **Active Learning Gaps Detected:** 7 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-046` interim≠caretaker **repeat 2**; `MST-047` UPA 2004 / AAP 2013; `MST-048` Art 94; `MST-049` Preamble liberties held evening) · leftover `CA-260904` / `CA-260905`
 *   **New Topics Ingested Today:** **GEO-09** (Rizwan Sir A3) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore) — first due **7 Sep**. GEO-04-08 and MOD-B5-02 patched only (no extra Day-1).
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
@@ -237,8 +237,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | GEO-09-01 | Seismic Model 1960s: State of Matter; 3 Models → CD / SFS / PT | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Until 1950s Thoroughly Solid` $\leftrightarrow$ `Litho Solid / Astheno Semi / OC Liquid / IC Solid` $\leftrightarrow$ `No Single Author` |
 | GEO-09-02 | Plate = Lithosphere Segment; Tectonics = Move+Interact; Major/Minor | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Fragmented Lithosphere` $\leftrightarrow$ `Rests on Asthenosphere` $\leftrightarrow$ `C vs O vs C-O Plates` |
-| GEO-09-03 | Depths + 4 Discontinuities; Moho ≠ Litho-Astheno | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `R 6400` $\leftrightarrow$ `Moho ~40 inside Litho` $\leftrightarrow$ `Litho ~100` $\leftrightarrow$ `Repetti 700` $\leftrightarrow$ `Gutenberg 2900` $\leftrightarrow$ `Lehmann 5150` |
-| GEO-09-04 | Five Placement Lines: Crust⊂Litho; Litho Partial UM; Astheno Entirely UM | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Crust Outermost of Litho` $\leftrightarrow$ `Composition Varies w Depth` $\leftrightarrow$ `Transition Zone` |
+| GEO-09-03 | Depths + 4 Discontinuities; Moho ≠ Litho-Astheno | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `R 6400` $\leftrightarrow$ `Moho ~40 inside Litho` $\leftrightarrow$ `Litho ~100` $\leftrightarrow$ `Repetti 700` $\leftrightarrow$ `Gutenberg 2900` $\leftrightarrow$ `Lehmann 5150` $\leftrightarrow$ `Evening: rejected 2 but missed litho continues below Moho` |
+| GEO-09-04 | Five Placement Lines: Crust⊂Litho; Litho Partial UM; Astheno Entirely UM | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Crust Outermost of Litho` $\leftrightarrow$ `Composition Varies w Depth` $\leftrightarrow$ `Transition Zone` $\leftrightarrow$ `Drill 7 Sep: crust⊂litho so litho below Moho` |
 | GEO-09-05 | Heat Path + Radioactivity 70/30/5; Astheno T>2500 Own Source | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `IC Intense Conduction` $\leftrightarrow$ `OC Convective Cells` $\leftrightarrow$ `LM Slow Conduction` $\leftrightarrow$ `Thermal Equilibrium ~6000` $\leftrightarrow$ `Core then Astheno` |
 | GEO-09-06 | Mantle Hotspot vs Plume; Indirect on Plates (2021 PYQ) | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hotspot = LM Heat Pile from OC` $\leftrightarrow$ `Plume Rises Adds Energy to AST` $\leftrightarrow$ `Not Permanent / Not All Arrive` $\leftrightarrow$ `PH-Java Minor but Active` |
 | GEO-09-07 | Boundary = Direction; Margin = O-O / O-C / C-C; Six Combos | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Need Arrows for C vs D` $\leftrightarrow$ `Same Place Two Names` |
