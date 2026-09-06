@@ -254,40 +254,37 @@ Even a **continent–continent divergent** first **rifts**, deepens, becomes a *
 **Continental crust** = part of the crust **above sea level**. **Oceanic crust** = crust of the **ocean floor** (below sea level). Both are still the **outer part of the lithosphere**.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-label="Continental crust is thick granite of density 2.7 with a deep Moho; oceanic crust is thin basalt of density 3 with a shallow Moho; Conrad is the inclined granite-basalt join" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="1" y="1" width="638" height="318" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
-<text x="20" y="26" font-size="13" font-weight="700" fill="#0f172a">Continental crust vs oceanic crust (class — not to scale)</text>
-<text x="20" y="44" font-size="11" fill="#64748b">Moho deeper under continents · Conrad = granite ↔ basalt, not crust ↔ mantle</text>
-<!-- mantle basement -->
-<rect x="28" y="168" width="584" height="128" rx="4" fill="#fed7aa"/>
-<text x="48" y="288" font-size="11" font-weight="700" fill="#9a3412">Upper mantle · SIMA</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-label="Continental crust stands above sea level as a thick granite block with a deep Moho; oceanic crust is a thin basalt slab under the ocean with a shallow Moho; Conrad is the inclined join between them" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="638" height="338" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="20" y="24" font-size="13" font-weight="700" fill="#0f172a">Continental crust vs oceanic crust (class — not to scale)</text>
+<text x="20" y="40" font-size="11" fill="#64748b">Moho deeper under continents · Conrad = granite ↔ basalt, not crust ↔ mantle</text>
+<!-- upper mantle -->
+<rect x="24" y="196" width="592" height="120" rx="6" fill="#fed7aa"/>
+<text x="40" y="300" font-size="11" font-weight="700" fill="#9a3412">Upper mantle · SIMA</text>
 <!-- sea level -->
-<line x1="28" y1="88" x2="612" y2="88" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="528" y="82" font-size="10" fill="#0369a1">sea level</text>
-<!-- continental block: above SL + deep root -->
-<path d="M40 56 L40 88 L248 88 L268 248 L40 248 Z" fill="#86efac" stroke="#15803d" stroke-width="1.5"/>
-<text x="88" y="78" font-size="12" font-weight="700" fill="#14532d">Continental crust</text>
-<text x="88" y="120" font-size="11" fill="#166534">granite · SIAL</text>
-<text x="88" y="138" font-size="11" fill="#166534">density ~2.7</text>
-<text x="88" y="156" font-size="11" fill="#166534">60–70 km thick</text>
+<line x1="24" y1="92" x2="616" y2="92" stroke="#0284c7" stroke-width="1.25" stroke-dasharray="5 3"/>
+<text x="548" y="86" font-size="10" fill="#0369a1">sea level</text>
+<!-- continent: land above SL + thick root -->
+<path d="M36 52 L250 52 L250 92 L270 252 L36 252 Z" fill="#86efac" stroke="#15803d" stroke-width="1.6"/>
+<text x="70" y="74" font-size="12" font-weight="700" fill="#14532d">Continental crust</text>
+<text x="70" y="130" font-size="11" fill="#166534">granite · SIAL</text>
+<text x="70" y="148" font-size="11" fill="#166534">density ~2.7</text>
+<text x="70" y="166" font-size="11" fill="#166534">60–70 km thick</text>
 <!-- ocean water -->
-<rect x="268" y="88" width="332" height="22" fill="#7dd3fc"/>
-<text x="400" y="104" font-size="10" fill="#0c4a6e">ocean</text>
-<!-- oceanic crust thin -->
-<path d="M268 110 L600 110 L600 168 L288 168 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.5"/>
-<text x="360" y="132" font-size="12" font-weight="700" fill="#0f172a">Oceanic crust</text>
-<text x="360" y="148" font-size="11" fill="#1e293b">basalt · SIMA · density ~3 · 15–20 km</text>
-<!-- Conrad inclined join -->
-<line x1="248" y1="88" x2="288" y2="168" stroke="#7c3aed" stroke-width="2.5"/>
-<line x1="288" y1="168" x2="320" y2="148" stroke="#7c3aed" stroke-width="1"/>
-<text x="324" y="146" font-size="11" font-weight="700" fill="#5b21b6">Conrad D.</text>
-<text x="324" y="160" font-size="10" fill="#6d28d9">inclined · C crust ↔ O crust</text>
-<!-- Moho under continent -->
-<line x1="40" y1="248" x2="268" y2="248" stroke="#b45309" stroke-width="2.5"/>
-<text x="48" y="264" font-size="11" font-weight="700" fill="#92400e">Moho (deep)</text>
-<!-- Moho under ocean -->
-<line x1="288" y1="168" x2="600" y2="168" stroke="#b45309" stroke-width="2.5"/>
-<text x="500" y="186" font-size="11" font-weight="700" fill="#92400e">Moho (shallow)</text>
+<rect x="250" y="92" width="366" height="28" fill="#7dd3fc"/>
+<text x="400" y="111" font-size="11" font-weight="600" fill="#0c4a6e">ocean</text>
+<!-- oceanic crust -->
+<path d="M250 120 L616 120 L616 196 L270 196 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.6"/>
+<text x="360" y="150" font-size="12" font-weight="700" fill="#0f172a">Oceanic crust</text>
+<text x="360" y="168" font-size="11" fill="#1e293b">basalt · SIMA · density ~3 · 15–20 km</text>
+<!-- Conrad: inclined granite–basalt join -->
+<line x1="250" y1="52" x2="270" y2="196" stroke="#7c3aed" stroke-width="2.4"/>
+<text x="278" y="214" font-size="11" font-weight="700" fill="#5b21b6">Conrad D. · inclined · C crust ↔ O crust</text>
+<!-- Moho -->
+<line x1="36" y1="252" x2="270" y2="252" stroke="#b45309" stroke-width="2.6"/>
+<text x="44" y="268" font-size="11" font-weight="700" fill="#92400e">Moho (deep)</text>
+<line x1="270" y1="196" x2="616" y2="196" stroke="#b45309" stroke-width="2.6"/>
+<text x="500" y="214" font-size="11" font-weight="700" fill="#92400e">Moho (shallow)</text>
 </svg>
 </div>
 
