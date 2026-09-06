@@ -27,7 +27,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Overall Database Mastery:** 76.2% 📈
 *   **Today's Recall Completed:** 8 (morning Ghost Recall already logged). Afternoon: **GEO-09** + **MOD-B6** ingested.
 *   **Active Learning Gaps Detected:** 7 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-046` interim≠caretaker; `MST-047` UPA 2004 / AAP 2013; `MST-048` Art 94; `MST-049` Preamble liberties) · leftover `CA-260904` / `CA-260905`
-*   **New Topics Ingested Today:** **GEO-09** (Shiv Arpit A3) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore) — first due **7 Sep**. GEO-04-08 and MOD-B5-02 patched only (no extra Day-1).
+*   **New Topics Ingested Today:** **GEO-09** (Rizwan Sir A3) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore) — first due **7 Sep**. GEO-04-08 and MOD-B5-02 patched only (no extra Day-1).
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -154,7 +154,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 
 
-### Geography (Fundamentals & Geomorphology — A1/A2 Shiv Arpit Sir)
+### Geography (Fundamentals & Geomorphology — A1/A2/A3 Rizwan Sir)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | GEO-01-01 | Geodesy, Ellipsoid & Great Circle Geometry | 1 | ★★★☆☆ | Day 21 | 2026-09-03 | 100% | High 🌟 | 95% | 92% | 5 | 0 | - | 2026-08-13 | Fast 🟢 | `Earth Oblateness` $\leftrightarrow$ `Meridians` $\leftrightarrow$ `Flight Paths` |
@@ -691,7 +691,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (7 Sep) Q1–Q2:** **GEO-09** (Shiv Arpit A3 — Seismic Model / plume / SFS) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore). Do **not** dump POL-06
+  1. **Tomorrow (7 Sep) Q1–Q2:** **GEO-09** (Rizwan Sir A3 — Seismic Model / plume / SFS) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore). Do **not** dump POL-06
   2. **Q3–Q6:** Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow. Leftover **CA-260904** / **CA-260905** if a slot — do **not** replace Q1–Q2
   3. **Q7:** GEO-07 **+3**. **Q8:** `MST-046` interim≠caretaker · `MST-047` UPA 2004 / AAP 2013. Leftover `MST-048` Art 94 / `MST-049` TEBFW / `MST-037`/`039`/`042` if one flash
   4. Passed 6 Sep morning: **POL-07** + **POL-02** → **9 Sep**. **GEO-06** → **13 Sep**. **POL-06** did **not** advance. **ECO-04-02** +3 **9 Sep**

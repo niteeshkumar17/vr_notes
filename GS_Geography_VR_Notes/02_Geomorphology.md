@@ -2,13 +2,13 @@
 
 > **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3)
 > **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**
-> **Teacher:** **Shiv Arpit Sir** (all Geomorphology lectures)
-> **Source:** Vajiram & Ravi — **Shiv Arpit Sir** | class notes (Lecture A1 + A2 + A3) + Audio Transcripts
+> **Teacher:** **Rizwan Sir** (three Geomorphology lectures: A1–A3)
+> **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3) + Audio Transcripts
 > **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)
 
 ---
 
-### Lecture A1 — 8 August 2026 (Shiv Arpit Sir)
+### Lecture A1 — 8 August 2026 (Rizwan Sir)
 
 ## References
 
@@ -340,12 +340,12 @@ Three theories that explain the arrangement of continents & ocean basins:
 <!-- ██  LECTURE A2 — 9 August 2026  ██ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-### Lecture A2 — 9 August 2026 (Shiv Arpit Sir)
+### Lecture A2 — 9 August 2026 (Rizwan Sir)
 
 > **Date of Lecture:** 9 August 2026 (Lecture A2)
 > **Date Added:** 2026-08-09
-> **Teacher:** **Shiv Arpit Sir**
-> **Source:** Vajiram & Ravi — **Shiv Arpit Sir** | class notes (Lecture A2) + Audio Transcript
+> **Teacher:** **Rizwan Sir**
+> **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A2) + Audio Transcript
 > **Topics Covered:** Endogenetic Forces (detailed), Energy Source for Endo, Earth's Evolution & Geological Time Scale, Hadean Eon & Giant Impact, Density Adjustment, Heat Transfer Mechanisms (Convection as driving mechanism), Interior of Earth (Approaches & Models 1–2)
 
 ---
@@ -744,11 +744,11 @@ EXPRESSION (Mountain building, Volcanism, Earthquakes, Plate Tectonics)
 
 ---
 
-### Lecture A3 — 6 September 2026 (Shiv Arpit Sir)
+### Lecture A3 — 6 September 2026 (Rizwan Sir)
 
 > **Date of Lecture:** 6 September 2026  
 > **Date Added:** 2026-09-06  
-> **Faculty:** **Shiv Arpit Sir**. Vajiram & Ravi World Physical Geography.  
+> **Faculty:** **Rizwan Sir**. Vajiram & Ravi World Physical Geography.  
 > **Source:** Class + audio transcript (`Geography L060926`) + 5 handwritten sheets (wedge cross-section, heat path, mid-ocean ridge / R₁–R₃, continental vs oceanic crust, inner-core pressure).  
 > **Continues:** Lecture A2 — 9 August 2026, §§18.1–18.5 above. This sitting is **Model 3** (state of matter) and the surface theories it unlocks.  
 > **Also relevant for:** Prelims (discontinuities, lithosphere ≠ crust, Conrad, mantle plume); **GS-I** (endogenic force, plate tectonics); class flagged a **2021** mains-style ask on **mantle plume ↔ plate tectonics**.
@@ -1233,5 +1233,5 @@ graph TD
 
 <!-- 2026-08-08: Created from Vajiram Lecture A1 (Geomorphology intro). Covers Topics I & partial IX of syllabus. 6 handwritten pages + full audio transcript integrated. -->
 <!-- 2026-08-09: Lecture A2 integrated. Topics II (Endogenetic Forces) & III (Interior of Earth — Models 1 & 2) added. 7 handwritten pages + full audio transcript processed. Seismic Model (Model 3) to be elaborated in next class. -->
-<!-- 2026-09-02: Teacher recorded — both Geomorphology lectures (A1 8 Aug, A2 9 Aug) are Shiv Arpit Sir. -->
+<!-- 2026-09-06: Faculty correction — Geomorphology A1 (8 Aug), A2 (9 Aug), A3 (6 Sep) are Rizwan Sir, not Shiv Arpit. -->
 <!-- 2026-09-06: Lecture A3 — Seismic Model, heat path, mantle plume, SFS, crust types. Merged into this file (same Geomorphology chapter). Cluster GEO-09. -->
