@@ -19,7 +19,7 @@
 | Current_Affairs | Current Affairs (08 August 2026) | 2026-08-08 | 0 | 0% | 2026-08-09 | New | 2017, 2019, 2023 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j), India-US Strategic Partnership & Flexible Realism, Pakistan-Turkiye-Saudi Mecca Trilateral Defence Pact. |
 | Current_Affairs | Current Affairs (11 August 2026) | 2026-08-11 | 0 | 0% | 2026-08-12 | New | 2018, 2021, 2024 | PMLA conviction vs Double Jeopardy (Art 20(2)/CrPC 300), English Language Policy (Art 343 & Census data), Tribunals Reforms Bill 2026 & NTC. |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 01: Strategy & Laws of Land) | 2026-08-16 | 8 | 100% | 2026-08-21 | Confident | 2012, 2017, 2022 | Mastered Magna Carta, Polity vs Politics, Parts/Schedules, Art 52/53/58. |
-| GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2020, 2022 | Mastered Art 54/55 Electoral College, 1971 Census Freeze, Art 71 Exclusive Jurisdiction. Reviewing Art 111 Money Bill non-returnable trap. |
+| GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-09-06 | 5 | 85.0% | 2026-09-09 | Somewhat | 2018, 2020, 2022 | Ghost Recall first pass: Art 54 + 70th CAA Delhi/Puducherry; 1971 freeze. Trap: absolute example = **PEPSU 1954**; pocket = **Giani Zail Singh** / 1986 PO Bill. Cluster +3 **9 Sep**. |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04 & 05: Part I & Territorial Reorg) | 2026-08-17 | 2 | 100% | 2026-08-20 | Confident | 2013, 2014, 2016, 2019, 2024 | Mastered Indestructible Union / Destructible States, Territory vs Union of India, Berubari Union 1960, Maganbhai 1969, 100th CAA 2015. |
 | Current_Affairs | Current Affairs (11–16 August 2026) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2021, 2024 | Mastered Double Jeopardy vs PMLA (MST-013 Resolved), SC 9-Judge Mineral Royalty Entry 49/54 (MST-017 Resolved), GIM CAG Audit targets. Reviewing Zanskar glacier drainage basin (MST-019). |
 | Current_Affairs | Current Affairs (17 August 2026) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2017, 2020, 2023 | Added CA-260817-01 to CA-260817-03 (Delhi CEO SIR Electoral Rolls Digitisation & Rule 21A Deletion Safeguards; ONOE Parliamentary Accountability vs Truncated Terms; ONOE Federal Autonomy & Constitutional Amendments Matrix). |
@@ -38,7 +38,7 @@
 | Current_Affairs | Current Affairs (27 August 2026) | 2026-08-27 | 0 | 0% | 2026-08-28 | New | 2014, 2017, 2019, 2021, 2024 | Added CA-260827-01 to CA-260827-03 (Meghalaya Uranium Mining Resolution, Sixth Schedule Customary Land Rights & SC Dimasa 2019 Verdict; Kaziranga ESZ Reduction Plan 10km to 1-3km, Karbi Anglong Corridors & EPA 1986 Section 3; Climate-Resilient Food Systems: UN WFP Faure-Mehta Blueprint, NFSA 2013 Shift to 'Climate Buffer', PDS Diversification & Net-Zero Agri). |
 | GS_ScienceTech_VR_Notes | S&T Lecture 1: Syllabus Overview & Public Health (Virology) | 2026-08-25 | 3 | 66.7% | 2026-08-28 | Confident | 2019, 2020, 2022, 2024 | Mastered Spike protein/ACE-2 receptor and virus genome either/or rule. Logged HBV DNA virus trap (MST-028). |
 | GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-09-05 | 1 | 100% | 2026-09-08 | Confident | 2014, 2018, 2021, 2024 | Ghost Recall first pass: Co-60 γ / Radura / mutagenic vs GM; Arihant–Arighat–Aridhaman; K-15 750 / K-4 3500; ballistic space vs cruise skim. Trap: Co-60 also radiotherapy; Arisudan / US Trident not class. |
-| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-05 | 10 | 90.0% | 2026-09-08 | Somewhat | 2018, 2020, 2023, 2024 | Cluster +3 **8 Sep**. **MAT 14%** held on evening MCQ (`MST-045` still due Ghost Recall **6 Sep**). GMCT 15% OECD. `MST-029` 9 Sep. |
+| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-06 | 11 | 90.0% | 2026-09-08 | Somewhat | 2018, 2020, 2023, 2024 | Cluster +3 **8 Sep**; **ECO-04-02** now **9 Sep**. `MST-045` Resolved 🟢 (14% ≠ GMCT 15%). Trap: MAT date is **1 Apr 2026**, not 2016. `MST-029` 9 Sep. |
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
 | GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-05 | 3 | 100% | 2026-09-12 | Confident | 2017, 2019 | +3 held: Iltutmish Caliph / Tanka; four pillars; Khalsa → treasury / Iqta salary. Cluster → **12 Sep**. |
@@ -49,13 +49,15 @@
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
 | GS_IR_VR_Notes | 02 — United Nations (Varma Sir L2) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Ghost Recall clean: 24 Oct 1945 / 50→193 / ICJ Hague / 15=5+10 / 9/15 + no P5 no / abstention ≠ veto. Cluster +3. |
 | GS_ScienceTech_VR_Notes | 04 — Space Technology Introduction (Vinay Krishna L10) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Karman ≠ rigid OST line held (`MST-043` Resolved 🟢). Trap: fuel’s third job = **initial velocity**. Cluster +3. |
-| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-06 | New | - | Still untested in Ghost Recall. First-pass leftover for **6 Sep** Q1–Q2. |
+| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-07 | New | - | Still untested in Ghost Recall. Leftover first-pass if a **7 Sep** slot opens. |
 | GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-05 | 2 | 100% | 2026-09-20 | Confident | - | **44% = some weeks**, season 14–15% (`MST-044` Resolved 🟢). |
 | GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-05 | 5 | 100% | 2026-09-20 | Confident | 2015, 2020 | Fertilizer farmer=production / company=product held (`MST-036` Resolved 🟢). |
-| GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-06 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
-| GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-05 | 1 | 100% | 2026-09-06 | Confident | 2012, 2017, 2022 | Evening MCQ clean: interim≠caretaker; minority≠coalition; AGI no 5-yr term / retainer / no vote; 249=2/3 P+V; 368=both; 61=2/3 **total**. Ghost Recall still **6 Sep**. |
-| GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-05 | 1 | 100% | 2026-09-06 | Confident | 2006, 2012 | Evening MCQ clean: RS open 2003 / no ADL / no NOTA; NCM=entire CoM + 50 leave + never passed; Speaker certificate ≠ court-proof; JS chair S→DyS→DyC; Art 94 continuity. Ghost Recall still **6 Sep**. |
-| Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-05 | 1 | 100% | 2026-09-06 | Confident | - | Evening MCQ: 2015 BIT is **State-heavy** not investor-heavy; 60→62 **not automatic**. First Ghost Recall still **6 Sep**. |
+| GS_Geography_VR_Notes | Climatology (GEO-06 lapse / tropopause) | 2026-09-06 | 3 | 82.0% | 2026-09-13 | Somewhat | 2013 | +3 held: ELR = actual, NLR = average. Trap: NLR **6.5°C/km**; coldest **layer** = **mesopause**, not equator tropopause. Cluster → **13 Sep**. |
+| GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-07 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
+| GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-06 | 2 | 50.0% | 2026-09-07 | Somewhat | 2012, 2017, 2022 | 368 / 61 / 249 held. Swapped interim↔caretaker (`MST-046`). Examples: UPA **2004** + AAP Delhi **2013**, not 2003 / 2019 (`MST-047`). Cluster did **not** advance. AGI rows leftover **8 Sep**. |
+| GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-06 | 2 | 85.0% | 2026-09-09 | Somewhat | 2006, 2012 | Open 2003 + no ADL; NCM never passed / 1999 = confidence; Money-Bill final ≠ court-proof. Art 94 = till **next LS first meeting** (`MST-048`). Cluster +3 except 07-10. |
+| GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-06 | 1 | 55.0% | 2026-09-09 | Somewhat | 2013, 2017 | Secularism positive vs laïcité held. Four bulky reasons miss GOI Act 1935 + single Constitution. Preamble liberties ≠ movement (`MST-049`). UoI vs ToI still thin. |
+| Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-05 | 1 | 100% | 2026-09-07 | Confident | - | Evening MCQ held. First Ghost Recall still leftover if a **7 Sep** slot opens. |
 
 
 ---
@@ -63,6 +65,19 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 26 — 2026-09-06 (Ghost Recall)
+- **Subject:** POL-06 interim/majorities, POL-07 houses/motions, POL-02 President first pass, POL-03/04 Preamble, GEO-06 +3, MST-045 MAT
+- **Format:** 8 clustered recall questions (60-min morning)
+- **Score:** 5 / 8 clusters held (Q1 POL-06 fail; Q6 bulky + liberties fail; Q2/Q3/Q4/Q5/Q7/Q8 held with traps)
+- **Strengths:** 368 = 2/3 P+V **and** >½ total; 61 = 2/3 **total**; 249/312 = 2/3 P+V. RS open 2003, ADL off; NCM never passed; 1999 = confidence not NCM; Money-Bill final ≠ court-proof. Art 54 + 70th CAA Delhi/Puducherry; 1971 freeze; Kalam suspensive 2006. Positive secularism vs French laïcité; Ambedkar can make/break states. ELR = actual, NLR = average. MAT **14%** ≠ **15%** GMCT.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-046 / interim vs caretaker:* **Caretaker** is under the Constitution. **Interim** is no (or sidelined) system. He swapped the labels.
+  - *MST-047 / minority examples:* **UPA I 2004** = coalition minority; **AAP Delhi 2013** = single-party minority. 2019 (303) is a **majority**.
+  - *MST-048 / Art 94:* Speaker stays till **immediately before the next LS first meeting**, not till the new government forms.
+  - *MST-049 / Preamble liberties:* **thought, expression, belief, faith, worship** — not freedom of movement (Art 19).
+- **Traps (no new MST):** *Kuldip Nayar* (2006) on open ballot. Absolute veto class example = **PEPSU 1954**. Pocket 1986 PO Bill = **Giani Zail Singh**, not “G. Rajiv Gandhi.” Four bulky reasons = **GOI Act 1935 + diversity + single Constitution + lawyers’ mindset**. NLR = **6.5°C/km**. Coldest **layer** = **mesopause**. MAT date = **1 Apr 2026**, not 2016. *Sarva Dharma Sambhavah* / principled equidistance. **UoI** = states; **ToI** = states + UTs.
+- **Resolved:** `MST-045` MAT 14%.
 
 ### Session 25 — 2026-09-05 (Evening MCQ)
 - **Subject:** POL-06 majorities / AGI / interim, POL-07 RS–LS / NCM / Speaker, CA-260905 BIT + district judges, MST-045 MAT

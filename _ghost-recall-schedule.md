@@ -45,7 +45,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 | **Thu 4 Sep** | **ST-03** (S&T L09 atoms) + **ECO-06** (SS Sir deficits / FRBM) | Env ecosystem · Env climate action | Ancient **+3** | **MST-038** inversion (troposphere) · `MST-036`/`037`/`039` or `CA-260903-01` if one slot left |
 | **Fri 5 Sep** | **IR-02** (Varma Sir UN) + **ST-04** (Vinay Krishna space) | S&T nuclear · Economy tax | Medieval **+3** | **Q8:** `MST-036` fertilizer · `MST-043` Karman≠OST · `MST-044` 44% weekly · `MST-041`/`042` if a slot |
 | **Sat 6 Sep** | **POL-06** (Abhey L5) + **POL-07** (Abhey L6 houses / motions) | Polity President · Polity secularism / Preamble · leftover **CA-260904** / **CA-260905** if a slot | GEO-06 **+3** | **Q8:** `MST-045` MAT 14%≠15% · leftover `MST-037`/`039`/`042` |
-| **Sun 7 Sep** | Previous classes | Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow | GEO-07 **+3** | — |
+| **Sun 7 Sep** | Previous classes (or leftover POL-06 AGI if no new Sunday note) | Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow · leftover **CA-260904** / **CA-260905** if a slot | GEO-07 **+3** | **Q8:** `MST-046` interim≠caretaker · `MST-047` UPA 2004 / AAP 2013 · leftover `MST-048` Art 94 / `MST-049` TEBFW |
 | **Mon 8 Sep** | Previous classes | Early Modern remaining (Charters / Viceroys) · S&T virology untested | Env **+3** · **MST-029** DDT/DTAA (due 9 Sep: can sit here or 9th) | — |
 | **Tue 9 Sep** | Previous classes | Polity Vajiram features · Geo remaining (interior / exogenic) | Nuclear **+3** | **MST-029** if not done 8th |
 | **Wed 10 Sep** | Previous classes | CA **24–31 Aug** (one week = one cluster) | Tax **+3** | — |
