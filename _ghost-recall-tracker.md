@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-06
-*   **Active Micro-Topics:** 488
+*   **Active Micro-Topics:** 494
 *   **Overall Database Mastery:** 76.2% 📈
-*   **Today's Recall Completed:** 8 (morning Ghost Recall already logged). Afternoon: **GEO-09** ingested.
+*   **Today's Recall Completed:** 8 (morning Ghost Recall already logged). Afternoon: **GEO-09** + **MOD-B6** ingested.
 *   **Active Learning Gaps Detected:** 7 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-046` interim≠caretaker; `MST-047` UPA 2004 / AAP 2013; `MST-048` Art 94; `MST-049` Preamble liberties) · leftover `CA-260904` / `CA-260905`
-*   **New Topics Ingested Today:** **GEO-09** (Shiv Arpit A3 — Seismic Model / plume / SFS) — first due **7 Sep**. GEO-04-08 patched only (no extra Day-1).
+*   **New Topics Ingested Today:** **GEO-09** (Shiv Arpit A3) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore) — first due **7 Sep**. GEO-04-08 and MOD-B5-02 patched only (no extra Day-1).
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -140,11 +140,17 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | MOD-B4-06 | Home Rule Limits: Urban Only; Gandhi Cold; Swaraj Birthright Slogan | 2 | ★★★★☆ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WW-I Hardships` $\leftrightarrow$ `Jinnah Nehru Patel Azad Gandhi` $\leftrightarrow$ `>90% Village` $\leftrightarrow$ `Mandalay 1908-14` $\leftrightarrow$ `Class: Jinnah Prompted Slogan` |
 | MOD-B4-07 | Lucknow Pact 1916: Joint Session, 1/3 Seats, 3/4 Muslim Veto | 3 | ★★★★★ | Day 1 | 2026-08-31 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WW-I Unrest` $\leftrightarrow$ `Dual Membership till 1938` $\leftrightarrow$ `Cow + Mosque Music` $\leftrightarrow$ `1/3 Elected Muslim Seats` $\leftrightarrow$ `Accept Separate Electorate` $\leftrightarrow$ `3/4 Muslim Veto` |
 | MOD-B5-01 | Lucknow Pact C: Harmony, Rowlatt 1919, Khilafat–NCM, Montford 1918 / GoI Act 1919 | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `FPTP Majority-Minority` $\leftrightarrow$ `Cow + Mosque Music Lived` $\leftrightarrow$ `Rowlatt 1919` $\leftrightarrow$ `NCM 1920-22` $\leftrightarrow$ `Montagu SoS + Chelmsford 1916-21` $\leftrightarrow$ `GoI Act 1919` |
-| MOD-B5-02 | Making of Mahatma Map: SA vs India; Noakhali; 15 Aug 1947 Not Delhi | 1 | ★★★★☆ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Guha Gandhi Before India` $\leftrightarrow$ `Attenborough Gandhi` $\leftrightarrow$ `Benegal Making of Mahatma` $\leftrightarrow$ `Tagore Nehru Ambedkar Later` $\leftrightarrow$ `1917-48 Later` |
+| MOD-B5-02 | Making of Mahatma Map: SA vs India; Noakhali; 15 Aug 1947 Not Delhi | 1 | ★★★★☆ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Guha Gandhi Before India` $\leftrightarrow$ `Attenborough Gandhi` $\leftrightarrow$ `Benegal Making of Mahatma` $\leftrightarrow$ `Tagore = MOD-B6 6 Sep` $\leftrightarrow$ `Nehru Ambedkar + 1917-48 Later` |
 | MOD-B5-03 | Gandhi Timeline: Law 1888-91, Rajkot/BHC 1891-93, SA 1893-1914, Return 9 Jan 1915 PBD | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Theosophical Society` $\leftrightarrow$ `Gita in English` $\leftrightarrow$ `9 Jan 1915 Not 14` $\leftrightarrow$ `Pravasi Bharatiya Divas` |
 | MOD-B5-04 | SA Events: Dada Abdullah, Durban-Pretoria Train, Natal Indian Congress, Tolstoy Farm, Indian Opinion, Satyagraha Sept 1906 | 3 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Mini-India 2%` $\leftrightarrow$ `Lawyer + English` $\leftrightarrow$ `Natal Province Not City` $\leftrightarrow$ `Insistence on Truth` $\leftrightarrow$ `Gokhale Guru` $\leftrightarrow$ `CF Andrews Mohan` |
 | MOD-B5-05 | SA Laws: Pass, Marriage (Kasturba), Poll Tax, Immigration | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Pass Enter City` $\leftrightarrow$ `Marriage Null if Unregistered` $\leftrightarrow$ `Nikahnama vs Phere` $\leftrightarrow$ `Poll Tax Exist` |
 | MOD-B5-06 | Gandhi Religious Thought: Truth=God, Service, Soul vs Body, Many Paths, Same Core | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Jain Hira Chand/Bai` $\leftrightarrow$ `Gita Karma Not Only Bhakti` $\leftrightarrow$ `No Conversion No Shuddhi` $\leftrightarrow$ `1924 Belgaum President` |
+| MOD-B6-01 | Sources of Gandhian Political Thought: Tolstoy, John Ruskin, Thoreau, Own Experiments | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Leo Tolstoy Never Met` $\leftrightarrow$ `John Ruskin ≠ Bond` $\leftrightarrow$ `Thoreau` $\leftrightarrow$ `Own Thought + Experiments with Truth` |
+| MOD-B6-02 | Satyagraha 5+2: Search, Insist, God Witness, Fearless, Change Heart | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Satya+Agraha` $\leftrightarrow$ `Cognitive Mind vs Conscience` $\leftrightarrow$ `Dialogue then Fasting` $\leftrightarrow$ `Man by Nature Good` $\leftrightarrow$ `Right Means for Right End` |
+| MOD-B6-03 | Absolute vs Relative Truth; PEASC; Orientalism 1800–1950 | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Death = Absolute` $\leftrightarrow$ `Martyr vs Terrorist Relative` $\leftrightarrow$ `P E A S C` $\leftrightarrow$ `Oxford-Cambridge Inferiority Scholarship` |
+| MOD-B6-04 | Tagore Nationalism: Patriot then Critic; Internationalism; d. 1941 | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Vande Mataram 1896 INC` $\leftrightarrow$ `Amar Sonar Bangla` $\leftrightarrow$ `Jana Gana Mana Not Full` $\leftrightarrow$ `Patriotism OK Nationalism Boundaries Not` $\leftrightarrow$ `Xenophobia / Mussolini Hitler` |
+| MOD-B6-05 | Gandhi Nationalism vs Tagore: Defined Boundary; People First; Same Page No Hatred | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Travelled India Widely` $\leftrightarrow$ `Idea of India One Platform` $\leftrightarrow$ `People then Territory` $\leftrightarrow$ `Same Page No Hatred of Nations` |
+| MOD-B6-06 | Education: Visva-Bharati 1901/1921 vs Gandhi Access, Ethics, Dignity of Labour | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Shantiniketan Univ 1921` $\leftrightarrow$ `Arts + Open Garden` $\leftrightarrow$ `Good Person before Good Student` $\leftrightarrow$ `Self-Reliance` $\leftrightarrow$ `Dignity in Physical Labour` |
 
 
 
@@ -685,7 +691,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (7 Sep) Q1–Q2:** **GEO-09** (Shiv Arpit A3 — Seismic Model / plume / SFS). Second Sunday class if a note lands; else do **not** dump POL-06
+  1. **Tomorrow (7 Sep) Q1–Q2:** **GEO-09** (Shiv Arpit A3 — Seismic Model / plume / SFS) + **MOD-B6** (Tarique L6 — Satyagraha / Tagore). Do **not** dump POL-06
   2. **Q3–Q6:** Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow. Leftover **CA-260904** / **CA-260905** if a slot — do **not** replace Q1–Q2
   3. **Q7:** GEO-07 **+3**. **Q8:** `MST-046` interim≠caretaker · `MST-047` UPA 2004 / AAP 2013. Leftover `MST-048` Art 94 / `MST-049` TEBFW / `MST-037`/`039`/`042` if one flash
   4. Passed 6 Sep morning: **POL-07** + **POL-02** → **9 Sep**. **GEO-06** → **13 Sep**. **POL-06** did **not** advance. **ECO-04-02** +3 **9 Sep**

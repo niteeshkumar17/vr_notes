@@ -1,8 +1,8 @@
-# Modern India (1860s–1940s) — Lectures 1–5: Nationalism to the Making of Mahatma
+# Modern India (1860s–1940s) — Lectures 1–6: Nationalism to Gandhi–Tagore Dialogues
 
-> **Date of Lecture:** 1 September 2026 (**Lecture 5**)  
-> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4)  
-> **Date Added:** 2026-08-30; Lecture 5 added **2026-09-01**  
+> **Date of Lecture:** 6 September 2026 (**Lecture 6**)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5)  
+> **Date Added:** 2026-08-30; Lecture 5 added **2026-09-01**; Lecture 6 added **2026-09-06**  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -34,7 +34,8 @@
 9. **Home Rule Leagues, 1916** — Tilak (Pune) & Besant (Madras); urban limit; Gandhi’s critique
 10. **Lucknow Pact, 1916** — INC–Muslim League; 1/3 seats; 3/4 Muslim veto
 11. **Lucknow Pact (C) — significance** — communal harmony; Rowlatt 1919; Khilafat–NCM 1920–22; Montagu–Chelmsford → Government of India Act 1919
-12. **The Making of Mahatma** — Gandhi in South Africa (1893–1914/15); Satyagraha; religious thought
+12. **The Making of Mahatma** — Gandhi in South Africa (1893–1914/15); Satyagraha named; religious thought
+13. **Lecture 6 — Mass Mobilizations and the Dialogues (part taught 6 Sep)** — Gandhian political thought; Satyagraha as method; Gandhi & Tagore on nationalism and education. Nehru / Ambedkar and 1917–48 movements still later.
 
 ---
 
@@ -1012,16 +1013,16 @@ Board title: **The making of Mahatma**. Gandhi stays in the story **till indepen
 <rect x="288" y="112" width="204" height="70" rx="8" fill="#eef2ff" stroke="#a5b4fc"/>
 <text x="390" y="136" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">(A) Thoughts with Tagore,</text>
 <text x="390" y="154" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">Nehru &amp; Ambedkar</text>
-<text x="390" y="172" text-anchor="middle" font-size="10.5" fill="#64748b">later class</text>
+<text x="390" y="172" text-anchor="middle" font-size="10.5" fill="#334155">L6 Tagore — 6 Sep</text>
 <rect x="288" y="192" width="204" height="60" rx="8" fill="#eef2ff" stroke="#a5b4fc"/>
 <text x="390" y="216" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">(B) Gandhian movement</text>
 <text x="390" y="236" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">1917–48</text>
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure:</strong> Board map. This lecture finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought and the India branch come later.</em></p>
+<p style="text-align:center;"><em><strong>Figure:</strong> Board map. Lecture 5 finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought + Tagore = <strong>Lecture 6 (6 Sep)</strong>. Nehru / Ambedkar and 1917–48 still later.</em></p>
 
-**India branch (signposted, not taught today):** compare Gandhi with **Rabindranath Tagore, Jawaharlal Nehru, B.R. Ambedkar**. Movements **1917–48**. Last crisis: **Noakhali**; **15 August 1947 Gandhi was not in Delhi** — communal riots / peace work (**Calcutta / Noakhali**).
+**India branch:** **Rabindranath Tagore** comparison = **Lecture 6 — 6 September 2026** (below). Still pending: **Jawaharlal Nehru, B.R. Ambedkar**; movements **1917–48**. Last crisis: **Noakhali**; **15 August 1947 Gandhi was not in Delhi** — communal riots / peace work (**Calcutta / Noakhali**).
 
 **Reading / film (class):** Ramachandra Guha, *Gandhi Before India* (he wrote *India After Gandhi* first); Richard Attenborough’s film *Gandhi* (South Africa to India); Shyam Benegal, *The Making of Mahatma* (**South Africa only**). Autobiography: *The Story of My Experiments with Truth*.
 
@@ -1098,13 +1099,225 @@ Illiterate traders could not fill the forms. That is why a **lawyer who wrote En
 
 **GS-IV / Essay hook from class:** “Can Gandhi be relevant in the 21st century?” — these five points are the answer they want, not a biography dump. Most people inherit religion **accidentally** (born into it) and from **semi-literate** family / local priests; Gandhi **inquired for himself**.
 
-**Not this class:** political thoughts (Satyagraha as method in full); Gandhi vs Tagore / Nehru / Ambedkar; 1917–48 movements.
+**This class (1 Sep) stopped at religious thought.** Political method (Satyagraha in full) and Gandhi vs Tagore = **Lecture 6 — 6 September 2026**. Still later: Nehru / Ambedkar; 1917–48 movements.
 
 **Class test extras (Prelims, same sitting — Moderates / Swadeshi paper):** **Tilak** and **A.O. Hume** **never** became Congress President. **Gandhi did** — **1924, Belgaum** (Karnataka). If an option-set has Tilak or Hume as session president, eliminate.
 
 ---
 
-## UPSC PYQ Connections (Lectures 1–5)
+### Lecture 6 — 6 September 2026 (Mohammad Tarique Sir)
+
+> **Handout:** Vajiram & Ravi — *Lecture-6 The Mass Mobilizations and The Dialogues*.  
+> **Taught today:** Gandhian **political** thought + Gandhi & Tagore on **nationalism** and **education**.  
+> **Not this class:** Nehru / Ambedkar comparisons; 1917–48 mass movements (the rest of the handout).  
+> **Source:** 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript.  
+> **Cluster:** **MOD-B6**. First Ghost Recall **7 September 2026**.
+
+Class opened by applying Gandhi’s **religious** line (no conversion, no *shuddhi*) to a current **Uttarakhand (UK)** *shuddhi-karan* episode — he would be **morally shocked**. The wider GS-IV hook: courts still write **collective conscience** (class: Nirbhaya death sentence). On Manipur, mob lynching, *shuddhi*, the public is often silent. Many scholars, class said, we have **selective conscience**, not collective. **Gandhian thought is not selective conscience.**
+
+---
+
+## 22. Sources of Gandhian political thought (MOD-B6-01)
+
+**Political thought** = state, governance, constitution, legislature / executive / judiciary — *should it be, or should it not*. Religious names (Jesus, Gita) belong to Lecture 5, not here.
+
+Gandhi named who shaped this side. Class list (sheet + audio):
+
+| # | Source | Class trap |
+|:---:|:---|:---|
+| 1 | **Leo Tolstoy** — Russian author. Already in South Africa: **Tolstoy Farm**. They **never met**. | Do not drop this as only a farm name |
+| 2 | **John Ruskin** — European philosopher | **Not Ruskin Bond** (class: “Don’t do Ruskin Bond”) |
+| 3 | **Henry David Thoreau** (class: “Thoreo”) | Class did not dictate a book title |
+| 4 | **Gandhi’s own thought and experiments** | *The Story of My Experiments with Truth*. If you only list Tolstoy / Ruskin / Thoreau, why call it **Gandhian** thought? |
+
+He took **only the parts** that matched his own thought and action. He did not swallow Tolstoy, Thoreau or Ruskin whole.
+
+**Why he is “great” (class two tests):** (i) ideas that are original or in a new form; (ii) **action** that follows the idea. **Karl Marx** = thought, no movement. **Lenin / Mao** = thought + seizure of the state. Gandhi = thought **and** a movement, without that seizure model. **Swami Vivekananda’s** Chicago paradox sits next to this: Indian literature glorifies the human being more than any country; Indian practice has treated humans as inhuman (untouchability, women, tribes). Gandhi’s life is the attempt to close that gap.
+
+---
+
+## 23. Satyagraha — insistence on truth (MOD-B6-02)
+
+Named **September 1906** (Lecture 5). Literal: **Satya** = truth; **Agraha** = insistence. Class: **five** major points; point 5 has **(a)** and **(b)** — “5 + 2”. That is enough for 150–1500 words or a 4–5 minute interview.
+
+### 1. Search the truth (how + what)
+
+**How:** two instruments.
+
+| Instrument | Role |
+|:---|:---|
+| **Cognitive mind** (class also said consciousness) | Can teach you — and can give **wrong** information / ideas |
+| **Conscience** | Tells whether the act / thought is **right or wrong**. **Final check.** |
+
+**What:** truth is **absolute** or **relative**.
+
+- **Absolute:** no two versions. American and Chinese must say the same. Class examples: death (a thief may deny God; cannot deny death — even mountains, suns, moons, stars “die”); earth’s rotation / revolution once you drop the parlance “sun rises in the east.”
+- **Relative:** same act, two labels. Freedom fighter / martyr vs terrorist. Osama bin Laden vs George W. Bush / Tony Blair. **Naxal** vs state in central India: **three versions** (state; those involved; a third “planted insider” who flips). Class line a student wrote: **one man’s terrorist is another man’s freedom fighter.**
+
+**Relative truth lives in five boxes — sheet letters P, E, A, S, C:**
+
+| Letter | Class word |
+|:---:|:---|
+| **P** | Political |
+| **E** | Economic |
+| **A** | Administrative |
+| **S** | Social |
+| **C** | Cultural |
+
+Likes, dislikes, party loyalty, caste, leader-cult — all **relative**. Gandhi: **nothing wrong** in holding a relative truth — **search** whether it is really true.
+
+```mermaid
+flowchart TB
+  ST["Search the truth"]
+  ST --> HOW["How"]
+  ST --> WHAT["What"]
+  HOW --> CM["Cognitive mind"]
+  HOW --> CON["Conscience — final check"]
+  WHAT --> ABS["Absolute"]
+  WHAT --> REL["Relative"]
+  REL --> P["P Political"]
+  REL --> E["E Economic"]
+  REL --> A["A Administrative"]
+  REL --> S["S Social"]
+  REL --> C["C Cultural"]
+```
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Sheet flowchart under Satyagraha point 1.</em></p>
+
+**Orientalism, 1800–1950** (sheet margin; class). Oxford / Cambridge / German / French / American scholars in this window “proved” Indians and Arabs inferior in **race, IQ and character** — the same relative-truth trick used against women, Dalits and tribals. Sheet also wrote **Chakravarty** next to that margin. Class did **not** expand the first name; do not invent one.
+
+### 2. Insist on truth / firmness
+
+Once conscience has confirmed the stand, **agraha** = remain **firm**. Searching without insisting is unfinished Satyagraha.
+
+### 3. Make God as witness
+
+Gandhi was a religious man. Once God is witness you will not do something you know is wrong. (Religious thought from Lecture 5: **Truth = God**.)
+
+### 4. Have no fear of any consequence / fearlessness
+
+Decide, believe you are right, **stick**. Do not fear jail, job, mob, or “what will people say.”
+
+### 5. Change the heart and mind of the opponent
+
+**First:** dialogue / talk / persuasion.  
+**If required:** **self-suffering** (class: fasting). You suffer; the opponent also suffers — **because man by nature is good**.
+
+**(a) Man by nature is good.** The **act** may be wrong; the person is not born bad. Class even put this on General Dyer: the act is condemned; the nature-claim still holds. Remaining good is not a special credit — you stayed with the flow. Becoming bad is a fall (company / situation). Guilt after a wrong act is evidence of the original good. **This is why non-violence is logical:** you are fighting on **relative** truth — you cannot kill someone for a truth that might later flip. Even on **absolute** truth you cannot kill, because man by nature is good.
+
+**(b) Means must be right for a right end / goal.**
+
+| | Revolutionaries | Gandhians |
+|:---|:---|:---|
+| Independence as **goal** | **When** matters more than how | **How** matters more than when |
+
+Sheet margin: **Goal** = what to get; **Means** = how to get. Class: “It is not important **when** to get independence. What is important is **how**.” Robin Hood / cinema heroes who plunder the rich to help the poor = **right end, wrong means**. Famous line class used: **an eye for an eye would make the world blind.** If the means are wrong, the whole act is wrong — even when the slogan is “national interest.”
+
+---
+
+## 24. Gandhi & Tagore — nationalism (MOD-B6-04 / MOD-B6-05)
+
+Handout heading: **Gandhi & Tagore. On Nationalism & Education.**
+
+### (A) Tagore on nationalism
+
+**Rabindranath Tagore** — thinker-poet of the **first four decades of the 20th century**; **died 1941**. Like other young nationalists he was **patriotic**:
+
+- Sang **Vande Mataram** at the **1896 Indian National Congress (INC)** session.
+- Active in the **Swadeshi** movement (**1905–07**).
+- Wrote **Amar Sonar Bangla** (already in Lecture 3 — today’s Bangladesh anthem).
+- Wrote **Jana Gana Mana**. Class: the version sung at government functions is **not the full song**.
+
+**Very soon he became a critic of nationalism.**
+
+| Acceptable to him | Not acceptable |
+|:---|:---|
+| **Patriotism** | **Nationalism** based on **boundaries** and **identity** |
+
+Thinkers and poets, class said, do not accept boundaries. Two kinds: **geographical** (Wagah, Radcliffe) and **mental** (Lakshman Rekha for women, Dalits, poor). Tagore rejected **human-made** boundaries God had not created.
+
+He travelled **Japan to Argentina, Europe to America** and held that the **essence of all human beings is the same**; differences of colour, nose, hair are **superficial**.
+
+He was a **witness to two world wars**. Class: those wars sat on nationalism as a **claim of superiority**, in which love of country becomes hatred of others — **xenophobia**.
+
+He was **horrified** by the rise of **Benito Mussolini** and **Adolf Hitler**, who provoked people against other nations. **Therefore he advocated internationalism** — **mutual love and respect without claiming superiority.**
+
+### Gandhi’s nationalism (contrast)
+
+Gandhi was a **seasoned politician**. He travelled India **more widely than any Indian political leader before him** and saw the **diversity**. Only **Indian nationalism** and the **idea of India** could put that diversity on **one platform**.
+
+So **his nationalism had a defined boundary** — unlike Tagore’s refusal of boundaries. But it was still **love of the nation**, and that love **stands first for the people, then for territory**. Nation = people; land / Himalaya / history books matter, but they are second.
+
+**Same page as Tagore:** nationalism **must not** be based on **hatred of other nations**.
+
+| | Tagore | Gandhi |
+|:---|:---|:---|
+| Patriotism | Yes | Yes |
+| Nationalism as identity + border | **Rejects** | **Needs a defined boundary** (else no one platform) |
+| What comes first | Human essence (no superiority) | **People**, then territory |
+| Hatred of other nations | No — that is xenophobia | No — **same page** |
+| Alternative word he used | **Internationalism** | Indian nationalism / idea of India |
+
+---
+
+## 25. Gandhi & Tagore — education (MOD-B6-06)
+
+### (B) Tagore on education
+
+Apart from poet: **painter, musician, short-story writer, educationist**. Class named *Gora*; Bengal’s **Rabindra Sangeet**.
+
+**1901:** founded **Visva-Bharati** (class: Vishva-Bharati / “Vishubharti”) at **Shantiniketan**, West Bengal, near Calcutta. **Became a university in 1921.**
+
+| Tagore | Not this |
+|:---|:---|
+| **Objective** | Not only degrees, diplomas, certificates, jobs |
+| **Aim** | **Enlighten** — remove **darkness, fear, prejudice**; make her a **wiser** person (class: write *her* in modern answers) |
+| **Method** | Experimented with new **curriculum** and **pedagogy** (lesson plan, teaching method, exam, assignment) |
+| **What students learned** | Music, poetry, sculpture, painting, dance, drama, story-writing — so they become **creative, imaginative, constructive and productive** |
+| **Where** | Some classes in an **open garden** — clouds, trees, birds, fresh rain — not only a **closed-door classroom** |
+
+Class chain: raw **information** → processed = **educated** → further filtration = **wise**. UPSC, he said, is selecting for **wise**, especially GS-IV, Essay, Interview.
+
+### Gandhi on education
+
+Concerned with **objective** *and* **access**. Access in India was limited to men, upper castes, urban, rich. Rural, lower caste, female, poor were denied by **geography** (hills, forests, remote villages), **policy**, and **social / scriptural** bars.
+
+| Gandhi wanted | Class line |
+|:---|:---|
+| **Ethical education first** | Emerge as a **good person before** a good student (GS-IV) |
+| **Skills** | Farming, weaving, carpentry (sheet). Class also listed pottery, horticulture; “mobile repairing” was his contemporary joke, not a 1920s syllabus |
+| **(a) Self-reliance** | Handout point, end of class |
+| **(b) Dignity in physical labour** | Must be **established**. Farming stays backward, class said, partly because clerical work is praised and the field is not |
+
+Do **not** paste a textbook name (**Nai Talim / Wardha**) onto this class — he did not dictate it today.
+
+```mermaid
+flowchart TB
+  G["Gandhi political thought"]
+  G --> SRC["4 sources"]
+  SRC --> T["Tolstoy"]
+  SRC --> R["John Ruskin ≠ Bond"]
+  SRC --> TH["Thoreau"]
+  SRC --> EXP["Own thought + experiments"]
+  G --> SAT["Satyagraha 5+2"]
+  SAT --> S1["Search: mind + conscience; abs / rel; PEASC"]
+  SAT --> S2["Insist / firmness"]
+  SAT --> S3["God as witness"]
+  SAT --> S4["Fearlessness"]
+  SAT --> S5["Dialogue → self-suffering"]
+  S5 --> A["Man by nature good"]
+  S5 --> B["Right means for right end"]
+  G --> NAT["Nationalism: boundary + people first"]
+  TG["Tagore"]
+  TG --> PAT["Patriot then critic"]
+  TG --> INT["Internationalism; no xenophobia"]
+  TG --> EDU["Visva-Bharati 1901 / univ 1921"]
+  NAT -.->|"same page: no hatred of others"| INT
+```
+
+---
+
+## UPSC PYQ Connections (Lectures 1–6)
 
 - Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
 - Role of press, education, and social reform in national awakening
@@ -1132,10 +1345,15 @@ Illiterate traders could not fill the forms. That is why a **lawyer who wrote En
 - **Gandhi in South Africa** — Dada Abdullah 1893; Durban–Pretoria train; Natal Indian Congress; Tolstoy Farm; *Indian Opinion*; Satyagraha Sept 1906; return **9 January 1915** = Pravasi Bharatiya Divas *(Prelims)*
 - **Gandhi’s religious thought** — Truth/God, service, soul vs body of religion, many paths *(GS-IV / Essay)*
 - **Gandhi Congress President 1924 Belgaum**; Tilak and A.O. Hume never presidents *(Prelims)*
+- **Satyagraha as method** — search (conscience), insist, God as witness, fearlessness, change of heart; man by nature good; means = ends *(GS-IV / Essay / Interview)*
+- **Gandhi vs Tagore on nationalism** — patriotism vs nationalism; internationalism; people first vs no boundaries *(Mains / Essay)*
+- **Tagore education** — Visva-Bharati / Shantiniketan 1901, university 1921; nature + arts vs degrees *(Prelims + GS-I / GS-IV)*
+- **Gandhi education** — access + ethics first; self-reliance; dignity of physical labour *(GS-IV / Essay)*
+- **Orientalism 1800–1950** as relative-truth scholarship *(Essay / GS-I historians)*
 
 ---
 
-## Abbreviations used in Lectures 4–5
+## Abbreviations used in Lectures 4–6
 
 | Shortcut | Full form |
 |:---|:---|
@@ -1148,7 +1366,7 @@ Illiterate traders could not fill the forms. That is why a **lawyer who wrote En
 | **FICCI** | Federation of Indian Chambers of Commerce and Industry |
 | **CII** | Confederation of Indian Industry |
 | **CP** | Central Provinces |
-| **UK** *(in this lecture)* | United Kingdom (Irish Home Rule context) — *not* Uttarakhand |
+| **UK** | **Lecture 4:** United Kingdom (Irish Home Rule). **Lecture 6 opening:** **Uttarakhand** (*shuddhi-karan*). Read the sentence. |
 | **UP** | Uttar Pradesh |
 | **FPTP** | First-past-the-post |
 | **NCM** | Non-Cooperation Movement |
@@ -1156,9 +1374,12 @@ Illiterate traders could not fill the forms. That is why a **lawyer who wrote En
 | **GJ / MH / TN** | Gujarat / Maharashtra / Tamil Nadu |
 | **OBC** | Other Backward Classes |
 | **PBD** | Pravasi Bharatiya Divas (9 January — Gandhi’s 1915 return) |
+| **PEASC** | Political, Economic, Administrative, Social, Cultural (relative-truth boxes) |
+| **GS-IV** | Ethics, Integrity and Aptitude (Paper IV) |
 
 ---
 
+<!-- 2026-09-06: Lecture 6 — Mass Mobilizations and the Dialogues (Tarique): sources of Gandhian political thought (Tolstoy / John Ruskin ≠ Bond / Thoreau / own experiments); Satyagraha 5+2; absolute vs relative + PEASC + Orientalism 1800–1950; Tagore patriotism then critic (Vande Mataram 1896, Amar Sonar Bangla, Jana Gana Mana, d. 1941, internationalism); Gandhi nationalism = defined boundary, people first; education Visva-Bharati 1901/1921 vs Gandhi access + ethics + dignity of labour. Nehru/Ambedkar and 1917–48 still later. Source: 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript. Cluster MOD-B6. -->
 <!-- 2026-09-01: Lecture 5 — Lucknow Pact C (significance: harmony, Rowlatt 1919, Khilafat–NCM, Montagu–Chelmsford / GoI Act 1919); The Making of Mahatma — Gandhi in South Africa (events 1–10, four laws, religious thoughts). Political thoughts and India branch (Tagore/Nehru/Ambedkar; 1917–48; Noakhali) not this class. Source: 3 notebook pages (dated 1/9/26) + History L010926 transcript. -->
 <!-- 2026-08-30: Lecture 4 — ICA 1909 clauses and critique; three Delhi Durbars; 1911 annulment + capital shift; Home Rule Leagues (Tilak/Besant); Lucknow Pact. Source: 6 notebook pages + HistoryL300826 transcript. -->
 <!-- 2026-08-27 (later): Lecture 3 review pass — added standard Swadeshi chronology table (19-20 July 1905 announcement, 7 Aug 1905 Boycott Day at Calcutta Town Hall, 16 Oct 1905 effect, Benares 1905, Calcutta 1906, Surat 1907, 1911 annulment + capital shift) with a note on why the annulment matters; replaced the prose placeholder for the "Representation Imbalance Diagram" in section 9 with a mobile-friendly inline SVG bar chart. -->
