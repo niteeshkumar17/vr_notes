@@ -27,7 +27,7 @@
 |:---:|:---|:---:|
 | I | Landform: Definition & Classification | Covered (Lec A1) |
 | II | Endogenetic Forces | Covered (Lec A2) |
-| III | Interior of the Earth | Partial (Lec A2 — Models 1 & 2; Seismic Model in next class) |
+| III | Interior of the Earth | Models 1 & 2 here (Lec A2). **Model 3 + plates + SFS: Lecture A3 — 6 September 2026** (`07_Geomorphology_Seismic_Model_and_Plate_Tectonics.md`) |
 | IV | Geomagnetism (Magnetic Field of Earth) | Pending |
 | V | Exogenetic Forces / Denudation | Pending |
 | VI | Landforms Created by Denudation | Pending |
@@ -723,14 +723,14 @@ EXPRESSION (Mountain building, Volcanism, Earthquakes, Plate Tectonics)
 | **Gutenberg** | Boundary of Mantle & Core | ~2,900 km | Mantle ↔ Core |
 | <span style="color: #e53e3e;">**Lehmann**</span> | <span style="color: #e53e3e;">Outer Core & Inner Core</span> | <span style="color: #e53e3e;">~5,150 km</span> | <span style="color: #e53e3e;">Outer Core ↔ Inner Core</span> |
 
-### 18.4 Model 3 — Seismic Model (Post-1960) — Based on State of Matter (Preview)
+### 18.4 Model 3 — Seismic Model (Post-1960) — Based on State of Matter
 
 - **Basis:** State of matter (solid vs liquid) — NOT just composition or density
 - Key changes from Model 2:
   - **Core** → divided into **Outer Core** (liquid) and **Inner Core** (solid)
   - **Mantle** → differentiated into **Lithosphere** and **Asthenosphere**
-- **Significance:** Became the basis for **Plate Tectonic Theory** (Wilson & Morgan, 1967)
-- ***To be elaborated in next lecture***
+- **Significance:** Became the basis for **Plate Tectonic Theory**
+- **Full class:** Lecture A3 — 6 September 2026 → `07_Geomorphology_Seismic_Model_and_Plate_Tectonics.md` (cluster **GEO-09**)
 
 ### 18.5 Models ↔ Surface Theories Linkage
 
@@ -857,3 +857,4 @@ graph TD
 <!-- 2026-08-08: Created from Vajiram Lecture A1 (Geomorphology intro). Covers Topics I & partial IX of syllabus. 6 handwritten pages + full audio transcript integrated. -->
 <!-- 2026-08-09: Lecture A2 integrated. Topics II (Endogenetic Forces) & III (Interior of Earth — Models 1 & 2) added. 7 handwritten pages + full audio transcript processed. Seismic Model (Model 3) to be elaborated in next class. -->
 <!-- 2026-09-02: Teacher recorded — both Geomorphology lectures (A1 8 Aug, A2 9 Aug) are Shiv Arpit Sir. -->
+<!-- 2026-09-06: Lecture A3 (Seismic Model / plates / SFS) written as 07_Geomorphology_Seismic_Model_and_Plate_Tectonics.md. Topic III pointer + §18.4 updated. -->

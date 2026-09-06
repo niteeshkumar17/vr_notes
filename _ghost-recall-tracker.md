@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-06
-*   **Active Micro-Topics:** 478
+*   **Active Micro-Topics:** 488
 *   **Overall Database Mastery:** 76.2% 📈
-*   **Today's Recall Completed:** 8 (POL-07 / POL-02 / GEO-06 / MST-045 held; POL-06 and Q6 Preamble/bulky failed)
+*   **Today's Recall Completed:** 8 (morning Ghost Recall already logged). Afternoon: **GEO-09** ingested.
 *   **Active Learning Gaps Detected:** 7 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-046` interim≠caretaker; `MST-047` UPA 2004 / AAP 2013; `MST-048` Art 94; `MST-049` Preamble liberties) · leftover `CA-260904` / `CA-260905`
-*   **New Topics Ingested Today:** none (Ghost Recall morning). `MST-045` Resolved 🟢.
+*   **New Topics Ingested Today:** **GEO-09** (Shiv Arpit A3 — Seismic Model / plume / SFS) — first due **7 Sep**. GEO-04-08 patched only (no extra Day-1).
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -170,7 +170,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-04-05 | Geothermal Heat & Convection as Driving Mechanism | 2 | ★★★★★ | Day 3 | 2026-08-13 | 100% | High 🌟 | 96% | 92% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Source→Mechanism→Expression` $\leftrightarrow$ `Radiation❌` $\leftrightarrow$ `Conduction❌` $\leftrightarrow$ `Convection✅` |
 | GEO-04-06 | Density, Thermal Differentiation & Melting Point Logic | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MP>T=Solid` $\leftrightarrow$ `T>MP=Liquid` $\leftrightarrow$ `Heterogeneous Interior` |
 | GEO-04-07 | Interior of Earth: Direct vs Indirect Evidence | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Kola Superdeep` $\leftrightarrow$ `Koyna Maharashtra` $\leftrightarrow$ `EQ Waves` $\leftrightarrow$ `Gravity Anomaly` |
-| GEO-04-08 | 3 Models of Earth's Interior & Discontinuities | 2 | ★★★★★ | Day 2 | 2026-08-12 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Suess→CD` $\leftrightarrow$ `Moho→SFS` $\leftrightarrow$ `Seismic→PT` $\leftrightarrow$ `Moho 40km` $\leftrightarrow$ `Gutenberg 2900km` |
+| GEO-04-08 | 3 Models of Earth's Interior & Discontinuities | 2 | ★★★★★ | Day 2 | 2026-08-12 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Suess→CD` $\leftrightarrow$ `Moho→SFS` $\leftrightarrow$ `Seismic→PT` $\leftrightarrow$ `Moho 40km` $\leftrightarrow$ `Gutenberg 2900km` $\leftrightarrow$ `Elaborated GEO-09 A3 6 Sep` |
 
 ### Geography (Agriculture — Importance, Trade & Commodities)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -225,6 +225,20 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-08-06 | Land Reforms Four Legs; Ceiling ≠ Intermediary Abolition; Chakbandi | 2 | ★★★★★ | Day 3 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Abolition + Tenancy + Ceiling + Consolidation` $\leftrightarrow$ `Security→Investment→Yield` $\leftrightarrow$ `Indira Late 60s 20 ha Example` $\leftrightarrow$ `Tiller-Zamindar Could Keep` $\leftrightarrow$ `Detail = SS Sir` |
 | GEO-08-07 | Collective Farming: Coop / SHG / FPC Hybrid; Amul + Kurien | 2 | ★★★★☆ | Day 3 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `China Israel Worked India Did Not` $\leftrightarrow$ `SHG Peer Collateral` $\leftrightarrow$ `FPC ≥10 Companies Act` $\leftrightarrow$ `Coop=1 Vote + Ownership` $\leftrightarrow$ `Pvt=Managerial Expertise` |
 | GEO-08-08 | Custom Hiring Centres >40k vs >6 Lakh Villages; Gold Farm / Tringo | 2 | ★★★★☆ | Day 3 | 2026-09-06 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `20 Tractors / 1000 ha` $\leftrightarrow$ `Hire Not Own` $\leftrightarrow$ `Gram Sabha Caps Rent` $\leftrightarrow$ `Missing Tribal JH + NE` $\leftrightarrow$ `EM3 Gold Farm Punjab` |
+
+### Geography (Geomorphology A3 — Seismic Model, Plume & Sea-Floor Spreading — 6 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-09-01 | Seismic Model 1960s: State of Matter; 3 Models → CD / SFS / PT | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Until 1950s Thoroughly Solid` $\leftrightarrow$ `Litho Solid / Astheno Semi / OC Liquid / IC Solid` $\leftrightarrow$ `No Single Author` |
+| GEO-09-02 | Plate = Lithosphere Segment; Tectonics = Move+Interact; Major/Minor | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Fragmented Lithosphere` $\leftrightarrow$ `Rests on Asthenosphere` $\leftrightarrow$ `C vs O vs C-O Plates` |
+| GEO-09-03 | Depths + 4 Discontinuities; Moho ≠ Litho-Astheno | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `R 6400` $\leftrightarrow$ `Moho ~40 inside Litho` $\leftrightarrow$ `Litho ~100` $\leftrightarrow$ `Repetti 700` $\leftrightarrow$ `Gutenberg 2900` $\leftrightarrow$ `Lehmann 5150` |
+| GEO-09-04 | Five Placement Lines: Crust⊂Litho; Litho Partial UM; Astheno Entirely UM | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Crust Outermost of Litho` $\leftrightarrow$ `Composition Varies w Depth` $\leftrightarrow$ `Transition Zone` |
+| GEO-09-05 | Heat Path + Radioactivity 70/30/5; Astheno T>2500 Own Source | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `IC Intense Conduction` $\leftrightarrow$ `OC Convective Cells` $\leftrightarrow$ `LM Slow Conduction` $\leftrightarrow$ `Thermal Equilibrium ~6000` $\leftrightarrow$ `Core then Astheno` |
+| GEO-09-06 | Mantle Hotspot vs Plume; Indirect on Plates (2021 PYQ) | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hotspot = LM Heat Pile from OC` $\leftrightarrow$ `Plume Rises Adds Energy to AST` $\leftrightarrow$ `Not Permanent / Not All Arrive` $\leftrightarrow$ `PH-Java Minor but Active` |
+| GEO-09-07 | Boundary = Direction; Margin = O-O / O-C / C-C; Six Combos | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Need Arrows for C vs D` $\leftrightarrow$ `Same Place Two Names` |
+| GEO-09-08 | SFS: MOR + Age↑ to Continent + Symmetry; Divergent = Constructive | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Major New Crust = Ocean Floor` $\leftrightarrow$ `R1-R2-R3` $\leftrightarrow$ `C-C Divergent → Rift → Sea → SFS` |
+| GEO-09-09 | Continental 2.7 Granite 60-70 vs Oceanic 3 Basalt 15-20; Conrad; NCERT Trap | 3 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Basalt Denser than Granite` $\leftrightarrow$ `Moho Deeper under Continents` $\leftrightarrow$ `Conrad = C vs O Crust Today` |
+| GEO-09-10 | P/D/T Rise Non-Uniform; Closed Interior; IC Solid because Pressure / MP>6000 | 2 | ★★★★★ | Day 1 | 2026-09-07 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Both Cores ~6000` $\leftrightarrow$ `OC MP<6000 Liquid` $\leftrightarrow$ `Compressed All Directions` |
 
 ### Environment & Ecology (Ecosystem, Biodiversity & Productivity)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -671,10 +685,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (7 Sep) Q1–Q2:** If Sunday classes land, those two clusters. Else leftover first-pass: Early Medieval South · Modern L4 (schedule). Do **not** dump all of POL-06
+  1. **Tomorrow (7 Sep) Q1–Q2:** **GEO-09** (Shiv Arpit A3 — Seismic Model / plume / SFS). Second Sunday class if a note lands; else do **not** dump POL-06
   2. **Q3–Q6:** Early Medieval South (Pallava–Chola) · Modern L4 Home Rule / Lucknow. Leftover **CA-260904** / **CA-260905** if a slot — do **not** replace Q1–Q2
   3. **Q7:** GEO-07 **+3**. **Q8:** `MST-046` interim≠caretaker · `MST-047` UPA 2004 / AAP 2013. Leftover `MST-048` Art 94 / `MST-049` TEBFW / `MST-037`/`039`/`042` if one flash
-  4. Passed 6 Sep: **POL-07** + **POL-02** → **9 Sep**. **GEO-06** → **13 Sep**. **POL-06** did **not** advance (only 368/61/249 held). **ECO-04-02** now +3 **9 Sep** with the rest of ECO-04 on **8 Sep**
+  4. Passed 6 Sep morning: **POL-07** + **POL-02** → **9 Sep**. **GEO-06** → **13 Sep**. **POL-06** did **not** advance. **ECO-04-02** +3 **9 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** stay resolved.
 
 
