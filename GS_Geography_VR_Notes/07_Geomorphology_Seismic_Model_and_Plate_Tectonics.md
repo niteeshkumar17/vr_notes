@@ -75,6 +75,46 @@ Plates **rest on** the asthenosphere. Energy in the asthenosphere (from the inte
 
 **Radius** used in class = **6,400 km** (surface → centre).
 
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Schematic wedge of Earth's interior from the surface to the centre, with lithosphere, asthenosphere, lower mantle, outer core and inner core, and Moho, Repetti, Gutenberg and Lehmann discontinuities" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="638" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="20" y="26" font-size="13" font-weight="700" fill="#0f172a">Cross-section of Earth's interior (class depths — not to scale)</text>
+<text x="20" y="44" font-size="11" fill="#64748b">Radius 6,400 km · state of matter · discontinuities where wave behaviour jumps</text>
+<!-- wedge layers: centre (48, 368), surface r=300 -->
+<path d="M48 68 A300 300 0 0 1 348 368 L48 368 Z" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+<path d="M48 108 A260 260 0 0 1 308 368 L48 368 Z" fill="#fed7aa" stroke="#ea580c" stroke-width="1"/>
+<path d="M48 148 A220 220 0 0 1 268 368 L48 368 Z" fill="#fdba74" stroke="#c2410c" stroke-width="1"/>
+<path d="M48 228 A140 140 0 0 1 188 368 L48 368 Z" fill="#fca5a5" stroke="#dc2626" stroke-width="1"/>
+<path d="M48 300 A68 68 0 0 1 116 368 L48 368 Z" fill="#fb7185" stroke="#9f1239" stroke-width="1"/>
+<!-- layer names inside wedge -->
+<text x="168" y="92" font-size="11" font-weight="700" fill="#92400e">Lithosphere · solid · SIAL→SIMA</text>
+<text x="178" y="128" font-size="11" font-weight="700" fill="#9a3412">Asthenosphere · semi-solid</text>
+<text x="158" y="188" font-size="11" font-weight="700" fill="#7c2d12">Lower mantle · solid SIMA</text>
+<text x="98" y="278" font-size="11" font-weight="700" fill="#7f1d1d">Outer core · liquid NiFe</text>
+<text x="58" y="348" font-size="10" font-weight="700" fill="#4c0519">Inner core</text>
+<text x="58" y="362" font-size="10" font-weight="700" fill="#4c0519">solid NiFe</text>
+<!-- right-side depth rail -->
+<line x1="372" y1="68" x2="372" y2="368" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="372" cy="68" r="3.5" fill="#d97706"/>
+<circle cx="372" cy="108" r="3.5" fill="#ea580c"/>
+<circle cx="372" cy="148" r="3.5" fill="#c2410c"/>
+<circle cx="372" cy="228" r="3.5" fill="#dc2626"/>
+<circle cx="372" cy="300" r="3.5" fill="#9f1239"/>
+<circle cx="372" cy="368" r="3.5" fill="#0f172a"/>
+<text x="388" y="64" font-size="12" font-weight="700" fill="#0f172a">0 km · surface</text>
+<text x="388" y="80" font-size="11" fill="#b45309">Moho ~40 km · crust ↔ mantle (inside lithosphere)</text>
+<text x="388" y="104" font-size="12" font-weight="700" fill="#0f172a">~100 km · lithosphere ends</text>
+<text x="388" y="120" font-size="11" fill="#64748b">transition; asthenosphere mid-point ~400–500</text>
+<text x="388" y="148" font-size="12" font-weight="700" fill="#0f172a">700 km · Repetti</text>
+<text x="388" y="164" font-size="11" fill="#64748b">upper ↔ lower mantle · astheno ↔ LM</text>
+<text x="388" y="224" font-size="12" font-weight="700" fill="#0f172a">2,900 km · Gutenberg</text>
+<text x="388" y="240" font-size="11" fill="#64748b">mantle ↔ core · solid → liquid</text>
+<text x="388" y="296" font-size="12" font-weight="700" fill="#0f172a">5,150 km · Lehmann</text>
+<text x="388" y="312" font-size="11" fill="#64748b">outer ↔ inner core · liquid → solid</text>
+<text x="388" y="372" font-size="12" font-weight="700" fill="#0f172a">6,400 km · centre</text>
+</svg>
+</div>
+
 **Discontinuity** = a depth where the **behaviour of earthquake waves changes** because the material **abruptly** changes state / density. Travel **20–40 km** past the line and the material is a different thing.
 
 | Depth (class) | What sits there |
@@ -212,6 +252,44 @@ Even a **continent–continent divergent** first **rifts**, deepens, becomes a *
 ## 10. Continental crust vs oceanic crust (GEO-09-09)
 
 **Continental crust** = part of the crust **above sea level**. **Oceanic crust** = crust of the **ocean floor** (below sea level). Both are still the **outer part of the lithosphere**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-label="Continental crust is thick granite of density 2.7 with a deep Moho; oceanic crust is thin basalt of density 3 with a shallow Moho; Conrad is the inclined granite-basalt join" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="638" height="318" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="20" y="26" font-size="13" font-weight="700" fill="#0f172a">Continental crust vs oceanic crust (class — not to scale)</text>
+<text x="20" y="44" font-size="11" fill="#64748b">Moho deeper under continents · Conrad = granite ↔ basalt, not crust ↔ mantle</text>
+<!-- mantle basement -->
+<rect x="28" y="168" width="584" height="128" rx="4" fill="#fed7aa"/>
+<text x="48" y="288" font-size="11" font-weight="700" fill="#9a3412">Upper mantle · SIMA</text>
+<!-- sea level -->
+<line x1="28" y1="88" x2="612" y2="88" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="528" y="82" font-size="10" fill="#0369a1">sea level</text>
+<!-- continental block: above SL + deep root -->
+<path d="M40 56 L40 88 L248 88 L268 248 L40 248 Z" fill="#86efac" stroke="#15803d" stroke-width="1.5"/>
+<text x="88" y="78" font-size="12" font-weight="700" fill="#14532d">Continental crust</text>
+<text x="88" y="120" font-size="11" fill="#166534">granite · SIAL</text>
+<text x="88" y="138" font-size="11" fill="#166534">density ~2.7</text>
+<text x="88" y="156" font-size="11" fill="#166534">60–70 km thick</text>
+<!-- ocean water -->
+<rect x="268" y="88" width="332" height="22" fill="#7dd3fc"/>
+<text x="400" y="104" font-size="10" fill="#0c4a6e">ocean</text>
+<!-- oceanic crust thin -->
+<path d="M268 110 L600 110 L600 168 L288 168 Z" fill="#94a3b8" stroke="#334155" stroke-width="1.5"/>
+<text x="360" y="132" font-size="12" font-weight="700" fill="#0f172a">Oceanic crust</text>
+<text x="360" y="148" font-size="11" fill="#1e293b">basalt · SIMA · density ~3 · 15–20 km</text>
+<!-- Conrad inclined join -->
+<line x1="248" y1="88" x2="288" y2="168" stroke="#7c3aed" stroke-width="2.5"/>
+<line x1="288" y1="168" x2="320" y2="148" stroke="#7c3aed" stroke-width="1"/>
+<text x="324" y="146" font-size="11" font-weight="700" fill="#5b21b6">Conrad D.</text>
+<text x="324" y="160" font-size="10" fill="#6d28d9">inclined · C crust ↔ O crust</text>
+<!-- Moho under continent -->
+<line x1="40" y1="248" x2="268" y2="248" stroke="#b45309" stroke-width="2.5"/>
+<text x="48" y="264" font-size="11" font-weight="700" fill="#92400e">Moho (deep)</text>
+<!-- Moho under ocean -->
+<line x1="288" y1="168" x2="600" y2="168" stroke="#b45309" stroke-width="2.5"/>
+<text x="500" y="186" font-size="11" font-weight="700" fill="#92400e">Moho (shallow)</text>
+</svg>
+</div>
 
 | | **Continental crust** | **Oceanic crust** |
 |:---|:---|:---|
