@@ -1,10 +1,10 @@
 # UPSC CSE Prelims — PYQ used log
 
-Evening paper uses **5 real PYQs** a night. This file only records **what was already set**, so the same question is not reused. It is **not** a Ghost Recall queue. No Day-1 rows from this table.
+Evening paper uses **5 real PYQs** a night. This file only records **what was already set**, so the same question is not reused. It is **not** a Ghost Recall queue.
 
-**Source of truth:** official UPSC GS Paper I PDF (`upsc.gov.in` → Examinations → Previous Question Papers). Stem and options must match that paper. Official answer key when UPSC has published it; do not invent a key.
+**Searchable bank:** `_pyq-index.json` (same data as Pyro `/pyqs` → Questions). **1,000 GS-I stems, 2016–2025.** Pick by topic from notes; copy stem + options from that file. Open the matching PDF on the site if you want the booklet. **2026** is Papers-only until stems are added.
 
-**ID:** `CSE-YYYY-Qnn` (Prelims GS-I question number in that year’s booklet).
+**ID:** `CSE-YYYY-Qnn`
 
 | ID | Theme (one line) | Mapped note / cluster | Used | Result | Enrichment on original note |
 |:---|:---|:---|:---:|:---:|:---|

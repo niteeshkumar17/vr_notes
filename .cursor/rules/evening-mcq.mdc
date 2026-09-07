@@ -26,10 +26,11 @@ Ghost Recall stays **8 Q / 60 min** in the morning. Do not mix the two formats.
 ## How the 5 PYQs are fetched
 
 1. Map tonight’s notes (`notes-index.json` + today’s classes). Pick themes he has actually studied.
-2. Open the official **UPSC CSE Prelims GS-I** PDF for a year (upsc.gov.in → Previous Question Papers). Copy **stem + options verbatim**.
+2. Search `_pyq-index.json` (`questions[].stem` / `section` / `year`). Copy **stem + options** from that record. Label **PYQ** + `id` (e.g. `CSE-2018-Q05`).
 3. Check `_pyq-log.md`. Do **not** reuse an ID.
-4. Key: official UPSC key if published; otherwise a sourced key — never a guessed “I remember this was B.”
+4. Key = `answer` in the index (a–d). If missing, skip that slot.
 5. After he answers: log the five IDs in `_pyq-log.md` (theme, mapped cluster, ✅/❌).
+6. Do **not** OCR the photo-PDFs. Do **not** invent a PYQ. **2026** stems are not in the index yet — use 2016–2025.
 
 ## PYQ extra info → enrichment, not a new topic
 
