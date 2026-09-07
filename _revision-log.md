@@ -40,7 +40,8 @@
 | GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-09-05 | 1 | 100% | 2026-09-08 | Confident | 2014, 2018, 2021, 2024 | Ghost Recall first pass: Co-60 γ / Radura / mutagenic vs GM; Arihant–Arighat–Aridhaman; K-15 750 / K-4 3500; ballistic space vs cruise skim. Trap: Co-60 also radiotherapy; Arisudan / US Trident not class. |
 | GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-06 | 11 | 90.0% | 2026-09-08 | Somewhat | 2018, 2020, 2023, 2024 | Cluster +3 **8 Sep**; **ECO-04-02** now **9 Sep**. `MST-045` Resolved 🟢 (14% ≠ GMCT 15%). Trap: MAT date is **1 Apr 2026**, not 2016. `MST-029` 9 Sep. |
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
-| GS_History_VR_Notes | Modern India (L4: Home Rule & Lucknow Pact) | 2026-09-07 | 1 | 85.0% | 2026-09-10 | Somewhat | 2015, 2016 | Tilak Apr 1916 Pune; Besant Sep 1916 Madras; 3/4 veto held. **1/3 elected Muslim seats** missed (`MST-050`). Cluster +3 **10 Sep**. |
+| GS_History_VR_Notes | Modern India (L4: Home Rule & Lucknow Pact) | 2026-09-08 | 2 | 42.5% | 2026-09-09 | Weak | 2015, 2016 | Evening: inverted **both** Lucknow locks — all-seats + every-bill (`MST-050` repeat 2). |
+| Evening MCQ | 7 Sep paper (GEO-10 + IS-01 + CA + 5 PYQ) | 2026-09-08 | 1 | 85.0% | 2026-09-09 | Somewhat | 2017, 2021, 2024, 2025 | **17/20 · 32.02/40**. Class 1–8 clean. PYQ miss: IOD Pacific (`MST-053`); BRICS Multiculturalism (`MST-054`). Held: Coriolis, FRA MoTA, trades. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
 | GS_History_VR_Notes | Medieval India (Sultanate cluster — first pass) | 2026-09-05 | 3 | 100% | 2026-09-12 | Confident | 2017, 2019 | +3 held: Iltutmish Caliph / Tanka; four pillars; Khalsa → treasury / Iqta salary. Cluster → **12 Sep**. |
 | GS_History_VR_Notes | Ancient India (Stone Age cluster — first pass) | 2026-09-04 | 3 | 83.5% | 2026-09-05 | Confident | 2021 | Pottery **appeared** Mesolithic held. Trap: **feature** of pottery is **Neolithic**; “stones as tools” is Palaeolithic. |
@@ -72,6 +73,17 @@
 ## 📜 Session History
 
 *(Most recent first)*
+
+### Session 29 — 2026-09-07 / scored 8 Sep (Evening MCQ)
+- **Subject:** GEO-10 (Hadley / C–D) + IS-01 L1 + 7 Sep CA + MST-047/048/050 + 5 PYQ
+- **Format:** 20 Prelims MCQs (15 notes + 5 Series A PYQ)
+- **Score:** 32.02 / 40 (Net: +34 − 1.98 | Accuracy 85% — 17/20 | 3 incorrect | 0 unattempted)
+- **Strengths:** All 8 today-class items. Art 94 Speaker (`MST-048`). UPA 2004 / AAP 2013 (`MST-047`). FRA nodal = MoTA. Coriolis both. Trade-wind ocean sides.
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-050 repeat 2 / Lucknow:* inverted **both** — 1/3 of *all* seats + veto on *every* bill. Key: **1/3 elected**; **3/4 on certain bills**.
+  - *MST-053 / IOD:* marked IOD as W Indian vs **E Pacific**. Pacific pair = El Niño.
+  - *MST-054 / BRICS theme:* **Multilateralism**, not Multiculturalism. Kazan + Indonesia held.
+- **PYQ log:** `CSE-2024-Q14` ✅ · `CSE-2017-Q66` ❌ · `CSE-2021-Q84` ✅ · `CSE-2021-Q58` ✅ · `CSE-2025-Q97` ❌
 
 ### Session 28 — 2026-09-07 (Ghost Recall)
 - **Subject:** GEO-09 Moho, MOD-B6 Satyagraha/Tagore, Pallava first pass, Home Rule/Lucknow, CA-260906, CA-260905, GEO-07 +3, MST-046/047/049

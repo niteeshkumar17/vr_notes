@@ -1250,6 +1250,10 @@ Highest explanation in any science = **cause and effect**. Many atmospheric prob
 | Example | Class line for answers / Prelims |
 |:---|:---|
 | **El Niño** (~100 years of study; class: since **1920s**) | Exact **cause unknown**. **Most** El Niño years → India’s summer monsoon **below average** (negative correlation). **Some** years still average / above — **Indian Ocean Dipole (IOD)** can **negate** El Niño’s hit. |
+
+### Update — 8 September 2026 (UPSC CSE Prelims 2017)
+
+**IOD** = sea-surface temperature difference between the **tropical western Indian Ocean** and the **tropical eastern Indian Ocean**. Prelims trap (`CSE-2017-Q66`): do **not** write **eastern Pacific** — that pair is **El Niño**, not IOD. Statement that IOD can **influence** El Niño’s monsoon hit = **class line** (can negate).
 | **Tropical cyclone origin** | ~75 years of study; **no theory of origin** yet. Later: **5–6 conditions** = a *chance*, not a formula. |
 | **UPSC rank** | Same logic: conditions raise a **chance**, not a causal machine. |
 

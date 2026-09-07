@@ -947,6 +947,8 @@ They held a **joint annual session at Lucknow, December 1916** (sheet also has �
 5. Congress would **not oppose separate electorate**.
 6. If a bill was opposed by **three-fourths (3/4)** of the **Muslim members**, it **should not be passed**.
 
+<span style="color: #e53e3e;">**Prelims trap:** **1/3 of elected seats**, not of *all* seats (nominated included). **3/4 veto on certain bills**, not every law (`MST-032` / `MST-050`).</span>
+
 **Class political-theory line:** democracy = government **elected by the majority, for all** — not **majoritarianism** (majority only for the majority). The 3/4 Muslim veto is the Pact’s attempt to lower **minority fear**.
 
 ---

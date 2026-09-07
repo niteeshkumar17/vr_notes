@@ -106,6 +106,10 @@ BRICS payments = cheaper / faster rails (UPI–PayNow, Nexus, CBDC / mBridge, BR
 
 **India–China (clip):** under **Xi Jinping** and **Narendra Modi**, ties have kept an improvement momentum; **direct flights** resumed; **border trade** reopened after a **six-year** suspension. Ambassador line: move in a “sustained, healthy, and stable” way.
 
+### Update — 8 September 2026 (UPSC CSE Prelims 2025)
+
+Same grouping, not a new summit. **16th BRICS Summit** = **Russia** chair, **Kazan**. **Indonesia** is a **full member**. Theme trap (`CSE-2025-Q97`): **Strengthening Multilateralism** for Just Global Development and Security — **not** “Multiculturalism.”
+
 ```mermaid
 flowchart TD
   TODAY["Today: correspondent banks + USD vehicle + SWIFT messages"] --> WHY["Cost, monopoly, sanctions"]
