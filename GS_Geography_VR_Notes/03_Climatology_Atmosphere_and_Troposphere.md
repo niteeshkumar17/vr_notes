@@ -1321,35 +1321,44 @@ Hadley **knew** rotation mattered (class: he was an early student of what later 
 
 ### 36.1 Picture (non-rotating, heat only)
 
-Equator **LP**, poles **HP**. Surface air **diverges from poles**, **converges at the equator**. Strongest **convection** on Earth at the equator (why tropopause is highest there — Lecture 7). Rise → tropopause lid → **diverge** aloft **all the way to the poles** → **sink**. Closed loop = **one cell per hemisphere**.
+Equator **L.P.**, poles **HP**. Surface air **diverges from the poles**, **converges at the equator**. Strongest **convection** on Earth at the equator (why tropopause is highest there — Lecture 7). Rise → tropopause lid → **diverge** aloft **all the way to the poles** → **sink**. Closed loop = **one cell per hemisphere**. Class rule: draw the movement **on the side of the surface** (atmosphere around the Earth), not through the planet.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-label="Hadley one-cell: rise at equator low pressure, sink at polar high pressure, one loop per hemisphere" style="display:block;margin:0 auto;width:100%;min-width:280px;max-width:400px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="4" y="4" width="352" height="352" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
-<text x="180" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Hadley 1735 — one cell / hemisphere</text>
-<circle cx="180" cy="190" r="118" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
-<line x1="62" y1="190" x2="298" y2="190" stroke="#0f172a" stroke-width="1.5"/>
-<text x="180" y="186" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">Eq LP</text>
-<text x="180" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">N pole HP</text>
-<text x="180" y="318" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">S pole HP</text>
-<text x="196" y="150" font-size="12" font-weight="700" fill="#1e3a8a">C</text>
-<text x="196" y="108" font-size="12" font-weight="700" fill="#1e3a8a">D</text>
-<path d="M 180 190 L 180 88" fill="none" stroke="#0369a1" stroke-width="2.2"/>
-<polygon points="0,-6 10,0 0,6" fill="#0369a1" transform="translate(180,88) rotate(-90)"/>
-<path d="M 180 88 Q 250 130 250 190" fill="none" stroke="#0369a1" stroke-width="2"/>
-<path d="M 250 190 Q 250 250 180 292" fill="none" stroke="#b91c1c" stroke-width="2"/>
-<polygon points="0,-6 10,0 0,6" fill="#b91c1c" transform="translate(180,292) rotate(90)"/>
-<path d="M 180 88 Q 110 130 110 190" fill="none" stroke="#0369a1" stroke-width="2"/>
-<path d="M 110 190 Q 110 250 180 292" fill="none" stroke="#b91c1c" stroke-width="2"/>
-<path d="M 110 190 L 170 190" fill="none" stroke="#0f172a" stroke-width="1.8"/>
-<polygon points="0,-5 10,0 0,5" fill="#0f172a" transform="translate(170,190)"/>
-<path d="M 250 190 L 190 190" fill="none" stroke="#0f172a" stroke-width="1.8"/>
-<polygon points="0,-5 10,0 0,5" fill="#0f172a" transform="translate(190,190) rotate(180)"/>
-<text x="180" y="348" text-anchor="middle" font-size="11" fill="#475569">non-rotating Earth · convection only</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 470" role="img" aria-label="Copy-notes Hadley one-cell: Earth circle, equator L.P. and 0 degrees, HP at poles, C at equatorial surface, D aloft, loops on the side of the surface" style="display:block;margin:0 auto;width:100%;min-width:300px;max-width:440px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<defs>
+<marker id="hn" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#1e3a8a"/></marker>
+</defs>
+<rect x="1" y="1" width="438" height="468" fill="#fff" stroke="#cbd5e1"/>
+<text x="220" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">One Cell Model of Tropospheric Air Circulation</text>
+<text x="220" y="48" text-anchor="middle" font-size="12" fill="#334155">George Hadley (1735)</text>
+<circle cx="220" cy="250" r="88" fill="#f1f5f9" stroke="#0f172a" stroke-width="1.6"/>
+<line x1="132" y1="250" x2="308" y2="250" stroke="#0f172a" stroke-width="1.4"/>
+<text x="220" y="246" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">L.P.</text>
+<text x="318" y="270" font-size="13" font-weight="700" fill="#0f172a">0°</text>
+<text x="220" y="142" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">HP</text>
+<text x="220" y="372" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">HP</text>
+<path d="M 220 162 A 88 88 0 0 0 132 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 132 250 L 82 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 82 250 A 138 138 0 0 1 220 112" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 220 112 L 220 162" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 220 162 A 88 88 0 0 1 308 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 308 250 L 358 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 358 250 A 138 138 0 0 0 220 112" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 220 338 A 88 88 0 0 1 132 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 82 250 A 138 138 0 0 0 220 388" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 220 388 L 220 338" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 220 338 A 88 88 0 0 0 308 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<path d="M 358 250 A 138 138 0 0 1 220 388" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
+<text x="108" y="242" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">C</text>
+<text x="332" y="242" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">C</text>
+<text x="64" y="236" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">D</text>
+<text x="376" y="236" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">D</text>
+<text x="220" y="430" text-anchor="middle" font-size="12" fill="#334155">non-rotating Earth · convection only · one cell / hemisphere</text>
+<text x="220" y="452" text-anchor="middle" font-size="11" fill="#64748b">surface: poles → equator · rise at L.P. · aloft to poles · sink at HP</text>
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure:</strong> Class did not draw tropopause height change (16–18 km equator / 8–10 km poles) on this rejected sketch — keep that for Ferrel’s accepted model.</em></p>
+<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Inner circle = Earth’s surface; arrows in the outer band = troposphere. <strong>C</strong> at equatorial surface; <strong>D</strong> aloft over the equator. Class did not draw tropopause height change (16–18 km equator / 8–10 km poles) on this rejected sketch — keep that for Ferrel.</em></p>
 
 ### 36.2 Dictated lines
 
