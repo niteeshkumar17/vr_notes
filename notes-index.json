@@ -493,6 +493,12 @@
       "title": "United Nations Organisation"
     }
   ],
+  "GS_Internal_Security_VR_Notes": [
+    {
+      "file": "01_Fundamentals_of_Internal_Security.md",
+      "title": "Fundamentals Of Internal Security"
+    }
+  ],
   "GS_Polity_VR_Notes": [
     {
       "file": "Indian_Polity_Constitution.md",

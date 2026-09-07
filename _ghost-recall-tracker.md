@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-07
-*   **Active Micro-Topics:** 507
+*   **Active Micro-Topics:** 517
 *   **Overall Database Mastery:** 76.6% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-09 Moho recovery; MST-046 / MST-049 resolved.
 *   **Active Learning Gaps Detected:** 8 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-047` 2004/2013 **repeat 2**; `MST-048` Art 94; `MST-050` Lucknow 1/3; `MST-051` 60→62 merit; `MST-052` same page ≠ education) · leftover `CA-260904`
-*   **New Topics Ingested Today:** **GEO-10** (climatology L9 — C/D, Hadley 1735). First Ghost Recall **8 Sep**.
+*   **New Topics Ingested Today:** **GEO-10** (climatology L9) + **IS-01** (Internal Security L1). First Ghost Recall **8 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -257,6 +257,20 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-10-06 | GAPD Combined Effect: Differential Heating + Rotation/Coriolis | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hot↔LP Cold↔HP` $\leftrightarrow$ `Coriolis Shifts Rise/Sink Path` $\leftrightarrow$ `Cannot Rank Heat vs Rotation` |
 | GEO-10-07 | Hadley 1735 One-Cell: Non-Rotating Earth, Convection, Poleward Heat | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `One Cell/Hemisphere` $\leftrightarrow$ `Eq LP Poles HP` $\leftrightarrow$ `Powered by Lower Latitudes` $\leftrightarrow$ `Surplus Energy Poleward` |
 | GEO-10-08 | Hadley Rejected as Oversimplified; Heat-Pressure-Air Still Valid; Powerhouse | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Parked Rotation=Blunder` $\leftrightarrow$ `20c Lab Non-Rotating OK` $\leftrightarrow$ `Lower Lats=Powerhouse` $\leftrightarrow$ `Teleconnections El Nino` $\leftrightarrow$ `Ferrel 1856 Next` |
+
+### Internal Security (Fundamentals L1 — Evolution of Threats — 7 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| IS-01-01 | IS = GS-III 40-50 Marks; 99% Mains; Classes + Yellow Book | 1 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `IS-PS` $\leftrightarrow$ `Gov-PS` $\leftrightarrow$ `Pol-PS DPSPs/Federal/FD` $\leftrightarrow$ `IE over Hindu if Beginner` |
+| IS-01-02 | 1947-48 J&K: Hari Singh Accession; UN 47; Lost 1/3 to Pak | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pathans-Scouts Tax Spark` $\leftrightarrow$ `Instrument of Accession` $\leftrightarrow$ `Sovereignty to India` $\leftrightarrow$ `SC 2024 Integral` $\leftrightarrow$ `CFL Jammu to Siachen Tip` |
+| IS-01-03 | Shimla CFL→LoC; Op Meghdoot/Rajiv; NJ9842; AGPL 110 km | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Same Line New Name` $\leftrightarrow$ `Siachen 2600 km2 Highest Battlefield` $\leftrightarrow$ `Choke Srinagar-Leh` |
+| IS-01-04 | PoK First (Jaishankar); GB 2020 Province Bid; Namka Chu; Shaksgam 1963 | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Azad Kashmir + Gilgit-Baltistan` $\leftrightarrow$ `Unilateral Ceasefire Nov 1962` $\leftrightarrow$ `Aksai Chin Kept` $\leftrightarrow$ `Arunachal Relinquished` |
+| IS-01-05 | Insurgency Def; Phizo 1952 Nagalim; NSCN-IM Flag+Constitution 2021 | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Armed Rebellion + Hostile Backer` $\leftrightarrow$ `NEFA Assam Admin` $\leftrightarrow$ `Nagaland 1963 16-Point` $\leftrightarrow$ `Still 2026` |
+| IS-01-06 | Mautam 1959→Mizo State 1987; ULFA Swadhin Assam; Bodoland | 2 | ★★★★☆ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bamboo-Rats-Famine` $\leftrightarrow$ `Laldenga` $\leftrightarrow$ `UT 1972` $\leftrightarrow$ `Illegal Migration Demo` |
+| IS-01-07 | Naxalbari 1967 Episode; Salwa Judum SC Ban; Naxal-Free Too Early | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pre-Independence Tribal Chain` $\leftrightarrow$ `Dala Bhojpur` $\leftrightarrow$ `Peripheral Cadre Unemployed` $\leftrightarrow$ `Dialogue+Development` |
+| IS-01-08 | Khalistan Land of Pure; 1997 AFSPA Off; 1987 JKLF; Five Traditional Threats | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bhindranwale` $\leftrightarrow$ `Blue Star + Gill Doctrine` $\leftrightarrow$ `Rigged Assembly Election` |
+| IS-01-09 | Hawala No Movement; Ransomware Crypto; Dead-Drop Unsent; Digital Arrest | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Universal Org-Crime Def` $\leftrightarrow$ `Pig Butchering` $\leftrightarrow$ `Fake News Lynching` $\leftrightarrow$ `Orwell` |
+| IS-01-10 | IS Syllabus 9 Heads | 1 | ★★★★☆ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Fundamentals` $\leftrightarrow$ `NE/Naxal/Khalistan/Kashmir` $\leftrightarrow$ `Org Crime` $\leftrightarrow$ `Cyber` $\leftrightarrow$ `Borders` $\leftrightarrow$ `Forces Mandate` |
 
 ### Environment & Ecology (Ecosystem, Biodiversity & Productivity)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -705,7 +719,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (8 Sep) Q1–Q2:** **GEO-10** (7 Sep climatology — C/D, Hadley 1735) + catch-up (Early Modern remaining *or* S&T virology). Do **not** dump GEO-09 / MOD-B6 (they go **10 Sep**)
+  1. **Tomorrow (8 Sep) Q1–Q2:** **GEO-10** (7 Sep climatology — C/D, Hadley 1735) + **IS-01** (7 Sep Internal Security L1). Do **not** dump GEO-09 / MOD-B6 (they go **10 Sep**)
   2. **Q3–Q6:** leftover **CA-260904** · Env first-pass if a slot. Passed 7 Sep morning → **10 Sep:** GEO-09, MOD-B6, Pallava, Home Rule, CA-260905/06
   3. **Q7:** Env **+3**. **Q8:** `MST-047` 2004/2013 **repeat 2** · `MST-050` Lucknow **1/3** · `MST-051` 60→62 merit. Leftover `MST-048` Art 94 / `MST-052` same-page ≠ education
   4. GEO-07 **+3** held → **14 Sep**. `MST-046` / `MST-049` resolved. **MST-029** DDT/DTAA still **9 Sep**
