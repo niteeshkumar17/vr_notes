@@ -1,9 +1,9 @@
 # 03 — Climatology: Atmosphere and Troposphere
 
-> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)**  
-> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**  
-> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8)  
-> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**
+> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)**  
+> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**  
+> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**)  
+> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**
 
 ### Lecture 6 — 25 August 2026
 
@@ -1109,6 +1109,302 @@ Next class picks these three forces up and starts assembling **tropospheric air 
 
 ---
 
+### Lecture 9 — 7 September 2026
+
+> Notebook dated **7/9/26**. Ninth climatology class. Continues Lecture 8’s near-surface forces. Today’s job is the **upper + lower troposphere together**: zones of **convergence / divergence**, why some lows and highs **persist**, and **George Hadley’s 1735 one-cell model**. **William Ferrel’s** three-cell picture starts **next class** (the sheet heading “Ferrell’s model” was the next title — class then wrote Hadley). Audio after **8772 s** is leftover recording, not class.
+
+**How to read class shortcuts:** **C / D** = convergence / divergence; **LP / HP** = Low Pressure / High Pressure; **GAPD** = Global Atmospheric Pressure Distribution. Full forms on first use.
+
+**Already in Lectures 6–8 — do not restudy as a new topic:** tropopause as lid (L7); PGF / Coriolis / friction (L8); cyclone = intense low at the centre (L8 working sentence); 80% atmosphere / 20% ocean heat transfer (L6). Cluster for *this* sitting is **GEO-10**.
+
+---
+
+## 29. Quotes from this class
+
+> Useful for Essay / Ethics / sustainable-development answers more than for Geography facts.
+
+- "You were always a better person inside. All you have to do is peel away the layers." (class: layers of religion, caste, language)
+- "Vision without action is a daydream. Action without vision is a nightmare."
+- "The poor are forced to forgo the needs of the future to meet the needs of the present."
+- "When we heal the Earth, we heal ourselves." (class: nature does not need us; we do this for our own survival)
+- "We shape our tools, and our tools shape us."
+- "Luck is a matter of preparation meeting opportunity."
+
+---
+
+## 30. Zones of Convergence and Divergence (GEO-10-01)
+
+Air moves from **high pressure to low pressure**.
+
+| Term | Meaning | Typical surface pressure |
+|:---|:---|:---|
+| **Zone of convergence** | Net **inflow** of air | **Low pressure** |
+| **Zone of divergence** | Net **outflow** of air | **High pressure** |
+
+**Benchmark (class, sea level):** normal atmospheric pressure ≈ **1013 millibars (mb)**.
+
+| Weather language | Meaning vs 1013 mb |
+|:---|:---|
+| **Low pressure** | Pressure **< 1013 mb** |
+| **High pressure** | Pressure **> 1013 mb** |
+| **Weak low** | Below 1013 mb, but **not far** from it |
+
+**Intensify / deepen** (used for lows): the low goes **further down**. **Develop** (used for highs): the high becomes **better organised**. Do not swap the verbs.
+
+---
+
+## 31. Cyclone vs Anti-cyclone — Language for Later Classes (GEO-10-02)
+
+> Class: this is **not** the cyclone chapter. Margin notes so later lectures have a picture.
+
+| | **Cyclone** | **Anti-cyclone** |
+|:---|:---|:---|
+| Working sentence | Wind system with an **intense low** at the **centre** | Wind system with a **well-developed high** at the **centre** |
+| Centre’s job | Focus of **convergent** air | **Source** of **divergent** air |
+| Weather (generally) | **Bad:** strong winds, huge clouds, heavy rain | **Fair:** clear sky, dry, moderate winds |
+| Lifespan (class) | Tropical: about **1 week** (fluctuations; temperate lasts a little longer — **~10–12 days** mentioned) | More **persistent**: generally **2–3 weeks** |
+| Why the news | Bad weather is news | Fair weather is not — **except** when an anti-cyclone becomes a nuisance |
+
+**Weak low → cyclone:** under favourable conditions a weak low may **intensify / deepen** into an intense low = cyclone.
+
+**High → anti-cyclone:** under favourable conditions a high may **develop** into a well-developed high = anti-cyclone.
+
+**Why tropical cyclones die in about a week:** later classes will list **five or six tough** origin/survival conditions. Today’s point only: those conditions are hard to keep, so the system rarely lasts beyond a week.
+
+**Exception (class):** **Cyclone Freddy (2023)**, South Indian Ocean, survived about **37 days** — first such extreme on record. Class analogy: wherever it moved, survival conditions were already waiting (“party in every room”). Do **not** replace the average (~1 week) with Freddy.
+
+**School trap:** “anti-cyclones = fair weather” is the **general** rule. Class: sometimes they are a nuisance; school usually skipped the exception.
+
+**Monsoon picture parked for later:** June–September, a well-developed high a little **east of Madagascar** over the **Mascarene** islands (class: “Meskreen” / “Nascreen High”) supplies moist air toward India’s northern-plains low — Arabian Sea and Bay branches; about **three-fourths** of India’s annual rain (already in Lecture 8).
+
+---
+
+## 32. Why Some Lows and Highs Persist (GEO-10-03)
+
+**Routine:** lows and highs form and **vanish**. Wind is nature’s balancing act (Lecture 8): air fills the low, drains the high, and both disappear.
+
+**Today’s question:** some systems **persist** — a tropical cyclone for ~a week *despite* strong inflow; an anti-cyclone for 2–3 weeks *despite* outflow. That needs a **3-D** pattern, not only surface wind.
+
+| Persistent surface | What nature must do | Upper troposphere |
+|:---|:---|:---|
+| **Convergence / LP** (cyclonic) | Remove air **before** it fills the centre — air is **lifted** (class: “suction”) | **Divergence** |
+| **Divergence / HP** (anti-cyclonic) | **Re-supply** the centre from above (class: rich family still rich because someone is earning) | **Convergence** |
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="Surface low has convergence below and divergence aloft; surface high has divergence below and convergence aloft" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:720px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="718" height="318" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="180" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Persistent LP</text>
+<text x="540" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Persistent HP</text>
+<text x="180" y="52" text-anchor="middle" font-size="11" fill="#475569">upper troposphere D</text>
+<text x="540" y="52" text-anchor="middle" font-size="11" fill="#475569">upper troposphere C</text>
+<line x1="70" y1="80" x2="130" y2="80" stroke="#1d4ed8" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#1d4ed8" transform="translate(70,80) rotate(180)"/>
+<line x1="230" y1="80" x2="290" y2="80" stroke="#1d4ed8" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#1d4ed8" transform="translate(290,80)"/>
+<text x="180" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">D</text>
+<line x1="430" y1="80" x2="490" y2="80" stroke="#b91c1c" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#b91c1c" transform="translate(490,80)"/>
+<line x1="590" y1="80" x2="650" y2="80" stroke="#b91c1c" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#b91c1c" transform="translate(430,80) rotate(180)"/>
+<text x="540" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#7f1d1d">C</text>
+<line x1="180" y1="95" x2="180" y2="195" stroke="#0369a1" stroke-width="2.4"/>
+<polygon points="0,-6 10,0 0,6" fill="#0369a1" transform="translate(180,95) rotate(-90)"/>
+<line x1="540" y1="95" x2="540" y2="195" stroke="#b91c1c" stroke-width="2.4"/>
+<polygon points="0,-6 10,0 0,6" fill="#b91c1c" transform="translate(540,195) rotate(90)"/>
+<circle cx="180" cy="230" r="28" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.8"/>
+<text x="180" y="235" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">LP</text>
+<circle cx="540" cy="230" r="28" fill="#fecaca" stroke="#b91c1c" stroke-width="1.8"/>
+<text x="540" y="235" text-anchor="middle" font-size="14" font-weight="700" fill="#7f1d1d">HP</text>
+<line x1="70" y1="270" x2="130" y2="270" stroke="#1d4ed8" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#1d4ed8" transform="translate(130,270)"/>
+<line x1="230" y1="270" x2="290" y2="270" stroke="#1d4ed8" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#1d4ed8" transform="translate(230,270) rotate(180)"/>
+<text x="180" y="298" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">C — surface</text>
+<line x1="430" y1="270" x2="490" y2="270" stroke="#b91c1c" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#b91c1c" transform="translate(430,270) rotate(180)"/>
+<line x1="590" y1="270" x2="650" y2="270" stroke="#b91c1c" stroke-width="2.2"/>
+<polygon points="0,-6 12,0 0,6" fill="#b91c1c" transform="translate(650,270)"/>
+<text x="540" y="298" text-anchor="middle" font-size="13" font-weight="700" fill="#7f1d1d">D — surface</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Rising air cools (clouds / rain later). Sinking air warms (clear, dry). If air never rises, the low is routine and fills. If air never descends from aloft, the high is spent.</em></p>
+
+**Dictated pair**
+
+1. For a zone of **convergence near the Earth’s surface**, there is a zone of **divergence in the upper troposphere**.
+2. For a zone of **divergence near the Earth’s surface**, there is a zone of **convergence in the upper troposphere**.
+
+**Coming later (not finished today):** subtropical **~30° N/S** sinking → deserts; equator rising → clouds so **highest temperatures are not at the equator**. One reason for deserts, not the only one.
+
+---
+
+## 33. Correlation Framework, Not Causal (GEO-10-04)
+
+Highest explanation in any science = **cause and effect**. Many atmospheric problems are **multivariate** and too mixed to name *the* cause. Then the next level is **correlation** (**Karl Pearson**).
+
+**Dictated (diagrams):** patterns of air circulation involving lower and upper troposphere **need to be analysed in a correlation framework (not in a causal framework).** Surface cyclone and upper anti-cyclonic outflow **develop together**. Scientists are **not** sure which is cause and which is effect. We notice the surface low first because we live on the surface.
+
+**Dictated (margin, general):** for major atmospheric phenomena (monsoon, cyclones, etc.) analysis needs to be in a **correlation** framework — most of these phenomena are **multivariate and complex**.
+
+| Example | Class line for answers / Prelims |
+|:---|:---|
+| **El Niño** (~100 years of study; class: since **1920s**) | Exact **cause unknown**. **Most** El Niño years → India’s summer monsoon **below average** (negative correlation). **Some** years still average / above — **Indian Ocean Dipole (IOD)** can **negate** El Niño’s hit. |
+| **Tropical cyclone origin** | ~75 years of study; **no theory of origin** yet. Later: **5–6 conditions** = a *chance*, not a formula. |
+| **UPSC rank** | Same logic: conditions raise a **chance**, not a causal machine. |
+
+**Prelims / Mains trap:** do not write El Niño *causes* a weak monsoon as if it were a law. Write **generally / most years, negative correlation**.
+
+---
+
+## 34. Cell (GEO-10-05)
+
+> The term **cell** in atmospheric science refers to a **three-dimensional circulation of air**, resulting in a **closed loop in the troposphere**.
+
+Surface: HP → LP (wind). LP = nature has a reason for air to **rise**. Rise → cool → cannot pass the **tropopause lid** → **diverge** aloft → **sink** where it becomes HP → loop closes.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" role="img" aria-label="Closed tropospheric cell: surface flow high to low, rise, upper return, sink" style="display:block;margin:0 auto;width:100%;min-width:280px;max-width:420px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="1" y="1" width="418" height="218" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="210" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Cell = closed 3-D loop</text>
+<circle cx="80" cy="160" r="24" fill="#fecaca" stroke="#b91c1c" stroke-width="1.6"/>
+<text x="80" y="165" text-anchor="middle" font-size="13" font-weight="700" fill="#7f1d1d">HP</text>
+<circle cx="340" cy="160" r="24" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.6"/>
+<text x="340" y="165" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">LP</text>
+<line x1="108" y1="160" x2="312" y2="160" stroke="#0f172a" stroke-width="2"/>
+<polygon points="0,-6 12,0 0,6" fill="#0f172a" transform="translate(312,160)"/>
+<text x="210" y="152" text-anchor="middle" font-size="11" fill="#334155">surface wind</text>
+<line x1="340" y1="132" x2="340" y2="70" stroke="#0369a1" stroke-width="2"/>
+<polygon points="0,-6 10,0 0,6" fill="#0369a1" transform="translate(340,70) rotate(-90)"/>
+<line x1="316" y1="58" x2="104" y2="58" stroke="#0369a1" stroke-width="2"/>
+<polygon points="0,-6 12,0 0,6" fill="#0369a1" transform="translate(104,58) rotate(180)"/>
+<line x1="80" y1="70" x2="80" y2="132" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="0,-6 10,0 0,6" fill="#b91c1c" transform="translate(80,132) rotate(90)"/>
+<text x="210" y="48" text-anchor="middle" font-size="11" fill="#334155">upper troposphere</text>
+<text x="210" y="204" text-anchor="middle" font-size="11" fill="#475569">ascent → clouds; descent → clear / dry</text>
+</svg>
+</div>
+
+**Preview only (write in next classes, not today’s finished map):** world-scale tropospheric circulation will be **three cells** per hemisphere — **Hadley** (low latitudes, ~0–30°), **Ferrel** (mid-latitudes; **William Ferrel, 1856**), **polar**. Surface pieces of those cells = **trades**, **westerlies**, **polar easterlies**. Class: later work is built **on Ferrel**, not on Hadley’s whole model.
+
+---
+
+## 35. Model, then GAPD (GEO-10-06)
+
+> The term **model** in scientific research refers to a **simplified version of a complex reality** (one or more **assumptions**). Scientists study the model, then use that understanding as a **tool** on the real complexity.
+
+If the assumptions go **too far** from reality, the model is **oversimplified** and **cannot** be used as that tool — Hadley’s fate below.
+
+### 35.1 Global Atmospheric Pressure Distribution (GAPD)
+
+**Primary cause:** **differential heating** of the Earth’s surface.
+
+Heating is uneven because of latitude, land vs water, grassland vs forest, **albedo**, and other permutations. Warm light air **rises** → **LP**. Cold dense air **sinks** → **HP**. So, as a first correlation: **high temperature ↔ low pressure**; **low temperature ↔ high pressure**.
+
+**Further complicated by:** Earth’s **rotation / Coriolis** (Lecture 8). Coriolis changes the **path** of moving air, so it also changes **where** air rises and sinks — therefore it changes the pressure map. On a **non-rotating** Earth the map would be simple: equatorial **LP**, polar **HP**. Real GAPD is not that simple.
+
+**Golden rule (never wrong):** wherever nature has a reason for air to **rise** → **LP**; wherever air **sinks** → **HP**.
+
+> **GAPD is the combined effect of heat and Earth’s rotation / Coriolis.**
+
+**Combined effect** (class, underline): the phenomenon is so mixed that scientists **cannot quantify** each variable separately, and **cannot rank** them. Same wording later for **seasons** (five factors — **not** today’s list). Do not write “heat 70%, rotation 30%.”
+
+---
+
+## 36. George Hadley (1735) — One-Cell Model (GEO-10-07, GEO-10-08)
+
+**George Hadley**, **1735** — first major attempt to understand **tropospheric air circulation**. Named: **one-cell model of tropospheric air circulation**.
+
+**One-cell** = **one** convection cell **in each hemisphere** (equator rise → pole sink).
+
+Hadley **knew** rotation mattered (class: he was an early student of what later became **Coriolis**; **Gaspard Coriolis** is late-18th century, so the *name* is later). Handling **heat + rotation together** was too hard and he had **no predecessor**. He **parked rotation**: model = **non-rotating Earth**, heat first, rotation later. That parking **oversimplified** the model.
+
+### 36.1 Picture (non-rotating, heat only)
+
+Equator **LP**, poles **HP**. Surface air **diverges from poles**, **converges at the equator**. Strongest **convection** on Earth at the equator (why tropopause is highest there — Lecture 7). Rise → tropopause lid → **diverge** aloft **all the way to the poles** → **sink**. Closed loop = **one cell per hemisphere**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-label="Hadley one-cell: rise at equator low pressure, sink at polar high pressure, one loop per hemisphere" style="display:block;margin:0 auto;width:100%;min-width:280px;max-width:400px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="4" y="4" width="352" height="352" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="180" y="28" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Hadley 1735 — one cell / hemisphere</text>
+<circle cx="180" cy="190" r="118" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<line x1="62" y1="190" x2="298" y2="190" stroke="#0f172a" stroke-width="1.5"/>
+<text x="180" y="186" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">Eq LP</text>
+<text x="180" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">N pole HP</text>
+<text x="180" y="318" text-anchor="middle" font-size="12" font-weight="700" fill="#7f1d1d">S pole HP</text>
+<text x="196" y="150" font-size="12" font-weight="700" fill="#1e3a8a">C</text>
+<text x="196" y="108" font-size="12" font-weight="700" fill="#1e3a8a">D</text>
+<path d="M 180 190 L 180 88" fill="none" stroke="#0369a1" stroke-width="2.2"/>
+<polygon points="0,-6 10,0 0,6" fill="#0369a1" transform="translate(180,88) rotate(-90)"/>
+<path d="M 180 88 Q 250 130 250 190" fill="none" stroke="#0369a1" stroke-width="2"/>
+<path d="M 250 190 Q 250 250 180 292" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<polygon points="0,-6 10,0 0,6" fill="#b91c1c" transform="translate(180,292) rotate(90)"/>
+<path d="M 180 88 Q 110 130 110 190" fill="none" stroke="#0369a1" stroke-width="2"/>
+<path d="M 110 190 Q 110 250 180 292" fill="none" stroke="#b91c1c" stroke-width="2"/>
+<path d="M 110 190 L 170 190" fill="none" stroke="#0f172a" stroke-width="1.8"/>
+<polygon points="0,-5 10,0 0,5" fill="#0f172a" transform="translate(170,190)"/>
+<path d="M 250 190 L 190 190" fill="none" stroke="#0f172a" stroke-width="1.8"/>
+<polygon points="0,-5 10,0 0,5" fill="#0f172a" transform="translate(190,190) rotate(180)"/>
+<text x="180" y="348" text-anchor="middle" font-size="11" fill="#475569">non-rotating Earth · convection only</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Class did not draw tropopause height change (16–18 km equator / 8–10 km poles) on this rejected sketch — keep that for Ferrel’s accepted model.</em></p>
+
+### 36.2 Dictated lines
+
+1. **Hadley’s model is based on a non-rotating Earth.**
+2. **Hadley’s model is based on convection currents**, which are **upward movements of warm air**.
+3. According to Hadley, **in each hemisphere there is a large convection cell powered by the heating of the lower latitudes.**
+4. By means of these convection cells, **surplus energy is transferred polewards.**
+5. Since Hadley **did not consider Earth’s rotation**, his model got **oversimplified** and **failed to describe and explain the complexities of tropospheric air circulation.**
+
+### 36.3 Why teach a rejected model
+
+**20th-century physics labs** heated a **non-rotating** Earth-model the way the Sun heats Earth: Hadley’s **heat–pressure–air** picture was **found correct**. That is still the base for talking about air and solar heating. **William Ferrel (1856)** could not have built the accepted model without it.
+
+**Two contributions that survive rejection**
+
+1. The convection cell is how nature **moderates the global heat imbalance** (surplus low latitudes → deficit middle/high — Lecture 6’s 80/20 split).
+2. **Lower latitudes are the powerhouse of global air circulation** — Sun’s energy there drives motion **beyond** the tropics.
+
+**Mains hook — teleconnections:** events far apart in space (sometimes months in time) still link. Best illustration: **El Niño** in the **tropical** east/central Pacific (west of South America toward Indonesia / Australia) — monsoon, Indonesian fires, fewer Atlantic cyclones, Australian droughts, parts of the US wet/cold, and so on. Class: you need not know El Niño’s *cause* to see why a shock in the **powerhouse** shakes the whole system. Quote **Hadley** on that powerhouse line.
+
+**Next sitting:** drop the non-rotation assumption → **Ferrel’s model**. Class closed: “we will start with Ferrel’s model next week.”
+
+---
+
+## 37. Lecture 9 — UPSC Quick Recall
+
+1. Convergence = net **inflow** (LP). Divergence = net **outflow** (HP). Sea-level yardstick **1013 mb**.
+2. Cyclone = intense **low at centre** (focus of C). Anti-cyclone = well-developed **high at centre** (source of D).
+3. Cyclone → bad weather (winds, clouds, rain); anti-cyclone → **generally** fair (clear, dry, moderate winds).
+4. Tropical cyclone ~**1 week**; anti-cyclone **2–3 weeks**. **Freddy 2023 ~37 days** is the extreme, not the average.
+5. Persistent LP: surface **C** + upper **D**. Persistent HP: surface **D** + upper **C**.
+6. Analyse that pair in **correlation**, not causation. Same for monsoon / El Niño / cyclone origin.
+7. **Cell** = 3-D closed loop in the troposphere.
+8. **GAPD** = **combined** effect of **differential heating** and **rotation / Coriolis** — do not rank the two.
+9. **Hadley 1735** = **one cell / hemisphere**, **non-rotating Earth**, convection, poleward heat. **Rejected** as oversimplified; heat–pressure–air still valid; lower latitudes = **powerhouse**.
+10. **Ferrel 1856** three-cell map = **next class**, not this sheet.
+
+---
+
+## Abbreviations used in Lecture 9
+
+| Shortcut | Full form |
+|:---|:---|
+| **C / D** | Convergence / Divergence |
+| **LP / HP** | Low Pressure / High Pressure |
+| **mb** | Millibar |
+| **GAPD** | Global Atmospheric Pressure Distribution |
+| **IOD** | Indian Ocean Dipole |
+| **PGF** | Pressure Gradient Force |
+| **NH / SH** | Northern Hemisphere / Southern Hemisphere |
+| **PYQ** | Previous Year Question |
+
+---
+
 <!-- 2026-08-25: Created from Geography Lecture 6 transcript and five handwritten notebook pages. -->
 <!-- 2026-08-29: Appended Lecture 7 (29/8) from transcript + 6 notebook pages — ELR/NLR, inversion vs strat/thermo, tropopause height and apparent paradox, weather-sphere lid, tropos=turn, isothermal zone and aviation, Earth rotation perspectives and linear speed. -->
 <!-- 2026-08-31: Appended Lecture 8 (31/8) from transcript + 3 notebook pages — T.A.C. three forces on near-surface air: PGF (steep/gentle, isobars), Coriolis (apparent deflection, Ferrel's law, latitude, object speed, aeroplane illustration), friction (speed + direction). -->
+<!-- 2026-09-07: Appended Lecture 9 (7/9) from transcript to 8772s + 4 notebook pages — C/D zones, cyclone vs anticyclone, persistent cells, correlation framework, GAPD heat+rotation, Hadley 1735 one-cell. Cluster GEO-10. Recording after 8772s discarded. -->

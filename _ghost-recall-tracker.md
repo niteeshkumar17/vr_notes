@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-07
-*   **Active Micro-Topics:** 499
+*   **Active Micro-Topics:** 507
 *   **Overall Database Mastery:** 76.6% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-09 Moho recovery; MST-046 / MST-049 resolved.
 *   **Active Learning Gaps Detected:** 8 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-047` 2004/2013 **repeat 2**; `MST-048` Art 94; `MST-050` Lucknow 1/3; `MST-051` 60→62 merit; `MST-052` same page ≠ education) · leftover `CA-260904`
-*   **New Topics Ingested Today:** — (7 Sep morning was recall only)
+*   **New Topics Ingested Today:** **GEO-10** (climatology L9 — C/D, Hadley 1735). First Ghost Recall **8 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -160,7 +160,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-01-01 | Geodesy, Ellipsoid & Great Circle Geometry | 1 | ★★★☆☆ | Day 21 | 2026-09-03 | 100% | High 🌟 | 95% | 92% | 5 | 0 | - | 2026-08-13 | Fast 🟢 | `Earth Oblateness` $\leftrightarrow$ `Meridians` $\leftrightarrow$ `Flight Paths` |
 | GEO-01-02 | Time Math, DST, UTC & Zulu Time | 1 | ★★★★☆ | Day 21 | 2026-09-03 | 100% | High 🌟 | 95% | 92% | 5 | 0 | - | 2026-08-13 | Fast 🟢 | `IMC 1884` $\leftrightarrow$ `7.5 Offsets` $\leftrightarrow$ `Longitudinal Rotation` |
 | GEO-01-03 | International Date Line (IDL) Crossing Rules | 3 | ★★★★★ | Day 20 | 2026-09-12 | 90% | High 🌟 | 97% | 95% | 7 | 2 | 2026-08-06 | 2026-08-23 | Fast 🟢 | `180 Meridian` $\leftrightarrow$ `Asia-US Direction` $\leftrightarrow$ `Gain/Lose Day` |
-| GEO-02-01 | Global Heat Imbalance & Atmospheric Transport | 2 | ★★★★☆ | Day 7 | 2026-08-08 | 90% | High 🌟 | 89% | 86% | 3 | 0 | - | 2026-08-01 | Fast | `80-20 Heat` $\leftrightarrow$ `Hadley Cell` $\leftrightarrow$ `Latitudinal Deficit` |
+| GEO-02-01 | Global Heat Imbalance & Atmospheric Transport | 2 | ★★★★☆ | Day 7 | 2026-08-08 | 90% | High 🌟 | 89% | 86% | 3 | 0 | - | 2026-08-01 | Fast | `80-20 Heat` $\leftrightarrow$ `Hadley Cell` $\leftrightarrow$ `Latitudinal Deficit` $\leftrightarrow$ `Elaborated GEO-10 Hadley 1735` |
 | GEO-02-02 | Subpolar Low Pressure Belt Dynamic Origin | 3 | ★★★★★ | Day 5 | 2026-08-13 | 80% | Rising 📈 | 86% | 80% | 5 | 2 | 2026-08-06 | 2026-08-08 | Improving 🟢 | `Polar Front` $\leftrightarrow$ `Centrifugal Force` $\leftrightarrow$ `Dynamic Belts` |
 | GEO-02-03 | Doldrums, Horse Latitudes & Planetary Winds | 2 | ★★★★☆ | Day 5 | 2026-08-13 | 90% | High 🌟 | 92% | 88% | 4 | 1 | 2026-08-06 | 2026-08-08 | Fast 🟢 | `Coriolis Deflection` $\leftrightarrow$ `Trade Winds` $\leftrightarrow$ `Subtropical High` |
 | GEO-03-01 | Geomorphology Definition & Landform Concepts | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Scientific Study` $\leftrightarrow$ `4 Dimensions` $\leftrightarrow$ `Complexity Principle` |
@@ -245,6 +245,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-09-08 | SFS: MOR + Age↑ to Continent + Symmetry; Divergent = Constructive | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Major New Crust = Ocean Floor` $\leftrightarrow$ `R1-R2-R3` $\leftrightarrow$ `C-C Divergent → Rift → Sea → SFS` |
 | GEO-09-09 | Continental 2.7 Granite 60-70 vs Oceanic 3 Basalt 15-20; Conrad; NCERT Trap | 3 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Basalt Denser than Granite` $\leftrightarrow$ `Moho Deeper under Continents` $\leftrightarrow$ `Conrad = C vs O Crust Today` |
 | GEO-09-10 | P/D/T Rise Non-Uniform; Closed Interior; IC Solid because Pressure / MP>6000 | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Both Cores ~6000` $\leftrightarrow$ `OC MP<6000 Liquid` $\leftrightarrow$ `Compressed All Directions` |
+
+### Geography (Climatology L9 — Convergence, Cells, GAPD & Hadley 1735 — 7 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-10-01 | C vs D; 1013 mb Yardstick; Intensify vs Develop | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `C=Net Inflow=LP` $\leftrightarrow$ `D=Net Outflow=HP` $\leftrightarrow$ `1013 mb` $\leftrightarrow$ `Intensify/Deepen=Lows` $\leftrightarrow$ `Develop=Highs` |
+| GEO-10-02 | Cyclone vs Anticyclone: Centre, Weather, 1 Week vs 2-3 Weeks, Freddy 37d | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Intense LP Centre=C Focus` $\leftrightarrow$ `HP Centre=D Source` $\leftrightarrow$ `Bad vs Generally Fair` $\leftrightarrow$ `Freddy 2023 SIO ~37d` $\leftrightarrow$ `Mascarene High Preview` |
+| GEO-10-03 | Persistent LP/HP: Surface C + Upper D; Surface D + Upper C | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Routine Lows Vanish` $\leftrightarrow$ `Lift Before Fill` $\leftrightarrow$ `Resupply from Aloft` $\leftrightarrow$ `Sink=Clear Dry` |
+| GEO-10-04 | Correlation not Causation: Monsoon/El Nino/Cyclone Origin | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Pearson` $\leftrightarrow$ `Most El Nino=Weak Monsoon` $\leftrightarrow$ `IOD Can Negate` $\leftrightarrow$ `No Cyclone Origin Theory` $\leftrightarrow$ `Surface+Aloft Together` |
+| GEO-10-05 | Cell = 3D Closed Loop in Troposphere | 1 | ★★★★☆ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `HP→LP Surface` $\leftrightarrow$ `Rise at LP` $\leftrightarrow$ `Tropopause Lid` $\leftrightarrow$ `Sink at HP` $\leftrightarrow$ `Next: Hadley-Ferrel-Polar` |
+| GEO-10-06 | GAPD Combined Effect: Differential Heating + Rotation/Coriolis | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hot↔LP Cold↔HP` $\leftrightarrow$ `Coriolis Shifts Rise/Sink Path` $\leftrightarrow$ `Cannot Rank Heat vs Rotation` |
+| GEO-10-07 | Hadley 1735 One-Cell: Non-Rotating Earth, Convection, Poleward Heat | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `One Cell/Hemisphere` $\leftrightarrow$ `Eq LP Poles HP` $\leftrightarrow$ `Powered by Lower Latitudes` $\leftrightarrow$ `Surplus Energy Poleward` |
+| GEO-10-08 | Hadley Rejected as Oversimplified; Heat-Pressure-Air Still Valid; Powerhouse | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Parked Rotation=Blunder` $\leftrightarrow$ `20c Lab Non-Rotating OK` $\leftrightarrow$ `Lower Lats=Powerhouse` $\leftrightarrow$ `Teleconnections El Nino` $\leftrightarrow$ `Ferrel 1856 Next` |
 
 ### Environment & Ecology (Ecosystem, Biodiversity & Productivity)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -693,8 +705,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (8 Sep) Q1–Q2:** no 7 Sep class — Early Modern remaining (Charters / Viceroys) + S&T virology. Do **not** dump GEO-09 / MOD-B6 (they go **10 Sep**)
-  2. **Q3–Q6:** leftover **CA-260904** · Env first-pass if a slot. Passed today → **10 Sep:** GEO-09, MOD-B6, Pallava, Home Rule, CA-260905/06
+  1. **Tomorrow (8 Sep) Q1–Q2:** **GEO-10** (7 Sep climatology — C/D, Hadley 1735) + catch-up (Early Modern remaining *or* S&T virology). Do **not** dump GEO-09 / MOD-B6 (they go **10 Sep**)
+  2. **Q3–Q6:** leftover **CA-260904** · Env first-pass if a slot. Passed 7 Sep morning → **10 Sep:** GEO-09, MOD-B6, Pallava, Home Rule, CA-260905/06
   3. **Q7:** Env **+3**. **Q8:** `MST-047` 2004/2013 **repeat 2** · `MST-050` Lucknow **1/3** · `MST-051` 60→62 merit. Leftover `MST-048` Art 94 / `MST-052` same-page ≠ education
   4. GEO-07 **+3** held → **14 Sep**. `MST-046` / `MST-049` resolved. **MST-029** DDT/DTAA still **9 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** / **`MST-046`** / **`MST-049`** stay resolved.
