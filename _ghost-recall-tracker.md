@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-07
-*   **Active Micro-Topics:** 517
+*   **Active Micro-Topics:** 521
 *   **Overall Database Mastery:** 76.6% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-09 Moho recovery; MST-046 / MST-049 resolved.
 *   **Active Learning Gaps Detected:** 8 (`MST-037` NSA 142; `MST-039` Nationalist; `MST-042` two engines; `MST-047` 2004/2013 **repeat 2**; `MST-048` Art 94; `MST-050` Lucknow 1/3; `MST-051` 60→62 merit; `MST-052` same page ≠ education) · leftover `CA-260904`
-*   **New Topics Ingested Today:** **GEO-10** (climatology L9) + **IS-01** (Internal Security L1). First Ghost Recall **8 Sep**.
+*   **New Topics Ingested Today:** **GEO-10** (climatology L9) + **IS-01** (Internal Security L1) + **CA-260907** (7 Sep Hindu). First Ghost Recall **8 Sep**. BRICS **POWER** patched on **CA-260906-02** — no extra Day-1.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -551,7 +551,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260905-01 | Model BIT Reset: 2015 State-Heavy; Cabinet Text; Democratic Deficit; Ranjan / LCI 260 | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Budget 2025` $\leftrightarrow$ `Investor vs Regulate` $\leftrightarrow$ `Parliament / DRSCs` $\leftrightarrow$ `UK-Aus-Norway-Colombia` |
 | CA-260905-02 | SC: District Judge 60→62; 5.18 Cr Backlog; 7 States Yes; Surya Kant 1 Sep | 2 | ★★★★★ | Day 3 | 2026-09-10 | 70% | Rising 📈 | 80% | 75% | 1 | 1 | 2026-09-07 | - | Moderate | `Merit Not Automatic` $\leftrightarrow$ `Specialised Service` $\leftrightarrow$ `Sanctioned vs Working` $\leftrightarrow$ `1 Oct Listing` |
 | CA-260906-01 | China Yarlung Zangbo Mega-Dam: 1.2 Tn Yuan / 5 Stations / 15th FYP / Great Bend; Collapse Won't Halt | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Yarlung = Upper Brahmaputra` $\leftrightarrow$ `Nyingchi Li Qiang Jul 2025` $\leftrightarrow$ `No Public Reservoir Data` $\leftrightarrow$ `Rasuwa Hook = CA-260829` |
-| CA-260906-02 | BRICS Payments: SWIFT + USD Vehicle; UPI-PayNow / Nexus / mBridge / BRICS Clear; India ≠ De-dollarise | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Correspondent Banks` $\leftrightarrow$ `SWIFT Messaging Not Money` $\leftrightarrow$ `India Cost+Speed` $\leftrightarrow$ `Trump 100% Tariff Threat` |
+| CA-260906-02 | BRICS Payments: SWIFT + USD Vehicle; UPI-PayNow / Nexus / mBridge / BRICS Clear; India ≠ De-dollarise | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Correspondent Banks` $\leftrightarrow$ `SWIFT Messaging Not Money` $\leftrightarrow$ `India Cost+Speed` $\leftrightarrow$ `Trump 100% Tariff Threat` $\leftrightarrow$ `18th Summit 12-13 Sep Delhi` $\leftrightarrow$ `POWER Xu Feihong` $\leftrightarrow$ `Flights + 6yr Border Trade` |
+| CA-260907-01 | UCT Political Cost: $18 bn 2025-26; Magalir 1.13 Cr / ₹13807 Cr; Inclusion vs Exclusion; CCT Alt | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `SDG 5.4` $\leftrightarrow$ `Kalaignar Magalir` $\leftrightarrow$ `Lakshmir Bhandar` $\leftrightarrow$ `Gruha Lakshmi` $\leftrightarrow$ `Economics Target / Politics Include` |
+| CA-260907-02 | FRA 2006: MoTA No Project-Consent Clause; Rules Still Need FRA First; Teesta-IV; 106 Months | 3 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MoTA vs Power` $\leftrightarrow$ `NHPC 106 Months` $\leftrightarrow$ `Teesta-IV HEP` $\leftrightarrow$ `Panda 70-75%` $\leftrightarrow$ `Shomona Khanna Bizarre` |
+| CA-260907-03 | AYUSH Health Diplomacy: EU FTA Jan 2026; Oman CEPA; NZ Annex; Visa 1646 / 75; 6.44L ≠ AYUSH | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `AYUSH Visa 2023` $\leftrightarrow$ `EU FTA Qualifications` $\leftrightarrow$ `Oman All Modes` $\leftrightarrow$ `Fellowship 260/32` $\leftrightarrow$ `Standards Gap` |
+| CA-260907-04 | Bhutan First WHO SEARO Dog-Rabies Elimination; One Health + De-suung; India 1/3 Deaths; NRCP 2030 | 2 | ★★★★★ | Day 1 | 2026-09-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Last Death Jun 2023` $\leftrightarrow$ `PEP Wash+Vaccine+RIG` $\leftrightarrow$ `A&N + Lakshadweep Free` $\leftrightarrow$ `96% Dog Bites` $\leftrightarrow$ `Tedros One Health` |
 
 ---
 
@@ -720,7 +724,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
   1. **Tomorrow (8 Sep) Q1–Q2:** **GEO-10** (7 Sep climatology — C/D, Hadley 1735) + **IS-01** (7 Sep Internal Security L1). Do **not** dump GEO-09 / MOD-B6 (they go **10 Sep**)
-  2. **Q3–Q6:** leftover **CA-260904** · Env first-pass if a slot. Passed 7 Sep morning → **10 Sep:** GEO-09, MOD-B6, Pallava, Home Rule, CA-260905/06
+  2. **Q3–Q6:** leftover **CA-260904** · **CA-260907** (7 Sep Hindu — one cluster if a slot) · Env first-pass. Passed 7 Sep morning → **10 Sep:** GEO-09, MOD-B6, Pallava, Home Rule, CA-260905/06
   3. **Q7:** Env **+3**. **Q8:** `MST-047` 2004/2013 **repeat 2** · `MST-050` Lucknow **1/3** · `MST-051` 60→62 merit. Leftover `MST-048` Art 94 / `MST-052` same-page ≠ education
   4. GEO-07 **+3** held → **14 Sep**. `MST-046` / `MST-049` resolved. **MST-029** DDT/DTAA still **9 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** / **`MST-046`** / **`MST-049`** stay resolved.

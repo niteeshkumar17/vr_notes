@@ -417,7 +417,7 @@ Two grounds for a **permanent seat**:
 
 **East vs West** inside the Council: **China + Russia** vs **United States**. They do not want a **pro-Western** new permanent (they **rejected Japan** — **G7**). Gaza / Ukraine votes split the same way.
 
-**BRICS** (Brazil, Russia, India, China, South Africa — summit **in India next week**, class): demand **reform of the International Monetary Fund (IMF)** and the **World Bank** (UN specialised-family money bodies). **West dominates:** World Bank President is **always appointed by the US President**; IMF cannot move without the **US** (largest shareholder). India and China want voice matching weight.
+**BRICS** (Brazil, Russia, India, China, South Africa — **18th** summit **New Delhi, 12–13 September 2026**, India chair): demand **reform of the International Monetary Fund (IMF)** and the **World Bank** (UN specialised-family money bodies). **West dominates:** World Bank President is **always appointed by the US President**; IMF cannot move without the **US** (largest shareholder). India and China want voice matching weight.
 
 **If the UN does not reform**, legitimacy may shift to **G20 / BRICS**. Reform so the UN reflects **2026 power**, not **1945**.
 

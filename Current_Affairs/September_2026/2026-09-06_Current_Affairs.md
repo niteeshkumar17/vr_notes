@@ -55,7 +55,7 @@ flowchart LR
 > **GS Paper:** **GS-II** (BRICS, sanctions, dollar system) + **GS-III** (payments, CBDC)
 
 ### 1. What is in the news
-**Srinivasan Ramani.** India chairs BRICS. The **18th BRICS Summit** is in **New Delhi** in **September**. The payments track: link **digital payment systems** and **Central Bank Digital Currencies (CBDCs)**. Finance ministries / central banks met in **Jaipur, August 2024**.
+**Srinivasan Ramani.** India chairs BRICS. The **18th BRICS Summit** is in **New Delhi**, **12–13 September 2026**. The payments track: link **digital payment systems** and **Central Bank Digital Currencies (CBDCs)**. Finance ministries / central banks met in **Jaipur, August 2024**.
 
 ### 2. How a cross-border payment works today
 Money does **not** jump country-to-country. It goes through a chain of **correspondent banks** (often **London / New York**) that hold accounts with each other.
@@ -92,6 +92,20 @@ Photo on the page: **PM Modi**, Brazil’s **Luiz Inácio Lula da Silva**, South
 ### 7. One-liner
 BRICS payments = cheaper / faster rails (UPI–PayNow, Nexus, CBDC / mBridge, BRICS Clear). **India = cost and speed, not de-dollarisation.** SWIFT stays the messaging backbone until something actually replaces it.
 
+### Update — 7 September 2026
+
+**Xu Feihong**, Chinese Ambassador to India — *The Hindu* op-ed ahead of the **18th** summit (**New Delhi, 12–13 September**). Same summit as this note; **POWER** is Beijing’s frame, not a second topic.
+
+| Letter | Clip line |
+|:---|:---|
+| **P** Principle | **United Nations (UN) Charter**, sovereign equality, non-interference; **Global Security Initiative (GSI)**; **Global Governance Initiative (GGI)** |
+| **O** Openness | Resist protectionism; **World Trade Organization (WTO)**; open industrial / supply chains; **Global Development Initiative (GDI)** |
+| **W** Win-Win | **UN 2030 Agenda**; Global South consensus; “openness, inclusiveness and win-win” |
+| **E** Engine | Nearly **half** of world population; about **30%** of global output; **one-fifth** of global trade; BRICS growth nearly **three times** faster than the **Group of Seven (G-7)** by **2028**; local-currency and cross-border **payments** (same track as above) |
+| **R** Responsibility | Digital economy, smart manufacturing, **artificial intelligence (AI)**; **China–BRICS AI Development** and **New Quality Productive Forces** research centres |
+
+**India–China (clip):** under **Xi Jinping** and **Narendra Modi**, ties have kept an improvement momentum; **direct flights** resumed; **border trade** reopened after a **six-year** suspension. Ambassador line: move in a “sustained, healthy, and stable” way.
+
 ```mermaid
 flowchart TD
   TODAY["Today: correspondent banks + USD vehicle + SWIFT messages"] --> WHY["Cost, monopoly, sanctions"]
@@ -114,7 +128,11 @@ flowchart TD
 | **BRICS** | Brazil, Russia, India, China, South Africa (plus later members as in current CA) |
 | **USD** | United States dollar |
 | **FX** | Foreign exchange |
+| **GSI / GDI / GGI** | Global Security / Development / Governance Initiative (China) |
+| **WTO** | World Trade Organization |
+| **G-7** | Group of Seven |
 
 ---
 
 <!-- 2026-09-06: The Hindu — (1) China Yarlung Zangbo mega-dam 1.2 tn yuan / 5 stations / 15th FYP / Great Bend; glacial collapse will not halt. (2) BRICS cross-border payments explainer: SWIFT, vehicle USD, UPI-PayNow, Nexus, mBridge, BRICS Clear; India cost/speed not de-dollarisation. Cluster CA-260906. Rasuwa collapse stays on 29 Aug. -->
+<!-- 2026-09-07: Xu Feihong POWER op-ed + 12–13 Sep dates + India–China flights / 6-yr border trade — in-place on Topic 2, same CA-260906-02. -->
