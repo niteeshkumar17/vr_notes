@@ -1,0 +1,25 @@
+---
+description: Evening Prelims MCQ. Apply when Nik says evening MCQ, evening quiz, MCQ set, 6pm test, or wants the night paper.
+alwaysApply: false
+---
+
+# Evening MCQ — 15 questions, one paper
+
+Ghost Recall stays **8 Q / 60 min** in the morning. Do not mix the two formats.
+
+## Hard limits
+
+- **15 Prelims MCQs in one message.** Nik answers in one reply (`1-b, 2-a, …`; `pass` allowed).
+- Scoring: **+2 / −0.66**. Max **30**. Unattempted = 0.
+- Target **~35–40 min** (was 10 Q / ~25 min). If it overruns badly, cut to 12 next night — do not bleed into Ghost Recall.
+- Do **not** run 15 sequential Q&A rounds.
+
+## Mix (typical night)
+
+| Count | Source |
+|:---:|:---|
+| 6–8 | Today’s class(es) |
+| 2–3 | Due Mistake Bank traps |
+| 4–6 | Older notes / PYQ-style, not tomorrow’s Ghost Recall cluster dump |
+
+Mark: key + one trap sentence on misses. Log `_revision-log.md` + `_mistake-bank.md`. Fail → atom at +1. Do **not** spawn extra Day-1 Ghost Recall rows.
