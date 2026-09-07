@@ -1341,24 +1341,17 @@ Equator **L.P.**, poles **HP**. Surface air **diverges from the poles**, **conve
 <path d="M 132 250 L 82 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
 <path d="M 82 250 A 138 138 0 0 1 220 112" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
 <path d="M 220 112 L 220 162" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
-<path d="M 220 162 A 88 88 0 0 1 308 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
-<path d="M 308 250 L 358 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
-<path d="M 358 250 A 138 138 0 0 0 220 112" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
 <path d="M 220 338 A 88 88 0 0 1 132 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
 <path d="M 82 250 A 138 138 0 0 0 220 388" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
 <path d="M 220 388 L 220 338" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
-<path d="M 220 338 A 88 88 0 0 0 308 250" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
-<path d="M 358 250 A 138 138 0 0 1 220 388" fill="none" stroke="#1e3a8a" stroke-width="2" marker-end="url(#hn)"/>
 <text x="108" y="242" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">C</text>
-<text x="332" y="242" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">C</text>
 <text x="64" y="236" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">D</text>
-<text x="376" y="236" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">D</text>
 <text x="220" y="430" text-anchor="middle" font-size="12" fill="#334155">non-rotating Earth · convection only · one cell / hemisphere</text>
 <text x="220" y="452" text-anchor="middle" font-size="11" fill="#64748b">surface: poles → equator · rise at L.P. · aloft to poles · sink at HP</text>
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Inner circle = Earth’s surface; arrows in the outer band = troposphere. <strong>C</strong> at equatorial surface; <strong>D</strong> aloft over the equator. Class did not draw tropopause height change (16–18 km equator / 8–10 km poles) on this rejected sketch — keep that for Ferrel.</em></p>
+<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> One meridian only (left of the Earth), as on the sheet. Inner circle = surface; outer arrows = troposphere. <strong>C</strong> at equatorial surface; <strong>D</strong> aloft. Same cell exists on the other side — not drawn.</em></p>
 
 ### 36.2 Dictated lines
 
