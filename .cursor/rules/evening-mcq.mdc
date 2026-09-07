@@ -3,23 +3,26 @@ description: Evening Prelims MCQ. Apply when Nik says evening MCQ, evening quiz,
 alwaysApply: false
 ---
 
-# Evening MCQ — 15 questions, one paper
+# Evening MCQ — 15 class + 5 real PYQ
 
 Ghost Recall stays **8 Q / 60 min** in the morning. Do not mix the two formats.
 
 ## Hard limits
 
-- **15 Prelims MCQs in one message.** Nik answers in one reply (`1-b, 2-a, …`; `pass` allowed).
-- Scoring: **+2 / −0.66**. Max **30**. Unattempted = 0.
-- Target **~35–40 min** (was 10 Q / ~25 min). If it overruns badly, cut to 12 next night — do not bleed into Ghost Recall.
-- Do **not** run 15 sequential Q&A rounds.
+- **20 items, one message:** **15** from Nik’s notes + **5 authentic UPSC CSE Prelims PYQs**.
+- Answer in one reply (`1-b, 2-a, …`; `pass` allowed). Do **not** run sequential Q&A.
+- Scoring: **+2 / −0.66**. Max **40**. Unattempted = 0.
+- Target **~45 min**. If it overruns, keep 20 but shorten stems — do not bleed into Ghost Recall.
 
-## Mix (typical night)
+## Mix
 
 | Count | Source |
 |:---:|:---|
-| 6–8 | Today’s class(es) |
+| ~8 | Today’s class(es) |
 | 2–3 | Due Mistake Bank traps |
-| 4–6 | Older notes / PYQ-style, not tomorrow’s Ghost Recall cluster dump |
+| rest of 15 | Older notes (not tomorrow’s Ghost Recall dump) |
+| **5** | Real PYQs only — topics he **already has notes** for. Cite **year** (and Q no. if known). Label them **PYQ**. Never invent a “PYQ.” |
 
-Mark: key + one trap sentence on misses. Log `_revision-log.md` + `_mistake-bank.md`. Fail → atom at +1. Do **not** spawn extra Day-1 Ghost Recall rows.
+## PYQ extra info → enrichment, not a new topic
+
+Same rule as newspaper already-covered: append `### Update — D Month YYYY (UPSC CSE Prelims YYYY)` on the **original** note. New facts only. Patch that cluster’s knowledge graph. **Do not** add a Day-1 Ghost Recall row.

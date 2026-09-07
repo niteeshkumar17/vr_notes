@@ -1,7 +1,7 @@
 # UPSC CSE 2027 — Revision Log (v2.0)
 
 > **Auto-maintained by the revision mentor agent.**
-> Evening MCQ Engine (**15** Prelims items, ~35–40 min, +2 / −0.66, max 30) & morning Ghost Recall (8 Q / 60 min). From 7 Sep 2026 evening papers are 15, not 10.
+> Evening MCQ Engine (**15** class-note items + **5** real UPSC PYQs = **20**, ~45 min, +2 / −0.66, max 40) & morning Ghost Recall (8 Q / 60 min). PYQ extras patch the original note. From 7 Sep 2026.
 
 ## 📊 Coverage & MCQ Table
 
