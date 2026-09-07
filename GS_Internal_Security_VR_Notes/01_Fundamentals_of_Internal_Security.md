@@ -104,7 +104,7 @@ Insurgency from **1952** onward, then an unprecedented rise of related developme
 
 **Home Minister / “Mission Naxal Mukt Bharat”:** class heard India called **Naxal-free this year** on the floor. Class: **too early**. Operations alone cannot finish it — **dialogue + development** must run **parallel** to the offensive.
 
-**Bihar — Bhojpur:** “red hot spot.” **Dala system** — dominant **Kshatriyas / Bhumihars** holding majority land. Sheet: first-night custom with the zamindar. Peasants **joined the Naxalites**. **Ranvir Sena** (same caste bloc) — **Supreme Court (SC) banned** it.
+**Bihar — Bhojpur:** “red hot spot.” **Dola system** (sheet wrote “Dala”) — dominant **Kshatriyas / Bhumihars** holding majority land. Newly wed women were forced to spend the **first night** with the **zamindar**. Peasants **joined the Naxalites**. **Ranvir Sena** (same caste bloc) — **Supreme Court (SC) banned** it.
 
 **Chhattisgarh — Salwa Judum:** “peace-keeping force” developed by the **Chhattisgarh government**. **SC banned** it. Divided villages into **support Naxals** vs **against Naxals**.
 
@@ -204,6 +204,7 @@ Nine heads (later lectures will open each):
 | **NSCN-IM** | National Socialist Council of Nagaland (Isak-Muivah) |
 | **UT** | Union Territory |
 | **ULFA** | United Liberation Front of Asom |
+| **Dola** | Feudal first-night custom: newly wed woman forced to sleep with the zamindar (Bhojpur) |
 | **WB / UP / BR / MP / OR** | West Bengal / Uttar Pradesh / Bihar / Madhya Pradesh / Odisha |
 | **SC** | Supreme Court |
 | **AFSPA** | Armed Forces (Special Powers) Act |
