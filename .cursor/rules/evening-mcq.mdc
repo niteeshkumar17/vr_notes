@@ -21,8 +21,16 @@ Ghost Recall stays **8 Q / 60 min** in the morning. Do not mix the two formats.
 | ~8 | Today’s class(es) |
 | 2–3 | Due Mistake Bank traps |
 | rest of 15 | Older notes (not tomorrow’s Ghost Recall dump) |
-| **5** | Real PYQs only — topics he **already has notes** for. Cite **year** (and Q no. if known). Label them **PYQ**. Never invent a “PYQ.” |
+| **5** | Real PYQs only — topics he **already has notes** for. Label **PYQ** + `CSE-YYYY-Qnn`. Never invent a PYQ. Skip a slot if the official stem cannot be verified. |
+
+## How the 5 PYQs are fetched
+
+1. Map tonight’s notes (`notes-index.json` + today’s classes). Pick themes he has actually studied.
+2. Open the official **UPSC CSE Prelims GS-I** PDF for a year (upsc.gov.in → Previous Question Papers). Copy **stem + options verbatim**.
+3. Check `_pyq-log.md`. Do **not** reuse an ID.
+4. Key: official UPSC key if published; otherwise a sourced key — never a guessed “I remember this was B.”
+5. After he answers: log the five IDs in `_pyq-log.md` (theme, mapped cluster, ✅/❌).
 
 ## PYQ extra info → enrichment, not a new topic
 
-Same rule as newspaper already-covered: append `### Update — D Month YYYY (UPSC CSE Prelims YYYY)` on the **original** note. New facts only. Patch that cluster’s knowledge graph. **Do not** add a Day-1 Ghost Recall row.
+Same as newspaper already-covered: `### Update — D Month YYYY (UPSC CSE Prelims YYYY)` on the **original** note. New facts only. Patch that cluster’s graph. **Do not** add a Day-1 Ghost Recall row. Miss → Mistake Bank atom at +1.
