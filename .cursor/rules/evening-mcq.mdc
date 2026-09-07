@@ -30,7 +30,7 @@ Ghost Recall stays **8 Q / 60 min** in the morning. Do not mix the two formats.
 3. Check `_pyq-log.md`. Do **not** reuse an ID.
 4. Key = `answer` in the index (a–d). If missing, skip that slot.
 5. After he answers: log the five IDs in `_pyq-log.md` (theme, mapped cluster, ✅/❌).
-6. Do **not** OCR the photo-PDFs. Do **not** invent a PYQ. **2026** stems are not in the index yet — use 2016–2025.
+6. IDs are **Series A booklet numbers** (same as the PDFs on `/pyqs`). Do **not** invent a PYQ. **2026** stems are not in the index yet — use 2016–2025.
 
 ## PYQ extra info → enrichment, not a new topic
 

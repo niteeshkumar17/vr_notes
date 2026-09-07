@@ -2,7 +2,7 @@
 
 Evening paper uses **5 real PYQs** a night. This file only records **what was already set**, so the same question is not reused. It is **not** a Ghost Recall queue.
 
-**Searchable bank:** `_pyq-index.json` (same data as Pyro `/pyqs` → Questions). **1,000 GS-I stems, 2016–2025.** Pick by topic from notes; copy stem + options from that file. Open the matching PDF on the site if you want the booklet. **2026** is Papers-only until stems are added.
+**Searchable bank:** `_pyq-index.json` (same data as Pyro `/pyqs` → Questions). **1,000 GS-I Series A stems, 2016–2025** — same printed order as the booklets on `/pyqs` (2016 = `B-APM-P-CKB` Series A). **2026** is Papers-only until stems are added.
 
 **ID:** `CSE-YYYY-Qnn`
 
