@@ -104,7 +104,17 @@ Insurgency from **1952** onward, then an unprecedented rise of related developme
 
 **Home Minister / “Mission Naxal Mukt Bharat”:** class heard India called **Naxal-free this year** on the floor. Class: **too early**. Operations alone cannot finish it — **dialogue + development** must run **parallel** to the offensive.
 
-**Bihar — Bhojpur:** “red hot spot.” **Dola system** (sheet wrote “Dala”) — dominant **Kshatriyas / Bhumihars** holding majority land. Newly wed women were forced to spend the **first night** with the **zamindar**. Peasants **joined the Naxalites**. **Ranvir Sena** (same caste bloc) — **Supreme Court (SC) banned** it.
+**Bihar — Bhojpur:** “red hot spot.” **Dola system** (sheet wrote “Dala”) — dominant **Kshatriyas / Bhumihars** holding majority land. Newly wed women from lower-caste / landless households were forced to spend the **first night** at the **zamindar’s** house, not the husband’s. Peasants **joined the Naxalites**. **Ranvir Sena** (same caste bloc) — **Supreme Court (SC) banned** it.
+
+### Update — 7 September 2026 (Dola meaning + Mahathin Mai; not a new topic)
+
+Keep the class line (Bhojpur, Kshatriya/Bhumihar land, first night with the zamindar, peasants → Naxalites, Ranvir Sena SC-banned). Extra reading only fills the name and the local legend.
+
+- **Dola** = the bride’s **palanquin / palki**. The custom was to **divert** that palanquin to the landlord’s **haveli** instead of the husband’s home. Same idea as medieval Europe’s **droit du seigneur** (“right of the lord”) — class did not use the French name.
+- **Feudal use:** dominance, humiliation, and sexual exploitation of labouring castes so they stayed subjugated.
+- **Mahathin Mai (also Mathin / Mahteen Mai), Bihiya, Bhojpur:** folk memory of a woman whose palanquin was stopped under Dola; she resisted and became a local deity. **Mahathin Mai Mandir** at Bihiya still draws women, including Dalit women, as a symbol of that violence and resistance. Do not treat the origin-year stories (one district page says **1528**; popular write-ups invent much older dates) as Prelims facts.
+
+<span style="color: #e53e3e;">**Prelims trap:** **Dola**, not Dala. Name = palanquin, not a caste. SC banned **Ranvir Sena**, not the Dola custom as a statute. Mahathin Mai is **Bhojpur / Bihiya** memory — do not mix with Salwa Judum (Chhattisgarh).</span>
 
 **Chhattisgarh — Salwa Judum:** “peace-keeping force” developed by the **Chhattisgarh government**. **SC banned** it. Divided villages into **support Naxals** vs **against Naxals**.
 
@@ -204,7 +214,7 @@ Nine heads (later lectures will open each):
 | **NSCN-IM** | National Socialist Council of Nagaland (Isak-Muivah) |
 | **UT** | Union Territory |
 | **ULFA** | United Liberation Front of Asom |
-| **Dola** | Feudal first-night custom: newly wed woman forced to sleep with the zamindar (Bhojpur) |
+| **Dola** | Palanquin (*palki*); feudal custom of diverting a newly wed bride’s first night to the zamindar (Bhojpur) |
 | **WB / UP / BR / MP / OR** | West Bengal / Uttar Pradesh / Bihar / Madhya Pradesh / Odisha |
 | **SC** | Supreme Court |
 | **AFSPA** | Armed Forces (Special Powers) Act |
