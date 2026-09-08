@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-08
-*   **Active Micro-Topics:** 535
+*   **Active Micro-Topics:** 542
 *   **Overall Database Mastery:** 77.0% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-10 / IS-01 clusters → **11 Sep**. `MST-042` / `MST-051` resolved.
 *   **Active Learning Gaps Detected:** `MST-050` Lucknow **repeat 2** · `MST-053` IOD · `MST-054` BRICS theme · `MST-055` persistent HP · `MST-056` Mizo UT 1972 · `MST-057` JSY / 62.2% · `MST-058` SEARO · leftover **CA-260904** / **CA-260907** FRA
-*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). First Ghost Recall **9 Sep**. **CA-260907** first pass still incomplete.
+*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2) + **GEO-11** (Yellow Book Concepts Ch 1 — Earth in the Universe). First Ghost Recall: classes **9 Sep**; **GEO-11 → 10 Sep** (do not steal Q1–Q2 from MOD-B7 / ST-05). **CA-260907** first pass still incomplete.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -177,7 +177,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-03-06 | Davisian Trio & Landform Classification | 1 | ★★★★☆ | Day 7 | 2026-08-24 | 100% | High 🌟 | 96% | 93% | 2 | 0 | - | 2026-08-17 | Fast 🟢 | `Structure-Process-Time` $\leftrightarrow$ `Size Order` $\leftrightarrow$ `Origin` |
 | GEO-04-01 | Endo Expression: Structural vs Non-Structural & Diastrophism vs Catastrophism | 2 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Landform = Structural Expression` $\leftrightarrow$ `Diastrophism 80%` $\leftrightarrow$ `Catastrophic: EQ/Volcano` |
 | GEO-04-02 | Earth's Factual Profile & Geological Time Scale (4 Eons) | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `4.6 BY` $\leftrightarrow$ `Eon-Era-Period-Epoch` $\leftrightarrow$ `Fe>O>Si>Mg>Al>Ni` |
-| GEO-04-03 | Hadean Eon: Giant Impact, Theia & Moon Formation | 3 | ★★★★★ | Day 2 | 2026-08-12 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Theia 4.5 BY` $\leftrightarrow$ `Moon Formation` $\leftrightarrow$ `Wobbling` $\leftrightarrow$ `Axial Tilt 23.5` |
+| GEO-04-03 | Hadean Eon: Giant Impact, Theia & Moon Formation | 3 | ★★★★★ | Day 2 | 2026-08-12 | 100% | High 🌟 | 95% | 90% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Theia 4.5 BY` $\leftrightarrow$ `Moon Formation` $\leftrightarrow$ `Wobbling` $\leftrightarrow$ `Axial Tilt 23.5` $\leftrightarrow$ `YB Big Splat ~4.44 BY` $\leftrightarrow$ `Tidal lock ~59%` $\leftrightarrow$ `GEO-11` |
 | GEO-04-04 | Density Adjustment & SIAL/SIMA/NiFe Layering | 3 | ★★★★★ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Centripetal/Centrifugal` $\leftrightarrow$ `Core NiFe` $\leftrightarrow$ `Radioactivity Displaced` |
 | GEO-04-05 | Geothermal Heat & Convection as Driving Mechanism | 2 | ★★★★★ | Day 3 | 2026-08-13 | 100% | High 🌟 | 96% | 92% | 1 | 0 | - | 2026-08-10 | Fast 🟢 | `Source→Mechanism→Expression` $\leftrightarrow$ `Radiation❌` $\leftrightarrow$ `Conduction❌` $\leftrightarrow$ `Convection✅` |
 | GEO-04-06 | Density, Thermal Differentiation & Melting Point Logic | 2 | ★★★★☆ | Day 1 | 2026-08-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MP>T=Solid` $\leftrightarrow$ `T>MP=Liquid` $\leftrightarrow$ `Heterogeneous Interior` |
@@ -263,6 +263,17 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-10-06 | GAPD Combined Effect: Differential Heating + Rotation/Coriolis | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Hot↔LP Cold↔HP` $\leftrightarrow$ `Coriolis Shifts Rise/Sink Path` $\leftrightarrow$ `Cannot Rank Heat vs Rotation` |
 | GEO-10-07 | Hadley 1735 One-Cell: Non-Rotating Earth, Convection, Poleward Heat | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `One Cell/Hemisphere` $\leftrightarrow$ `Eq LP Poles HP` $\leftrightarrow$ `Powered by Lower Latitudes` $\leftrightarrow$ `Surplus Energy Poleward` |
 | GEO-10-08 | Hadley Rejected as Oversimplified; Heat-Pressure-Air Still Valid; Powerhouse | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Parked Rotation=Blunder` $\leftrightarrow$ `20c Lab Non-Rotating OK` $\leftrightarrow$ `Lower Lats=Powerhouse` $\leftrightarrow$ `Teleconnections El Nino` $\leftrightarrow$ `Ferrel 1856 Next` |
+
+### Geography (Yellow Book Concepts Ch 1 — Earth in the Universe — 8 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-11-01 | Universe Picture + Origin Theories + Big Bang / Hubble / CMB | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ptolemy→Copernicus` $\leftrightarrow$ `Kant–Laplace Nebula` $\leftrightarrow$ `Schmidt–Weizsäcker` $\leftrightarrow$ `Hubble Redshift` $\leftrightarrow$ `~13.7 BY` $\leftrightarrow$ `CMB` |
+| GEO-11-02 | Galaxies: Hubble’s Law; Irregular / Elliptical / Spiral; Milky Way | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Elliptical=Old No New Stars` $\leftrightarrow$ `MW Barred Spiral` $\leftrightarrow$ `Sgr A*` $\leftrightarrow$ `26k ly` $\leftrightarrow$ `250 mn yr Orbit` |
+| GEO-11-03 | Stars: Clusters; Mass Paths; Chandrasekhar 1.4 M☉; Black Hole | 3 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Nebula→Protostar→Main Sequence` $\leftrightarrow$ `WD vs SN` $\leftrightarrow$ `Chandrasekhar 1.4` $\leftrightarrow$ `Event Horizon 2017 PYQ` |
+| GEO-11-04 | Sun: Plasma; Layers; 11-yr Cycle; Halo≠Layer; Parker Alfvén 2021 | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `73H/25He` $\leftrightarrow$ `Core 15 mn C Fusion` $\leftrightarrow$ `Corona Eclipse` $\leftrightarrow$ `22° Ice Halo` $\leftrightarrow$ `Parker 2021` |
+| GEO-11-05 | IAU 2006 Planet vs Dwarf; Terrestrial vs Jovian; 8 Planets | 3 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sphere+Cleared Orbit` $\leftrightarrow$ `Pluto 2006` $\leftrightarrow$ `Inner Rock vs Outer Gas` $\leftrightarrow$ `Jupiter 95 / Saturn 146` |
+| GEO-11-06 | Moon Tidal Lock; Ceres vs Kuiper Dwarfs; Meteoroid/Meteor/Meteorite | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Big Splat` $\leftrightarrow$ `59% Near Side` $\leftrightarrow$ `Ceres=Belt` $\leftrightarrow$ `Space→Streak→Ground` $\leftrightarrow$ `2011 Comets not Venus–Mercury` |
+| GEO-11-07 | Stations: ISS 1998/400 km; Tiangong 2022; BAS 2035 | 1 | ★★★★☆ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ISS Partners 5` $\leftrightarrow$ `Tiangong 3 Crew` $\leftrightarrow$ `BAS 15–20 d / 20 t` $\leftrightarrow$ `ST-04-10 Class Still Skylab/Mir` |
 
 ### Internal Security (Fundamentals L1 — Evolution of Threats — 7 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -657,7 +668,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-04-07 | Race 1.0: Sputnik 1957; Gagarin; Tereshkova; Laika; Apollo 11 16/20 Jul 1969; A-17 1972 End | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Optics+Hostility` $\leftrightarrow$ `JFK Hard` $\leftrightarrow$ `Isolated Missions` $\leftrightarrow$ `>60% Budget` |
 | ST-04-08 | Race 2.0 Lunar: Artemis1 2022 Orion; A2 1 Apr 2026 Manned No Land; 2028 Land; 2032 Stay | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Additive ≠ Isolated` $\leftrightarrow$ `Koch / Glover` $\leftrightarrow$ `No Gateway` $\leftrightarrow$ `Mars Springboard` |
 | ST-04-09 | ILRS CN-RU 2031 Orbital or Base; India Not In Race; Sarabhai Doctrine; Man-Moon Sheet 2040 | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Sustained Presence` $\leftrightarrow$ `Development Not Prestige` $\leftrightarrow$ `Gaganyaan Delay` |
-| ST-04-10 | Station = Sustained Presence; Micro-g NOT Zero-g; Weightless = Free Fall; UV/X; Skylab / Mir | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Gravity Binds` $\leftrightarrow$ `Curve of Fall ∥ Earth` $\leftrightarrow$ `Next Class Continues` |
+| ST-04-10 | Station = Sustained Presence; Micro-g NOT Zero-g; Weightless = Free Fall; UV/X; Skylab / Mir | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Gravity Binds` $\leftrightarrow$ `Curve of Fall ∥ Earth` $\leftrightarrow$ `Next Class Continues` $\leftrightarrow$ `YB: ISS 1998/400 km` $\leftrightarrow$ `Tiangong 2022` $\leftrightarrow$ `BAS 2035` $\leftrightarrow$ `GEO-11-07` |
 
 ### Science & Technology (Public Health / Virology — Lecture 2, 8 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -741,10 +752,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**)
+  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**). **GEO-11** Yellow Book Ch 1 waits for **10 Sep**
   2. **Q3–Q6:** leftover **CA-260904** · **CA-260907** FRA · Polity Vajiram features / Geo remaining (schedule)
   3. **Q7:** Nuclear **+3**. **Q8:** `MST-050` Lucknow **repeat 2** · `MST-029` DDT/DTAA · `MST-055` persistent HP · `MST-056` UT **1972**
-  4. `MST-042` / `MST-051` / `MST-047` / `MST-048` resolved. GEO-09 / MOD-B6 / Pallava / Home Rule → **10 Sep**
+  4. `MST-042` / `MST-051` / `MST-047` / `MST-048` resolved. GEO-09 / MOD-B6 / Pallava / Home Rule → **10 Sep**. **GEO-11** first pass also **10 Sep** (Q3–Q6)
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** / **`MST-046`** / **`MST-049`** stay resolved.
 
 

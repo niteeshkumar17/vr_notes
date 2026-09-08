@@ -6,6 +6,7 @@
 > **Date Added:** 2026-07-28; split **2026-08-30** from the notebook  
 > **Source:** Vajiram & Ravi class lecture + handwritten notebook. Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
 > **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
+> **Yellow Book Concepts Ch 1 (Earth in the Universe)** is a separate note: `07_Earth_in_the_Universe.md` — not this lat/long file.  
 > **Lecture 5** is the page dated **30/7/26** (quotes, International Date Line, Daylight Saving Time, jet lag). Assignments from class sit in the note.
 
 ---

@@ -409,6 +409,16 @@ After the Moon, the next prestige target was **who builds a house in space first
 
 Leave page-space. Next lecture: why they later **shared** a station (International Space Station), and why this is Mains-relevant for the next two years.
 
+### Update — 8 September 2026 (Yellow Book Concepts Ch 1 — stations; class still parked)
+
+Yellow Book numbers only. **Not** a new S&T cluster — Vinay continues stations next class. Same facts live in `GS_Geography_VR_Notes/07_Earth_in_the_Universe.md` (**GEO-11-07**).
+
+| Station | Book facts |
+|:---|:---|
+| **International Space Station (ISS)** | Largest man-made object in space; **20 November 1998**; inhabited since **2000**; ~**400 km**; ~**28,000 km/h**; ~**90 min** orbit. **NASA**, **Roscosmos**, **ESA**, **JAXA**, **CSA** |
+| **Tiangong** (China) | Operational **2022**; ~**450 km**; **three** astronauts |
+| **Bhartiya Antariksh Station** (book: Antriksh) | Planned **2035**; ~**400 km**; **15–20 days**; up to **20 tonnes** |
+
 <div style="overflow-x:auto;">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-label="Space station research conditions and Skylab versus Mir" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <rect x="1" y="1" width="638" height="238" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
@@ -460,6 +470,7 @@ Leave page-space. Next lecture: why they later **shared** a station (Internation
 | ILRS | International Lunar Research Station |
 | ISRO | Indian Space Research Organisation |
 | ISS | International Space Station |
+| JAXA | Japan Aerospace Exploration Agency |
 | JFK | John F. Kennedy |
 | KL | Karman / Kármán Line |
 | mRNA | messenger Ribonucleic Acid |
@@ -467,6 +478,7 @@ Leave page-space. Next lecture: why they later **shared** a station (Internation
 | NCERT | National Council of Educational Research and Training |
 | OST | Outer Space Treaty (1967) |
 | PYQ | Previous Year Question |
+| Roscosmos | Russian space agency (Yellow Book station partners) |
 | RS | Remote Sensing |
 | SBIS | Satellite-Based Internet Services |
 | TERLS | Thumba Equatorial Rocket Launching Station |
@@ -474,5 +486,7 @@ Leave page-space. Next lecture: why they later **shared** a station (Internation
 | UPSC | Union Public Service Commission |
 | USSR | Union of Soviet Socialist Republics |
 | UV | Ultraviolet |
+| ESA | European Space Agency |
+| CSA | Canadian Space Agency |
 
 **Unexpanded on the sheet:** **BT** in BT cotton (class only said it is **not** “biotechnology”).
