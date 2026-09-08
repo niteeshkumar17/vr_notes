@@ -74,6 +74,19 @@
 
 *(Most recent first)*
 
+### Session 30 — 2026-09-08 (Ghost Recall)
+- **Subject:** GEO-10, IS-01, CA-260904, CA-260907, ENV-02 +3, MST-051
+- **Format:** 8 clustered recall (60-min morning)
+- **Score:** GEO-10 / IS-01 clusters advance (**11 Sep**). Env +3 held. CA-260904 / FRA not first-passed.
+- **Strengths:** GAPD cannot rank; Ferrel **1856**. AGPL **110 km**; AFSPA **1997**. One Health + June 2023; 6.44 lakh ≠ AYUSH. Two engines GHG + sinks; 280→420. **60→62 merit** (`MST-051`).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-055 / persistent HP:* he wrote surface C / aloft D (that is a **low**).
+  - *MST-056 / Mizo UT:* **1972** missing (1959 / 1987 held).
+  - *MST-057 / Bang:* **JSY** + SEARCH **62.2%** (*Lancet* 1999). 1,800 g / 34 weeks held.
+  - *MST-058 / Bhutan:* **WHO SEARO**, not “South Asia.”
+- **Passed / leftover:** Q4–Q5 boxed “have to study” — WMO dates + FRA stay **9 Sep**.
+- **Resolved:** `MST-042` two engines; `MST-051` merit.
+
 ### Session 29 — 2026-09-07 / scored 8 Sep (Evening MCQ)
 - **Subject:** GEO-10 (Hadley / C–D) + IS-01 L1 + 7 Sep CA + MST-047/048/050 + 5 PYQ
 - **Format:** 20 Prelims MCQs (15 notes + 5 Series A PYQ)
