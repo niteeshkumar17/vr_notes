@@ -194,7 +194,7 @@ Nucleocapsid = Nucleic Acid + Capsid
 |:---|:---|:---|
 | Genetic Material | Deoxyribonucleic Acid (DNA) | Ribonucleic Acid (RNA) |
 | Structure | Double-stranded DNA | Single/double-stranded RNA |
-| Examples | HPV, HBV | SARS-CoV-2, Dengue, Nipah, Ebola, Influenza, HIV |
+| Examples | HPV, HBV, **adenovirus** | SARS-CoV-2, Dengue, Nipah, Ebola, Influenza, HIV (**retrovirus**) |
 
 #### Critical Prelims Rule
 > **A virus can have EITHER DNA OR RNA as its genome — NEVER BOTH**
@@ -206,6 +206,15 @@ Nucleocapsid = Nucleic Acid + Capsid
 
 - In ALL other living systems, the genome is **always only DNA**
 - Only viruses can have RNA as their genetic material
+
+### Update — 8 September 2026 (UPSC CSE Prelims 2021)
+
+Class never named **adenovirus**. `CSE-2021-Q70` extra (held that night; now on this page):
+
+| UPSC statement | Fact |
+|:---|:---|
+| 1. Adenoviruses have **single-stranded DNA**; retroviruses have **double-stranded DNA** | **False — inverted.** Adenovirus = **double-stranded DNA**. Retrovirus **packaged genome = RNA** (HIV is already a class RNA virus). Do not treat the DNA copy made **inside the host** as the viral genome. |
+| 2. Common cold is **sometimes** caused by an adenovirus; AIDS is caused by a retrovirus | **True.** AIDS = HIV. Class lock: HIV kills **Helper T-cells**. |
 
 ---
 
@@ -261,6 +270,12 @@ Nucleocapsid = Nucleic Acid + Capsid
 - All modes of HBV transmission are also applicable to HIV
 - Examiner can club both topics in one statement
 
+### 3. Adenovirus (PYQ extra — not class)
+
+- **DNA virus**; genome is **double-stranded DNA** (class DNA column already said dsDNA).
+- Can cause **common cold** (UPSC: “sometime”).
+- Trap (`CSE-2021-Q70`): do **not** mark adenovirus as **ssDNA**, and do **not** mark retrovirus as **dsDNA**.
+
 ---
 
 ## Part F: RNA Virus Examples
@@ -272,7 +287,7 @@ Nucleocapsid = Nucleic Acid + Capsid
 | **Nipah virus** | Zoonotic; high mortality |
 | **Ebola virus** | Ebola virus disease; high mortality |
 | **Influenza virus** | Swine Flu (H1N1) & Bird Flu |
-| **HIV** | Human Immunodeficiency Virus; AIDS |
+| **HIV** | Human Immunodeficiency Virus; AIDS; a **retrovirus** (RNA genome, not dsDNA) |
 
 > **Full form of SARS-CoV-2:** Severe Acute Respiratory Syndrome Coronavirus 2
 
@@ -758,11 +773,15 @@ Two directions:
 - **B-cells** → antibodies  
 - **Cytotoxic T-cells** → kill infected cells  
 
-**Human Immunodeficiency Virus (HIV)** **infects and reduces Helper T-cells** → command-and-control gone → **immunodeficiency** → **secondary opportunistic infections** (take the chance of weak immunity). Neither humoral nor CMI work well.
+**Human Immunodeficiency Virus (HIV)** **infects and reduces Helper T-cells** → command-and-control gone → **immunodeficiency** → **secondary opportunistic infections** (take the chance of weak immunity). Neither humoral nor CMI work well. HIV is a **retrovirus** — packaged genome is **RNA**, not dsDNA.
 
 ### Update — 8 September 2026 (UPSC CSE Prelims 2021)
 
-`CSE-2021-Q70` **held**. Statement 1 inverts genomes: **adenoviruses = double-stranded DNA** (not ssDNA); **retroviruses** have an **RNA** genome (reverse-transcribed), not a dsDNA genome. Statement 2 holds: common cold can be an **adenovirus**; AIDS is a **retrovirus**. Class lock: HIV kills **Helper T-cells**.
+Full lock sits on the Lecture 1 **DNA vs RNA** table. Same PYQ, next to HIV because statement 2 is the AIDS line:
+
+- **Adenovirus = dsDNA**; can cause **common cold**.
+- **Retrovirus = RNA** (HIV). AIDS. Class: kills **T<sub>H</sub>**.
+- UPSC inverted statement 1 (ssDNA / dsDNA swap). Only statement 2 is correct.
 
 <div style="overflow-x:auto;">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-label="Cytotoxic T-cell perforins punch holes; granzymes enter and fragment virus; Helper T cytokines activate B-cells and killer T-cells" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
@@ -851,7 +870,7 @@ Next class: **communication link between innate and adaptive** (not taught today
 4. Virus culture = **always living**; **cell culture** preferred (ethics). Damage in culture = **cytopathic effect**.  
 5. **Innate** = skin, lysozyme, neutrophil phagocytosis, interferon; **colostrum 24–48 h** = passive. **Xerophthalmia** = Vit A.  
 6. **Humoral** = B-cell antibodies in blood; memory is **antigen-specific** (COVID Ab ≠ HIV).  
-7. **T<sub>C</sub>**: perforin + granzyme; **T<sub>H</sub>**: cytokines; **HIV** kills **T<sub>H</sub>**.  
+7. **T<sub>C</sub>**: perforin + granzyme; **T<sub>H</sub>**: cytokines; **HIV** kills **T<sub>H</sub>**. **Adenovirus = dsDNA** (cold can be adenovirus); **retrovirus = RNA** (`CSE-2021-Q70`).  
 8. **T<sub>reg</sub>** prevent autoimmunity (**peripheral immune tolerance**); **FOXP3**; **Nobel 2025**.
 
 ### Abbreviations (this class)
@@ -866,12 +885,13 @@ Next class: **communication link between innate and adaptive** (not taught today
 | **CFR** | Case Fatality Rate |
 | **CPE** | Cytopathic effect |
 | **WBC** | White Blood Cell |
-| **HIV** | Human Immunodeficiency Virus |
+| **HIV / AIDS** | Human Immunodeficiency Virus / Acquired Immunodeficiency Syndrome (retrovirus) |
 | **T<sub>H</sub> / T<sub>C</sub> / T<sub>reg</sub>** | Helper / Cytotoxic / Regulatory T-cell |
 | **FOXP3** | Forkhead box P3 (gene controlling T<sub>reg</sub> development) |
 
 ---
 
+<!-- 2026-09-09: PYQ extra CSE-2021-Q70 on original virology note — adenovirus dsDNA + common cold; retrovirus RNA not dsDNA; AIDS=HIV. Class never named adenovirus. Patched ST-01-13 / ST-05-07; no extra Day-1. -->
 <!-- 2026-09-08: Lecture 2 — Virology continued — zoonosis/spillover/deforestation; RNA antigenic variation; n-CoV-19/SARS-1/MERS; living culture media + CPE; innate vs adaptive; perforin/granzyme; HIV vs Helper T; Treg peripheral immune tolerance + Nobel 2025 Brunkow/Ramsdell/Sakaguchi. Source: 8 notebook pages (dated 8/9/26) + S_and_TLecture080926 transcript. Cluster ST-05. Next class: innate–adaptive communication link. -->
 <!-- 2026-08-24: Created from S&T Lecture 1 handwritten notes (8 pages) + audio transcript. Covers syllabus overview (7 chapters) + public health virology deep dive. 20 micro-topics registered in Ghost Recall Tracker (ST-01-01 to ST-01-20). -->
 <!-- 2026-08-25: Added light-red trap note for Hepatitis B Virus (DNA virus vs RNA virus distinction) following Session 16 MCQ results (MST-028). -->
