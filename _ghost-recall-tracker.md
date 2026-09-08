@@ -27,7 +27,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 *   **Overall Database Mastery:** 77.0% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-10 / IS-01 clusters → **11 Sep**. `MST-042` / `MST-051` resolved.
 *   **Active Learning Gaps Detected:** `MST-050` Lucknow **repeat 2** · `MST-053` IOD · `MST-054` BRICS theme · `MST-055` persistent HP · `MST-056` Mizo UT 1972 · `MST-057` JSY / 62.2% · `MST-058` SEARO · leftover **CA-260904** / **CA-260907** FRA
-*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology continued). First Ghost Recall **9 Sep**. **CA-260907** first pass still incomplete.
+*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). First Ghost Recall **9 Sep**. **CA-260907** first pass still incomplete.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -659,7 +659,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-04-09 | ILRS CN-RU 2031 Orbital or Base; India Not In Race; Sarabhai Doctrine; Man-Moon Sheet 2040 | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Sustained Presence` $\leftrightarrow$ `Development Not Prestige` $\leftrightarrow$ `Gaganyaan Delay` |
 | ST-04-10 | Station = Sustained Presence; Micro-g NOT Zero-g; Weightless = Free Fall; UV/X; Skylab / Mir | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Gravity Binds` $\leftrightarrow$ `Curve of Fall ∥ Earth` $\leftrightarrow$ `Next Class Continues` |
 
-### Science & Technology (Public Health / Virology continued — 8 Sep 2026)
+### Science & Technology (Public Health / Virology — Lecture 2, 8 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | ST-05-01 | Zoonosis / Tropism; Spillover; Deforestation + 5 Anthro Factors | 2 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Animal→Human` $\leftrightarrow$ `Wide Host Range` $\leftrightarrow$ `Livestock Wildlife Encroachment Exotic Trade` $\leftrightarrow$ `Spike ACE-2 = ST-01` |
@@ -741,7 +741,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**)
+  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**)
   2. **Q3–Q6:** leftover **CA-260904** · **CA-260907** FRA · Polity Vajiram features / Geo remaining (schedule)
   3. **Q7:** Nuclear **+3**. **Q8:** `MST-050` Lucknow **repeat 2** · `MST-029` DDT/DTAA · `MST-055` persistent HP · `MST-056` UT **1972**
   4. `MST-042` / `MST-051` / `MST-047` / `MST-048` resolved. GEO-09 / MOD-B6 / Pallava / Home Rule → **10 Sep**

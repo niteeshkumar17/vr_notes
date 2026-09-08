@@ -3,7 +3,7 @@
 ## Lecture 1 — 24 August 2026 — S&T Syllabus Overview & Public Health (Virology)
 
 > **Date of Lecture:** 24 August 2026 | **Subject:** GS Science & Technology | **Lecture:** 01  
-> **Continued:** **8 September 2026** (zoonosis, culture media, innate vs adaptive) — cluster **ST-05**, below.  
+> **Continued:** **Lecture 2 — 8 September 2026** (zoonosis, culture media, innate vs adaptive) — cluster **ST-05**, below.  
 > **Source:** Class Notes + Audio Transcript
 
 ---
@@ -454,7 +454,7 @@ Human body → WBC (White Blood Cells)
 
 ---
 
-### Lecture — 8 September 2026 (Public Health / Virology continued)
+### Lecture 2 — 8 September 2026 (Public Health / Virology continued)
 
 > **Date of Lecture:** 8 September 2026. Notebook pages dated **8/9/26**.  
 > **Cluster:** **ST-05**. First Ghost Recall **9 September 2026**.  
@@ -837,7 +837,7 @@ Next class: **communication link between innate and adaptive** (not taught today
 
 ---
 
-## 9. Lecture 8 Sep — UPSC Quick Recall
+## 9. Lecture 2 — UPSC Quick Recall
 
 1. **Zoonosis** = animal → human; **spillover** = jump to a new host. Push: **deforestation** + five anthro factors.  
 2. **RNA** viruses mutate fast (**antigenic variation**); class **94%** of emerging infectious diseases; **Spanish flu** = influenza **1918–19–20**.  
@@ -866,7 +866,7 @@ Next class: **communication link between innate and adaptive** (not taught today
 
 ---
 
-<!-- 2026-09-08: Virology continued — zoonosis/spillover/deforestation; RNA antigenic variation; n-CoV-19/SARS-1/MERS; living culture media + CPE; innate vs adaptive; perforin/granzyme; HIV vs Helper T; Treg peripheral immune tolerance + Nobel 2025 Brunkow/Ramsdell/Sakaguchi. Source: 8 notebook pages (dated 8/9/26) + S_and_TLecture080926 transcript. Cluster ST-05. Next class: innate–adaptive communication link. -->
+<!-- 2026-09-08: Lecture 2 — Virology continued — zoonosis/spillover/deforestation; RNA antigenic variation; n-CoV-19/SARS-1/MERS; living culture media + CPE; innate vs adaptive; perforin/granzyme; HIV vs Helper T; Treg peripheral immune tolerance + Nobel 2025 Brunkow/Ramsdell/Sakaguchi. Source: 8 notebook pages (dated 8/9/26) + S_and_TLecture080926 transcript. Cluster ST-05. Next class: innate–adaptive communication link. -->
 <!-- 2026-08-24: Created from S&T Lecture 1 handwritten notes (8 pages) + audio transcript. Covers syllabus overview (7 chapters) + public health virology deep dive. 20 micro-topics registered in Ghost Recall Tracker (ST-01-01 to ST-01-20). -->
 <!-- 2026-08-25: Added light-red trap note for Hepatitis B Virus (DNA virus vs RNA virus distinction) following Session 16 MCQ results (MST-028). -->
 <!-- 2026-08-25: Enriched with Medical Device Regulation architecture (Drugs & Cosmetics Act 1940, MDR 2017 Class A-D) and 2026 amendments (Rule 44 sterilisation loan licence removal + Rule 63 EU inclusion for clinical trial waiver). -->
