@@ -591,6 +591,8 @@ You cannot predict *when* the next RNA spillover hits (class: next 5 years or la
 
 **Prelims trap:** SARS and MERS are **coronaviruses**, not influenza.
 
+<span style="color: #e53e3e;">**Prelims trap (`MST-060`):** **n-CoV-19** was renamed **SARS-CoV-2**, not SARS-CoV-1. **SARS-CoV-1 = 2002–03**. **MERS = 2012–13**, not 2019. Evening 8 Sep: he marked statement III with I and II.</span>
+
 ---
 
 ## 4. Culture media for virus — always living (ST-05-04)
@@ -757,6 +759,10 @@ Two directions:
 - **Cytotoxic T-cells** → kill infected cells  
 
 **Human Immunodeficiency Virus (HIV)** **infects and reduces Helper T-cells** → command-and-control gone → **immunodeficiency** → **secondary opportunistic infections** (take the chance of weak immunity). Neither humoral nor CMI work well.
+
+### Update — 8 September 2026 (UPSC CSE Prelims 2021)
+
+`CSE-2021-Q70` **held**. Statement 1 inverts genomes: **adenoviruses = double-stranded DNA** (not ssDNA); **retroviruses** have an **RNA** genome (reverse-transcribed), not a dsDNA genome. Statement 2 holds: common cold can be an **adenovirus**; AIDS is a **retrovirus**. Class lock: HIV kills **Helper T-cells**.
 
 <div style="overflow-x:auto;">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-label="Cytotoxic T-cell perforins punch holes; granzymes enter and fragment virus; Helper T cytokines activate B-cells and killer T-cells" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">

@@ -1363,6 +1363,10 @@ Sarcastic / academic coinage: the **“new Dalit”** = **government-school prod
 
 **Prelims trap:** In India people say **Delhi Public School** for a **private** school. **Public** technically = government.
 
+### Update — 8 September 2026 (UPSC CSE Prelims 2018)
+
+`CSE-2018-Q19` **held**. Wood’s Despatch also: **Grants-in-Aid** system introduced; **universities** recommended. Trap: **English as medium at all levels** is **false** — vernacular at primary (class later: Wardha mother tongue).
+
 ---
 
 ## 28. Gandhi & Nehru — A. State and model of development (MOD-B7-03)
@@ -1394,6 +1398,8 @@ Class hook (Raghuram Rajan, *The Third Pillar*): last ~**400** years **state** a
 **Vinoba Bhave**, after independence: **Bhoodan Movement, 1953**, from **Pochampalli, Andhra Pradesh** (sheet **A.P.**). Ask landlords to give **1/6** of the land to a poor farmer as the **sixth member** of a five-person family.
 
 Class on the result (do not invent beyond this): announced with hope of **50 million hectares** out of ~**300 million** agricultural hectares; collected **&lt; 1 million** (~**7 lakh**), and about **half** of that **barren**. Nehru called trusteeship **utopia**; class: **Bhoodan failed**.
+
+<span style="color: #e53e3e;">**Prelims trap (`MST-059`):** trusteeship is **change of heart**, not Marxist seizure of factories. Evening 8 Sep: he counted **only one** correct pair. **Bhoodan 1953 / Vinoba / Pochampalli / 1/6** and **Nehru = utopia / Bhoodan failed** both hold — that is **two** pairs, not one.</span>
 
 **Nehru — socialist pattern**
 
@@ -1437,6 +1443,10 @@ Compare **what they said** (actions = next sitting). Three heads: **(A) untoucha
 Famous line: **born a Hindu but would not die a Hindu**. **1956**, **four months before death** (died **December 1956**) — converted to **Neo-Buddhism** (class: “New Buddhism”), more as **protest** than as love of another faith.
 
 They **did not** work together the way Gandhi–Nehru did. Same-page on **ending untouchability**; not on **caste** or **Hinduism**.
+
+### Update — 8 September 2026 (UPSC CSE Prelims 2020 / 2017)
+
+`CSE-2020-Q04` and `CSE-2017-Q97` **held**. **Art 17** sits under **Right to Equality**. Right against Exploitation = **Art 23** (traffic in human beings / forced labour) + **Art 24** (children in factories and mines). Untouchability and minority-protection are **not** that head.
 
 ```mermaid
 flowchart TB
