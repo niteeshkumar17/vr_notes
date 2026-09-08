@@ -1,9 +1,9 @@
-# Modern India (1860s–1940s) — Lectures 1–6: Nationalism to Gandhi–Tagore Dialogues
+# Modern India (1860s–1940s) — Lectures 1–7: Nationalism to Gandhi–Nehru–Ambedkar Dialogues
 
-> **Date of Lecture:** 6 September 2026 (**Lecture 6**)  
-> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5)  
-> **Date Added:** 2026-08-30; Lecture 5 added **2026-09-01**; Lecture 6 added **2026-09-06**  
-> **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Vivekananda), Essay, Prelims, Interview  
+> **Date of Lecture:** 8 September 2026 (**Lecture 7**)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5), 6 September 2026 (L6)  
+> **Date Added:** 2026-08-30; L5 **2026-09-01**; L6 **2026-09-06**; L7 **2026-09-08**  
+> **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Ambedkar), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
 
@@ -35,7 +35,8 @@
 10. **Lucknow Pact, 1916** — INC–Muslim League; 1/3 seats; 3/4 Muslim veto
 11. **Lucknow Pact (C) — significance** — communal harmony; Rowlatt 1919; Khilafat–NCM 1920–22; Montagu–Chelmsford → Government of India Act 1919
 12. **The Making of Mahatma** — Gandhi in South Africa (1893–1914/15); Satyagraha named; religious thought
-13. **Lecture 6 — Mass Mobilizations and the Dialogues (part taught 6 Sep)** — Gandhian political thought; Satyagraha as method; Gandhi & Tagore on nationalism and education. Nehru / Ambedkar and 1917–48 movements still later.
+13. **Lecture 6 — Mass Mobilizations and the Dialogues (part taught 6 Sep)** — Gandhian political thought; Satyagraha as method; Gandhi & Tagore on nationalism and education.
+14. **Lecture 7 — 8 Sep** — **Wardha Scheme / Nai Taleem (1937)**; Gandhi vs Nehru (state, trusteeship, religion); Gandhi vs Ambedkar (untouchability, caste, Hinduism). **1917–48 movements** still later.
 
 ---
 
@@ -1015,16 +1016,16 @@ Board title: **The making of Mahatma**. Gandhi stays in the story **till indepen
 <rect x="288" y="112" width="204" height="70" rx="8" fill="#eef2ff" stroke="#a5b4fc"/>
 <text x="390" y="136" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">(A) Thoughts with Tagore,</text>
 <text x="390" y="154" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">Nehru &amp; Ambedkar</text>
-<text x="390" y="172" text-anchor="middle" font-size="10.5" fill="#334155">L6 Tagore — 6 Sep</text>
+<text x="390" y="172" text-anchor="middle" font-size="10.5" fill="#334155">L6 Tagore · L7 Nehru/Ambedkar</text>
 <rect x="288" y="192" width="204" height="60" rx="8" fill="#eef2ff" stroke="#a5b4fc"/>
 <text x="390" y="216" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">(B) Gandhian movement</text>
 <text x="390" y="236" text-anchor="middle" font-size="11" font-weight="700" fill="#312e81">1917–48</text>
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure:</strong> Board map. Lecture 5 finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought + Tagore = <strong>Lecture 6 (6 Sep)</strong>. Nehru / Ambedkar and 1917–48 still later.</em></p>
+<p style="text-align:center;"><em><strong>Figure:</strong> Board map. Lecture 5 finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought + Tagore = <strong>Lecture 6 (6 Sep)</strong>. Nehru / Ambedkar = <strong>Lecture 7 (8 Sep)</strong>. Movements <strong>1917–48</strong> still later.</em></p>
 
-**India branch:** **Rabindranath Tagore** comparison = **Lecture 6 — 6 September 2026** (below). Still pending: **Jawaharlal Nehru, B.R. Ambedkar**; movements **1917–48**. Last crisis: **Noakhali**; **15 August 1947 Gandhi was not in Delhi** — communal riots / peace work (**Calcutta / Noakhali**).
+**India branch:** **Rabindranath Tagore** = **Lecture 6 — 6 September 2026**. **Jawaharlal Nehru** and **B.R. Ambedkar** = **Lecture 7 — 8 September 2026**. Still pending: movements **1917–48**. Last crisis: **Noakhali**; **15 August 1947 Gandhi was not in Delhi** — communal riots / peace work (**Calcutta / Noakhali**).
 
 **Reading / film (class):** Ramachandra Guha, *Gandhi Before India* (he wrote *India After Gandhi* first); Richard Attenborough’s film *Gandhi* (South Africa to India); Shyam Benegal, *The Making of Mahatma* (**South Africa only**). Autobiography: *The Story of My Experiments with Truth*.
 
@@ -1101,7 +1102,7 @@ Illiterate traders could not fill the forms. That is why a **lawyer who wrote En
 
 **GS-IV / Essay hook from class:** “Can Gandhi be relevant in the 21st century?” — these five points are the answer they want, not a biography dump. Most people inherit religion **accidentally** (born into it) and from **semi-literate** family / local priests; Gandhi **inquired for himself**.
 
-**This class (1 Sep) stopped at religious thought.** Political method (Satyagraha in full) and Gandhi vs Tagore = **Lecture 6 — 6 September 2026**. Still later: Nehru / Ambedkar; 1917–48 movements.
+**This class (1 Sep) stopped at religious thought.** Political method (Satyagraha in full) and Gandhi vs Tagore = **Lecture 6 — 6 September 2026**. Nehru / Ambedkar = **Lecture 7 — 8 September 2026**. Still later: 1917–48 movements.
 
 **Class test extras (Prelims, same sitting — Moderates / Swadeshi paper):** **Tilak** and **A.O. Hume** **never** became Congress President. **Gandhi did** — **1924, Belgaum** (Karnataka). If an option-set has Tilak or Hume as session president, eliminate.
 
@@ -1111,7 +1112,7 @@ Illiterate traders could not fill the forms. That is why a **lawyer who wrote En
 
 > **Handout:** Vajiram & Ravi — *Lecture-6 The Mass Mobilizations and The Dialogues*.  
 > **Taught today:** Gandhian **political** thought + Gandhi & Tagore on **nationalism** and **education**.  
-> **Not this class:** Nehru / Ambedkar comparisons; 1917–48 mass movements (the rest of the handout).  
+> **Not this class:** 1917–48 mass movements (the rest of the handout). Nehru / Ambedkar = **Lecture 7**.  
 > **Source:** 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript.  
 > **Cluster:** **MOD-B6**. First Ghost Recall **7 September 2026**.
 
@@ -1291,7 +1292,7 @@ Concerned with **objective** *and* **access**. Access in India was limited to me
 | **(a) Self-reliance** | Handout point, end of class |
 | **(b) Dignity in physical labour** | Must be **established**. Farming stays backward, class said, partly because clerical work is praised and the field is not |
 
-Do **not** paste a textbook name (**Nai Talim / Wardha**) onto this class — he did not dictate it today.
+Do **not** paste a textbook name (**Nai Talim / Wardha**) onto *this* class — he did not dictate it on 6 Sep. The **1937 Wardha / Nai Taleem** draft is **Lecture 7 (8 September)**.
 
 ```mermaid
 flowchart TB
@@ -1319,7 +1320,151 @@ flowchart TB
 
 ---
 
-## UPSC PYQ Connections (Lectures 1–6)
+### Lecture 7 — 8 September 2026 (Mohammad Tarique Sir)
+
+> **Date of Lecture:** 8 September 2026 (Lecture 7). Notebook pages dated **8/9/26**.  
+> **Cluster:** **MOD-B7**. First Ghost Recall **9 September 2026**.  
+> **Source:** 6 notebook pages + `History L080926` transcript.  
+> **Already elsewhere:** Gandhi on **access / ethics / dignity of labour** → Lecture 6 (`MOD-B6-06`). Tagore / Visva-Bharati stays there. Today adds the **1937 policy draft** and the **Nehru / Ambedkar** comparisons the 6 Sep class parked.
+
+Class opened in **1937**: Gandhi was **not** an educationist; he outsourced a blueprint to a specialist — **Dr Zakir Husain** (class: PhD; then Vice-Chancellor, **Jamia Millia Islamia**, Delhi). Named after **Wardha** (Maharashtra) — Gandhi’s **Sevagram** ashram.
+
+Homework names he tossed (not today’s finished topic): **Radhakrishnan Commission (1948)**; **Kothari Commission** and the **three-language formula** (home + English + another Indian language; Hindi vs Dravidian politics).
+
+---
+
+## 26. Wardha Scheme / Nai Taleem (1937) (MOD-B7-01)
+
+Six recommendations (sheet):
+
+1. **Basic (primary) education** gets **priority**, in the **mother tongue**. Genius / best thought emerges in the language you dream and feel in — not an alien medium.
+2. Education linked with **training** — **Taleem-o-Tarbiyat**: **ethics** (how to talk, eat, behave) **and skills**, from roughly standards **1–5**.
+3. Education **available to all**.
+4. Institutions, **including universities**, in **rural** areas.
+5. **Vocational** studies promoted.
+6. The draft is also **Nai Taleem** (New Education) — a shift from **colonial** schooling that served only a **small section**.
+
+---
+
+## 27. Why access was the issue — Macaulay to “new Dalit” (MOD-B7-02)
+
+| Year | Class line |
+|:---|:---|
+| Ancient–medieval | Education mostly **male**, **upper caste**, **urban** (“alpha”) |
+| **1835 Macaulay Minutes** | **Downward filtration:** English higher education for a **few** Indians to help govern; the rest is **not** the state’s job |
+| **1854 Wood’s Despatch** (Charles Wood) | Education **is** the state’s responsibility — first official accept. **1854–1937** stayed largely **on paper** |
+| Independence | Class range: about **2–14%** of Indians even **exposed** to schooling |
+
+**Access** (same word as L6): not only urban / male / upper caste — **rural, female, all castes**.
+
+**Divides that remain (class):** urban–rural; upper vs lower caste; male–female. Upper-caste children disproportionately in **private** (“public”) schools; lower-caste children in **government** schools with weak labs / toilets / libraries.
+
+Sarcastic / academic coinage: the **“new Dalit”** = **government-school product** (can include a Brahmin child in a bad government school). Certificates without concepts; coaching-dependence later.
+
+**Prelims trap:** In India people say **Delhi Public School** for a **private** school. **Public** technically = government.
+
+---
+
+## 28. Gandhi & Nehru — A. State and model of development (MOD-B7-03)
+
+They **worked together** from **1916** despite “north pole / south pole” ideas. Gandhi named **Nehru** his political successor (late 1930s / early 1940s). Binding layer (class close): **nationalism (idea of India) + democracy + secularism**. Model-of-development fights could wait; **unity** could not.
+
+| | **Gandhi** | **Nehru** |
+|:---|:---|:---|
+| State | **Stateless** society; **Ramraj** without legislature / executive **superstructure**; **village** self-rule as in the **ancient** past | **Nation-state**. Gandhian statelessness = **anarchy**. State needed for **internal and external security**. Gandhi even opposed keeping an **army** |
+| Fear | State **usurps** power and makes people **powerless** | State might become a **superpower** → **welfare state** + **democratic institutions** as a check |
+| Development | **Village-centric**; ideal village **self-reliant** in **food, health, education, basic civic amenities**. Machines only if **extremely necessary**; max **human hands**. Opposed **industrialisation, urbanisation, mindless migration** | Remove **poverty, disease, unemployment, illiteracy** by **rapid** development → **science and technology** (class: “obsessed”). **Planning** / Five-Year Plans; scientific labs, universities, **Public Sector Undertakings (PSUs)**, **big dams / multi-purpose projects** → urbanisation and migration were **inevitable** |
+
+Class hook (Raghuram Rajan, *The Third Pillar*): last ~**400** years **state** and **market** grew giant; **community** shrank. Triangle on the sheet: **State — Market — Community**. Gandhi’s village is the community corner.
+
+**Numbers on the margin (Nehru’s urgency):** when he became PM, **population ~3% / year**, **agriculture ~0–0.5% / year** → food imports. First Plan emphasised **agriculture**; Second **industry**. Class: from about **1971–72**, population growth **&lt; 3%** and agri growth **&gt; 3%** → food sovereignty, later **food security** / National Food Security Act talk (**35 kg**). Critique: **education never got the same first rank** (no “Indian Education Service”).
+
+---
+
+## 29. Gandhi & Nehru — B. Trusteeship vs socialism (MOD-B7-04)
+
+**Gandhi — trusteeship**
+
+- Simple life: resources for **need**, not **accumulation**.
+- **Jain** line: keeping **more than required** is **stealing**.
+- Famous sentence: the world has enough for everyone’s **need**, not for anyone’s **greed**.
+- Wealth (land, factory, bank balance, any property) used for need and **passed to the community before death**.
+- **Not** Marxist revolution — **peace / non-violence** and a **change of heart**.
+
+**Vinoba Bhave**, after independence: **Bhoodan Movement, 1953**, from **Pochampalli, Andhra Pradesh** (sheet **A.P.**). Ask landlords to give **1/6** of the land to a poor farmer as the **sixth member** of a five-person family.
+
+Class on the result (do not invent beyond this): announced with hope of **50 million hectares** out of ~**300 million** agricultural hectares; collected **&lt; 1 million** (~**7 lakh**), and about **half** of that **barren**. Nehru called trusteeship **utopia**; class: **Bhoodan failed**.
+
+**Nehru — socialist pattern**
+
+- State **owns** resources and **distributes with equity**.
+- Called a **mixed** economy but **heavily tilted socialist**.
+- Word **Socialist** in the **Preamble**: **1976** (**42nd** Amendment). Tilt lasted **till about 1980**; class dates a shift toward capitalist production from the **1990s / ~1981**.
+
+---
+
+## 30. Gandhi & Nehru — C. Religion in public life (MOD-B7-05)
+
+**Gandhi:** deeply religious; used songs / prayers on public platforms — **unlike Tilak or Lala Lajpat Rai**. From **Rowlatt Satyagraha (1919)**: **Sarva Dharma Prarthana Sabha** (all-religion prayer). Favourite: **Ishwar Allah tero naam**. **Khilafat (1920–22)** — a **Muslim religious** issue. Joined **Sikh reform** with the **Akalis** (1920s: free gurdwaras from corrupt, pro-British *mahants*). Line: **politics without religion = body without soul**. He meant the **soul-force** of religion (truth, non-violence, compassion) — **not** the **dogmatic / institutional** form (temple, *tikka*, beard, *tawiz*).
+
+**Nehru:** religion = an individual’s **article of faith**. Politics and the state are **public service** → **keep them separate**. Mixing identity / symbols in politics fed **communalism** and the **two-nation theory** (Hindu nation / Muslim nation, cannot live together) → **Partition**.
+
+**Who said two-nation (class order):**
+
+1. **James Mill**, *The History of British India* (**1817**) — ancient = Hindu, medieval = Muslim “dark age,” modern = British “civilising.” Later writers copied **Hindu vs Muslim as two nations**.
+2. **V.D. Savarkar**, **1923** (book class named *Hindutva* / “Hindu’s work”) — **before** Jinnah.
+3. **M.A. Jinnah**, from **1940**.
+4. **Chaudhary Rehmat Ali** proposed the **name Pakistan**, **not** the two-nation *idea*.
+
+Class bust: Hindus / Muslims are **not** one homogeneous nation (Pakistan **1971**; caste and language splits inside “Hindu”). **“Hinduism”** as one box is a **modern / census** construct; **Vaishnava / Shaiva / Shakta** were historically separate streams.
+
+**Both secular, different practice:** Gandhi = **inclusive** (all communities **in** public affairs). Nehru = **exclusionary** (religion and public affairs **apart**).
+
+---
+
+## 31. Gandhi & Dr B.R. Ambedkar (MOD-B7-06)
+
+Compare **what they said** (actions = next sitting). Three heads: **(A) untouchability (B) caste hierarchy (C) Hinduism**.
+
+| | **Gandhi** | **Ambedkar** |
+|:---|:---|:---|
+| Untouchability | **Sinful**; practitioners compared to **General Dyer** (line after **Jallianwala Bagh, April 1919**). **Article 17** later. | Also wanted it **ended forever** |
+| Caste | **Not** against the system; **reform**: caste by **karma (action)**, not **janm (birth)** | **No hope of reform**. **Annihilation of Caste** (book) — **annihilation** = no trace left (class: not mere “destruction”) |
+| Hinduism | Proud **Vaishnavite**; Hinduism = **religion of humanity** (line he used with **Dr Radhakrishnan**) | **No love affair** with Hinduism; blamed it for **hierarchy**, hierarchy for **untouchability**. Gandhian reform = **vague** |
+
+**Bhimrao Ramji Ambedkar:** **Dalit**, **Mahar**; army-cantonment childhood at **Mhow** (less daily humiliation); shock after return (water-pot in a Pune staff room; no rented house in **Baroda**).
+
+Famous line: **born a Hindu but would not die a Hindu**. **1956**, **four months before death** (died **December 1956**) — converted to **Neo-Buddhism** (class: “New Buddhism”), more as **protest** than as love of another faith.
+
+They **did not** work together the way Gandhi–Nehru did. Same-page on **ending untouchability**; not on **caste** or **Hinduism**.
+
+```mermaid
+flowchart TB
+  W["Wardha 1937 · Zakir Husain"] --> NT["Nai Taleem: mother tongue + ethics/skills + rural + vocational"]
+  GN["Gandhi vs Nehru"]
+  GN --> ST["Ramraj / village vs nation-state + army"]
+  GN --> TR["Trusteeship / Bhoodan vs socialist mixed economy"]
+  GN --> REL["Inclusive prayer vs religion out of public life"]
+  GA["Gandhi vs Ambedkar"]
+  GA --> U["Both: end untouchability"]
+  GA --> C["Reform caste vs annihilate caste"]
+  GA --> H["Vaishnava humanity vs leave Hinduism 1956"]
+```
+
+---
+
+## 32. Lecture 7 — UPSC Quick Recall
+
+1. **1937 Wardha** = **Zakir Husain** draft for Gandhi; **Sevagram**; **Nai Taleem**; primary in **mother tongue**.
+2. **Macaulay 1835** = filtration, not mass schooling. **Wood 1854** = state duty (mostly paper till 1937).
+3. Gandhi: **Ramraj**, village self-reliance, **no army**. Nehru: **nation-state**, **S&T**, Plans, PSUs, dams.
+4. Trusteeship ≠ Marxism; **Bhoodan 1953 Pochampalli**; Nehru = **utopia** / socialist tilt; **Socialist** in Preamble **1976**.
+5. Gandhi **inclusive** secularism from **1919** all-religion prayer; Nehru **exclusionary**. Two-nation: **Mill 1817 → Savarkar 1923 → Jinnah 1940**.
+6. Gandhi: Dyer comparison; **karma not janm**. Ambedkar: **Annihilation of Caste**; **Neo-Buddhism 1956**.
+
+---
+
+## UPSC PYQ Connections (Lectures 1–7)
 
 - Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
 - Role of press, education, and social reform in national awakening
@@ -1352,10 +1497,17 @@ flowchart TB
 - **Tagore education** — Visva-Bharati / Shantiniketan 1901, university 1921; nature + arts vs degrees *(Prelims + GS-I / GS-IV)*
 - **Gandhi education** — access + ethics first; self-reliance; dignity of physical labour *(GS-IV / Essay)*
 - **Orientalism 1800–1950** as relative-truth scholarship *(Essay / GS-I historians)*
+- **Wardha Scheme 1937 / Nai Taleem** — Zakir Husain draft; mother tongue; Taleem-o-Tarbiyat *(Prelims)*
+- **Macaulay Minutes 1835** vs **Wood’s Despatch 1854** *(Prelims)*
+- **Gandhi vs Nehru** — Ramraj / village vs nation-state + S&T + planning; trusteeship vs socialist mixed economy *(Mains / Essay / GS-IV)*
+- **Bhoodan 1953** — Vinoba Bhave, Pochampalli (Andhra Pradesh); 1/6 land *(Prelims)*
+- **“Socialist” in the Preamble (1976, 42nd Amendment)** *(Prelims)*
+- **Inclusive vs exclusionary secularism**; two-nation: **Mill 1817 → Savarkar 1923 → Jinnah 1940** *(Mains / Prelims)*
+- **Gandhi vs Ambedkar** — untouchability vs caste; *Annihilation of Caste*; Neo-Buddhism **1956** *(Mains / GS-IV)*
 
 ---
 
-## Abbreviations used in Lectures 4–6
+## Abbreviations used in Lectures 4–7
 
 | Shortcut | Full form |
 |:---|:---|
@@ -1378,10 +1530,17 @@ flowchart TB
 | **PBD** | Pravasi Bharatiya Divas (9 January — Gandhi’s 1915 return) |
 | **PEASC** | Political, Economic, Administrative, Social, Cultural (relative-truth boxes) |
 | **GS-IV** | Ethics, Integrity and Aptitude (Paper IV) |
+| **PSU** | Public Sector Undertaking |
+| **NFSA** | National Food Security Act, 2013 |
+| **CAA** | Constitutional Amendment Act (here: **42nd**, 1976) |
+| **A.P.** | Andhra Pradesh (Pochampalli / Bhoodan) |
+| **S&T** | Science and Technology |
+| **VC** | Vice-Chancellor (Zakir Husain, Jamia Millia Islamia) |
 
 ---
 
-<!-- 2026-09-06: Lecture 6 — Mass Mobilizations and the Dialogues (Tarique): sources of Gandhian political thought (Tolstoy / John Ruskin ≠ Bond / Thoreau / own experiments); Satyagraha 5+2; absolute vs relative + PEASC + Orientalism 1800–1950; Tagore patriotism then critic (Vande Mataram 1896, Amar Sonar Bangla, Jana Gana Mana, d. 1941, internationalism); Gandhi nationalism = defined boundary, people first; education Visva-Bharati 1901/1921 vs Gandhi access + ethics + dignity of labour. Nehru/Ambedkar and 1917–48 still later. Source: 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript. Cluster MOD-B6. -->
+<!-- 2026-09-08: Lecture 7 — Wardha / Nai Taleem 1937 (Zakir Husain); Macaulay 1835 / Wood 1854; Gandhi vs Nehru (Ramraj vs nation-state; trusteeship / Bhoodan 1953 Pochampalli vs socialist mixed economy; inclusive vs exclusionary secularism; Mill 1817 / Savarkar 1923 / Jinnah 1940); Gandhi vs Ambedkar (untouchability / caste / Hinduism; Annihilation of Caste; Neo-Buddhism 1956). Source: 6 notebook pages (dated 8/9/26) + History L080926 transcript. Cluster MOD-B7. 1917–48 still later. -->
+<!-- 2026-09-06: Lecture 6 — Mass Mobilizations and the Dialogues (Tarique): sources of Gandhian political thought (Tolstoy / John Ruskin ≠ Bond / Thoreau / own experiments); Satyagraha 5+2; absolute vs relative + PEASC + Orientalism 1800–1950; Tagore patriotism then critic (Vande Mataram 1896, Amar Sonar Bangla, Jana Gana Mana, d. 1941, internationalism); Gandhi nationalism = defined boundary, people first; education Visva-Bharati 1901/1921 vs Gandhi access + ethics + dignity of labour. Nehru/Ambedkar = L7; 1917–48 still later. Source: 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript. Cluster MOD-B6. -->
 <!-- 2026-09-01: Lecture 5 — Lucknow Pact C (significance: harmony, Rowlatt 1919, Khilafat–NCM, Montagu–Chelmsford / GoI Act 1919); The Making of Mahatma — Gandhi in South Africa (events 1–10, four laws, religious thoughts). Political thoughts and India branch (Tagore/Nehru/Ambedkar; 1917–48; Noakhali) not this class. Source: 3 notebook pages (dated 1/9/26) + History L010926 transcript. -->
 <!-- 2026-08-30: Lecture 4 — ICA 1909 clauses and critique; three Delhi Durbars; 1911 annulment + capital shift; Home Rule Leagues (Tilak/Besant); Lucknow Pact. Source: 6 notebook pages + HistoryL300826 transcript. -->
 <!-- 2026-08-27 (later): Lecture 3 review pass — added standard Swadeshi chronology table (19-20 July 1905 announcement, 7 Aug 1905 Boycott Day at Calcutta Town Hall, 16 Oct 1905 effect, Benares 1905, Calcutta 1906, Surat 1907, 1911 annulment + capital shift) with a note on why the annulment matters; replaced the prose placeholder for the "Representation Imbalance Diagram" in section 9 with a mobile-friendly inline SVG bar chart. -->
