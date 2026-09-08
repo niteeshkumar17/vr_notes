@@ -64,6 +64,10 @@ After the **1971** war (**Bangladesh Liberation**; class: third war with Pakista
 
 **1963 Sino-Pak agreement:** Pakistan **ceded Shaksgam Valley** to China.
 
+### Update — 8 September 2026 (UN Geospatial map — not a new 1962 topic)
+
+*The Hindu* (Kallol Bhattacherjee). A **UN Geospatial** world map (**July 2026**) draws **Arunachal Pradesh** and **Aksai Chin** as strips **between Indian and Chinese claim lines**. India voted for UNGA **“Correct the Map”** (**4 September 2026**) as an **equal-area** principle (**Togo / African Union**). **MEA (Randhir Jaiswal):** that vote is **not** an endorsement of those lines; J&K, Ladakh, Arunachal follow **India’s official map**. Full UNGA / LoC-note write-up: `Current_Affairs/September_2026/2026-09-08_Current_Affairs.md` (**CA-260908-02**). Same **IS-01** cluster — no extra Day-1 row.
+
 ---
 
 ## 5. Insurgency; Naga (1952) (IS-01-05)
@@ -155,6 +159,16 @@ Keep the class line (Bhojpur, Kshatriya/Bhumihar land, first night with the zami
 | **Honey trap** | Faking online romance. |
 | **Pretexting** | Trying to extract sensitive information by a false claim. |
 
+### Update — 8 September 2026 (FATF digital hawala — same class topic)
+
+*The Hindu* (Devesh K. Pandey). **Financial Action Task Force (FATF)** report *Investigating Professional Money Laundering, Underground Banking, and the Use of Hawala and Other Similar Service Providers*. Keep the class line (trust; **no physical cash movement**). New facts only:
+
+- Informal networks now fuse **virtual assets** with old hawala; used for **money laundering** and **terror financing**.
+- Nearly **70%** of surveyed jurisdictions reported **new technology** inside these networks.
+- Six “digital hawala” forms in the clip: (1) **encrypted apps / shared ledgers** for instructions, still **traditional** settlement; (2) **mobile wallets / fintech** for the customer, operators still settle in **cash or trade**; (3) **stablecoins** to settle **between operators**; (4) **payment service providers**, fintech, **virtual International Bank Account Numbers (IBANs)**; (5) **artificial intelligence (AI)** for structuring, **mule-account** routing, fast **fiat-to-crypto**; (6) bundled **“hawala” apps** (messaging, cloud, social media, **Virtual Asset Service Providers (VASPs)**, lending, gaming).
+
+<span style="color: #e53e3e;">**Prelims trap:** Class crypto-as-digital-hawala still holds. FATF’s six forms are **configurations**, not a replacement definition. **70%** = jurisdictions seeing **tech integration**, not “70% of all hawala is now crypto.”</span>
+
 **Social media and security**
 
 **Mob lynching** ← **fake news** → misinfo → confusion → **political agenda** / **illegitimate business gain**. Also **xenophobia**. **Social engineering** → manipulation of mindset → **radicalisation / religious indoctrination**. Platforms are **decentralised**; **cadre strength** (boxed on the sheet).
@@ -191,7 +205,7 @@ Nine heads (later lectures will open each):
 6. **Mautam 1959** → Mizo Front → **UT 1972 / state 1987**.  
 7. **Naxalbari 1967** is an **episode**, not the whole story. **Salwa Judum** SC-banned. “Naxal-free” is **too early**.  
 8. Khalistan = **land of the pure**; close-year class uses **1997** (AFSPA off Punjab). **1987** JK = **rigged election + JKLF**.  
-9. Hawala = trust, **no movement of cash**. Ransomware = control of data for crypto. Dead-drop = **unsent** mail.  
+9. Hawala = trust, **no movement of cash**. Ransomware = control of data for crypto. Dead-drop = **unsent** mail. **FATF 2026:** ~**70%** of surveyed jurisdictions see **tech** in hawala; six digital forms (apps → stablecoins → virtual IBANs → AI mules → hawala apps).  
 
 ---
 
@@ -219,7 +233,12 @@ Nine heads (later lectures will open each):
 | **AFSPA** | Armed Forces (Special Powers) Act |
 | **JKLF** | Jammu Kashmir Liberation Front |
 | **MHA** | Ministry of Home Affairs |
+| **FATF** | Financial Action Task Force |
+| **IBAN** | International Bank Account Number |
+| **VASP** | Virtual Asset Service Provider |
+| **MEA / UNGA** | Ministry of External Affairs / United Nations General Assembly |
 
 ---
 
 <!-- 2026-09-07: Created from Internal Security L1 transcript + 7 notebook pages. Cluster IS-01. -->
+<!-- 2026-09-08: Hindu — FATF digital hawala (70%, six forms) on IS-01-09; UN Geospatial claim-lines pointer on IS-01-04. No extra Day-1. -->

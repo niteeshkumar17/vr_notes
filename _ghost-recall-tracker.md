@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-08
-*   **Active Micro-Topics:** 542
+*   **Active Micro-Topics:** 545
 *   **Overall Database Mastery:** 77.0% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-10 / IS-01 clusters → **11 Sep**. `MST-042` / `MST-051` resolved.
 *   **Active Learning Gaps Detected:** `MST-050` Lucknow **repeat 2** · `MST-053` IOD · `MST-054` BRICS theme · `MST-055` persistent HP · `MST-056` Mizo UT 1972 · `MST-057` JSY / 62.2% · `MST-058` SEARO · leftover **CA-260904** / **CA-260907** FRA
-*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2) + **GEO-11** (Yellow Book Concepts Ch 1 — Earth in the Universe). First Ghost Recall: classes **9 Sep**; **GEO-11 → 10 Sep** (do not steal Q1–Q2 from MOD-B7 / ST-05). **CA-260907** first pass still incomplete.
+*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2) + **GEO-11** (Yellow Book Concepts Ch 1 — Earth in the Universe) + **CA-260908** (*Hindu*: 1-GW cooling / UN claim lines / J&K film fest). First Ghost Recall: classes **9 Sep**; **GEO-11** and **CA-260908 → 10 Sep** (do not steal Q1–Q2 from MOD-B7 / ST-05). FATF hawala patched on **IS-01** (no extra Day-1). **CA-260907** first pass still incomplete.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -281,12 +281,12 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | IS-01-01 | IS = GS-III 40-50 Marks; 99% Mains; Classes + Yellow Book | 1 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `IS-PS` $\leftrightarrow$ `Gov-PS` $\leftrightarrow$ `Pol-PS DPSPs/Federal/FD` $\leftrightarrow$ `IE over Hindu if Beginner` |
 | IS-01-02 | 1947-48 J&K: Hari Singh Accession; UN 47; Lost 1/3 to Pak | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Pathans-Scouts Tax Spark` $\leftrightarrow$ `Instrument of Accession` $\leftrightarrow$ `Sovereignty to India` $\leftrightarrow$ `SC 2024 Integral` $\leftrightarrow$ `CFL Jammu to Siachen Tip` |
 | IS-01-03 | Shimla CFL→LoC; Op Meghdoot/Rajiv; NJ9842; AGPL 110 km | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Same Line New Name` $\leftrightarrow$ `Siachen 2600 km2 Highest Battlefield` $\leftrightarrow$ `Choke Srinagar-Leh` |
-| IS-01-04 | PoK First (Jaishankar); GB 2020 Province Bid; Namka Chu; Shaksgam 1963 | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Azad Kashmir + Gilgit-Baltistan` $\leftrightarrow$ `Unilateral Ceasefire Nov 1962` $\leftrightarrow$ `Aksai Chin Kept` $\leftrightarrow$ `Arunachal Relinquished` |
+| IS-01-04 | PoK First (Jaishankar); GB 2020 Province Bid; Namka Chu; Shaksgam 1963 | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Azad Kashmir + Gilgit-Baltistan` $\leftrightarrow$ `Unilateral Ceasefire Nov 1962` $\leftrightarrow$ `Aksai Chin Kept` $\leftrightarrow$ `Arunachal Relinquished` $\leftrightarrow$ `UN Geospatial Jul 2026 Claim Lines` $\leftrightarrow$ `Correct the Map ≠ MEA Official Map` |
 | IS-01-05 | Insurgency Def; Phizo 1952 Nagalim; NSCN-IM Flag+Constitution 2021 | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Armed Rebellion + Hostile Backer` $\leftrightarrow$ `NEFA Assam Admin` $\leftrightarrow$ `Nagaland 1963 16-Point` $\leftrightarrow$ `Still 2026` |
 | IS-01-06 | Mautam 1959→Mizo State 1987; ULFA Swadhin Assam; Bodoland | 2 | ★★★★☆ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 1 | 1 | 2026-09-08 | - | Pending | `Bamboo-Rats-Famine` $\leftrightarrow$ `Laldenga` $\leftrightarrow$ `UT 1972` $\leftrightarrow$ `Illegal Migration Demo` |
 | IS-01-07 | Naxalbari 1967 Episode; Salwa Judum SC Ban; Naxal-Free Too Early | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Pre-Independence Tribal Chain` $\leftrightarrow$ `Dola = Palanquin Diverted to Zamindar` $\leftrightarrow$ `Peripheral Cadre Unemployed` $\leftrightarrow$ `Dialogue+Development` |
 | IS-01-08 | Khalistan Land of Pure; 1997 AFSPA Off; 1987 JKLF; Five Traditional Threats | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Bhindranwale` $\leftrightarrow$ `Blue Star + Gill Doctrine` $\leftrightarrow$ `Rigged Assembly Election` |
-| IS-01-09 | Hawala No Movement; Ransomware Crypto; Dead-Drop Unsent; Digital Arrest | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `No Universal Org-Crime Def` $\leftrightarrow$ `Pig Butchering` $\leftrightarrow$ `Fake News Lynching` $\leftrightarrow$ `Orwell` |
+| IS-01-09 | Hawala No Movement; Ransomware Crypto; Dead-Drop Unsent; Digital Arrest | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `No Universal Org-Crime Def` $\leftrightarrow$ `Pig Butchering` $\leftrightarrow$ `Fake News Lynching` $\leftrightarrow$ `Orwell` $\leftrightarrow$ `FATF 70% Tech Integration` $\leftrightarrow$ `Six Digital Hawala Forms` $\leftrightarrow$ `Stablecoin Operator Settlement` |
 | IS-01-10 | IS Syllabus 9 Heads | 1 | ★★★★☆ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Fundamentals` $\leftrightarrow$ `NE/Naxal/Khalistan/Kashmir` $\leftrightarrow$ `Org Crime` $\leftrightarrow$ `Cyber` $\leftrightarrow$ `Borders` $\leftrightarrow$ `Forces Mandate` |
 
 ### Environment & Ecology (Ecosystem, Biodiversity & Productivity)
@@ -573,6 +573,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260907-02 | FRA 2006: MoTA No Project-Consent Clause; Rules Still Need FRA First; Teesta-IV; 106 Months | 3 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `MoTA vs Power` $\leftrightarrow$ `NHPC 106 Months` $\leftrightarrow$ `Teesta-IV HEP` $\leftrightarrow$ `Panda 70-75%` $\leftrightarrow$ `Shomona Khanna Bizarre` |
 | CA-260907-03 | AYUSH Health Diplomacy: EU FTA Jan 2026; Oman CEPA; NZ Annex; Visa 1646 / 75; 6.44L ≠ AYUSH | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `AYUSH Visa 2023` $\leftrightarrow$ `EU FTA Qualifications` $\leftrightarrow$ `Oman All Modes` $\leftrightarrow$ `Fellowship 260/32` $\leftrightarrow$ `Standards Gap` |
 | CA-260907-04 | Bhutan First WHO SEARO Dog-Rabies Elimination; One Health + De-suung; India 1/3 Deaths; NRCP 2030 | 2 | ★★★★★ | Day 1 | 2026-09-09 | 50% | Rising 📈 | 70% | 65% | 1 | 1 | 2026-09-08 | - | Pending | `Last Death Jun 2023` $\leftrightarrow$ `PEP Wash+Vaccine+RIG` $\leftrightarrow$ `A&N + Lakshadweep Free` $\leftrightarrow$ `96% Dog Bites` $\leftrightarrow$ `Tedros One Health` |
+| CA-260908-01 | 1-GW Data Centres: Google Vizag Air-Cooling; TCS HyperVault Liquid/DTC; 40 vs 120-150 kW/rack | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `1 GW In = 1 GW Heat` $\leftrightarrow$ `Thermal Wall 40 kW` $\leftrightarrow$ `Blackwell 120-150 kW` $\leftrightarrow$ `Google 120% Water 2030` $\leftrightarrow$ `TCS ≠ Air-Only` |
+| CA-260908-02 | UN Correct the Map: Arunachal + Aksai Chin Claim Lines; Togo/AU Equal Earth; MEA Not Endorsement | 3 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UN Geospatial Jul 2026` $\leftrightarrow$ `UNGA 4 Sep Correct the Map` $\leftrightarrow$ `Randhir Jaiswal Official Map` $\leftrightarrow$ `LoC Dotted Final Status Note` $\leftrightarrow$ `IS-01-04 Pointer` |
+| CA-260908-03 | J&K First International Film Festival: 135/41 Countries; Inox 2022 ≠ Festival 2026 | 1 | ★★★★☆ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `15 Halls Closed 30 Years` $\leftrightarrow$ `Dead Dog Sarah Francis` $\leftrightarrow$ `Inox Shiv Pora 2022` $\leftrightarrow$ `SKICC Omar Abdullah` |
 
 ---
 
@@ -752,10 +755,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**). **GEO-11** Yellow Book Ch 1 waits for **10 Sep**
+  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology L2). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**). **GEO-11** Yellow Book Ch 1 and **CA-260908** wait for **10 Sep**
   2. **Q3–Q6:** leftover **CA-260904** · **CA-260907** FRA · Polity Vajiram features / Geo remaining (schedule)
   3. **Q7:** Nuclear **+3**. **Q8:** `MST-050` Lucknow **repeat 2** · `MST-029` DDT/DTAA · `MST-055` persistent HP · `MST-056` UT **1972**
-  4. `MST-042` / `MST-051` / `MST-047` / `MST-048` resolved. GEO-09 / MOD-B6 / Pallava / Home Rule → **10 Sep**. **GEO-11** first pass also **10 Sep** (Q3–Q6)
+  4. `MST-042` / `MST-051` / `MST-047` / `MST-048` resolved. GEO-09 / MOD-B6 / Pallava / Home Rule → **10 Sep**. **GEO-11** and **CA-260908** first pass also **10 Sep** (Q3–Q6)
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** / **`MST-046`** / **`MST-049`** stay resolved.
 
 
