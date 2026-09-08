@@ -411,7 +411,7 @@ Leave page-space. Next lecture: why they later **shared** a station (Internation
 
 ### Update — 8 September 2026 (Yellow Book Concepts Ch 1 — stations; class still parked)
 
-Yellow Book numbers only. **Not** a new S&T cluster — Vinay continues stations next class. Same facts live in `GS_Geography_VR_Notes/07_Earth_in_the_Universe.md` (**GEO-11-07**).
+Yellow Book numbers only. **Not** a new S&T cluster — Vinay continues stations next class. Same facts live in `Yellow_Books/Concepts_of_Geography/01_Earth_in_the_Universe.md` (**GEO-11-07**).
 
 | Station | Book facts |
 |:---|:---|

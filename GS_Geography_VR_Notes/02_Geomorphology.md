@@ -506,7 +506,7 @@ EON (largest) → ERA → PERIOD → EPOCH (smallest)
 
 ### Update — 8 September 2026 (Yellow Book Concepts of Geography, Ch 1 — Moon extras; not a new topic)
 
-Same Giant Impact. Book name **Big Splat**; timing **~4.44 billion years** (class **~4.5**). Mean distance **384,000 km**; sidereal orbit **27.32 days**; **tidal locking** → about **59%** of the surface is ever seen from Earth. **Super Moon** at perigee **356,500 km**; **Micro Moon** at apogee **406,700 km**. Full solar-system packet: `07_Earth_in_the_Universe.md` (cluster **GEO-11**).
+Same Giant Impact. Book name **Big Splat**; timing **~4.44 billion years** (class **~4.5**). Mean distance **384,000 km**; sidereal orbit **27.32 days**; **tidal locking** → about **59%** of the surface is ever seen from Earth. **Super Moon** at perigee **356,500 km**; **Micro Moon** at apogee **406,700 km**. Full solar-system packet: `Yellow_Books/Concepts_of_Geography/01_Earth_in_the_Universe.md` (cluster **GEO-11**).
 
 ### 12.5 Traces of Water Vapour
 

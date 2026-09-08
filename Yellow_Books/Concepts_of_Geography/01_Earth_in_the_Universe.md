@@ -1,4 +1,4 @@
-# 07 — Earth in the Universe
+# Ch 1 — Earth in the Universe
 
 ### Yellow Book — Concepts of Geography, Chapter 1 — 8 September 2026
 

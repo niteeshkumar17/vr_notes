@@ -1,0 +1,28 @@
+---
+description: Yellow Book chapters live in Yellow_Books/; VR class notes get extras only.
+globs: Yellow_Books/**/*.md, GS_*_VR_Notes/**/*.md
+alwaysApply: true
+---
+
+# Yellow Book vs VR class notes
+
+Nik studies **two shelves**. Do not paste a full Yellow Book chapter into `GS_*_VR_Notes`.
+
+## Where the file goes
+1. **Full chapter** → `Yellow_Books/<Book>/NN_Title.md`  
+   - Concepts of Geography 2027 → `Yellow_Books/Concepts_of_Geography/`  
+   - Indian Geography 2027 → `Yellow_Books/Indian_Geography/`  
+   - Indian Polity Yellow Book → `Yellow_Books/Indian_Polity/`
+2. Tick the book’s `00_*_Map.md` to **Ingested**.
+3. **Grep VR notes first.** Same topic already in class → on the **original VR file** append `### Update — D Month YYYY (Yellow Book …)` with **new facts only**. Keep class wording. Pointer to the Yellow Book file.
+4. **No class note** → Yellow Book file only. Do not create a fake lecture in VR folders.
+
+## Ghost Recall
+- New Yellow Book chapter with no class twin = **one** cluster. Next Due = next morning **unless** that morning’s Q1–Q2 is already two **classes** — then park the YB cluster on the next catch-up slot (do not steal class Q1–Q2).
+- Extras on an existing class topic = patch that cluster’s knowledge graph. **No extra Day-1 row.**
+
+## Do not
+- Rewrite a lecture as the book.
+- Invent numbers beyond the book.
+- Mix *Concepts of Geography* with *Indian Geography* (two books).
+- Flood Day-1 cards from one chapter.

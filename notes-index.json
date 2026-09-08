@@ -463,10 +463,6 @@
     {
       "file": "06_Agriculture_Rainfed_Irrigation_and_Land.md",
       "title": "Agriculture Rainfed Irrigation And Land"
-    },
-    {
-      "file": "07_Earth_in_the_Universe.md",
-      "title": "Earth In The Universe"
     }
   ],
   "GS_History_VR_Notes": [
@@ -553,6 +549,28 @@
     {
       "file": "04_Space_Technology_Introduction.md",
       "title": "Space Technology Introduction"
+    }
+  ],
+  "Yellow_Books": [
+    {
+      "file": "00_How_to_use.md",
+      "title": "How To Use"
+    },
+    {
+      "file": "Concepts_of_Geography/00_Concepts_Geography_Map.md",
+      "title": "Concepts Geography Map"
+    },
+    {
+      "file": "Concepts_of_Geography/01_Earth_in_the_Universe.md",
+      "title": "Earth In The Universe"
+    },
+    {
+      "file": "Indian_Geography/00_Indian_Geography_Map.md",
+      "title": "Indian Geography Map"
+    },
+    {
+      "file": "Indian_Polity/00_Indian_Polity_Map.md",
+      "title": "Indian Polity Map"
     }
   ]
 }
