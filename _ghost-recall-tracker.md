@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-08
-*   **Active Micro-Topics:** 527
+*   **Active Micro-Topics:** 535
 *   **Overall Database Mastery:** 77.0% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). GEO-10 / IS-01 clusters → **11 Sep**. `MST-042` / `MST-051` resolved.
 *   **Active Learning Gaps Detected:** `MST-050` Lucknow **repeat 2** · `MST-053` IOD · `MST-054` BRICS theme · `MST-055` persistent HP · `MST-056` Mizo UT 1972 · `MST-057` JSY / 62.2% · `MST-058` SEARO · leftover **CA-260904** / **CA-260907** FRA
-*   **New Topics Ingested Today:** **MOD-B7** (8 Sep Tarique L7 — Wardha / Gandhi–Nehru–Ambedkar). First Ghost Recall **9 Sep**. **CA-260907** first pass still incomplete.
+*   **New Topics Ingested Today:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology continued). First Ghost Recall **9 Sep**. **CA-260907** first pass still incomplete.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -609,9 +609,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-01-14 | HPV: Genital Cancer Both Sexes, Gardasil Subunit Peptide Vaccine, 9-11 Age | 2 | ★★★★★ | Day 5 | 2026-09-02 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-28 | Fast 🟢 | `HPV=DNA Virus` $\leftrightarrow$ `Cervix Cancer` $\leftrightarrow$ `Males Also` $\leftrightarrow$ `Gardasil=Subunit` $\leftrightarrow$ `Sexual Transmission` |
 | ST-01-15 | HBV: Liver Cancer, Blood-Borne, Asymptomatic Years, HBV Similar to HIV Transmission | 3 | ★★★★★ | Day 5 | 2026-08-31 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-26 | Fast 🟢 | `HBV=DNA Virus` $\leftrightarrow$ `Liver Tropism` $\leftrightarrow$ `5 Modes of Transmission` $\leftrightarrow$ `Tattooing Dual Risk` $\leftrightarrow$ `HBV Cases > HIV` |
 | ST-01-16 | RNA Viruses: SARS-CoV-2, Dengue, Nipah, Ebola, Influenza, HIV | 2 | ★★★★★ | Day 5 | 2026-09-02 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-28 | Fast 🟢 | `SARS-CoV-2` $\leftrightarrow$ `Dengue` $\leftrightarrow$ `Nipah` $\leftrightarrow$ `Ebola` $\leftrightarrow$ `Influenza` $\leftrightarrow$ `HIV` |
-| ST-01-17 | SARS-CoV-2: Spike Protein (VAP), ACE-2 Receptor & Virus-Host Interaction | 3 | ★★★★★ | Day 5 | 2026-08-31 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-26 | Fast 🟢 | `Spike Protein=VAP` $\leftrightarrow$ `ACE-2=Cell Surface Receptor` $\leftrightarrow$ `RBD` $\leftrightarrow$ `Pneumonia` $\leftrightarrow$ `Viral Load` |
+| ST-01-17 | SARS-CoV-2: Spike Protein (VAP), ACE-2 Receptor & Virus-Host Interaction | 3 | ★★★★★ | Day 5 | 2026-08-31 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-26 | Fast 🟢 | `Spike Protein=VAP` $\leftrightarrow$ `ACE-2=Cell Surface Receptor` $\leftrightarrow$ `RBD` $\leftrightarrow$ `Pneumonia` $\leftrightarrow$ `Viral Load` $\leftrightarrow$ `Zoonosis ST-05` |
 | ST-01-18 | ACE-2 Receptor: Adult vs Infant Lungs & Differential COVID-19 Severity | 3 | ★★★★★ | Day 5 | 2026-08-31 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-26 | Fast 🟢 | `Mature Lungs=More ACE-2` $\leftrightarrow$ `Immature=Fewer ACE-2` $\leftrightarrow$ `NOT About Immunity` $\leftrightarrow$ `Blessing In Disguise` |
-| ST-01-19 | Antibody-Mediated Immunity: B-Cell Lymphocytes, Mask Spike Protein, Block Infection | 2 | ★★★★★ | Day 5 | 2026-09-02 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-28 | Fast 🟢 | `WBC B-Cells` $\leftrightarrow$ `Antibodies=Immunoproteins` $\leftrightarrow$ `Mask Spike` $\leftrightarrow$ `Block Attachment+Entry` $\leftrightarrow$ `Virus Forced Out` |
+| ST-01-19 | Antibody-Mediated Immunity: B-Cell Lymphocytes, Mask Spike Protein, Block Infection | 2 | ★★★★★ | Day 5 | 2026-09-02 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-28 | Fast 🟢 | `WBC B-Cells` $\leftrightarrow$ `Antibodies=Immunoproteins` $\leftrightarrow$ `Mask Spike` $\leftrightarrow$ `Block Attachment+Entry` $\leftrightarrow$ `CMI if Ab Fails = ST-05` |
 | ST-01-20 | Virus Living vs Non-Living (No Respiration + Host Reproduction = Transition) & Bacteria vs Virus 7-Point | 2 | ★★★★★ | Day 5 | 2026-09-02 | 100% | High 🌟 | 98% | 95% | 2 | 0 | - | 2026-08-28 | Fast 🟢 | `No Metabolism=Non-Living` $\leftrightarrow$ `Reproduction=Living` $\leftrightarrow$ `Transition Phase` $\leftrightarrow$ `7 Differences` $\leftrightarrow$ `Binary Fission=Natural Cloning` |
 
 ### Science & Technology (Nuclear Technology — Civilian, Military & Triad)
@@ -658,6 +658,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-04-08 | Race 2.0 Lunar: Artemis1 2022 Orion; A2 1 Apr 2026 Manned No Land; 2028 Land; 2032 Stay | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Additive ≠ Isolated` $\leftrightarrow$ `Koch / Glover` $\leftrightarrow$ `No Gateway` $\leftrightarrow$ `Mars Springboard` |
 | ST-04-09 | ILRS CN-RU 2031 Orbital or Base; India Not In Race; Sarabhai Doctrine; Man-Moon Sheet 2040 | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Sustained Presence` $\leftrightarrow$ `Development Not Prestige` $\leftrightarrow$ `Gaganyaan Delay` |
 | ST-04-10 | Station = Sustained Presence; Micro-g NOT Zero-g; Weightless = Free Fall; UV/X; Skylab / Mir | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Gravity Binds` $\leftrightarrow$ `Curve of Fall ∥ Earth` $\leftrightarrow$ `Next Class Continues` |
+
+### Science & Technology (Public Health / Virology continued — 8 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ST-05-01 | Zoonosis / Tropism; Spillover; Deforestation + 5 Anthro Factors | 2 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Animal→Human` $\leftrightarrow$ `Wide Host Range` $\leftrightarrow$ `Livestock Wildlife Encroachment Exotic Trade` $\leftrightarrow$ `Spike ACE-2 = ST-01` |
+| ST-05-02 | RNA Unstable; Antigenic Variation; 94% Emerging; Spanish Flu 1918; NiV CFR ~90% | 3 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Wide Host Pool Mutation` $\leftrightarrow$ `Antigen=Protein` $\leftrightarrow$ `↑ Transmissibility` $\leftrightarrow$ `COVID CFR 1-2% Class` |
+| ST-05-03 | Novel Virus Never Exposed; n-CoV-19→SARS-CoV-2; SARS-1 2002; MERS 2012 Saudi | 2 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Dec 2019 WHO Rename` $\leftrightarrow$ `China HK S.Korea` $\leftrightarrow$ `Coronavirus Family not Flu` |
+| ST-05-04 | Culture Always Living; Animal / Embryonated Egg / Cell Culture; CPE; 4 Aims | 2 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ethics Kill Life` $\leftrightarrow$ `Tissue Continuous Division` $\leftrightarrow$ `HBV Liver not Lung` $\leftrightarrow$ `ST-01 Always Living` |
+| ST-05-05 | Innate: Skin Lysozyme Neutrophil Phagocytosis Interferon; Colostrum 24-48h; Xerophthalmia | 2 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Memory Non-Specific` $\leftrightarrow$ `β-Carotene Liver Vit A` $\leftrightarrow$ `Passive Immunity Bridge` |
+| ST-05-06 | Adaptive Humoral: B-Cell Ab in Blood; Memory Antigen-Specific; Vaccine vs Natural | 2 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Humor=Fluid` $\leftrightarrow$ `COVID Ab ≠ HIV` $\leftrightarrow$ `OPV Memory Safer than Wild Polio` |
+| ST-05-07 | CMI: Tc Perforin Granzyme; Th Cytokines; HIV Kills Th; Infection ≠ Disease | 3 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Ribosome Host Factory` $\leftrightarrow$ `Apoptosis` $\leftrightarrow$ `False Positive Fragments` $\leftrightarrow$ `Opportunistic Infection` |
+| ST-05-08 | Treg Peripheral Immune Tolerance; FOXP3; Thymus; Nobel 2025 Brunkow Ramsdell Sakaguchi | 3 | ★★★★★ | Day 1 | 2026-09-09 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Prevent Autoimmunity` $\leftrightarrow$ `Calm After Invader` $\leftrightarrow$ `Mutation → Autoimmune` $\leftrightarrow$ `Next: Innate-Adaptive Link` |
 
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -729,7 +741,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (8 Sep History L7). Second 8 Sep class not in yet — leftover catch-up in the other slot. Do **not** dump GEO-10 / IS-01 (they go **11 Sep**)
+  1. **Tomorrow (9 Sep) Q1–Q2:** **MOD-B7** (History L7) + **ST-05** (8 Sep virology). Do **not** dump GEO-10 / IS-01 (they go **11 Sep**)
   2. **Q3–Q6:** leftover **CA-260904** · **CA-260907** FRA · Polity Vajiram features / Geo remaining (schedule)
   3. **Q7:** Nuclear **+3**. **Q8:** `MST-050` Lucknow **repeat 2** · `MST-029` DDT/DTAA · `MST-055` persistent HP · `MST-056` UT **1972**
   4. `MST-042` / `MST-051` / `MST-047` / `MST-048` resolved. GEO-09 / MOD-B6 / Pallava / Home Rule → **10 Sep**
