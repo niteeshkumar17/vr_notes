@@ -6,7 +6,7 @@ Upload one chapter (or ~10 pages) at a time. **Ingested** = full note here. **VR
 |:---:|:---|:---:|:---|:---|
 | 1 | Earth in the Universe | 5–17 | **Ingested** `01_Earth_in_the_Universe.md` | Moon extras → Geomorphology Theia. Stations → Vinay space (class still Skylab/Mir) |
 | 2 | Origin and Evolution of the Earth | 18–27 | **Ingested** `02_Origin_and_Evolution_of_the_Earth.md` | Extras on `01_Fundamentals_of_Geography.md` (sphericity list, perihelion, Mirzapur, 179 parallels, 2024/2019/2013 PYQs). Early Earth extras on Geomorphology. **No new cluster** |
-| 3 | Interior of the Earth | 28–36 | Not uploaded | Geomorphology A2–A3 |
+| 3 | Interior of the Earth | 28–36 | **Ingested** `03_Interior_of_the_Earth.md` | Models/depths stay on Geomorphology A2–A3. Extras: P/S/Love/Rayleigh, shadow zones 105–142°, Mponeng, 2023 PYQ. **No new cluster** |
 | 4 | Evolution of Continents | 37–50 | Not uploaded | Geomorphology plates / SFS |
 | 5 | Geomorphic Processes | 51–62 | Not uploaded | Endo/exo in Geomorphology; weathering / mass wasting / erosion likely extra |
 | 6 | Rocks | 63–71 | Not uploaded | **No class file** — high priority after AWP |

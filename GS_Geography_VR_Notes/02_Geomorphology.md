@@ -4,7 +4,8 @@
 > **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**
 > **Teacher:** **Rizwan Sir** (three Geomorphology lectures: A1–A3)
 > **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3) + Audio Transcripts
-> **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)
+> **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)  
+> **Yellow Book Concepts Ch 3** (full): `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. Class stays master for models and depths. Wave types + shadow zones = extras below (A3).
 
 ---
 
@@ -1091,6 +1092,19 @@ Class frame: we study temperature / pressure of the **atmosphere** as an **open 
 | Melting point vs 6,000 | **MP < 6,000** | **MP > 6,000** |
 
 **Pressure is the major reason the two cores differ in state** at the same temperature. The inner core is at the **highest pressure**, **compressed from all directions**, which **prevents a change of state** despite the high temperature.
+
+### Update — 8 September 2026 (Yellow Book Concepts Ch 3 — extras; not a new topic)
+
+Full chapter: `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. **Do not** add a cluster. Class models, Moho/Gutenberg/Lehmann, lithosphere ≠ crust stay.
+
+**Waves (class never named P/S/Love/Rayleigh)**  
+**Focus** underground; **epicentre** on the surface above it. **P** = fastest, compressional, solids **and** liquids. **S** = shear, **solids only** → outer core liquid. **Love** = side-to-side; **Rayleigh** = rolling; both slow, surface, damage. **2023:** P before S, and the particle-motion pair — **both** correct.
+
+**Shadow zones (book ~105° / 142°; same page also 103°)**  
+Within ~105°: **P and S**. **105–142°:** neither (P refracted, S blocked). Beyond 142°: **P returns, no S**. Whole far side beyond ~105°: **no direct S**.
+
+**Other extras**  
+**Mponeng** (South Africa) ~**4 km**. Kola book **12.2 km** (class **13.7**). Crust **0.5–1%** volume; ~**30°C/km**. Oceanic crust **not older than ~200 million years**. Mantle ~**83%** volume / **67%** mass. **Mesosphere** here = lower mantle (~**660 km** up), **not** the atmosphere layer. Outer-core convection + Coriolis = **dynamo** (geomagnetism still pending in class). Book Conrad = jump **inside continental crust**; **A3 Conrad = continental ↔ oceanic** — keep A3 for GEO-09.
 
 ---
 
