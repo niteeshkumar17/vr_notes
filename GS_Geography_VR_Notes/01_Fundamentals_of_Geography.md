@@ -6,7 +6,7 @@
 > **Date Added:** 2026-07-28; split **2026-08-30** from the notebook  
 > **Source:** Vajiram & Ravi class lecture + handwritten notebook. Page 3 was not in the photos; geoid numbers continue from page 2 → 4.  
 > **Reading stack from the first sheet:** Class Notes, Handouts, Yellow Books · Newspapers · National Council of Educational Research and Training (NCERT) textbooks · Goh Cheng Leong (G.C. Leong) · Atlas (Oxford marked as the one to use; also Great / Black / Swan)  
-> **Yellow Book shelf:** `Yellow_Books/` (full chapters). This file stays **class**. Concepts Ch 1 = `Yellow_Books/Concepts_of_Geography/01_Earth_in_the_Universe.md`. Ch 2 extras (shape / time) land here when that PDF arrives.  
+> **Yellow Book shelf:** `Yellow_Books/` (full chapters). This file stays **class**. Concepts Ch 1 = `Yellow_Books/Concepts_of_Geography/01_Earth_in_the_Universe.md`. Concepts **Ch 2** (shape / rotation / time) = `Yellow_Books/Concepts_of_Geography/02_Origin_and_Evolution_of_the_Earth.md` — extras in the **8 September 2026** update below.  
 > **Lecture 5** is the page dated **30/7/26** (quotes, International Date Line, Daylight Saving Time, jet lag). Assignments from class sit in the note.
 
 ---
@@ -441,6 +441,24 @@ Already in this day’s note: GMT was replaced by a universal system in **1928**
 ---
 
 > **Lecture 5 ends the Fundamentals notebook** (26–30 July). Pressure belts were never on these sheets.
+
+### Update — 8 September 2026 (Yellow Book Concepts Ch 2 — extras; not a new topic)
+
+Full chapter: `Yellow_Books/Concepts_of_Geography/02_Origin_and_Evolution_of_the_Earth.md`. Class wording above stays. **GEO-01** cluster only — no extra Day-1.
+
+**Shape / sphericity (book list; class had Newton → oblate spheroid → geoid)**  
+Evidence: Magellan **1519–1522**; circular horizon that grows with height; ship **mast first / hull last**; sunrise earlier in the **east**; **circular** lunar-eclipse shadow; satellite limb; poles in a line sit with the middle one slightly **higher**. Book also says **oblate ellipsoid** ≈ geoid.
+
+**Seasons — extras**  
+Axis **23.5°** to the normal = **66.5°** to the ecliptic. Revolution **365.242** days → leap year. **Perihelion 2–4 January, 147.1 million km**; **aphelion 3–6 July, 152.1 million km**. Distance change is **not** why seasons exist. Book’s five: revolution, rotation, **tilt**, **parallelism** (axis at **Polaris**), **sphericity**. Dawn vs twilight: sun still **below** horizon; sky lit by scatter. If axis were vertical, day = night **everywhere all year**.
+
+**Grid / time — extras**  
+Parallels at 1° = **179**. **1° longitude at 60° ≈ 55.5 km** (class ≈ 56). IST meridian **82°30′ E** named **Mirzapur**; \(82.5 \times 4 = 330\) min = **GMT+5:30**. Book: **France 12** time zones, **USA 11**. Greenwich 7:30 PM → **112.5° W** = **noon**. East = **later** (if a book line says the opposite, ignore it). IDL calendar: class table still rules.
+
+**PYQs in the chapter (9 Sep traps)**  
+- **2024** 21 June **more than 12 h** sun: Cancer **and** Arctic Circle, **not** Equator (exactly 12), **not** Capricorn. **(d)**  
+- **2019** 21 June: Sun **does not set** at Arctic Circle. **(a)**  
+- **2013** day/night seasons: **revolution on a tilted axis**. **(d)** — not ellipse, not rotation alone.
 
 ---
 

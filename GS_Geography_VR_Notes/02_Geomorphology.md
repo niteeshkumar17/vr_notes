@@ -508,6 +508,10 @@ EON (largest) → ERA → PERIOD → EPOCH (smallest)
 
 Same Giant Impact. Book name **Big Splat**; timing **~4.44 billion years** (class **~4.5**). Mean distance **384,000 km**; sidereal orbit **27.32 days**; **tidal locking** → about **59%** of the surface is ever seen from Earth. **Super Moon** at perigee **356,500 km**; **Micro Moon** at apogee **406,700 km**. Full solar-system packet: `Yellow_Books/Concepts_of_Geography/01_Earth_in_the_Universe.md` (cluster **GEO-11**).
 
+### Update — 8 September 2026 (Yellow Book Concepts Ch 2 — early Earth / oceans; not a new topic)
+
+Same differentiation as class (Fe–Ni down, silica–aluminium up). Book extras: early thin **H + He** atmosphere; crust **wrinkles** into ridges and basins; rain for **thousands of years** fills basins = **oceans**; giant impact as the heat that **starts** layering. Origin-theory names (Jeans–Jeffreys tidal; Laplace **1796**) sit in `Yellow_Books/Concepts_of_Geography/02_Origin_and_Evolution_of_the_Earth.md`. **Do not** add a new cluster.
+
 ### 12.5 Traces of Water Vapour
 
 - During consolidation, different primordial segments brought different gases (some O₂, some H₂)
