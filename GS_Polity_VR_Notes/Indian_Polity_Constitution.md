@@ -330,6 +330,8 @@ Test extras on this class note. **No extra Day-1.**
 | **Concurrent List** | **Australia** | — |
 | **Fundamental Duties** | **USSR** | — |
 
+**Answer drop (GS-2 salient features / “borrowed but Indian”):** India took the **parliamentary** engine, **FPTP**, **rule of law**, **Speaker** and **lawmaking** from **Britain**, but **single** citizenship (not the US dual model). **Fundamental Rights**, **judicial review** and **independence of the judiciary** are **US**. **DPSP** is **Irish** — do not park it on Canada. **Canada** is the **strong-Centre federation** plus **residual powers**. Preamble **Liberty, Equality, Fraternity** is **French**. **Concurrent List** is **Australian**; **Fundamental Duties** are **USSR**. Close the paragraph: borrowed bricks, Indian architecture (GOI Act 1935 + diversity + one Constitution + lawyers’ drafting).
+
 **Drafting Committee (7):** Ambedkar (Chair), N. Gopalaswami Ayyangar, Alladi Krishnaswami Ayyar, K.M. Munshi, **Syed Mohammad Saadullah**, **N. Madhava Rau** (replaced B.L. Mitter), T.T. Krishnamachari (replaced D.P. Khaitan). **Not** Gopinath Bardoloi. **Not** J.B. Kripalani.
 
 **Constituent Assembly lock:** seal = **elephant**, not lion. Constitutional Advisor = **B.N. Rau**. Chief draftsman = **S.N. Mukherjee**. Calligraphy / decoration = **Nandalal Bose** (Shantiniketan).
