@@ -52,7 +52,7 @@
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
 | GS_IR_VR_Notes | 02 — United Nations (Varma Sir L2) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Ghost Recall clean: 24 Oct 1945 / 50→193 / ICJ Hague / 15=5+10 / 9/15 + no P5 no / abstention ≠ veto. Cluster +3. |
 | GS_ScienceTech_VR_Notes | 04 — Space Technology Introduction (Vinay Krishna L10) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Karman ≠ rigid OST line held (`MST-043` Resolved 🟢). Trap: fuel’s third job = **initial velocity**. Cluster +3. |
-| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-04 | 1 | 100% | 2026-09-08 | New | - | Still untested in Ghost Recall. Leftover first-pass if an **8 Sep** slot opens. |
+| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-09 | 3 | 55.0% | 2026-09-10 | Somewhat | - | WMO **Feb 2027** + Pacific held. Bang still fail: **JSY** + *Lancet* **62.2%** + **1,800 g** (`MST-057` repeat 2). |
 | GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-05 | 2 | 100% | 2026-09-20 | Confident | - | **44% = some weeks**, season 14–15% (`MST-044` Resolved 🟢). |
 | GS_Geography_VR_Notes | 07 — Agri festivals / SRI vs DSR (GEO-07 +3) | 2026-09-07 | 3 | 100% | 2026-09-14 | Confident | 2024 | +3 held: Harela = **Uttarakhand sowing**; SRI still transplants + AWD; DSR no transplant. Trap: belching > paddy methane not answered. Cluster +7 **14 Sep**. |
 | GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-05 | 5 | 100% | 2026-09-20 | Confident | 2015, 2020 | Fertilizer farmer=production / company=product held (`MST-036` Resolved 🟢). |
