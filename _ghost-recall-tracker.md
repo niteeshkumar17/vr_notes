@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-09
-*   **Active Micro-Topics:** 545
+*   **Active Micro-Topics:** 551
 *   **Overall Database Mastery:** 77.2% 📈
 *   **Today's Recall Completed:** 8 (Ghost Recall). MOD-B7 / ST-05 / FRA / Nuclear **+3** / WMO advance. `MST-053` / `054` / `055` resolved.
 *   **Active Learning Gaps Detected:** `MST-059` trusteeship **repeat 2** · `MST-060` n-CoV waves **repeat 2** · `MST-057` JSY / 62.2% **repeat 2** · `MST-058` SEARO **repeat 2** · `MST-029` DDT (rolled)
-*   **New Topics Ingested Today:** none this morning. **GEO-11** + **CA-260908** still first pass **10 Sep**.
+*   **New Topics Ingested Today:** **SOC-01** (9 Sep Social Issues L1 — salient features / caste). First Ghost Recall **10 Sep Q1–Q2**. **GEO-11** + **CA-260908** stay **Q3–Q6**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -747,6 +747,16 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | IR-02-07 | Assess: 1–3 Poor / 4 Good; MAD ≠ UN; Rwanda 8L; Searchlight; HDI+SDG; 1267 | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Iraq 2003 Matsyanyaya` $\leftrightarrow$ `Hormuz Transit Passage Customary` $\leftrightarrow$ `Tommy Koh UNCLOS` |
 | IR-02-08 | Charter 2/3 + All P5; G4 vs UFC; India Claim; China / Coffee / Status Quo | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `128 of 193` $\leftrightarrow$ `15→24/26 vs 25 NP/SP` $\leftrightarrow$ `Table or Menu` $\leftrightarrow$ `Shyam Saran` |
 
+### Society (Salient Features of Indian Society — Lecture 1, 9 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| SOC-01-01 | GS-I Social Issues map; West modern vs India traditional; SR→IR→FR | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Salient=Unique` $\leftrightarrow$ `8 chapters` $\leftrightarrow$ `Empowerment=Reservation` $\leftrightarrow$ `No SR/IR/FR in India` |
+| SOC-01-02 | Evolution of Indian society; half modern institutions / half traditional people | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `1500 BC Hinduism` $\leftrightarrow$ `Islam from outside` $\leftrightarrow$ `Sikhism hybrid` $\leftrightarrow$ `British institutions ≠ modernisation` |
+| SOC-01-03 | Diversity + unity in diversity | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `7 religions` $\leftrightarrow$ `4–5k castes` $\leftrightarrow$ `705 tribes` $\leftrightarrow$ `Ethnic=culture/language` $\leftrightarrow$ `West=homogeneous` $\leftrightarrow$ `Tolerance+State+citizenship+movement` |
+| SOC-01-04 | Continuity: pro-religion State, joint family, villages as closed reservoirs | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Yet to modernise` $\leftrightarrow$ `Kanwar/Kumbh` $\leftrightarrow$ `Villages self-sufficient` $\leftrightarrow$ `~70% rural` |
+| SOC-01-05 | Six occupation buckets; UC 1–3 / OBC 4–5 / SC 6; land reform | 2 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Occupation identifier` $\leftrightarrow$ `Peasant=tenant+labour` $\leftrightarrow$ `Untouchable=impure waste` $\leftrightarrow$ `Land reform→UC lose land` |
+| SOC-01-06 | Ritual vs secular; endogamy; Varna≠caste; 1871–1931–2026 census; Sanskritization | 3 | ★★★★★ | Day 1 | 2026-09-10 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Caste lives=rigid birth+flex occupation` $\leftrightarrow$ `Endogamy undiluted` $\leftrightarrow$ `British linked Varna` $\leftrightarrow$ `Desire+imitate` $\leftrightarrow$ `1931 last / 2026 list census` |
+
 ---
 
 
@@ -755,7 +765,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (10 Sep) Q1–Q2:** 9 Sep classes if any; else do **not** steal GEO-11 / CA-260908 from Q3–Q6
+  1. **Tomorrow (10 Sep) Q1–Q2:** **SOC-01** (9 Sep Social Issues L1). Do **not** steal GEO-11 / CA-260908 from Q3–Q6
   2. **Q3–Q6:** **GEO-11** Yellow Book Ch 1 · **CA-260908** · CA **24–31 Aug** if a slot
   3. **Q7:** Tax **+3**. **Q8:** `MST-059` / `MST-060` / `MST-057` / `MST-058` **repeat 2** · leftover `MST-029` DDT
   4. `MST-053` IOD / `MST-054` BRICS / `MST-055` HP resolved **9 Sep**. MOD-B7 / ST-05 (except two atoms) / FRA / WMO → **12 Sep**. Nuclear quizzed rows → **16 Sep**. GEO-09 / MOD-B6 / Pallava / Home Rule still **10 Sep** if a leftover slot
