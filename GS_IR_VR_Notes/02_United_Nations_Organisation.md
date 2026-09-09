@@ -308,7 +308,7 @@ Judge the UN on the **four founding objectives**. Class verdict after ~80 years:
 
 **Supporters:** no **Third World War**. The League failed that test.
 
-**Critics:** that is **not** the UN’s achievement. Cold War stayed cold because of the **balance of terror** / **Mutually Assured Destruction (MAD)** — **nuclear deterrence**. **1962 Cuban Missile Crisis** — President **John F. Kennedy** chose diplomacy over a first strike (class: no winners in a nuclear war; Hiroshima–Nagasaki).
+**Critics:** that is **not** the UN’s achievement. Cold War stayed cold because of the **balance of terror** / **Mutually Assured Destruction (MAD)** — **nuclear deterrence**. **1962 Cuban Missile Crisis** — President **John F. Kennedy** chose diplomacy over a first strike (class: no winners in a nuclear war; Hiroshima–Nagasaki). **Full Sandhu chain (9 Sep):** bipolar / NAM / MAD / proxy / NPT → `03_World_Order_After_WW2.md` (**IR-03**).
 
 **Veto paralysis — Cold War:** **1960s Vietnam** (aggressor: US); **1979 Afghanistan** (aggressor: Soviet Union). UN did not rescue either.
 
@@ -455,4 +455,5 @@ Two grounds for a **permanent seat**:
 | **IMF / WB** | International Monetary Fund / World Bank |
 | **PYQ** | Previous Year Question |
 
+<!-- 2026-09-09: Pointer — full MAD/NPT/world-order chain is Sandhu IR-03, not a second UN lecture. -->
 <!-- 2026-09-04: IR Lecture 2, Dr Sushant Varma — UN origin, six organs, UNSC voting/actions, ICJ-PCA-ICC, assessment, Charter amendment, G4 vs Coffee Club, India’s permanent-seat claim, from transcript + 6 sheets. -->

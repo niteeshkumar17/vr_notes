@@ -108,6 +108,13 @@ Insurgency from **1952** onward, then an unprecedented rise of related developme
 
 **Home Minister / “Mission Naxal Mukt Bharat”:** class heard India called **Naxal-free this year** on the floor. Class: **too early**. Operations alone cannot finish it — **dialogue + development** must run **parallel** to the offensive.
 
+### Update — 9 September 2026 (Sandhu IR — CPI split; no extra Day-1)
+
+IR world-order class used Naxalism as the **violent-communism** example. **Keep the IS lock: too early.**
+
+- **Communist Party of India (CPI)** = **peaceful** (elections). **Communist Party of India (Maoist)** = **banned**. Sheet “CPI(M) banned” is **Maoist**, not CPI(Marxist).
+- Start-place still **Naxalbari** → Naxalite. **Central Reserve Police Force (CRPF)** is the force Sandhu named. He said India is “on the verge of eradicating” — that is **not** the IS conclusion.
+
 **Bihar — Bhojpur:** “red hot spot.” **Dola system** (sheet wrote “Dala”) — dominant **Kshatriyas / Bhumihars** holding majority land. Newly wed women from lower-caste / landless households were forced to spend the **first night** at the **zamindar’s** house, not the husband’s. Peasants **joined the Naxalites**. **Ranvir Sena** (same caste bloc) — **Supreme Court (SC) banned** it.
 
 ### Update — 7 September 2026 (Dola = palanquin; not a new topic)
@@ -240,5 +247,6 @@ Nine heads (later lectures will open each):
 
 ---
 
+<!-- 2026-09-09: Sandhu IR — CPI vs CPI(Maoist) banned / Naxalbari / CRPF; keep IS “too early.” No extra Day-1. -->
 <!-- 2026-09-07: Created from Internal Security L1 transcript + 7 notebook pages. Cluster IS-01. -->
 <!-- 2026-09-08: Hindu — FATF digital hawala (70%, six forms) on IS-01-09; UN Geospatial claim-lines pointer on IS-01-04. No extra Day-1. -->
