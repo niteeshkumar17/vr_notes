@@ -36,6 +36,19 @@ SEARCH trial: **62.2%** fall in rural **neonatal mortality** (*The Lancet*, **19
 ### 6. One-liner
 **JSY filled the hospitals; HBNC + safer SNCUs** must now share the load — **hospital plus home**.
 
+### Update — 9 September 2026 (UPSC CSE Prelims 2023)
+
+`CSE-2023-Q51` **missed** (`MST-065`). How many JSY statements are correct = **only two**:
+
+| Statement | Hold? |
+|:---|:---|
+| 1. Safe motherhood intervention **of the State Health Departments** | **No.** Not a State-department scheme in that wording. |
+| 2. Reduce **maternal and neonatal** mortality among **poor pregnant women** | **Yes.** |
+| 3. Promote **institutional delivery** among poor pregnant women | **Yes** — this is why class says **JSY filled hospitals**. |
+| 4. Public health facilities to **sick infants up to one year** | **No** — not a JSY objective. |
+
+Class locks that stay: filler scheme name = **JSY**; SEARCH drop **62.2%** (*Lancet* **1999**); home **1,800 g · 34 weeks** (`MST-057`).
+
 ---
 
 ## Topic 2: ‘Supersized’ El Niño to be strongest ever recorded — WMO

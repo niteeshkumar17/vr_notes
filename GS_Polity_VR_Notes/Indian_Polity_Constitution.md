@@ -336,6 +336,18 @@ Test extras on this class note. **No extra Day-1.**
 
 **Constituent Assembly lock:** seal = **elephant**, not lion. Constitutional Advisor = **B.N. Rau**. Chief draftsman = **S.N. Mukherjee**. Calligraphy / decoration = **Nandalal Bose** (Shantiniketan).
 
+### Update — 9 September 2026 (UPSC CSE Prelims 2025)
+
+`CSE-2025-Q55` **missed** (`MST-066`). All **three** pairs:
+
+| Provision | Stated under |
+|:---|:---|
+| Separation of judiciary from the executive in the public services of the State | **DPSP — Article 50** |
+| Value and preserve the rich heritage of our **composite culture** | **Fundamental Duties — Article 51A** |
+| Prohibition of employment of children below **14** in factories | **Fundamental Rights — Article 24** |
+
+Source-country extra already on this page: DPSP **Ireland**, Duties **USSR**, FR **USA**. Do not stop at “only one.”
+
 ---
 
 ### Feature ⑤ — Federal Polity with Unitary Bias

@@ -102,6 +102,12 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 **2008:** **USA** helped India get an **NSG and IAEA waiver** — **exception only for India** so NSG members **can** share civilian nuclear technology with India **without** NPT. Full US-lecture later.
 
+### Update — 9 September 2026 (UPSC CSE Prelims 2018 / 2020)
+
+`CSE-2018-Q07` **missed** (`MST-063`). Consequence of NSG membership: access to **latest nuclear technologies / fuel** (statement 1). It does **not** automatically make the country an **NPT** member (statement 2). Same class lock: **2008** waiver **without** signing NPT.
+
+`CSE-2020-Q55` **held**. Some Indian reactors sit under **IAEA safeguards** because they use **imported** uranium; reactors on **domestic** fuel are not in that IAEA civilian bucket. Do not pick thorium / foreign operator / private ownership.
+
 ---
 
 ## 5. Post–Cold War: unipolar LPG, then the dark side (IR-03-05)

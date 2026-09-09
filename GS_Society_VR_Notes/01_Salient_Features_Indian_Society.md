@@ -201,6 +201,12 @@ LC want **UC status**. They claim ancestors from UC and **copy UC practices** (s
 
 British reply in class: UC is about **occupation**, not lifestyle. They changed **rituals**, not **occupation** → **never got UC**. If they had, class says the **OBC movement** would not have been needed.
 
+### Update — 9 September 2026 (UPSC CSE Prelims 2024 + evening paper)
+
+`CSE-2024-Q84` **held**. Who notifies a **Scheduled Tribe**: the **President** under **Article 342** (consultation with the Governor) — **not** the Governor. A community listed as ST in one State **need not** be ST in another. Class count stays **about 705** tribe types — do not invent a new number.
+
+Evening miss (`MST-064`): census I+II held. **Sanskritization did not** get Lower Castes **Upper-Caste** status from the British, so an **OBC movement was still needed**. Do not mark “all three.”
+
 **Next class:** **Caste and power**.
 
 ---

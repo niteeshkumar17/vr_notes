@@ -18,3 +18,8 @@ Evening paper uses **5 real PYQs** a night. This file only records **what was al
 | CSE-2020-Q04 | Untouchability as discrimination = Right to Equality (Art 17) | MOD-B7-06 | 2026-09-08 | ✅ | `Modern_India` · Update 8 Sep 2026 (held) |
 | CSE-2021-Q70 | Adenovirus dsDNA / retrovirus not dsDNA; cold can be adenovirus; AIDS = retrovirus | ST-05-07 / ST-01-13 | 2026-09-08 | ✅ | `01_Public_Health_Virology` · DNA vs RNA table + adenovirus extra (class never named it) |
 | CSE-2017-Q97 | Right against Exploitation = Art 23 + 24 only (not Art 17 / minorities) | MOD-B7-06 | 2026-09-08 | ✅ | `Modern_India` · Update 8 Sep 2026 (held) |
+| CSE-2018-Q07 | NSG membership → tech access; does **not** auto-join NPT | IR-03-04 | 2026-09-09 | ❌ | `03_World_Order_After_WW2` · Update 9 Sep 2026 |
+| CSE-2020-Q55 | IAEA safeguards = imported uranium vs domestic | IR-03-04 | 2026-09-09 | ✅ | `03_World_Order_After_WW2` · Update 9 Sep 2026 (held) |
+| CSE-2024-Q84 | ST list: President (Art 342), not Governor; State-specific | SOC-01-03 | 2026-09-09 | ✅ | `01_Salient_Features_Indian_Society` · Update 9 Sep 2026 (held) |
+| CSE-2023-Q51 | JSY: only 2 and 3 (poor MMR/NMR + institutional delivery) | CA-260904-01 | 2026-09-09 | ❌ | `2026-09-04` · Update 9 Sep 2026 |
+| CSE-2025-Q55 | Art 50 DPSP + Art 51A duty + Art 24 FR — all three | POL-03-01 | 2026-09-09 | ❌ | `Indian_Polity_Constitution` · Update 9 Sep 2026 |
