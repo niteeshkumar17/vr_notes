@@ -37,7 +37,7 @@
 | Current_Affairs | Current Affairs (26 August 2026) | 2026-08-26 | 0 | 0% | 2026-08-27 | New | 2012, 2015, 2019, 2022, 2024 | Added CA-260826-01 to CA-260826-03 (Judicial Appointments Transparency: Justice Ujjal Bhuyan observation, Three Judges Cases evolution, MediaOne sealed-cover doctrine, Umadevi public employment equality, Uncle Judges data, UK JAC & South Africa JSC comparative models, 4-point reform blueprint). |
 | Current_Affairs | Current Affairs (27 August 2026) | 2026-08-27 | 0 | 0% | 2026-08-28 | New | 2014, 2017, 2019, 2021, 2024 | Added CA-260827-01 to CA-260827-03 (Meghalaya Uranium Mining Resolution, Sixth Schedule Customary Land Rights & SC Dimasa 2019 Verdict; Kaziranga ESZ Reduction Plan 10km to 1-3km, Karbi Anglong Corridors & EPA 1986 Section 3; Climate-Resilient Food Systems: UN WFP Faure-Mehta Blueprint, NFSA 2013 Shift to 'Climate Buffer', PDS Diversification & Net-Zero Agri). |
 | GS_ScienceTech_VR_Notes | S&T Lecture 1: Syllabus Overview & Public Health (Virology) | 2026-08-25 | 3 | 66.7% | 2026-08-28 | Confident | 2019, 2020, 2022, 2024 | Mastered Spike protein/ACE-2 receptor and virus genome either/or rule. Logged HBV DNA virus trap (MST-028). |
-| GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-09-05 | 1 | 100% | 2026-09-08 | Confident | 2014, 2018, 2021, 2024 | Ghost Recall first pass: Co-60 γ / Radura / mutagenic vs GM; Arihant–Arighat–Aridhaman; K-15 750 / K-4 3500; ballistic space vs cruise skim. Trap: Co-60 also radiotherapy; Arisudan / US Trident not class. |
+| GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-09-09 | 2 | 100% | 2026-09-16 | Confident | 2014, 2018, 2021, 2024 | +3 held: K-15 **750** / K-4 **3500**; Arihant–Arighat–Aridhaman; mutagenic = random / GM = inserted; **Radura**. Cluster **+7 16 Sep**. |
 | GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-06 | 11 | 90.0% | 2026-09-08 | Somewhat | 2018, 2020, 2023, 2024 | Cluster +3 **8 Sep**; **ECO-04-02** now **9 Sep**. `MST-045` Resolved 🟢 (14% ≠ GMCT 15%). Trap: MAT date is **1 Apr 2026**, not 2016. `MST-029` 9 Sep. |
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L4: Home Rule & Lucknow Pact) | 2026-09-08 | 3 | 62.0% | 2026-09-10 | Somewhat | 2015, 2016 | Evening 8 Sep **held** both locks (`MST-050` Resolved 🟢). Cluster +3 **10 Sep**. |
@@ -60,8 +60,8 @@
 | GS_History_VR_Notes | Modern India (L6: Satyagraha method + Gandhi–Tagore) | 2026-09-08 | 3 | 90.0% | 2026-09-10 | Somewhat | Essay / GS-IV | Cluster held. Same-page = **no hatred of other nations** (`MST-052` Resolved 🟢 evening). Cluster +3 **10 Sep**. |
 | GS_Geography_VR_Notes | Climatology (GEO-06 lapse / tropopause) | 2026-09-06 | 3 | 82.0% | 2026-09-13 | Somewhat | 2013 | +3 held: ELR = actual, NLR = average. Trap: NLR **6.5°C/km**; coldest **layer** = **mesopause**, not equator tropopause. Cluster → **13 Sep**. |
 | GS_Geography_VR_Notes | 03 — Climatology L9 (C/D, cells, Hadley 1735) | 2026-09-08 | 2 | 80.0% | 2026-09-11 | Somewhat | 2011, 2013, 2017 | Ghost Recall cluster → **11 Sep**. Persistent HP miss (`MST-055`). IOD Pacific still `MST-053`. |
-| GS_History_VR_Notes | Modern India (L7: Wardha / Gandhi–Nehru–Ambedkar) | 2026-09-08 | 1 | 80.0% | 2026-09-09 | Somewhat | 2018, 2020, 2017 | Evening: Wardha Zakir Husain; Ramraj vs nation-state; Mill→Savarkar→Jinnah; Ambedkar 1956. Miss: trusteeship ≠ Marx / **two** pairs (`MST-059`). First Ghost Recall **9 Sep**. |
-| GS_ScienceTech_VR_Notes | 05 — Virology L2 zoonosis / immunity (ST-05) | 2026-09-08 | 1 | 67.0% | 2026-09-09 | Somewhat | 2021 | Evening: zoonosis/spillover; HIV kills TH / Treg Nobel. Miss: n-CoV-19 ≠ SARS-1; MERS 2012 (`MST-060`). First Ghost Recall **9 Sep**. |
+| GS_History_VR_Notes | Modern India (L7: Wardha / Gandhi–Nehru–Ambedkar) | 2026-09-09 | 2 | 70.0% | 2026-09-12 | Somewhat | 2018, 2020, 2017 | First Ghost Recall: Zakir Husain + Mill→Savarkar→Jinnah held. Trusteeship still “managed by a trust” / no **1/6** (`MST-059` repeat 2). Cluster +3 **12 Sep** except 07-04. |
+| GS_ScienceTech_VR_Notes | 05 — Virology L2 zoonosis / immunity (ST-05) | 2026-09-09 | 2 | 70.0% | 2026-09-12 | Somewhat | 2021 | Adenovirus **dsDNA** / retrovirus **RNA** / HIV kills TH held. Waves still swapped (`MST-060` repeat 2). Cluster +3 **12 Sep** except 05-03. |
 | GS_Internal_Security_VR_Notes | 01 — Fundamentals of Internal Security (L1, 7 Sep) | 2026-09-08 | 2 | 90.0% | 2026-09-11 | Somewhat | GS-III | Ghost Recall cluster → **11 Sep**. Mizo **UT 1972** held evening (`MST-056` Resolved 🟢). Hawala + FATF 70% held. |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-07 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 | GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-07 | 4 | 55.0% | 2026-09-08 | Somewhat | 2012, 2017, 2022 | `MST-046` caretaker held → Resolved 🟢. `MST-047` still fail: he wrote **2003** Manmohan and left single-party blank. Drill **UPA I 2004** / **AAP Delhi 2013** on **8 Sep**. Cluster still does **not** advance. |
@@ -73,9 +73,20 @@
 
 ---
 
-## 📜 Session History
+### Session 32 — 2026-09-09 (Ghost Recall)
+- **Subject:** MOD-B7, ST-05, CA-260904 leftover, FRA, Nuclear +3, MST-053/054/055/057/058/059/060
+- **Format:** 8 clustered recall (60-min morning)
+- **Score:** 5 / 8 clusters held (Q1/Q2/Q4/Q8 mixed atoms)
+- **Strengths:** Zakir Husain / Jamia; Mill 1817 → Savarkar 1923 → Jinnah 1940; Rehmat Ali = name. Zoonosis/spillover defs; adenovirus **dsDNA** / retrovirus **RNA** / HIV kills TH. WMO **Feb 2027** + Pacific. MoTA FRA; **~9 yr** / Teesta-IV / **70–75%**. K-15 **750** / K-4 **3500**; Arihant–Arighat–Aridhaman; mutagenic vs GM; Radura. HP = surface **D** + aloft **C** (`MST-055`). IOD = W vs E *Indian* (`MST-053`). BRICS **Multilateralism** (`MST-054`).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-059 repeat 2 / trusteeship:* wrote “managed by the trust.” Class = **change of heart**. **1/6** still missing. Two pairs, not “no match.”
+  - *MST-060 repeat 2 / waves:* **2002–03** and China/HK/SK belong to **SARS-CoV-1**, not MERS. **n-CoV-19 → SARS-CoV-2** (2019). **MERS = 2012 Saudi**.
+  - *MST-057 repeat 2 / Bang:* filler = **JSY**. Drop = **62.2%** *Lancet* **1999**. Home lock **1,800 g** not 1,600 g.
+  - *MST-058 repeat 2 / Bhutan:* **WHO SEARO**, not “South Asia.”
+- **Traps (no new MST):** Primary push = **deforestation**. Celeste Saulo / “since monitoring began” left blank. FRA **SC 2013** is not in the clip — Act has **no** project-consent clause; **rules** still need FRA first.
+- **Resolved:** `MST-053` IOD; `MST-054` BRICS; `MST-055` HP.
+- **Rolled:** `MST-029` DDT → **10 Sep** Q8 (not asked today).
 
-*(Most recent first)*
 
 ### Session 31 — 2026-09-08 (Evening MCQ)
 - **Subject:** MOD-B7 (Wardha / Gandhi–Nehru–Ambedkar) + ST-05 virology L2 + MST-050/052/056 + 5 PYQ
