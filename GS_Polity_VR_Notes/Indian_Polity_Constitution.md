@@ -316,13 +316,19 @@ Test extras on this class note. **No extra Day-1.**
 | Feature | Borrowed from | Trap |
 |:---|:---|:---|
 | **Single citizenship** | **Britain** | **Not USA** (USA = dual: Union + state) |
-| **Judicial review** | **USA** | **Not Britain** |
+| **First-past-the-post** | **Britain** | — |
+| **Parliamentary form of government** | **Britain** | — |
+| **Rule of law** | **Britain** | — |
+| **Speaker and his role** | **Britain** | — |
+| **Lawmaking procedure** | **Britain** | — |
+| **Fundamental Rights (charter)** | **USA** | — |
+| **Judicial review + independence of the judiciary** | **USA** | JR **not** Britain |
+| **Quasi-federal form** (federation with a **strong Centre**) | **Canada** | **Not Ireland** (that swap was pair 2/3 on this paper) |
+| **Residual powers** | **Canada** | — |
+| **Directive Principles of State Policy** | **Ireland** | **Not Canada** |
+| **Liberty, Equality, Fraternity** | **France** | — |
 | **Concurrent List** | **Australia** | — |
 | **Fundamental Duties** | **USSR** | — |
-| **First-past-the-post** | **Britain** | — |
-| **Quasi-federal / strong Centre + residual** | **Canada** | Not Ireland |
-| **Directive Principles of State Policy** | **Ireland** | Not Canada |
-| **Liberty, Equality, Fraternity** | **France** | — |
 
 **Drafting Committee (7):** Ambedkar (Chair), N. Gopalaswami Ayyangar, Alladi Krishnaswami Ayyar, K.M. Munshi, **Syed Mohammad Saadullah**, **N. Madhava Rau** (replaced B.L. Mitter), T.T. Krishnamachari (replaced D.P. Khaitan). **Not** Gopinath Bardoloi. **Not** J.B. Kripalani.
 
