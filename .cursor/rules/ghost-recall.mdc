@@ -1,5 +1,5 @@
 ---
-description: Ghost Recall morning quiz. Apply when Nik says ghost recall, morning recall, spaced repetition, recall session, interval plan, or that recall is taking over an hour.
+description: Ghost Recall morning quiz. Apply when Nik says ghost recall, morning recall, spaced repetition, recall session, interval plan, evening flash miss, or that recall is taking over an hour.
 alwaysApply: false
 ---
 
@@ -14,7 +14,7 @@ Full calendar: `_ghost-recall-schedule.md`.
 - **60 minutes.** Stop. Leftover stays on its interval date.
 - **8 questions, one message.** Nik answers in one reply (`pass` allowed).
 - Do **not** run 15–16 sequential Q&A.
-- Evening MCQ is a **separate** slot: **15** class-note items + **5** real PYQs (**20** total). Do not fold that paper into the morning hour.
+- Evening MCQ is a **separate** slot on a **canvas** (press **Open** on the chat Canvas card). **Tab 1:** **20** Prelims MCQs, scored +2/−0.66. **Tab 2:** 15 flash facts, 5 min, **no marks**. Paper **and** flash use the **same** Mistake Bank gaps (+1, then 15 / 30 / repeat reset). One atom if the same fact. Do not fold that paper into the morning hour.
 
 ## Interval ladder (pass)
 

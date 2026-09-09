@@ -233,6 +233,12 @@ If some of the captured CO₂ is also **used** in industry, the name becomes **C
 1. Faster melting of the **cryosphere**: Arctic sea ice, Greenland ice cap, Antarctic ice sheet, mountain snow and glaciers (class also listed high-latitude / Alaskan ice).
 2. **Thermal expansion** of oceans (the 90% heat sponge).
 
+### Update — 9 September 2026
+
+Clip extras on this class GLOF line. **No extra Day-1.** Full inventory sits on `August_2026/2026-08-29_Current_Affairs.md`.
+
+Tibetan Plateau glacier area **51,000 / 44,000 → 39,000 sq. km**. Southern ranges (Gangdise / Nyenchen Tanglha / Himalaya) **~40%** shrink; plateau **24%**. **>14,000** glacial lakes; fastest growth toward China’s **southern** Himalayan border. Driver in the clip: **global warming**.
+
 ---
 
 ## 8. Migration, Biodiversity, Health, Equity, Climate-Smart Agriculture (ENV-02-08)
@@ -318,3 +324,4 @@ Examples: **Direct Seeded Rice (DSR)** (cuts paddy **CH₄** vs flooded transpla
 ---
 
 <!-- 2026-08-29: Created from Environment Lecture 2 transcript and seven notebook pages — climate change definition, IPCC AR6, GHGs and sinks, SBM/landfills, GHG vs pollutant, UNFCCC/CCS, SLR/SIDS, CSA. -->
+<!-- 2026-09-09: Tibetan Plateau 39,000 sq km / 14,000 lakes extras on ENV-02-07; full clip on 29 Aug CA. -->

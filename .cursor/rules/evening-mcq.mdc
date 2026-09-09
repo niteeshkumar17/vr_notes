@@ -1,37 +1,84 @@
 ---
-description: Evening Prelims MCQ. Apply when Nik says evening MCQ, evening quiz, MCQ set, 6pm test, or wants the night paper.
-alwaysApply: false
+description: Evening Prelims MCQ on a Cursor canvas. Apply in every chat, including a new chat after Send score. Triggers include evening MCQ, evening quiz, MCQ set, 6pm test, night paper, AWP MCQ, flash facts, Canvas score submitted, Mark this attempt, evening-mcq canvas.
+alwaysApply: true
 ---
 
-# Evening MCQ — 15 class + 5 real PYQ
+# Evening MCQ — canvas: 20 Prelims + 15 flash facts
 
-Ghost Recall stays **8 Q / 60 min** in the morning. Do not mix the two formats.
+Ghost Recall stays **8 Q / 60 min** in the morning (chat is fine). Evening is one **canvas**, two tabs.
 
-## Hard limits
+**New chat:** this file still applies. Do **not** ask Nik to retype answers or to re-state the flash rule. **Do not** start a paper unless he asks for one.
 
-- **20 items, one message:** **15** from Nik’s notes + **5 authentic UPSC CSE Prelims PYQs**.
-- Answer in one reply (`1-b, 2-a, …`; `pass` allowed). Do **not** run sequential Q&A.
-- Scoring: **+2 / −0.66**. Max **40**. Unattempted = 0.
-- Target **~45 min**. If it overruns, keep 20 but shorten stems — do not bleed into Ghost Recall.
+## Delivery (mandatory)
 
-## Mix
+- One canvas, kebab-case, e.g. `evening-mcq-YYYY-MM-DD.canvas.tsx` in the workspace `canvases/` folder.
+- **Tab 1 — Paper (20):** twenty Prelims-style MCQs. This is the real test. About **5 of the 20** are authentic CSE PYQs (labelled PYQ); the other **15** are from notes. Do not advertise it as “15+5” — it is one paper of **20**.
+- **Tab 2 — Flash (15):** fact-recognition MCQs. Glance and click. **After** Tab 1, not instead of it.
+- In chat, tell Nik to press **Open** on the **Canvas:** card at the **bottom of the chat**. Do **not** rely on a markdown file-path link.
+- Do **not** paste 35 stems into the chat.
 
-| Count | Source |
-|:---:|:---|
-| ~8 | Today’s class(es) |
-| 2–3 | Due Mistake Bank traps |
-| rest of 15 | Older notes (not tomorrow’s Ghost Recall dump) |
-| **5** | Real PYQs only — topics he **already has notes** for. Label **PYQ** + `CSE-YYYY-Qnn`. Never invent a PYQ. Skip a slot if the official stem cannot be verified. |
+## Tab 1 — Paper (20) · ~45 min · scored
 
-## How the 5 PYQs are fetched
+- **20** Prelims MCQs. One paper, one score: **+2 / −0.66**. Max **40**. Unattempted = 0.
+- Inside those 20: **~15 from notes**, **~5 authentic UPSC CSE Prelims PYQs** (not a second paper).
+- Four options (a–d). UPSC voice: “which is/are correct”, how many pairs, I/II, match, “with reference to”.
+- **Not** a fact list. Each stem needs a trap (cousin, swap, class warning).
+- Notes mix: ~8 today’s class · 2–3 due Mistake Bank · rest older notes (not tomorrow’s Ghost Recall dump).
+- Stems from class + Yellow Book extras already on VR notes. Do not invent numbers.
+- If time overruns, **shorten Tab 1 stems**. Never skip Tab 1 to do flash.
 
-1. Map tonight’s notes (`notes-index.json` + today’s classes). Pick themes he has actually studied.
-2. Search `_pyq-index.json` (`questions[].stem` / `section` / `year`). Copy **stem + options** from that record. Label **PYQ** + `id` (e.g. `CSE-2018-Q05`).
-3. Check `_pyq-log.md`. Do **not** reuse an ID.
-4. Key = `answer` in the index (a–d). If missing, skip that slot.
-5. After he answers: log the five IDs in `_pyq-log.md` (theme, mapped cluster, ✅/❌).
-6. IDs are **Series A booklet numbers** (same as the PDFs on `/pyqs`). Do **not** invent a PYQ. Years in the index: **2016–2026**.
+## Tab 2 — Flash (15) · 5 min · no marks · **same revision as the paper**
 
-## PYQ extra info → enrichment, not a new topic
+Canvas click-through stays cheap. **Do not** apply +2 / −0.66 to flash. Revision is **identical** to Tab 1.
 
-Same as newspaper already-covered: `### Update — D Month YYYY (UPSC CSE Prelims YYYY)` on the **original** note. New facts only. Patch that cluster’s graph. **Do not** add a Day-1 Ghost Recall row. Miss → Mistake Bank atom at +1.
+- **15** one-line fact MCQs, four options, **recognition only** (date / name / pair / number already in notes).
+- Source: **today’s classes + today’s Yellow Book extras** first; leftover slots from this week’s notes. Do not dump the whole bank.
+- Clock: **5 minutes**. If he is still clicking, stop. Prelims skill lives on Tab 1.
+- **Miss** = paper miss: Mistake Bank atom at **+1**, then the **same** revisit protocol (15-day while inside 90 days; 30-day after; a repeat bumps `Repeat Count` and resets to Day 1). Patch the cluster knowledge graph. **No extra Day-1 row.**
+- **Hold** = paper hold: if that fact was an active MST, resolve it the same way (15-day next due). If it is a new class fact still on Ghost Recall Day-1, do **not** skip tomorrow’s Q1–Q2 — same as a paper hold on a fresh lecture.
+- Same fact missed on paper **and** flash that night = **one** MST.
+
+## PYQs (about 5 of the 20 on Tab 1)
+
+1. Themes he **already has notes** for (`notes-index.json` + today’s classes).
+2. Copy stem + options from `_pyq-index.json`. Label **PYQ** + `CSE-YYYY-Qnn`.
+3. Check `_pyq-log.md`. Do **not** reuse an ID. Do **not** invent a PYQ. Years: **2016–2026**.
+4. After he answers Tab 1: log the five IDs (theme, cluster, ✅/❌).
+5. PYQ extra → `### Update — D Month YYYY (UPSC CSE Prelims YYYY)` on the original note. Patch that cluster. **No extra Day-1 row.**
+
+## Scoring handshake (after Nik finishes)
+
+Every evening / AWP MCQ canvas **must** have a **Send score** button at the **top** of the canvas and again at the **bottom** of Tab 1 (after the last stem). Do not ask him to paste `1-b, 2-a` in chat.
+
+On click:
+1. Reveal keys on the board.
+2. Write a `scorecard` object into `useCanvasState` (sidecar `.canvas.data.json`).
+3. `dispatch({ type: "newComposerChat", userPrompt })` with Tab 1 answers (`1-b, 2-a, …`), keys, misses (`picked x key y`), blanks, PYQ IDs, **and flash misses** (`F3 picked b key a (SOC)`), and: *Mark this attempt. Do not ask me to retype answers. Apply +2/−0.66 to Tab 1 only. Flash has no marks. Log PYQs. Paper and flash use the same Mistake Bank protocol (+1, then 15-day / 30-day / repeat reset). One MST if the same fact. A flash hold of an active MST is a paper hold.*
+
+Put **Send score** at the top, at the bottom of Tab 1, **and** at the bottom of Tab 2 (so flash is in the sidecar when he clicks).
+
+That click opens a **new** chat with the canvas @mentioned and the score already in the first message. Stay in that chat to log PYQs / Mistake Bank.
+
+If he types **score** / **done** in the old chat instead: Read the sidecar `*.canvas.data.json` (`answers` + `flash` + `scorecard`). Do not ask him to retype.
+
+Fallback only if both the prompt and the sidecar are empty: ask which numbers were wrong.
+
+Agent computes **+2 / −0.66** for Tab 1 only. Flash Tab 2 has **no marks**. Log the five PYQ IDs. Missed **paper** items **and** missed **flash** items → Mistake Bank with the **same** gap as a paper miss (+1, then 15-day / 30-day / repeat reset). Same fact twice that night = one atom. A flash **hold** of an active MST is logged the same as a paper hold.
+
+## Reveal colors (mandatory)
+
+After **Send score** / flash reveal, do **not** paint pick and key the same blue.
+
+- **Key** = `theme.diff.insertedLine` fill + `theme.category.green` border, label `· Key`.
+- **Wrong pick** = `theme.diff.removedLine` fill + `theme.category.red` border, label `· Your pick`.
+- **Correct pick** (pick = key) = green only, label `· Key (your pick)`.
+- Before reveal, selected option may stay accent blue.
+
+Copy this `McqList` option styling onto every new evening canvas. Do not invent hex.
+
+## After Tab 1 and Tab 2
+
+Treat every flash item like a paper item for revision (tracker + Mistake Bank + Next Due). Only the score is different.
+
+Missed **paper** MCQ → Mistake Bank atom at +1, then 15-day (30-day after 90 days).
+Missed **flash** MCQ → **same**. Do not also add a Day-1 cluster row.

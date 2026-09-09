@@ -110,7 +110,23 @@ Yesterday’s note: mitigation cannot put the cryosphere back this century → *
 
 *The Hindu* (Ananth Krishnan): a Nepal–China **glacial collapse** will **not** halt China’s **Yarlung Zangbo** mega-dam. Mechanism / Rasuwa river-chain stay above. Dam facts (1.2 trillion yuan, five stations, Great Bend, 15th FYP) → `September_2026/2026-09-06_Current_Affairs.md` (`CA-260906-01`). No extra Day-1 row on this cluster.
 
+### Update — 9 September 2026
+
+*The Hindu* (Ananth Krishnan, Beijing / *People’s Daily*). Chinese researchers tie **global warming** to the **26 August** Nepal–China-border glacial collapse. **No extra Day-1.**
+
+**Inventory (clip, six decades, Tibetan Plateau glacier area):** **51,000 sq. km** then **44,000 sq. km** → now **39,000 sq. km**.
+
+| Scale | Shrink (clip) |
+|:---|:---|
+| Southern plateau — **Gangdise** (Trans-Himalaya, includes **Mount Kailash**), **Nyenchen Tanglha**, **Himalayas** | about **40%** in 60 years |
+| Whole plateau | **24%** |
+
+**>14,000** glacial lakes on the **Qinghai–Tibet Plateau**, expanding; **Glacial Lake Outburst Flood (GLOF)** + landslide risk. **Most pronounced** lake growth: Himalaya close to China’s **southern borders** (India and Nepal downstream). Clip ask: closer **mapping** and **data sharing**.
+
+Kang Shichang / Nie Yong — Institute of Mountain Hazards and Environment, **Chinese Academy of Sciences**, Chengdu. Class GLOF = climate **loads** the cryosphere, it does not invent the flood — `ENV-02-07`.
+
 ---
 
 <!-- 2026-08-29: Current Affairs from The Hindu — Nepal Rasuwa ice-rock collapse on Lhende Khola / Bhotekoshi-Trishuli; new moraine-dammed lakes; NDMA 30-45 min GLOF warning limit. -->
 <!-- 2026-09-06: Pointer only — glacial-collapse hook reused for Yarlung dam; full dam note is 6 Sep CA. -->
+<!-- 2026-09-09: Chinese inventory 51k/44k→39k sq km; 40%/24%; >14k lakes; southern-border GLOF watch. Same CA-260829. -->

@@ -72,6 +72,7 @@
 | GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-09 | 4 | 70.0% | 2026-09-11 | Somewhat | 2013, 2017, 2025 | Borrowed pairs + CA machinery held. PYQ miss: Art **50 / 51A / 24** all three (`MST-066`). |
 | Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-07 | 2 | 85.0% | 2026-09-10 | Somewhat | - | BIT State-heavy held. 60→62 backlog held; **merit-based / not automatic** missed (`MST-051`). Cluster +3 **10 Sep**. |
 | Current_Affairs | 06 September 2026 (Yarlung dam + BRICS payments) | 2026-09-07 | 1 | 100% | 2026-09-10 | Confident | - | Yarlung = Brahmaputra + 5 stations; India = cost/speed ≠ dump dollar. Trap: 1.2 trillion yuan not named. Cluster +3 **10 Sep**. |
+| Current_Affairs | 09 September 2026 (WDFC + India–Japan + Chagos) | 2026-09-09 | 0 | 0% | 2026-09-11 | New | - | **CA-260909** parked **11 Sep**. Map: **JNPT → Dadri**. **UNICORN** = BEL MoU **Nov 2024**; **Veer Guardian 9–22 Sep**. Chagos: May 2025 deal **on hold Apr 2026**; Maldives claim. Glacier numbers on **29 Aug** note. |
 
 
 ---
