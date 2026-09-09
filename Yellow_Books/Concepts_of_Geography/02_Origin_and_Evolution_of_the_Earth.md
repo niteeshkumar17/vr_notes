@@ -36,6 +36,7 @@ Same names as Ch 1, slightly different wording. **Use Ch 1 + Geomorphology as th
 - Diameters match class: equatorial **~12,756 km**, polar **~12,714 km** (book also **7,900 miles** for polar).
 - Rotation → bulge at equator, flatten at poles.
 - Book term: **oblate ellipsoid**, commonly called **geoid** (“Earth-like”). Class sequence is **oblate spheroid → geoid**. Same exam idea: not a perfect sphere; treat as sphere for most sums.
+- **UPSC / Test 1 (9 Sep):** geoid = model of **global mean sea level** for precise elevations — **not** “perfectly spherical.”
 
 ### Evidence of sphericity (not in class — learn this list)
 
@@ -114,6 +115,7 @@ Equator: **12 h** day **every** day (class). Arctic Circle: Sun **does not set**
   **Ignore** any line that says time *falls* as you go east — the same chapter’s worked sums use the class rule.
 - Standard meridians usually multiples of **15°** or **7°30′**.
 - **Indian Standard Time (IST):** **82°30′ E**, book: through **Mirzapur**. IST = **GMT + 5 hours 30 minutes** because \(82.5 \times 4 = 330\) minutes. (Class had 82½° E and the 7½° rule; **Mirzapur** is the extra name.)
+- **City lock (Test 1, 9 Sep):** **Raipur** is nearest that meridian among Bengaluru / Delhi / Kolkata / Raipur.
 - Wide countries: several meridians. Book records: **France 12** time zones (overseas territories), **USA 11**. Class assignment was to list multi-zone countries — these two numbers are the book’s.
 
 **Worked example (book):** Greenwich **7:30 PM**; find local time at **112.5° W**.  
@@ -165,3 +167,5 @@ Equator = **exactly 12 h**. Capricorn = NH winter, **&lt; 12 h**. Cancer and Arc
 | IST | Indian Standard Time |
 | NH | Northern Hemisphere |
 | PYQ | Previous Year Question |
+
+<!-- 2026-09-09: Test 1 extras — geoid = mean sea-level model not sphere; IST nearest city among the four = Raipur. Patch GEO-01, no extra Day-1. -->

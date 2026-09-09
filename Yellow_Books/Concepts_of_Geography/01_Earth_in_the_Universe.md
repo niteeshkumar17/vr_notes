@@ -47,6 +47,11 @@
 - Also called the **expanding universe hypothesis**.
 - Book body: universe began as a **singularity** (tiny ball, infinite density and temperature) ≈ **13.7 billion years** ago; chapter recap also writes **13.8 billion years**. Same order of magnitude — not two theories.
 - That event starts **time, space, matter and energy**. Rapid expansion continues.
+
+### Update — 9 September 2026 (Test 1 — Big Bang vs nebular)
+
+**Both** statements in the paper hold with this chapter: (1) Big Bang = origin from a **singularity**. (2) **Nebular hypothesis** = accumulation of **interstellar gas** (and dust) → star / planetary system (Kant–Laplace disc → planets and moons). Do not treat nebular as a rival to the Big Bang for the *whole universe*.
+
 - **Edwin Hubble (1920):** galaxies recede; farther galaxies recede **faster**. Evidence = **redshift**. This recession rule is **Hubble’s Law** — main observational support for the Big Bang.
 - Early universe: energy → matter; first atoms in the **first three minutes**; expansion cools the mix.
 - **Four fundamental forces** (book order): **gravity** (weakest, infinite range) · **weak nuclear** · **electromagnetic** · **strong nuclear** (strongest, short range).
@@ -344,3 +349,5 @@ ISS 1998/400 km · Tiangong 2022 · BAS 2035
 | Sgr A* | Sagittarius A* |
 | TNO | Trans-Neptunian Object |
 | UPSC | Union Public Service Commission |
+
+<!-- 2026-09-09: Test 1 extra — Big Bang = singularity; nebular = star/planets from interstellar gas, not a rival origin of the whole universe. Patch GEO-11, no extra Day-1. -->

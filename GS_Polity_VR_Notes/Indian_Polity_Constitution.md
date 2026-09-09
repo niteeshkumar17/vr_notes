@@ -307,6 +307,27 @@
     *   *No external dual citizenship:* Unlike many European countries, you cannot hold citizenship of India and another country simultaneously.
 *   Irrespective of multiple social identities (caste, class, race, religion, state of origin), there is only **one political identity** for the State vis-à-vis its people: **Citizen of India**.
 
+### Update — 9 September 2026 (Test 1 — borrowed features + Assembly machinery)
+
+Test extras on this class note. **No extra Day-1.**
+
+**Sources (do not invert USA / Britain):**
+
+| Feature | Borrowed from | Trap |
+|:---|:---|:---|
+| **Single citizenship** | **Britain** | **Not USA** (USA = dual: Union + state) |
+| **Judicial review** | **USA** | **Not Britain** |
+| **Concurrent List** | **Australia** | — |
+| **Fundamental Duties** | **USSR** | — |
+| **First-past-the-post** | **Britain** | — |
+| **Quasi-federal / strong Centre + residual** | **Canada** | Not Ireland |
+| **Directive Principles of State Policy** | **Ireland** | Not Canada |
+| **Liberty, Equality, Fraternity** | **France** | — |
+
+**Drafting Committee (7):** Ambedkar (Chair), N. Gopalaswami Ayyangar, Alladi Krishnaswami Ayyar, K.M. Munshi, **Syed Mohammad Saadullah**, **N. Madhava Rau** (replaced B.L. Mitter), T.T. Krishnamachari (replaced D.P. Khaitan). **Not** Gopinath Bardoloi. **Not** J.B. Kripalani.
+
+**Constituent Assembly lock:** seal = **elephant**, not lion. Constitutional Advisor = **B.N. Rau**. Chief draftsman = **S.N. Mukherjee**. Calligraphy / decoration = **Nandalal Bose** (Shantiniketan).
+
 ---
 
 ### Feature ⑤ — Federal Polity with Unitary Bias
@@ -527,6 +548,11 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 | 2 | **Objectives Resolution** — moved in the Constituent Assembly by Jawaharlal Nehru (13 Dec 1946) |
 | 3 | **UN Charter** — influenced the universal values enshrined in the Preamble |
 | 4 | **Preamble of the US Constitution** — *"We the People"* model (1787–89) — USA was the **first country to have a Preamble** |
+
+### Update — 9 September 2026 (Test 1 — Objectives Resolution)
+
+**Held in 1946:** social, economic and political **justice**; India’s role in **world peace** and the welfare of mankind.  
+**Not a 1946 lock:** India as an independent **socialist** State (**Socialist** in the Preamble = **42nd CAA, 1976**). The Resolution’s safeguards line is **minorities, backward and tribal areas, depressed and other backward classes** — do **not** rewrite that as modern **OBC** “betterment.”
 
 *   The Preamble is the **"Most finely worded document"** (1999 — SC observation).
 *   It is a **Document of Collective Wisdom** — reflects the cumulative aspirations of the Constituent Assembly.
@@ -955,6 +981,8 @@ The Preamble is the **introduction / preface / summary** of the Constitution of 
 *   Why Constitution? Why airports, police stations, hospitals, Delhi Metro, educational institutions, government policies? → **All for fairness.**
 *   The **undercurrent of justice** can be felt **throughout the Constitution** — every provision ultimately aims to establish a fair society.
 *   **Inspired by:** Russian Revolution (Marx's idea — replacing injustice of "haves and have-nots" with justice through a socialistic state → applied in USSR).
+
+<span style="color: #e53e3e;">**Prelims trap (Test 1, 9 Sep):** the Constitution does **not** *always* put individual rights above social justice, and social justice does **not** *always* limit individual liberties. FR and DPSP are a **balance**, not a one-way priority. Both “always” statements are false.</span>
 
 #### 13.2 Liberty
 
@@ -1518,6 +1546,7 @@ Over 8 decades, India has witnessed **three distinct modalities** of territorial
 
 ---
 
+<!-- 2026-09-09: Test 1 extras — borrowed features USA/Britain invert; Drafting Committee 7; CA elephant/B.N. Rau/S.N. Mukherjee/Nandalal Bose; Objectives Resolution justice+peace not socialist/OBC; FR vs social justice neither always. No extra Day-1. -->
 <!-- 2026-08-07: Corrected lecture dates for Polity Lectures 01, 02 & 03 to 3–5 August 2026 (L01: 3 Aug, L02: 4 Aug, L03: 5 Aug). -->
 <!-- 2026-08-11: Enriched with 11 August 2026 legal/constitutional developments (PMLA Double Jeopardy ruling, Tribunals Reforms Bill 2026 / NTC, Official Language Art 343 & Census data). -->
 <!-- 2026-08-16: Added Lecture 04 content — Indian Secularism (Gandhi's Framework, Sarva Dharma Sambhavah, France Laïcité, State interference justification), Democracy (Direct/Indirect, Presidential/Parliamentary), Republic (Monarchy contrast, significance), Preamble Aspirations (Justice from Russian Rev, Liberty with TEBFW + positive/negative liberty, Equality of Status & Opportunities, Fraternity as Bandhutvam/oneness/bottom-up), Part I Union & its Territories (Art 1: Name, UoI vs ToI, Centre-State analogy, USA federation vs India union, 3 problematic princely states, Ambedkar's reasoning for "Union" over "Federation", Indestructible Union with Destructible States). -->

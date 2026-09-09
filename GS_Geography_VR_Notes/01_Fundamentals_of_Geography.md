@@ -63,6 +63,12 @@
 3. Newton reasoned that spin slightly misshapes the Earth: it **bulges at the equator** and is **flattened at the poles** → **oblate spheroid**.
 4. Today the Earth is considered a **geoid** — the shape of the Earth is uniquely Earth-shaped.
 
+### Update — 9 September 2026 (Test 1 — geoid + IST city)
+
+**Geoid (UPSC voice):** a model of **global mean sea level** used to measure precise surface elevations. **Not** a perfect sphere. **Not** a contour of equal altitude. Class still: Newton **oblate spheroid** → uniquely Earth-shaped. You clicked “perfect sphere” — that is the trap (`MST-062`).
+
+**IST meridian 82°30′ E (Mirzapur).** Among Bengaluru / Delhi / Kolkata / **Raipur**, **Raipur** is nearest. Delhi and Bengaluru sit near **77° E**; Kolkata near **88° E**. You clicked Delhi (`MST-061`).
+
 | Measurement | Value |
 |-------------|-------|
 | Polar diameter (slightly flattened) | ≈ 12,714 km |
@@ -453,7 +459,7 @@ Evidence: Magellan **1519–1522**; circular horizon that grows with height; shi
 Axis **23.5°** to the normal = **66.5°** to the ecliptic. Revolution **365.242** days → leap year. **Perihelion 2–4 January, 147.1 million km**; **aphelion 3–6 July, 152.1 million km**. Distance change is **not** why seasons exist. Book’s five: revolution, rotation, **tilt**, **parallelism** (axis at **Polaris**), **sphericity**. Dawn vs twilight: sun still **below** horizon; sky lit by scatter. If axis were vertical, day = night **everywhere all year**.
 
 **Grid / time — extras**  
-Parallels at 1° = **179**. **1° longitude at 60° ≈ 55.5 km** (class ≈ 56). IST meridian **82°30′ E** named **Mirzapur**; \(82.5 \times 4 = 330\) min = **GMT+5:30**. Book: **France 12** time zones, **USA 11**. Greenwich 7:30 PM → **112.5° W** = **noon**. East = **later** (if a book line says the opposite, ignore it). IDL calendar: class table still rules.
+Parallels at 1° = **179**. **1° longitude at 60° ≈ 55.5 km** (class ≈ 56). IST meridian **82°30′ E** named **Mirzapur**; \(82.5 \times 4 = 330\) min = **GMT+5:30**. Book: **France 12** time zones, **USA 11**. Greenwich 7:30 PM → **112.5° W** = **noon**. East = **later** (if a book line says the opposite, ignore it). IDL calendar: class table still rules. **City trap (Test 1, 9 Sep):** nearest to 82°30′ E among Bengaluru / Delhi / Kolkata / Raipur = **Raipur**.
 
 **PYQs in the chapter (9 Sep traps)**  
 - **2024** 21 June **more than 12 h** sun: Cancer **and** Arctic Circle, **not** Equator (exactly 12), **not** Capricorn. **(d)**  
@@ -479,5 +485,6 @@ Parallels at 1° = **179**. **1° longitude at 60° ≈ 55.5 km** (class ≈ 56)
 *   **Westerlies:** Blow from **Subtropical High Pressure Belts** (30° N/S) towards **Subpolar Low Pressure Belts** (60° N/S).
 *   **Polar Easterlies:** Blow from **Polar High Pressure Belts** towards **Subpolar Low Pressure Belts**.
 
+<!-- 2026-09-09: Test 1 extras — geoid = MSL model not sphere (MST-062); IST 82°30′ E nearest city = Raipur not Delhi (MST-061). No extra Day-1. -->
 <!-- 2026-08-30: L5 30 Jul / notebook 30/7/26 — quotes, IDL, DST, jet lag, Zulu assignment. Tropical DST limit split from benefits. Pressure belts still undated. -->
 

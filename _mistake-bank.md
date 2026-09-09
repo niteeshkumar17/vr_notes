@@ -68,6 +68,8 @@
 | MST-058 | CA-260907-04 | Bhutan = first **WHO SEARO**, not “South Asia” | **June 2023** + **One Health** held. Region is WHO **South-East Asia (SEARO)**. He wrote **South Asia** again **9 Sep**. | 2026-09-08 | `Fact Error` | 2 | 2026-09-10 | Active (repeat 2) ⚠️ |
 | MST-059 | MOD-B7-04 | Trusteeship ≠ Marx; Bhoodan **and** the failed result both hold | Trusteeship = **change of heart / need not greed**, not “managed by a trust.” **Bhoodan 1953 / Vinoba / Pochampalli / 1/6** and **Nehru = utopia / failed** both hold = **two** pairs. Evening + Ghost Recall **9 Sep** still no 1/6 and no pair-count. | 2026-09-08 | `Concept Error` | 2 | 2026-09-10 | Active (repeat 2) ⚠️ |
 | MST-060 | ST-05-03 | n-CoV-19 = **SARS-CoV-2**, not SARS-1; MERS = **2012** | **n-CoV-19 → SARS-CoV-2** (Dec 2019). **SARS-CoV-1 = 2002–03** China / HK / S. Korea. **MERS = 2012–13 Saudi**, not China. **Repeat 9 Sep:** 2002–03 and China/HK/SK parked on the wrong virus. | 2026-09-08 | `Fact Error` | 2 | 2026-09-10 | Active (repeat 2) ⚠️ |
+| MST-061 | GEO-01-02 | IST 82°30′ E city = **Raipur**, not Delhi | Test 1 (9 Sep): nearest to **82°30′ E** among Bengaluru / Delhi / Kolkata / Raipur = **Raipur**. Delhi and Bengaluru ≈ **77° E**; Kolkata ≈ **88° E**. Named meridian = **Mirzapur**. | 2026-09-09 | `Fact Error` | 1 | 2026-09-11 | Active (atomic +1) ⚠️ |
+| MST-062 | GEO-01-01 | Geoid = mean sea-level model, not a perfect sphere | Test 1 (9 Sep): geoid = **global mean sea level** used for precise elevations. **Not** a perfect sphere. Class still: Newton oblate spheroid → uniquely Earth-shaped. | 2026-09-09 | `Concept Error` | 1 | 2026-09-11 | Active (atomic +1) ⚠️ |
 
 ---
 
