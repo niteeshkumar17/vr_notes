@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-10
-*   **Active Micro-Topics:** 557
+*   **Active Micro-Topics:** 565
 *   **Overall Database Mastery:** 77.4% 📈
 *   **Today's Recall Completed:** Ghost Recall **5.5 / 8**. `MST-059` / `063` / `064` resolved. `MST-057` **repeat 3**. New: `MST-067` Hubble/nebular · `MST-068` Mauritius TRC+PPT.
 *   **Active Learning Gaps Detected:** `MST-057` JSY / 62.2% **repeat 3** · `MST-065` JSY only-two **repeat 2** · `MST-029` DDT **repeat 2** · `MST-067` Hubble ≠ clouds · `MST-068` Mauritius **April 2024 / TRC+PPT** · leftover `MST-066` Art 50/51A/24 · `MST-062` geoid
-*   **New Topics Ingested Today:** *(morning session — no new class ingest)*. **SOC-01** + **IR-03** first-pass held → **13 Sep**. **CA-260909** stays **11 Sep Q3–Q6**. Do **not** steal tomorrow’s class Q1–Q2.
+*   **New Topics Ingested Today:** **SOC-02** (Social Issues L2, 10 Sep — caste / dominant caste / Mandal / reservation). **Next Due 11 Sep = Q1.** No second 10 Sep class yet → **Q2** = catch-up, do **not** steal **CA-260909** from Q3–Q6. **SOC-01** + **IR-03** stay **13 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -504,7 +504,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260805-01 | Digital Arrest Scams: SC Directs RBI Mule Account SOPs & I4C Cyber Crime | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mule Accounts SOP` $\leftrightarrow$ `I4C Framework` $\leftrightarrow$ `e-Zero FIR` $\leftrightarrow$ `Cyber RMS Portal` |
 | CA-260805-02 | Special Intensive Revision (SIR) of Electoral Rolls & EC Powers (Art 324/326) | 2 | ★★★★★ | Day 1 | 2026-08-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Article 324` $\leftrightarrow$ `Article 326 Adult Suffrage` $\leftrightarrow$ `BLO Enumeration` $\leftrightarrow$ `Electoral Roll SIR` |
 | CA-260806-03 | Asiatic Lion Population & Barda Sanctuary | 2 | ★★★★☆ | Day 3 | 2026-08-10 | 95% | High 🌟 | 96% | 92% | 1 | 0 | - | 2026-08-07 | Fast | `Gir National Park` $\leftrightarrow$ `Barda WS` $\leftrightarrow$ `CDV Risk` |
-| CA-260807-01 | Creamy Layer in SC/ST Quotas & Centre Stand | 3 | ★★★★★ | Day 20 | 2026-09-09 | 100% | High 🌟 | 99% | 97% | 4 | 0 | - | 2026-08-20 | Fast 🟢 | `Article 15(4) & 16(4)` $\leftrightarrow$ `Indra Sawhney 1992` $\leftrightarrow$ `Davinder Singh 2024` |
+| CA-260807-01 | Creamy Layer in SC/ST Quotas & Centre Stand | 3 | ★★★★★ | Day 20 | 2026-09-09 | 100% | High 🌟 | 99% | 97% | 4 | 0 | - | 2026-08-20 | Fast 🟢 | `Article 15(4) & 16(4)` $\leftrightarrow$ `Indra Sawhney 1992` $\leftrightarrow$ `Davinder Singh 2024` $\leftrightarrow$ `Creamy=families not castes` $\leftrightarrow$ `Social>income` $\leftrightarrow$ `OBC only not SC/ST` $\leftrightarrow$ `SOC-02 patch 10 Sep` |
 | CA-260807-02 | SC Ramsar Wetland Mining Buffer Order | 2 | ★★★★★ | Day 2 | 2026-08-11 | 100% | High 🌟 | 98% | 95% | 1 | 0 | - | 2026-08-09 | Fast 🟢 | `Ramsar 1971` $\leftrightarrow$ `Asan Reserve` $\leftrightarrow$ `Glaw Lake` $\leftrightarrow$ `WPA 1972` |
 | CA-260807-03 | 12th National Handloom Day & Handloom 4.0 | 2 | ★★★★☆ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Swadeshi 1905` $\leftrightarrow$ `VisioNXT` $\leftrightarrow$ `IIHT` $\leftrightarrow$ `72% Women` |
 | CA-260807-04 | Kerala Police 'My Police Station' Reforms | 2 | ★★★★☆ | Day 1 | 2026-08-08 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Democratic Policing` $\leftrightarrow$ `Prakash Singh 2006` $\leftrightarrow$ `Custodial Crimes` |
@@ -770,6 +770,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | IR-03-05 | Unipolar LPG; non-state MNCs/NGOs/TTN; 9/11 ~3k; 2008 → protectionism | 2 | ★★★★★ | Day 3 | 2026-09-13 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-10 | Fast 🟢 | `Globalisation=free trade` $\leftrightarrow$ `Al-Qaeda Afghanistan` $\leftrightarrow$ `Arms/drugs dark side` $\leftrightarrow$ `Tariffs=protect industry` |
 | IR-03-06 | Trump de-globalisation; BRICS/NDB; China revisionist; new CW; Indo-Pacific | 3 | ★★★★★ | Day 3 | 2026-09-13 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-10 | Fast 🟢 | `Jan 2017 containment` $\leftrightarrow$ `Political communist/econ capitalist` $\leftrightarrow$ `2022/23/26 proxies` $\leftrightarrow$ `Atlantic→Indo-Pacific` $\leftrightarrow$ `De-dollarisation` |
 
+### Society (Caste, Power and Reservation — Lecture 2, 10 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| SOC-02-01 | Dominant caste: land + wealth + numbers; four features; desanskritization | 3 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Region not whole State` $\leftrightarrow$ `Yadav Gurugram/Ahirwal` $\leftrightarrow$ `Jat Panipat–Rohtak` $\leftrightarrow$ `Reddy AP / Patel GJ / Maratha MH / Kurmi BR / Gujjar RJ+Noida` $\leftrightarrow$ `Pride ≠ imitate` $\leftrightarrow$ `Panchayat+boycott` |
+| SOC-02-02 | Urban caste losing not lost; anonymity+density; associations keep endogamy | 2 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Occupation dissociated` $\leftrightarrow$ `UC×LC rarest` $\leftrightarrow$ `Hostels/coaching/marriage gardens` $\leftrightarrow$ `Consciousness alive` |
+| SOC-02-03 | OBC post-independence; Art 340 SEBC; 1953 not accepted; Mandal 1978/80; 27% in 1990 | 3 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Buckets 4–5=OBC / 6=SC` $\leftrightarrow$ `1931 last caste census` $\leftrightarrow$ `~60% pop` $\leftrightarrow$ `SC15+ST7.5 from 1950` $\leftrightarrow$ `49.5%` $\leftrightarrow$ `Social+educational not economic` |
+| SOC-02-04 | Indra Sawhney 1992: uphold; data; creamy layer OBC-only families; subclass last mile | 3 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Must exclude creamy` $\leftrightarrow$ `Social≠income` $\leftrightarrow$ `IAS=creamy / driver+land≠` $\leftrightarrow$ `Subclass=will not must` $\leftrightarrow$ `Rohini 2017/2022 15 castes~90%` $\leftrightarrow$ `Centre waits 2026 census` $\leftrightarrow$ `CA-260807-01 patch` |
+| SOC-02-05 | Two OBC lists independent; one Central SC/ST list; casteisation of politics after 1990 | 2 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Central jobs=central list` $\leftrightarrow$ `State PCS=state list` $\leftrightarrow$ `States cannot own SC/ST list` $\leftrightarrow$ `SP Yadav UP / RJD Yadav BR / INLD Jat HR` $\leftrightarrow$ `Vote caste` |
+| SOC-02-06 | Social empowerment=reservation; Art 15/16 equality vs 15(4)/16(4) equity; SPECS | 2 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Goal=social not econ/political` $\leftrightarrow$ `Historic disadvantage` $\leftrightarrow$ `Affirmative action` $\leftrightarrow$ `S=SC/ST/OBC P=old/child/PwD E=EWS G=women/trans` |
+| SOC-02-07 | ALIVE: flexible; associations/panchayats/parties; reservation fluid+static | 2 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Past→present by flexibility` $\leftrightarrow$ `New IDs=OBC/SC` $\leftrightarrow$ `Relevant=marriage/politics/rural/quota/UT` $\leftrightarrow$ `Diluted=urban/occupation/UC` $\leftrightarrow$ `Quota by birth binds caste` |
+| SOC-02-08 | Social mobility takes time; UT bucket 6; Art 17 weak in India; PCR 1955; PoA 1989 | 3 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Necessary evil` $\leftrightarrow$ `Do not withdraw when IAS` $\leftrightarrow$ `Dalit village vs main` $\leftrightarrow$ `Art 23 bonded continues` $\leftrightarrow$ `Law≠social change India` $\leftrightarrow$ `PoA non-bailable+cognizable` $\leftrightarrow$ `Identities next class` |
+
 ---
 
 
@@ -778,7 +790,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (11 Sep) Q1–Q2:** 10 Sep’s two classes once ingested. Do **not** steal **CA-260909** from Q3–Q6
+  1. **Tomorrow (11 Sep) Q1–Q2:** **SOC-02** (Social Issues L2) is **Q1**. No second 10 Sep class yet → **Q2** = catch-up. Do **not** steal **CA-260909** from Q3–Q6
   2. **Q3–Q6:** **CA-260909** (WDFC / UNICORN / Chagos) · CA **17–23 Aug**. Polity President **+3** is Q7. Medieval **+7** if a leftover slot
   3. **Q8:** `MST-057` JSY/62.2% **repeat 3** · `MST-066` Art 50/51A/24 · `MST-029` DDT **repeat 2**. Leftover: `MST-065` / `MST-062` geoid / `MST-067` Hubble / `MST-068` Mauritius. Drill `MST-057` inside Q8
   4. **SOC-01** + **IR-03** + **CA-260908** + GEO-11-02/05 → **13 Sep**. `GEO-11-01` atom **11 Sep**. GEO-11-03/04/06/07 untested → **13 Sep** buffer. Tax +3 did **not** advance (`ECO-04-13` / `04-14` atoms). MOD-B7 / ST-05 / FRA → **12 Sep**. Pallava / Home Rule / MOD-B6 / GEO-09 Day-3 leftover (not asked 10 Sep)

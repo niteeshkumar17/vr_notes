@@ -9,7 +9,7 @@
 > **Also relevant for:** Essay; Ethics (tradition vs modernity); GS-II reservation / secularism later.  
 > **How to read class shortcuts:** full form on first use, then the short form. Glossary at the end.
 
-**Parked for later classes — do not treat as done today:** population; urbanisation; social empowerment = **reservation**; communalism / regionalism / secularism; globalisation; **role of women and women’s organisations** (Self Help Groups (SHGs)); poverty and developmental issues (first Governance class). **Caste and power** starts next class.
+**Parked for later classes:** population; urbanisation; communalism / regionalism / secularism; globalisation; **role of women and women’s organisations** (Self Help Groups (SHGs)); poverty and developmental issues (first Governance class); **untouchable identities**. **Caste and power** + social empowerment = **reservation** → `02_Caste_Power_and_Reservation.md` (Lecture 2 — 10 September 2026).
 
 **Mains theme Sir locked for caste:** will caste **live or die**? Today’s answer-frame: it stays alive because it is **rigid by birth** and **flexible in occupation**.
 
@@ -211,7 +211,7 @@ Evening miss (`MST-064`): census I+II held. **Sanskritization did not** get Lowe
 
 `MST-064` **held** (counterfactual + **desire + imitate**). Endogamy undiluted held. Slip: **1871** = first caste **list**; Varna classification = **1881**; UC/LC stamp = **1891**.
 
-**Next class:** **Caste and power**.
+**Caste and power / reservation:** `02_Caste_Power_and_Reservation.md` (Lecture 2 — 10 September 2026). Next class: **untouchable identities**.
 
 ---
 

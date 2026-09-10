@@ -30,6 +30,10 @@
 * **Pre-existing "Means Test" in Welfare Schemes:** The Centre highlighted that a "means test" (income threshold) is already actively enforced across most government welfare, scholarship, and development schemes for SC/STs to ensure targeted benefit delivery to the poorest. However, constitutional reservation under Part III aims at **representation and social empowerment**.
 * **Lack of Empirical Basis:** Introducing income criteria without a nationwide socio-economic survey risks denying constitutional guarantees of equal opportunity ([Article 16](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Articles/Article_16.md)).
 
+### Update — 10 September 2026 (Social Issues L2)
+
+Class lock on *Indra Sawhney* (cluster `SOC-02`, no extra Day-1): creamy layer is **families** inside an OBC caste, **social and educational** status first (income is a proxy); **OBC only**, not SC/ST. Sub-classification allowed for OBCs so benefits reach the last mile; Centre has **not** subclassified the central list (**Rohini Commission 2017**, report **2022**: about **15** OBC castes take **~90%** of the benefit). Full lecture: `GS_Society_VR_Notes/02_Caste_Power_and_Reservation.md`.
+
 ---
 
 ## Topic 2: SC Clarification on Ramsar Wetland Sites & Mining Buffer Zones
