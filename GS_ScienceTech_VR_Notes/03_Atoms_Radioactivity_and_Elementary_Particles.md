@@ -4,7 +4,7 @@
 
 > **Date of Lecture:** 3 September 2026  
 > **Date Added:** 2026-09-03  
-> **Faculty:** **Shobhit Sir** (continues Nuclear Technology from **Lecture 08**, 26 August — `02_Nuclear_Technology_Civilian_Military_Triad.md`)  
+> **Faculty:** **Shobhit Sir** (continues Nuclear Technology from **Lecture 08**, 26 August — `02_Nuclear_Technology_Civilian_Military_Triad.md`. **10 September** fission / fusion / reactors — `05_Nuclear_Fission_Fusion_and_Reactors.md`)  
 > **Source:** Vajiram & Ravi class + audio transcript + 7 handwritten notebook pages  
 > **Also relevant for:** Prelims (S&T / nuclear physics), GS-III (applications: dating, diagnosis, INO), Mains (contribution of Indians in S&T)
 
@@ -153,6 +153,10 @@ Because they barely interact, they keep information from **origin of the univers
 Every particle has a counterpart: proton ↔ antiproton, neutron ↔ antineutron, electron ↔ **positron**, neutrino ↔ antineutrino. Same mass, opposite charge.
 
 When a particle meets its antiparticle they convert to **energy as photons**. A high-energy photon can make a **particle–antiparticle pair**. Class: if antimatter could be made commercially it would be an extreme energy source; **CERN LHC** has made only tiny amounts.
+
+### Update — 10 September 2026 (Shobhit Sir, next nuclear class)
+
+Completed the close + four-force **range / strength** table. Full write-up: `05_Nuclear_Fission_Fusion_and_Reactors.md` (cluster **ST-06**). New locks only: **annihilation = mass → energy**; **pair production = energy → mass**. Neutron’s antiparticle is also **neutral**. **Graviton not yet discovered**. Range: strong and weak = **short**; electromagnetic and gravity = **infinite**. Strength order: **strong > EM > weak > gravity**. Antimatter scale: **<1 g** Earth→Moon; **>$60 trillion / 1 g**; CERN **~1 nanogram**.
 
 ---
 

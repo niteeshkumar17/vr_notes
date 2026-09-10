@@ -5,7 +5,7 @@
 > **Date:** 26 August 2026 | **Faculty:** Shobhit Sir | **Subject:** Science & Technology (Lecture 08)
 > **Source Material:** Class Notes (3 Pages) + Audio Transcript
 > **Topic Blueprint:** Nuclear Tech (Civilian Non-Energy & Military) $\rightarrow$ Food Irradiation & Agriculture $\rightarrow$ Nuclear Submarines $\rightarrow$ Ballistic vs Cruise Missiles $\rightarrow$ Nuclear Triad & NFU Doctrine
-> **Continued:** atoms, radioactivity, elementary particles — **Lecture 09 (3 September 2026)** in `03_Atoms_Radioactivity_and_Elementary_Particles.md`
+> **Continued:** atoms, radioactivity, elementary particles — **Lecture 09 (3 September 2026)** in `03_Atoms_Radioactivity_and_Elementary_Particles.md`. Fission / fusion / fuels / reactor internals — **10 September 2026** in `05_Nuclear_Fission_Fusion_and_Reactors.md`.
 
 ---
 
@@ -84,6 +84,10 @@
 ### C. Radioactivity
 - **Definition:** Spontaneous emission of energetic particles ($\alpha, \beta$) or electromagnetic radiation ($\gamma$) by unstable atomic nuclei attempting to achieve stability.
 - Gamma rays ($\gamma$) are the highest energy, shortest wavelength segment of the electromagnetic spectrum, possessing extreme penetrating power.
+
+### Update — 10 September 2026 (Shobhit Sir)
+
+Class went deep on fission vs fusion, fuels, enrichment, and reactor parts. **New facts only** live on `05_Nuclear_Fission_Fusion_and_Reactors.md` (**ST-06**). Locks that add to this sketch: **all commercial plants = fission**; fusion **not commercial** because **efficiency < 1**; **U-235 0.7% fissile / U-238 99.3% fertile**; **Th-232** fertile → **U-233**; **Pu-239** artificial; peaceful enrichment **3–5%**, weapons **>90%**; control rods **boron / cadmium**. Do not treat this 26 August sketch as the full fission class.
 
 ---
 
