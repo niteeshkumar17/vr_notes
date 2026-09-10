@@ -19,6 +19,7 @@ $$\text{Value of 1 MLA Vote} = \frac{\text{Total Population of State}}{\text{Tot
 - If remainder is $\ge 500$, add 1 to the quotient.
 - **Highest MLA vote value:** Uttar Pradesh (208).
 - **Lowest MLA vote value:** Sikkim (7).
+- `CSE-2023-Q80` (`MST-071`): more elective seats do **not** raise each MLA’s vote value. Puducherry > Arunachal **because** the population / elective-seats ratio is greater.
 </details>
 
 <details><summary>What is the formula for calculating the value of the vote of an MP?</summary>

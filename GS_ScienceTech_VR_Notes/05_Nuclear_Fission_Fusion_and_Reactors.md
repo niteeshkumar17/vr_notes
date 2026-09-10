@@ -81,6 +81,14 @@ Last class named the bosons. Today: **what each force does**, **range**, **relat
 
 **Named experiments (class):** China’s **EAST** reactor, nicknamed **artificial sun**; South Korea **K-STAR**. **ITER** = **International Thermonuclear Experimental Reactor** — **33 nations including India**, experimental fusion reactor being built in **France**. Class: among the most expensive science experiments; **technological goal = efficiency 10** (**50 MW** in → **500 MW** out). Greater detail **parked**.
 
+### Update — 10 September 2026 (UPSC CSE Prelims 2016 / 2022 + flash)
+
+`CSE-2016-Q79` **held**. If ITER succeeds, the immediate advantage is that India can **build fusion reactors** for power. Not thorium-for-uranium, not satellite navigation, not fission-reactor efficiency.
+
+`CSE-2022-Q28` **held**. Monazite is a source of **rare earths** and contains **thorium**. It does **not** occur in the **entire** Indian coastal sand (class: **east + south** coasts). In India, **government bodies only** can process or export monazite.
+
+Flash F7 **missed** (`MST-072`): today’s fusion **efficiency < 1** (why it is not commercial — paper Q4 held). ITER’s **goal** is **10**. Do not lock “<1 forever” as the ITER target.
+
 ```mermaid
 flowchart LR
   subgraph Fiss["Fission"]

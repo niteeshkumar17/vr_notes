@@ -159,6 +159,10 @@ Make-or-break tools sit on **Article 75(3)** (collective responsibility to LS). 
 2. Money Bills — introduce + override.
 3. **Discontinue National Emergency** — **special sitting of LS** (sessions class next).
 
+### Update — 10 September 2026 (UPSC CSE Prelims 2022)
+
+`CSE-2022-Q15` **missed** (`MST-070`). Exclusive power of Lok Sabha = **no-confidence against the Council of Ministers** only. **Ratifying a declaration of Emergency** is **not** LS-exclusive — class already: National Emergency / President’s Rule / Financial Emergency need **both Houses**; if LS is dissolved, **RS alone** can approve; **LS alone never**. **Impeachment of the President** (Art 61) is **not** LS-exclusive. He kept Emergency ratification + NCM.
+
 ---
 
 ## 7. NCM vs Censure Motion (POL-07-07)

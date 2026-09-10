@@ -57,6 +57,10 @@
 ### Update — 10 September 2026 (Ghost Recall)
 
 `MST-067`: singularity held. Hubble’s evidence is **redshift**, not clouds. Nebular = **solar-system disc**, **not** a rival of the **whole universe**. He marked nebular **True**.
+
+### Update — 10 September 2026 (evening paper)
+
+`MST-067` **held**: redshift, not clouds; nebular ≠ whole-universe rival.
 - Early universe: energy → matter; first atoms in the **first three minutes**; expansion cools the mix.
 - **Four fundamental forces** (book order): **gravity** (weakest, infinite range) · **weak nuclear** · **electromagnetic** · **strong nuclear** (strongest, short range).
 - Other evidence the book lists: **cosmic microwave background (CMB)** radiation, large-scale structure, abundance of light elements.

@@ -348,6 +348,10 @@ Test extras on this class note. **No extra Day-1.**
 
 Source-country extra already on this page: DPSP **Ireland**, Duties **USSR**, FR **USA**. Do not stop at “only one.”
 
+### Update — 10 September 2026 (evening paper)
+
+`MST-066` **held**: all three pairs (Art **50** / **51A** / **24**).
+
 ---
 
 ### Feature ⑤ — Federal Polity with Unitary Bias

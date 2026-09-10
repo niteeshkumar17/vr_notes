@@ -19,7 +19,7 @@
 | Current_Affairs | Current Affairs (08 August 2026) | 2026-08-08 | 0 | 0% | 2026-08-09 | New | 2017, 2019, 2023 | DPDP Act Sec 44(3) vs RTI Sec 8(1)(j), India-US Strategic Partnership & Flexible Realism, Pakistan-Turkiye-Saudi Mecca Trilateral Defence Pact. |
 | Current_Affairs | Current Affairs (11 August 2026) | 2026-08-11 | 0 | 0% | 2026-08-12 | New | 2018, 2021, 2024 | PMLA conviction vs Double Jeopardy (Art 20(2)/CrPC 300), English Language Policy (Art 343 & Census data), Tribunals Reforms Bill 2026 & NTC. |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 01: Strategy & Laws of Land) | 2026-08-16 | 8 | 100% | 2026-08-21 | Confident | 2012, 2017, 2022 | Mastered Magna Carta, Polity vs Politics, Parts/Schedules, Art 52/53/58. |
-| GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-09-06 | 5 | 85.0% | 2026-09-09 | Somewhat | 2018, 2020, 2022 | Ghost Recall first pass: Art 54 + 70th CAA Delhi/Puducherry; 1971 freeze. Trap: absolute example = **PEPSU 1954**; pocket = **Giani Zail Singh** / 1986 PO Bill. Cluster +3 **9 Sep**. |
+| GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-09-10 | 6 | 75.0% | 2026-09-11 | Somewhat | 2018, 2020, 2022, 2023 | Nominated-out of Art 54 **held** on articles. PYQ miss: more seats ≠ higher MLA vote (`MST-071`, `CSE-2023-Q80`). Drill inside **11 Sep** Q7 (President +3). |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04 & 05: Part I & Territorial Reorg) | 2026-08-17 | 2 | 100% | 2026-08-20 | Confident | 2013, 2014, 2016, 2019, 2024 | Mastered Indestructible Union / Destructible States, Territory vs Union of India, Berubari Union 1960, Maganbhai 1969, 100th CAA 2015. |
 | Current_Affairs | Current Affairs (11–16 August 2026) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2021, 2024 | Mastered Double Jeopardy vs PMLA (MST-013 Resolved), SC 9-Judge Mineral Royalty Entry 49/54 (MST-017 Resolved), GIM CAG Audit targets. Reviewing Zanskar glacier drainage basin (MST-019). |
 | Current_Affairs | Current Affairs (17 August 2026) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2017, 2020, 2023 | Added CA-260817-01 to CA-260817-03 (Delhi CEO SIR Electoral Rolls Digitisation & Rule 21A Deletion Safeguards; ONOE Parliamentary Accountability vs Truncated Terms; ONOE Federal Autonomy & Constitutional Amendments Matrix). |
@@ -41,12 +41,15 @@
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L4: Home Rule & Lucknow Pact) | 2026-09-08 | 3 | 62.0% | 2026-09-10 | Somewhat | 2015, 2016 | Evening 8 Sep **held** both locks (`MST-050` Resolved 🟢). Cluster +3 **10 Sep**. |
 | Evening MCQ | 9 Sep paper (SOC-01 + IR-03 + MST + 5 PYQ) | 2026-09-09 | 1 | 75.0% | 2026-09-10 | Somewhat | 2018, 2020, 2023, 2024, 2025 | **15/20 · 26.70/40**. Class 1–2, 4, 6, 8, 10–11, 14–15, 17–18, 20 held. PYQ 2/5. Miss: NSG≠NPT (`MST-063`); trusteeship **all three** (`MST-059` r3); Sanskritization UC (`MST-064`); JSY only-two (`MST-065`); Art 50/51A/24 (`MST-066`). Recovered SEARO / n-CoV / Raipur. |
+| Evening MCQ | 10 Sep paper (SOC-02 + ST-06 + MST + 5 PYQ) | 2026-09-10 | 1 | 80.0% | 2026-09-11 | Somewhat | 2016, 2022, 2023 | **16/20 · 29.36/40**. Class SOC/ST held. PYQ 2/5. Miss: Art 335 (`MST-069`); DDT (`MST-029` r3); NCM-only (`MST-070`); vote value (`MST-071`). Recovered JSY 62.2% / Art 50–51A–24 / Hubble / Mauritius. Flash 14/15 (`MST-072` ITER goal 10). Articles 12/15 (`MST-073`/`074`/`075`). |
+| GS_Society_VR_Notes | 02 — Caste, Power and Reservation (L2) | 2026-09-10 | 1 | 80.0% | 2026-09-11 | Somewhat | 2023 | Evening class items held. Articles/PYQ extras: 15(4) 1st CAA (`MST-073`); 16(3) Parliament (`MST-074`); 16(4)+335 (`MST-069`). Cluster first-pass **11 Sep**. |
+| GS_ScienceTech_VR_Notes | 05 — Nuclear Fission, Fusion and Reactors (ST-06) | 2026-09-10 | 1 | 90.0% | 2026-09-11 | Somewhat | 2016, 2022 | Paper class items held. ITER + monazite PYQs held. Flash miss: ITER goal **10** (`MST-072`). Cluster first-pass **11 Sep**. |
 | GS_Society_VR_Notes | 01 — Salient Features (L1) | 2026-09-10 | 2 | 90.0% | 2026-09-13 | Confident | 2024 | Ghost Recall held: endogamy; **desire + imitate**; UC never granted (`MST-064` Resolved 🟢). Slip: Varna-link **1881/1891**, not 1871. Cluster +3 **13 Sep**. |
 | GS_IR_VR_Notes | 03 — World Order after WW2 (Sandhu L3) | 2026-09-10 | 2 | 95.0% | 2026-09-13 | Confident | 2018, 2020 | Ghost Recall held: NPT 1968/70 / 1 Jan 1967; NSG ≠ auto NPT; 2008 waiver; five non-parties (`MST-063` Resolved 🟢). Cluster +3 **13 Sep**. |
-| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-10 | 12 | 75.0% | 2026-09-11 | Somewhat | 2018, 2020, 2023, 2024 | Tax +3 **failed** the two facts asked. `MST-029` DDT **repeat 2** (DTAA ≠ OECD; France/NL/Swiss). New `MST-068` Mauritius **April 2024 / TRC+PPT** not GAAR. Rest of cluster still Day 3 leftover. |
-| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-10 | 5 | 40.0% | 2026-09-11 | Weak | 2023 | `MST-057` **repeat 3**: still Perinatology 2005. `MST-065` blank (`CSE-2023-Q51` = only two). WMO already held. |
+| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-10 | 13 | 70.0% | 2026-09-11 | Somewhat | 2018, 2020, 2023, 2024 | Evening recovered Mauritius **April 2024 / TRC+PPT** (`MST-068` Resolved 🟢). `MST-029` DDT **repeat 3** — still OECD + Germany. Rest of cluster still Day 3 leftover. |
+| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-10 | 6 | 55.0% | 2026-09-11 | Somewhat | 2023 | `MST-057` **held** evening (JSY / *Lancet* 1999 / 1,800 g). `MST-065` still due (`CSE-2023-Q51` = only two). WMO already held. |
 | GS_History_VR_Notes | Modern India (L7: Wardha / Gandhi–Nehru–Ambedkar) | 2026-09-10 | 4 | 70.0% | 2026-09-12 | Somewhat | 2018, 2020, 2017 | Trusteeship **only two** (`MST-059` Resolved 🟢 after repeat 3). Cluster +3 **12 Sep**. |
-| Yellow_Books | Concepts of Geography Ch 1 (GEO-11) | 2026-09-10 | 1 | 60.0% | 2026-09-11 | Somewhat | 2017 | Elliptical + Pluto held. Singularity held. Miss: Hubble = **redshift** not clouds; nebular ≠ universe rival (`MST-067`). 02/05 → **13 Sep**. |
+| Yellow_Books | Concepts of Geography Ch 1 (GEO-11) | 2026-09-10 | 2 | 80.0% | 2026-09-13 | Somewhat | 2017 | Evening recovered Hubble = **redshift**; nebular ≠ universe rival (`MST-067` Resolved 🟢). GEO-11-01 joins 11-02/05 on **13 Sep**. |
 | Current_Affairs | 08 September 2026 (1-GW cooling / UN map / J&K IFF) | 2026-09-10 | 1 | 95.0% | 2026-09-13 | Confident | - | 1 GW heat / 40 vs 120–150 / TCS ≠ air-only held. Correct the Map ≠ claim-line endorsement; Togo; July sheet. Cluster +3 **13 Sep**. IFF untested. |
 | Evening MCQ | 8 Sep paper (MOD-B7 + ST-05 + MST + 5 PYQ) | 2026-09-08 | 1 | 90.0% | 2026-09-09 | Somewhat | 2017, 2018, 2020, 2021, 2023 | **18/20 · 34.68/40**. All 5 PYQ held. Miss: trusteeship pairs (`MST-059`); n-CoV ≠ SARS-1 (`MST-060`). Recovered Lucknow / same-page / Mizo UT. |
 | Evening MCQ | 7 Sep paper (GEO-10 + IS-01 + CA + 5 PYQ) | 2026-09-08 | 1 | 85.0% | 2026-09-09 | Somewhat | 2017, 2021, 2024, 2025 | **17/20 · 32.02/40**. Class 1–8 clean. PYQ miss: IOD Pacific (`MST-053`); BRICS Multiculturalism (`MST-054`). Held: Coriolis, FRA MoTA, trades. |
@@ -70,14 +73,33 @@
 | GS_Internal_Security_VR_Notes | 01 — Fundamentals of Internal Security (L1, 7 Sep) | 2026-09-08 | 2 | 90.0% | 2026-09-11 | Somewhat | GS-III | Ghost Recall cluster → **11 Sep**. Mizo **UT 1972** held evening (`MST-056` Resolved 🟢). Hawala + FATF 70% held. |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-07 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
 | GS_Polity_VR_Notes | 05 — Interim / AGI / Parliament majorities (Abhey L5) | 2026-09-07 | 4 | 55.0% | 2026-09-08 | Somewhat | 2012, 2017, 2022 | `MST-046` caretaker held → Resolved 🟢. `MST-047` still fail: he wrote **2003** Manmohan and left single-party blank. Drill **UPA I 2004** / **AAP Delhi 2013** on **8 Sep**. Cluster still does **not** advance. |
-| GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-06 | 2 | 85.0% | 2026-09-09 | Somewhat | 2006, 2012 | Open 2003 + no ADL; NCM never passed / 1999 = confidence; Money-Bill final ≠ court-proof. Art 94 = till **next LS first meeting** (`MST-048`). Cluster +3 except 07-10. |
-| GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-09 | 4 | 70.0% | 2026-09-11 | Somewhat | 2013, 2017, 2025 | Borrowed pairs + CA machinery held. PYQ miss: Art **50 / 51A / 24** all three (`MST-066`). |
+| GS_Polity_VR_Notes | 06 — Houses, motions, Speaker (Abhey L6) | 2026-09-10 | 3 | 75.0% | 2026-09-11 | Somewhat | 2006, 2012, 2022 | PYQ miss: LS exclusive = **NCM only** (`MST-070`, `CSE-2022-Q15`). Emergency ratification and impeachment are **not** LS-only. |
+| GS_Polity_VR_Notes | Salient features / Preamble / Part I (POL-03 · POL-04) | 2026-09-10 | 5 | 80.0% | 2026-09-25 | Somewhat | 2013, 2017, 2025 | Borrowed pairs + CA machinery held. Art **50 / 51A / 24** all three **held** evening (`MST-066` Resolved 🟢). |
 | Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-07 | 2 | 85.0% | 2026-09-10 | Somewhat | - | BIT State-heavy held. 60→62 backlog held; **merit-based / not automatic** missed (`MST-051`). Cluster +3 **10 Sep**. |
 | Current_Affairs | 06 September 2026 (Yarlung dam + BRICS payments) | 2026-09-07 | 1 | 100% | 2026-09-10 | Confident | - | Yarlung = Brahmaputra + 5 stations; India = cost/speed ≠ dump dollar. Trap: 1.2 trillion yuan not named. Cluster +3 **10 Sep**. |
 | Current_Affairs | 09 September 2026 (WDFC + India–Japan + Chagos) | 2026-09-09 | 0 | 0% | 2026-09-11 | New | - | **CA-260909** parked **11 Sep**. Map: **JNPT → Dadri**. **UNICORN** = BEL MoU **Nov 2024**; **Veer Guardian 9–22 Sep**. Chagos: May 2025 deal **on hold Apr 2026**; Maldives claim. Glacier numbers on **29 Aug** note. |
 
 
 ---
+
+---
+
+### Session 35 — 2026-09-10 (Evening MCQ)
+- **Subject:** SOC-02 (caste / Mandal / reservation) + ST-06 (fission / fusion / reactors) + MST-029/057/066/067/068 + 5 PYQ
+- **Format:** 20 Prelims MCQs (15 notes + 5 Series A PYQ) + flash 15 + articles 15
+- **Score:** 29.36 / 40 (Net: +32 − 2.64 | Accuracy 80% — 16/20 | 4 incorrect | 0 unattempted)
+- **Strengths:** Dominant caste region-not-State; Sawhney creamy = families + social≠income; OBC two lists; Rohini subclass = will. Fission commercial / fusion efficiency <1; U-235+Th pairs; enrichment 3–5 / >90 / HEU>20; reactor core+coolant+rods; E=mc² vs annihilation. Art 74 42nd/44th. Recovered JSY 62.2% (`MST-057`); Art 50/51A/24 (`MST-066`); Hubble redshift (`MST-067`); Mauritius TRC+PPT (`MST-068`). PYQ held: ITER → fusion reactors; monazite 1,2,4. Flash 14/15. Articles 12/15 (nominated-out / Sawhney / Art 74 pairs held).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-029 repeat 3 / DDT:* still OECD + Germany. **5%** needs signed **DTAA**. France / NL / **Switzerland**.
+  - *MST-069 / Art 335:* `CSE-2023-Q40`. **16(4)** can be limited by **335**. 335 does **not** define efficiency. He inverted both.
+  - *MST-070 / LS exclusive:* `CSE-2022-Q15` = **NCM only**. Emergency ratification and impeachment are **not** LS-only.
+  - *MST-071 / MLA vote value:* `CSE-2023-Q80` = **only two**. More seats do **not** raise each MLA’s value. Nominated-out was held on articles.
+  - *MST-072 / ITER goal 10:* flash. Today **<1**; ITER **goal = 10** (50→500 MW).
+  - *MST-073 / Art 15(4):* **1st CAA 1951** after Champakam, not original 1950.
+  - *MST-074 / Art 16(3):* residence bar = **Parliament only**.
+  - *MST-075 / UNR Rao 1971:* there **shall** always be a CoM, even after LS is dissolved.
+- **Resolved:** `MST-057` JSY; `MST-066` Art 50/51A/24; `MST-067` Hubble; `MST-068` Mauritius.
+- **PYQ log:** `CSE-2023-Q40` ❌ · `CSE-2016-Q79` ✅ · `CSE-2022-Q28` ✅ · `CSE-2022-Q15` ❌ · `CSE-2023-Q80` ❌
 
 ### Session 34 — 2026-09-10 (Ghost Recall)
 - **Subject:** SOC-01, IR-03, GEO-11, CA-260908, Tax +3, MST-059/057/065/029

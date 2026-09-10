@@ -20,6 +20,7 @@
 - **Members of State Legislative Councils (MLCs)** (both elected and nominated) — because they are not directly elected by the entire state electorate.
 - **Nominated members of Delhi and Puducherry Assemblies**.
 - <span style="color: #e53e3e;">**Jammu & Kashmir UT Legislative Assembly:** As of 2026, though the J&K Reorganisation Act 2019 created a Legislative Assembly for UT of J&K, Article 54 has not yet been amended to include J&K in the constitutional Electoral College.</span>
+- `CSE-2023-Q80` extra (evening 10 Sep): nominated-out **held** on the articles tab; the miss was **vote value** (more seats do **not** raise each MLA’s value) — see [Article 55](Article_55.md) / `MST-071`.
 </details>
 
 <details><summary>Why are nominated members and MLCs excluded from electing the President?</summary>

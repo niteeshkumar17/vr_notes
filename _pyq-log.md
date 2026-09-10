@@ -23,3 +23,8 @@ Evening paper uses **5 real PYQs** a night. This file only records **what was al
 | CSE-2024-Q84 | ST list: President (Art 342), not Governor; State-specific | SOC-01-03 | 2026-09-09 | ✅ | `01_Salient_Features_Indian_Society` · Update 9 Sep 2026 (held) |
 | CSE-2023-Q51 | JSY: only 2 and 3 (poor MMR/NMR + institutional delivery) | CA-260904-01 | 2026-09-09 | ❌ | `2026-09-04` · Update 9 Sep 2026 |
 | CSE-2025-Q55 | Art 50 DPSP + Art 51A duty + Art 24 FR — all three | POL-03-01 | 2026-09-09 | ❌ | `Indian_Polity_Constitution` · Update 9 Sep 2026 |
+| CSE-2023-Q40 | 16(4) can be limited by Art 335; 335 does not define efficiency | SOC-02-06 | 2026-09-10 | ❌ | `02_Caste_Power_and_Reservation` + `Article_16` · Update 10 Sep 2026 |
+| CSE-2016-Q79 | ITER success → fusion reactors (not thorium / fission-efficiency) | ST-06-03 | 2026-09-10 | ✅ | `05_Nuclear_Fission_Fusion_and_Reactors` · Update 10 Sep 2026 (held) |
+| CSE-2022-Q28 | Monazite = rare earths + Th; not entire coast; govt only process/export | ST-06-05 | 2026-09-10 | ✅ | `05_Nuclear_Fission_Fusion_and_Reactors` · Update 10 Sep 2026 (held) |
+| CSE-2022-Q15 | LS exclusive = NCM only; Emergency ratification and impeachment are not | POL-07-06 | 2026-09-10 | ❌ | `Polity_Lec6` · Update 10 Sep 2026 |
+| CSE-2023-Q80 | Presidential poll: nominated out; more seats ≠ higher MLA vote value | POL-02-05 | 2026-09-10 | ❌ | `Polity_Lec2` · Update 10 Sep 2026 |

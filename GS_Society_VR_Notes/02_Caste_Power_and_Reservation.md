@@ -237,6 +237,17 @@ Two statutes **keeping Art 17 in view:**
 
 **Next class:** shedding **untouchable identities**.
 
+### Update — 10 September 2026 (UPSC CSE Prelims 2023 + evening articles)
+
+`CSE-2023-Q40` **missed** (`MST-069`). Statement-I holds: SC has read **Article 16(4)** reservation with **Article 335** (efficiency of administration). Statement-II fails: Art 335 does **not** define “efficiency.” He inverted both.
+
+Articles misses (same SOC-02-06 cluster; **no extra Day-1**):
+
+- `MST-073`: **15(4)** was **added** by the **1st Constitutional Amendment Act, 1951** after *Champakam Dorairajan* — not original 1950 text. **15(5)** = 93rd / education (except minority Art 30). **15(6)** = 103rd / EWS.
+- `MST-074`: **16(3)** residence bar = **Parliament only**. A State Legislature cannot fix it.
+
+Class locks that stay: **15 / 16** = equality; **15(4) / 16(4)** = equity.
+
 ---
 
 ## Abbreviations

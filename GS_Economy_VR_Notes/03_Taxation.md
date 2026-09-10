@@ -776,6 +776,10 @@ The same allegation was made against Adani Group — that money was earned in In
 
 `MST-068`: date = **April 2024** (not July 2025). Pair = **TRC + PPT**. **GAAR** is domestic, not the treaty pair.
 
+### Update — 10 September 2026 (evening paper)
+
+`MST-068` **held**: **April 2024**; **TRC + PPT**. GAAR is not the treaty pair.
+
 ### How PPT Works
 
 The amended pact has included PPT, which essentially lays out the condition that:
@@ -801,6 +805,10 @@ In practice:
 ### Update — 10 September 2026 (Ghost Recall)
 
 `MST-029` **repeat 2**: **5%** needs a signed **DTAA**, not **OECD** and not merely **MFN**. Three MNCs = **France / Netherlands / Switzerland**, not Germany.
+
+### Update — 10 September 2026 (evening paper)
+
+`MST-029` **repeat 3**: still picked **OECD + Germany**. **5%** needs a signed **DTAA**. Three MNCs = **France / Netherlands / Switzerland**.
 
 ### What is DDT?
 

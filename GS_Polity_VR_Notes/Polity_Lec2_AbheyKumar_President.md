@@ -153,6 +153,19 @@ Value of Vote of 1 MLA = Population of State / (No. of Elected MLAs × 1000)
 > - So next year's (2027) election will STILL use **1971 census** (data not available yet)
 > - Delimitation dispute (Vijay et al.) = related but different issue
 
+### Update — 10 September 2026 (UPSC CSE Prelims 2023)
+
+`CSE-2023-Q80` **missed** (`MST-071`). How many statements = **only two** (3 and 4):
+
+| Statement | Hold? |
+|:---|:---|
+| 1. Nominated MPs / MLAs also in the Electoral College | **No.** Art 54 = **elected** only (articles tab held this). |
+| 2. Higher elective Assembly seats → higher vote value of **each** MLA | **No.** Value = **population / elected seats** (÷ 1000). More seats **lower** each MLA’s value if population is similar. |
+| 3. MLA vote of Madhya Pradesh **>** Kerala | **Yes** (UPSC key). |
+| 4. Puducherry MLA value **>** Arunachal because population / elective seats is greater | **Yes** — that **is** the formula. |
+
+He picked **only three** — the extra tick is statement 2.
+
 #### Real Values (2022 Election):
 | State | MLA Vote Value | Notes |
 |-------|---------------|-------|
