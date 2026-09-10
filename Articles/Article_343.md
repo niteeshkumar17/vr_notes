@@ -14,6 +14,7 @@
 ## Historical Compromise & Language Policy
 * **Munshi-Ayyangar Formula:** Framed in Constituent Assembly by K.M. Munshi and N. Gopalaswami Ayyangar to reconcile pro-Hindi and non-Hindi proponents. Retained English alongside Hindi.
 * <span style="color: #e53e3e;">**Supreme Court Observations (2026):** Challenged the false binary of English vs Indian languages. SC noted English in India has evolved into an administrative, legal, and academic instrument of Indian expression.</span>
+* <span style="color: #e53e3e;">**CBSE three-language (10 Sep 2026 paper):** Centre told SC it “has an issue” with treating English as indigenous/native; possible one-time Class 6 reprieve from a mandatory CBSE Class 10 third-language paper. That hearing is `CA-260910-01`, not a change to Article 343 text.</span>
 * <span style="color: #e53e3e;">**Census 2011 Data:** ~129 Million English speakers in India (~260,000 mother tongue speakers; 46M 2nd language; 83M 3rd language). Estimated 180M-250M at present. Sahitya Akademi recognizes English as a language of Indian literature.</span>
 
 ## Key Interlinks

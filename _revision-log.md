@@ -78,6 +78,7 @@
 | Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-07 | 2 | 85.0% | 2026-09-10 | Somewhat | - | BIT State-heavy held. 60→62 backlog held; **merit-based / not automatic** missed (`MST-051`). Cluster +3 **10 Sep**. |
 | Current_Affairs | 06 September 2026 (Yarlung dam + BRICS payments) | 2026-09-07 | 1 | 100% | 2026-09-10 | Confident | - | Yarlung = Brahmaputra + 5 stations; India = cost/speed ≠ dump dollar. Trap: 1.2 trillion yuan not named. Cluster +3 **10 Sep**. |
 | Current_Affairs | 09 September 2026 (WDFC + India–Japan + Chagos) | 2026-09-09 | 0 | 0% | 2026-09-11 | New | - | **CA-260909** parked **11 Sep**. Map: **JNPT → Dadri**. **UNICORN** = BEL MoU **Nov 2024**; **Veer Guardian 9–22 Sep**. Chagos: May 2025 deal **on hold Apr 2026**; Maldives claim. Glacier numbers on **29 Aug** note. |
+| Current_Affairs | 10 September 2026 (CBSE English + Navier–Stokes + marital rape) | 2026-09-10 | 0 | 0% | 2026-09-12 | New | - | **CA-260910** parked **12 Sep** (11 Sep Q1–Q2 already two classes). Centre objects to English as native; Class 6 one-time Class 10 reprieve. OpenAI NS claim ≠ settled. IPC 375 / BNS 63 exception; onus on legislature. |
 
 
 ---

@@ -40,6 +40,10 @@
 * Recent Supreme Court observations addressed the official language debate, challenging the false binary that frames English in opposition to indigenous Indian languages.
 * English in India has evolved into an administrative, legal, and academic medium of Indian creativity and national cohesion.
 
+### Update — 10 September 2026
+
+CBSE **three-language** hearing (CJI **Surya Kant**, SG **Tushar Mehta**): Centre “**has an issue**” with English as **indigenous / native**; may consult on a **one-time Class 6** reprieve from the **Class 10** third-language paper. Full lock on `September_2026/2026-09-10_Current_Affairs.md` (`CA-260910-01`). **Article 343 / Census numbers on this page do not change.**
+
 ### 2. Historical & Constitutional Evolution
 
 <div style="overflow-x:auto;">

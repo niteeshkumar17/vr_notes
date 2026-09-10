@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-10
-*   **Active Micro-Topics:** 572
+*   **Active Micro-Topics:** 575
 *   **Overall Database Mastery:** 77.4% 📈
 *   **Today's Recall Completed:** Evening Prelims **16/20 · 29.36/40**. `MST-057` / `066` / `067` / `068` resolved. `MST-029` **repeat 3**. New: `MST-069` Art 335 · `MST-070` NCM-only · `MST-071` vote value · `MST-072` ITER goal 10 · `MST-073` 15(4) · `MST-074` 16(3) · `MST-075` UNR Rao.
 *   **Active Learning Gaps Detected:** `MST-029` DDT **repeat 3** · `MST-065` JSY only-two **repeat 2** · leftover `MST-062` geoid · `MST-069` 16(4)+335 · `MST-070` NCM-only · `MST-071` MLA vote value · `MST-072` ITER goal 10 · `MST-073` Art 15(4) · `MST-074` Art 16(3) · `MST-075` UNR Rao
-*   **New Topics Ingested Today:** **SOC-02** (Social Issues L2) + **ST-06** (Shobhit Sir fission / fusion / reactors, 10 Sep). **Tomorrow Q1 = SOC-02, Q2 = ST-06.** Drill `MST-073`/`074` **inside Q1** · `MST-072` **inside Q2** · `MST-071` **inside Q7**. **CA-260909** stays **11 Sep Q3–Q6**.
+*   **New Topics Ingested Today:** **SOC-02** + **ST-06** (10 Sep classes). Evening *Hindu*: **CA-260910** (CBSE English native / Navier–Stokes / marital-rape exception). **Tomorrow Q1 = SOC-02, Q2 = ST-06.** **CA-260909** stays **11 Sep Q3–Q6**. **CA-260910** parked **12 Sep** (do not steal class Q1–Q2).
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -579,6 +579,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260909-01 | WDFC: JNPT Navi Mumbai to Dadri UP; three sections inaugurated at Vadodara | 2 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `WDFC` $\leftrightarrow$ `JNPT Navi Mumbai` $\leftrightarrow$ `Dadri UP` $\leftrightarrow$ `Vadodara` |
 | CA-260909-02 | India–Japan: UNICORN/BEL MoU Nov 2024; Veer Guardian 9–22 Sep 2026 first JP fighters | 3 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UNICORN masts` $\leftrightarrow$ `BEL Nov 2024` $\leftrightarrow$ `Koizumi Aug 2026` $\leftrightarrow$ `Veer Guardian` $\leftrightarrow$ `MDA East China Sea / IOR` |
 | CA-260909-03 | Chagos: UK–Mauritius May 2025 deal on hold Apr 2026; Maldives most legitimate claim | 3 | ★★★★★ | Day 1 | 2026-09-11 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `May 2025 Sovereignty` $\leftrightarrow$ `April 2026 Hold` $\leftrightarrow$ `Muizzu Burnham` $\leftrightarrow$ `US-UK Base` $\leftrightarrow$ `Not Only Mauritius` |
+| CA-260910-01 | CBSE three-language: Centre objects to English as native; Class 6 one-time Class 10 reprieve | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Not Art 343` $\leftrightarrow$ `SG Mehta has an issue` $\leftrightarrow$ `Class 6 reprieve` $\leftrightarrow$ `Minority schools notice` $\leftrightarrow$ `Sankaranarayanan non-native` |
+| CA-260910-02 | OpenAI Navier-Stokes claim: 88h / 100-page proof unseen; Buckmaster Codex ethics | 2 | ★★★★☆ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Navier-Stokes fluids` $\leftrightarrow$ `Millennium open` $\leftrightarrow$ `88 hours` $\leftrightarrow$ `Proof not independently seen` $\leftrightarrow$ `Not a settled prize` |
+| CA-260910-03 | Marital rape: IPC 375 / BNS 63 exception stands; onus on legislature; Karnataka HC 2022 | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `IPC wife not under 15` $\leftrightarrow$ `BNS 63 age 18` $\leftrightarrow$ `Victim ≠ Code rape` $\leftrightarrow$ `JS Verma 2013` $\leftrightarrow$ `≠ Sec 82 BNS polygamy` |
 
 ---
 
@@ -804,7 +807,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
   1. **Tomorrow (11 Sep) Q1–Q2:** **SOC-02** (Social Issues L2) + **ST-06** (Shobhit fission / fusion / reactors). Do **not** steal **CA-260909** from Q3–Q6
   2. **Q3–Q6:** **CA-260909** (WDFC / UNICORN / Chagos) · CA **17–23 Aug**. Polity President **+3** is Q7. Medieval **+7** if a leftover slot
   3. **Q8:** `MST-029` DDT **repeat 3** · `MST-065` JSY only-two **repeat 2**. Leftover: `MST-062` geoid · `MST-069` Art 335 · `MST-070` NCM-only · `MST-075` UNR Rao. Drill `MST-073`/`074` **inside Q1** · `MST-072` ITER goal 10 **inside Q2** · `MST-071` vote value **inside Q7**
-  4. **SOC-01** + **IR-03** + **CA-260908** + GEO-11-01/02/05 → **13 Sep**. GEO-11-03/04/06/07 untested → **13 Sep** buffer. Tax +3: `ECO-04-13` Mauritius held; `ECO-04-14` DDT still atom. MOD-B7 / ST-05 / FRA → **12 Sep**. Pallava / Home Rule / MOD-B6 / GEO-09 Day-3 leftover (not asked 10 Sep)
+  4. **SOC-01** + **IR-03** + **CA-260908** + GEO-11-01/02/05 → **13 Sep**. GEO-11-03/04/06/07 untested → **13 Sep** buffer. Tax +3: `ECO-04-13` Mauritius held; `ECO-04-14` DDT still atom. MOD-B7 / ST-05 / FRA → **12 Sep**. **CA-260910** first-pass **12 Sep** (not 11 Sep Q1–Q2). Pallava / Home Rule / MOD-B6 / GEO-09 Day-3 leftover (not asked 10 Sep)
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-023` / `036` / `041` / `043` / `044` / **`MST-045`** / **`MST-046`** / **`MST-049`** / **`MST-050`** / **`MST-052`** / **`MST-056`** / **`MST-058`** / **`MST-060`** / **`MST-061`** / **`MST-059`** / **`MST-063`** / **`MST-064`** / **`MST-057`** / **`MST-066`** / **`MST-067`** / **`MST-068`** stay resolved.
 
 
