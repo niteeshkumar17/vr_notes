@@ -106,6 +106,10 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 `CSE-2018-Q07` **missed** (`MST-063`). Consequence of NSG membership: access to **latest nuclear technologies / fuel** (statement 1). It does **not** automatically make the country an **NPT** member (statement 2). Same class lock: **2008** waiver **without** signing NPT.
 
+### Update — 10 September 2026 (Ghost Recall)
+
+`MST-063` **held**: NSG ≠ auto NPT; 2008 waiver without NPT; five non-parties named.
+
 `CSE-2020-Q55` **held**. Some Indian reactors sit under **IAEA safeguards** because they use **imported** uranium; reactors on **domestic** fuel are not in that IAEA civilian bucket. Do not pick thorium / foreign operator / private ownership.
 
 ---

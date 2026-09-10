@@ -1399,7 +1399,7 @@ Class hook (Raghuram Rajan, *The Third Pillar*): last ~**400** years **state** a
 
 Class on the result (do not invent beyond this): announced with hope of **50 million hectares** out of ~**300 million** agricultural hectares; collected **&lt; 1 million** (~**7 lakh**), and about **half** of that **barren**. Nehru called trusteeship **utopia**; class: **Bhoodan failed**.
 
-<span style="color: #e53e3e;">**Prelims trap (`MST-059` repeat 3):** trusteeship is **change of heart**, not Marxist seizure / “managed by a trust.” That pair is **wrong**. **Bhoodan 1953 / Vinoba / Pochampalli / 1/6** and **Nehru = utopia / Bhoodan failed** both hold = **only two**. Evening 9 Sep marked **all three**.</span>
+<span style="color: #e53e3e;">**Prelims trap (`MST-059` held 10 Sep):** trusteeship is **change of heart**, not Marxist seizure / “managed by a trust.” That pair is **wrong**. **Bhoodan 1953 / Vinoba / Pochampalli / 1/6** and **Nehru = utopia / Bhoodan failed** both hold = **only two**.</span>
 
 **Nehru — socialist pattern**
 

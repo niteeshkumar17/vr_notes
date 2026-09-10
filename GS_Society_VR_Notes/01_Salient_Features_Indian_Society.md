@@ -207,6 +207,10 @@ British reply in class: UC is about **occupation**, not lifestyle. They changed 
 
 Evening miss (`MST-064`): census I+II held. **Sanskritization did not** get Lower Castes **Upper-Caste** status from the British, so an **OBC movement was still needed**. Do not mark “all three.”
 
+### Update — 10 September 2026 (Ghost Recall)
+
+`MST-064` **held** (counterfactual + **desire + imitate**). Endogamy undiluted held. Slip: **1871** = first caste **list**; Varna classification = **1881**; UC/LC stamp = **1891**.
+
 **Next class:** **Caste and power**.
 
 ---

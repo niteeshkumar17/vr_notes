@@ -49,6 +49,10 @@ SEARCH trial: **62.2%** fall in rural **neonatal mortality** (*The Lancet*, **19
 
 Class locks that stay: filler scheme name = **JSY**; SEARCH drop **62.2%** (*Lancet* **1999**); home **1,800 g · 34 weeks** (`MST-057`).
 
+### Update — 10 September 2026 (Ghost Recall)
+
+`MST-057` **repeat 3**: still *Perinatology* **2005** and blank %. Filler = **Janani Suraksha Yojana**. Drop = **62.2%** *Lancet* **1999**. `MST-065` left **blank** — `CSE-2023-Q51` = **only two**.
+
 ---
 
 ## Topic 2: ‘Supersized’ El Niño to be strongest ever recorded — WMO

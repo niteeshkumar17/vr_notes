@@ -772,6 +772,10 @@ The same allegation was made against Adani Group — that money was earned in In
 
 > **Now:** They also require **Principal Purpose Test (PPT)**, as mandated by amendment in Indo-Mauritius DTAA treaty in **April 2024**.
 
+### Update — 10 September 2026 (Ghost Recall)
+
+`MST-068`: date = **April 2024** (not July 2025). Pair = **TRC + PPT**. **GAAR** is domestic, not the treaty pair.
+
 ### How PPT Works
 
 The amended pact has included PPT, which essentially lays out the condition that:
@@ -793,6 +797,10 @@ In practice:
 - India gives **Most Favored Nation (MFN)** status to **OECD** (38 developed nations)
 - MFN includes **several** relaxations (visa, loans, labour migration) — but **not all** relaxations
 - Investors from **France, Netherlands, Switzerland** (OECD nations) invested in Indian companies
+
+### Update — 10 September 2026 (Ghost Recall)
+
+`MST-029` **repeat 2**: **5%** needs a signed **DTAA**, not **OECD** and not merely **MFN**. Three MNCs = **France / Netherlands / Switzerland**, not Germany.
 
 ### What is DDT?
 

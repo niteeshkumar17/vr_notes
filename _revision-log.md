@@ -38,12 +38,16 @@
 | Current_Affairs | Current Affairs (27 August 2026) | 2026-08-27 | 0 | 0% | 2026-08-28 | New | 2014, 2017, 2019, 2021, 2024 | Added CA-260827-01 to CA-260827-03 (Meghalaya Uranium Mining Resolution, Sixth Schedule Customary Land Rights & SC Dimasa 2019 Verdict; Kaziranga ESZ Reduction Plan 10km to 1-3km, Karbi Anglong Corridors & EPA 1986 Section 3; Climate-Resilient Food Systems: UN WFP Faure-Mehta Blueprint, NFSA 2013 Shift to 'Climate Buffer', PDS Diversification & Net-Zero Agri). |
 | GS_ScienceTech_VR_Notes | S&T Lecture 1: Syllabus Overview & Public Health (Virology) | 2026-08-25 | 3 | 66.7% | 2026-08-28 | Confident | 2019, 2020, 2022, 2024 | Mastered Spike protein/ACE-2 receptor and virus genome either/or rule. Logged HBV DNA virus trap (MST-028). |
 | GS_ScienceTech_VR_Notes | 02 — Nuclear Technology (Civilian, Military & Triad, L08) | 2026-09-09 | 2 | 100% | 2026-09-16 | Confident | 2014, 2018, 2021, 2024 | +3 held: K-15 **750** / K-4 **3500**; Arihant–Arighat–Aridhaman; mutagenic = random / GM = inserted; **Radura**. Cluster **+7 16 Sep**. |
-| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-06 | 11 | 90.0% | 2026-09-08 | Somewhat | 2018, 2020, 2023, 2024 | Cluster +3 **8 Sep**; **ECO-04-02** now **9 Sep**. `MST-045` Resolved 🟢 (14% ≠ GMCT 15%). Trap: MAT date is **1 Apr 2026**, not 2016. `MST-029` 9 Sep. |
 | GS_IR_VR_Notes | 01 — Basics of International Relations (L1) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2024 | Ghost Recall clean after Q1 remark: 4 features, sign≠ratify, IWT 1960 / WB / **Pahalgam** (sheet said Pahalgam; `MST-033` voided). Cluster +3. |
 | GS_History_VR_Notes | Modern India (L4: Home Rule & Lucknow Pact) | 2026-09-08 | 3 | 62.0% | 2026-09-10 | Somewhat | 2015, 2016 | Evening 8 Sep **held** both locks (`MST-050` Resolved 🟢). Cluster +3 **10 Sep**. |
 | Evening MCQ | 9 Sep paper (SOC-01 + IR-03 + MST + 5 PYQ) | 2026-09-09 | 1 | 75.0% | 2026-09-10 | Somewhat | 2018, 2020, 2023, 2024, 2025 | **15/20 · 26.70/40**. Class 1–2, 4, 6, 8, 10–11, 14–15, 17–18, 20 held. PYQ 2/5. Miss: NSG≠NPT (`MST-063`); trusteeship **all three** (`MST-059` r3); Sanskritization UC (`MST-064`); JSY only-two (`MST-065`); Art 50/51A/24 (`MST-066`). Recovered SEARO / n-CoV / Raipur. |
-| GS_Society_VR_Notes | 01 — Salient Features (L1) | 2026-09-09 | 1 | 80.0% | 2026-09-10 | Somewhat | 2024 | Modernisation / unity / caste-lives held. Trap: Sanskritization **never** got British UC (`MST-064`). ST list = President Art 342 (`CSE-2024-Q84` held). First Ghost Recall still **10 Sep**. |
-| GS_IR_VR_Notes | 03 — World Order after WW2 (Sandhu L3) | 2026-09-09 | 1 | 80.0% | 2026-09-10 | Somewhat | 2018, 2020 | Superpower/MAD, NWS=9, 1991, China/Indo-Pacific, CPI vs Maoist held. IAEA imported fuel held. Miss: NSG ≠ NPT (`MST-063`). First Ghost Recall still **10 Sep**. |
+| GS_Society_VR_Notes | 01 — Salient Features (L1) | 2026-09-10 | 2 | 90.0% | 2026-09-13 | Confident | 2024 | Ghost Recall held: endogamy; **desire + imitate**; UC never granted (`MST-064` Resolved 🟢). Slip: Varna-link **1881/1891**, not 1871. Cluster +3 **13 Sep**. |
+| GS_IR_VR_Notes | 03 — World Order after WW2 (Sandhu L3) | 2026-09-10 | 2 | 95.0% | 2026-09-13 | Confident | 2018, 2020 | Ghost Recall held: NPT 1968/70 / 1 Jan 1967; NSG ≠ auto NPT; 2008 waiver; five non-parties (`MST-063` Resolved 🟢). Cluster +3 **13 Sep**. |
+| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-10 | 12 | 75.0% | 2026-09-11 | Somewhat | 2018, 2020, 2023, 2024 | Tax +3 **failed** the two facts asked. `MST-029` DDT **repeat 2** (DTAA ≠ OECD; France/NL/Swiss). New `MST-068` Mauritius **April 2024 / TRC+PPT** not GAAR. Rest of cluster still Day 3 leftover. |
+| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-10 | 5 | 40.0% | 2026-09-11 | Weak | 2023 | `MST-057` **repeat 3**: still Perinatology 2005. `MST-065` blank (`CSE-2023-Q51` = only two). WMO already held. |
+| GS_History_VR_Notes | Modern India (L7: Wardha / Gandhi–Nehru–Ambedkar) | 2026-09-10 | 4 | 70.0% | 2026-09-12 | Somewhat | 2018, 2020, 2017 | Trusteeship **only two** (`MST-059` Resolved 🟢 after repeat 3). Cluster +3 **12 Sep**. |
+| Yellow_Books | Concepts of Geography Ch 1 (GEO-11) | 2026-09-10 | 1 | 60.0% | 2026-09-11 | Somewhat | 2017 | Elliptical + Pluto held. Singularity held. Miss: Hubble = **redshift** not clouds; nebular ≠ universe rival (`MST-067`). 02/05 → **13 Sep**. |
+| Current_Affairs | 08 September 2026 (1-GW cooling / UN map / J&K IFF) | 2026-09-10 | 1 | 95.0% | 2026-09-13 | Confident | - | 1 GW heat / 40 vs 120–150 / TCS ≠ air-only held. Correct the Map ≠ claim-line endorsement; Togo; July sheet. Cluster +3 **13 Sep**. IFF untested. |
 | Evening MCQ | 8 Sep paper (MOD-B7 + ST-05 + MST + 5 PYQ) | 2026-09-08 | 1 | 90.0% | 2026-09-09 | Somewhat | 2017, 2018, 2020, 2021, 2023 | **18/20 · 34.68/40**. All 5 PYQ held. Miss: trusteeship pairs (`MST-059`); n-CoV ≠ SARS-1 (`MST-060`). Recovered Lucknow / same-page / Mizo UT. |
 | Evening MCQ | 7 Sep paper (GEO-10 + IS-01 + CA + 5 PYQ) | 2026-09-08 | 1 | 85.0% | 2026-09-09 | Somewhat | 2017, 2021, 2024, 2025 | **17/20 · 32.02/40**. Class 1–8 clean. PYQ miss: IOD Pacific (`MST-053`); BRICS Multiculturalism (`MST-054`). Held: Coriolis, FRA MoTA, trades. |
 | GS_History_VR_Notes | Modern India (L5: Lucknow C & Gandhi in SA) | 2026-09-02 | 2 | 100% | 2026-09-05 | Confident | 2015, 2019 | Ghost Recall clean: Montagu SoS / Chelmsford Viceroy; 1918 recs / 1919 Act; Satyagraha Sept 1906 = insistence on truth; PBD 9 Jan 1915. |
@@ -55,7 +59,6 @@
 | Current_Affairs | 01 September 2026 (INS Nipun) | 2026-09-02 | 1 | 100% | 2026-09-05 | Confident | - | Nistar-class DSV; HSL Visakhapatnam; Naval Dockyard Mumbai. |
 | GS_IR_VR_Notes | 02 — United Nations (Varma Sir L2) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Ghost Recall clean: 24 Oct 1945 / 50→193 / ICJ Hague / 15=5+10 / 9/15 + no P5 no / abstention ≠ veto. Cluster +3. |
 | GS_ScienceTech_VR_Notes | 04 — Space Technology Introduction (Vinay Krishna L10) | 2026-09-05 | 2 | 100% | 2026-09-08 | Confident | - | Karman ≠ rigid OST line held (`MST-043` Resolved 🟢). Trap: fuel’s third job = **initial velocity**. Cluster +3. |
-| Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-09 | 4 | 45.0% | 2026-09-10 | Somewhat | 2023 | WMO held. Bang class locks still `MST-057`. New PYQ miss: JSY **only two** (`MST-065` / `CSE-2023-Q51`). |
 | GS_Geography_VR_Notes | 05 — Agri society / stubble (CAQM 4 Sep patch) | 2026-09-05 | 2 | 100% | 2026-09-20 | Confident | - | **44% = some weeks**, season 14–15% (`MST-044` Resolved 🟢). |
 | GS_Geography_VR_Notes | 07 — Agri festivals / SRI vs DSR (GEO-07 +3) | 2026-09-07 | 3 | 100% | 2026-09-14 | Confident | 2024 | +3 held: Harela = **Uttarakhand sowing**; SRI still transplants + AWD; DSR no transplant. Trap: belching > paddy methane not answered. Cluster +7 **14 Sep**. |
 | GS_Economy_VR_Notes | 01 — Lecture 04 (SS Sir last NI: MP/FC/BP, GDP_MP) | 2026-09-05 | 5 | 100% | 2026-09-20 | Confident | 2015, 2020 | Fertilizer farmer=production / company=product held (`MST-036` Resolved 🟢). |
@@ -63,7 +66,6 @@
 | GS_History_VR_Notes | Modern India (L6: Satyagraha method + Gandhi–Tagore) | 2026-09-08 | 3 | 90.0% | 2026-09-10 | Somewhat | Essay / GS-IV | Cluster held. Same-page = **no hatred of other nations** (`MST-052` Resolved 🟢 evening). Cluster +3 **10 Sep**. |
 | GS_Geography_VR_Notes | Climatology (GEO-06 lapse / tropopause) | 2026-09-06 | 3 | 82.0% | 2026-09-13 | Somewhat | 2013 | +3 held: ELR = actual, NLR = average. Trap: NLR **6.5°C/km**; coldest **layer** = **mesopause**, not equator tropopause. Cluster → **13 Sep**. |
 | GS_Geography_VR_Notes | 03 — Climatology L9 (C/D, cells, Hadley 1735) | 2026-09-08 | 2 | 80.0% | 2026-09-11 | Somewhat | 2011, 2013, 2017 | Ghost Recall cluster → **11 Sep**. Persistent HP miss (`MST-055`). IOD Pacific still `MST-053`. |
-| GS_History_VR_Notes | Modern India (L7: Wardha / Gandhi–Nehru–Ambedkar) | 2026-09-09 | 3 | 55.0% | 2026-09-12 | Somewhat | 2018, 2020, 2017 | Evening **all three** on trusteeship (`MST-059` **repeat 3**). Drill **10 Sep** Q8. Cluster +3 **12 Sep** except 07-04. |
 | GS_ScienceTech_VR_Notes | 05 — Virology L2 zoonosis / immunity (ST-05) | 2026-09-09 | 3 | 85.0% | 2026-09-12 | Somewhat | 2021 | Evening recovered n-CoV waves (`MST-060` Resolved 🟢). Cluster +3 **12 Sep**. |
 | GS_Internal_Security_VR_Notes | 01 — Fundamentals of Internal Security (L1, 7 Sep) | 2026-09-08 | 2 | 90.0% | 2026-09-11 | Somewhat | GS-III | Ghost Recall cluster → **11 Sep**. Mizo **UT 1972** held evening (`MST-056` Resolved 🟢). Hawala + FATF 70% held. |
 | GS_Geography_VR_Notes | 06 — Rainfed, Irrigation and Land (L3) | 2026-09-03 | 2 | 80.0% | 2026-09-07 | Somewhat | 2024 | Purvanchal recovered (`MST-035` Resolved 🟢). Reviewing NSA ~142 not 146 (`MST-037`). |
@@ -76,6 +78,20 @@
 
 
 ---
+
+### Session 34 — 2026-09-10 (Ghost Recall)
+- **Subject:** SOC-01, IR-03, GEO-11, CA-260908, Tax +3, MST-059/057/065/029
+- **Format:** 8 clustered recall (60-min morning)
+- **Score:** 5.5 / 8 (Q1/Q2/Q4/Q5/Q6 held; Q3 fail; Q7 fail; Q8A hold / Q8B fail)
+- **Strengths:** Sanskritization counterfactual + **desire + imitate** (`MST-064`). NPT 1968/70 / 1 Jan 1967; NSG ≠ auto NPT; 2008 waiver; five non-parties (`MST-063`). Elliptical old / no new stars; Pluto failed clearing. 1 GW heat / 40 vs 120–150 / TCS DTC. Correct the Map ≠ claim lines; Togo; July sheet. Trusteeship **only two** (`MST-059` after repeat 3).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-067 / Hubble:* singularity held. Evidence = **redshift**, not clouds. Nebular ≠ rival of the **whole universe**.
+  - *MST-068 / Mauritius:* **April 2024**, **TRC + PPT**. Not July 2025. **GAAR** is not the treaty pair.
+  - *MST-029 repeat 2 / DDT:* 5% needs signed **DTAA**, not **OECD** / not merely **MFN**. France / NL / **Switzerland**, not Germany.
+  - *MST-057 repeat 3 / Bang:* filler = **JSY**. **62.2%** *Lancet* **1999**. Not *Perinatology* 2005.
+  - *MST-065 repeat 2 / JSY PYQ:* left blank. `CSE-2023-Q51` = **only two**.
+- **Traps (no new MST):** Varna-link is **1881/1891**, not 1871. UNGA date **4 Sep** not named.
+- **Resolved:** `MST-059` trusteeship; `MST-063` NSG; `MST-064` Sanskritization.
 
 ### Session 33 — 2026-09-09 (Evening MCQ)
 - **Subject:** SOC-01 (Social Issues L1) + IR-03 (Sandhu world order) + MST-058/059/060/061 + 5 PYQ
