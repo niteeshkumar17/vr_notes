@@ -148,50 +148,56 @@ A naval-trade civilization would have had **hundreds** of ports; most were wiped
 2. **Lothal** — mouth of the **Sabarmati**, **Ahmedabad** district, **Gujarat**. **Artificial dockyard** (basin filled through one gate so waves do not smash boats while loading). Class: some say “swimming pool”; a pool on the coast is a weak story — the find has dockyard features.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-label="Class geography map: Sutkagendor west, Shortughai north in Afghanistan, Alamgirpur east between Yamuna and Ganga, Daimabad south, Lothal dockyard, Sukta Koh near Gwadar" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="504" height="404" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 540" role="img" aria-label="Class India board: Sutkagendor west, Shortughai north Afghanistan, Manda Jammu, Alamgirpur east of Yamuna west of Ganga, Daimabad south Maharashtra, Lothal on Sabarmati, Sukta Koh Gwadar, rivers Indus Sutlej Yamuna Ganga Chambal Narmada Tapti" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="484" height="524" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <text x="24" y="28" font-size="13" font-weight="700" fill="#0f172a">Geography (class board)</text>
 <text x="24" y="44" font-size="11" fill="#64748b">Map secondary · features primary</text>
-<path d="M220 58 C248 44 278 50 286 78 C296 104 292 128 278 148 C304 160 338 182 352 214 C364 244 366 278 356 312 C344 348 322 378 296 396 C276 410 258 404 250 378 C240 344 228 308 216 280 C204 256 186 242 164 236 C140 228 108 220 92 200 C76 180 72 156 80 132 C90 104 118 82 150 68 C178 56 202 54 220 58 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.6"/>
-<path d="M196 72 C180 104 160 138 140 172 C122 202 104 228 90 250" fill="none" stroke="#0284c7" stroke-width="2"/>
-<text x="148" y="118" font-size="10" font-weight="700" fill="#0369a1">Indus</text>
-<path d="M248 108 C220 118 190 132 162 148" fill="none" stroke="#0284c7" stroke-width="1.5"/>
-<text x="198" y="128" font-size="9" fill="#0369a1">Sutlej</text>
-<path d="M258 98 C268 128 282 158 298 184" fill="none" stroke="#0284c7" stroke-width="1.6"/>
-<text x="304" y="148" font-size="10" fill="#0369a1">Yamuna</text>
-<path d="M276 104 C300 138 332 174 356 204" fill="none" stroke="#0284c7" stroke-width="1.8"/>
-<text x="348" y="188" font-size="10" fill="#0369a1">Ganga</text>
-<path d="M168 248 C156 262 148 274 142 286" fill="none" stroke="#0284c7" stroke-width="1.4"/>
-<text x="108" y="268" font-size="9" fill="#0369a1">Sabarmati</text>
-<circle cx="188" cy="64" r="5" fill="#be123c"/>
-<text x="24" y="62" font-size="11" font-weight="700" fill="#9f1239">Shortughai N</text>
-<text x="24" y="76" font-size="10" fill="#64748b">N Afghanistan</text>
-<circle cx="242" cy="108" r="4.5" fill="#be123c"/>
-<text x="252" y="104" font-size="11" font-weight="700" fill="#9f1239">Manda</text>
-<text x="252" y="116" font-size="10" fill="#64748b">Jammu (old N)</text>
-<circle cx="84" cy="196" r="5" fill="#be123c"/>
-<text x="24" y="188" font-size="11" font-weight="700" fill="#9f1239">Sutkagendor W</text>
-<text x="24" y="202" font-size="10" fill="#64748b">Balochistan-Iran</text>
-<circle cx="96" cy="226" r="4" fill="#047857"/>
-<text x="24" y="230" font-size="10" font-weight="700" fill="#047857">Sukta Koh</text>
-<circle cx="304" cy="158" r="5" fill="#be123c"/>
-<text x="316" y="154" font-size="11" font-weight="700" fill="#9f1239">Alamgirpur E</text>
-<text x="316" y="168" font-size="10" fill="#64748b">Meerut · W of Ganga</text>
-<circle cx="148" cy="282" r="5" fill="#047857"/>
-<text x="158" y="278" font-size="11" font-weight="700" fill="#047857">Lothal</text>
-<circle cx="196" cy="338" r="5" fill="#be123c"/>
-<text x="208" y="334" font-size="11" font-weight="700" fill="#9f1239">Daimabad S</text>
-<text x="208" y="348" font-size="10" fill="#64748b">Ahmednagar, MH</text>
-<rect x="24" y="300" width="112" height="78" rx="6" fill="#fff" stroke="#334155"/>
-<text x="80" y="318" text-anchor="middle" font-size="10" font-weight="700" fill="#0f172a">Dockyard</text>
-<rect x="42" y="326" width="72" height="28" rx="2" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
-<rect x="108" y="334" width="10" height="12" fill="#e0f2fe" stroke="#0369a1"/>
-<line x1="118" y1="340" x2="128" y2="340" stroke="#0284c7" stroke-width="2"/>
-<text x="80" y="368" text-anchor="middle" font-size="9" fill="#475569">one gate · boats in</text>
-<text x="300" y="300" font-size="11" fill="#334155">No site on / east of Ganga.</text>
-<text x="300" y="316" font-size="11" fill="#334155">Shortughai is northernmost.</text>
-<text x="300" y="348" font-size="11" fill="#64748b">Two ports survive (uplifted).</text>
-<text x="300" y="364" font-size="11" fill="#64748b">Features decide the map.</text>
+<path d="M248 56 L270 62 L298 82 L318 108 L338 132 L358 168 L368 210 L366 258 L352 308 L332 358 L308 408 L282 452 L258 478 L242 482 L234 448 L226 398 L218 352 L208 322 L160 312 L122 300 L128 286 L158 280 L98 270 L82 268 L62 240 L50 208 L48 172 L58 140 L52 112 L66 88 L96 70 L138 60 L188 54 L228 54 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.8"/>
+<path d="M210 72 C175 118 138 168 108 210 C88 238 72 262 58 282" fill="none" stroke="#0284c7" stroke-width="2.2"/>
+<text x="128" y="148" font-size="11" font-weight="700" fill="#0369a1">Indus</text>
+<path d="M250 92 C220 108 185 128 155 148" fill="none" stroke="#0284c7" stroke-width="1.6"/>
+<text x="188" y="118" font-size="10" fill="#0369a1">Sutlej</text>
+<path d="M268 84 C278 122 292 158 308 188" fill="none" stroke="#0284c7" stroke-width="1.7"/>
+<text x="314" y="158" font-size="10" fill="#0369a1">Yamuna</text>
+<path d="M286 80 C312 122 340 162 358 198" fill="none" stroke="#0284c7" stroke-width="2"/>
+<text x="360" y="178" font-size="11" font-weight="700" fill="#0369a1">Ganga</text>
+<path d="M268 198 C282 188 296 180 308 176" fill="none" stroke="#0284c7" stroke-width="1.4"/>
+<text x="248" y="214" font-size="10" fill="#0369a1">Chambal</text>
+<path d="M300 268 C250 272 198 276 150 280" fill="none" stroke="#0284c7" stroke-width="1.7"/>
+<text x="214" y="262" font-size="10" fill="#0369a1">Narmada</text>
+<path d="M292 298 C248 302 200 306 162 310" fill="none" stroke="#0284c7" stroke-width="1.6"/>
+<text x="214" y="322" font-size="10" fill="#0369a1">Tapti</text>
+<path d="M188 252 C170 262 154 274 142 286" fill="none" stroke="#0284c7" stroke-width="1.5"/>
+<text x="96" y="270" font-size="10" fill="#0369a1">Sabarmati</text>
+<circle cx="118" cy="58" r="5" fill="#be123c"/>
+<text x="20" y="56" font-size="11" font-weight="700" fill="#9f1239">Shortughai (N)</text>
+<text x="20" y="70" font-size="10" fill="#64748b">N Afghanistan</text>
+<circle cx="248" cy="78" r="5" fill="#be123c"/>
+<text x="258" y="74" font-size="11" font-weight="700" fill="#9f1239">Manda (N)</text>
+<text x="258" y="88" font-size="10" fill="#64748b">Jammu</text>
+<circle cx="52" cy="168" r="5" fill="#be123c"/>
+<text x="20" y="158" font-size="11" font-weight="700" fill="#9f1239">Sutkagendor (W)</text>
+<text x="20" y="186" font-size="10" fill="#64748b">Balochistan-Iran</text>
+<circle cx="58" cy="228" r="4.5" fill="#047857"/>
+<text x="20" y="242" font-size="11" font-weight="700" fill="#047857">Sukta Koh (Gwadar)</text>
+<circle cx="322" cy="148" r="5" fill="#be123c"/>
+<text x="332" y="144" font-size="11" font-weight="700" fill="#9f1239">Alamgirpur (E)</text>
+<text x="332" y="158" font-size="10" fill="#64748b">Meerut · W of Ganga</text>
+<circle cx="142" cy="286" r="5" fill="#047857"/>
+<text x="72" y="300" font-size="11" font-weight="700" fill="#047857">Lothal</text>
+<circle cx="228" cy="368" r="5" fill="#be123c"/>
+<text x="238" y="364" font-size="11" font-weight="700" fill="#9f1239">Daimabad (S)</text>
+<text x="238" y="378" font-size="10" fill="#64748b">Ahmednagar, MH</text>
+<rect x="20" y="430" width="128" height="86" rx="6" fill="#fff" stroke="#334155"/>
+<text x="84" y="450" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">Artificial dockyard</text>
+<rect x="40" y="460" width="80" height="32" rx="2" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<rect x="112" y="470" width="12" height="12" fill="#e0f2fe" stroke="#0369a1"/>
+<line x1="124" y1="476" x2="138" y2="476" stroke="#0284c7" stroke-width="2"/>
+<text x="84" y="508" text-anchor="middle" font-size="10" fill="#475569">one gate · boats inside</text>
+<text x="168" y="448" font-size="11" fill="#334155">No Harappan site on / east of the Ganga.</text>
+<text x="168" y="466" font-size="11" fill="#334155">Shortughai moved the north pole; Manda is old N.</text>
+<text x="168" y="492" font-size="11" fill="#64748b">Two ports survive (uplifted, not on today's coast).</text>
+<text x="168" y="510" font-size="11" fill="#64748b">A site on the Indus without Harappan features is not IVC.</text>
 </svg>
 </div>
 
@@ -250,26 +256,28 @@ By the **mid-4th millennium BC** these villages used **substantial copper** → 
 | **Damb Sadaat** | **Balochistan** |
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Four pre-Harappan regional cultures: Damb Sadaat in Balochistan, Kot Diji on the Indus, Amri-Nal in Sindh and Gujarat, Sothi-Siswal in Haryana, Mehrgarh south of Bolan Pass" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="504" height="344" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 520" role="img" aria-label="Class board: Damb Sadaat Balochistan west, Kot Diji on Indus, Amri-Nal Sindh and Gujarat south, Sothi-Siswal Haryana east, Mehrgarh at Quetta south of Bolan Pass" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="484" height="504" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
 <text x="24" y="28" font-size="13" font-weight="700" fill="#0f172a">Early Harappan · regional cultures</text>
-<text x="24" y="44" font-size="11" fill="#64748b">3300-2600 BC · recognise on a map</text>
-<path d="M230 58 C258 44 288 52 296 80 C306 106 300 132 284 152 C312 164 348 188 360 222 C370 254 366 288 350 318 C332 348 304 360 276 354 C254 348 240 328 232 300 C222 268 210 240 196 222 C180 202 156 196 132 190 C104 182 78 168 70 144 C62 118 78 92 110 74 C148 54 196 50 230 58 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.6"/>
-<ellipse cx="118" cy="168" rx="44" ry="32" fill="#99f6e4" stroke="#0f766e" stroke-width="1.4"/>
-<text x="118" y="164" text-anchor="middle" font-size="11" font-weight="700" fill="#115e59">Damb Sadaat</text>
-<text x="118" y="178" text-anchor="middle" font-size="10" fill="#115e59">Balochistan</text>
-<ellipse cx="198" cy="150" rx="46" ry="30" fill="#fde68a" stroke="#b45309" stroke-width="1.4"/>
-<text x="198" y="146" text-anchor="middle" font-size="11" font-weight="700" fill="#92400e">Kot Diji</text>
-<text x="198" y="160" text-anchor="middle" font-size="10" fill="#92400e">Indus / Multan</text>
-<ellipse cx="168" cy="230" rx="50" ry="32" fill="#fecaca" stroke="#b91c1c" stroke-width="1.4"/>
-<text x="168" y="226" text-anchor="middle" font-size="11" font-weight="700" fill="#991b1b">Amri-Nal</text>
-<text x="168" y="240" text-anchor="middle" font-size="10" fill="#991b1b">Sindh + Gujarat</text>
-<ellipse cx="278" cy="142" rx="52" ry="32" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.4"/>
-<text x="278" y="138" text-anchor="middle" font-size="11" font-weight="700" fill="#1e3a8a">Sothi-Siswal</text>
-<text x="278" y="152" text-anchor="middle" font-size="10" fill="#1e3a8a">HR · N RJ · S PB</text>
-<circle cx="108" cy="118" r="5" fill="#0f172a"/>
-<text x="120" y="114" font-size="11" font-weight="700" fill="#0f172a">Mehrgarh</text>
-<text x="120" y="128" font-size="10" fill="#475569">Quetta · south of Bolan Pass</text>
+<text x="24" y="44" font-size="11" fill="#64748b">3300-2600 BC · four ovals on the class India sketch</text>
+<path d="M248 56 L270 62 L298 82 L318 108 L338 132 L358 168 L368 210 L366 258 L352 308 L332 358 L308 408 L282 452 L258 478 L242 482 L234 448 L226 398 L218 352 L208 322 L160 312 L122 300 L128 286 L158 280 L98 270 L82 268 L62 240 L50 208 L48 172 L58 140 L52 112 L66 88 L96 70 L138 60 L188 54 L228 54 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.8"/>
+<ellipse cx="78" cy="168" rx="40" ry="30" fill="#99f6e4" stroke="#0f766e" stroke-width="1.5"/>
+<text x="78" y="164" text-anchor="middle" font-size="10" font-weight="700" fill="#115e59">Damb Sadaat</text>
+<text x="78" y="178" text-anchor="middle" font-size="9" fill="#115e59">Balochistan</text>
+<ellipse cx="148" cy="138" rx="42" ry="28" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+<text x="148" y="134" text-anchor="middle" font-size="10" font-weight="700" fill="#92400e">Kot Diji</text>
+<text x="148" y="148" text-anchor="middle" font-size="9" fill="#92400e">Indus / Multan</text>
+<ellipse cx="228" cy="128" rx="48" ry="30" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="228" y="124" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a8a">Sothi-Siswal</text>
+<text x="228" y="138" text-anchor="middle" font-size="9" fill="#1e3a8a">HR · N RJ · S PB</text>
+<ellipse cx="138" cy="218" rx="50" ry="32" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="138" y="214" text-anchor="middle" font-size="10" font-weight="700" fill="#991b1b">Amri-Nal</text>
+<text x="138" y="228" text-anchor="middle" font-size="9" fill="#991b1b">Sindh + Gujarat</text>
+<circle cx="72" cy="118" r="5" fill="#0f172a"/>
+<text x="20" y="104" font-size="11" font-weight="700" fill="#0f172a">Mehrgarh</text>
+<text x="20" y="118" font-size="10" fill="#475569">Quetta</text>
+<text x="20" y="132" font-size="10" fill="#475569">south of Bolan</text>
+<line x1="72" y1="118" x2="84" y2="118" stroke="#0f172a" stroke-width="1"/>
 </svg>
 </div>
 
