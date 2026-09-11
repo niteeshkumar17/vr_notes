@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-11
-*   **Active Micro-Topics:** 587
+*   **Active Micro-Topics:** 590
 *   **Overall Database Mastery:** 78.2% 📈
-*   **Today's Recall Completed:** Ghost Recall **7 / 8** (morning). Evening ingest: **HIS-IVC** + **GEO-12** (Rizwan A4 geomagnetism).
+*   **Today's Recall Completed:** Ghost Recall **7 / 8** (morning). Evening ingest: **HIS-IVC** + **GEO-12** + **CA-260911** (FSSAI FoPL).
 *   **Active Learning Gaps Detected:** `MST-029` DDT **repeat 4** · leftover `MST-062` geoid · `MST-069` Art 335 · `MST-070` NCM-only · `MST-075` UNR Rao
-*   **New Topics Ingested Today:** **HIS-IVC** (11 Sep Vijender Singh) + **GEO-12** (11 Sep Rizwan A4 — geodynamo / aurora / CME). **Tomorrow Q1 = HIS-IVC. Q2 = GEO-12.** **CA-260910** stays **12 Sep Q3–Q6**. Q8 = `MST-029`.
+*   **New Topics Ingested Today:** **HIS-IVC** + **GEO-12** + **CA-260911** (11 Sep *Hindu*: SC–FSSAI warning labels). **Tomorrow Q1 = HIS-IVC. Q2 = GEO-12.** **CA-260910** + **CA-260911** sit **12 Sep Q3–Q6** (do not steal class Q1–Q2). Q8 = `MST-029`.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -592,6 +592,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260910-01 | CBSE three-language: Centre objects to English as native; Class 6 one-time Class 10 reprieve | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Not Art 343` $\leftrightarrow$ `SG Mehta has an issue` $\leftrightarrow$ `Class 6 reprieve` $\leftrightarrow$ `Minority schools notice` $\leftrightarrow$ `Sankaranarayanan non-native` |
 | CA-260910-02 | OpenAI Navier-Stokes claim: 88h / 100-page proof unseen; Buckmaster Codex ethics | 2 | ★★★★☆ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Navier-Stokes fluids` $\leftrightarrow$ `Millennium open` $\leftrightarrow$ `88 hours` $\leftrightarrow$ `Proof not independently seen` $\leftrightarrow$ `Not a settled prize` |
 | CA-260910-03 | Marital rape: IPC 375 / BNS 63 exception stands; onus on legislature; Karnataka HC 2022 | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `IPC wife not under 15` $\leftrightarrow$ `BNS 63 age 18` $\leftrightarrow$ `Victim ≠ Code rape` $\leftrightarrow$ `JS Verma 2013` $\leftrightarrow$ `≠ Sec 82 BNS polygamy` |
+| CA-260911-01 | FoPL: red hexagon; 2+ of fat/sugar/salt; ICMR-NIN Dietary Guidelines 2024 | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Front-of-pack` $\leftrightarrow$ `HIGH FAT/SUGAR/SALT` $\leftrightarrow$ `Not Radura` $\leftrightarrow$ `Two-or-more first trigger` |
+| CA-260911-02 | Bench Pardiwala + Vinod Chandran; ASG Brijender Chahar; national interest / children | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `PIL 3S + Our Health Society` $\leftrightarrow$ `Have you laid down guidelines` $\leftrightarrow$ `Growing children` |
+| CA-260911-03 | Two-phase FoPL needs a real timeline; affidavit 10 days; next 28 Sep 2026 | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Phase2 not indefinitely postponed` $\leftrightarrow$ `Open to even-one nutrient` $\leftrightarrow$ `School nutritional literacy` $\leftrightarrow$ `Words + pictorial` |
 
 ---
 
@@ -824,8 +827,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (12 Sep) Q1–Q2:** **HIS-IVC** (11 Sep Chalcolithic / IVC start). Second 11 Sep class takes Q2 **when ingested**. Do **not** steal **CA-260910** from Q3–Q6
-  2. **Q3–Q6:** **CA-260910** (CBSE English / Navier–Stokes / marital rape) · CA **8–16 Aug**
+  1. **Tomorrow (12 Sep) Q1–Q2:** **HIS-IVC** + **GEO-12**. Do **not** steal CA from class Q1–Q2
+  2. **Q3–Q6:** **CA-260910** (CBSE English / Navier–Stokes / marital rape) · **CA-260911** (SC–FSSAI FoPL) · CA **8–16 Aug**
   3. **Q7:** Ancient **+7**. **Q8:** `MST-029` DDT **repeat 4**. Leftover: `MST-062` geoid · `MST-069` Art 335 · `MST-070` NCM-only · `MST-075` UNR Rao
   4. **SOC-02** + **ST-06** + **CA-260909** + Gorkha → **14 Sep**. President vote-value **+7 → 18 Sep**. **SOC-01** + **IR-03** + **CA-260908** + GEO-11 → **13 Sep**. MOD-B7 / ST-05 / FRA → **12 Sep** if a leftover slot
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-057` / `065` / `066` / `067` / `068` / `071` / `072` / `073` / `074` stay resolved (15-day).
