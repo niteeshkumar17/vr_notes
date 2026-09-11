@@ -5,7 +5,7 @@
 
 * **Category**: Fundamental Rights (Part III)
 * **Article 16**: Equality of opportunity in **public employment**.
-* **Article 16(3)**: **Only Parliament** has the exclusive power to prescribe residence requirements for public employment. State Legislatures do NOT have this power. (`MST-074` — evening 10 Sep marked all three.)
+* **Article 16(3)**: **Only Parliament** has the exclusive power to prescribe residence requirements for public employment. State Legislatures do NOT have this power. (`MST-074` **held** 11 Sep Ghost Recall.)
 * **Article 16(4)**: State may reserve posts for backward classes inadequately represented.
 
 ### Update — 10 September 2026 (UPSC CSE Prelims 2023)

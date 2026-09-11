@@ -248,6 +248,12 @@ Articles misses (same SOC-02-06 cluster; **no extra Day-1**):
 
 Class locks that stay: **15 / 16** = equality; **15(4) / 16(4)** = equity.
 
+### Update — 11 September 2026 (Ghost Recall)
+
+First-pass **held**. Mandal **1978 / 1980 / 1990**. Sawhney: creamy = **must**, subclass = **will**, creamy **not** SC/ST from **1992**. `MST-073` / `MST-074` **held** (15(4) = **1st CAA 1951** Champakam; 16(3) = **Parliament only**).
+
+Trap leftover (no new MST): Haryana Yadav = **Gurugram / Ahirwal**, not the whole State; Jat belt = **Panipat–Sonipat–Rohtak**.
+
 ---
 
 ## Abbreviations

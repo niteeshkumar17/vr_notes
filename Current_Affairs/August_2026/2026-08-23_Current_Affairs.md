@@ -259,6 +259,10 @@ graph TD
    - Fast-track ST categorization for 11 Gorkha communities under Article 342.
    - Institutionalise cooperative federalism balancing Hill aspirations with West Bengal's developmental cohesion.
 
+### Update — 11 September 2026 (Ghost Recall)
+
+First-pass **held**. Interlocutor **Pankaj Kumar Singh**; **DGHC 1988** vs **GTA 2011**. Siliguri = **Chicken’s Neck** (NE to the mainland).
+
 ---
 
 <!-- 2026-08-23: Created daily current affairs note covering (1) MHA High-Level Committee on Gorkha Permanent Political Solution chaired by former Deputy NSA Pankaj Kumar Singh, evolution from DGHC (1988) to GTA (2011); (2) Constitutional pathways under Article 3, Sixth Schedule, Article 371 Asymmetric Federalism, and Siliguri Corridor ('Chicken's Neck') strategic security dimensions. -->

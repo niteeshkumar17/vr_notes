@@ -89,6 +89,10 @@ Last class named the bosons. Today: **what each force does**, **range**, **relat
 
 Flash F7 **missed** (`MST-072`): today’s fusion **efficiency < 1** (why it is not commercial — paper Q4 held). ITER’s **goal** is **10**. Do not lock “<1 forever” as the ITER target.
 
+### Update — 11 September 2026 (Ghost Recall)
+
+First-pass **held**. All commercial = **fission**; fusion needs efficiency **> 1**. EAST **China**, K-STAR **Korea**, ITER **France**. Control rods **boron + cadmium**. `MST-072` **held**: ITER goal **50 MW in → 500 MW out** (= **10**).
+
 ```mermaid
 flowchart LR
   subgraph Fiss["Fission"]

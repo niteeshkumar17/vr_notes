@@ -74,6 +74,10 @@ Do not invent an island name the clip does not use.
 ### 3. One-liner
 **Chagos:** UK–Mauritius sovereignty deal (**May 2025**) is **on hold (April 2026)**. **Maldives** claims it, not only Mauritius.
 
+### Update — 11 September 2026 (Ghost Recall)
+
+First-pass **held**. WDFC = **JNPT → Dadri (UP)**; inauguration **Vadodara**. UNICORN = **Unified Complex Radio Antenna**; BEL MoU **Nov 2024**; Veer Guardian **Sep 2026** = first Japanese fighters. Chagos: **May 2025** deal **on hold April 2026**; Maldives also claims.
+
 ---
 
 ## Abbreviations

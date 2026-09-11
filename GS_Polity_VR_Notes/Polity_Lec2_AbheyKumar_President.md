@@ -166,6 +166,10 @@ Value of Vote of 1 MLA = Population of State / (No. of Elected MLAs × 1000)
 
 He picked **only three** — the extra tick is statement 2.
 
+### Update — 11 September 2026 (Ghost Recall)
+
+`MST-071` **held**: nominated MPs/MLAs **out**; MLA vote value **will not increase**. Formula lock: **Population / (elected MLAs × 1000)**. Mechanism: more seats sit in the **denominator**. The **1971 census freeze** is a different lock (the **numerator** does not grow).
+
 #### Real Values (2022 Election):
 | State | MLA Vote Value | Notes |
 |-------|---------------|-------|

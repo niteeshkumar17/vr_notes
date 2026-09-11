@@ -53,6 +53,10 @@ Class locks that stay: filler scheme name = **JSY**; SEARCH drop **62.2%** (*Lan
 
 `MST-057` **repeat 3**: still *Perinatology* **2005** and blank %. Filler = **Janani Suraksha Yojana**. Drop = **62.2%** *Lancet* **1999**. `MST-065` left **blank** — `CSE-2023-Q51` = **only two**.
 
+### Update — 11 September 2026 (Ghost Recall)
+
+`MST-065` **held**: JSY = cash for **poor pregnant women** to **institutional delivery**. How many of the four = **only two** (statements **2 and 3**). Not State Health Departments; not sick infants to one year.
+
 ### Update — 10 September 2026 (evening paper)
 
 `MST-057` **held**: **JSY**; **62.2%** *Lancet* **1999**; home **1,800 g · 34 weeks**. `MST-065` (only two) was **not** on this paper — still due **11 Sep**.
