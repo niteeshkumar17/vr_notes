@@ -309,7 +309,8 @@ The practice of **agriculture and livestock as main activity** marks the beginni
 ---
 
 ## Next Topic: Chalcolithic Age
-*(To be covered in next class)*
+
+Covered **11 September 2026**: `Ancient_India_Chalcolithic_and_IVC.md` (cluster **HIS-IVC**). Town planning is the next IVC class.
 
 ---
 

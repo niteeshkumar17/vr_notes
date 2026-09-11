@@ -78,7 +78,8 @@
 | Current_Affairs | 05 September 2026 (BIT + district-judge age) | 2026-09-07 | 2 | 85.0% | 2026-09-10 | Somewhat | - | BIT State-heavy held. 60→62 backlog held; **merit-based / not automatic** missed (`MST-051`). Cluster +3 **10 Sep**. |
 | Current_Affairs | 06 September 2026 (Yarlung dam + BRICS payments) | 2026-09-07 | 1 | 100% | 2026-09-10 | Confident | - | Yarlung = Brahmaputra + 5 stations; India = cost/speed ≠ dump dollar. Trap: 1.2 trillion yuan not named. Cluster +3 **10 Sep**. |
 | Current_Affairs | 09 September 2026 (WDFC + India–Japan + Chagos) | 2026-09-11 | 1 | 100% | 2026-09-14 | Confident | - | Ghost Recall first-pass **held**. JNPT → Dadri; Vadodara. UNICORN / BEL Nov 2024; Veer Guardian Sep 2026. Chagos May 2025 / hold Apr 2026; Maldives claims. Cluster **+3 14 Sep**. |
-| Current_Affairs | 10 September 2026 (CBSE English + Navier–Stokes + marital rape) | 2026-09-10 | 0 | 0% | 2026-09-12 | New | - | **CA-260910** parked **12 Sep** (11 Sep Q1–Q2 already two classes). Centre objects to English as native; Class 6 one-time Class 10 reprieve. OpenAI NS claim ≠ settled. IPC 375 / BNS 63 exception; onus on legislature. |
+| Current_Affairs | 10 September 2026 (CBSE English + Navier–Stokes + marital rape) | 2026-09-10 | 0 | 0% | 2026-09-12 | New | - | **CA-260910** parked **12 Sep** (do not steal class Q1). Centre objects to English as native; Class 6 one-time Class 10 reprieve. OpenAI NS claim ≠ settled. IPC 375 / BNS 63 exception; onus on legislature. |
+| GS_History_VR_Notes | Ancient India — Chalcolithic & IVC start (11 Sep) | 2026-09-11 | 0 | 0% | 2026-09-12 | New | 2025 | **HIS-IVC** first-pass **12 Sep Q1**. Substantial copper; no true Bronze Age (tin / Afghanistan). Four names; cardinal map + Lothal dockyard + Shortughai; indigenous origin; Mehrgarh + four regional cultures. Town planning parked. |
 
 
 ---

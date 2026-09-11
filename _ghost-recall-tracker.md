@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-11
-*   **Active Micro-Topics:** 575
+*   **Active Micro-Topics:** 581
 *   **Overall Database Mastery:** 78.2% 📈
-*   **Today's Recall Completed:** Ghost Recall **7 / 8**. `MST-065` / `071` / `072` / `073` / `074` resolved. `MST-029` **repeat 4** (OECD still; France/NL/Switzerland held).
+*   **Today's Recall Completed:** Ghost Recall **7 / 8** (morning). Evening ingest: **HIS-IVC** (Chalcolithic + IVC start).
 *   **Active Learning Gaps Detected:** `MST-029` DDT **repeat 4** · leftover `MST-062` geoid · `MST-069` Art 335 · `MST-070` NCM-only · `MST-075` UNR Rao
-*   **New Topics Ingested Today:** None this morning. **Tomorrow Q1–Q2 = 11 Sep classes** (if any). **CA-260910** first-pass **12 Sep**. Q8 = `MST-029` + leftover atoms.
+*   **New Topics Ingested Today:** **HIS-IVC** (11 Sep Vijender Singh — Chalcolithic / IVC naming–geography–origin–phases). **Tomorrow Q1 = HIS-IVC.** Q2 = second 11 Sep class **if the note arrives** (do not steal **CA-260910**). **CA-260910** stays **12 Sep Q3–Q6**. Q8 = `MST-029`.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -743,6 +743,16 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | HIS-AI-14 | Neolithic Age: Celts, Agriculture & Settled Life in Villages | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Polished/Symmetric/Precision` $\leftrightarrow$ `Sedentary Life` $\leftrightarrow$ `Houses Near Fields` $\leftrightarrow$ `HG Secondary` |
 | HIS-AI-15 | Neolithic Revolution: Division of Labour, Specialization & Prime Species | 2 | ★★★★★ | Day 3 | 2026-09-05 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-02 | Fast 🟢 | `Surplus → Free Population` $\leftrightarrow$ `Pottery/Cloth/Masonry` $\leftrightarrow$ `Division of Labour` $\leftrightarrow$ `Control All Species` $\leftrightarrow$ `Revolution = Sudden+Fundamental` |
 
+### History (Ancient India — Chalcolithic & IVC start — Vijender Singh, 11 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| HIS-IVC-01 | Chalcolithic = substantial copper; Bronze Age worldwide ≠ India (tin scarce) | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `4th–2nd mill BC` $\leftrightarrow$ `Not first copper tool` $\leftrightarrow$ `Surplus→trade→cities` $\leftrightarrow$ `Bronze=Cu+Sn` $\leftrightarrow$ `Afghanistan tin` $\leftrightarrow$ `True Bronze Age never India` |
+| HIS-IVC-02 | Board timeline: IVC 2600–1900; opaque 1900–1500; Rig Vedic still Chalcolithic | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Dark period≠Dark Age` $\leftrightarrow$ `Do not fill the gap` $\leftrightarrow$ `People lived urbanization died` $\leftrightarrow$ `Later Vedic=Iron` |
+| HIS-IVC-03 | Four names: Harappan / IVC / Sindhu–Saraswati / Meluha | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sahni 1920/21 Ravi` $\leftrightarrow$ `Harappa=city` $\leftrightarrow$ `Technical=Harappan features` $\leftrightarrow$ `UPSC=Saraswati` $\leftrightarrow$ `Meluha=guess cotton+beads` |
+| HIS-IVC-04 | Extent: Sutkagendor–Shortughai–Alamgirpur–Daimabad; Lothal dockyard; features>map | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No site east of Ganga` $\leftrightarrow$ `Manda no longer N` $\leftrightarrow$ `Shortughai outpost Afg.` $\leftrightarrow$ `Lothal artificial dockyard` $\leftrightarrow$ `Sukta Koh Gwadar` |
+| HIS-IVC-05 | Origin: Mesopotamian migration fail; indigenous gradual successive | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Elite-in-city theory unsupported` $\leftrightarrow$ `Proto-urban layer below cities` $\leftrightarrow$ `Archaeology supports indigenous` |
+| HIS-IVC-06 | Four phases + Mehrgarh + Amri-Nal / Kot Diji / Sothi-Siswal / Damb Sadaat | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mehrgarh south of Bolan` $\leftrightarrow$ `3300–2600 regional` $\leftrightarrow$ `2600 merge=IVC` $\leftrightarrow$ `Town planning next` |
+
 ### IR (Basics — Iqbal Singh Sandhu, Lecture 1, 1 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -804,7 +814,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (12 Sep) Q1–Q2:** yesterday’s two classes (11 Sep), if any. Do **not** steal **CA-260910** from Q3–Q6
+  1. **Tomorrow (12 Sep) Q1–Q2:** **HIS-IVC** (11 Sep Chalcolithic / IVC start). Second 11 Sep class takes Q2 **when ingested**. Do **not** steal **CA-260910** from Q3–Q6
   2. **Q3–Q6:** **CA-260910** (CBSE English / Navier–Stokes / marital rape) · CA **8–16 Aug**
   3. **Q7:** Ancient **+7**. **Q8:** `MST-029` DDT **repeat 4**. Leftover: `MST-062` geoid · `MST-069` Art 335 · `MST-070` NCM-only · `MST-075` UNR Rao
   4. **SOC-02** + **ST-06** + **CA-260909** + Gorkha → **14 Sep**. President vote-value **+7 → 18 Sep**. **SOC-01** + **IR-03** + **CA-260908** + GEO-11 → **13 Sep**. MOD-B7 / ST-05 / FRA → **12 Sep** if a leftover slot
