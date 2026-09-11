@@ -50,11 +50,31 @@ Iron Age **starts somewhere in the 2nd millennium BC**. Class: **do not** take a
 
 ## 2. Board timeline (HIS-IVC-02)
 
-```mermaid
-flowchart LR
-  N["Neolithic / food-producing"] --> C["Chalcolithic 4th→2nd mill. BC"]
-  C --> I["Iron Age from ~2nd mill. BC"]
-```
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 168" role="img" aria-label="Chalcolithic board: IVC 2600 to 1900 BC, opaque gap 1900 to 1500, Rig Vedic still Chalcolithic, Later Vedic starts the Iron Age" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="398" height="166" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="28" y="22" font-size="11" font-weight="700" fill="#475569">4th mill. BC</text>
+  <text x="372" y="22" text-anchor="end" font-size="11" font-weight="700" fill="#475569">2nd mill. BC</text>
+  <line x1="28" y1="36" x2="372" y2="36" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="28" y="48" width="92" height="36" rx="4" fill="#ccfbf1" stroke="#0f766e"/>
+  <text x="74" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#115e59">IVC</text>
+  <text x="74" y="78" text-anchor="middle" font-size="9" fill="#334155">2600–1900</text>
+  <rect x="120" y="48" width="70" height="36" rx="4" fill="#e2e8f0" stroke="#64748b" stroke-dasharray="3 2"/>
+  <text x="155" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">opaque</text>
+  <text x="155" y="78" text-anchor="middle" font-size="9" fill="#64748b">1900–1500</text>
+  <rect x="190" y="48" width="86" height="36" rx="4" fill="#ccfbf1" stroke="#0f766e"/>
+  <text x="233" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#115e59">Rig Vedic</text>
+  <text x="233" y="78" text-anchor="middle" font-size="9" fill="#334155">1500–1000</text>
+  <rect x="276" y="48" width="96" height="36" rx="4" fill="#ffedd5" stroke="#c2410c"/>
+  <text x="324" y="64" text-anchor="middle" font-size="11" font-weight="700" fill="#9a3412">Later Vedic</text>
+  <text x="324" y="78" text-anchor="middle" font-size="9" fill="#9a3412">1000–600 · Iron</text>
+  <text x="74" y="108" text-anchor="middle" font-size="10" fill="#0f766e">Chalcolithic</text>
+  <text x="233" y="108" text-anchor="middle" font-size="10" fill="#0f766e">still Chalcolithic</text>
+  <text x="324" y="108" text-anchor="middle" font-size="10" fill="#c2410c">Iron Age starts</text>
+  <text x="200" y="132" text-anchor="middle" font-size="11" fill="#0f172a">Do not fill 1900–1500. People lived; urbanization declined.</text>
+  <text x="200" y="150" text-anchor="middle" font-size="10" fill="#64748b">Neolithic food-producing sits before this board (Mehrgarh).</text>
+</svg>
+</div>
 
 | Span | What | Metal age |
 |:---|:---|:---|
@@ -127,31 +147,93 @@ A naval-trade civilization would have had **hundreds** of ports; most were wiped
 1. **Sukta Koh** (*koh* = mountain) near **Sutkagendor** / **Gwadar** (class: China–Pakistan Economic Corridor (CPEC) place-name only).  
 2. **Lothal** — mouth of the **Sabarmati**, **Ahmedabad** district, **Gujarat**. **Artificial dockyard** (basin filled through one gate so waves do not smash boats while loading). Class: some say “swimming pool”; a pool on the coast is a weak story — the find has dockyard features.
 
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" role="img" aria-label="Harappan extent: Shortughai north, Sutkagendor west, Alamgirpur east, Daimabad south, Lothal dockyard on the Sabarmati" style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-  <rect width="420" height="360" fill="#f8fafc"/>
-  <path d="M70 70 C90 40 160 28 210 48 C250 38 300 70 318 118 C340 160 355 210 348 250 C338 295 300 322 250 330 C200 338 150 322 118 290 C88 255 70 200 62 150 C58 118 60 90 70 70 Z" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
-  <path d="M95 95 C130 88 165 100 175 130 C185 155 170 185 155 200 C140 218 125 235 130 255" fill="none" stroke="#0ea5e9" stroke-width="2"/>
-  <text x="138" y="168" font-size="9" fill="#0369a1">Indus</text>
-  <text x="248" y="175" font-size="9" fill="#0369a1">Yamuna</text>
-  <text x="278" y="188" font-size="9" fill="#0369a1">Ganga</text>
-  <text x="200" y="268" font-size="9" fill="#0369a1">Narmada</text>
-  <text x="168" y="300" font-size="9" fill="#0369a1">Tapti</text>
-  <circle cx="118" y="128" r="4" fill="#be123c"/>
-  <text x="22" y="124" font-size="10" font-weight="700" fill="#9f1239">Sutkagendor (W)</text>
-  <circle cx="198" y="58" r="4" fill="#be123c"/>
-  <text x="208" y="48" font-size="10" font-weight="700" fill="#9f1239">Shortughai (N) Afg.</text>
-  <circle cx="210" y="92" r="3" fill="#64748b"/>
-  <text x="218" y="88" font-size="9" fill="#334155">Manda</text>
-  <circle cx="292" y="168" r="4" fill="#be123c"/>
-  <text x="300" y="164" font-size="10" font-weight="700" fill="#9f1239">Alamgirpur (E)</text>
-  <circle cx="228" y="318" r="4" fill="#be123c"/>
-  <text x="238" y="330" font-size="10" font-weight="700" fill="#9f1239">Daimabad (S)</text>
-  <circle cx="155" y="248" r="4" fill="#047857"/>
-  <text x="52" y="262" font-size="10" font-weight="700" fill="#047857">Lothal dockyard</text>
-  <text x="20" y="348" font-size="10" fill="#475569">Features primary. Map moves when a qualifying site appears.</text>
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Class geography map: Sutkagendor west, Shortughai north in Afghanistan, Alamgirpur east between Yamuna and Ganga, Daimabad south, Lothal dockyard on the Sabarmati, Sukta Koh near Gwadar" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="398" height="498" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="12" y="22" font-size="12" font-weight="700" fill="#0f172a">Geography (class board)</text>
+  <text x="12" y="38" font-size="10" fill="#64748b">Map secondary · features primary</text>
+
+  <!-- subcontinent: India + Pakistan + Afghan north, class silhouette -->
+  <path d="M 198 36
+    C 222 20 248 24 258 46
+    C 268 66 266 90 254 108
+    C 278 118 312 138 330 168
+    C 346 198 352 232 346 268
+    C 338 308 322 348 300 382
+    C 280 412 255 438 230 448
+    C 214 454 202 444 196 418
+    C 188 384 178 348 168 318
+    C 158 292 142 276 122 268
+    C 108 262 118 252 112 244
+    C 92 236 70 230 58 214
+    C 46 198 40 178 44 156
+    C 50 130 68 108 92 90
+    C 118 70 148 52 172 42
+    C 184 38 192 36 198 36 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.8"/>
+
+  <!-- rivers -->
+  <path d="M 168 48 C 155 72 140 102 122 132 C 104 162 84 192 68 218" fill="none" stroke="#0284c7" stroke-width="2"/>
+  <text x="128" y="88" font-size="10" font-weight="700" fill="#0369a1">Indus</text>
+  <path d="M 228 82 C 200 92 168 108 140 124" fill="none" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="178" y="96" font-size="9" fill="#0369a1">Sutlej</text>
+  <path d="M 238 72 C 246 102 258 132 272 158" fill="none" stroke="#0284c7" stroke-width="1.6"/>
+  <text x="278" y="120" font-size="10" fill="#0369a1">Yamuna</text>
+  <path d="M 258 78 C 280 112 312 148 338 178" fill="none" stroke="#0284c7" stroke-width="1.8"/>
+  <text x="312" y="142" font-size="10" fill="#0369a1">Ganga</text>
+  <path d="M 228 158 C 242 168 255 164 266 156" fill="none" stroke="#0284c7" stroke-width="1.3"/>
+  <text x="218" y="178" font-size="9" fill="#0369a1">Chambal</text>
+  <path d="M 128 210 C 118 226 112 238 108 248" fill="none" stroke="#0284c7" stroke-width="1.4"/>
+  <text x="72" y="228" font-size="9" fill="#0369a1">Sabarmati</text>
+  <path d="M 218 258 C 175 254 132 250 88 248" fill="none" stroke="#0284c7" stroke-width="1.6"/>
+  <text x="168" y="248" font-size="9" fill="#0369a1">Narmada</text>
+  <path d="M 205 282 C 168 278 132 274 98 272" fill="none" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="158" y="298" font-size="9" fill="#0369a1">Tapti</text>
+
+  <!-- cardinal sites -->
+  <circle cx="148" cy="40" r="4.5" fill="#be123c"/>
+  <line x1="148" y1="40" x2="78" y2="52" stroke="#9f1239" stroke-width="1"/>
+  <text x="8" y="50" font-size="11" font-weight="700" fill="#9f1239">Shortughai (N)</text>
+  <text x="8" y="62" font-size="9" fill="#64748b">N. Afghanistan</text>
+
+  <circle cx="214" cy="78" r="4" fill="#be123c"/>
+  <text x="222" y="74" font-size="11" font-weight="700" fill="#9f1239">Manda (N)</text>
+  <text x="222" y="86" font-size="9" fill="#64748b">Jammu</text>
+
+  <circle cx="50" cy="168" r="4.5" fill="#be123c"/>
+  <line x1="50" y1="168" x2="12" y2="168" stroke="#9f1239" stroke-width="1"/>
+  <text x="8" y="158" font-size="11" font-weight="700" fill="#9f1239">Sutkagendor (W)</text>
+  <text x="8" y="186" font-size="9" fill="#64748b">Balochistan–Iran border</text>
+
+  <circle cx="56" cy="198" r="3.5" fill="#047857"/>
+  <text x="8" y="212" font-size="10" font-weight="700" fill="#047857">Sukta Koh (Gwadar)</text>
+
+  <circle cx="276" cy="128" r="4.5" fill="#be123c"/>
+  <text x="284" y="124" font-size="11" font-weight="700" fill="#9f1239">Alamgirpur (E)</text>
+  <text x="284" y="136" font-size="9" fill="#64748b">Meerut · W of Ganga</text>
+
+  <circle cx="108" cy="248" r="4.5" fill="#047857"/>
+  <text x="8" y="258" font-size="11" font-weight="700" fill="#047857">Lothal</text>
+
+  <circle cx="158" cy="308" r="4.5" fill="#be123c"/>
+  <text x="168" y="312" font-size="11" font-weight="700" fill="#9f1239">Daimabad (S)</text>
+  <text x="168" y="324" font-size="9" fill="#64748b">Ahmednagar, MH</text>
+
+  <!-- Lothal dockyard inset, as on the sheet -->
+  <rect x="16" y="348" width="118" height="88" rx="6" fill="#fff" stroke="#334155"/>
+  <text x="75" y="366" text-anchor="middle" font-size="10" font-weight="700" fill="#0f172a">Artificial dockyard</text>
+  <rect x="36" y="376" width="78" height="36" rx="2" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+  <rect x="108" y="388" width="10" height="12" fill="#e0f2fe" stroke="#0369a1"/>
+  <path d="M 118 394 L 132 394" stroke="#0284c7" stroke-width="2"/>
+  <text x="75" y="428" text-anchor="middle" font-size="9" fill="#475569">one gate · boats inside</text>
+  <text x="200" y="372" font-size="10" fill="#334155">No site on / east of the Ganga.</text>
+  <text x="200" y="388" font-size="10" fill="#334155">Shortughai moved the north pole;</text>
+  <text x="200" y="404" font-size="10" fill="#334155">Manda is no longer northernmost.</text>
+  <text x="200" y="428" font-size="10" fill="#64748b">Two ports survive (uplifted, not on today’s coast).</text>
+  <text x="200" y="444" font-size="10" fill="#64748b">A site on the Indus without Harappan features is not IVC.</text>
 </svg>
-```
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Class geography board — cardinal sites, rivers, Lothal dockyard inset. Features decide the map, not the other way round.</em></p>
 
 Q&A extras (class): geographically **both** India and Pakistan; class order-of-magnitude **~500–600 sites each**. Harappan **baked brick** ratio **4 : 2 : 1** (why a “same as Egypt” brick PYQ fails — Egypt used **stone**). Intermediate Meluha trading stations → **trade map later**.
 
@@ -204,6 +286,54 @@ By the **mid-4th millennium BC** these villages used **substantial copper** → 
 | **Kot Diji** | Main **Indus** — northern Sindh and western Punjab (Multan belt) |
 | **Sothi–Siswal** | **Haryana**, north **Rajasthan**, south **Punjab** — between present **Sutlej** and older **Saraswati**. Class: **Ropar** northern end of this culture, **Kalibangan** southern |
 | **Damb Sadaat** | **Balochistan** |
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Four pre-Harappan regional cultures: Damb Sadaat in Balochistan, Kot Diji on the Indus, Amri-Nal in Sindh and Gujarat, Sothi-Siswal in Haryana and north Rajasthan, with Mehrgarh south of the Bolan Pass" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="398" height="498" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="12" y="22" font-size="12" font-weight="700" fill="#0f172a">Early Harappan · regional cultures</text>
+  <text x="12" y="38" font-size="10" fill="#64748b">3300–2600 BC · recognise on a map</text>
+  <path d="M 198 48
+    C 222 32 248 36 258 58
+    C 268 78 266 102 254 120
+    C 278 130 312 150 330 180
+    C 346 210 352 244 346 280
+    C 338 320 322 360 300 394
+    C 280 424 255 448 230 456
+    C 214 460 202 450 196 428
+    C 188 396 178 360 168 330
+    C 158 304 142 288 122 280
+    C 108 274 118 264 112 256
+    C 92 248 70 242 58 226
+    C 46 210 40 190 44 168
+    C 50 142 68 120 92 102
+    C 118 82 148 64 172 54
+    C 184 50 192 48 198 48 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.8"/>
+  <!-- Damb Sadaat -->
+  <ellipse cx="78" cy="148" rx="32" ry="28" fill="#99f6e4" fill-opacity="0.85" stroke="#0f766e" stroke-width="1.4"/>
+  <text x="78" y="144" text-anchor="middle" font-size="10" font-weight="700" fill="#115e59">Damb</text>
+  <text x="78" y="156" text-anchor="middle" font-size="10" font-weight="700" fill="#115e59">Sadaat</text>
+  <!-- Kot Diji -->
+  <ellipse cx="148" cy="138" rx="34" ry="26" fill="#fde68a" fill-opacity="0.9" stroke="#b45309" stroke-width="1.4"/>
+  <text x="148" y="134" text-anchor="middle" font-size="10" font-weight="700" fill="#92400e">Kot Diji</text>
+  <text x="148" y="146" text-anchor="middle" font-size="9" fill="#92400e">Indus / Multan</text>
+  <!-- Amri-Nal -->
+  <ellipse cx="108" cy="228" rx="40" ry="30" fill="#fecaca" fill-opacity="0.88" stroke="#b91c1c" stroke-width="1.4"/>
+  <text x="108" y="224" text-anchor="middle" font-size="10" font-weight="700" fill="#991b1b">Amri–Nal</text>
+  <text x="108" y="236" text-anchor="middle" font-size="9" fill="#991b1b">Sindh + Gujarat</text>
+  <!-- Sothi-Siswal -->
+  <ellipse cx="228" cy="128" rx="40" ry="28" fill="#bfdbfe" fill-opacity="0.9" stroke="#1d4ed8" stroke-width="1.4"/>
+  <text x="228" y="124" text-anchor="middle" font-size="10" font-weight="700" fill="#1e3a8a">Sothi–Siswal</text>
+  <text x="228" y="136" text-anchor="middle" font-size="9" fill="#1e3a8a">HR · N RJ · S PB</text>
+  <!-- Mehrgarh -->
+  <circle cx="70" cy="112" r="4" fill="#0f172a"/>
+  <text x="12" y="88" font-size="11" font-weight="700" fill="#0f172a">Mehrgarh</text>
+  <text x="12" y="102" font-size="9" fill="#475569">Quetta, Balochistan</text>
+  <text x="12" y="114" font-size="9" fill="#475569">south of Bolan Pass</text>
+  <line x1="70" y1="112" x2="70" y2="118" stroke="#0f172a"/>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Four pre-Harappan cultures on the class map. They merge at 2600 BC into one urban IVC. Ropar is the north of Sothi–Siswal; Kalibangan is the south.</em></p>
 
 **Proto-urban features already here:** straight roads, boundary wall, houses in a line, **baked bricks**, bead production, seal production. These become the **basis** of Mature urbanization → again: **gradual, successive, indigenous**.
 
