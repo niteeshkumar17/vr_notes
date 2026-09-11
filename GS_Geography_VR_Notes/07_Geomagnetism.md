@@ -127,24 +127,24 @@ It is **movement of hot liquid iron**, not a flow of electrons.
 **Why not the asthenosphere?** There **is** convection in the asthenosphere. The basement under it is the **lower mantle** — **non-metallic** (SIMA / silica). Geomagnetism is an **endogenic** property caused by the **geodynamo effect of the core only**, not the whole interior.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" role="img" aria-label="Geodynamo: rotating liquid outer core over solid inner core converts heat to magnetic field" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="544" height="224" rx="12" fill="#f8fafc" stroke="#94a3b8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" role="img" aria-label="Geodynamo: rotating liquid outer core over solid inner core converts heat to magnetic field" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="544" height="234" rx="12" fill="#f8fafc" stroke="#94a3b8"/>
 <text x="280" y="28" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Core = geodynamo · heat → magnetic field</text>
-<circle cx="168" cy="128" r="78" fill="#fed7aa" stroke="#c2410c" stroke-width="1.6"/>
-<circle cx="168" cy="128" r="42" fill="#fdba74" stroke="#9a3412" stroke-width="1.4"/>
-<circle cx="168" cy="128" r="18" fill="#7c2d12"/>
-<text x="168" y="124" text-anchor="middle" font-size="10" font-weight="700" fill="#fff7ed">IC</text>
-<text x="168" y="138" text-anchor="middle" font-size="9" fill="#ffedd5">solid metal</text>
-<text x="168" y="78" text-anchor="middle" font-size="11" font-weight="700" fill="#9a3412">outer core · liquid Fe</text>
-<path d="M 210 92 A 52 52 0 0 1 210 164" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#gd)"/>
-<defs><marker id="gd" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><polygon points="0,0 8,4 0,8" fill="#1d4ed8"/></marker></defs>
-<text x="248" y="100" font-size="11" fill="#1e3a8a">rotation</text>
-<text x="320" y="72" font-size="12" font-weight="700" fill="#0f172a">1. Thermal convection (major)</text>
-<text x="320" y="94" font-size="12" fill="#334155">2. Earth rotation (additional)</text>
-<text x="320" y="124" font-size="12" fill="#0f172a">Asthenosphere convects —</text>
-<text x="320" y="144" font-size="12" fill="#b91c1c">basement is non-metallic</text>
-<text x="320" y="176" font-size="11" fill="#475569">Earth still a magnet if it stops spinning</text>
-<text x="320" y="194" font-size="11" fill="#475569">— as long as OC heat transfer lasts</text>
+<circle cx="150" cy="132" r="78" fill="#fed7aa" stroke="#c2410c" stroke-width="1.8"/>
+<circle cx="150" cy="132" r="40" fill="#fdba74" stroke="#9a3412" stroke-width="1.4"/>
+<circle cx="150" cy="132" r="20" fill="#7c2d12"/>
+<text x="150" y="136" text-anchor="middle" font-size="11" font-weight="700" fill="#fff7ed">IC</text>
+<text x="150" y="70" text-anchor="middle" font-size="11" font-weight="700" fill="#9a3412">outer core · liquid Fe</text>
+<text x="150" y="226" text-anchor="middle" font-size="10" fill="#7c2d12">inner core = solid metal</text>
+<path d="M 218 88 A 86 86 0 0 1 228 176" fill="none" stroke="#1d4ed8" stroke-width="2.2"/>
+<polygon points="222,176 236,172 228,190" fill="#1d4ed8"/>
+<text x="238" y="108" font-size="11" font-weight="700" fill="#1e3a8a">rotation</text>
+<text x="310" y="78" font-size="12" font-weight="700" fill="#0f172a">1. Thermal convection (major)</text>
+<text x="310" y="100" font-size="12" fill="#334155">2. Earth rotation (additional)</text>
+<text x="310" y="132" font-size="12" fill="#0f172a">Asthenosphere convects —</text>
+<text x="310" y="152" font-size="12" fill="#b91c1c">basement is non-metallic</text>
+<text x="310" y="184" font-size="11" fill="#475569">Earth still a magnet if it stops spinning</text>
+<text x="310" y="202" font-size="11" fill="#475569">— as long as OC heat transfer lasts</text>
 </svg>
 </div>
 
@@ -179,31 +179,34 @@ Energy **emerges** from the magnetic **north** of the dipole and returns to magn
 So the field is oriented **geographic south → geographic north**. Reversals have happened; they are **not felt immediately**. For now, circulation is **S → N**.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" role="img" aria-label="Geographic axis versus magnetic axis, declination 11.5 degrees, Ellesmere Island north, Southern Ocean south" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="544" height="264" rx="12" fill="#f8fafc" stroke="#94a3b8"/>
-<text x="280" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Axes · declination 11.5° · poles not the same place</text>
-<circle cx="200" cy="148" r="88" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
-<line x1="200" y1="62" x2="200" y2="234" stroke="#0f172a" stroke-width="2"/>
-<text x="208" y="74" font-size="10" font-weight="700" fill="#0f172a">geo axis</text>
-<line x1="118" y1="148" x2="282" y2="148" stroke="#64748b" stroke-width="1.4" stroke-dasharray="4 3"/>
-<text x="286" y="152" font-size="10" fill="#475569">geo equator</text>
-<line x1="168" y1="66" x2="232" y2="230" stroke="#b91c1c" stroke-width="2"/>
-<text x="236" y="78" font-size="10" font-weight="700" fill="#b91c1c">magnetic axis</text>
-<path d="M 200 78 A 18 18 0 0 1 214 88" fill="none" stroke="#c2410c" stroke-width="1.4"/>
-<text x="218" y="86" font-size="10" font-weight="700" fill="#9a3412">θ 11.5°</text>
-<circle cx="176" cy="72" r="5" fill="#1d4ed8"/>
-<text x="52" y="68" font-size="10" fill="#1e3a8a">N mag pole</text>
-<text x="52" y="82" font-size="10" fill="#1e3a8a">Ellesmere I.</text>
-<text x="52" y="96" font-size="10" fill="#64748b">N Canada</text>
-<circle cx="224" cy="224" r="5" fill="#b91c1c"/>
-<text x="236" y="220" font-size="10" fill="#9a3412">S mag pole</text>
-<text x="236" y="234" font-size="10" fill="#9a3412">Southern Ocean</text>
-<text x="236" y="248" font-size="10" fill="#64748b">outside Antarctica</text>
-<text x="400" y="120" font-size="11" fill="#0f172a">inclination = 90 − 11.5</text>
-<text x="400" y="140" font-size="11" fill="#0f172a">mag eq ∠ geo eq = 11.5°</text>
-<text x="400" y="168" font-size="11" font-weight="700" fill="#1e3a8a">field now: geo S → geo N</text>
-<text x="400" y="188" font-size="11" fill="#475569">mag N sits in SH</text>
-<text x="400" y="204" font-size="11" fill="#475569">mag S sits in NH</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-label="Geographic axis versus magnetic axis, declination 11.5 degrees, Ellesmere Island north, Southern Ocean south" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:640px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="624" height="284" rx="12" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="320" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Axes · declination 11.5° · poles not the same place</text>
+<circle cx="230" cy="160" r="92" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<line x1="230" y1="58" x2="230" y2="262" stroke="#0f172a" stroke-width="2.2"/>
+<text x="230" y="50" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">geo N</text>
+<text x="230" y="278" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">geo S</text>
+<text x="242" y="118" font-size="10" fill="#334155">geo axis</text>
+<line x1="132" y1="160" x2="328" y2="160" stroke="#64748b" stroke-width="1.4" stroke-dasharray="4 3"/>
+<text x="334" y="156" font-size="10" fill="#475569">geo equator</text>
+<line x1="198" y1="62" x2="262" y2="258" stroke="#b91c1c" stroke-width="2.2"/>
+<circle cx="202" cy="72" r="6" fill="#1d4ed8"/>
+<circle cx="258" cy="248" r="6" fill="#b91c1c"/>
+<path d="M 230 78 A 22 22 0 0 0 216 86" fill="none" stroke="#c2410c" stroke-width="1.6"/>
+<text x="168" y="78" font-size="11" font-weight="700" fill="#9a3412">θ = 11.5°</text>
+<text x="274" y="92" font-size="11" font-weight="700" fill="#b91c1c">magnetic axis</text>
+<line x1="196" y1="72" x2="108" y2="56" stroke="#1d4ed8" stroke-width="1"/>
+<text x="24" y="48" font-size="11" font-weight="700" fill="#1e3a8a">N mag pole</text>
+<text x="24" y="64" font-size="11" fill="#1e3a8a">Ellesmere I.</text>
+<text x="24" y="78" font-size="10" fill="#64748b">N Canada</text>
+<line x1="264" y1="248" x2="318" y2="268" stroke="#b91c1c" stroke-width="1"/>
+<text x="322" y="264" font-size="11" font-weight="700" fill="#9a3412">S mag pole</text>
+<text x="322" y="278" font-size="10" fill="#9a3412">Southern Ocean · outside Antarctica</text>
+<text x="430" y="120" font-size="12" fill="#0f172a">inclination = 90 − 11.5</text>
+<text x="430" y="142" font-size="12" fill="#0f172a">mag eq ∠ geo eq = 11.5°</text>
+<text x="430" y="174" font-size="12" font-weight="700" fill="#1e3a8a">field now: geo S → geo N</text>
+<text x="430" y="196" font-size="11" fill="#475569">mag N of the dipole sits in SH</text>
+<text x="430" y="214" font-size="11" fill="#475569">mag S of the dipole sits in NH</text>
 </svg>
 </div>
 
@@ -236,27 +239,28 @@ Green and blue **dominate** because N₂ and O₂ dominate. Colour **can differ 
 **Not a seasonal solar event.** The Sun does not fire flares to match Earth’s seasons. **Visibility** rises in **winter** — **absence of insolation** at that pole. Watch **Norway in winter** (class: around Christmas). Southern watch would be **southern Argentina in June** — still less fruitful than Norway in December.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="Solar energy hits the magnetosphere, rides to the poles, and sparks green oxygen and blue nitrogen aurora where field overlaps atmosphere" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:640px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
-<rect x="8" y="8" width="624" height="244" rx="12" fill="#f8fafc" stroke="#94a3b8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 290" role="img" aria-label="Solar energy hits the magnetosphere, rides to the poles, and sparks green oxygen and blue nitrogen aurora where field overlaps atmosphere" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:640px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<rect x="8" y="8" width="624" height="274" rx="12" fill="#f8fafc" stroke="#94a3b8"/>
 <text x="320" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Overlap at poles → aurora · O₂ green · N₂ blue</text>
-<circle cx="280" cy="140" r="52" fill="#bbf7d0" stroke="#166534"/>
-<ellipse cx="280" cy="140" rx="78" ry="64" fill="none" stroke="#86efac" stroke-width="2"/>
-<text x="280" y="136" text-anchor="middle" font-size="11" font-weight="700" fill="#14532d">Earth</text>
-<text x="280" y="152" text-anchor="middle" font-size="9" fill="#166534">atm ~30 km</text>
-<ellipse cx="280" cy="140" rx="130" ry="88" fill="none" stroke="#0369a1" stroke-width="1.8"/>
-<text x="430" y="88" font-size="10" fill="#0369a1">magnetosphere</text>
-<polygon points="48,88 88,100 48,112" fill="#f97316"/>
-<text x="40" y="78" font-size="10" fill="#c2410c">solar flare</text>
-<path d="M 88 100 Q 160 70 210 92" fill="none" stroke="#f97316" stroke-width="1.6"/>
-<path d="M 210 92 Q 248 48 280 52" fill="none" stroke="#22c55e" stroke-width="2"/>
-<text x="248" y="44" font-size="10" font-weight="700" fill="#15803d">Borealis · green</text>
-<path d="M 210 188 Q 248 232 280 228" fill="none" stroke="#2563eb" stroke-width="2"/>
-<text x="300" y="248" font-size="10" font-weight="700" fill="#1d4ed8">Australis · rarer</text>
-<text x="470" y="130" font-size="11" fill="#0f172a">Eq: field high, no overlap</text>
-<text x="470" y="148" font-size="11" fill="#0f172a">Poles: field descends</text>
-<text x="470" y="166" font-size="11" fill="#0f172a">Winter = visibility, not season</text>
-<text x="470" y="192" font-size="11" fill="#15803d">near surface → green</text>
-<text x="470" y="210" font-size="11" fill="#1d4ed8">higher → blue / red-purple</text>
+<ellipse cx="250" cy="150" rx="158" ry="58" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.8"/>
+<ellipse cx="250" cy="150" rx="70" ry="62" fill="#dcfce7" stroke="#86efac" stroke-width="2"/>
+<circle cx="250" cy="150" r="48" fill="#bbf7d0" stroke="#166534" stroke-width="1.4"/>
+<text x="250" y="146" text-anchor="middle" font-size="12" font-weight="700" fill="#14532d">Earth</text>
+<text x="250" y="162" text-anchor="middle" font-size="9" fill="#166534">atm ~30 km</text>
+<ellipse cx="250" cy="98" rx="28" ry="14" fill="#86efac" fill-opacity="0.85" stroke="#15803d" stroke-width="1.2"/>
+<text x="250" y="78" text-anchor="middle" font-size="11" font-weight="700" fill="#15803d">Borealis · green</text>
+<ellipse cx="250" cy="202" rx="22" ry="10" fill="#93c5fd" fill-opacity="0.75" stroke="#1d4ed8" stroke-width="1.2"/>
+<text x="250" y="232" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">Australis · rarer</text>
+<polygon points="36,118 78,132 36,146" fill="#f97316"/>
+<text x="36" y="108" font-size="10" fill="#c2410c">solar flare</text>
+<path d="M 78 132 Q 140 108 188 118" fill="none" stroke="#f97316" stroke-width="1.8"/>
+<path d="M 188 118 Q 220 92 236 100" fill="none" stroke="#22c55e" stroke-width="2"/>
+<text x="422" y="70" font-size="11" fill="#0369a1">magnetosphere (fat at eq)</text>
+<text x="422" y="120" font-size="12" fill="#0f172a">Eq: field high, no overlap</text>
+<text x="422" y="140" font-size="12" fill="#0f172a">Poles: field descends → overlap</text>
+<text x="422" y="168" font-size="12" fill="#0f172a">Winter = visibility, not season</text>
+<text x="422" y="198" font-size="12" fill="#15803d">near surface → green (O₂)</text>
+<text x="422" y="218" font-size="12" fill="#1d4ed8">higher → blue / red-purple</text>
 </svg>
 </div>
 
