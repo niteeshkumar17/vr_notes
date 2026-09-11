@@ -80,6 +80,7 @@
 | Current_Affairs | 09 September 2026 (WDFC + India–Japan + Chagos) | 2026-09-11 | 1 | 100% | 2026-09-14 | Confident | - | Ghost Recall first-pass **held**. JNPT → Dadri; Vadodara. UNICORN / BEL Nov 2024; Veer Guardian Sep 2026. Chagos May 2025 / hold Apr 2026; Maldives claims. Cluster **+3 14 Sep**. |
 | Current_Affairs | 10 September 2026 (CBSE English + Navier–Stokes + marital rape) | 2026-09-10 | 0 | 0% | 2026-09-12 | New | - | **CA-260910** parked **12 Sep** (do not steal class Q1). Centre objects to English as native; Class 6 one-time Class 10 reprieve. OpenAI NS claim ≠ settled. IPC 375 / BNS 63 exception; onus on legislature. |
 | GS_History_VR_Notes | Ancient India — Chalcolithic & IVC start (11 Sep) | 2026-09-11 | 0 | 0% | 2026-09-12 | New | 2025 | **HIS-IVC** first-pass **12 Sep Q1**. Substantial copper; no true Bronze Age (tin / Afghanistan). Four names; cardinal map + Lothal dockyard + Shortughai; indigenous origin; Mehrgarh + four regional cultures. Town planning parked. |
+| GS_Geography_VR_Notes | 07 — Geomagnetism (Lec A4, 11 Sep) | 2026-09-11 | 0 | 0% | 2026-09-12 | New | - | **GEO-12** first-pass **12 Sep Q2**. Geodynamo = OC over IC; thermal convection major. Declination 11.5°; Ellesmere / Southern Ocean; field geo S→N. Aurora O₂ green / N₂ blue; CME flare–wind–plasma; reversal cyclic ≠ periodic (7–8 lakh yr). |
 
 
 ---

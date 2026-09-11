@@ -4,7 +4,7 @@
 
 > **Date added:** 8 September 2026 (Yellow Book ingest, not a class)  
 > **Source:** Vajiram & Ravi, *General Studies — Concepts of Geography 2027*, Chapter 3, pp. 28–36  
-> **Class twin:** `GS_Geography_VR_Notes/02_Geomorphology.md` Lectures A2–A3 (direct/indirect evidence, three models, discontinuities, lithosphere/asthenosphere, crust types, inner-core pressure). **No new Ghost Recall cluster.**  
+> **Class twin:** `GS_Geography_VR_Notes/02_Geomorphology.md` Lectures A2–A3 (direct/indirect evidence, three models, discontinuities, lithosphere/asthenosphere, crust types, inner-core pressure) + Lecture A4 geomagnetism in `GS_Geography_VR_Notes/07_Geomagnetism.md` (cluster **GEO-12** — do not add a Yellow Book cluster).  
 > **Book parks detailed earthquakes** for a later chapter (Ch 8). This chapter uses quakes only as a **seismic-wave** tool.
 
 **How to read shortcuts:** full form on first use. Where book and class depths clash, **class is the exam default**; book figures sit here as extras.
@@ -122,7 +122,7 @@ Moho: seismic velocity **jumps**. Oceanic crust subducts; continental more buoya
 | Density (book) | **9.9–12.2** g/cm³ | **12.6–13** |
 | T (book) | **4,400–6,000°C** | ~**6,000°C** |
 | Mix | NiFe + lighter traces | ~**80%** iron + nickel |
-| Extra | Convection + **Coriolis** → **dynamo** → magnetic field | Same as class: pressure keeps it solid |
+| Extra | Convection + **Coriolis** → **dynamo** → magnetic field | Same as class: pressure keeps it solid. **Class default for the dynamo is now A4** (`07_Geomagnetism.md`): thermal convection is the **major** driver; Earth rotation is additional. |
 
 Volume ~**16%**, mass ~**one-third**.
 
@@ -156,7 +156,7 @@ Book names match class. **Conrad:** book = jump **inside continental crust** (A2
 - Mponeng **~4 km**; Kola book **12.2** / class **13.7**.
 - Oceanic crust **not older than ~200 million years**; continental ~**4 Ga**.
 - **Mesosphere** in this chapter = lower mantle, **not** climatology’s mesosphere.
-- Dynamo = outer-core convection + Coriolis.
+- Dynamo = outer-core convection + Coriolis (book). **Class A4:** thermal convection **major**; Earth rotation extra; asthenosphere does **not** make the field.
 
 ---
 

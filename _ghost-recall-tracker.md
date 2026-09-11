@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-11
-*   **Active Micro-Topics:** 581
+*   **Active Micro-Topics:** 587
 *   **Overall Database Mastery:** 78.2% 📈
-*   **Today's Recall Completed:** Ghost Recall **7 / 8** (morning). Evening ingest: **HIS-IVC** (Chalcolithic + IVC start).
+*   **Today's Recall Completed:** Ghost Recall **7 / 8** (morning). Evening ingest: **HIS-IVC** + **GEO-12** (Rizwan A4 geomagnetism).
 *   **Active Learning Gaps Detected:** `MST-029` DDT **repeat 4** · leftover `MST-062` geoid · `MST-069` Art 335 · `MST-070` NCM-only · `MST-075` UNR Rao
-*   **New Topics Ingested Today:** **HIS-IVC** (11 Sep Vijender Singh — Chalcolithic / IVC naming–geography–origin–phases). **Tomorrow Q1 = HIS-IVC.** Q2 = second 11 Sep class **if the note arrives** (do not steal **CA-260910**). **CA-260910** stays **12 Sep Q3–Q6**. Q8 = `MST-029`.
+*   **New Topics Ingested Today:** **HIS-IVC** (11 Sep Vijender Singh) + **GEO-12** (11 Sep Rizwan A4 — geodynamo / aurora / CME). **Tomorrow Q1 = HIS-IVC. Q2 = GEO-12.** **CA-260910** stays **12 Sep Q3–Q6**. Q8 = `MST-029`.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -250,7 +250,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-09-07 | Boundary = Direction; Margin = O-O / O-C / C-C; Six Combos | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Need Arrows for C vs D` $\leftrightarrow$ `Same Place Two Names` |
 | GEO-09-08 | SFS: MOR + Age↑ to Continent + Symmetry; Divergent = Constructive | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Major New Crust = Ocean Floor` $\leftrightarrow$ `R1-R2-R3` $\leftrightarrow$ `C-C Divergent → Rift → Sea → SFS` |
 | GEO-09-09 | Continental 2.7 Granite 60-70 vs Oceanic 3 Basalt 15-20; Conrad; NCERT Trap | 3 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Basalt Denser than Granite` $\leftrightarrow$ `Moho Deeper under Continents` $\leftrightarrow$ `Conrad = C vs O Crust Today` |
-| GEO-09-10 | P/D/T Rise Non-Uniform; Closed Interior; IC Solid because Pressure / MP>6000 | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Both Cores ~6000` $\leftrightarrow$ `OC MP<6000 Liquid` $\leftrightarrow$ `Compressed All Directions` |
+| GEO-09-10 | P/D/T Rise Non-Uniform; Closed Interior; IC Solid because Pressure / MP>6000 | 2 | ★★★★★ | Day 3 | 2026-09-10 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-07 | Fast 🟢 | `Both Cores ~6000` $\leftrightarrow$ `OC MP<6000 Liquid` $\leftrightarrow$ `Compressed All Directions` $\leftrightarrow$ `1°C/30m ≠ run to centre` $\leftrightarrow$ `Density 3 factors composition/state/pressure` $\leftrightarrow$ `A4 extras 11 Sep no extra Day-1` |
 
 ### Geography (Climatology L9 — Convergence, Cells, GAPD & Hadley 1735 — 7 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -274,6 +274,16 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-11-05 | IAU 2006 Planet vs Dwarf; Terrestrial vs Jovian; 8 Planets | 3 | ★★★★★ | Day 3 | 2026-09-13 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-10 | Fast 🟢 | `Sphere+Cleared Orbit` $\leftrightarrow$ `Pluto 2006` $\leftrightarrow$ `Inner Rock vs Outer Gas` $\leftrightarrow$ `Jupiter 95 / Saturn 146` |
 | GEO-11-06 | Moon Tidal Lock; Ceres vs Kuiper Dwarfs; Meteoroid/Meteor/Meteorite | 2 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Big Splat` $\leftrightarrow$ `59% Near Side` $\leftrightarrow$ `Ceres=Belt` $\leftrightarrow$ `Space→Streak→Ground` $\leftrightarrow$ `2011 Comets not Venus–Mercury` |
 | GEO-11-07 | Stations: ISS 1998/400 km; Tiangong 2022; BAS 2035 | 1 | ★★★★☆ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ISS Partners 5` $\leftrightarrow$ `Tiangong 3 Crew` $\leftrightarrow$ `BAS 15–20 d / 20 t` $\leftrightarrow$ `ST-04-10 Class Still Skylab/Mir` |
+
+### Geography (Geomagnetism A4 — 11 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-12-01 | Density 2.7/5.5/13 Three Factors; 1°C/30m Cannot Run to Centre; Max ~6000 | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Composition+State+Pressure` $\leftrightarrow$ `30°C/km Near Surface Only` $\leftrightarrow$ `LM Slow No Radioactivity` $\leftrightarrow$ `Core T Uniform` $\leftrightarrow$ `Patch GEO-09-10` |
+| GEO-12-02 | Geodynamo: OC over IC Heat→B; Thermal Convection Major; Asthenosphere No | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Self-Sustaining Engine` $\leftrightarrow$ `Earth Rotation Additional` $\leftrightarrow$ `Non-Rotating Earth Still Magnet` $\leftrightarrow$ `Lower Mantle Non-Metallic Basement` $\leftrightarrow$ `Magnetosphere Shield` |
+| GEO-12-03 | Irregular Field; Declination 11.5°; Ellesmere / Southern Ocean; Geo S→N | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `OC Rotation Inconsistent` $\leftrightarrow$ `Inclination 90−11.5` $\leftrightarrow$ `Mag N in SH` $\leftrightarrow$ `S Pole Outside Antarctica` $\leftrightarrow$ `Eq Field High and Weak` |
+| GEO-12-04 | Aurora: Polar Overlap; O2 Green N2 Blue; Borealis More Common; Winter Visibility | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Atm 97% in 30 km` $\leftrightarrow$ `No Overlap at Equator` $\leftrightarrow$ `Lights = Large-Scale Aurora` $\leftrightarrow$ `Not Seasonal Solar` $\leftrightarrow$ `Norway Winter` |
+| GEO-12-05 | CME Trio Flare/Wind/Plasma; Storm Random Aurora; Insolation Transparent | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hotspot Heated Patch` $\leftrightarrow$ `Flare→Aurora` $\leftrightarrow$ `Wind→Lights+Storm` $\leftrightarrow$ `Plasma Strongest Storm` $\leftrightarrow$ `Geodynamo Rebuilds Field` |
+| GEO-12-06 | Four Features: Inconstant; Intensity Declined; Poles Shift; Reversal Cyclic≠Periodic | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Radioactivity Decay Weakens B` $\leftrightarrow$ `Shift = OC Tilt` $\leftrightarrow$ `Reversal = OC Direction Flip` $\leftrightarrow$ `Last 7–8 Lakh Yr` $\leftrightarrow$ `Unequal Intervals` |
 
 ### Internal Security (Fundamentals L1 — Evolution of Threats — 7 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |

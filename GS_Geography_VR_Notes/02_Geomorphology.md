@@ -1,9 +1,9 @@
 # 02 — Geomorphology (World Physical Geography — Chapter 1)
 
-> **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3)
-> **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**
-> **Teacher:** **Rizwan Sir** (three Geomorphology lectures: A1–A3)
-> **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3) + Audio Transcripts
+> **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3) + 11 September 2026 (A4 — Geomagnetism)
+> **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**; Lecture A4 added **2026-09-11**
+> **Teacher:** **Rizwan Sir** (Geomorphology lectures A1–A4)
+> **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3 + A4) + Audio Transcripts
 > **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)  
 > **Yellow Book Concepts Ch 3** (full): `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. Class stays master for models and depths. Wave types + shadow zones = extras below (A3).
 
@@ -29,7 +29,7 @@
 | I | Landform: Definition & Classification | Covered (Lec A1) |
 | II | Endogenetic Forces | Covered (Lec A2) |
 | III | Interior of the Earth | Covered (Lec A2 Models 1–2 + Lec A3 Model 3 / plates / SFS) |
-| IV | Geomagnetism (Magnetic Field of Earth) | Pending |
+| IV | Geomagnetism (Magnetic Field of Earth) | Covered — Lecture A4, `07_Geomagnetism.md` (cluster **GEO-12**) |
 | V | Exogenetic Forces / Denudation | Pending |
 | VI | Landforms Created by Denudation | Pending |
 | | — (i) Fluvial Landform → Water | |
@@ -739,7 +739,7 @@ EXPRESSION (Mountain building, Volcanism, Earthquakes, Plate Tectonics)
   - **Core** → divided into **Outer Core** (liquid) and **Inner Core** (solid)
   - **Mantle** → differentiated into **Lithosphere** and **Asthenosphere**
 - **Significance:** Became the basis for **Plate Tectonic Theory**
-- **Elaborated same chapter:** Lecture A3 — 6 September 2026 (§§19–29 below). Cluster **GEO-09**.
+- **Elaborated same chapter:** Lecture A3 — 6 September 2026 (§§19–29 below). Cluster **GEO-09**. Lecture A4 — 11 September 2026 (geomagnetism) in `07_Geomagnetism.md`. Cluster **GEO-12**.
 
 ### 18.5 Models ↔ Surface Theories Linkage
 
@@ -1104,7 +1104,15 @@ Full chapter: `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. 
 Within ~105°: **P and S**. **105–142°:** neither (P refracted, S blocked). Beyond 142°: **P returns, no S**. Whole far side beyond ~105°: **no direct S**.
 
 **Other extras**  
-**Mponeng** (South Africa) ~**4 km**. Kola book **12.2 km** (class **13.7**). Crust **0.5–1%** volume; ~**30°C/km**. Oceanic crust **not older than ~200 million years**. Mantle ~**83%** volume / **67%** mass. **Mesosphere** here = lower mantle (~**660 km** up), **not** the atmosphere layer. Outer-core convection + Coriolis = **dynamo** (geomagnetism still pending in class). Book Conrad = jump **inside continental crust**; **A3 Conrad = continental ↔ oceanic** — keep A3 for GEO-09.
+**Mponeng** (South Africa) ~**4 km**. Kola book **12.2 km** (class **13.7**). Crust **0.5–1%** volume; ~**30°C/km**. Oceanic crust **not older than ~200 million years**. Mantle ~**83%** volume / **67%** mass. **Mesosphere** here = lower mantle (~**660 km** up), **not** the atmosphere layer. Outer-core convection + Coriolis = **dynamo** — **class now taught as Lecture A4** in `07_Geomagnetism.md` (cluster **GEO-12**). Book Conrad = jump **inside continental crust**; **A3 Conrad = continental ↔ oceanic** — keep A3 for GEO-09.
+
+### Update — 11 September 2026 (Lecture A4 — density/T extras; geomagnetism is a new file)
+
+Full A4: `GS_Geography_VR_Notes/07_Geomagnetism.md`. **Do not** rewrite A3 as the dynamo lecture.
+
+**Density (new framing, same 2.7 / 5.5 / 13):** two depths are **not** the same density because of **composition, state of matter, and pressure**.
+
+**Geothermal (direct mines/drilling):** **1°C / 30 m** = **30°C / km**. If that rate ran the whole **~6,400 km** radius you would get ~**2 lakh °C** — class killed it. After a depth the rate **slows or becomes constant**; max stays ~**6,000°C**. Lower mantle slow = **no radioactivity + slow conduction**. Core T **uniform**. Pressure sets **melting point**, not temperature. Patch **GEO-09-10**; **no extra Day-1**.
 
 ---
 
