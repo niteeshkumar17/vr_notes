@@ -143,6 +143,10 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 **BRICS counters:** grow GDP; **de-dollarisation** (yuan, dirham; talk of a BRICS currency); **New Development Bank (NDB)** as alternative to IMF/WB.
 
+### Update — 12 September 2026 (*Hindu* NDB / CRA extras — no extra Day-1)
+
+Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/WB. **Newspaper extra (do not rewrite the class sentence):** NDB **co-finances** World Bank / IMF work — **complementary, not a rival**. **Contingent Reserve Arrangement (CRA), 2015** ($**100 billion** FX pool) has **never been activated**; drawing **>30%** of a member’s share still requires an **IMF programme**. Rio **July 2025** declaration **omits** the word de-dollarisation; **Putin Nov 2024** said the bloc has **not sought to abandon the dollar**; **India opposes** a common BRICS currency. Kazan/Rio ask for a **bigger say inside** a **quota-based, adequately resourced IMF** (US **16.49%** votes + **85%** supermajority = veto) — **not** to replace it. Full numbers: `Current_Affairs/September_2026/2026-09-06_Current_Affairs.md` (`CA-260906-02`). **18th** summit **12–13 Sep 2026**, New Delhi, **“Humanity First.”**
+
 **China (last 3–4 decades):** second GDP; **manufacturing / supply-chain** hub (including **critical minerals**); **biggest challenge** to US hegemony. **Revisionist state** = wants to **revise / change** the (unipolar) world order and **displace** the US. **China containment** (US, from **January 2017**).
 
 **Hybrid China (why this Cold War is harder than 1945–91):** **politically communist** (single party, Communist Party of China); **economically capitalist** (LPG, private sector — **learned from Soviet failure**). USSR was a **weak** communist economy; China is not repeating “public sector only.”
@@ -169,6 +173,7 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 | BRICS | Brazil, Russia, India, China, South Africa (now **Plus**) |
 | CPI | Communist Party of India |
 | CRPF | Central Reserve Police Force |
+| CRA | Contingent Reserve Arrangement |
 | CSR | Corporate Social Responsibility |
 | GDP | Gross Domestic Product |
 | IAEA | International Atomic Energy Agency |
