@@ -7,7 +7,7 @@
 > **Faculty:** **Shobhit Sir** (continues Lecture 09, 3 September — `03_Atoms_Radioactivity_and_Elementary_Particles.md`; nuclear map from Lecture 08, 26 August — `02_Nuclear_Technology_Civilian_Military_Triad.md`)  
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **10/9/26**, circled **1**)  
 > **Paper:** Prelims S&T; GS-III energy / nuclear.  
-> **Parked:** **moderator** (next class); **International Thermonuclear Experimental Reactor (ITER)** and fusion in greater detail.  
+> **Parked:** **International Thermonuclear Experimental Reactor (ITER)** and fusion in greater detail. **Moderator / containment / reactor types / three-stage programme** taught 12 Sep → `06_Moderator_Reactors_and_Three_Stage_Programme.md` (**ST-07**).  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 Nuclear technology still sits on **three** processes: **radioactivity** (last class), **nuclear fission**, **nuclear fusion**. Today finishes **particle / anti-particle**, then fission–fusion, fuels, enrichment, and the reactor (minus moderator).
@@ -164,7 +164,7 @@ A **nuclear reactor** is a system that **contains and controls sustained nuclear
 
 **Electricity path (same idea as a thermal plant):** nuclear fission → **heat** → converts **water** to **steam** → steam **rotates a turbine** coupled to a **generator** → electricity.
 
-### Main components (moderator next class)
+### Main components
 
 **1. Core**  
 Main area. Contains **all the fuel**, placed inside **fuel rods** (generally **zirconium** — high melting point, low reactivity). Pellets in cylindrical rods; **hundreds / thousands** of rods; **not** refuelled daily — months. **Fission happens here; all the heat is generated here.** **Control systems** also sit in the core.
@@ -181,7 +181,7 @@ Rate of fission **depends on neutron population**. Rods **absorb neutrons** to c
 | **Steady power** | Hold a **steady** neutron population |
 | **More power** | **Pull rods out** → neutron population rises |
 
-**4. Moderator** — **next class**.
+**4. Moderator** — taught 12 Sep. Graphite / D₂O / beryllium; good moderator **must not absorb**; **Pu-239 reactors need none**. Full write-up: `06_Moderator_Reactors_and_Three_Stage_Programme.md` (**ST-07**). Do not treat this 10 Sep file as the PHWR / three-stage class.
 
 ---
 
@@ -202,4 +202,4 @@ Rate of fission **depends on neutron population**. Rods **absorb neutrons** to c
 | Th | Thorium |
 | U | Uranium |
 
-<!-- 2026-09-10: Shobhit Sir nuclear L after 3 Sep atoms — antiparticle close, four-force range/strength, fission vs fusion, E=mc², fuels/fertile, enrichment/downblend, reactor core/coolant/control rods. Moderator parked. One cluster ST-06. -->
+<!-- 2026-09-10: Shobhit Sir nuclear L after 3 Sep atoms — antiparticle close, four-force range/strength, fission vs fusion, E=mc², fuels/fertile, enrichment/downblend, reactor core/coolant/control rods. Moderator taught 12 Sep → ST-07. One cluster ST-06. -->

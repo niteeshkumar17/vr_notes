@@ -89,6 +89,10 @@
 
 Class went deep on fission vs fusion, fuels, enrichment, and reactor parts. **New facts only** live on `05_Nuclear_Fission_Fusion_and_Reactors.md` (**ST-06**). Locks that add to this sketch: **all commercial plants = fission**; fusion **not commercial** because **efficiency < 1**; **U-235 0.7% fissile / U-238 99.3% fertile**; **Th-232** fertile → **U-233**; **Pu-239** artificial; peaceful enrichment **3–5%**, weapons **>90%**; control rods **boron / cadmium**. Do not treat this 26 August sketch as the full fission class.
 
+### Update — 12 September 2026 (Shobhit Sir — moderator / three-stage — no extra Day-1 on this file)
+
+Moderator, containment, PHWR / LWR / FBR, and **Bhabha’s three-stage programme** live on `06_Moderator_Reactors_and_Three_Stage_Programme.md` (**ST-07**). Pointers only: **21 / 26** reactors are PHWR; **Tarapur** BWR; **Kudankulam** PWR **1000 MW** (Russia); FBR = **more fissile after**, **no moderator**, **liquid sodium**; Stage III **AHWR** at **BARC**. Cluster **ST-07**, due **13 Sep Q2**.
+
 ---
 
 ## 4. Civilian Non-Energy Applications

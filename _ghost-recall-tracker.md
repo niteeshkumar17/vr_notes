@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-12
-*   **Active Micro-Topics:** 596
+*   **Active Micro-Topics:** 602
 *   **Overall Database Mastery:** 78.2% 📈
-*   **Today's Recall Completed:** Evening Prelims **11 Sep** logged. **SOC-03** ingested (12 Sep Social Issues L3).
+*   **Today's Recall Completed:** Evening Prelims **11 Sep** logged. **SOC-03** + **ST-07** ingested (12 Sep both classes).
 *   **Active Learning Gaps Detected:** `MST-076` Sohgaura · `MST-077` reversal+atmosphere · `MST-078` FSSAI≠DGHS · `MST-079` Rigvedic vs IVC 1-only · `MST-080` Mature 2600–1900. Leftover `MST-069` Art 335 · `MST-070` NCM-only.
-*   **New Topics Ingested Today:** **SOC-03** (Dalits / SC / NCSC / Dalit movement / Gandhi–Ambedkar Society extras). **Tomorrow (13 Sep) Q1 = SOC-03.** Q2 = second 12 Sep class when ingested (tribes parked). Do **not** steal from SOC-01 / IR-03 (**13 Sep** +3). **CA 1–7 Aug** sits Q3–Q6.
+*   **New Topics Ingested Today:** **SOC-03** (Dalits / SC identities) + **ST-07** (moderator / PHWR–FBR / Bhabha three-stage). **Tomorrow (13 Sep) Q1 = SOC-03. Q2 = ST-07.** Do **not** steal from SOC-01 / IR-03 (**13 Sep** +3). **CA 1–7 Aug** sits Q3–Q6. Society **tribes** still parked.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -713,7 +713,17 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-06-04 | Source of fission/fusion energy = tiny mass→E; E=mc²; c=3×10⁸ | 2 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `c²=9×10¹⁶` $\leftrightarrow$ `Antiparticle converts ALL mass` |
 | ST-06-05 | Fuels: U-235 0.7% fissile; U-238 99.3% fertile→Pu-239; Th-232→U-233 | 3 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Fissile=U-235/U-233/Pu-239` $\leftrightarrow$ `Pu not natural` $\leftrightarrow$ `U last natural Z=92` $\leftrightarrow$ `India imports U` $\leftrightarrow$ `KZ exporter / Canada reserves` $\leftrightarrow$ `Monazite E+S coasts not entire` $\leftrightarrow$ `Govt only process/export` $\leftrightarrow$ `CSE-2022-Q28 Held` $\leftrightarrow$ `Wet wood` |
 | ST-06-06 | Enrichment=raise U-235; peaceful 3–5%; weapons >90%; HEU>20%; centrifuge | 3 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Remove U-238` $\leftrightarrow$ `50–80k RPM` $\leftrightarrow$ `Iran >60%` $\leftrightarrow$ `Downblend mix natural U <5%` $\leftrightarrow$ `IAEA` $\leftrightarrow$ `Target centrifuge not reactor` |
-| ST-06-07 | Reactor: core Zr rods; coolant H2O/D2O/Na; control rods B+Cd; moderator next | 2 | ★★★★★ | Day 3 | 2026-09-14 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Contains+controls chain` $\leftrightarrow$ `Heat→steam→turbine` $\leftrightarrow$ `Drop rods=shutdown` $\leftrightarrow$ `Pull rods=more power` $\leftrightarrow$ `Na in pipes no steam contact` |
+| ST-06-07 | Reactor: core Zr rods; coolant H2O/D2O/Na; control rods B+Cd; moderator → ST-07 | 2 | ★★★★★ | Day 3 | 2026-09-14 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Contains+controls chain` $\leftrightarrow$ `Heat→steam→turbine` $\leftrightarrow$ `Drop rods=shutdown` $\leftrightarrow$ `Pull rods=more power` $\leftrightarrow$ `Na in pipes no steam contact` $\leftrightarrow$ `Moderator → ST-07` |
+
+### Science & Technology (Moderator, reactor types & three-stage — Shobhit Sir, 12 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ST-07-01 | Moderator slows n; graphite/D2O/Be; must not absorb; Pu-239 no moderator | 2 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Too fast=pass through` $\leftrightarrow$ `Control rods absorb` $\leftrightarrow$ `H2O slight absorb → LWR enrich` |
+| ST-07-02 | Containment: steel+concrete; Chernobyl lacked; reactor ≠ bomb 3–5% vs >90% | 2 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Ask if core damaged` $\leftrightarrow$ `Fukushima tsunami water no explosion` $\leftrightarrow$ `Bhopal chemical not nuclear` |
+| ST-07-03 | 26 reactors / 21 PHWR natural U D2O pressurised; BWR Tarapur; PWR Kudankulam 1000 MW Russia | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Enrichment not needed PHWR` $\leftrightarrow$ `Pressure raises BP` $\leftrightarrow$ `India self-sufficient PHWR tech` $\leftrightarrow$ `First two = BWR MH` |
+| ST-07-04 | FBR: more fissile after; Pu core + U-238 blanket; fast n; no moderator; liquid Na | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Breed from fertile` $\leftrightarrow$ `U-238 not instant Pu` $\leftrightarrow$ `Mains 2019 FBR advantages` |
+| ST-07-05 | Bhabha 3-stage: I PHWR closed cycle; II FBR Pu+Th blankets; III AHWR BARC U-233 | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Peaceful electricity` $\leftrightarrow$ `Open cycle under-utilises U` $\leftrightarrow$ `Th→U-233 self-sufficient` $\leftrightarrow$ `PFBR Kalpakkam Apr parked` |
+| ST-07-06 | Nuclear advantages: clean; small land; little fuel; weather-proof; load factor 80–90% | 2 | ★★★★☆ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Waste concretised buried` $\leftrightarrow$ `Solar/wind land+intermittent` $\leftrightarrow$ `LF=output/installed` $\leftrightarrow$ `Thermal ~62% max ~75` $\leftrightarrow$ `Disadv next class` |
 
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -837,7 +847,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (13 Sep) Q1:** **SOC-03** (12 Sep Dalits / SC identities). **Q2:** second 12 Sep class when ingested (tribes next). Do **not** steal SOC-01 / IR-03 from class Q1–Q2
+  1. **Tomorrow (13 Sep) Q1:** **SOC-03** (12 Sep Dalits / SC identities). **Q2:** **ST-07** (12 Sep moderator / PHWR–FBR / three-stage). Do **not** steal SOC-01 / IR-03 from class Q1–Q2
   2. **Q3–Q6:** CA **1–7 Aug** (catch-up). **SOC-01** + **IR-03** + **CA-260908** + GEO-11 are **+3** — leftover slots, not Q1
   3. **Q7:** GEO-06 **+7**. **Q8:** leftover `MST-069` Art 335 · `MST-070` NCM-only if still due
   4. **HIS-IVC** + **GEO-12** first-pass was **12 Sep**. **SOC-02** + **ST-06** → **14 Sep**
