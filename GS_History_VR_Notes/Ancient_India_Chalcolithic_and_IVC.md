@@ -293,6 +293,16 @@ By **2600 BC** the regional cultures produced enough surplus for **high-volume l
 
 ---
 
+### Update — 11 September 2026 (UPSC CSE Prelims 2019 / 2017 + evening flash)
+
+`CSE-2019-Q07` **missed** (`MST-076`). **Sohgaura** is **not** a Harappan site (Mauryan copper-plate). **Chanhudaro, Kot Diji, Desalpur** **are**. Class called **Kot Diji** a *pre-Harappan regional* culture on the Indus — UPSC still lists it as Harappan. He picked **Chanhudaro**.
+
+`CSE-2017-Q02` **missed** (`MST-079`). Key = **1 only**. Coat of mail / helmet = Rigvedic; IVC left no evidence. Statement 2 fails: IVC knew **gold, silver and copper**, **not** “only copper and iron” (iron is **Later Vedic**). Statement 3 (horse) is **not** accepted in the official key — class contrast “IVC no horse / Aryans horse” does **not** beat the key. He picked **all three**.
+
+Flash F9 **missed** (`MST-080`). Mature / urban IVC = **2600–1900 BC**. **1900–1300 BC** is **Late / disintegration**. **3300–2600** is Early / regional. Opaque **1900–1500** is still not a story to invent.
+
+---
+
 ## Abbreviations
 
 | Short | Full |

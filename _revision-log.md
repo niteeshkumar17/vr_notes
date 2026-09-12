@@ -8,7 +8,7 @@
 | Subject | Micro-Topic | Last Tested | Attempts | Accuracy | Next Due | Confidence | PYQ Mapping | Notes & Weak Areas |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | GS_History_VR_Notes | Early Modern India (L1–L3) | 2026-08-06 | 7 | 78.5% | 2026-08-09 | Confident | 2017, 2019, 2021 | Mastered Treaty of Allahabad, 1717 Farman, Vellore Mutiny 1806, Treaty of Amritsar 1809. Needs review on Awadh treaties. |
-| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-08-06 | 8 | 76.2% | 2026-08-08 | Somewhat | 2013, 2018, 2022 | Mastered Geodesy, Time Math, DST, Zulu Time. Reviewing IDL East/West flip, Subpolar low dynamic origin, Doldrums. |
+| GS_Geography_VR_Notes | 01 — Fundamentals of Geography | 2026-09-11 | 9 | 80.0% | 2026-09-26 | Confident | 2013, 2018, 2022 | Geoid = **MSL model**, not a perfect sphere (`MST-062` **held** 11 Sep evening). 15-day **26 Sep**. |
 | GS_Geography_VR_Notes | 02 — Geomorphology (Lec A2: Endo Forces & Interior) | 2026-08-09 | 0 | 0% | 2026-08-10 | New | - | Added GEO-04-01 to GEO-04-08 (Structural/Non-Structural, Diastrophism, GTS, Hadean, Density Adj, Convection, Interior Models, Discontinuities). |
 | GS_Economy_VR_Notes | 01 — Intro & National Income | 2026-08-06 | 1 | 100% | 2026-08-07 | Confident | 2015, 2020 | Cleaned up whitespace diagrams in L01. |
 | GS_Economy_VR_Notes | 02 — National Income Concepts | 2026-08-07 | 0 | 0% | 2026-08-08 | New | - | Added ECO-02-01 to ECO-02-05 (Factors of Prod, NI, Goods, CapEx, Residents). |
@@ -42,11 +42,12 @@
 | GS_History_VR_Notes | Modern India (L4: Home Rule & Lucknow Pact) | 2026-09-08 | 3 | 62.0% | 2026-09-10 | Somewhat | 2015, 2016 | Evening 8 Sep **held** both locks (`MST-050` Resolved 🟢). Cluster +3 **10 Sep**. |
 | Evening MCQ | 9 Sep paper (SOC-01 + IR-03 + MST + 5 PYQ) | 2026-09-09 | 1 | 75.0% | 2026-09-10 | Somewhat | 2018, 2020, 2023, 2024, 2025 | **15/20 · 26.70/40**. Class 1–2, 4, 6, 8, 10–11, 14–15, 17–18, 20 held. PYQ 2/5. Miss: NSG≠NPT (`MST-063`); trusteeship **all three** (`MST-059` r3); Sanskritization UC (`MST-064`); JSY only-two (`MST-065`); Art 50/51A/24 (`MST-066`). Recovered SEARO / n-CoV / Raipur. |
 | Evening MCQ | 10 Sep paper (SOC-02 + ST-06 + MST + 5 PYQ) | 2026-09-10 | 1 | 80.0% | 2026-09-11 | Somewhat | 2016, 2022, 2023 | **16/20 · 29.36/40**. Class SOC/ST held. PYQ 2/5. Miss: Art 335 (`MST-069`); DDT (`MST-029` r3); NCM-only (`MST-070`); vote value (`MST-071`). Recovered JSY 62.2% / Art 50–51A–24 / Hubble / Mauritius. Flash 14/15 (`MST-072` ITER goal 10). Articles 12/15 (`MST-073`/`074`/`075`). |
+| Evening MCQ | 11 Sep paper (HIS-IVC + GEO-12 + FoPL + MST + 5 PYQ) | 2026-09-11 | 1 | 80.0% | 2026-09-12 | Somewhat | 2017, 2018, 2019, 2022 | **16/20 · 29.36/40**. Class IVC/geo/FoPL held. PYQ **1/5**. Miss: Sohgaura (`MST-076`); reversal+atmosphere (`MST-077`); FSSAI≠DGHS (`MST-078`); Rigvedic vs IVC (`MST-079`). Recovered DDT (`MST-029`); geoid (`MST-062`); UNR Rao (`MST-075`); IOD / NSG / Wood’s. Flash 14/15 (`MST-080` Mature 2600–1900). |
 | GS_Society_VR_Notes | 02 — Caste, Power and Reservation (L2) | 2026-09-11 | 2 | 90.0% | 2026-09-14 | Confident | 2023 | Ghost Recall first-pass **held**. Mandal 1978/80/1990. Sawhney creamy **must** / subclass **will**. `MST-073`/`074` **held**. Leftover: Ahirwal + Rohtak belt. `MST-069` Art 335 still rolled. Cluster **+3 14 Sep**. |
 | GS_ScienceTech_VR_Notes | 05 — Nuclear Fission, Fusion and Reactors (ST-06) | 2026-09-11 | 2 | 95.0% | 2026-09-14 | Confident | 2016, 2022 | Ghost Recall first-pass **held**. All commercial = fission; EAST/K-STAR/ITER; boron+cadmium. `MST-072` **held** (50→500 MW). Cluster **+3 14 Sep**. |
 | GS_Society_VR_Notes | 01 — Salient Features (L1) | 2026-09-10 | 2 | 90.0% | 2026-09-13 | Confident | 2024 | Ghost Recall held: endogamy; **desire + imitate**; UC never granted (`MST-064` Resolved 🟢). Slip: Varna-link **1881/1891**, not 1871. Cluster +3 **13 Sep**. |
 | GS_IR_VR_Notes | 03 — World Order after WW2 (Sandhu L3) | 2026-09-10 | 2 | 95.0% | 2026-09-13 | Confident | 2018, 2020 | Ghost Recall held: NPT 1968/70 / 1 Jan 1967; NSG ≠ auto NPT; 2008 waiver; five non-parties (`MST-063` Resolved 🟢). Cluster +3 **13 Sep**. |
-| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-11 | 14 | 70.0% | 2026-09-12 | Somewhat | 2018, 2020, 2023, 2024 | `MST-029` DDT **repeat 4** — still **OECD**. Three MNCs **held** (France / NL / Switzerland). Atom **12 Sep**. |
+| GS_Economy_VR_Notes | 04 — Advanced Taxation (GMCT, MAT, STT, CGT, DTAA & DTC) | 2026-09-11 | 15 | 75.0% | 2026-09-26 | Somewhat | 2018, 2020, 2023, 2024 | `MST-029` DDT **held** evening (option b) after repeat 4. **5%** = signed **DTAA**, not OECD. France / NL / Switzerland. 15-day **26 Sep**. |
 | Current_Affairs | 04 September 2026 (Bang HBNC + WMO El Niño) | 2026-09-11 | 7 | 80.0% | 2026-09-14 | Confident | 2023 | `MST-065` **held** (`CSE-2023-Q51` = only two). `MST-057` already held. Cluster **+3 14 Sep**. |
 | GS_History_VR_Notes | Modern India (L7: Wardha / Gandhi–Nehru–Ambedkar) | 2026-09-10 | 4 | 70.0% | 2026-09-12 | Somewhat | 2018, 2020, 2017 | Trusteeship **only two** (`MST-059` Resolved 🟢 after repeat 3). Cluster +3 **12 Sep**. |
 | Yellow_Books | Concepts of Geography Ch 1 (GEO-11) | 2026-09-10 | 2 | 80.0% | 2026-09-13 | Somewhat | 2017 | Evening recovered Hubble = **redshift**; nebular ≠ universe rival (`MST-067` Resolved 🟢). GEO-11-01 joins 11-02/05 on **13 Sep**. |
@@ -79,14 +80,28 @@
 | Current_Affairs | 06 September 2026 (Yarlung dam + BRICS payments) | 2026-09-07 | 1 | 100% | 2026-09-10 | Confident | - | Yarlung = Brahmaputra + 5 stations; India = cost/speed ≠ dump dollar. Trap: 1.2 trillion yuan not named. Cluster +3 **10 Sep**. |
 | Current_Affairs | 09 September 2026 (WDFC + India–Japan + Chagos) | 2026-09-11 | 1 | 100% | 2026-09-14 | Confident | - | Ghost Recall first-pass **held**. JNPT → Dadri; Vadodara. UNICORN / BEL Nov 2024; Veer Guardian Sep 2026. Chagos May 2025 / hold Apr 2026; Maldives claims. Cluster **+3 14 Sep**. |
 | Current_Affairs | 10 September 2026 (CBSE English + Navier–Stokes + marital rape) | 2026-09-10 | 0 | 0% | 2026-09-12 | New | - | **CA-260910** parked **12 Sep** (do not steal class Q1). Centre objects to English as native; Class 6 one-time Class 10 reprieve. OpenAI NS claim ≠ settled. IPC 375 / BNS 63 exception; onus on legislature. |
-| Current_Affairs | 11 September 2026 (SC–FSSAI FoPL warning labels) | 2026-09-11 | 0 | 0% | 2026-09-12 | New | - | **CA-260911** first-pass **12 Sep Q3–Q6** (do not steal HIS-IVC / GEO-12). Red hexagon; 2+ fat/sugar/salt; ICMR–NIN DGI 2024. Pardiwala–Vinod Chandran. Affidavit 10 days; list 28 Sep. |
-| GS_History_VR_Notes | Ancient India — Chalcolithic & IVC start (11 Sep) | 2026-09-11 | 0 | 0% | 2026-09-12 | New | 2025 | **HIS-IVC** first-pass **12 Sep Q1**. Substantial copper; no true Bronze Age (tin / Afghanistan). Four names; cardinal map + Lothal dockyard + Shortughai; indigenous origin; Mehrgarh + four regional cultures. Town planning parked. |
-| GS_Geography_VR_Notes | 07 — Geomagnetism (Lec A4, 11 Sep) | 2026-09-11 | 0 | 0% | 2026-09-12 | New | - | **GEO-12** first-pass **12 Sep Q2**. Geodynamo = OC over IC; thermal convection major. Declination 11.5°; Ellesmere / Southern Ocean; field geo S→N. Aurora O₂ green / N₂ blue; CME flare–wind–plasma; reversal cyclic ≠ periodic (7–8 lakh yr). |
+| Current_Affairs | 11 September 2026 (SC–FSSAI FoPL warning labels) | 2026-09-11 | 1 | 70.0% | 2026-09-12 | Somewhat | 2018 | Evening FoPL held (red hexagon / 2+ / ICMR–NIN 2024 / Pardiwala–Vinod Chandran). PYQ miss: FSSAI **≠ DGHS** (`MST-078`, `CSE-2018-Q23`). Cluster first-pass **12 Sep Q3–Q6**. |
+| GS_History_VR_Notes | Ancient India — Chalcolithic & IVC start (11 Sep) | 2026-09-11 | 1 | 70.0% | 2026-09-12 | Somewhat | 2017, 2019 | Evening class items held (Chalcolithic lock / four names / map). PYQ miss: Sohgaura (`MST-076`); Rigvedic vs IVC **1 only** (`MST-079`). Flash miss: Mature **2600–1900** (`MST-080`). Cluster first-pass **12 Sep Q1**. |
+| GS_Geography_VR_Notes | 07 — Geomagnetism (Lec A4, 11 Sep) | 2026-09-11 | 1 | 80.0% | 2026-09-12 | Somewhat | 2018, 2022 | Evening class items held (density / T / dynamo / declination). Solar-storm PYQ **held** (`CSE-2022-Q40`). Miss: reversal + organisms, not 54% O₂ (`MST-077`, `CSE-2018-Q57`). Cluster first-pass **12 Sep Q2**. |
 
 
 ---
 
 ---
+
+### Session 37 — 2026-09-11 (Evening MCQ)
+- **Subject:** HIS-IVC (Chalcolithic / IVC start) + GEO-12 (geomagnetism) + CA-260911 (FSSAI FoPL) + MST-029/062/075 + 5 PYQ
+- **Format:** 20 Prelims MCQs (15 notes + 5 Series A PYQ) + flash 15
+- **Score:** 29.36 / 40 (Net: +32 − 2.64 | Accuracy 80% — 16/20 | 4 incorrect | 0 unattempted)
+- **Strengths:** Chalcolithic lock (I+III); density 2.7/5.5/13 + three factors; Harappa = city / features > map; interior T 1°C/30 m cannot run to centre; geodynamo I only; FoPL red hexagon / ICMR–NIN 2024 / Pardiwala–Vinod Chandran; IVC map three pairs; solar-storm PYQ; geoid MSL (`MST-062`); UNR Rao always CoM (`MST-075`); IOD Indian Ocean; NSG ≠ NPT; Wood’s grants-in-aid; Moho/Gutenberg/Lehmann. Recovered DDT after repeat 4 (`MST-029`). Flash 14/15 (density / T / 11.5° / Ellesmere / O₂ green / 7–8 lakh / Sahni / Mehrgarh / four cultures / FoPL / CME trio / 4:2:1 brick).
+- **Weak Spots Logged to Mistake Bank:**
+  - *MST-076 / Sohgaura:* `CSE-2019-Q07`. **Sohgaura** is not Harappan. He picked **Chanhudaro**. Kot Diji stays on the Harappan list.
+  - *MST-077 / reversal + atmosphere:* `CSE-2018-Q57` = **1 and 3**. Not 54% O₂ / no CO₂. He picked **1 only**.
+  - *MST-078 / FSSAI ≠ DGHS:* `CSE-2018-Q23` = **1 only**. Act 2006 replaced PFA 1954. He picked **both**.
+  - *MST-079 / Rigvedic vs IVC:* `CSE-2017-Q02` = **1 only**. Iron and horse fail the key. He picked **all three**.
+  - *MST-080 / Mature dates:* flash. **2600–1900 BC**, not Late **1900–1300**.
+- **Resolved:** `MST-029` DDT; `MST-062` geoid; `MST-075` UNR Rao.
+- **PYQ log:** `CSE-2019-Q07` ❌ · `CSE-2018-Q57` ❌ · `CSE-2022-Q40` ✅ · `CSE-2018-Q23` ❌ · `CSE-2017-Q02` ❌
 
 ### Session 36 — 2026-09-11 (Ghost Recall)
 - **Subject:** SOC-02, ST-06, CA-260909, Gorkha (CA-260823), President +3, MST-029/065

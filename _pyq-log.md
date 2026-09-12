@@ -28,3 +28,8 @@ Evening paper uses **5 real PYQs** a night. This file only records **what was al
 | CSE-2022-Q28 | Monazite = rare earths + Th; not entire coast; govt only process/export | ST-06-05 | 2026-09-10 | ✅ | `05_Nuclear_Fission_Fusion_and_Reactors` · Update 10 Sep 2026 (held) |
 | CSE-2022-Q15 | LS exclusive = NCM only; Emergency ratification and impeachment are not | POL-07-06 | 2026-09-10 | ❌ | `Polity_Lec6` · Update 10 Sep 2026 |
 | CSE-2023-Q80 | Presidential poll: nominated out; more seats ≠ higher MLA vote value | POL-02-05 | 2026-09-10 | ❌ | `Polity_Lec2` · Update 10 Sep 2026 |
+| CSE-2019-Q07 | Sohgaura is **not** Harappan; Chanhudaro / Kot Diji / Desalpur are | HIS-IVC-04 | 2026-09-11 | ❌ | `Ancient_India_Chalcolithic_and_IVC` · Update 11 Sep 2026 |
+| CSE-2018-Q57 | Magnetic reversal + organisms modified atmosphere; not 54% O₂ / no CO₂ | GEO-12-06 | 2026-09-11 | ❌ | `07_Geomagnetism` + `02_Geomorphology` · Update 11 Sep 2026 |
+| CSE-2022-Q40 | Solar storm: GPS / grids / aurora / satellites / polar radio; not tsunami / planet fires | GEO-12-05 | 2026-09-11 | ✅ | — (held; matches today’s CME / storm physics) |
+| CSE-2018-Q23 | FSS Act 2006 replaced PFA 1954; FSSAI is **not** under DGHS | CA-260911-01 | 2026-09-11 | ❌ | `2026-09-11` · Update 11 Sep 2026 |
+| CSE-2017-Q02 | Rigvedic vs IVC = **1 only**; iron and horse fail the key | HIS-IVC-02 | 2026-09-11 | ❌ | `Ancient_India_Chalcolithic_and_IVC` · Update 11 Sep 2026 |

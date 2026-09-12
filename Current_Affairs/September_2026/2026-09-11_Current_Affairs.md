@@ -59,3 +59,7 @@ After the hearing the Bench’s order (Thursday night) put a **two-phase** FoPL 
 **FoPL = red hexagon on the pack.** First design = **two or more** of fat/sugar/salt, cut-offs from **ICMR–NIN Dietary Guidelines 2024**. SC (Pardiwala–Vinod Chandran): **what is “high”?** Phase 2 needs a **real timeline**. Affidavit **10 days**; list **28 Sep**.
 
 <span style="color: #e53e3e;">**Prelims trap:** This is **not** the Radura / food-irradiation FSSAI line. Thresholds are **ICMR–NIN 2024**, not a number the clip invents. **Two-or-more** was FSSAI’s first trigger; ASG said they may move to **even one**.</span>
+
+### Update — 11 September 2026 (UPSC CSE Prelims 2018)
+
+`CSE-2018-Q23` **missed** (`MST-078`). **1 only.** The **Food Safety and Standards Act, 2006** replaced the **Prevention of Food Adulteration Act, 1954**. FSSAI is a **statutory authority under the Union Ministry of Health and Family Welfare**, **not** “under the charge of the Director General of Health Services (DGHS).” He picked **both**. Tonight’s FoPL hearing does not change that institutional lock.

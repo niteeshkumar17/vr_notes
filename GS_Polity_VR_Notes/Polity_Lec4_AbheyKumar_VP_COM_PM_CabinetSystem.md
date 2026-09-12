@@ -29,7 +29,7 @@
 
 ### Update — 10 September 2026 (evening articles)
 
-`MST-075`: *U.N.R. Rao v. Indira Gandhi* (**1971**) — there **shall** be a Council of Ministers **always**, even when Lok Sabha is **dissolved** (caretaker). He picked the inverse. Caretaker is a **convention**, not a constitutional word. Labels caretaker-under-Constitution vs interim (`MST-046`) already held.
+`MST-075`: *U.N.R. Rao v. Indira Gandhi* (**1971**) — there **shall** be a Council of Ministers **always**, even when Lok Sabha is **dissolved** (caretaker). He picked the inverse. Caretaker is a **convention**, not a constitutional word. Labels caretaker-under-Constitution vs interim (`MST-046`) already held. **Held 11 Sep evening.**
 
 ### What Can a Caretaker Government Do?
 | ✅ Should Do | ❌ Should NOT Do |

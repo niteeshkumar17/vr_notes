@@ -814,6 +814,10 @@ In practice:
 
 `MST-029` **repeat 4**: three MNCs **held** (France / Netherlands / Switzerland). Still wrote **OECD**. **5%** needs a signed **DTAA**, not OECD membership.
 
+### Update — 11 September 2026 (evening paper)
+
+`MST-029` **held** (option b). **5%** needs a signed **DTAA**, not OECD and not merely MFN. Three MNCs = **France / Netherlands / Switzerland**. 15-day revisit **26 Sep**.
+
 ### What is DDT?
 
 > **Dividend Distribution Tax** = Tax on dividend income (portion of company profit distributed to shareholders).

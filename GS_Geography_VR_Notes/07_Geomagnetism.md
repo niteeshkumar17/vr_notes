@@ -348,6 +348,12 @@ Class also: more frequent CME → some extra heat is transferred, **especially t
 
 **Shift ≠ reversal.** A slight tilt moves the *place* of the pole. A complete reverse of rotation reverses **polarity**.
 
+### Update — 11 September 2026 (UPSC CSE Prelims 2018 / 2022)
+
+`CSE-2018-Q57` **missed** (`MST-077`). **1 and 3.** Statement 1: the field has reversed every few hundred thousand years (class: last **7–8 lakh years**, cyclic ≠ periodic). Statement 3: when living organisms originated, they **modified** the early atmosphere (degassing first; photosynthesis oxygenated later — `02_Geomorphology`). Trap 2: Earth was **not** created with **54% oxygen and no CO₂**. He picked **1 only**.
+
+`CSE-2022-Q40` **held**. A major solar storm **can** hit GPS / navigation, power grids, satellite orbits, polar shortwave radio, and produce intense aurora over much of the Earth (class: crushed field → random aurora, including tropics). **Tsunami** and **planet-wide forest fires** fail.
+
 ---
 
 ## Knowledge Graph — Lecture A4

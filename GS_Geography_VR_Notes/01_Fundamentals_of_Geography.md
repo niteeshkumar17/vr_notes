@@ -65,7 +65,7 @@
 
 ### Update — 9 September 2026 (Test 1 — geoid + IST city)
 
-**Geoid (UPSC voice):** a model of **global mean sea level** used to measure precise surface elevations. **Not** a perfect sphere. **Not** a contour of equal altitude. Class still: Newton **oblate spheroid** → uniquely Earth-shaped. You clicked “perfect sphere” — that is the trap (`MST-062`).
+**Geoid (UPSC voice):** a model of **global mean sea level** used to measure precise surface elevations. **Not** a perfect sphere. **Not** a contour of equal altitude. Class still: Newton **oblate spheroid** → uniquely Earth-shaped. You clicked “perfect sphere” — that is the trap (`MST-062`). **Held 11 Sep evening.**
 
 **IST meridian 82°30′ E (Mirzapur).** Among Bengaluru / Delhi / Kolkata / **Raipur**, **Raipur** is nearest. Delhi and Bengaluru sit near **77° E**; Kolkata near **88° E**. You clicked Delhi (`MST-061`).
 

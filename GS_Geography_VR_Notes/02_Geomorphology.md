@@ -526,6 +526,10 @@ Same differentiation as class (Fe–Ni down, silica–aluminium up). Book extras
 - Earth's early atmosphere (mostly hydrogen & helium) was largely stripped away by solar winds.
 - <span style="color: #e53e3e;">**Degassing (Aug 2026 MCQ):** The primary process that contributed to the evolution of the present atmosphere was **Degassing** from the Earth's interior, releasing water vapour, nitrogen, carbon dioxide, methane, and ammonia. Biological fixation (like photosynthesis) contributed much later to oxygenate it.</span>
 
+### Update — 11 September 2026 (UPSC CSE Prelims 2018)
+
+`CSE-2018-Q57` extras sit on `07_Geomagnetism` (`MST-077`). Atmosphere lock here: early Earth was **not** **54% oxygen with no CO₂**. Organisms **did** modify the early atmosphere (statement 3). Degassing still comes first; oxygenation is later.
+
 ---
 
 ## 13. Density Adjustment — The Key Hadean Process (4.4 – 4.0 BY ago)
