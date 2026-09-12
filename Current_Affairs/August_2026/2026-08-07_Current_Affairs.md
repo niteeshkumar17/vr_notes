@@ -34,6 +34,10 @@
 
 Class lock on *Indra Sawhney* (cluster `SOC-02`, no extra Day-1): creamy layer is **families** inside an OBC caste, **social and educational** status first (income is a proxy); **OBC only**, not SC/ST. Sub-classification allowed for OBCs so benefits reach the last mile; Centre has **not** subclassified the central list (**Rohini Commission 2017**, report **2022**: about **15** OBC castes take **~90%** of the benefit). Full lecture: `GS_Society_VR_Notes/02_Caste_Power_and_Reservation.md`.
 
+### Update — 12 September 2026 (Social Issues L3 — no extra Day-1)
+
+Same clip, class extras on `SOC-03` (do **not** spawn a new cluster): **2004** Court barred SC/ST sub-classification because they were **homogeneous**. ***Davinder Singh v. State of Punjab* (2024)** allows it — **no longer homogeneous**; more backward SCs **within** SCs (Punjab **Valmiki / Mazhabi**; TN **Pallar / Arunthathiyar**). Creamy layer **inside SC** is now a **class reform ask** so have-nots get seats — **not** a claim that the Union affidavit has flipped. Centre’s **oppose income-based creamy layer** line above still stands.
+
 ---
 
 ## Topic 2: SC Clarification on Ramsar Wetland Sites & Mining Buffer Zones

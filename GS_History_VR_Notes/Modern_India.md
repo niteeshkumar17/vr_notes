@@ -1444,6 +1444,10 @@ Famous line: **born a Hindu but would not die a Hindu**. **1956**, **four months
 
 They **did not** work together the way Gandhi–Nehru did. Same-page on **ending untouchability**; not on **caste** or **Hinduism**.
 
+### Update — 12 September 2026 (Social Issues L3 extras — no extra Day-1)
+
+Society class (`SOC-03`) added the **electorates** chain: **1906** League idea → **1909** Muslim SE → **1916** Lucknow accepts → **1919** Ambedkar wants Dalit SE → **1932 Macdonald Award** → Gandhi **fast** → **Poona Pact 1932** (Ambedkar **withdraws** SE). Reserved SC seats still elected by **upper-caste** (property/education) voters → Dalit MLA **loyal to UC**. **Navayana** = new Buddhist **sect** (science as God; no monk; liberty–equality–fraternity); **~5 lakh** convert at **Nagpur 1956**. **Islam / Christianity** conversion **loses SC** reservation (**OBC** possible); **Sikhism / Buddhism** **keeps SC**. Full note: `GS_Society_VR_Notes/03_Dalits_SC_Reservation_and_Identities.md`. Do **not** treat this as a new History lecture.
+
 ### Update — 8 September 2026 (UPSC CSE Prelims 2020 / 2017)
 
 `CSE-2020-Q04` and `CSE-2017-Q97` **held**. **Art 17** sits under **Right to Equality**. Right against Exploitation = **Art 23** (traffic in human beings / forced labour) + **Art 24** (children in factories and mines). Untouchability and minority-protection are **not** that head.

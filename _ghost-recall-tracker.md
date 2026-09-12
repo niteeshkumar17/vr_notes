@@ -22,12 +22,12 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ---
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-09-11
-*   **Active Micro-Topics:** 590
+*   **Today's Date:** 2026-09-12
+*   **Active Micro-Topics:** 596
 *   **Overall Database Mastery:** 78.2% 📈
-*   **Today's Recall Completed:** Ghost Recall **7 / 8** (morning). Evening Prelims **16/20 · 29.36/40**. Flash **14/15**.
+*   **Today's Recall Completed:** Evening Prelims **11 Sep** logged. **SOC-03** ingested (12 Sep Social Issues L3).
 *   **Active Learning Gaps Detected:** `MST-076` Sohgaura · `MST-077` reversal+atmosphere · `MST-078` FSSAI≠DGHS · `MST-079` Rigvedic vs IVC 1-only · `MST-080` Mature 2600–1900. Leftover `MST-069` Art 335 · `MST-070` NCM-only.
-*   **New Topics Ingested Today:** **HIS-IVC** + **GEO-12** + **CA-260911**. **Tomorrow (12 Sep) Q1 = HIS-IVC** — drill `MST-076`/`079`/`080` **inside Q1**. **Q2 = GEO-12** — drill `MST-077` **inside Q2**. **CA-260910** + **CA-260911** sit **Q3–Q6** — drill `MST-078` **inside FoPL**. Q8 = leftover `MST-069` / `MST-070` (`MST-029`/`062`/`075` held).
+*   **New Topics Ingested Today:** **SOC-03** (Dalits / SC / NCSC / Dalit movement / Gandhi–Ambedkar Society extras). **Tomorrow (13 Sep) Q1 = SOC-03.** Q2 = second 12 Sep class when ingested (tribes parked). Do **not** steal from SOC-01 / IR-03 (**13 Sep** +3). **CA 1–7 Aug** sits Q3–Q6.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -817,7 +817,17 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | SOC-02-05 | Two OBC lists independent; one Central SC/ST list; casteisation of politics after 1990 | 2 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Central jobs=central list` $\leftrightarrow$ `State PCS=state list` $\leftrightarrow$ `States cannot own SC/ST list` $\leftrightarrow$ `SP Yadav UP / RJD Yadav BR / INLD Jat HR` $\leftrightarrow$ `Vote caste` |
 | SOC-02-06 | Social empowerment=reservation; Art 15/16 equality vs 15(4)/16(4) equity; SPECS | 2 | ★★★★★ | Day 3 | 2026-09-14 | 90% | Rising 📈 | 88% | 85% | 1 | 1 | 2026-09-10 | 2026-09-11 | Fast 🟢 | `Goal=social not econ/political` $\leftrightarrow$ `Historic disadvantage` $\leftrightarrow$ `Affirmative action` $\leftrightarrow$ `S=SC/ST/OBC P=old/child/PwD E=EWS G=women/trans` $\leftrightarrow$ `15(4)=1st CAA 1951 Champakam` $\leftrightarrow$ `16(3)=Parliament only` $\leftrightarrow$ `16(4) limited by 335; 335 ≠ define efficiency` $\leftrightarrow$ `MST-069 leftover` $\leftrightarrow$ `MST-073 Held 11 Sep` $\leftrightarrow$ `MST-074 Held 11 Sep` |
 | SOC-02-07 | ALIVE: flexible; associations/panchayats/parties; reservation fluid+static | 2 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Past→present by flexibility` $\leftrightarrow$ `New IDs=OBC/SC` $\leftrightarrow$ `Relevant=marriage/politics/rural/quota/UT` $\leftrightarrow$ `Diluted=urban/occupation/UC` $\leftrightarrow$ `Quota by birth binds caste` |
-| SOC-02-08 | Social mobility takes time; UT bucket 6; Art 17 weak in India; PCR 1955; PoA 1989 | 3 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Necessary evil` $\leftrightarrow$ `Do not withdraw when IAS` $\leftrightarrow$ `Dalit village vs main` $\leftrightarrow$ `Art 23 bonded continues` $\leftrightarrow$ `Law≠social change India` $\leftrightarrow$ `PoA non-bailable+cognizable` $\leftrightarrow$ `Identities next class` |
+| SOC-02-08 | Social mobility takes time; UT bucket 6; Art 17 weak in India; PCR 1955; PoA 1989 | 3 | ★★★★★ | Day 3 | 2026-09-14 | 80% | Rising 📈 | 82% | 80% | 1 | 0 | - | 2026-09-11 | Fast 🟢 | `Necessary evil` $\leftrightarrow$ `Do not withdraw when IAS` $\leftrightarrow$ `Dalit village vs main` $\leftrightarrow$ `Art 23 bonded continues` $\leftrightarrow$ `Law≠social change India` $\leftrightarrow$ `PoA non-bailable+cognizable` $\leftrightarrow$ `Identities → SOC-03` |
+
+### Society (Dalits, SC identities — Lecture 3, 12 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| SOC-03-01 | SC = list for reservation; GOI Act 1935; Art 341 President; 1950 Order; 330/332/16(4)/15(4)/17 | 2 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Not a Constitution schedule` $\leftrightarrow$ `Depressed→Harijan→SC` $\leftrightarrow$ `Simon first used SC` $\leftrightarrow$ `Provincial 100→~10` |
+| SOC-03-02 | NCSC Art 338: safety vs State + welfare; civil court; not binding; annual report | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No contempt` $\leftrightarrow$ `Parliament questions` $\leftrightarrow$ `338A NCST / 338B NCBC same` $\leftrightarrow$ `Police first then NCSC` |
+| SOC-03-03 | Dalit movement: abolish UT from caste; I–III fail; IV 1980 BSP power+quota succeeds | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Too many agendas` $\leftrightarrow$ `1956–70 no leader` $\leftrightarrow$ `Dalit Panthers MH newspapers` $\leftrightarrow$ `BSP 1984 / Mayawati 4× UP CM` |
+| SOC-03-04 | Gandhi Varna without pure/impure vs Ambedkar annihilate; Poona Pact 1932 | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Villages vs urbanise` $\leftrightarrow$ `Against vs for SE` $\leftrightarrow$ `1906–09–16–19–32 Macdonald` $\leftrightarrow$ `UC voters elect reserved Dalit` $\leftrightarrow$ `Mahad no second` |
+| SOC-03-05 | Navayana 1956 Nagpur; Islam/Christian lose SC; Sikh/Buddhist keep; Punjab ~32% | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Science=God / no monk / LEF` $\leftrightarrow$ `Occupation often stays` $\leftrightarrow$ `Abrahamic no caste theology` $\leftrightarrow$ `Unofficial church keeps SC` |
+| SOC-03-06 | Haves~10% hijack quota; creamy layer SC ask; 2004 homogeneous → 2024 Davinder Singh | 3 | ★★★★★ | Day 1 | 2026-09-13 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Have-nots 90% rural` $\leftrightarrow$ `Econ≠social mobility still true` $\leftrightarrow$ `Valmiki/Mazhabi / Pallar/Arunthathiyar` $\leftrightarrow$ `Direct rural / reservation stigma urban` $\leftrightarrow$ `Right Hinduise Dalits after 2014` |
 
 ---
 
@@ -827,10 +837,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (12 Sep) Q1–Q2:** **HIS-IVC** + **GEO-12**. Do **not** steal CA from class Q1–Q2. Drill `MST-076`/`079`/`080` **inside Q1** · `MST-077` **inside Q2**
-  2. **Q3–Q6:** **CA-260910** (CBSE English / Navier–Stokes / marital rape) · **CA-260911** (SC–FSSAI FoPL) · CA **8–16 Aug**. Drill `MST-078` FSSAI≠DGHS **inside FoPL**
-  3. **Q7:** Ancient **+7**. **Q8:** leftover `MST-069` Art 335 · `MST-070` NCM-only (`MST-029` DDT / `MST-062` geoid / `MST-075` UNR Rao **held** evening)
-  4. **SOC-02** + **ST-06** + **CA-260909** + Gorkha → **14 Sep**. President vote-value **+7 → 18 Sep**. **SOC-01** + **IR-03** + **CA-260908** + GEO-11 → **13 Sep**. MOD-B7 / ST-05 / FRA → **12 Sep** if a leftover slot
+  1. **Tomorrow (13 Sep) Q1:** **SOC-03** (12 Sep Dalits / SC identities). **Q2:** second 12 Sep class when ingested (tribes next). Do **not** steal SOC-01 / IR-03 from class Q1–Q2
+  2. **Q3–Q6:** CA **1–7 Aug** (catch-up). **SOC-01** + **IR-03** + **CA-260908** + GEO-11 are **+3** — leftover slots, not Q1
+  3. **Q7:** GEO-06 **+7**. **Q8:** leftover `MST-069` Art 335 · `MST-070` NCM-only if still due
+  4. **HIS-IVC** + **GEO-12** first-pass was **12 Sep**. **SOC-02** + **ST-06** → **14 Sep**
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-029` / `057` / `062` / `065` / `066` / `067` / `068` / `071` / `072` / `073` / `074` / `075` stay resolved (15-day).
 
 

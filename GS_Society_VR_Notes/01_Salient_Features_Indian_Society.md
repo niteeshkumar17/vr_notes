@@ -9,7 +9,7 @@
 > **Also relevant for:** Essay; Ethics (tradition vs modernity); GS-II reservation / secularism later.  
 > **How to read class shortcuts:** full form on first use, then the short form. Glossary at the end.
 
-**Parked for later classes:** population; urbanisation; communalism / regionalism / secularism; globalisation; **role of women and women’s organisations** (Self Help Groups (SHGs)); poverty and developmental issues (first Governance class); **untouchable identities**. **Caste and power** + social empowerment = **reservation** → `02_Caste_Power_and_Reservation.md` (Lecture 2 — 10 September 2026).
+**Parked for later classes:** population; urbanisation; communalism / regionalism / secularism; globalisation; **role of women and women’s organisations** (Self Help Groups (SHGs)); poverty and developmental issues (first Governance class). **Caste and power** + social empowerment = **reservation** → `02_Caste_Power_and_Reservation.md` (Lecture 2 — 10 September 2026). **Untouchable identities / SC / NCSC / Dalit movement** → `03_Dalits_SC_Reservation_and_Identities.md` (Lecture 3 — 12 September 2026). **Tribes** next.
 
 **Mains theme Sir locked for caste:** will caste **live or die**? Today’s answer-frame: it stays alive because it is **rigid by birth** and **flexible in occupation**.
 

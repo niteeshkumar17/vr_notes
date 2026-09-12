@@ -7,7 +7,7 @@
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **10/9/26**, circled **L**)  
 > **Paper:** **GS-I (Mains)** — Indian Society / Social Issues. Reservation also feeds **GS-II** (social justice) later.  
 > **Continues:** `01_Salient_Features_Indian_Society.md` (occupation map, Sanskritization, endogamy). **Caste and power** was parked there.  
-> **Parked:** **untouchable identities** (next class); **50% ceiling** and March 2026 creamy-layer / Public Sector Undertaking (PSU) posts → **polity**.  
+> **Parked:** **50% ceiling** and March 2026 creamy-layer / Public Sector Undertaking (PSU) posts → **polity**. **Untouchable identities** taught 12 Sep → `03_Dalits_SC_Reservation_and_Identities.md`.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 **Mains theme still:** will caste **live or die**? Today adds **power** (dominant caste), **Other Backward Classes (OBC)** / Mandal, and reservation as the State’s main **social-empowerment** tool.
@@ -235,7 +235,11 @@ Two statutes **keeping Art 17 in view:**
 | **Civil Rights Protection Act, 1955** | Entry to **public places** / **community resources** (temples). Easier in **urban anonymity**; **rural** still knows caste. |
 | **Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989** | Defines a **list of atrocities**. Class: **stringent** — **non-bailable** and **cognizable** (**arrest without warrant**) to **create fear**. Still **weak enforcement** (traditional mindset). Class also: the same stringency is **misused** by some Dalits to **blackmail / revenge** — dilute it and the shield dies; keep it and misuse stays. |
 
-**Next class:** shedding **untouchable identities**.
+**Next class (taught 12 Sep):** shedding **untouchable identities** → `03_Dalits_SC_Reservation_and_Identities.md`.
+
+### Update — 12 September 2026 (Lecture 3 extras on creamy layer / subclass)
+
+Sawhney lock **stays**: creamy layer is **OBC-only** in **1992** because for SCs **economic mobility ≠ social mobility**. Lecture 3 **adds**: introduce creamy layer **inside SC/ST anyway** so **have-nots (~90%)** get seats the **haves (~10%)** hijack — **not** because social equality has arrived. Sub-classification of **SC/ST**: **2004** Court said **homogeneous** (do not split); ***Davinder Singh v. State of Punjab* (2024)** said they are **no longer homogeneous**. Full lecture: SOC-03.
 
 ### Update — 10 September 2026 (UPSC CSE Prelims 2023 + evening articles)
 
