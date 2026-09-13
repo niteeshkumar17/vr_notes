@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-13
-*   **Active Micro-Topics:** 609
+*   **Active Micro-Topics:** 615
 *   **Overall Database Mastery:** 78.3% 📈
 *   **Today's Recall Completed:** Evening Prelims **12 Sep** logged (**16/20 · 29.36/40**). Flash **15/15**. Ghost Recall **13 Sep** still **Q1 = SOC-03 · Q2 = ST-07**.
 *   **Active Learning Gaps Detected:** `MST-081` Stage III ≠ fast · `MST-082` Montford all three · `MST-083` 2025 Waqf Boards still required · `MST-084` Additional Protocol ≠ NSG uranium. Leftover `MST-076` Sohgaura · `MST-077` reversal+atmosphere · `MST-079` Rigvedic vs IVC 1-only · `MST-080` Mature 2600–1900.
-*   **New Topics Ingested Today:** **GEO-13** (13 Sep climatology L10 — Ferrel 1856 three-cell / planetary winds). **14 Sep Q1 = GEO-13**. Do **not** steal for leftover MST. If no second 13 Sep class, **Q2 = leftover catch-up**. **SOC-03** + **ST-07** still first-pass for **13 Sep** morning if unlogged. **CA-260912** leftover only — drill `MST-083` if that slot fires. `MST-069` / `MST-070` / `MST-078` **held** evening → 15-day **27 Sep**.
+*   **New Topics Ingested Today:** **GEO-13** (climatology L10 Ferrel TAC) + **ECO-07** (13 Sep taxation L7 — windfall / EL–DST / BEPS toolkit). **14 Sep Q1 = GEO-13 · Q2 = ECO-07**. Do **not** steal for leftover MST. **SOC-03** + **ST-07** still first-pass for **13 Sep** morning if unlogged. **CA-260912** leftover only — drill `MST-083` if that slot fires. `MST-069` / `MST-070` / `MST-078` **held** evening → 15-day **27 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -739,7 +739,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| ECO-04-01 | GMCT: 15% Minimum, OECD/G20, 139 Members & BEPS | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `OECD/G20 Pillar Two` $\leftrightarrow$ `BEPS` $\leftrightarrow$ `Level Playing Field` $\leftrightarrow$ `PPP 3rd Rank` |
+| ECO-04-01 | GMCT: 15% Minimum, OECD/G20, 139 Members & BEPS | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `OECD/G20 Pillar Two` $\leftrightarrow$ `BEPS` $\leftrightarrow$ `Level Playing Field` $\leftrightarrow$ `PPP 3rd Rank` $\leftrightarrow$ `Toolkit L7 ECO-07 CbCR/Thin Cap/115BBF` |
 | ECO-04-02 | MAT: 14% on Book Profit, Direct Tax, Fraud Prevention | 2 | ★★★★★ | Day 3 | 2026-09-09 | 80% | Rising 📈 | 85% | 82% | 2 | 1 | 2026-09-05 | 2026-09-06 | Fast 🟢 | `MAT 14% from 1 Apr 2026 not 2016` $\leftrightarrow$ `GMCT 15% OECD` $\leftrightarrow$ `MST-045 Resolved` |
 | ECO-04-03 | Book Profit vs Normal Profit Formula & Calculation | 2 | ★★★★☆ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Received + Upcoming Revenue` $\leftrightarrow$ `Only Received Revenue` $\leftrightarrow$ `Depreciation` $\leftrightarrow$ `MAT` |
 | ECO-04-04 | STT: Direct Tax on Securities, Claimable as Business Expense | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Securities = Equity/MF/Bonds` $\leftrightarrow$ `Business Expense Claim` $\leftrightarrow$ `Ricardian Equivalence` $\leftrightarrow$ `SEBI` |
@@ -757,6 +757,15 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-04-16 | DTC: Old (2009 Shome) vs New (2017 Akhilesh Ranjan) & Income Tax Act 2025 | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `800+ Sections Outdated` $\leftrightarrow$ `GST Analogy` $\leftrightarrow$ `Parthasarathi Shome 2009` $\leftrightarrow$ `Akhilesh Ranjan 2017` |
 | ECO-04-17 | DTC Objectives: Simplification, International Best Practices & Economic Peculiarities | 2 | ★★★★☆ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Income Tax Act 2025` $\leftrightarrow$ `Ease of Business` $\leftrightarrow$ `Similar to Global DT Structure` $\leftrightarrow$ `Keep Nation Peculiarities` |
 
+### Economy (Taxation L7 — Windfall, EL/DST, BEPS toolkit — 13 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-07-01 | Windfall Surtax: ₹23250/t Crude + Export ATF15 Petrol13 Diesel10; 14-day Review | 3 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Indian Producers Not OPEC` $\leftrightarrow$ `Cannot Pass to Pump` $\leftrightarrow$ `Jul 2022 / Scrap Dec 2024 / Back Mar 2026` $\leftrightarrow$ `Special Additional Excise` $\leftrightarrow$ `₹96k Cr Offset File 02` |
+| ECO-07-02 | Land Tax Muni Lump-sum vs Land-Revenue State 0.5–1% Circle 5–10y vs Professional Tax | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Also Property/Building/House` $\leftrightarrow$ `Revenue ≠ Profit; Tax Even on Loss` $\leftrightarrow$ `Seller vs Stamp Duty Buyer` $\leftrightarrow$ `Prof Tax Adjusted vs IT` |
+| ECO-07-03 | Equalisation Levy 6% Ads; ₹1 Lakh/yr Non-Resident; 1 Apr 2016; OECD BEPS Option | 3 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Google/X/Facebook/YouTube` $\leftrightarrow$ `Offshore Billing` $\leftrightarrow$ `Koo No Tax = Vocal for Local` $\leftrightarrow$ `PE in India → Off` |
+| ECO-07-04 | DST = EL 2.0 2% Non-Resident E-comm; FA 2020 / 1 Apr 2020; Both Scrapped 1 Apr 2025 | 3 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No Tangible Presence` $\leftrightarrow$ `USA/EU Cordial + Multiple DT + Exodus` $\leftrightarrow$ `Licence Taken / Offline Went Online` |
+| ECO-07-05 | BEPS $100–240 bn / 4–10%; CbCR s.286(2); Thin Cap; Patent Box s.115BBF FA 2016 | 3 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `IP Tech + Life Science` $\leftrightarrow$ `Affiliate or Indian Parent + Destination` $\leftrightarrow$ `High Debt vs Own Capital` $\leftrightarrow$ `GAAR = L6 No Extra Day-1` |
+| ECO-07-06 | Faceless Assessment ITA 1961; No Officer–Taxpayer Face; Vivad/Sabka/BAT/e-Bikray Parked | 2 | ★★★★☆ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Transparency Efficiency Accountability` $\leftrightarrow$ `Economies of Scale` $\leftrightarrow$ `Vivad = DT / Sabka = IDT` $\leftrightarrow$ `GST Next` |
 
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -858,7 +867,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Tomorrow (14 Sep) Q1:** **GEO-13** (13 Sep Ferrel TAC / planetary winds). **Q2:** leftover catch-up unless a second 13 Sep class arrives. Do **not** steal Q1–Q2 for leftover MST
+  1. **Tomorrow (14 Sep) Q1:** **GEO-13** (13 Sep Ferrel TAC / planetary winds). **Q2:** **ECO-07** (13 Sep windfall / EL–DST / BEPS). Do **not** steal Q1–Q2 for leftover MST
   2. **Today (13 Sep) if still unlogged:** Q1 **SOC-03** · Q2 **ST-07**. Drill `MST-081` Stage III ≠ fast **inside Q2**
   3. **14 Sep Q3–Q6:** leftover **CA-260912** (drill `MST-083`) · CA **1–7 Aug** if still buffer. **SOC-02** + **ST-06** are **+3** — leftover slots, not Q1. If IR leftover fires, drill `MST-084`
   4. **14 Sep Q7:** GEO-07 **+7**. **Q8:** leftover `MST-082` Montford all three · `MST-084` / `MST-076`/`077`/`079`/`080` if a slot (`MST-069`/`070`/`078` 15-day)

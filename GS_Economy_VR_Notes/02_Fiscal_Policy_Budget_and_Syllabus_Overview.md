@@ -341,6 +341,10 @@ Government presents **3 deficits** every year in the Budget. We study **6 total:
 - **Ayushman Bharat** (₹5 lakh free treatment) increased expenditure → introduced **Health & Education Cess**
 - India always **manages the gap** — unlike Sri Lanka
 
+### Update — 13 September 2026 (Economy VR taxation L7)
+
+Working windfall = **surtax / special additional excise duty** on **Indian** crude and on **exports** of ATF / petrol / diesel; **fortnightly** review; **July 2022 → scrapped Dec 2024 → reintroduced March 2026**. Full lock on `03_Taxation.md` Lecture 7 (cluster **ECO-07**). The ₹96,000 crore offset above stays. Do **not** add a second Day-1 for this pair.
+
 ---
 
 ## Section E: Finance Commission

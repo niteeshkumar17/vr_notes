@@ -1,10 +1,10 @@
 # 03 — Taxation
 
-> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)**  
-> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**  
+> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)**  
+> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**  
 > **Teacher:** **BS Sir**  
-> **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26)  
-> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6)
+> **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26; **L7 six pages dated 13/9/26**)  
+> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6); **windfall / surtax, land tax vs land-revenue tax, professional tax, Equalisation Levy / Digital Service Tax, BEPS toolkit, faceless assessment (L7)**
 
 ### Lecture 4 — 24 August 2026
 
@@ -399,6 +399,7 @@ The **OECD/G20 Inclusive Framework** proposed a minimum corporate tax rate of **
 
 - If India and Sri Lanka both charge 15%, no incentive to shift operations.
 - GMCT reduces BEPS because everywhere the minimum rate is the same.
+- **Working toolkit (CbCR / thin capitalisation / patent box / GAAR):** **Lecture 7 (13 Sep)**, cluster **ECO-07**. Do not restudy the one-line definition as a new topic.
 - Investors then choose countries based on **governance quality**, not tax arbitrage.
 
 ### Why Level Playing Field Benefits India
@@ -994,7 +995,7 @@ More slabs → a given income (class: ₹11 lakh) sits in a **lower** band under
 4. **Less litigation** expected from simpler law.
 5. Government has **re-strengthened** **faceless assessment** and **Vivad Se Vishwas** (direct-tax dispute settlement) so the simpler law is actually used without a bribe window.
 
-**Faceless assessment:** taxpayer does not know the officer; officer does not know the taxpayer. No “come to the office four times.” Only the genuine demand survives.
+**Faceless assessment:** taxpayer does not know the officer; officer does not know the taxpayer. No “come to the office four times.” Only the genuine demand survives. **Working scheme (ITA 1961 provisions, economies of scale):** **Lecture 7**.
 
 **Why file even when the rebate zeros the tax?** Banks see the ITR. Also: interest, jewellery sold before 36 months, or land sold before 24 months can **push total income over ₹12 lakh**. Rebate is not a promise that nothing else will be added.
 
@@ -1268,3 +1269,217 @@ Government **announces three** every year: **revenue, fiscal, primary**. Class w
 ---
 
 <!-- 2026-08-31: Lecture 6 from Economy transcript + 7 notebook pages — New IT Act 2025 vs Akhilesh Ranjan recs, DDT from 1 Apr 2020, cess vs surcharge (order, 41% pool, Centre-only exam line), TDS/TCS, GAAR vs SAAR, revenue deficit start. -->
+
+### Lecture 7 — 13 September 2026
+
+> Notebook dated **13/9/26**. Seventh BS Sir tax class. Continues Lecture 6’s direct-tax toolkit. Today: **windfall tax (surtax)**, then **additional taxes** (land / land-revenue / professional), **Google tax = Equalisation Levy (EL)** and **Digital Service Tax (DST) = EL 2.0**, **Base Erosion and Profit Shifting (BEPS)** measures, and the working **faceless assessment** scheme. **Parked next class:** Vivad Se Vishwas (direct tax) / Sabka Vishwas (indirect tax); Border Adjustment Tax; e-Bikray; Value Added Tax (VAT) / Goods and Services Tax (GST). Audio runs to class close.
+
+**How to read class shortcuts:** **ATF** = Aviation Turbine Fuel; **EL** = Equalisation Levy (sheet *Equalization*); **DST** = Digital Service Tax; **BEPS** = Base Erosion and Profit Shifting; **CbCR** = Country-by-Country Reporting; **ITA** = Income-tax Act; **OPEC** = Organization of the Petroleum Exporting Countries. Full forms on first use.
+
+**Already in Lectures 4–6 — do not restudy as a new topic:** GMCT / BEPS one-line (L5); GAAR vs SAAR from April 2017 (L6); faceless assessment as a one-line merit of the 2025 Act (L6); windfall as the ₹96,000 crore offset after the May 2022 fuel-tax cut (`02_Fiscal_Policy_Budget_and_Syllabus_Overview.md`). Cluster for *this* sitting is **ECO-07**.
+
+---
+
+## 9. Windfall tax — surtax (ECO-07-01)
+
+**July 2022 announcements (first introduction):**
+
+| On | Rate (class lock) |
+|:---|:---|
+| Sale of **1 tonne locally produced** crude oil | **₹23,250** |
+| Export of **1 litre Aviation Turbine Fuel (ATF)** | **₹15** |
+| Export of **1 litre petrol** | **₹13** |
+| Export of **1 litre diesel** | **₹10** |
+
+India meets about **85–86%** of petroleum need by **import**. This tax is on **Indian producers**, not on **Organization of the Petroleum Exporting Countries (OPEC) / OPEC+**. Levy it on OPEC and they sell elsewhere; India cannot afford that.
+
+**Why on Indians:** OPEC sets a high price → Indian producers **follow** and make an **unprecedented** profit they did not create — a gain that “came with the wind and fell in the lap” → **windfall** → **windfall tax**. Class cost-of-production story is an illustration, not a statutory formula.
+
+**Cannot pass it on.** Seller examples: **Oil and Natural Gas Corporation (ONGC)** / a private crude seller. Buyer = **refinery** (**Indian Oil Corporation**, **Reliance**). If the Indian seller adds ₹23,250, the refinery buys **untaxed OPEC** crude. So the tax sits on the **seller’s profit**, not on the pump. Same logic on **exports**: the levy is on the **exporter** of finished ATF / petrol / diesel, **not** on domestic retail of those three.
+
+**Fortnightly review:** every **14 days** (15th day). More OPEC profit → more tax; less → less; can go to **zero**. Class has seen the crude rate move **₹23,250 → ₹17,000 → ₹5,000 → ₹1,700 → ₹750 → ₹500 → 0**. **Scrapped December 2024** when OPEC profit hit the floor; **reintroduced March 2026** when it rose again.
+
+> It is a **surtax** levied on those products which are making a **good amount of profit**. It is further imposed by the government on businesses or economic sectors that have been **benefited from economic expansion**.
+
+**Purpose:** redistribute **excess profit** of one area into another for **greater social welfare**.
+
+**Legal name in class:** **special additional excise duty** on (i) sale of **locally produced crude** and (ii) **exports** of petrol, diesel and ATF. Excise language = **indirect**; do **not** file it with the direct-tax list below.
+
+Exporters are **mandated** to meet **domestic demand first**, then export (supply at home **and** tax on the barrel that leaves).
+
+**Offset:** additional revenue helps offset a **reduction in taxes elsewhere**. Same pair already in file 02: **May 2022** fuel-tax cut (~₹4) → expected loss **₹1 lakh crore**; windfall expected recovery **₹96,000 crore**. Class again: New Tax Regime rebate to **₹12 lakh** is a hole that has to be filled from somewhere. **David Ricardo** one-liner: collect from people **now** rather than **borrow** and load **interest** on a later generation.
+
+**Prelims trap:** rates are **not fixed**. Newspaper every fortnight is either a **revision** or a **kept-same** note.
+
+---
+
+## 10. Additional taxes — land, land-revenue, professional (ECO-07-02)
+
+Class heading **Additional taxes.** All three below are **direct**. **Income tax** is already done (Lectures 4–6) — do not recopy.
+
+### 10.1 Land tax
+
+Imposed by **municipalities or municipal corporations**, in a **lump-sum** amount **on houses** (₹1,200 in one city / ₹12,000 in another — **paying capacity**, not a national rate). Also called **property tax, building tax, or house tax**. Pays for local roads, parks, street lights, drainage. Name “land” / “house” does **not** confine it: class **GAAR / ICICI** analogy — the label is not the whole reach. **Lump-sum** = not a **percentage** of income (instalments of a fixed rupee amount are still lump-sum).
+
+### 10.2 Land-revenue tax
+
+Imposed by the **State government**. **Revenue** here = **price × quantity** (the **selling amount**), **not** profit. **Capital Gains Tax** on the *gain* is separate. Sell at a **loss** and land-revenue tax is **still** due.
+
+Tax is based on the **circle rate** (**legal market rate** fixed by the State — road, commercial use, demand). Once determined, that circle rate lasts a **minimum of 5 years** and a **maximum of 10**. Rate of tax **0.5% to 1%**, depending on the **value of land**.
+
+**Seller** pays. **Stamp duty** is typically the **buyer**. Some States levy **both**, some **only one** — State choice. Not a lump-sum tax.
+
+### 10.3 Professional tax
+
+**Direct tax** imposed by the **State government** on **professionals** (doctors, advocates, **Chartered Accountants (CA)**, etc.) in a **lump-sum** amount.
+
+**No double taxation:** professional tax is **adjusted** against **income tax** at return time (class: ₹10,000 income tax due − ₹2,500 professional tax already paid → ₹7,500). The State holds the money for the year; the Centre nets it.
+
+Class colour (not a rate lock): Jharkhand government-school teachers running hidden coaching; Uttar Pradesh doctors and private clinics. UP illustration **₹2,500 / year** for doctors — they agreed because it is small **and** adjustable.
+
+---
+
+## 11. Google tax — Equalisation Levy (ECO-07-03)
+
+**Equalisation Levy (EL)** — sheet *Equalization*; class **Google tax** because it **started** on Google, then all similar platforms.
+
+> EL was aimed at **taxing foreign companies** which had a **significant local client** but were **billing them through their offshore units**, effectively **escaping** the country’s tax system.
+
+In simple words: levied on **revenue** generated by **Google, Twitter (now X), Facebook, YouTube** etc. from **advertisement in India**.
+
+| Lock | Fact |
+|:---|:---|
+| Rate | **6%** |
+| In force | **2016** (proposed **2016–17 Budget**; from **1 April 2016**) |
+| Threshold | payment **exceeding ₹1 lakh a year** to a **non-resident** service provider for **online advertisements in India** |
+
+**Class why:** platform licence was for **content**, not for **ads**. Offline hoardings pay a licence; YouTube used the same platform at near-zero extra cost → **unfair**. Two ways to legalise: **licence** or **tax**. Government closed its eyes till **31 March 2016**, then taxed. **Level playing field** with offline ads. **Donald Trump** (first stint) called it a penalty on **American** firms; India: (i) no licence, (ii) the idea is **Organisation for Economic Co-operation and Development (OECD)** — America is a prime OECD member.
+
+**Vocal for local:** advertisement on **Koo** (Indian) — **no** EL; on **X / Twitter** — **yes**. **Permanent establishment** in India → this levy **off**; tax them on **net income** made here, plus jobs.
+
+### 11.1 Impact (sheet)
+
+1. **Role of international organisations / forums.** The idea came from the **OECD Base Erosion and Profit Shifting (BEPS) action plan**. That plan considered EL as an **option to tax digital transactions**.
+2. **Prevents / reduces shifting of profits.** Would prevent technology companies from shifting the **majority of their profits** into their own nations **and** offshore to **tax havens** (haven = harbour, not heaven).
+3. **Ensuring tax payment by online companies.** Global online businesses taxed for the **considerable income they earn from India**. Incentive to have **permanent establishment** in India and be taxed only on **net income** made here. Also discourages avoiding tax by exploiting **weaknesses in international taxation rules**.
+
+---
+
+## 12. Digital Service Tax — Equalisation Levy 2.0 (ECO-07-04)
+
+**Not** a second year of the same tax. **EL 1.0** = **6% on advertisement** revenue. **EL 2.0 / Digital Service Tax (DST)** = **2% on genuine e-commerce business** of **non-resident** platforms.
+
+**Amazon / Flipkart** illustration: commission from sellers/buyers = genuine business; ads on the same site = already under EL 1.0. Offline Apple showroom has rent + staff; online seller can sit with stock in an almirah and **discount**. Same **level-playing-field** logic as **anti-dumping** at the border. **Only** e-commerce companies whose **headquarters are outside India** / **no tangible presence** (no offline business here). **Walmart–Flipkart** and **Amazon** → Trump complaint again. Introduced **1 April 2020** (four years after EL 1.0).
+
+> EL further extended to **e-commerce companies** which were **sourcing their revenues from Indian customers without having tangible presence** here. The amendment to the **Finance Act, 2020** expanded the ambit of EL for **non-resident e-commerce operators** involved in **supply of services**, including **online sale of goods** and **provision of services**, with the levy at **2%**, **effective 1 April 2020**.
+
+**European Union** analogue in class: **GAFA** tax (different name, same family).
+
+### 12.1 Impact of DST (sheet — after “effective from 1 April 2020”)
+
+1. **Prolonged international tax-law negotiations.** Agenda: reform international tax law so digital companies were taxed **where economic activities were carried out**. Formally framed **within the OECD BEPS programme**.
+2. **Changing international economic order.** **Proliferation of DST** was a **symptom** of that change. Countries such as **India**, which provide **large markets** for digital corporations, seek a **greater right to tax incomes**. (Class: India **3rd** on **Purchasing Power Parity (PPP)** — same L5 lock.)
+3. **Adverse impact on foreign e-commerce companies.** Additional tax would **reduce profits**; they **may close operations in India**, which may further hit **investment and employment** (direct + attached). Singur / Tata Nano is **colour** for “don’t drive the plant out” — not a DST fact.
+
+### 12.2 Why both levies were scrapped
+
+> To promote **cordial (friendly) trade relationship** with the **USA** and **European Union**, also to **scrap multiple direct-tax structure** in India, and also to stop the **possible exodus** of foreign e-commerce companies, government **scrapped both** the Equalisation Levies on **1 April 2025**.
+
+Class extra (not on the sheet, but dictated): most platforms **took the advertisement licence** → EL 1.0’s original excuse faded; **Indian offline went online** → EL 2.0’s level-playing-field excuse faded; Trump had complained since **2016 / 2020**. **1 April 2025** is the exam date.
+
+---
+
+## 13. Base Erosion and Profit Shifting — working toolkit (ECO-07-05)
+
+L5 one-liner stays. Today is the **toolkit**.
+
+**Sheet family:** **CbCR** · **Thin capitalisation** · **Patent box tax regimes** · **GAAR** (GAAR already **Lecture 6** — do not open a second Day-1).
+
+> **BEPS** refers to the strategies used by **Multinational Corporations (MNCs)** to **avoid paying tax** by exploiting the **mismatches and gaps** in the tax rules.
+
+Mostly prevalent in **intellectual-property-intensive technology** (class: **Google, Apple**) and **life-sciences** (class: **Pfizer**).
+
+**Impact:** nations have lost tax revenue to the tune of **US$100 billion to US$240 billion annually** (OECD). The lost revenue is equivalent to **4–10%** of **total income-tax revenue at the global level**. Class: if a firm leaves a **15%** India for a **10%** Sri Lanka, that **5 points** goes **nowhere** — not to India, not to Sri Lanka. Class also: finance ministers of about **130** nations sat on a **BEPS-avoidance** understanding (do **not** overwrite L5 **139** GMCT members).
+
+### 13.1 Country-by-Country Reporting (CbCR)
+
+Part of the **OECD BEPS action plan**. As per the old **Income-tax Act, 1961, Section 286(2)**, the CbCR is required to be submitted by an **Indian affiliate of a foreign-parented group** **or** an **Indian parent company**, **and also by the destination nation**. Class: Sri Lanka tells India “your firm is trying to land here”; the firm also files; destination + home both report so the shift can be **incentivised to stop** or **blocked** under the avoidance understanding.
+
+### 13.2 Thin capitalisation
+
+> A condition where a company is **financed with a high level of debt compared to its own capital**.
+
+Class mechanism (illustration, **not** a statutory 60:40 lock): for a footloose MNC, India wants **most of the project funded by Indian-bank debt**, **own funds in the minority** — **thin** own capital. Banks can then say **pay us before you sell and leave**. Sticky debt = less easy BEPS.
+
+### 13.3 Patent box tax regime
+
+Introduced in India by enacting **Section 115BBF** of the **Income-tax Act, 1961**. As per **Finance Act, 2016**, it is a **special, very low corporate-tax regime** used by countries to **incentivise research and development** by **taxing patent income differently from others**.
+
+Class illustration: ordinary corporate rates stay; **if** the firm does **R&D in India** and earns from a **patented** product, that patent income can be taxed at a **much lower** rate (class example **10%**) so the firm does **not** need to leave for a 10% jurisdiction. **Do not** treat 10% as a gazette lock unless a later class numbers the section.
+
+**GAAR** — already Lecture 6. Same sitting’s “measures to avoid BEPS” list; no extra cluster row.
+
+---
+
+## 14. Faceless Tax Assessment Scheme (ECO-07-06)
+
+L6 one-liner. Today’s working version.
+
+The **Central government** introduced the faceless assessment scheme to provide **greater transparency, efficiency and accountability** in **income-tax assessments**. It is an attempt to remove **individual tax officials’ discretion** and **potential harassment** for income-tax payers. **All provisions** introduced under this sit under the **old Income-tax Act, 1961**.
+
+- Eliminate the **interface** between **assessing officers** and **taxpayers** (neither knows the other; notice and reply **online**).
+- **Optimise utilisation of resources** through **economies of scale** and **functional specialisation**.
+- **Main objective:** remove **physical interaction** as much as possible.
+
+Class: cash + a face-to-face meeting is where the bribe lives; opportunity cost of five trips to the ward; “come tomorrow, PAN not visible.” Faceless = only the **genuine demand** survives.
+
+---
+
+## 15. Parked for next class
+
+1. **Vivad Se Vishwas** — direct-tax dispute (“from controversy to trust”). Genuine tax kept; interest / penalty / case **scrapped** after check. **2017** complaints after **GAAR (April)** and **GST (July)**.
+2. **Sabka Vishwas** — same idea for **indirect tax**. Two names so Prelims can split DT / IDT.
+3. **Border Adjustment Tax** — class: replacement of **countervailing duty**.
+4. **e-Bikray** — platform to **sell properties** to recover a **bad loan**.
+5. Then **VAT and GST** as the next big block.
+
+Margin on the sheet: *Vivad se Vishwas — Tax — DT* · *Sabka Vishwas scheme — IT*.
+
+---
+
+## 16. Lecture 7 — UPSC Quick Recall
+
+1. Windfall = **surtax** / **special additional excise duty** on **Indian** crude (**₹23,250 / tonne**, July 2022 lock) and on **exports** of ATF / petrol / diesel (**₹15 / ₹13 / ₹10**). **Not** on OPEC. **Cannot** pass to the pump. Review **every 14 days**. **July 2022 → scrapped Dec 2024 → back March 2026**.
+2. Land tax = **municipality**, lump-sum, also property / building / house. Land-revenue = **State**, **0.5–1%** on **circle rate**, **5–10 years**, even on a **loss**; **seller**. Professional tax = **State**, lump-sum on professionals; **adjusted** against income tax.
+3. **EL / Google tax** = **6%** on **ad** revenue of **non-residents**; **₹1 lakh / year** threshold; **1 April 2016**; OECD BEPS option for digital.
+4. **DST / EL 2.0** = **2%** on **non-resident e-commerce** without **tangible presence**; **Finance Act 2020**, **1 April 2020**. **Both ELs scrapped 1 April 2025** (USA/EU, multiple DT, exodus).
+5. BEPS = MNC strategies exploiting **gaps** in tax rules; OECD loss **US$100–240 bn / year** = **4–10%** of global income-tax revenue. **CbCR** = **s.286(2)** ITA 1961. Thin cap = **high debt / thin own capital**. Patent box = **s.115BBF**, **Finance Act 2016**. **GAAR** = L6.
+6. Faceless = no officer–taxpayer **face**; ITA 1961; transparency / efficiency / accountability. **Vivad / Sabka / BAT / e-Bikray / GST = next class.**
+
+---
+
+## Abbreviations used in Lecture 7
+
+| Shortcut | Full form |
+|:---|:---|
+| **ATF** | Aviation Turbine Fuel |
+| **OPEC** | Organization of the Petroleum Exporting Countries |
+| **ONGC** | Oil and Natural Gas Corporation |
+| **EL** | Equalisation Levy (sheet *Equalization*; class Google tax) |
+| **DST** | Digital Service Tax (= EL 2.0) |
+| **OECD** | Organisation for Economic Co-operation and Development |
+| **BEPS** | Base Erosion and Profit Shifting |
+| **CbCR / CBCR** | Country-by-Country Reporting |
+| **MNC** | Multinational Corporation |
+| **ITA** | Income-tax Act |
+| **GAAR** | General Anti-Avoidance Rule |
+| **CA** | Chartered Accountant |
+| **PPP** | Purchasing Power Parity |
+| **PE** | Permanent Establishment |
+| **VAT / GST** | Value Added Tax / Goods and Services Tax |
+| **BAT** | Border Adjustment Tax *(parked)* |
+| **DT / IDT** | Direct Tax / Indirect Tax |
+
+---
+
+<!-- 2026-09-13: Appended Lecture 7 (13/9) from transcript + 6 notebook pages — windfall surtax, land/land-revenue/professional tax, EL 6% / DST 2%, both scrapped 1 Apr 2025, BEPS CbCR–thin cap–patent box, faceless assessment. Vivad/Sabka/BAT/e-Bikray/GST parked. Cluster ECO-07. -->
