@@ -241,6 +241,10 @@ Two statutes **keeping Art 17 in view:**
 
 Sawhney lock **stays**: creamy layer is **OBC-only** in **1992** because for SCs **economic mobility ≠ social mobility**. Lecture 3 **adds**: introduce creamy layer **inside SC/ST anyway** so **have-nots (~90%)** get seats the **haves (~10%)** hijack — **not** because social equality has arrived. Sub-classification of **SC/ST**: **2004** Court said **homogeneous** (do not split); ***Davinder Singh v. State of Punjab* (2024)** said they are **no longer homogeneous**. Full lecture: SOC-03.
 
+`CSE-2023-Q34` **held**. The **1st Constitutional Amendment** was widely believed to have been enacted to overcome judicial interpretations of the Fundamental Rights — the Champakam / **Art 15(4)** lock (`MST-073`). Not 42nd / 44th / 86th.
+
+`MST-069` **held** (evening option b): **16(4)** can be limited by **Art 335**; **335 does not define** efficiency.
+
 ### Update — 10 September 2026 (UPSC CSE Prelims 2023 + evening articles)
 
 `CSE-2023-Q40` **missed** (`MST-069`). Statement-I holds: SC has read **Article 16(4)** reservation with **Article 335** (efficiency of administration). Statement-II fails: Art 335 does **not** define “efficiency.” He inverted both.

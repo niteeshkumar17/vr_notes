@@ -125,7 +125,7 @@ Same **18th** summit week. **No extra Day-1.** The 6 Sep explainer’s “Jaipur
 | Lock | Clip |
 |:---|:---|
 | Summit wrap | **18th** BRICS, New Delhi **12–13 Sep 2026**, banner **“Humanity First”** |
-| NDB | Launched **2015**. Supposed World Bank rival. **Project approvals ~$39 billion** by end-**2024**. World Bank Group commits about **$100 billion a year** — NDB has approved **less than** the Bank **disburses in six months**. **Co-finances** WB / IMF projects → **complementary, not competitive** |
+| NDB | Launched **2015**. Supposed World Bank rival. **Project approvals ~$39 billion** by end-**2024**. World Bank Group commits about **$100 billion a year** — NDB has approved **less than** the Bank **disburses in six months**. **Co-finances** WB / IMF projects → **complementary, not competitive**. `CSE-2016-Q67` **held**: NDB is **BRICS**, **not APEC**; HQ **Shanghai** |
 | Currency of NDB bonds | About **half** outstanding bonds in **US dollars**; **yuan** most of the rest; **South African rand ~1%**. Local-currency lending **target 30%** of portfolio by **end of this year**; **~22%** at mid-**2025**. First **rupee-denominated** bond still in planning as late as **Sep 2025** |
 | Ratings | Still courts **S&P, Fitch, Moody’s** — the agencies BRICS governments call biased |
 | Russia 2022 | After the Ukraine invasion, NDB **froze operations related to Russia** (founding member, **20%** shareholder); has a **bond standing in New York**. Russia **relinquished** its rotating presidency; **Brazilian** incumbent extended **to 2030** |

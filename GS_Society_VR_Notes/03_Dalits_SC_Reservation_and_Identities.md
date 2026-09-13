@@ -66,6 +66,10 @@ Class aside (already L2 **desanskritization**): Dalits were treated badly by **S
 
 Whatever is written here for NCSC is **exactly the same** for NCST and NCBC.
 
+### Update — 12 September 2026 (UPSC CSE Prelims 2023)
+
+`CSE-2023-Q35` **held**. Among NCBC / NHRC / National Law Commission / NCDRC, **only one** is a constitutional body: **NCBC (Art 338B)** — same design as NCSC **338** and NCST **338A**. The other three are **statutory**.
+
 **Safety** = protection **against the State**. Dalits face **atrocities**. Upper castes occupy the **higher hierarchy inside government**. Police may commit **custodial torture**. Uniform is modern; the person wearing it is **traditional** (Lecture 1 lock: modern institutions, traditional people). If the **State** wrongs an untouchable, go to **NCSC**.
 
 **Welfare** = **advice / recommendations** to Government of India **and** State governments on how to improve the **socio-economic condition** of SCs. Class: they **highlight problems** of SCs (do **not** write “research”). Fill a legal void; suggest a scheme.

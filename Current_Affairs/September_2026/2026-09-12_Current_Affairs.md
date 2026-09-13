@@ -40,6 +40,10 @@ Delhi Waqf Board tenure ended **23 Aug 2023**; **Administrator since 10 Jan 2024
 
 <span style="color: #e53e3e;">**Prelims trap:** Administrator **≠** a reconstituted Board. **2025 amendments did not drop** the duty to constitute Boards (plea). Do not mix with Sultanate *waqf*.</span>
 
+### Update — 12 September 2026 (evening paper)
+
+`MST-083`. **I and III only.** Tenure ended **23 Aug 2023**; Administrator **10 Jan 2024**; Anish Dayal notice / list **10 Dec**. Statement II fails: the **2025 amendments did not abolish** the obligation to constitute Boards. He picked **II and III** (dropped the dates). Flash F15 Administrator held — **one** atom. Do **not** steal 13 Sep Q1–Q2; leftover CA slot only.
+
 ---
 
 ## Abbreviations

@@ -976,6 +976,10 @@ Franchise was **limited** → mainly **upper-caste Hindu males**. **Dalits, Othe
 
 <span style="color: #e53e3e;">**Prelims:** recommendations **1918** / Act **1919**. Montagu is London (Secretary of State); Chelmsford is the Viceroy. Do not write “Montegu / Chiefsford”.</span>
 
+### Update — 12 September 2026 (UPSC CSE Prelims 2026)
+
+`CSE-2026-Q18` **missed** (`MST-082`). Assertion: community-based political alliances grew out of the **Montague-Chelmsford Reforms, 1919**. **All three** support it: (1) reforms **retained and extended** separate electorates; (2) SE was meant to **counter Indian nationalism**; (3) **deprived classes** also rallied around the favours in SE. He picked **1 and 2 only**. Class chain stays: **1909** Muslim SE → **1916** Lucknow accepts → **1919** Ambedkar wants Dalit SE → **1932** Macdonald / Poona Pact.
+
 ### Two theories of why the Raj “gave” reforms
 
 | Theory | Claim |

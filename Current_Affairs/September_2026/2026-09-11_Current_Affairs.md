@@ -63,3 +63,7 @@ After the hearing the Bench’s order (Thursday night) put a **two-phase** FoPL 
 ### Update — 11 September 2026 (UPSC CSE Prelims 2018)
 
 `CSE-2018-Q23` **missed** (`MST-078`). **1 only.** The **Food Safety and Standards Act, 2006** replaced the **Prevention of Food Adulteration Act, 1954**. FSSAI is a **statutory authority under the Union Ministry of Health and Family Welfare**, **not** “under the charge of the Director General of Health Services (DGHS).” He picked **both**. Tonight’s FoPL hearing does not change that institutional lock.
+
+### Update — 12 September 2026 (evening paper)
+
+`MST-078` **held**. FoPL lock again (red hexagon / two-or-more / ICMR–NIN 2024 / Pardiwala–Vinod Chandran). Trap option packed Radura + **FSSAI under DGHS** + Chandrachud — he did not take it. 15-day **27 Sep**.

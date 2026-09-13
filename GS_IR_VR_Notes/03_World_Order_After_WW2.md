@@ -112,6 +112,10 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 `CSE-2020-Q55` **held**. Some Indian reactors sit under **IAEA safeguards** because they use **imported** uranium; reactors on **domestic** fuel are not in that IAEA civilian bucket. Do not pick thorium / foreign operator / private ownership.
 
+### Update — 12 September 2026 (UPSC CSE Prelims 2018)
+
+`CSE-2018-Q33` **missed** (`MST-084`). Ratifying the IAEA **Additional Protocol** (official stem spelling) means **civilian** nuclear reactors come under **IAEA safeguards**. It does **not** put **military** installations under inspection. It is **not** “privilege to buy uranium from the NSG” and **not** automatic **NSG** membership (`MST-063` cousin). He picked **(c)**.
+
 ---
 
 ## 5. Post–Cold War: unipolar LPG, then the dark side (IR-03-05)
@@ -146,6 +150,8 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 ### Update — 12 September 2026 (*Hindu* NDB / CRA extras — no extra Day-1)
 
 Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/WB. **Newspaper extra (do not rewrite the class sentence):** NDB **co-finances** World Bank / IMF work — **complementary, not a rival**. **Contingent Reserve Arrangement (CRA), 2015** ($**100 billion** FX pool) has **never been activated**; drawing **>30%** of a member’s share still requires an **IMF programme**. Rio **July 2025** declaration **omits** the word de-dollarisation; **Putin Nov 2024** said the bloc has **not sought to abandon the dollar**; **India opposes** a common BRICS currency. Kazan/Rio ask for a **bigger say inside** a **quota-based, adequately resourced IMF** (US **16.49%** votes + **85%** supermajority = veto) — **not** to replace it. Full numbers: `Current_Affairs/September_2026/2026-09-06_Current_Affairs.md` (`CA-260906-02`). **18th** summit **12–13 Sep 2026**, New Delhi, **“Humanity First.”**
+
+`CSE-2016-Q67` **held**. NDB was **not** set up by **APEC**. Headquarters = **Shanghai**. Complementary-not-rival extra from today’s clip does **not** change that HQ lock.
 
 **China (last 3–4 decades):** second GDP; **manufacturing / supply-chain** hub (including **critical minerals**); **biggest challenge** to US hegemony. **Revisionist state** = wants to **revise / change** the (unipolar) world order and **displace** the US. **China containment** (US, from **January 2017**).
 

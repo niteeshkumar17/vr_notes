@@ -33,3 +33,8 @@ Evening paper uses **5 real PYQs** a night. This file only records **what was al
 | CSE-2022-Q40 | Solar storm: GPS / grids / aurora / satellites / polar radio; not tsunami / planet fires | GEO-12-05 | 2026-09-11 | ✅ | — (held; matches today’s CME / storm physics) |
 | CSE-2018-Q23 | FSS Act 2006 replaced PFA 1954; FSSAI is **not** under DGHS | CA-260911-01 | 2026-09-11 | ❌ | `2026-09-11` · Update 11 Sep 2026 |
 | CSE-2017-Q02 | Rigvedic vs IVC = **1 only**; iron and horse fail the key | HIS-IVC-02 | 2026-09-11 | ❌ | `Ancient_India_Chalcolithic_and_IVC` · Update 11 Sep 2026 |
+| CSE-2023-Q35 | Only NCBC is constitutional (Art 338B); NHRC / Law Commission / NCDRC statutory | SOC-03-02 | 2026-09-12 | ✅ | `03_Dalits_SC_Reservation_and_Identities` · Update 12 Sep 2026 (held) |
+| CSE-2016-Q67 | NDB is BRICS not APEC; HQ Shanghai | CA-260906-02 / IR-03-06 | 2026-09-12 | ✅ | `2026-09-06` + `03_World_Order_After_WW2` · Update 12 Sep 2026 (held) |
+| CSE-2023-Q34 | 1st Amendment enacted to overcome FR judicial interpretations (Champakam / 15(4)) | SOC-02-06 | 2026-09-12 | ✅ | `02_Caste_Power_and_Reservation` · Update 12 Sep 2026 (held) |
+| CSE-2026-Q18 | Montford 1919 community alliances = all three (SE retained + counter nationalism + deprived classes) | MOD-B5-01 | 2026-09-12 | ❌ | `Modern_India` · Update 12 Sep 2026 |
+| CSE-2018-Q33 | Additional Protocol → civilian reactors under IAEA safeguards; not NSG uranium / auto-NSG | IR-03-04 | 2026-09-12 | ❌ | `03_World_Order_After_WW2` · Update 12 Sep 2026 |
