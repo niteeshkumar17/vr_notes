@@ -1,0 +1,17 @@
+---
+description: Rebuild search-index.json whenever notes are published so Pyro Search Notes stays instant.
+globs: notes-index.json, GS_*/**/*.md, Current_Affairs/**/*.md, Articles/**/*.md, Yellow_Books/**/*.md
+alwaysApply: false
+---
+
+# Search index for Pyro
+
+Pyro Search Notes loads **one** file: `search-index.json`. It does not fetch every markdown at runtime.
+
+When you add or edit a note (or regenerate `notes-index.json`), run:
+
+```bash
+node scripts/build-search-index.mjs
+```
+
+Commit `search-index.json` with the notes. Do not skip this on existing-file edits.
