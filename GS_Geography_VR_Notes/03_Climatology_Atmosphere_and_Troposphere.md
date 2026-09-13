@@ -1550,42 +1550,98 @@ Air from the **polar** side is **cold and dry**. Air from the **subtropics** is 
 Equatorial convergence is **similar** (warm, moist) air — fronts are **generally not** an equatorial feature.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-label="Ferrel three-cell globe: seven pressure belts and three planetary wind systems; cells on the left parked" style="display:block;margin:0 auto;width:100%;min-width:300px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 690" role="img" aria-label="Ferrel 1856 surface picture: oval Earth with seven pressure belts. Polar easterlies blow west, westerlies east, trades into the equator. Left side reserved for cells next class." style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <defs>
-<marker id="fw" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e3a8a"/></marker>
+<marker id="ftacHead" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e3a8a"/></marker>
+<clipPath id="ferrelTacGlobe"><ellipse cx="292" cy="340" rx="148" ry="248"/></clipPath>
 </defs>
-<rect x="1" y="1" width="518" height="618" fill="#fff" stroke="#cbd5e1"/>
-<text x="260" y="24" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">William Ferrel (1856) — three-cell TAC</text>
-<text x="260" y="44" text-anchor="middle" font-size="11" fill="#64748b">surface winds today · cells on the left next class</text>
-<ellipse cx="200" cy="330" rx="118" ry="230" fill="#f8fafc" stroke="#0f172a" stroke-width="1.6"/>
-<ellipse cx="200" cy="330" rx="118" ry="28" fill="none" stroke="#94a3b8" stroke-dasharray="4 3"/>
-<text x="200" y="88" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">PHPB</text>
-<text x="200" y="104" text-anchor="middle" font-size="10" fill="#334155">polar HP</text>
-<text x="200" y="148" text-anchor="middle" font-size="11" fill="#1e3a8a">Polar easterlies</text>
-<text x="338" y="178" font-size="11" font-weight="700" fill="#0f172a">60°N TLPB</text>
-<text x="200" y="210" text-anchor="middle" font-size="11" fill="#1e3a8a">Westerlies</text>
-<text x="338" y="248" font-size="11" font-weight="700" fill="#0f172a">30°N STHPB</text>
-<text x="200" y="282" text-anchor="middle" font-size="11" fill="#1e3a8a">NE trades</text>
-<text x="200" y="334" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">ELPB</text>
-<text x="338" y="338" font-size="11" fill="#334155">0°</text>
-<text x="200" y="386" text-anchor="middle" font-size="11" fill="#1e3a8a">SE trades</text>
-<text x="338" y="418" font-size="11" font-weight="700" fill="#0f172a">30°S STHPB</text>
-<text x="200" y="452" text-anchor="middle" font-size="11" fill="#1e3a8a">Westerlies</text>
-<text x="338" y="488" font-size="11" font-weight="700" fill="#0f172a">60°S TLPB</text>
-<text x="200" y="522" text-anchor="middle" font-size="11" fill="#1e3a8a">Polar easterlies</text>
-<text x="200" y="556" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">PHPB</text>
-<line x1="82" y1="160" x2="200" y2="175" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
-<line x1="82" y1="230" x2="200" y2="215" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
-<line x1="82" y1="270" x2="200" y2="290" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
-<line x1="82" y1="390" x2="200" y2="375" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
-<line x1="82" y1="430" x2="200" y2="448" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
-<line x1="82" y1="500" x2="200" y2="515" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
-<text x="260" y="592" text-anchor="middle" font-size="11" fill="#334155">equinox Sun · uniform surface · PGF + Coriolis only</text>
-<text x="260" y="608" text-anchor="middle" font-size="10" fill="#64748b">TLPB = temperate / subpolar (Leong) · belts are average positions</text>
+<rect x="1" y="1" width="678" height="688" fill="#fff" stroke="#cbd5e1"/>
+<text x="340" y="26" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">William Ferrel (1856) — three-cell TAC</text>
+<text x="340" y="46" text-anchor="middle" font-size="12" fill="#64748b">surface winds today · cells on the left next class</text>
+
+<rect x="18" y="168" width="88" height="344" fill="#f8fafc" stroke="#94a3b8" stroke-dasharray="6 4" rx="8"/>
+<text x="62" y="310" text-anchor="middle" font-size="12" fill="#64748b">Hadley</text>
+<text x="62" y="332" text-anchor="middle" font-size="12" fill="#64748b">Ferrel</text>
+<text x="62" y="354" text-anchor="middle" font-size="12" fill="#64748b">Polar</text>
+<text x="62" y="386" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">cells</text>
+<text x="62" y="408" text-anchor="middle" font-size="12" fill="#64748b">next class</text>
+
+<g clip-path="url(#ferrelTacGlobe)">
+  <rect x="140" y="90" width="310" height="500" fill="#f8fafc"/>
+  <rect x="140" y="92" width="310" height="46" fill="#dbeafe"/>
+  <rect x="140" y="182" width="310" height="26" fill="#fecaca"/>
+  <rect x="140" y="252" width="310" height="26" fill="#dbeafe"/>
+  <rect x="140" y="323" width="310" height="34" fill="#fecaca"/>
+  <rect x="140" y="402" width="310" height="26" fill="#dbeafe"/>
+  <rect x="140" y="472" width="310" height="26" fill="#fecaca"/>
+  <rect x="140" y="542" width="310" height="46" fill="#dbeafe"/>
+</g>
+
+<ellipse cx="292" cy="340" rx="148" ry="248" fill="none" stroke="#0f172a" stroke-width="1.8"/>
+<ellipse cx="292" cy="340" rx="148" ry="34" fill="none" stroke="#64748b" stroke-dasharray="5 4"/>
+<ellipse cx="292" cy="265" rx="138" ry="26" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+<ellipse cx="292" cy="195" rx="108" ry="18" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+<ellipse cx="292" cy="415" rx="138" ry="26" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+<ellipse cx="292" cy="485" rx="108" ry="18" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+
+<text x="292" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<text x="292" y="201" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">L</text>
+<text x="292" y="271" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<text x="292" y="346" text-anchor="middle" font-size="15" font-weight="700" fill="#b91c1c">L</text>
+<text x="292" y="421" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<text x="292" y="491" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">L</text>
+<text x="292" y="572" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+
+<g clip-path="url(#ferrelTacGlobe)" fill="none" stroke="#1e3a8a" stroke-width="2.1" stroke-linecap="round">
+  <path d="M 340 152 L 248 164" marker-end="url(#ftacHead)"/>
+  <path d="M 230 230 L 338 216" marker-end="url(#ftacHead)"/>
+  <path d="M 348 288 L 258 308" marker-end="url(#ftacHead)"/>
+  <path d="M 348 392 L 258 372" marker-end="url(#ftacHead)"/>
+  <path d="M 230 450 L 338 464" marker-end="url(#ftacHead)"/>
+  <path d="M 340 528 L 248 516" marker-end="url(#ftacHead)"/>
+</g>
+
+<text x="188" y="201" font-size="12" font-weight="700" fill="#b91c1c">C</text>
+<text x="168" y="271" font-size="12" font-weight="700" fill="#1e3a8a">D</text>
+<text x="160" y="346" font-size="13" font-weight="700" fill="#b91c1c">C</text>
+<text x="168" y="421" font-size="12" font-weight="700" fill="#1e3a8a">D</text>
+<text x="188" y="491" font-size="12" font-weight="700" fill="#b91c1c">C</text>
+
+<line x1="440" y1="122" x2="458" y2="122" stroke="#cbd5e1"/>
+<line x1="400" y1="160" x2="458" y2="160" stroke="#cbd5e1"/>
+<line x1="400" y1="201" x2="458" y2="201" stroke="#cbd5e1"/>
+<line x1="430" y1="224" x2="458" y2="224" stroke="#cbd5e1"/>
+<line x1="430" y1="271" x2="458" y2="271" stroke="#cbd5e1"/>
+<line x1="400" y1="304" x2="458" y2="304" stroke="#cbd5e1"/>
+<line x1="440" y1="346" x2="458" y2="346" stroke="#cbd5e1"/>
+<line x1="400" y1="376" x2="458" y2="376" stroke="#cbd5e1"/>
+<line x1="430" y1="421" x2="458" y2="421" stroke="#cbd5e1"/>
+<line x1="430" y1="456" x2="458" y2="456" stroke="#cbd5e1"/>
+<line x1="400" y1="491" x2="458" y2="491" stroke="#cbd5e1"/>
+<line x1="400" y1="520" x2="458" y2="520" stroke="#cbd5e1"/>
+<line x1="440" y1="572" x2="458" y2="572" stroke="#cbd5e1"/>
+
+<text x="466" y="126" font-size="12" fill="#334155">PHPB</text>
+<text x="466" y="164" font-size="13" font-weight="700" fill="#1e3a8a">Polar easterlies</text>
+<text x="466" y="205" font-size="13" font-weight="700" fill="#0f172a">60°N (TLPB)</text>
+<text x="466" y="228" font-size="13" font-weight="700" fill="#1e3a8a">Westerlies</text>
+<text x="466" y="275" font-size="13" font-weight="700" fill="#0f172a">30°N (STHPB)</text>
+<text x="466" y="308" font-size="13" font-weight="700" fill="#1e3a8a">N.E. Trades</text>
+<text x="466" y="350" font-size="14" font-weight="700" fill="#b91c1c">ELPB · 0°</text>
+<text x="466" y="380" font-size="13" font-weight="700" fill="#1e3a8a">S.E. Trades</text>
+<text x="466" y="425" font-size="13" font-weight="700" fill="#0f172a">30°S (STHPB)</text>
+<text x="466" y="460" font-size="13" font-weight="700" fill="#1e3a8a">Westerlies</text>
+<text x="466" y="495" font-size="13" font-weight="700" fill="#0f172a">60°S (TLPB)</text>
+<text x="466" y="524" font-size="13" font-weight="700" fill="#1e3a8a">Polar easterlies</text>
+<text x="466" y="576" font-size="12" fill="#334155">PHPB</text>
+
+<text x="340" y="628" text-anchor="middle" font-size="12" fill="#334155">equinox Sun · uniform surface · PGF + Coriolis only</text>
+<text x="340" y="648" text-anchor="middle" font-size="11" fill="#64748b">blue = high · red = low · TLPB = temperate / subpolar (Leong) · averages</text>
+<text x="340" y="668" text-anchor="middle" font-size="11" fill="#64748b">named by origin · arrows = flow · C = convergence · D = divergence</text>
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Names and surface arrows on the <strong>right</strong> of the Earth. Left side reserved for the three cells next class. Broken PGF vs thick final arrow is how the sheet was built; the print here keeps the final winds.</em></p>
+<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Names on the <strong>right</strong>, as on the sheet. Arrows sit <strong>on the globe</strong> (easterlies west; westerlies east; trades into the equator). Blue = high, red = low. Left dashed box = Hadley / Ferrel / Polar cells, parked. Broken PGF vs thick final arrow is how the sheet was built; this print keeps the final winds.</em></p>
 
 ---
 
