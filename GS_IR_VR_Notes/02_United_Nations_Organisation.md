@@ -419,6 +419,10 @@ Two grounds for a **permanent seat**:
 
 **BRICS** (Brazil, Russia, India, China, South Africa — **18th** summit **New Delhi, 12–13 September 2026**, India chair): demand **reform of the International Monetary Fund (IMF)** and the **World Bank** (UN specialised-family money bodies). **West dominates:** World Bank President is **always appointed by the US President**; IMF cannot move without the **US** (largest shareholder). India and China want voice matching weight.
 
+### Update — 13 September 2026 (*Hindu* New Delhi Declaration — no extra Day-1)
+
+Declaration **adopted 12 Sep**. Clip: **comprehensive UN reform**; **greater role for Brazil and India** in the **UNSC**. Full text / West Asia language / MSME: `Current_Affairs/September_2026/2026-09-06_Current_Affairs.md` (`CA-260906-02`). Class G4 vs Coffee Club lock **stays** — the declaration names **Brazil and India**, not the full G4.
+
 **If the UN does not reform**, legitimacy may shift to **G20 / BRICS**. Reform so the UN reflects **2026 power**, not **1945**.
 
 **What India should do (class close):** stay invested; keep **diplomatic** work to build opinion. Next class: **India–China**. Sources enough for GS: **class + handouts + Yellow Book + current affairs**.
@@ -455,5 +459,6 @@ Two grounds for a **permanent seat**:
 | **IMF / WB** | International Monetary Fund / World Bank |
 | **PYQ** | Previous Year Question |
 
+<!-- 2026-09-13: Hindu New Delhi Declaration — greater role Brazil and India in UNSC; pointer CA-260906-02. No extra Day-1. -->
 <!-- 2026-09-09: Pointer — full MAD/NPT/world-order chain is Sandhu IR-03, not a second UN lecture. -->
 <!-- 2026-09-04: IR Lecture 2, Dr Sushant Varma — UN origin, six organs, UNSC voting/actions, ICJ-PCA-ICC, assessment, Charter amendment, G4 vs Coffee Club, India’s permanent-seat claim, from transcript + 6 sheets. -->

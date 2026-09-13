@@ -153,6 +153,10 @@ Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/W
 
 `CSE-2016-Q67` **held**. NDB was **not** set up by **APEC**. Headquarters = **Shanghai**. Complementary-not-rival extra from today’s clip does **not** change that HQ lock.
 
+### Update — 13 September 2026 (*Hindu* New Delhi Declaration — no extra Day-1)
+
+**Adopted 12 Sep** (day 1). **11-member** clip. **Iran + UAE** compromise → **“maximum restraint”** on West Asia; **no** naming of US–Israel or Iran’s Gulf strikes. **Intra-BRICS payments in national currencies** = the **same rails** as `CA-260906-02`, **not** a BRICS currency (India still opposes that). **Unilateral coercive measures** (tariffs / sanctions) condemned. **Pahalgam 2025** named. Class NDB / de-dollarisation sentences **stay**.
+
 **China (last 3–4 decades):** second GDP; **manufacturing / supply-chain** hub (including **critical minerals**); **biggest challenge** to US hegemony. **Revisionist state** = wants to **revise / change** the (unipolar) world order and **displace** the US. **China containment** (US, from **January 2017**).
 
 **Hybrid China (why this Cold War is harder than 1945–91):** **politically communist** (single party, Communist Party of China); **economically capitalist** (LPG, private sector — **learned from Soviet failure**). USSR was a **weak** communist economy; China is not repeating “public sector only.”
@@ -204,4 +208,5 @@ Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/W
 | WB | World Bank |
 | WTO | World Trade Organization |
 
+<!-- 2026-09-13: Hindu New Delhi Declaration extras — maximum restraint / national-currency payments / Pahalgam named; pointer CA-260906-02. Class NDB lock stays. No extra Day-1. -->
 <!-- 2026-09-09: Sandhu world-order after WW2 — bipolar/NAM/MAD/proxy; 1991; NPT–NSG–2008 waiver; unipolar LPG to Trump/BRICS/China new Cold War; Indo-Pacific. FP evolution parked. Cluster IR-03. -->

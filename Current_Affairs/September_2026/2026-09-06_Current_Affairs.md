@@ -141,6 +141,37 @@ flowchart TD
   ALT --> IN["India: faster cheaper settlement ≠ dump the dollar"]
 ```
 
+### Update — 13 September 2026 (*Hindu* — New Delhi Declaration + MSME + 10-proposal roadmap; same summit / same cluster)
+
+**Suhasini Haidar** + **T.C.A. Sharad Raghavan.** **18th** summit, New Delhi. Declaration **adopted Saturday 12 September** (day 1), chair **Narendra Modi**. **No extra Day-1.** India-cost-and-speed lock **stays**.
+
+**Membership / room:** clip calls it an **11-member** grouping. **Eight** members sent **heads of government** (named: **Vladimir Putin**, **Xi Jinping**, Iran’s **Masoud Pezeshkian**, plus **Indonesia, Ethiopia, Egypt, South Africa** — India as chair). **Brazil** and the **United Arab Emirates (UAE)** sent **high-level representatives**, not the principal.
+
+**West Asia compromise (why the text is bland):** **Iran** and the **UAE** dropped last-minute hard language. The declaration **does not name** the **United States–Israel** strikes on **Iran**, nor **Iran’s** follow-on strikes on Persian Gulf neighbours **including the UAE**. It asks for **“maximum restraint.”** **No separate line** on Russia’s war in **Ukraine**. Box: **eight paragraphs** criticise **Israel** over **Gaza** and **Lebanon** and the **displacement of Palestinians**; support a **Palestinian state**; support **South Africa’s** case against Israel in **international courts**; call for **humanitarian aid** in Gaza. (India’s Israel ties / Modi’s **Jerusalem** visit are the paper’s frame for why that criticism still landed.)
+
+**Common-ground box (new facts only):**
+- Reaffirm **mutual respect, sovereign equality, democracy**.
+- Condemn **unilateral coercive measures** such as **tariffs** and **sanctions** (same WTO worry as the **12 Sep** Finance Ministers and Central Bank Governors / FMCBG patch — still **no US name** in the declaration).
+- **Comprehensive reform** of the **United Nations (UN)**; **greater role for Brazil and India** in the **UN Security Council (UNSC)**.
+- **BRICS trade mechanisms**, including **intra-BRICS payments through national currencies** (same rails as Topic 2 above — **not** a common BRICS currency).
+- **Terrorism in all forms**, including the **2025 Pahalgam** attack.
+
+**Economy / Micro, Small and Medium Enterprises (MSMEs)** — India chair **2026**; **China** takes the chair in **2027**. Carries **Rio de Janeiro 2025** economics: unilateral **tariff and non-tariff** measures; **unilateral coercive measures**; **local-currency** trade; **World Trade Organization (WTO) / International Monetary Fund (IMF) / World Bank** reform. **Ethiopia** and **Iran** — support their **WTO accession**.
+
+| MSME lock | Clip |
+|:---|:---|
+| Forum | Inaugural **BRICS SME Forum**, **Agra**, under India’s chair; **SME Working Group** |
+| Report | *Advancing MSME Competitiveness in BRICS: Strengthening Access to Finance & Technology and Sustainable Growth* |
+| Bottleneck | **Affordable finance** — limits **Global Value Chain (GVC)** entry |
+| Finance tools | Digital / platform **multi-stakeholder** trade-finance; **Jaipur Consensus** to **study** an **Invoice Discounting Mechanism** (unlock working capital) — **study**, not a live window |
+| Other cooperation named | Special Economic Zones, manufacturing, value addition, diamonds and precious metals, customs, logistics, railways, aviation, industrial upgrade |
+
+**Unilateral tariffs (declaration text):** distort trade, **inconsistent with WTO rules**; threaten global trade and supply chains; hit **rights to development, health and food security**; hurt the **poor** in targeted states; deepen the **digital divide**; worsen **environmental** stress. **Unwavering support** for **WTO reform** and a **non-discriminatory, open, equitable, transparent, fair, inclusive, predictable, rules-based** multilateral system **with the WTO at its core**. Acknowledge **China’s** **zero-tariff** treatment expanded to **53 African** countries with which it has diplomatic ties.
+
+**Modi’s follow-up pitch (same day, not a second summit):** BRICS should move from **“rule-takers” to “rule-shapers.”** Ask leaders to draw up **10 proposals** for **global governance reform** → a **BRICS Reform Roadmap**. Use the **BRICS Troika** to chase implementation; a **secure digital repository** of decisions, nodal points, deadlines and status. **UNSC reform “can no longer be delayed.”** Named extras: **Seafarers’ Emergency Support Network**; representation in the **UNSC** and **financial institutions**; **Global South** as rule-shapers. Clip: grouping is about **20 years** old; **next 20 years** need a new agenda; the **presidency rotates yearly** but **institutional momentum** should not reset. Rules of the future named: **artificial intelligence (AI), cyberspace, outer space, biotechnology**.
+
+**Prelims traps:** **maximum restraint ≠ naming** US–Israel or Iran’s Gulf strikes. **Invoice Discounting = Jaipur study**, not a working BRICS bank window. **National-currency payments ≠ BRICS currency** (India still opposes the latter). **11-member** (clip) — do not recast as the original five. **Pahalgam 2025** is **named**; this is **not** a new terrorism lecture (`GS_IR_VR_Notes/01_Basics_of_International_Relations.md`).
+
 ---
 
 ## Abbreviations
@@ -164,9 +195,13 @@ flowchart TD
 | **FMCBG** | Finance Ministers and Central Bank Governors (BRICS) |
 | **BPTF** | BRICS Payment Task Force |
 | **EMDEs** | Emerging Markets and Developing Economies |
+| **MSME / SME** | Micro, Small and Medium Enterprises / Small and Medium Enterprises |
+| **GVC** | Global Value Chain |
+| **UNSC** | United Nations Security Council |
 
 ---
 
 <!-- 2026-09-06: The Hindu — (1) China Yarlung Zangbo mega-dam 1.2 tn yuan / 5 stations / 15th FYP / Great Bend; glacial collapse will not halt. (2) BRICS cross-border payments explainer: SWIFT, vehicle USD, UPI-PayNow, Nexus, mBridge, BRICS Clear; India cost/speed not de-dollarisation. Cluster CA-260906. Rasuwa collapse stays on 29 Aug. -->
 <!-- 2026-09-07: Xu Feihong POWER op-ed + 12–13 Sep dates + India–China flights / 6-yr border trade — in-place on Topic 2, same CA-260906-02. -->
 <!-- 2026-09-12: FMCBG Jaipur 12 Aug / Mumbai 9–10 Sep; NDB complementary not rival; CRA never activated; Rio omits de-dollarisation. Same cluster. -->
+<!-- 2026-09-13: New Delhi Declaration adopted 12 Sep — West Asia “maximum restraint”; Pahalgam; MSME Agra / Jaipur invoice-discounting study; 10-proposal roadmap / Troika. Same CA-260906-02. Himalayan pyrite-CO2 is a separate new cluster on 13 Sep. -->
