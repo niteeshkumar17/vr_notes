@@ -485,6 +485,11 @@ Parallels at 1° = **179**. **1° longitude at 60° ≈ 55.5 km** (class ≈ 56)
 *   **Westerlies:** Blow from **Subtropical High Pressure Belts** (30° N/S) towards **Subpolar Low Pressure Belts** (60° N/S).
 *   **Polar Easterlies:** Blow from **Polar High Pressure Belts** towards **Subpolar Low Pressure Belts**.
 
+### Update — 13 September 2026 (Geography VR climatology L10)
+
+Pressure belts as a **latitudinal strip** of uniform low or high worldwide, **seven** belts / **four** types, **positions as averages**, and class **temperate** vs G.C. Leong **subpolar** at ~60° were taught on **climatology Lecture 10** (`03_Climatology_Atmosphere_and_Troposphere.md`, cluster **GEO-13**). Class **best** answer: every belt is **heat + rotation**; **broadly**, equatorial + polar = **thermally** induced, subtropical high + temperate low = **dynamically** induced. **Horse Latitudes / doldrums / ITCZ** were **not** locked in this sitting. Do **not** treat the undated table above as the exam default for Ferrel’s model.
+
+<!-- 2026-09-13: Pointer only — Ferrel TAC / pressure belts taught on climatology L10 (GEO-13). Table above stays undated merged copy. -->
 <!-- 2026-09-09: Test 1 extras — geoid = MSL model not sphere (MST-062); IST 82°30′ E nearest city = Raipur not Delhi (MST-061). No extra Day-1. -->
 <!-- 2026-08-30: L5 30 Jul / notebook 30/7/26 — quotes, IDL, DST, jet lag, Zulu assignment. Tropical DST limit split from benefits. Pressure belts still undated. -->
 

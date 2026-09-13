@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-13
-*   **Active Micro-Topics:** 603
+*   **Active Micro-Topics:** 609
 *   **Overall Database Mastery:** 78.3% 📈
 *   **Today's Recall Completed:** Evening Prelims **12 Sep** logged (**16/20 · 29.36/40**). Flash **15/15**. Ghost Recall **13 Sep** still **Q1 = SOC-03 · Q2 = ST-07**.
 *   **Active Learning Gaps Detected:** `MST-081` Stage III ≠ fast · `MST-082` Montford all three · `MST-083` 2025 Waqf Boards still required · `MST-084` Additional Protocol ≠ NSG uranium. Leftover `MST-076` Sohgaura · `MST-077` reversal+atmosphere · `MST-079` Rigvedic vs IVC 1-only · `MST-080` Mature 2600–1900.
-*   **New Topics Ingested Today:** None new this morning. **SOC-03** + **ST-07** still first-pass **Q1–Q2**. **CA-260912** leftover only — drill `MST-083` if that slot fires. Do **not** steal class Q1–Q2. `MST-069` / `MST-070` / `MST-078` **held** evening → 15-day **27 Sep**.
+*   **New Topics Ingested Today:** **GEO-13** (13 Sep climatology L10 — Ferrel 1856 three-cell / planetary winds). **14 Sep Q1 = GEO-13**. Do **not** steal for leftover MST. If no second 13 Sep class, **Q2 = leftover catch-up**. **SOC-03** + **ST-07** still first-pass for **13 Sep** morning if unlogged. **CA-260912** leftover only — drill `MST-083` if that slot fires. `MST-069` / `MST-070` / `MST-078` **held** evening → 15-day **27 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -259,10 +259,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-10-02 | Cyclone vs Anticyclone: Centre, Weather, 1 Week vs 2-3 Weeks, Freddy 37d | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Intense LP Centre=C Focus` $\leftrightarrow$ `HP Centre=D Source` $\leftrightarrow$ `Bad vs Generally Fair` $\leftrightarrow$ `Freddy 2023 SIO ~37d` $\leftrightarrow$ `Mascarene High Preview` |
 | GEO-10-03 | Persistent LP/HP: Surface C + Upper D; Surface D + Upper C | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 2 | 1 | 2026-09-08 | 2026-09-09 | Fast 🟢 | `Routine Lows Vanish` $\leftrightarrow$ `HP = Surface D + Aloft C` $\leftrightarrow$ `MST-055 Held 9 Sep` |
 | GEO-10-04 | Correlation not Causation: Monsoon/El Nino/Cyclone Origin | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Pearson` $\leftrightarrow$ `Most El Nino=Weak Monsoon` $\leftrightarrow$ `IOD Can Negate` $\leftrightarrow$ `IOD = W vs E Indian Ocean not Pacific` $\leftrightarrow$ `No Cyclone Origin Theory` $\leftrightarrow$ `Surface+Aloft Together` |
-| GEO-10-05 | Cell = 3D Closed Loop in Troposphere | 1 | ★★★★☆ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `HP→LP Surface` $\leftrightarrow$ `Rise at LP` $\leftrightarrow$ `Tropopause Lid` $\leftrightarrow$ `Sink at HP` $\leftrightarrow$ `Next: Hadley-Ferrel-Polar` |
+| GEO-10-05 | Cell = 3D Closed Loop in Troposphere | 1 | ★★★★☆ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `HP→LP Surface` $\leftrightarrow$ `Rise at LP` $\leftrightarrow$ `Tropopause Lid` $\leftrightarrow$ `Sink at HP` $\leftrightarrow$ `Named L10 / Drawn Next Class` |
 | GEO-10-06 | GAPD Combined Effect: Differential Heating + Rotation/Coriolis | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Hot↔LP Cold↔HP` $\leftrightarrow$ `Coriolis Shifts Rise/Sink Path` $\leftrightarrow$ `Cannot Rank Heat vs Rotation` |
 | GEO-10-07 | Hadley 1735 One-Cell: Non-Rotating Earth, Convection, Poleward Heat | 2 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `One Cell/Hemisphere` $\leftrightarrow$ `Eq LP Poles HP` $\leftrightarrow$ `Powered by Lower Latitudes` $\leftrightarrow$ `Surplus Energy Poleward` |
-| GEO-10-08 | Hadley Rejected as Oversimplified; Heat-Pressure-Air Still Valid; Powerhouse | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Parked Rotation=Blunder` $\leftrightarrow$ `20c Lab Non-Rotating OK` $\leftrightarrow$ `Lower Lats=Powerhouse` $\leftrightarrow$ `Teleconnections El Nino` $\leftrightarrow$ `Ferrel 1856 Next` |
+| GEO-10-08 | Hadley Rejected as Oversimplified; Heat-Pressure-Air Still Valid; Powerhouse | 3 | ★★★★★ | Day 3 | 2026-09-11 | 100% | High 🌟 | 92% | 90% | 1 | 0 | - | 2026-09-08 | Fast 🟢 | `Parked Rotation=Blunder` $\leftrightarrow$ `20c Lab Non-Rotating OK` $\leftrightarrow$ `Lower Lats=Powerhouse` $\leftrightarrow$ `Teleconnections El Nino` $\leftrightarrow$ `Ferrel 1856 Started 13 Sep GEO-13` $\leftrightarrow$ `Cells Still Parked` |
 
 ### Geography (Yellow Book Concepts Ch 1 — Earth in the Universe — 8 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -284,6 +284,16 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-12-04 | Aurora: Polar Overlap; O2 Green N2 Blue; Borealis More Common; Winter Visibility | 2 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Atm 97% in 30 km` $\leftrightarrow$ `No Overlap at Equator` $\leftrightarrow$ `Lights = Large-Scale Aurora` $\leftrightarrow$ `Not Seasonal Solar` $\leftrightarrow$ `Norway Winter` |
 | GEO-12-05 | CME Trio Flare/Wind/Plasma; Storm Random Aurora; Insolation Transparent | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Hotspot Heated Patch` $\leftrightarrow$ `Flare→Aurora` $\leftrightarrow$ `Wind→Lights+Storm` $\leftrightarrow$ `Plasma Strongest Storm` $\leftrightarrow$ `Geodynamo Rebuilds Field` $\leftrightarrow$ `CSE-2022-Q40 Held` $\leftrightarrow$ `No Tsunami / Planet Fires` |
 | GEO-12-06 | Four Features: Inconstant; Intensity Declined; Poles Shift; Reversal Cyclic≠Periodic | 3 | ★★★★★ | Day 1 | 2026-09-12 | 0% | New | 50% | 50% | 0 | 1 | 2026-09-11 | - | Pending | `Radioactivity Decay Weakens B` $\leftrightarrow$ `Shift = OC Tilt` $\leftrightarrow$ `Reversal = OC Direction Flip` $\leftrightarrow$ `Last 7–8 Lakh Yr` $\leftrightarrow$ `Unequal Intervals` $\leftrightarrow$ `Not 54% O2 No CO2` $\leftrightarrow$ `Organisms Modified Atmosphere` $\leftrightarrow$ `MST-077` |
+
+### Geography (Climatology L10 — Ferrel 1856 three-cell / planetary winds — 13 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-13-01 | Ferrel 1856 Tricellular; Uniform Surface + Sun at Eq Assumptions; Rotation Fact | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Three Cells/Hemisphere` $\leftrightarrow$ `Hadley Parked Rotation` $\leftrightarrow$ `Part 2 Break Both Assumptions` $\leftrightarrow$ `Accepted Later TAC Sits on It` |
+| GEO-13-02 | Pressure Belt = Lat Strip Worldwide; 7 Belts / 4 Types; Temperate vs Leong Subpolar | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ELPB` $\leftrightarrow$ `STHPB ~30°` $\leftrightarrow$ `TLPB ~60°` $\leftrightarrow$ `PHPB` $\leftrightarrow$ `Averages Because Sun Held` $\leftrightarrow$ `Low/High Today = Relative` |
+| GEO-13-03 | Combined Effect Best; Thermal Eq+Polar vs Dynamic STHP+TLPB; Heat-Only Inverts 30/60 | 3 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Every Belt Heat+Rotation` $\leftrightarrow$ `Thermal Still Has Rotation Colour` $\leftrightarrow$ `MST-002 Subpolar Not Thermal` $\leftrightarrow$ `Horse/Doldrums Not Locked Today` |
+| GEO-13-04 | Trades Most Consistent but Vary; Generally Easterlies; SW Monsoon ≈3/4 India Rain | 3 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `School Always NE/SE Trap` $\leftrightarrow$ `Insolation Ultimate Drive` $\leftrightarrow$ `Variation ↑ with Latitude` $\leftrightarrow$ `Same Air Not Special Monsoon` $\leftrightarrow$ `PGF+Coriolis Global; Friction Local+Minor` |
+| GEO-13-05 | Westerlies Generally West; Polar Easterlies Strongly Easterly / Stronger Coriolis | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Named by Origin` $\leftrightarrow$ `Fronts at TLPB Polar Cold-Dry + Tropical Warm-Moist` $\leftrightarrow$ `WD → HP+J&K Snow / Rabi Rain` $\leftrightarrow$ `Eq Generally No Fronts` |
+| GEO-13-06 | Planetary/Prevailing/Primary; Secondary Disturbances; Tertiary Local; Cells Parked | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Monsoon+Cyclones = Secondary` $\leftrightarrow$ `Loo / Land-Sea Breeze Local` $\leftrightarrow$ `Land-Sea ≠ By-product of Three` $\leftrightarrow$ `Draw Cells Next Class` |
 
 ### Internal Security (Fundamentals L1 — Evolution of Threats — 7 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -848,10 +858,10 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **Today (13 Sep) Q1:** **SOC-03** (12 Sep Dalits / SC identities). **Q2:** **ST-07** (12 Sep moderator / PHWR–FBR / three-stage). Drill `MST-081` Stage III ≠ fast **inside Q2**. Do **not** steal class Q1–Q2
-  2. **Q3–Q6:** CA **1–7 Aug** (catch-up). **CA-260912** (Delhi Waqf Board) only if a leftover slot — drill `MST-083`. **SOC-01** + **IR-03** + **CA-260908** + GEO-11 are **+3** — leftover slots, not Q1. If IR-03 fires, drill `MST-084` Additional Protocol
-  3. **Q7:** GEO-06 **+7**. **Q8:** leftover `MST-082` Montford all three · `MST-084` if IR-03 did not fire · `MST-076`/`077`/`079`/`080` if a slot
-  4. **HIS-IVC** + **GEO-12** first-pass was **12 Sep**. **SOC-02** + **ST-06** → **14 Sep**
+  1. **Tomorrow (14 Sep) Q1:** **GEO-13** (13 Sep Ferrel TAC / planetary winds). **Q2:** leftover catch-up unless a second 13 Sep class arrives. Do **not** steal Q1–Q2 for leftover MST
+  2. **Today (13 Sep) if still unlogged:** Q1 **SOC-03** · Q2 **ST-07**. Drill `MST-081` Stage III ≠ fast **inside Q2**
+  3. **14 Sep Q3–Q6:** leftover **CA-260912** (drill `MST-083`) · CA **1–7 Aug** if still buffer. **SOC-02** + **ST-06** are **+3** — leftover slots, not Q1. If IR leftover fires, drill `MST-084`
+  4. **14 Sep Q7:** GEO-07 **+7**. **Q8:** leftover `MST-082` Montford all three · `MST-084` / `MST-076`/`077`/`079`/`080` if a slot (`MST-069`/`070`/`078` 15-day)
   5. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-029` / `057` / `062` / `065` / `066` / `067` / `068` / `069` / `070` / `071` / `072` / `073` / `074` / `075` / `078` stay resolved (15-day).
 
 

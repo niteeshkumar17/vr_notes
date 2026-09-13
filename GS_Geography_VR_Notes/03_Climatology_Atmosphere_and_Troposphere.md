@@ -1,9 +1,9 @@
 # 03 — Climatology: Atmosphere and Troposphere
 
-> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)**  
-> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**  
-> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**)  
-> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**
+> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)** + **13 September 2026 (Lecture 10)**  
+> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**; Lecture 10 added **2026-09-13**  
+> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**; **4 pages on 13/9**)  
+> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**; **William Ferrel 1856 three-cell model, pressure belts, planetary winds, primary / secondary / tertiary circulation (L10)**
 
 ### Lecture 6 — 25 August 2026
 
@@ -1376,7 +1376,7 @@ Equator **L.P.**, poles **HP**. Surface air **diverges from the poles**, **conve
 
 **Mains hook — teleconnections:** events far apart in space (sometimes months in time) still link. Best illustration: **El Niño** in the **tropical** east/central Pacific (west of South America toward Indonesia / Australia) — monsoon, Indonesian fires, fewer Atlantic cyclones, Australian droughts, parts of the US wet/cold, and so on. Class: you need not know El Niño’s *cause* to see why a shock in the **powerhouse** shakes the whole system. Quote **Hadley** on that powerhouse line.
 
-**Next sitting:** drop the non-rotation assumption → **Ferrel’s model**. Class closed: “we will start with Ferrel’s model next week.”
+**Next sitting:** drop the non-rotation assumption → **Ferrel’s model**. Taught **13 Sep** as Lecture 10 (`GEO-13`). The **three cells** themselves (Hadley / Ferrel / polar loops on the side of the globe) are **parked one more class**.
 
 ---
 
@@ -1391,7 +1391,7 @@ Equator **L.P.**, poles **HP**. Surface air **diverges from the poles**, **conve
 7. **Cell** = 3-D closed loop in the troposphere.
 8. **GAPD** = **combined** effect of **differential heating** and **rotation / Coriolis** — do not rank the two.
 9. **Hadley 1735** = **one cell / hemisphere**, **non-rotating Earth**, convection, poleward heat. **Rejected** as oversimplified; heat–pressure–air still valid; lower latitudes = **powerhouse**.
-10. **Ferrel 1856** three-cell map = **next class**, not this sheet.
+10. **Ferrel 1856** three-cell map = **Lecture 10 (13 Sep)**. Cells on the side of the globe still **next class**.
 
 ---
 
@@ -1410,7 +1410,302 @@ Equator **L.P.**, poles **HP**. Surface air **diverges from the poles**, **conve
 
 ---
 
+### Lecture 10 — 13 September 2026
+
+> Notebook dated **13/9/26**. Tenth climatology class. Continues Lecture 9’s Hadley one-cell. Today is **William Ferrel (1856)** — **three-cell / tricellular model** of **tropospheric air circulation (TAC)**. Sheet spelling **Ferrell**; class audio **Farrell** — same scholar already named in Lecture 8. **Parked (next class, ~45 min):** draw the three cells on the left of the globe; *why* the four distinct belts rise or sink; then **break both assumptions** to get closer to real TAC. Audio runs to class close.
+
+**How to read class shortcuts:** **TAC** = tropospheric air circulation; **ELPB / STHPB / TLPB / PHPB** = equatorial low / subtropical high / temperate low / polar high pressure belts; **PGF** = Pressure Gradient Force. Full forms on first use.
+
+**Already in Lectures 6–9 — do not restudy as a new topic:** GAPD = combined heat + rotation (L9); cell = 3-D closed loop (L9); PGF 90° to isobars, Coriolis right NH / left SH, friction near the surface (L8); Hadley 1735 parked rotation and was rejected (L9); SW monsoon ≈ three-fourths of India’s rain (L8). Cluster for *this* sitting is **GEO-13**.
+
+**Yellow Book** *Atmospheric Circulation* (Ch 13) is **not uploaded**. This class is the exam default. Do not paste a book chapter here.
+
+---
+
+## 38. Quotes from this class
+
+> Essay / Ethics more than Geography facts. Vision / action already sat on Lecture 9.
+
+- "God sleeps in the minerals, awakens in plants, walks in animals and thinks in Man."
+- "Vision without action is a daydream. Action without vision is a nightmare."
+- "The wisdom of the wise is an uncommon degree of common sense."
+- "Forests precede people, deserts succeed them."
+- "Don't let your future be held hostage by the past."
+
+---
+
+## 39. Why Ferrel, and the two-part journey (GEO-13-01)
+
+Hadley **1735** was the first attempt at TAC. He **knew** rotation mattered (later named Coriolis) but **parked** it — heat first. That **oversimplified** the model. Science then waited **more than 100 years**.
+
+**William Ferrel, 1856** — second attempt. **Accepted.** Whatever later books and newspaper circulation items use (El Niño / La Niña, monsoon, cyclones, jets) is built **on Ferrel**, not on Hadley’s whole model. Class: today’s lecture **plus the next** are the foundation for the rest of the atmosphere syllabus.
+
+**Three-cell / tricellular:** **three** cells **in each hemisphere** — lower, middle, and high latitudes — not Hadley’s one cell per hemisphere.
+
+Background is the same as Hadley: TAC correlates with **GAPD**, and GAPD is the **combined effect of the Sun’s heat and Earth’s rotation / Coriolis**.
+
+### 39.1 Three major considerations
+
+| # | Consideration | Kind |
+|:---:|:---|:---|
+| **i** | **Uniform Earth surface** — either **continent or ocean** (class: land or water). Avoids differential heating from specific heat and **albedo**. | **Assumption** |
+| **ii** | **Rotating Earth** — **Coriolis effect is being considered**. Hadley’s blunder is not repeated. | **Fact** |
+| **iii** | **Sun overhead at the equator** all the time = **equinox** position (Lecture 2). Holds the moving “bulb” still so the heating picture can be finished. | **Assumption** |
+
+Two of the three are assumptions → today’s picture is **simplified**.
+
+### 39.2 Two parts of the topic (margin lock)
+
+| | What | When |
+|:---|:---|:---|
+| **Part 1** | Ferrel’s model = a **simplified** picture of TAC based on **uniform surface** + **Sun’s equinox position** | **This class** (winds + belts; cells parked) |
+| **Part 2** | Attempt to reach **as close as possible** the real complexity of TAC by **breaking the two assumptions one by one** (surface is not uniform; Sun moves between the tropics → heat, pressure, winds, weather shift) | **Next class** |
+
+Need the real atmosphere: tropical cyclones, monsoon benefit, aircraft safety.
+
+---
+
+## 40. Pressure belts (GEO-13-02)
+
+Because the surface is taken as **uniform**, the same latitude has the **same** low or high **all around the world**. That latitudinal strip is a **pressure belt**.
+
+> The term **pressure belt** refers to a **latitudinal region** with **uniform** low or high pressure **throughout the world**.
+
+**From Hadley (heat, non-rotating, now made uniform):** equatorial **low** everywhere → **Equatorial Low Pressure Belt (ELPB)**; polar **high** everywhere → **Polar High Pressure Belt (PHPB)** in **each** hemisphere.
+
+**From rotation (observed in nature; Ferrel takes it in):** two **more** belts **in each hemisphere**, on an **average** around **30°** and **60°**. “Average” because the Sun is held at the equator today. Next class the Sun moves → heat shifts → **belts shift** (NH summer / June, Sun near Tropic of Cancer → belts a few degrees **north**; NH winter / Sun near Tropic of Capricorn → **south**).
+
+| Average latitude | Pressure (today = **relative** low vs high — not “how low”) | Class name | Other valid name |
+|:---|:---|:---|:---|
+| Equator | Low | **Equatorial Low Pressure Belt (ELPB)** | — |
+| ~**30°** N/S | High | **Subtropical High Pressure Belt (STHPB)** | — |
+| ~**60°** N/S | Low | **Temperate Low Pressure Belt (TLPB)** | **Subpolar** Low Pressure Belt (**G.C. Leong**) |
+| Poles | High | **Polar High Pressure Belt (PHPB)** | — |
+
+**Why two names at 60°:** when belts shift **north** (NH summer) that belt sits in a **subpolar** latitude; when they shift **south** (NH winter) it sits in a **temperate** latitude. Class uses **temperate** because the reference book uses **subpolar**, so both stay in view. Do **not** treat one as wrong.
+
+**Seven belts on the globe; four distinct types** to explain next class: equatorial low, subtropical high, temperate low, polar high.
+
+**Prelims trap:** do **not** analyse a belt with **heat alone**. Subtropical areas are “hot” → a heat-only student predicts **low** pressure — the belt is **high**. Subpolar / temperate areas are “cold” → heat-only predicts **high** — the belt is **low**. That inversion is the point of taking **rotation** with heat.
+
+---
+
+## 41. Combined effect first; thermally vs dynamically (GEO-13-03)
+
+**Golden statement (best; cannot be improved):** every belt on this diagram is the **combined effect of heat and Earth’s rotation**. Try to explain any belt with **one** factor and the analysis is wrong.
+
+**Broader / school language (allowed, not best):**
+
+| Belts | Broad label | Class reason |
+|:---|:---|:---|
+| Equatorial low + polar high | **Thermally induced** | **More** to do with the Sun’s heat. They were already in Hadley’s **non-rotating** picture. |
+| Subtropical high + temperate / subpolar low | **Dynamically induced** | **More** to do with **Earth’s rotation**. They appear once rotation is taken. |
+
+**Lock:** thermally induced belts still have “colours” of rotation; dynamically induced belts still have “colours” of heat. Combined effect remains the answer if UPSC asks for the **best** statement. Matches `MST-002` (subpolar / temperate low is **not** thermally induced).
+
+---
+
+## 42. Three cells named; three surface winds drawn (GEO-13-04)
+
+**Named today, drawn next class** (left of the globe is reserved):
+
+| Latitudes | Cell (class name) | Why that name |
+|:---|:---|:---|
+| Lower / tropical | **Hadley cell** | Hadley first showed lower latitudes as the **powerhouse** |
+| Middle | **Ferrel cell** | Ferrel’s original work on mid-latitude (North American) circulation |
+| High / polar | **Polar cell** | Location |
+
+A **cell** (Lecture 9): surface HP → LP, rise at LP, tropopause lid, diverge aloft, sink at HP. The **surface** limb of each cell is **wind** = **horizontal** movement of air.
+
+| Cell’s surface wind | Where it lives on the globe |
+|:---|:---|
+| **Trade winds** (or **trades**) | Tropical / lower latitudes |
+| **Westerlies** | Middle latitudes |
+| **Polar easterlies** | Polar / high latitudes |
+
+Together they are the world’s **three wind systems**. Almost every later topic comes back to this diagram.
+
+### 42.1 Global analysis drops friction
+
+Near-surface air is under **three** forces (Lecture 8): **PGF, Coriolis, friction**. Today’s picture is **global**. **Friction is a local force** (each tree / building / vehicle on Pusa Road has its own) **and a minor force**. Books also draw planetary winds with **PGF + Coriolis only**.
+
+> In our **global** analysis of winds, we do **not** consider **frictional force**, as it is a **local** force (it is a **minor** force too).
+
+**Margin:** wind is the **horizontal** movement of air, **but shown on the vertical frame** of the board / notebook. Same trap later for **ocean currents**. Do not “dance with the page” after two months and say air only moves up the sheet.
+
+### 42.2 How the arrows are drawn
+
+**PGF** tries to take air **high → low** across the isobars at **90°** (broken arrow). **Coriolis** then deflects it — **right of the wind** in the **Northern Hemisphere**, **left of the wind** in the **Southern Hemisphere** (thick arrow = both forces). Right/left = of the **wind**, not of the student.
+
+**Do not** draw *more* deflection in higher latitudes on this **static** diagram. Coriolis also depends on **speed**. A fast tropical parcel can out-deflect a slow mid-latitude parcel. Static diagram = **nature** of deflection only (right / left). Amount = later, separately.
+
+**What the arrows already show (Lecture 9 language):** equatorial low = zone of **convergence**; subtropical high = zone of **divergence**; temperate low = another **convergence**.
+
+### 42.3 Fronts at the temperate low (preview, not today’s cyclone chapter)
+
+Air from the **polar** side is **cold and dry**. Air from the **subtropics** is **warm and moist**. At ~**60°** they **meet and do not mix** (“like dissolves like”). Norwegian scientists around the **First World War** called that transition a **front**. Some fronts later become **temperate cyclones** — frequent, **not** the destructive tropical type; they are why **middle latitudes have the highest weather variability**.
+
+**India lock (coming classes):** temperate cyclones travel from Europe / Atlantic / Mediterranean / West Asia toward the India–Afghanistan–Pakistan meeting zone. We call them **Western Disturbances** (west + disturbance = monsoon / cyclone-type change). They come **more in winter**. Compensation for the **Western Himalaya** — **Himachal Pradesh** and **Jammu and Kashmir (J&K)** — which the summer monsoon does not reach well (higher latitude **and** altitude vs the eastern Himalaya): **snowfall**. Also some rain on **Punjab, Haryana, Delhi** (good for **rabi** / wheat); polar air → **cold wave**; sometimes **hail**.
+
+Equatorial convergence is **similar** (warm, moist) air — fronts are **generally not** an equatorial feature.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-label="Ferrel three-cell globe: seven pressure belts and three planetary wind systems; cells on the left parked" style="display:block;margin:0 auto;width:100%;min-width:300px;max-width:520px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<defs>
+<marker id="fw" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e3a8a"/></marker>
+</defs>
+<rect x="1" y="1" width="518" height="618" fill="#fff" stroke="#cbd5e1"/>
+<text x="260" y="24" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">William Ferrel (1856) — three-cell TAC</text>
+<text x="260" y="44" text-anchor="middle" font-size="11" fill="#64748b">surface winds today · cells on the left next class</text>
+<ellipse cx="200" cy="330" rx="118" ry="230" fill="#f8fafc" stroke="#0f172a" stroke-width="1.6"/>
+<ellipse cx="200" cy="330" rx="118" ry="28" fill="none" stroke="#94a3b8" stroke-dasharray="4 3"/>
+<text x="200" y="88" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">PHPB</text>
+<text x="200" y="104" text-anchor="middle" font-size="10" fill="#334155">polar HP</text>
+<text x="200" y="148" text-anchor="middle" font-size="11" fill="#1e3a8a">Polar easterlies</text>
+<text x="338" y="178" font-size="11" font-weight="700" fill="#0f172a">60°N TLPB</text>
+<text x="200" y="210" text-anchor="middle" font-size="11" fill="#1e3a8a">Westerlies</text>
+<text x="338" y="248" font-size="11" font-weight="700" fill="#0f172a">30°N STHPB</text>
+<text x="200" y="282" text-anchor="middle" font-size="11" fill="#1e3a8a">NE trades</text>
+<text x="200" y="334" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">ELPB</text>
+<text x="338" y="338" font-size="11" fill="#334155">0°</text>
+<text x="200" y="386" text-anchor="middle" font-size="11" fill="#1e3a8a">SE trades</text>
+<text x="338" y="418" font-size="11" font-weight="700" fill="#0f172a">30°S STHPB</text>
+<text x="200" y="452" text-anchor="middle" font-size="11" fill="#1e3a8a">Westerlies</text>
+<text x="338" y="488" font-size="11" font-weight="700" fill="#0f172a">60°S TLPB</text>
+<text x="200" y="522" text-anchor="middle" font-size="11" fill="#1e3a8a">Polar easterlies</text>
+<text x="200" y="556" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">PHPB</text>
+<line x1="82" y1="160" x2="200" y2="175" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
+<line x1="82" y1="230" x2="200" y2="215" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
+<line x1="82" y1="270" x2="200" y2="290" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
+<line x1="82" y1="390" x2="200" y2="375" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
+<line x1="82" y1="430" x2="200" y2="448" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
+<line x1="82" y1="500" x2="200" y2="515" stroke="#1e3a8a" stroke-width="1.6" marker-end="url(#fw)"/>
+<text x="260" y="592" text-anchor="middle" font-size="11" fill="#334155">equinox Sun · uniform surface · PGF + Coriolis only</text>
+<text x="260" y="608" text-anchor="middle" font-size="10" fill="#64748b">TLPB = temperate / subpolar (Leong) · belts are average positions</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Names and surface arrows on the <strong>right</strong> of the Earth. Left side reserved for the three cells next class. Broken PGF vs thick final arrow is how the sheet was built; the print here keeps the final winds.</em></p>
+
+---
+
+## 43. Naming winds; insolation; trades vs school books (GEO-13-04 continued)
+
+> As per convention, **wind is always named in terms of its direction of origin**.
+
+On today’s static globe: tropical NH arrows look **north-east**; tropical SH **south-east**.
+
+**Insolation** is the **ultimate driving force** for wind (Sun’s energy first creates pressure differences; rotation complicates the path). Wind is a **by-product of insolation**.
+
+**Seasonal variation of insolation increases as we go higher in latitude** → **winds become more and more variable** as we go higher. Lower latitudes: **relative** constancy (not absolute — India is still hot in both solstices; Europe / North America winters are dark).
+
+**Result in the lower latitudes:**
+
+- Winds in the lower latitudes are the **most consistent of all planetary winds**.
+- They **generally** blow with **good speeds** and in **relatively constant** directions.
+- Because of that consistency they became the **winds of world commerce** in the ancient past (sailors = traders; no engine) → **trade winds**, or simply **trades**.
+- **North-east trades** and **south-east trades** on the diagram.
+
+**School trap:** school books write **same speed and constant direction throughout the year** so a child sees *why* the name “trade.” Class language is **relative**: **most consistent, but they do vary.** They do **not** always come from the north-east / south-east. Scientists still find they **generally appear to come from the east** → at this level, **trades = easterlies**. A school child will ask “which hemisphere?” and answer NE or SE. Do not.
+
+**Good speed** (class, to a question): more Sun + non-uniform real surface → stronger differential heating → stronger **PGF**. (Today’s *model* surface is uniform; the speed remark is about the real tropics.)
+
+### 43.1 South Asian summer — monsoon is a transformation of the trades
+
+If the school picture were a law, tropical–subtropical **India** would have **north-east trades all twelve months**. Class analysis: India should have **easterlies** in general. What India actually gets for about **four months** is a massive **south-west** system — the **south-west monsoon** — about **three-fourths** of annual rainfall.
+
+> During summer in **South Asia**, the trade winds change **drastically** and result in the **south-west monsoon**, which brings India about **three-fourths** of its annual rainfall.
+
+Not special air sent for India. Same air that was making the trades. **How** that drastic change happens = many later classes (jets, El Niño, IOD, Madden–Julian Oscillation, Himalaya, Indian Ocean). Do not invent a monsoon theory today. First monsoon explanation class cited: **1690s**; still not “finished” in the 21st century. **120+ years** of South Asian monsoon data: **no two monsoons exactly the same**.
+
+---
+
+## 44. Westerlies and polar easterlies (GEO-13-05)
+
+**Middle latitudes:** more seasonal variation of insolation → winds **more variable**. On the static diagram: **south-westerlies** (NH) / **north-westerlies** (SH). In nature they do **not** always come from those quarters. They **generally appear to come from the west** (the north/south component is weaker) → **westerlies**.
+
+**Polar region:** still more seasonal variation → winds **highly variable**. On the diagram they look north-east / south-east, but in nature they are **strongly easterly** (not NE/SE). Trades are already easterlies, so the polar set always takes the prefix **polar easterlies**.
+
+**Why any belt’s wind is what it is:** **dynamics / interaction of PGF and Coriolis** (both change with the situation; the diagram is not nature frozen).
+
+**Polar extra (Prelims-flagged):** polar winds become **strongly easterlies** because of the **stronger Coriolis effect of higher latitudes**. Coriolis **dominates** there (progressive increase with latitude — Lecture 8). Demo: PGF still 90° pole → temperate low; a strong right-turn (NH) pulls the origin more and more **east**.
+
+General question “what decides wind behaviour in all three belts?” → **PGF and Coriolis**. Polar-only “why strongly easterly?” → **stronger Coriolis**.
+
+---
+
+## 45. Planetary, prevailing, primary — then secondary and local (GEO-13-06)
+
+| School name | Why |
+|:---|:---|
+| **Planetary winds** | The three systems are almost **global in extent** |
+| **Prevailing winds** | They blow almost **throughout the year** |
+
+**Beyond school:** the three constitute the **primary circulation** of the atmosphere. **Most** of the rest of TAC diversity is a **by-product** of those three.
+
+**Secondary circulations** (also **atmospheric disturbances**): **spatial** (place to place) and **temporal** (at a place, time to time) variations **over** the primary winds. Examples: **cyclones, monsoons**. India’s monsoon = spatial **South Asia** + temporal **June–September** — a change **over the trades**. A Bay of Bengal cyclone = trades changed so far they take a cyclone’s shape — not special destructive air. Temperate cyclones = **Western Disturbances** because they come from the west **and** they are disturbances.
+
+**Besides** primary and secondary: **hundreds of local winds** in different parts of the world at different times of the year — **sometimes** called **tertiary circulation**; school and later classes more often say **local winds**. Class examples: **land and sea breeze**, mountain breeze, **loo** (hot wind of the north Indian plains). Land/sea breeze is **not** a by-product of the three planetary winds in this telling — third category. Class: a **Mains** question this year on local winds; more often a Prelims topic.
+
+```mermaid
+flowchart TD
+  P["Primary = trades + westerlies + polar easterlies"] --> S["Secondary / disturbances: monsoon, cyclones, …"]
+  P --> L["Local / tertiary: loo, land–sea breeze, …"]
+  T["Trades"] -->|"S Asia summer drastic change"| M["SW monsoon ~3/4 of India’s rain"]
+```
+
+Mother-nature analogy (class): three **ingredients** (the planetary winds) → almost the whole **menu** of atmospheric dishes.
+
+**Tropical vs temperate cyclone timing (one line, later classes):** temperate cyclones stronger / more frequent in **winter**; India’s tropical cyclones more often **before or after** the monsoon.
+
+---
+
+## 46. Parked for next class
+
+1. Draw **Hadley / Ferrel / polar cells** on the left of today’s globe (~45 min).
+2. Re-explain **why** the **four distinct** belts are low or high (rise → LP; sink → HP) — combined effect already stated; next is the practical circulation reason.
+3. **Break both assumptions** (surface not uniform; Sun not always at the equator) so the picture moves from **average / simplified** toward real TAC.
+
+Come with this diagram revised. Do not start monsoon mechanics from this sheet.
+
+---
+
+## 47. Lecture 10 — UPSC Quick Recall
+
+1. **Ferrel 1856** = **three cells / hemisphere** (tricellular). Accepted; later TAC sits on it. Hadley parked rotation.
+2. Three considerations: **uniform surface** (assumption); **rotating Earth / Coriolis** (fact); **Sun at equator / equinox** (assumption).
+3. **Pressure belt** = latitudinal strip of **uniform** LP or HP **worldwide** (uniform-surface model).
+4. **Seven** belts, **four** types: ELPB, STHPB ~**30°**, TLPB ~**60°** (temperate **or** subpolar / Leong), PHPB. Positions are **averages**.
+5. **Best:** every belt = **heat + rotation**. Broadly: eq + polar = **thermally** induced; STHP + temperate low = **dynamically** induced.
+6. Global winds: **PGF + Coriolis only**. Friction = local **and** minor. Wind = **horizontal**, drawn on a **vertical** page.
+7. **Trades** = most consistent planetary winds **but they vary**; **generally easterlies**. School “always NE/SE, constant all year” is the trap.
+8. **South Asian summer:** trades change **drastically** → **SW monsoon** ≈ **3/4** of India’s rain. Same air, not special monsoon air.
+9. **Westerlies** generally from the **west**. **Polar easterlies** = prefix **polar**; **strongly** easterly because **Coriolis is stronger** at high latitude.
+10. Three winds = **planetary / prevailing / primary**. Most other TAC = **secondary / disturbances** (monsoon, cyclone). **Local winds** ≈ tertiary (**loo**, land–sea breeze). **Cells themselves = next class.**
+
+---
+
+## Abbreviations used in Lecture 10
+
+| Shortcut | Full form |
+|:---|:---|
+| **TAC** | Tropospheric Air Circulation |
+| **ELPB** | Equatorial Low Pressure Belt |
+| **STHPB** | Subtropical High Pressure Belt |
+| **TLPB** | Temperate Low Pressure Belt (class); Subpolar Low in G.C. Leong |
+| **PHPB** | Polar High Pressure Belt |
+| **PGF** | Pressure Gradient Force |
+| **GAPD** | Global Atmospheric Pressure Distribution |
+| **NH / SH** | Northern Hemisphere / Southern Hemisphere |
+| **SW** | South-west (monsoon) |
+| **J&K** | Jammu and Kashmir |
+| **IOD** | Indian Ocean Dipole |
+| **HP** | Himachal Pradesh *(here; High Pressure is PHPB / STHPB)* |
+
+---
+
 <!-- 2026-08-25: Created from Geography Lecture 6 transcript and five handwritten notebook pages. -->
 <!-- 2026-08-29: Appended Lecture 7 (29/8) from transcript + 6 notebook pages — ELR/NLR, inversion vs strat/thermo, tropopause height and apparent paradox, weather-sphere lid, tropos=turn, isothermal zone and aviation, Earth rotation perspectives and linear speed. -->
 <!-- 2026-08-31: Appended Lecture 8 (31/8) from transcript + 3 notebook pages — T.A.C. three forces on near-surface air: PGF (steep/gentle, isobars), Coriolis (apparent deflection, Ferrel's law, latitude, object speed, aeroplane illustration), friction (speed + direction). -->
 <!-- 2026-09-07: Appended Lecture 9 (7/9) from transcript to 8772s + 4 notebook pages — C/D zones, cyclone vs anticyclone, persistent cells, correlation framework, GAPD heat+rotation, Hadley 1735 one-cell. Cluster GEO-10. Recording after 8772s discarded. -->
+<!-- 2026-09-13: Appended Lecture 10 (13/9) from transcript + 4 notebook pages — Ferrel 1856 three-cell, pressure belts, planetary winds, primary/secondary/tertiary. Cells + breaking assumptions parked. Cluster GEO-13. -->
