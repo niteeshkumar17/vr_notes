@@ -68,6 +68,8 @@ After the **1971** war (**Bangladesh Liberation**; class: third war with Pakista
 
 *The Hindu* (Kallol Bhattacherjee). A **UN Geospatial** world map (**July 2026**) draws **Arunachal Pradesh** and **Aksai Chin** as strips **between Indian and Chinese claim lines**. India voted for UNGA **“Correct the Map”** (**4 September 2026**) as an **equal-area** principle (**Togo / African Union**). **MEA (Randhir Jaiswal):** that vote is **not** an endorsement of those lines; J&K, Ladakh, Arunachal follow **India’s official map**. Full UNGA / LoC-note write-up: `Current_Affairs/September_2026/2026-09-08_Current_Affairs.md` (**CA-260908-02**). Same **IS-01** cluster — no extra Day-1 row.
 
+**14 Sep follow-up (same cluster):** **António Guterres** — **no such thing as a UN map with borders**; website sheet = **NGO / indicative**, not official. **MEA** is **taking the anomaly up with the UN**. No extra Day-1.
+
 ---
 
 ## 5. Insurgency; Naga (1952) (IS-01-05)

@@ -47,6 +47,12 @@ flowchart LR
 
 <span style="color: #e53e3e;">**Prelims trap:** SCO is **not** a military alliance like NATO. It is a **regional grouping** with a security *agenda*. India joined in **2017**, not at founding in 2001. Host this time is **Bishkek**, not Tashkent — Tashkent is the *Uzbekistan bilateral*.</span>
 
+### Update — 14 September 2026 (*Hindu* counter-terror op-ed — no extra Day-1)
+
+Same **Bishkek** summit. Clip: on **1 September**, at the **Shanghai Cooperation Organisation (SCO)** summit in **Bishkek**, the PM called out **double standards** on terrorism: countries that **use terrorism as an instrument of policy** and **provide safe haven and support** to terrorists — terrorism can **never be a strategic asset**. Not a second SCO lecture.
+
+---
+
 ### 4. Prelims / Mains cues
 * Pair **Viksit Bharat** with **Yangi Uzbekistan** if they ask “shared development slogans.”
 * Name **Sadyr Zhaparov** (Kyrgyz) and **Shavkat Mirziyoyev** (Uzbek).

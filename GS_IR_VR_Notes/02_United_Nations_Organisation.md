@@ -119,6 +119,7 @@ UN **bureaucracy** — services the principal organs. Headed by the **Secretary-
 - Appointed by the **General Assembly** on the **recommendation of the Security Council**.
 - Term: **5 years**; can serve **more than one** 5-year term.
 - Current: **António Guterres** (Portugal). **January 2027** — a new SG; class: most probably from **Latin America**.
+- **14 Sep *Hindu* extra (maps, not a new UN lecture):** Guterres — **“There is no such thing as a ‘UN map with borders’.”** Website sheet = **NGO / indicative**. Full lock: `Current_Affairs/September_2026/2026-09-08_Current_Affairs.md` (**CA-260908-02**). No extra Day-1.
 - **Shashi Tharoor** contested; candidature **not supported by the United States**.
 
 ### 2.5 Trusteeship Council
@@ -459,6 +460,7 @@ Declaration **adopted 12 Sep**. Clip: **comprehensive UN reform**; **greater rol
 | **IMF / WB** | International Monetary Fund / World Bank |
 | **PYQ** | Previous Year Question |
 
+<!-- 2026-09-14: Guterres extra — no UN map with borders; pointer CA-260908-02. No extra Day-1. -->
 <!-- 2026-09-13: Hindu New Delhi Declaration — greater role Brazil and India in UNSC; pointer CA-260906-02. No extra Day-1. -->
 <!-- 2026-09-09: Pointer — full MAD/NPT/world-order chain is Sandhu IR-03, not a second UN lecture. -->
 <!-- 2026-09-04: IR Lecture 2, Dr Sushant Varma — UN origin, six organs, UNSC voting/actions, ICJ-PCA-ICC, assessment, Charter amendment, G4 vs Coffee Club, India’s permanent-seat claim, from transcript + 6 sheets. -->

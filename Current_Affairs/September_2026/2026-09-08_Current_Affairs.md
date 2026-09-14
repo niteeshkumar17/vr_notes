@@ -87,6 +87,18 @@ flowchart TD
 
 <span style="color: #e53e3e;">**Prelims trap:** Supporting **Correct the Map** is **not** accepting UN **claim lines** over Arunachal / Aksai Chin. **LoC note** on that sheet ≠ India treating J&K’s **final status** as open in **Indian law** — class: Accession + SC 2024 integral. **Shimla** renamed CFL → LoC; it did **not** freeze a UN “agreed final status.”</span>
 
+### Update — 14 September 2026 (Guterres: no “UN map with borders”)
+
+**Suhasini Haidar** + **Kallol Bhattacherjee.** **Secretary-General António Guterres:** the **UN has not published any map with borders**; **“There is no such thing as a ‘UN map with borders’.”** The **Correct the Map** text is a **resolution**, **not a map** — it says landmasses on older (Mercator-type) maps are **distorted** relative to **real sizes**, from **past power relations**, and those distortions **should be corrected**. **Equal-area** maps are what the resolution seeks.
+
+The **website** sheet is **not an official UN map** — **contribution of a Non-Governmental Organisation (NGO)**; **indicative**; the UN has **no definition of what borders should be**. Title in this clip: **“Map of the World”**, published **1 July**, later taken up at the UNGA. This follow-up dates India’s yes-vote **3 September** (the 8 Sep note had **4 September** — do not silently overwrite; both are clip dates).
+
+**Line of Control (LoC)** still has the dotted-line note (agreed by India and Pakistan; **final status** of Jammu and Kashmir **not** agreed). **No similar note** explaining why **Indian and Chinese claim lines** in **Arunachal Pradesh** and **Aksai Chin** were omitted. **MEA (Randhir Jaiswal, 8 September):** India voted for the **equal-area** principle; **“We have taken note of the anomaly and we are taking it up with the United Nations.”**
+
+**Prelims trap:** Guterres denying an official **UN border map** ≠ India accepting the **claim-line** drawing. **NGO / indicative** ≠ **MEA official map**.
+
+---
+
 ---
 
 ## Topic 3: Kashmir’s first international film festival
@@ -125,3 +137,4 @@ First **international** film festival in **J&K**; cinemas had been dark ~**30 ye
 ---
 
 <!-- 2026-09-08: The Hindu — (1) Google Vizag 1-GW air-cooling vs TCS HyperVault liquid/DTC; 40 kW vs 120-150 kW; (2) UN Geospatial claim lines / Correct the Map 4 Sep / Togo-AU / Randhir Jaiswal; (3) J&K first IFF. Hawala FATF patched on IS-01. Cluster CA-260908. -->
+<!-- 2026-09-14: Guterres — no UN map with borders; website sheet = NGO / indicative; MEA taking anomaly to UN; no note for omitted India–China claim lines. Same CA-260908-02. No extra Day-1. -->

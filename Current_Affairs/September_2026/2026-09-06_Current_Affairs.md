@@ -156,6 +156,8 @@ flowchart TD
 - **BRICS trade mechanisms**, including **intra-BRICS payments through national currencies** (same rails as Topic 2 above — **not** a common BRICS currency).
 - **Terrorism in all forms**, including the **2025 Pahalgam** attack.
 
+**14 Sep *Hindu* extra:** an **exclusive paragraph** on Pahalgam sat in the **New Delhi Declaration** (still the same naming, not a new terror lecture).
+
 **Economy / Micro, Small and Medium Enterprises (MSMEs)** — India chair **2026**; **China** takes the chair in **2027**. Carries **Rio de Janeiro 2025** economics: unilateral **tariff and non-tariff** measures; **unilateral coercive measures**; **local-currency** trade; **World Trade Organization (WTO) / International Monetary Fund (IMF) / World Bank** reform. **Ethiopia** and **Iran** — support their **WTO accession**.
 
 | MSME lock | Clip |

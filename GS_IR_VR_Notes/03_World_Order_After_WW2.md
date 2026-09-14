@@ -74,6 +74,12 @@ Not **tripolar**: the third “pole” was **powerless**.
 
 **Today:** Pakistan’s proxies against India = **Lashkar-e-Taiba (LeT)** and **Jaish-e-Mohammed (JeM)**. **Operation Sindoor** = destroy **proxy infrastructure** (terrorist camps), **not** a full-scale war (MAD). Class: camps at **nine** locations; operation in **28–29 minutes**.
 
+### Update — 14 September 2026 (*Hindu* counter-terror op-ed — no extra Day-1)
+
+Class lock **stays** (nine camps / 28–29 minutes / proxy ≠ MAD war). **Newspaper extra (Rajeev Agarwal):** Sindoor **6–7 May**, about **96 hours**; **LeT** and **JeM headquarters** destroyed; Pakistani military assets hit. After Sindoor, three stated intentions: (1) era of **restraint and patience** is over — Pakistan pays a **direct, heavy price**; (2) future **cross-border terrorism from Pakistan** = **“act of war”**; (3) **Pakistani nuclear blackmail** will **no longer** be a restraining factor. **Do not** rewrite the class **MAD** sentence — intention (3) is **policy**, not a claim that nuclear war is now thinkable.
+
+**Uri (18 September 2016, JeM)** → first **cross-border surgical strikes (28–29 September)**. **Pulwama (14 February 2019, Central Reserve Police Force convoy)** → **Balakot (26 February 2019)** — first time the **Indian Air Force (IAF)** struck a **JeM** camp **inside Pakistani airspace**. **Pahalgam 22 April 2025** while the PM was in **Saudi Arabia**. Full **PRAHAAR** policy note: `Current_Affairs/September_2026/2026-09-14_Current_Affairs.md` (**CA-260914**).
+
 **Answer drop:** *Cold War stayed cold because of MAD, not because the UN “kept peace.” Superpowers fought through proxies. NAM was the powerless third world opting out.*
 
 ---
@@ -209,4 +215,5 @@ Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/W
 | WTO | World Trade Organization |
 
 <!-- 2026-09-13: Hindu New Delhi Declaration extras — maximum restraint / national-currency payments / Pahalgam named; pointer CA-260906-02. Class NDB lock stays. No extra Day-1. -->
+<!-- 2026-09-14: Hindu Sindoor extras — 6–7 May / 96 hours / three intentions / Uri–Balakot firsts; PRAHAAR is CA-260914. Class nine camps / 28–29 min / MAD stay. No extra Day-1. -->
 <!-- 2026-09-09: Sandhu world-order after WW2 — bipolar/NAM/MAD/proxy; 1991; NPT–NSG–2008 waiver; unipolar LPG to Trump/BRICS/China new Cold War; Indo-Pacific. FP evolution parked. Cluster IR-03. -->
