@@ -1,4 +1,4 @@
-# Ancient India — Chalcolithic Age and Indus Valley Civilization (start)
+# Ancient India — Chalcolithic Age and Indus Valley Civilization
 
 ### Lecture — 11 September 2026
 
@@ -7,7 +7,7 @@
 > **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 6 handwritten sheets (dated **11/9/26**) + class extent map  
 > **Paper:** **GS-I** (Ancient India). Town-planning Mains line was flagged in class (CSE 2025 Q1).  
 > **Continues:** `Ancient_India_Stone_Age.md` (Neolithic Revolution).  
-> **Parked:** **town planning** (next class); decline theories / Aryan origin (do not fill the **1900–1500 BC** gap); iron-age features (Later Vedic); Saraswati debate (Vedic chapter); trade-map intermediates (Dilmun etc. when the trade map comes).  
+> **Parked:** **religion** (next class); decline theories / Aryan origin (do not fill the **1900–1500 BC** gap); iron-age features (Later Vedic); Saraswati debate (Vedic chapter); Dilmun / other Gulf names not dictated today.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 ---
@@ -99,7 +99,7 @@ Class asked for a **topic list** before the chapter. Taught today = naming, geog
 4. Timeline  
 5. Early Harappan / Regional cultures (**3300–2600 BC**)  
 6. Mature Harappan / Integration / Urban phase = **IVC (2600–1900 BC)**  
-7. Town planning · pottery · technology · script · agriculture · water management · trade · religion *(next classes)*  
+7. Town planning · pottery · technology · script · agriculture · water management · trade *(14 Sep)* · religion *(next class)*  
 8. Theories of decline · Late Harappan / disintegration (**1900–1300 BC**) · artifacts · legacies · other Chalcolithic cultures *(later)*
 
 ---
@@ -289,7 +289,7 @@ By the **mid-4th millennium BC** these villages used **substantial copper** → 
 
 By **2600 BC** the regional cultures produced enough surplus for **high-volume long-distance trade**, exchanged **best features**, and **merged** into one **large, integrated, uniform, urban** civilization — **IVC**. Class analogy: metro / more communication → Delhi–Gurugram–Noida feel like one culture.
 
-**Next class:** town planning (class: ~one hour, wants a classroom diagram — not started today).
+**Next sitting (14 Sep):** town planning through trade — Lecture 2 below. Religion still parked.
 
 ---
 
@@ -303,13 +303,318 @@ Flash F9 **missed** (`MST-080`). Mature / urban IVC = **2600–1900 BC**. **1900
 
 ---
 
+### Lecture 2 — 14 September 2026
+
+> **Date of Lecture:** 14 September 2026  
+> **Date Added:** 2026-09-14  
+> **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 8 handwritten sheets (dated **14/9/26**)  
+> **Paper:** **GS-I**. Class flagged **CSE 2025** Mains (town planning / architecture) — reproduce these keywords, not a pretty sentence.  
+> **Continues:** Lecture 11 Sep (names, map, origin, phases). Cluster **HIS-IVC2**.  
+> **Parked:** **religion**; decline / Late Harappan; artifacts as a separate art-forms sitting (beads sketched only as industry).
+
+**How to read class shortcuts:** full form on first use. **GJ** = Gujarat; **HR** = Haryana; **RJ** = Rajasthan; **OCP** = Ochre Coloured Pottery. Glossary at the end.
+
+Cities of the **Indus Valley Civilization (IVC)** had **some basic similar features**. They were **not exactly the same**. Class: “similar” ≠ replica (Indian films generally end happy — *Tere Naam* is the exception).
+
+**Exceptions named today**
+
+| Site | Where (class) | What is different |
+|:---|:---|:---|
+| **Dholavira** | **Kachchh, Gujarat (GJ)** | City in **three** parts: **citadel, middle town, lower town** (usual picture is citadel + lower town). Height difference = **flood management**, not hierarchy. Main building material here = **stone**. |
+| **Banawali** | **Fatehabad, Haryana (HR)** | **Radial** town planning (streets radiate from the citadel), not the usual grid. |
+
+---
+
+## 8. Town planning (HIS-IVC2-01)
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 430" role="img" aria-label="Class town-planning plan: fortification wall, citadel at top, main road down the middle, subsidiary streets, manholes, sewage along the bottom, house with central courtyard kitchen bathroom toilet" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="518" height="428" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="20" y="22" font-size="13" font-weight="700" fill="#0f172a">Town planning (class board)</text>
+  <text x="20" y="38" font-size="11" fill="#64748b">Grid · citadel + lower town · sewage under the streets</text>
+  <rect x="20" y="50" width="300" height="300" fill="#fff" stroke="#334155" stroke-width="2.4"/>
+  <text x="8" y="210" font-size="10" fill="#334155" transform="rotate(-90 8 210)">Fortification wall</text>
+  <rect x="110" y="58" width="110" height="36" rx="3" fill="#e2e8f0" stroke="#0f172a"/>
+  <text x="165" y="80" text-anchor="middle" font-size="12" font-weight="700" fill="#0f172a">Citadel</text>
+  <rect x="156" y="94" width="18" height="196" fill="#cbd5e1" stroke="#475569"/>
+  <text x="198" y="168" font-size="10" fill="#334155">Main road</text>
+  <line x1="28" y1="150" x2="156" y2="150" stroke="#94a3b8" stroke-width="6"/>
+  <line x1="174" y1="150" x2="312" y2="150" stroke="#94a3b8" stroke-width="6"/>
+  <line x1="28" y1="210" x2="156" y2="210" stroke="#94a3b8" stroke-width="6"/>
+  <line x1="174" y1="210" x2="312" y2="210" stroke="#94a3b8" stroke-width="6"/>
+  <line x1="28" y1="270" x2="156" y2="270" stroke="#94a3b8" stroke-width="6"/>
+  <text x="88" y="138" text-anchor="middle" font-size="10" fill="#475569">Subsidiary streets</text>
+  <circle cx="165" cy="150" r="5" fill="#0f172a"/>
+  <circle cx="165" cy="210" r="5" fill="#0f172a"/>
+  <circle cx="165" cy="270" r="5" fill="#0f172a"/>
+  <text x="178" y="256" font-size="10" fill="#0f172a">Manholes</text>
+  <rect x="28" y="318" width="284" height="22" fill="#bae6fd" stroke="#0369a1"/>
+  <text x="170" y="333" text-anchor="middle" font-size="11" font-weight="700" fill="#0c4a6e">Sewage system</text>
+  <rect x="340" y="58" width="164" height="200" rx="6" fill="#fff" stroke="#334155"/>
+  <text x="422" y="76" text-anchor="middle" font-size="11" font-weight="700" fill="#0f172a">House</text>
+  <rect x="372" y="92" width="100" height="72" fill="#ccfbf1" stroke="#0f766e"/>
+  <text x="422" y="124" text-anchor="middle" font-size="11" font-weight="700" fill="#115e59">Central</text>
+  <text x="422" y="140" text-anchor="middle" font-size="11" font-weight="700" fill="#115e59">courtyard</text>
+  <rect x="352" y="92" width="18" height="72" fill="#e2e8f0" stroke="#64748b"/>
+  <rect x="474" y="92" width="18" height="72" fill="#e2e8f0" stroke="#64748b"/>
+  <rect x="372" y="166" width="32" height="28" fill="#fde68a" stroke="#b45309"/>
+  <text x="388" y="184" text-anchor="middle" font-size="8" fill="#92400e">Kitchen</text>
+  <rect x="406" y="166" width="32" height="28" fill="#bfdbfe" stroke="#1d4ed8"/>
+  <text x="422" y="184" text-anchor="middle" font-size="8" fill="#1e3a8a">Bath</text>
+  <rect x="440" y="166" width="32" height="28" fill="#fecaca" stroke="#b91c1c"/>
+  <text x="456" y="184" text-anchor="middle" font-size="8" fill="#991b1b">Toilet</text>
+  <text x="422" y="220" text-anchor="middle" font-size="10" fill="#475569">Rooms open inward</text>
+  <text x="422" y="236" text-anchor="middle" font-size="10" fill="#475569">Rarely a door on the street</text>
+  <text x="20" y="372" font-size="11" fill="#0f172a">Houses open on subsidiary streets. Rarely any house opens on the main road.</text>
+  <text x="20" y="390" font-size="11" fill="#0f172a">Bricks 1 : 2 : 4 (uniform). Gujarat region: stone. Wall = flood + wild animals, not warfare.</text>
+  <text x="20" y="408" font-size="11" fill="#64748b">CSE 2025 Mains asked this diagram in words.</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Class city plan. Citadel is a raised platform of public architecture, not a palace or an army fort.</em></p>
+
+### 8.1 Fortification wall
+
+Cities had a **fortification wall** around them. The wall **lacks defensive features** — no added batter / slope, no warrior’s post, no loopholes. **Not built for warfare.** Built for **protection against flood and wild animals** (also a **demarcation**). Inner and outer walls are about equally thick (**3–4 bricks**). Anyone from the city could stand on it — not an army fort (contrast Jaipur / Mehrangarh: palace-fort **above**, city **below**).
+
+### 8.2 Citadel and lower town
+
+Cities were divided into **two parts** — **citadel** and **lower town**.
+
+**Citadel** = a **raised platform**. It **lacks large rooms and halls** → **not a king’s palace**. It **lacks defensive features** → **not an army fort**. It had **public architecture**: granaries, water tanks, **meeting rooms**, **fire altars** (*havan kund*). Class: perhaps **administrative blocks** or **ceremonial buildings**, or **protection against extreme flood**. Equal seats in the meeting hall → **not** a king’s court.
+
+**Lower town** was divided into **two parts by the main road**. **Subsidiary streets** meet the main road at **90°** → a **grid** that cuts the city into **rectangular blocks**. Houses sit in those blocks and **open on subsidiary streets**. **Rarely** any house opens on the **main road**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 150" role="img" aria-label="Banawali radial plan: citadel in the centre with streets radiating outward" style="display:block;margin:0 auto;width:100%;min-width:240px;max-width:360px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="278" height="148" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="140" y="20" text-anchor="middle" font-size="12" font-weight="700" fill="#0f172a">Banawali · radial (exception)</text>
+  <circle cx="140" cy="88" r="18" fill="#e2e8f0" stroke="#0f172a"/>
+  <text x="140" y="92" text-anchor="middle" font-size="10" font-weight="700" fill="#0f172a">Citadel</text>
+  <line x1="140" y1="70" x2="140" y2="36" stroke="#334155" stroke-width="2"/>
+  <line x1="140" y1="106" x2="140" y2="132" stroke="#334155" stroke-width="2"/>
+  <line x1="122" y1="88" x2="48" y2="88" stroke="#334155" stroke-width="2"/>
+  <line x1="158" y1="88" x2="232" y2="88" stroke="#334155" stroke-width="2"/>
+  <line x1="127" y1="75" x2="72" y2="42" stroke="#334155" stroke-width="2"/>
+  <line x1="153" y1="75" x2="208" y2="42" stroke="#334155" stroke-width="2"/>
+  <line x1="127" y1="101" x2="72" y2="128" stroke="#334155" stroke-width="2"/>
+  <line x1="153" y1="101" x2="208" y2="128" stroke="#334155" stroke-width="2"/>
+</svg>
+</div>
+
+### 8.3 Bricks and houses
+
+**Main building material** of the city = **baked / burnt bricks**. Dimensions in the ratio **1 : 2 : 4**, **uniform in the entire IVC**. Mortar = **mud**. **Gujarat region:** main material = **stones** (Dholavira lock).
+
+Houses were built around a **central courtyard**; **all rooms open into the courtyard**. **Rarely** any room has a door or window opening **outside**. The courtyard is **hidden** (not the European “open the gate into the yard”). Houses had their own **kitchen, bathroom and toilet**. Bathroom and toilet were **separate**.
+
+**Two types of toilet**
+
+1. **Flush toilets** — connected to the **sewage system**.  
+2. **Pit toilets** — connected to **soak pits** (modern name: **septic tank**) via **terracotta ring wells** (*terra* = earth; *cotta* = burnt — a brick is terracotta). Rings stacked vertically so the waste goes **down**. First finders thought they were wells to draw water **up**.
+
+Houses were generally **single storey**. **Double** and **triple** storey houses are also found. In cities on **large rivers** (**Harappa, Mohenjo-daro**) **about half** the houses had their **own wells**.
+
+### 8.4 Sewage
+
+The **sewage system runs along the network of streets**. Drains were **covered** by **bricks or stone slabs**. **Manholes** for regular cleaning. The **main drain** takes waste out into a **river, the sea, or a cesspool**.
+
+**Lothal:** **terracotta cylinders** were buried **horizontally** and joined to form the sewage line.
+
+### 8.5 Character of the city
+
+Town planning was **utilitarian** (for **use**, not decoration), **egalitarian**, and **symmetric** (every part of the city equally developed — not Chanakyapuri vs a slum).
+
+Harappan cities **lack a king / ruling class** — **absence of palaces**, **absence of warfare and armies**, **absence of forts**. Weapons **lack a midrib** (the central thickening that lets a blade survive a twist in bone) → they are **hunting and agricultural tools**, not war weapons. **Copper Hoard** culture weapons **have** a midrib — the contrast is the lock. Class colour: “priest-king” statue at Mohenjo-daro is now a **bearded nobleman**; the **priest-king theory is dead**.
+
+**Even the smallest house** built on the **edge of the city** was connected to the network of **roads and drains**.
+
+---
+
+## 9. Pottery — Harappan ware (HIS-IVC2-02)
+
+Harappan pottery is now identified as **Harappan ware**. **Two main variants:**
+
+1. **Red pottery** with **black paintings** of natural figures (plants, animals) **and geometric patterns**.  
+2. **Grey pottery** with the **same** black paintings (plants, animals, geometric patterns).
+
+**Humped bull** on pots: huge **hump**, huge **horns**, loose skin under the throat = the **desi** bull they wanted (exaggeration in art = a desired feature).
+
+**Varied pottery** indicates a **complex and developed economic system** (different pots for different uses). **Perforated ware** — use still unclear (class guesses: washing vegetables / brewing). John Marshall once said Harappans were not artistic because towns look utilitarian; class: geometric patterns **are** aesthetics. Optional 2026 colour only — not a Prelims lock.
+
+---
+
+## 10. Technology (HIS-IVC2-03)
+
+1. **Developed metallurgy.** Five metals: **copper, tin, lead, gold, silver**, plus one alloy — **bronze**.  
+2. **Uniform weights and measures.** Two variants:  
+   - **Hexadecimal** weight system (**based on 16**). Class audio said *hexahedron*; the lock is **base-16**. Side lock: till **1957** India had this in **currency** (1 rupee = **16 anna** = **64 paise**); **1957** adopted the **decimal** rupee (1 = **100 paise**).  
+   - **Decimal** weight system (**based on 10**).  
+3. **Land transport:** **wheeled carts** pulled by **ox or buffalo** (terracotta cart models). **Water transport:** **boats powered by sail** (wind) — seals show two poles with cloth between.  
+4. **Bead making** was a **prominent industry**; beads at a **majority of sites**. In **Chanhudaro** (**Sindh, Pakistan**) **more than half** the houses were in bead making — class: **city of bead makers**. Beads = a **major export**. (Artifacts sitting later; lipstick evidence at Chanhudaro is colour, not a drill.)  
+5. **Dentistry:** various **teeth** with **uniform holes**, **semi-precious stones**, or **copper wires**. Similar **uniform holes on skulls** → **some efforts of surgery**. Do **not** write “brain surgery.”  
+6. Town planning indicates knowledge of **geometry, trigonometry, arithmetic** (uniform bricks; drain **slopes**).
+
+---
+
+## 11. Script (HIS-IVC2-04)
+
+Class: UPSC is **unlikely** to ask a political “Dravidian vs Sanskrit” current-affairs stem. Cover the topic; do not pick a side.
+
+So far **more than 400 letters** of Harappan script are known, written mainly on **seals**. Sentences are generally **6–10 letters**; the **longest** is **26 letters**. The most famous sentence is the **Dholavira signboard (10 letters)** — about **1-foot** signs fallen near the main gate. A signboard is a **city** feature (strangers need names). Script **could not be deciphered**. Theories (no scholar names except where class locked):
+
+1. Written **right to left** — **crowding of letters on the left**.  
+2. Written **left to right** — **seals are mirror images**.  
+3. **Boustrophedon** (class / R.S. Sharma) — one line L→R, next R→L, like a snake; **based on frequency of letters**.  
+4. Language and script = early **Dravidian**. Side lock: **Brahui** (Dravidian family) is **still spoken in Balochistan**.  
+5. Language and script = early **Sanskrit** and **Brahmi** script.  
+6. These characters are **not letters of any script**; they are **unreadable signs** (emoji-like). Class colour: Michael Witzel — 400 signs + short strings do not behave like a spoken script.
+
+---
+
+## 12. Agriculture (HIS-IVC2-05)
+
+IVC was **self-sufficient**; **majority of production was indigenous**. **Majority of granaries** sit in **inner / central cities**. It is certain that the **majority of the population** lived in **villages surrounding the cities** and farmed — but **archaeological evidence** for those villages is **not found / insufficient**.
+
+**Single crop** a year; the **major season was the winter crop**. They also practised **multi-cropping** (more than one crop in the **same field**).
+
+**Main crops:** wheat, barley, lentil (pulses), millet, peas, chickpea. **Rice was added in the Mature Harappan phase.** **Cotton** was the **main cash crop**.
+
+**Main sowing tool:** **wooden ploughshare**. Models at **Banawali** and **Kalibangan** (**Hanumangarh, north Rajasthan**). At **Kalibangan** a **ploughed field** is discovered (early Harappan). **Main harvest tool:** **copper sickle** (not iron).
+
+### Four methods of irrigation (class map)
+
+| Method | Where (class) | Main crop on that sketch |
+|:---|:---|:---|
+| **Bund irrigation** | **Balochistan** (small bunds on a slope; Sahara colour only) | **Millet** |
+| **Flood irrigation** | **Indus** belt (sow on the bank; wait for the flood) | **Wheat** |
+| **Canals** | **Haryana / Rajasthan** | **Barley** |
+| **Water tanks** | **Gujarat / Maharashtra** | **Rice** |
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" role="img" aria-label="Four irrigation methods: bund and millet in Balochistan, flood and wheat on the Indus, canals and barley in Haryana-Rajasthan, tanks and rice in Gujarat-Maharashtra" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:480px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="418" height="358" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="16" y="22" font-size="13" font-weight="700" fill="#0f172a">Irrigation (class sketch)</text>
+  <path d="M210 40 L232 48 L258 70 L278 98 L296 128 L308 168 L310 214 L298 258 L274 300 L248 328 L228 338 L214 332 L204 300 L196 260 L188 230 L140 222 L108 214 L70 200 L52 168 L48 128 L62 90 L96 60 L148 44 L190 40 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.6"/>
+  <text x="78" y="118" font-size="11" font-weight="700" fill="#0f766e">Bund</text>
+  <text x="78" y="132" font-size="10" fill="#115e59">Millet</text>
+  <text x="128" y="168" font-size="11" font-weight="700" fill="#0369a1">Flood</text>
+  <text x="128" y="182" font-size="10" fill="#0c4a6e">Wheat</text>
+  <text x="198" y="108" font-size="11" font-weight="700" fill="#1d4ed8">Canals</text>
+  <text x="198" y="122" font-size="10" fill="#1e3a8a">Barley</text>
+  <text x="188" y="248" font-size="11" font-weight="700" fill="#b45309">Tanks</text>
+  <text x="188" y="262" font-size="10" fill="#92400e">Rice</text>
+  <text x="16" y="348" font-size="10" fill="#64748b">Balochistan · Indus · HR/RJ · GJ/MH</text>
+</svg>
+</div>
+
+---
+
+## 13. Water management (HIS-IVC2-06)
+
+IVC prospered in a **semi-arid** region with **monsoon dependence**, so they practised **rainwater harvesting**. At the **lowest level in a city**, **wells and tanks** stored **excess** water (class: store surplus, not only draw groundwater).
+
+**Most elaborate** rainwater harvesting = **Dholavira**. A **rampart** keeps river flood out of the city. **Reservoirs** sit inside. **Underground water channels** cut under the rampart to fill those reservoirs. Three-tier city (citadel / middle / lower) = **flood management**. Stone is the Gujarat building material. Small rooms here are read as a **market**, not houses. (G20 photo-op at the tanks is colour, not a fact to drill.)
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img" aria-label="Dholavira: river on the left, rampart, underground channels feeding reservoirs beside the city" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="498" height="198" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="16" y="22" font-size="13" font-weight="700" fill="#0f172a">Dholavira rainwater harvesting</text>
+  <path d="M8 40 C40 70 40 110 8 160 L8 188 L70 188 C90 140 90 80 70 40 Z" fill="#bae6fd" stroke="#0369a1"/>
+  <text x="28" y="112" font-size="11" font-weight="700" fill="#0c4a6e">River</text>
+  <rect x="88" y="48" width="22" height="132" fill="#cbd5e1" stroke="#334155"/>
+  <text x="99" y="40" text-anchor="middle" font-size="10" fill="#334155">Rampart</text>
+  <rect x="130" y="70" width="70" height="44" fill="#7dd3fc" stroke="#0369a1"/>
+  <rect x="130" y="122" width="70" height="44" fill="#7dd3fc" stroke="#0369a1"/>
+  <text x="165" y="96" text-anchor="middle" font-size="10" font-weight="700" fill="#0c4a6e">Reservoirs</text>
+  <rect x="230" y="58" width="250" height="112" rx="4" fill="#fff" stroke="#0f172a"/>
+  <text x="355" y="118" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Dholavira</text>
+  <line x1="110" y1="92" x2="130" y2="92" stroke="#0369a1" stroke-width="3"/>
+  <line x1="110" y1="144" x2="130" y2="144" stroke="#0369a1" stroke-width="3"/>
+  <text x="16" y="188" font-size="11" fill="#0f172a">Underground channels cut the rampart from below.</text>
+</svg>
+</div>
+
+---
+
+## 14. Trade (HIS-IVC2-07)
+
+**Majority of Harappan trade was internal** (among IVC cities). **No coin** of IVC is discovered → trade was **barter**.
+
+### Imports (class map)
+
+| From | What (class) |
+|:---|:---|
+| **Oman** | Copper |
+| **Bahrain** | Pots and utensils |
+| **Mesopotamia / Persian Gulf** | Trade is certain (**Harappan seals**; **Failaka hoard**). What they *bought* there is not locked. |
+| **Iran** | **Turquoise** or **lapis lazuli** (sky blue / dark blue) |
+| **Afghanistan** | **Tin** and **lapis lazuli** |
+| **Central Asia** | **Tin** and semi-precious stones |
+| **Burzahom** (Srinagar) | **Wool** and **wood / timber** |
+| **Ganeshwar** (Sikar, Rajasthan) | **Copper** (UPSC has asked this) |
+| **Ahar** (Udaipur / Rajsamand, **Banas** → Chambal) | **Copper** — class: majority of their copper; **Aravalli** / **Khetri** colour |
+| **Ochre Coloured Pottery (OCP)** culture | **Copper** |
+
+**Lapis lazuli is not found in India** — they **import the stone** and can **export it as beads**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" role="img" aria-label="Trade map: Oman copper, Bahrain pots, Iran turquoise, Afghanistan tin and lapis, Central Asia tin, Burzahom wool timber, Ganeshwar and Ahar copper, Bolan Pass land route, western-flowing rivers as sea highways" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:560px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="518" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="16" y="22" font-size="13" font-weight="700" fill="#0f172a">Imports (class board)</text>
+  <path d="M268 48 L292 56 L318 78 L340 110 L358 148 L366 190 L360 238 L340 286 L312 328 L284 352 L262 356 L248 322 L238 278 L228 248 L180 238 L138 226 L100 206 L78 168 L72 128 L88 90 L128 62 L188 50 L240 48 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.6"/>
+  <text x="40" y="70" font-size="10" font-weight="700" fill="#0f172a">Mesopotamia</text>
+  <text x="40" y="84" font-size="9" fill="#475569">seals / Failaka</text>
+  <text x="16" y="130" font-size="10" font-weight="700" fill="#0f172a">Iran</text>
+  <text x="16" y="144" font-size="9" fill="#475569">turquoise / lapis</text>
+  <text x="200" y="40" font-size="10" font-weight="700" fill="#0f172a">Afghanistan</text>
+  <text x="200" y="54" font-size="9" fill="#475569">tin · lapis</text>
+  <text x="330" y="48" font-size="10" font-weight="700" fill="#0f172a">Central Asia</text>
+  <text x="330" y="62" font-size="9" fill="#475569">tin · stones</text>
+  <text x="300" y="100" font-size="10" font-weight="700" fill="#0f172a">Burzahom</text>
+  <text x="300" y="114" font-size="9" fill="#475569">wool · timber</text>
+  <text x="300" y="168" font-size="10" font-weight="700" fill="#0f172a">Ganeshwar</text>
+  <text x="300" y="182" font-size="9" fill="#475569">copper · Sikar</text>
+  <text x="300" y="220" font-size="10" font-weight="700" fill="#0f172a">Ahar / OCP</text>
+  <text x="300" y="234" font-size="9" fill="#475569">copper · Aravalli</text>
+  <text x="48" y="250" font-size="10" font-weight="700" fill="#0f172a">Oman</text>
+  <text x="48" y="264" font-size="9" fill="#475569">copper</text>
+  <text x="48" y="292" font-size="10" font-weight="700" fill="#0f172a">Bahrain</text>
+  <text x="48" y="306" font-size="9" fill="#475569">pots</text>
+  <text x="148" y="88" font-size="9" font-weight="700" fill="#b45309">Bolan Pass</text>
+  <text x="16" y="348" font-size="11" fill="#0f172a">Land trade via the Bolan Pass. Western-flowing rivers = natural highways of the Gulf network.</text>
+  <text x="16" y="366" font-size="11" fill="#0f172a">Cities sit on those banks. First urbanisation: less-dense NW forest first; trade second.</text>
+  <text x="16" y="384" font-size="10" fill="#64748b">Harappans (internal) · no coins · barter</text>
+</svg>
+</div>
+
+**Western-flowing rivers of India** served as **natural highways** of this (Persian Gulf) trade network. **Therefore a majority of cities appeared on the banks of those rivers.** **Less-dense forest** in the north-west played the **most important** role in **first urbanisation**; the trade network is the **secondary** reason (Ganga–Yamuna is richer land, but it opens **east**).
+
+### Exports
+
+**Two major:** (1) **cotton textile** (2) **beads**. Also: copper tools and implements; pots and utensils; **faience** (glazed ware); jewellery (gold, silver, ivory, pearls, shells, stones); perfume and cosmetics (some perfume-making pots). **Semi-precious stones in the form of beads** (carnelian, chert, agate, jasper, lapis lazuli, turquoise).
+
+---
+
+## 15. Religion — parked
+
+Heading only. Next class. Class: BRICS week slowed the sitting; do **not** compare batch class-counts — compare **syllabus**.
+
+---
+
 ## Abbreviations
 
 | Short | Full |
 |:---|:---|
 | BMAC | Class name for a **different** culture around Shortughai (full form not dictated) |
 | CPEC | China–Pakistan Economic Corridor (Gwadar place-name only) |
+| GJ | Gujarat |
+| HR | Haryana |
 | IVC | Indus Valley Civilization |
+| OCP | Ochre Coloured Pottery |
+| RJ | Rajasthan |
 | UP | Uttar Pradesh |
 
 <!-- 2026-09-11: Vijender Singh — Chalcolithic Age (substantial copper; Bronze Age worldwide ≠ India tin-scarce); IVC start: four names, cardinal geography + Lothal dockyard + Shortughai, indigenous origin, four phases + four regional cultures. Town planning parked. One cluster HIS-IVC. -->
+<!-- 2026-09-14: Vijender Singh L2 — town planning (grid, 1:2:4 bricks, toilets, sewage, utilitarian/egalitarian), Harappan ware, metallurgy + hexadecimal/decimal weights, Chanhudaro beads, script theories, agri + four irrigations, Dholavira rainwater, trade map. Religion parked. Cluster HIS-IVC2 due 15 Sep. -->
+

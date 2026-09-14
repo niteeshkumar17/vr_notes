@@ -90,6 +90,7 @@
 | Current_Affairs | 12 September 2026 (Delhi Waqf Board constitution) | 2026-09-13 | 2 | 80.0% | 2026-09-28 | Confident | - | `MST-083` **held** evening (I+III). 15-day **28 Sep**. |
 | Current_Affairs | 11 September 2026 (SC–FSSAI FoPL warning labels) | 2026-09-12 | 2 | 90.0% | 2026-09-27 | Confident | 2018 | FoPL held again. `MST-078` **held** (FSSAI ≠ DGHS). 15-day **27 Sep**. |
 | GS_History_VR_Notes | Ancient India — Chalcolithic & IVC start (11 Sep) | 2026-09-11 | 1 | 70.0% | 2026-09-12 | Somewhat | 2017, 2019 | Evening class items held (Chalcolithic lock / four names / map). PYQ miss: Sohgaura (`MST-076`); Rigvedic vs IVC **1 only** (`MST-079`). Flash miss: Mature **2600–1900** (`MST-080`). Cluster first-pass **12 Sep Q1**. |
+| GS_History_VR_Notes | Ancient India — IVC L2 town planning to trade (14 Sep) | 2026-09-14 | 0 | 0% | 2026-09-15 | New | 2025 Mains | Town planning (grid / 1:2:4 / toilets / sewage); Harappan ware; metals + hex/decimal weights; Chanhudaro beads; script theories; four irrigations; Dholavira rainwater; trade map. Religion parked. Cluster **HIS-IVC2** first-pass **15 Sep Q1**. |
 | GS_Geography_VR_Notes | 07 — Geomagnetism (Lec A4, 11 Sep) | 2026-09-11 | 1 | 80.0% | 2026-09-12 | Somewhat | 2018, 2022 | Evening class items held (density / T / dynamo / declination). Solar-storm PYQ **held** (`CSE-2022-Q40`). Miss: reversal + organisms, not 54% O₂ (`MST-077`, `CSE-2018-Q57`). Cluster first-pass **12 Sep Q2**. |
 
 
