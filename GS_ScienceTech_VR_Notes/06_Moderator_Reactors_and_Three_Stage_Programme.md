@@ -1,6 +1,6 @@
 # 06 — Moderator, Reactor Types, and India’s Three-Stage Nuclear Programme
 
-### Lecture — 12 September 2026
+### Lecture 1 — 12 September 2026
 
 > **Date of Lecture:** 12 September 2026 (second class of the day; Social Issues L3 was the first)  
 > **Date Added:** 2026-09-12  
@@ -8,7 +8,7 @@
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **12/9/26**, circled **1–6**; starts at **(4) Moderator**)  
 > **Paper:** Prelims S&T; GS-III energy / nuclear.  
 > **Already in notes (not restated as a new lecture):** fissile vs fertile; U-235 **0.7%** / U-238 **99.3%**; Pu-239 artificial; peaceful enrichment **3–5%** vs weapons **>90%**; core / coolant / control rods **boron + cadmium** (`ST-06`). **New facts only** sit here.  
-> **Parked:** **disadvantages / concerns / challenges** of nuclear power (next class); **Prototype Fast Breeder Reactor (PFBR)** at **Kalpakkam** in detail (class: commissioned **April this year** — mention only). **ITER** still parked from ST-06.  
+> **Parked (cleared 14 Sep):** disadvantages / PFBR detail / ITER — Lecture 2 below. **Still parked:** nanotechnology (class: last); Shobhit Sir next sitting = **economy / foreign exchange**, not nano.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 Today finishes the reactor: **moderator**, **containment**, the types **India uses or intends to use**, **Homi J. Bhabha’s three-stage programme**, and **advantages** of nuclear power.
@@ -134,7 +134,7 @@ Two blankets around the core:
 1. **Full potential of uranium** — Stage I used only **0.7%** (India does **not** enrich); **99.3%** U-238 is converted here to Pu and then fissioned.  
 2. **Paves the way for self-sufficiency** — Th-232 → U-233 for Stage III.
 
-**Status (this class, detail next sitting):** India has **recently entered Stage II** — **Prototype Fast Breeder Reactor** at **Kalpakkam**, class: **commissioned April this year**. **Stage I and Stage II now run in parallel.** PFBR internals **parked**.
+**Status (detail 14 Sep):** India has **recently entered Stage II** — **Prototype Fast Breeder Reactor** at **Kalpakkam**, class: **commissioned April this year**. **Stage I and Stage II now run in parallel.** PFBR internals → Lecture 2.
 
 ### Stage III — Advanced nuclear power systems for utilisation of thorium
 
@@ -166,7 +166,7 @@ flowchart TD
 
 ## 6. Advantages of nuclear power (ST-07-06)
 
-**Disadvantages / concerns / challenges — next class** (heading only today).
+**Disadvantages / concerns / challenges — 14 Sep (Lecture 2).** Heading only on 12 Sep.
 
 1. **Environment-friendly.** Considered a **very clean** source: the reactor **emits no pollutants** (no particulate matter, greenhouse gases, acid-rain gases, toxic gases, smoke). Nuclear waste is **radioactive**, but **if handled properly** (class: **concretised, buried deep**) it **does not come in direct contact** with the environment.
 
@@ -200,21 +200,198 @@ flowchart TD
 
 ---
 
+---
+
+### Lecture 2 — 14 September 2026
+
+> **Date of Lecture:** 14 September 2026 (second class of the day; History IVC L2 was the first)  
+> **Date Added:** 2026-09-14  
+> **Faculty:** **Shobhit Sir** (continues 12 September — same file, cluster **ST-07**). Cluster for this sitting: **ST-08**.  
+> **Source:** Vajiram & Ravi class + audio transcript + 5 handwritten sheets (dated **14/9/26**, circled **1–5**)  
+> **Paper:** Prelims S&T; GS-III energy / nuclear. Class flagged **CSE 2026 Mains** on **PFBR**.  
+> **Already in notes (do not restudy as a new lecture):** fission vs fusion; efficiency **< 1** vs ITER goal **10** (**50 MW → 500 MW**); EAST / K-STAR; **33 nations / France** (`ST-06`). Moderator / PHWR–BWR–PWR / three-stage / advantages (`ST-07`). **New facts only** sit here.  
+> **Parked:** **nanotechnology** (class: last chapter). Next Shobhit sitting = **economy — foreign exchange**, not nano.  
+> **How to read class shortcuts:** full form on first use. Glossary at the end.
+
+**Precision lock (Mains):** **challenge** ≠ **concern**. Same facts dumped into both answers is not rewarded. **Challenge** = barrier to *adopting* nuclear (why India / Sudan still small). **Concern / risk** = why **Japan** and **Germany** *shut* programmes they already ran. Swap the two and the answer is not *wrong*, but it is **not appropriate**.
+
+Nuclear is **< 3%** of India’s power. Globally it is **not** dominant except in a handful of countries; most states have **no** reactor.
+
+---
+
+## 7. Challenges in adoption (ST-08-01)
+
+1. **Huge initial setup cost** compared with other sources. One reactor costs **billions of dollars**; class: in that money you can open **tens of thermal plants**. Kept many countries on coal / gas when climate was not yet the constraint.
+
+2. **Technology is dual-use** (electricity **or** weapons). If you have **not** developed it yourself, others are **reluctant** to share. **Iran** = class example (Western / US–Israel pressure). Solar / wind tech **is** shared; nuclear usually is not.
+
+3. **Fuel / uranium assurance.** Uranium trade is geopolitical. India started **early** — first reactor **operational 1969** (**Tarapur**, Maharashtra) — but stayed **< 3%** because of **no assurance of imported uranium** (domestic uranium is **not** enough). After the **1970s** and **1998** tests, **sanctions** cut regular uranium; some reactors ran **sub-optimally**. **Civil nuclear deal with the United States, 2008** + **Nuclear Suppliers Group (NSG) waiver** (exception though India is **not** an NSG member and has **not** signed the **Non-Proliferation Treaty (NPT)**) → later civil (non-military) deals with **Russia, France, Kazakhstan, Australia, Canada, Japan**. **Today India has fuel assurance** and is expanding **aggressively**. Other countries may still not.
+
+4. **Trained manpower must be your own** — scientists, engineers, operators, supervisors. You **cannot hire foreigners** to run reactors (spies / sabotage / secrets). Sensitive + high-tech → many states simply do not have the people.
+
+Sheet also: plants may generate **external dependence** if you must **buy both uranium and technology**.
+
+---
+
+## 8. Concerns / risks (ST-08-02)
+
+**Why Japan and Germany moved away** — they had **already** overcome the challenges. Trigger: **2011 tsunami → Fukushima**. Seawater entered; generators submerged; water **contaminated**; contained **more than a decade**. **Not** Chernobyl-scale: **no** radiation deaths outside; **two** deaths = **drowning**, not radiation. **Perception** of a possible Chernobyl still forced the shut-down. **Germany** followed similar pressure groups.
+
+1. **Accident / threat perception.** Even with safety systems, **nothing is 100% foolproof**. A large accident can be **catastrophic** — class: **Chernobyl nuclear disaster, 1986, Union of Soviet Socialist Republics (USSR)**. City evacuated.
+
+2. **Radioactive waste** if **not** disposed of properly → operators and nearby population.
+
+**Threat perception is very high; actual data speaks otherwise.** Since the **1950s**, class names **three** major accidents: **Three Mile Island (USA)**; **Chernobyl 1986** (official **~4,000** dead — class: may be conservative **5–7 thousand**; deaths = **radiation**, not the blast; **no containment** then); **Fukushima**. Nuclear is among the **safest** sources by lives lost. **Thermal** plants + **coal mines** + pollution kill far more **every year**. Large **hydro**: worst case = dam burst (**lakhs**; class colour: a **1970s China** dam, **1.5 lakh**). Keep **safety as top priority** → large accidents **can** be avoided.
+
+**Reactor ≠ bomb** (same lock as Lecture 1): fuel is **low-enriched (~3–5%)**, not **>90%**. Quantity in a reactor is larger than a bomb, but it **cannot** behave like Hiroshima. Worst case = radioactive spread if the building is damaged.
+
+Air-travel analogy: perception high, roads kill more daily.
+
+---
+
+## 9. Way forward (ST-08-03)
+
+Need a **replacement for fossil fuels** (exhausting + polluting). Options class listed: **solar, wind, hydro, nuclear**.
+
+**Solar and wind:** many limitations — **land-intensive**, **non-reliable / weather-dependent**. **Not suitable as the primary source.** They can be **supplementary**.
+
+**Nuclear** is **not weather-dependent** and is **very reliable** (continuous power, day/night, any season). Class: it **stands out as the most suitable replacement for fossil fuels**. Perception is high, but **choices are limited** once fossils go.
+
+---
+
+## 10. Nuclear power in India — operator, count, target (ST-08-04)
+
+All reactors **today** are operated by **Nuclear Power Corporation of India Limited (NPCIL)**, a Public Sector Undertaking (**PSU**). **Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, 2025** may later bring other operators — **not** the case yet. Full SHANTI liability fight stays on **18 August CA**. NPCIL and other atomic-energy bodies sit under the **Department of Atomic Energy (DAE)**, which **reports to the Prime Minister’s Office (PMO)** — **not** a line ministry.
+
+**Count (class upgrade of the handout’s 22):** **22 + 3 new Pressurised Heavy Water Reactors (PHWRs) + 1 Prototype Fast Breeder Reactor (PFBR) = 26 operational.** **21 PHWR + 2 Boiling Water Reactor (BWR) + 2 Pressurised Water Reactor (PWR) + 1 PFBR.** Installed capacity class: was **~6,000 MW (~6.7 GW)**; now **8,000-something MW ≈ 9 GW**.
+
+**Viksit Bharat / Nuclear Energy Mission:** **100 GW by 2047** (more than **10×** today’s **~9 GW**). Nearer hop: **> 22 GW by 2031** (more than double). Present share still **< 3%**.
+
+Remember **city + type**, not every MW figure.
+
+| Site | State | Type (class) |
+|:---|:---|:---|
+| **Tarapur** | Maharashtra (MH) | **1–2 BWR** (India’s **first**, **1969**) then switch to PHWR; **3–4 PHWR** |
+| **Rawatbhata** | Rajasthan (RJ) | **7 PHWR** (was 6; one new **700 MW**; **one more under construction**) |
+| **Madras / Kalpakkam** | Tamil Nadu (TN) | **PHWR 1–2** + **PFBR** |
+| **Kudankulam** | Tamil Nadu (TN) | **PWR 1–2**, **1000 MW** each, **Russian** collaboration — **largest** in India (PHWR max **700 MW**). **Four more PWR under construction** |
+| **Narora** (Bulandshahr, near Delhi NCR) | Uttar Pradesh (UP) | **PHWR 1–2** |
+| **Kaiga** | Karnataka (KA) | **PHWR 1–4**; **two more approved** |
+| **Kakrapar** | Gujarat (GJ) | old 1–2 + **3 and 4 PHWR, 700 MW each** (last ~**1½ years**) |
+
+**Upcoming (class):** **Gorakhpur city, Haryana (HR)** — **not** Gorakhpur district, UP — **2 under construction + 2 more approved** (new state on the nuclear map). **Chutka, Madhya Pradesh (MP)** — **2 approved**. **Mahi Banswara, Rajasthan** — **4** approved / construction starting.
+
+### Where to put a reactor (class answer order)
+
+Fission is **weather- and geography-independent**; fuel quantity is **small** → **freedom of location**. Then: (1) **near the consumption centre** (industry / town) — long **transmission and distribution (T&D)** can lose **25–30%**; (2) **avoid disaster-prone / seismic** belts (Himalaya, regular floods); (3) **avoid strategically vulnerable / border** sites (critical infrastructure; class: missiles after **Operation Sindoor**; Russia–Ukraine hits on Ukrainian plants; **Arunachal** would be a poor choice); (4) **water body nearby** for cooling; (5) **less dense** population if you still have a choice — **not** the top priority.
+
+---
+
+## 11. PFBR, Kalpakkam (ST-08-05)
+
+**Prototype Fast Breeder Reactor**, **Kalpakkam, Tamil Nadu** (near Chennai). **Operational April this year (2026).** **500 MW.** **Fully indigenous.** Took **more than 20 years**. India is the **second country** in the world to have developed a fast breeder — after **Russia**. **Prototype** = **first of its kind / technology demonstrator / model** for the series that follows. Marks **entry into Stage II** of Bhabha’s programme (Stage I PHWR still runs **in parallel**).
+
+| | Class lock |
+|:---|:---|
+| **Constructed by** | **Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)** (PSU) |
+| **Designed by** | **Indira Gandhi Centre for Atomic Research (IGCAR)** (class audio said *Indra*; the centre is **IGCAR**) |
+| **Fuel** | **Plutonium-239** (blankets of **U-238** and **thorium** are **fertile**, **not** the fuel) |
+| **Coolant** | **Liquid sodium** |
+| **Moderator** | **None** (fast) |
+
+**CSE 2026 Mains** asked around this reactor — reproduce **what Stage II is**, then these specs.
+
+---
+
+## 12. ITER and tokamak (ST-08-06)
+
+**International Thermonuclear Experimental Reactor (ITER)**, **France**. Large-scale experiment to **demonstrate the technological and scientific feasibility of fusion energy**. **33 nations including India**, but **seven members** with roles: **European Union (EU), India, China, Japan, South Korea, Russia, United States of America (USA)**. Those seven **share cost, experimental results, and intellectual property**. **EU 45.6%** of construction cost; the other **six share equally = 9.1% each** (India **~10%**). **World’s largest tokamak** fusion reactor; among the **most expensive science experiments of all time**.
+
+**Already locked (ST-06, `MST-072`):** today’s fusion **efficiency < 1** (not commercial); ITER **goal = 10** from **50 MW in → 500 MW** fusion power. EAST (China, “artificial sun”) and K-STAR (Korea) are also **tokamaks**.
+
+**Tokamak** — originally a **Russian** abbreviation; now the **standard word** for a fusion reactor. **Doughnut-shaped** vacuum vessel. **Magnetic confinement:** superconducting **coils** around the vessel carry current → magnetic field holds **plasma** (fuel as **ionised gas**) **off the walls** (nothing solid survives **millions of °C**). Fuel = **deuterium (²H) + tritium (³H)**, **not** protium.
+
+**Fusion (class equation; spellings are enough in GS):**
+
+**Deuterium + tritium** (extremely high T) → **helium + one neutron + energy**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" role="img" aria-label="Tokamak: doughnut vacuum vessel, plasma ring inside, superconducting coils, magnetic confinement keeps plasma off the wall" style="display:block;margin:0 auto;width:100%;min-width:300px;max-width:480px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="418" height="218" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="16" y="22" font-size="13" font-weight="700" fill="#0f172a">Tokamak (class board)</text>
+  <ellipse cx="160" cy="120" rx="108" ry="68" fill="none" stroke="#334155" stroke-width="10"/>
+  <ellipse cx="160" cy="120" rx="52" ry="28" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+  <ellipse cx="160" cy="120" rx="78" ry="44" fill="none" stroke="#7c3aed" stroke-width="6" stroke-dasharray="8 6"/>
+  <text x="160" y="124" text-anchor="middle" font-size="11" font-weight="700" fill="#5b21b6">Plasma</text>
+  <text x="160" y="72" text-anchor="middle" font-size="10" fill="#334155">Vacuum vessel</text>
+  <line x1="268" y1="88" x2="300" y2="70" stroke="#7c3aed" stroke-width="1.5"/>
+  <text x="304" y="68" font-size="11" fill="#5b21b6">D + T ionised gas</text>
+  <line x1="250" y1="150" x2="300" y2="168" stroke="#334155" stroke-width="1.5"/>
+  <text x="304" y="172" font-size="11" fill="#0f172a">Coils → B field</text>
+  <text x="16" y="204" font-size="11" fill="#0f172a">Magnetic confinement: plasma must not touch the wall.</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Doughnut tokamak. Strong B-field from superconducting coils keeps million-degree plasma off the wall.</em></p>
+
+---
+
+## 13. Advantages of nuclear fusion (ST-08-07)
+
+1. **Environment-friendly — even cleaner than fission.** Major by-product **helium** = **non-toxic inert** (non-reactive) gas. **No radioactive by-products** (unlike fission).
+
+2. **Abundant / energy-rich.** Fusion releases nearly **4 million times** more energy than a **chemical** reaction (burning coal) and **4 times** more than **fission**, **for the same mass**.
+
+3. **Sustainable.** Fuel is **not** ordinary hydrogen. **Deuterium** can be extracted from **all forms of water**. **Tritium is scarce** — **bred** inside the reactor: fusion **neutron + lithium → tritium + helium**. **Terrestrial lithium** → fusion plants for **more than 1,000 years**; **sea-based lithium** → **millions of years**. Prelims hook: lithium is not only **batteries**.
+
+**Tritium breeding (spellings OK):** lithium-6 + fusion neutron → tritium + helium.
+
+4. **No risk of meltdown.** A **fission-type large-scale accident is not possible** in a tokamak. Fusion is **not** a self-sustaining chain. Precise conditions are **hard** to reach and keep; **any disturbance** → **plasma cools in seconds** → reaction **stops**.
+
+5. **No risk of proliferation.** Fusion does **not** employ **fissile** **uranium / plutonium**. Nothing in the reactor can be **exploited for weapons**. That is why **rivals** (US–Russia, India–China) still fund **ITER** together.
+
+**Why so many countries fund ITER:** if it works, it **solves energy for everyone, forever**.
+
+---
+
 ## Abbreviations
 
 | Short | Full |
 |:---|:---|
 | AHWR | Advanced Heavy Water Reactor |
 | BARC | Bhabha Atomic Research Centre |
+| BHAVINI | Bharatiya Nabhikiya Vidyut Nigam Limited |
 | BWR | Boiling Water Reactor |
+| DAE | Department of Atomic Energy |
 | D₂O | Heavy water (deuterium oxide) |
+| EU | European Union |
 | FBR | Fast Breeder Reactor |
+| GJ | Gujarat |
+| GW | Gigawatt |
+| HR | Haryana |
+| IGCAR | Indira Gandhi Centre for Atomic Research |
+| ITER | International Thermonuclear Experimental Reactor |
+| KA | Karnataka |
 | LWR | Light Water Reactor |
 | MH | Maharashtra |
+| MP | Madhya Pradesh |
 | MW | Megawatt |
-| PFBR | Prototype Fast Breeder Reactor (Kalpakkam — detail next class) |
+| NPCIL | Nuclear Power Corporation of India Limited |
+| NPT | Non-Proliferation Treaty |
+| NSG | Nuclear Suppliers Group |
+| PFBR | Prototype Fast Breeder Reactor (Kalpakkam) |
 | PHWR | Pressurised Heavy Water Reactor |
+| PMO | Prime Minister’s Office |
+| PSU | Public Sector Undertaking |
 | PWR | Pressurised Water Reactor |
+| RJ | Rajasthan |
+| SHANTI | Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (Act, 2025) |
+| T&D | Transmission and distribution |
 | TN | Tamil Nadu |
+| UP | Uttar Pradesh |
+| USA | United States of America |
+| USSR | Union of Soviet Socialist Republics |
 
 <!-- 2026-09-12: Shobhit Sir nuclear L after 10 Sep fission — moderator / containment / PHWR-LWR-FBR / Bhabha three-stage closed cycle / advantages. Disadvantages + PFBR detail parked. One cluster ST-07. -->
+<!-- 2026-09-14: Shobhit Sir L2 — challenge≠concern; NPCIL/DAE/PMO; 26 reactors / 9 GW / 100 GW by 2047; PFBR BHAVINI+IGCAR 500 MW; ITER tokamak 7 members 45.6/9.1; tritium breeding Li; no melt/proliferation. Cluster ST-08 due 15 Sep Q2. -->
+

@@ -7,7 +7,7 @@
 > **Faculty:** **Shobhit Sir** (continues Lecture 09, 3 September — `03_Atoms_Radioactivity_and_Elementary_Particles.md`; nuclear map from Lecture 08, 26 August — `02_Nuclear_Technology_Civilian_Military_Triad.md`)  
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **10/9/26**, circled **1**)  
 > **Paper:** Prelims S&T; GS-III energy / nuclear.  
-> **Parked:** **International Thermonuclear Experimental Reactor (ITER)** and fusion in greater detail. **Moderator / containment / reactor types / three-stage programme** taught 12 Sep → `06_Moderator_Reactors_and_Three_Stage_Programme.md` (**ST-07**).  
+> **Parked (cleared 14 Sep):** ITER / tokamak / tritium-breeding detail → `06_Moderator_Reactors_and_Three_Stage_Programme.md` Lecture 2 (**ST-08**). **Moderator / containment / reactor types / three-stage** → same file Lecture 1 (**ST-07**).  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 Nuclear technology still sits on **three** processes: **radioactivity** (last class), **nuclear fission**, **nuclear fusion**. Today finishes **particle / anti-particle**, then fission–fusion, fuels, enrichment, and the reactor (minus moderator).
@@ -79,7 +79,7 @@ Last class named the bosons. Today: **what each force does**, **range**, **relat
 
 **Status on Earth:** fusion **can** be conducted in experimental reactors (must **supply electricity** from outside to make the conditions). **Not commercial** because **efficiency = output power / input power is less than 1** — the machine **eats more power than it gives**. Viable only when efficiency **> 1**. Class: reactors have reached temperatures **5–7×** the Sun’s core (**~75 million °C** and more).
 
-**Named experiments (class):** China’s **EAST** reactor, nicknamed **artificial sun**; South Korea **K-STAR**. **ITER** = **International Thermonuclear Experimental Reactor** — **33 nations including India**, experimental fusion reactor being built in **France**. Class: among the most expensive science experiments; **technological goal = efficiency 10** (**50 MW** in → **500 MW** out). Greater detail **parked**.
+**Named experiments (class):** China’s **EAST** reactor, nicknamed **artificial sun**; South Korea **K-STAR**. **ITER** = **International Thermonuclear Experimental Reactor** — **33 nations including India**, experimental fusion reactor being built in **France**. Class: among the most expensive science experiments; **technological goal = efficiency 10** (**50 MW** in → **500 MW** out). Tokamak / 7 members / tritium-breeding **detail 14 Sep** → `06_Moderator_Reactors_and_Three_Stage_Programme.md` (**ST-08**).
 
 ### Update — 10 September 2026 (UPSC CSE Prelims 2016 / 2022 + flash)
 
@@ -202,4 +202,5 @@ Rate of fission **depends on neutron population**. Rods **absorb neutrons** to c
 | Th | Thorium |
 | U | Uranium |
 
+<!-- 2026-09-14: ITER tokamak / 7 members / tritium breeding is ST-08 on the 06 file. 33 nations / France / 50→500 stay here. No extra Day-1 on ST-06. -->
 <!-- 2026-09-10: Shobhit Sir nuclear L after 3 Sep atoms — antiparticle close, four-force range/strength, fission vs fusion, E=mc², fuels/fertile, enrichment/downblend, reactor core/coolant/control rods. Moderator taught 12 Sep → ST-07. One cluster ST-06. -->
