@@ -428,6 +428,10 @@ Three key dimensions:
 
 CO₂, N₂O, Hydrogen, Helium, SO₂ — same gases that emerge from volcanic eruptions exist in Earth's interior.
 
+### Update — 13 September 2026 (UPSC CSE Prelims 2024)
+
+`CSE-2024-Q03` **held**. **All four** are products of volcanic eruptions: pyroclastic debris, ash and dust, nitrogen compounds, sulphur compounds. Class already names **N₂O** and **SO₂** among interior / eruption gases.
+
 ---
 
 ## 11. Geological Time Scale (GTS)

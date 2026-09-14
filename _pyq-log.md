@@ -38,3 +38,8 @@ Evening paper uses **5 real PYQs** a night. This file only records **what was al
 | CSE-2023-Q34 | 1st Amendment enacted to overcome FR judicial interpretations (Champakam / 15(4)) | SOC-02-06 | 2026-09-12 | ✅ | `02_Caste_Power_and_Reservation` · Update 12 Sep 2026 (held) |
 | CSE-2026-Q18 | Montford 1919 community alliances = all three (SE retained + counter nationalism + deprived classes) | MOD-B5-01 | 2026-09-12 | ❌ | `Modern_India` · Update 12 Sep 2026 |
 | CSE-2018-Q33 | Additional Protocol → civilian reactors under IAEA safeguards; not NSG uranium / auto-NSG | IR-03-04 | 2026-09-12 | ❌ | `03_World_Order_After_WW2` · Update 12 Sep 2026 |
+| CSE-2016-Q60 | BEPS = curbing tax evasion by MNCs (not mining / biopiracy / EIA) | ECO-07-05 | 2026-09-13 | ✅ | `03_Taxation` · Update 13 Sep 2026 (held) |
+| CSE-2018-Q08 | EL 6% is not part of ITA; no DTAA credit — neither | ECO-07-03 | 2026-09-13 | ❌ | `03_Taxation` · Update 13 Sep 2026 |
+| CSE-2024-Q02 | Equator tropopause thicker; convection carries heat up — II explains I | GEO-06 / L7 tropopause | 2026-09-13 | ✅ | `03_Climatology` · Update 13 Sep 2026 (held) |
+| CSE-2018-Q09 | FRBM 60% = 40+20; statement 2 swaps Centre/States; Art 293 | ECO-06 | 2026-09-13 | ✅ | `04_Deficits_FRBM` · Update 13 Sep 2026 (held) |
+| CSE-2024-Q03 | Pyroclastic + ash/dust + N compounds + S compounds = all four | GEO-04 / interior gases | 2026-09-13 | ✅ | `02_Geomorphology` · Update 13 Sep 2026 (held) |

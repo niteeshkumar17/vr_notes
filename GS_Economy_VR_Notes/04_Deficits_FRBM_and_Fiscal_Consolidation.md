@@ -117,6 +117,10 @@ Sheet: **old FRBM 2004** vs **new FRBM 2017 / 2022–23 / 2023–24**.
 
 **Debt:** bring **total outstanding debt** from **70% of GDP** (**49% Centre + 21% States**) to **60%** (**40% Centre + 20% States**). Sheet margin: **2019 → 67%**. Class: 2019 was a **better** fiscal year; pandemic blew the path (do not treat later % as a drill unless re-taught).
 
+### Update — 13 September 2026 (UPSC CSE Prelims 2018)
+
+`CSE-2018-Q09` **held**. Statement 1 = NK Singh path: general government **60%** by **2023** = **40% Centre + 20% States**. Statement 2 **fails** — it **swaps** the starting split (Centre **49%**, States **21%**, not the reverse). Statement 3 = **Article 293**: a State **must** take the Centre’s consent to raise a loan if it owes the Centre outstanding liabilities. Key = **1 and 3 only**.
+
 **Rename:** FRBM → **Debt Management and FRBM Act and Rules**.
 
 **Way forward (class)**

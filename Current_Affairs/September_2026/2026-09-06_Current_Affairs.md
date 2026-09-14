@@ -172,6 +172,10 @@ flowchart TD
 
 **Prelims traps:** **maximum restraint ≠ naming** US–Israel or Iran’s Gulf strikes. **Invoice Discounting = Jaipur study**, not a working BRICS bank window. **National-currency payments ≠ BRICS currency** (India still opposes the latter). **11-member** (clip) — do not recast as the original five. **Pahalgam 2025** is **named**; this is **not** a new terrorism lecture (`GS_IR_VR_Notes/01_Basics_of_International_Relations.md`).
 
+### Update — 13 September 2026 (evening flash)
+
+`MST-087`. Flash F14: Jaipur Consensus is a **study** of an Invoice Discounting Mechanism — **not** a live window MSMEs can draw on today. Paper Q18 **I only** held (max restraint; invoice window + common BRICS currency both fail). Same atom. China chair **2027** flash held. No extra Day-1.
+
 ---
 
 ## Abbreviations
@@ -205,3 +209,4 @@ flowchart TD
 <!-- 2026-09-07: Xu Feihong POWER op-ed + 12–13 Sep dates + India–China flights / 6-yr border trade — in-place on Topic 2, same CA-260906-02. -->
 <!-- 2026-09-12: FMCBG Jaipur 12 Aug / Mumbai 9–10 Sep; NDB complementary not rival; CRA never activated; Rio omits de-dollarisation. Same cluster. -->
 <!-- 2026-09-13: New Delhi Declaration adopted 12 Sep — West Asia “maximum restraint”; Pahalgam; MSME Agra / Jaipur invoice-discounting study; 10-proposal roadmap / Troika. Same CA-260906-02. Himalayan pyrite-CO2 is a separate new cluster on 13 Sep. -->
+<!-- 2026-09-13 evening: MST-087 Jaipur = study not live window (flash miss; paper I-only held). No extra Day-1. -->

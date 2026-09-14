@@ -142,7 +142,7 @@ Also a **breeder**, but **not fast** (fuel is **uranium**, which **needs** a mod
 
 ### Update — 12 September 2026 (evening paper)
 
-`MST-081`. Stage I **closed cycle** + Stage II **Pu + Th blankets** held. Trap: Stage III AHWR is **not** a fast breeder because **U-233**, like Pu-239, “needs unmoderated neutrons.” **False.** U-233 needs **D₂O**; coolant is cheaper **H₂O**. He picked **all three**. Flash AHWR specs (BARC / U-233 / D₂O / H₂O) held — **one** atom. Still **Q2 13 Sep**.
+`MST-081`. Stage I **closed cycle** + Stage II **Pu + Th blankets** held. Trap: Stage III AHWR is **not** a fast breeder because **U-233**, like Pu-239, “needs unmoderated neutrons.” **False.** U-233 needs **D₂O**; coolant is cheaper **H₂O**. He picked **all three**. Flash AHWR specs (BARC / U-233 / D₂O / H₂O) held — **one** atom. **Held 13 Sep evening** (I+II; flash F12). 15-day **28 Sep**.
 
 | | Class lock |
 |:---|:---|

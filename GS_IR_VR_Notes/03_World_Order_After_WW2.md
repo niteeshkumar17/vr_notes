@@ -114,7 +114,7 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 ### Update — 12 September 2026 (UPSC CSE Prelims 2018)
 
-`CSE-2018-Q33` **missed** (`MST-084`). Ratifying the IAEA **Additional Protocol** (official stem spelling) means **civilian** nuclear reactors come under **IAEA safeguards**. It does **not** put **military** installations under inspection. It is **not** “privilege to buy uranium from the NSG” and **not** automatic **NSG** membership (`MST-063` cousin). He picked **(c)**.
+`CSE-2018-Q33` **missed** (`MST-084`). Ratifying the IAEA **Additional Protocol** (official stem spelling) means **civilian** nuclear reactors come under **IAEA safeguards**. It does **not** put **military** installations under inspection. It is **not** “privilege to buy uranium from the NSG” and **not** automatic **NSG** membership (`MST-063` cousin). He picked **(c)**. **Held 13 Sep evening** (option a). 15-day **28 Sep**.
 
 ---
 

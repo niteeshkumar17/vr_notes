@@ -539,6 +539,10 @@ Lower latitudes are the most intensely heated belt (Sun stays between the tropic
 
 This is the **spatial** variation of tropopause height. PYQ (Previous Year Question) theme (asked about three times): *why is tropopause higher over the equator?*
 
+### Update — 13 September 2026 (UPSC CSE Prelims 2024)
+
+`CSE-2024-Q02` **held**. Statement-I: troposphere at the equator is **much thicker** than at the poles. Statement-II: strong **convectional currents** carry heat to great heights. **II explains I**. Class numbers stay: equator tropopause **16–18 km**; poles **8–10 km**. Not today’s Ferrel belts.
+
 ### 16.2 Temporal variation
 
 What decides the height is **convection**. Convection at a given place also changes with time (cloud cover, season).
