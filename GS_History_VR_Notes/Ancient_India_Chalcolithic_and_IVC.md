@@ -1,6 +1,6 @@
 # Ancient India — Chalcolithic Age and Indus Valley Civilization
 
-### Lecture — 11 September 2026
+### Lecture 1 — 11 September 2026
 
 > **Date of Lecture:** 11 September 2026  
 > **Date Added:** 2026-09-11  
@@ -309,7 +309,7 @@ Flash F9 **missed** (`MST-080`). Mature / urban IVC = **2600–1900 BC**. **1900
 > **Date Added:** 2026-09-14  
 > **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 8 handwritten sheets (dated **14/9/26**)  
 > **Paper:** **GS-I**. Class flagged **CSE 2025** Mains (town planning / architecture) — reproduce these keywords, not a pretty sentence.  
-> **Continues:** Lecture 11 Sep (names, map, origin, phases). Cluster **HIS-IVC2**.  
+> **Continues:** Lecture 1 — 11 Sep (names, map, origin, phases). Cluster **HIS-IVC2**.  
 > **Parked:** **religion**; decline / Late Harappan; artifacts as a separate art-forms sitting (beads sketched only as industry).
 
 **How to read class shortcuts:** full form on first use. **GJ** = Gujarat; **HR** = Haryana; **RJ** = Rajasthan; **OCP** = Ochre Coloured Pottery. Glossary at the end.
