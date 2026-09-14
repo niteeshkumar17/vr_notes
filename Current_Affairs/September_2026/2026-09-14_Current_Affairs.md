@@ -69,6 +69,10 @@ Clip: terror-related incidents in Kashmir have **declined drastically**; the liv
 
 <span style="color: #e53e3e;">**Prelims trap:** **PRAHAAR** is **23 February 2026**, not Sindoor week. **Sindoor 6–7 May** ≠ class **28–29 minutes** (both can be on the clip/class; do not swap). **Correct the Map** is **not** this file. **9/11** here is the **global** turn, not India’s first attack (**Rajiv Gandhi / LTTE 1991** on this clip).</span>
 
+### Update — 14 September 2026 (evening paper)
+
+`MST-093`. I+II **held** (PRAHAAR 23 Feb 2026 first National Counter-Terrorism Policy; Uri 2016 first surgical / Balakot 2019 first IAF airspace). Trap III: the clip’s **nuclear-blackmail** line is **policy**. Class **MAD** on **IR-03** is **not** cancelled. He picked **all three**. Flash F13 date **held** — same atom.
+
 ```mermaid
 flowchart LR
   P["Passive warn / no punish"] --> U["Uri 2016 surgical strikes"]
@@ -98,3 +102,4 @@ flowchart LR
 | **UN / UNGA** | United Nations / United Nations General Assembly |
 
 <!-- 2026-09-14: Hindu — (1) UN map / Guterres patched on CA-260908-02 + IS-01 + IR-02, no extra Day-1. (2) Sindoor extras on IR-03-02; Pahalgam paragraph on CA-260906-02; SCO Bishkek line on 30 Aug. (3) New: PRAHAAR 23 Feb 2026 + Uri/Balakot firsts + act of war. Cluster CA-260914 leftover 15 Sep — do not steal HIS-IVC2 Q1. -->
+<!-- 2026-09-14 evening: MST-093 PRAHAAR I+II; nuclear-blackmail ≠ cancel MAD. Flash date held. Leftover 15 Sep. -->

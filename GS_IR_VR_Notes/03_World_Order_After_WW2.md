@@ -122,6 +122,10 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 `CSE-2018-Q33` **missed** (`MST-084`). Ratifying the IAEA **Additional Protocol** (official stem spelling) means **civilian** nuclear reactors come under **IAEA safeguards**. It does **not** put **military** installations under inspection. It is **not** “privilege to buy uranium from the NSG” and **not** automatic **NSG** membership (`MST-063` cousin). He picked **(c)**. **Held 13 Sep evening** (option a). 15-day **28 Sep**.
 
+### Update — 14 September 2026 (UPSC CSE Prelims 2017)
+
+`CSE-2017-Q28` **missed** (`MST-091`). Official key = **neither**. **Nuclear Security Summits (NSS)** are **not** periodically held under the **United Nations**. The **International Panel on Fissile Materials (IPFM)** is **not** an organ of the **IAEA**. Class IAEA checks military misuse of NSG fuel — that is **not** NSS and **not** IPFM. He picked **2 only**.
+
 ---
 
 ## 5. Post–Cold War: unipolar LPG, then the dark side (IR-03-05)
@@ -194,6 +198,7 @@ Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/W
 | GDP | Gross Domestic Product |
 | IAEA | International Atomic Energy Agency |
 | IMF | International Monetary Fund |
+| IPFM | International Panel on Fissile Materials (not an IAEA organ) |
 | JeM | Jaish-e-Mohammed |
 | LeT | Lashkar-e-Taiba |
 | LPG | Liberalisation, Privatisation, Globalisation |
@@ -206,6 +211,7 @@ Class lock **stays**: BRICS *talks* de-dollarisation and names NDB against IMF/W
 | NGO | Non-Governmental Organisation |
 | NPT | Treaty on the Non-Proliferation of Nuclear Weapons |
 | NSG | Nuclear Suppliers Group |
+| NSS | Nuclear Security Summits (not under the UN) |
 | NNWS | Non-Nuclear Weapon State |
 | NWS | Nuclear Weapon State |
 | PSU | Public Sector Undertaking |

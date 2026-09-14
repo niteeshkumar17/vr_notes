@@ -301,6 +301,10 @@ Fission is **weather- and geography-independent**; fuel quantity is **small** �
 
 **CSE 2026 Mains** asked around this reactor — reproduce **what Stage II is**, then these specs.
 
+### Update — 14 September 2026 (evening flash)
+
+`MST-094`. Paper Q7 I+II **held** (500 MW / April 2026 / BHAVINI + IGCAR / Pu-239 / sodium / no moderator). Flash F8 still picked **Kudankulam 1000 MW PWR** (Russian). Same atom. PFBR ≠ PHWR 700 / ≠ Tarapur BWR 1969.
+
 ---
 
 ## 12. ITER and tokamak (ST-08-06)
@@ -352,6 +356,10 @@ Fission is **weather- and geography-independent**; fuel quantity is **small** �
 
 **Why so many countries fund ITER:** if it works, it **solves energy for everyone, forever**.
 
+### Update — 14 September 2026 (evening paper)
+
+Challenge ≠ concern I+II, NPCIL/DAE/PMO + 26/~9 GW, ITER I+II (D+T; Li breeds T; no U/Pu so rivals fund together) **held**. SHANTI has **not** already put private operators on those 26 reactors.
+
 ---
 
 ## Abbreviations
@@ -394,4 +402,5 @@ Fission is **weather- and geography-independent**; fuel quantity is **small** �
 
 <!-- 2026-09-12: Shobhit Sir nuclear L after 10 Sep fission — moderator / containment / PHWR-LWR-FBR / Bhabha three-stage closed cycle / advantages. Disadvantages + PFBR detail parked. One cluster ST-07. -->
 <!-- 2026-09-14: Shobhit Sir L2 — challenge≠concern; NPCIL/DAE/PMO; 26 reactors / 9 GW / 100 GW by 2047; PFBR BHAVINI+IGCAR 500 MW; ITER tokamak 7 members 45.6/9.1; tritium breeding Li; no melt/proliferation. Cluster ST-08 due 15 Sep Q2. -->
+<!-- 2026-09-14 evening: class ST held; flash MST-094 PFBR ≠ Kudankulam 1000 MW PWR. Still Q2 15 Sep. -->
 

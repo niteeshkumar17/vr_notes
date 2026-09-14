@@ -108,6 +108,10 @@ A modern state has legislature–executive–judiciary. The UN has **six princip
 
 **Most democratic organ:** **one country, one vote, one value** — United States and Nepal weigh the same. All **193** members sit here.
 
+### Update — 14 September 2026 (UPSC CSE Prelims 2022)
+
+`CSE-2022-Q78` **missed** (`MST-092`). Official key = **all three**. The UN General Assembly can grant **observer status** to **non-member States**. **Inter-governmental organisations** can seek observer status. **Permanent Observers** can **maintain missions** at UN headquarters. Class lock still: UNGA is **deliberative**, not binding law. He picked **2 and 3 only** (dropped statement 1).
+
 ### 2.3 International Court of Justice (ICJ)
 
 **Judicial** wing. Detail in §5.

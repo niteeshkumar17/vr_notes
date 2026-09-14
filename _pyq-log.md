@@ -43,3 +43,8 @@ Evening paper uses **5 real PYQs** a night. This file only records **what was al
 | CSE-2024-Q02 | Equator tropopause thicker; convection carries heat up — II explains I | GEO-06 / L7 tropopause | 2026-09-13 | ✅ | `03_Climatology` · Update 13 Sep 2026 (held) |
 | CSE-2018-Q09 | FRBM 60% = 40+20; statement 2 swaps Centre/States; Art 293 | ECO-06 | 2026-09-13 | ✅ | `04_Deficits_FRBM` · Update 13 Sep 2026 (held) |
 | CSE-2024-Q03 | Pyroclastic + ash/dust + N compounds + S compounds = all four | GEO-04 / interior gases | 2026-09-13 | ✅ | `02_Geomorphology` · Update 13 Sep 2026 (held) |
+| CSE-2021-Q32 | Dholavira water harvesting (bunds / check-dams / canals to reservoirs); not Kalibangan | HIS-IVC2-06 | 2026-09-14 | ❌ | `Ancient_India_Chalcolithic_and_IVC` · Update 14 Sep 2026 |
+| CSE-2026-Q08 | Harappan inferences = 1 and 2 only; own wells ≠ common property | HIS-IVC2-01 / HIS-IVC2-03 | 2026-09-14 | ✅ | `Ancient_India_Chalcolithic_and_IVC` · Update 14 Sep 2026 (held) |
+| CSE-2021-Q37 | Burzahom ≠ rock-cut; Chandraketugarh terracotta; Ganeshwar copper — 2 and 3 | HIS-IVC2-07 | 2026-09-14 | ✅ | `Ancient_India_Chalcolithic_and_IVC` · Update 14 Sep 2026 (held) |
+| CSE-2017-Q28 | NSS not under UN; IPFM not an IAEA organ — neither | IR-03-04 | 2026-09-14 | ❌ | `03_World_Order_After_WW2` · Update 14 Sep 2026 |
+| CSE-2022-Q78 | UNGA observers: non-member States + IGOs + missions at HQ — all three | IR-02-02 | 2026-09-14 | ❌ | `02_United_Nations_Organisation` · Update 14 Sep 2026 |

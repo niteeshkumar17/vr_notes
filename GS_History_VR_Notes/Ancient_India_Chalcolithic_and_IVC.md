@@ -596,6 +596,20 @@ IVC prospered in a **semi-arid** region with **monsoon dependence**, so they pra
 
 ---
 
+### Update — 14 September 2026 (evening paper + UPSC CSE Prelims 2021 / 2026)
+
+`MST-088`. Named exceptions: Dholavira **three parts / stone** and Banawali **radial** **held**. Trap: **Gujarat** does **not** still use **1:2:4 burnt brick** as the main material. Uniform **1:2:4** is the IVC brick lock; Gujarat / Dholavira = **stone**. He picked **all three**.
+
+`MST-089`. Houses + sewage I+II **held**. Lothal terracotta cylinders were buried **horizontally** and joined as the **sewage line** — **not** vertically as wells. Ring wells = pit toilets (first finders thought water wells). He picked **all three**.
+
+`CSE-2021-Q32` **missed** (`MST-090`). Official key = **Dholavira** (bunds / check-dams / canals to connected reservoirs). **Kalibangan** is the ploughed-field cousin. Flash F7 Dholavira rainwater **held** — same atom.
+
+`CSE-2026-Q08` **held**. Inferences **1 and 2 only**. Statement III (own wells / courtyard / bath) describes **private** houses, **not** a common-property system. Class: hexadecimal + decimal weights; baked brick; courtyard houses.
+
+`CSE-2021-Q37` **held**. **2 and 3**. **Burzahom** (Srinagar) in today’s class = **wool and timber**, **not** rock-cut shrines. **Chandraketugarh** = terracotta art (PYQ extra). **Ganeshwar** (Sikar) = **copper** — class already locked.
+
+---
+
 ## 15. Religion — parked
 
 Heading only. Next class. Class: BRICS week slowed the sitting; do **not** compare batch class-counts — compare **syllabus**.
@@ -617,4 +631,5 @@ Heading only. Next class. Class: BRICS week slowed the sitting; do **not** compa
 
 <!-- 2026-09-11: Vijender Singh — Chalcolithic Age (substantial copper; Bronze Age worldwide ≠ India tin-scarce); IVC start: four names, cardinal geography + Lothal dockyard + Shortughai, indigenous origin, four phases + four regional cultures. Town planning parked. One cluster HIS-IVC. -->
 <!-- 2026-09-14: Vijender Singh L2 — town planning (grid, 1:2:4 bricks, toilets, sewage, utilitarian/egalitarian), Harappan ware, metallurgy + hexadecimal/decimal weights, Chanhudaro beads, script theories, agri + four irrigations, Dholavira rainwater, trade map. Religion parked. Cluster HIS-IVC2 due 15 Sep. -->
+<!-- 2026-09-14 evening: MST-088 Gujarat stone; MST-089 Lothal horizontal sewage; MST-090 CSE-2021-Q32 Dholavira ≠ Kalibangan; CSE-2026-Q08 1+2 held; CSE-2021-Q37 2+3 held. Still Q1 15 Sep. -->
 

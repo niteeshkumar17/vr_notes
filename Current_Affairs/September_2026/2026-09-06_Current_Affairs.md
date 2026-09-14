@@ -176,7 +176,7 @@ flowchart TD
 
 ### Update — 13 September 2026 (evening flash)
 
-`MST-087`. Flash F14: Jaipur Consensus is a **study** of an Invoice Discounting Mechanism — **not** a live window MSMEs can draw on today. Paper Q18 **I only** held (max restraint; invoice window + common BRICS currency both fail). Same atom. China chair **2027** flash held. No extra Day-1.
+`MST-087`. Flash F14: Jaipur Consensus is a **study** of an Invoice Discounting Mechanism — **not** a live window MSMEs can draw on today. Paper Q18 **I only** held (max restraint; invoice window + common BRICS currency both fail). Same atom. China chair **2027** flash held. No extra Day-1. **Held 14 Sep evening** (Q11 option b). 15-day **29 Sep**.
 
 ---
 
