@@ -80,6 +80,10 @@ Class lock **stays** (nine camps / 28–29 minutes / proxy ≠ MAD war). **Newsp
 
 **Uri (18 September 2016, JeM)** → first **cross-border surgical strikes (28–29 September)**. **Pulwama (14 February 2019, Central Reserve Police Force convoy)** → **Balakot (26 February 2019)** — first time the **Indian Air Force (IAF)** struck a **JeM** camp **inside Pakistani airspace**. **Pahalgam 22 April 2025** while the PM was in **Saudi Arabia**. Full **PRAHAAR** policy note: `Current_Affairs/September_2026/2026-09-14_Current_Affairs.md` (**CA-260914**).
 
+### Update — 15 September 2026 (Varma Sir Sino–India L4 — no extra Day-1)
+
+Sindoor extras stay on this cluster. New class line: one Indian general — **one front, three adversaries** — **Pakistan + China + Turkey** (Chinese technicians and satellite intelligence; Turkish drones). Full Sino–Pak block: `04_Sino_India_Relations.md` (**IR-04-07**).
+
 **Answer drop:** *Cold War stayed cold because of MAD, not because the UN “kept peace.” Superpowers fought through proxies. NAM was the powerless third world opting out.*
 
 ---

@@ -4,7 +4,7 @@
 
 > **Date of Lecture:** 4 September 2026 (Lecture 2)  
 > **Date Added:** 2026-09-04  
-> **Faculty:** **Dr Sushant Varma** (GS International Relations). Continues **Iqbal Singh Sandhu** Lecture 1 (1 September) — `01_Basics_of_International_Relations.md`. Next class promised: **India–China**.  
+> **Faculty:** **Dr Sushant Varma** (GS International Relations). Continues **Iqbal Singh Sandhu** Lecture 1 (1 September) — `01_Basics_of_International_Relations.md`. India–China: **15 September 2026** — `04_Sino_India_Relations.md` (Part 1).  
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten sheets (dated **4/9/26**, circled **1–6**)  
 > **Also relevant for:** Prelims (organs, veto, Chapter VI / VII, courts); **GS-II** (international organisations, India and the UN); Essay; Interview
 
@@ -430,7 +430,7 @@ Declaration **adopted 12 Sep**. Clip: **comprehensive UN reform**; **greater rol
 
 **If the UN does not reform**, legitimacy may shift to **G20 / BRICS**. Reform so the UN reflects **2026 power**, not **1945**.
 
-**What India should do (class close):** stay invested; keep **diplomatic** work to build opinion. Next class: **India–China**. Sources enough for GS: **class + handouts + Yellow Book + current affairs**.
+**What India should do (class close):** stay invested; keep **diplomatic** work to build opinion. Next class was **India–China** — now `04_Sino_India_Relations.md`. Sources enough for GS: **class + handouts + Yellow Book + current affairs**.
 
 ---
 

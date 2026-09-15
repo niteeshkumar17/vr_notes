@@ -77,6 +77,7 @@
 | GS_Geography_VR_Notes | Climatology (GEO-06 lapse / tropopause) | 2026-09-13 | 4 | 90.0% | 2026-09-13 | Confident | 2013, 2024 | `CSE-2024-Q02` **held**: equator tropopause thicker because convection carries heat up. NLR 6.5 / mesopause leftover still. |
 | GS_Geography_VR_Notes | 03 — Climatology L9 (C/D, cells, Hadley 1735) | 2026-09-08 | 2 | 80.0% | 2026-09-11 | Somewhat | 2011, 2013, 2017 | Ghost Recall cluster → **11 Sep**. Persistent HP miss (`MST-055`). IOD Pacific still `MST-053`. Ferrel started **13 Sep** as **GEO-13**; cells still parked. |
 | GS_Geography_VR_Notes | 03 — Climatology L10 (Ferrel 1856 / planetary winds) | 2026-09-14 | 2 | 100% | 2026-09-14 | Confident | 2024 | Q19 I+II held again (trades easterlies + SW ~3/4; polar friction trap). Cells still parked. |
+| GS_IR_VR_Notes | 04 — Sino–India Part 1 (Varma Sir L4, 15 Sep) | 2026-09-15 | 0 | 0% | 2026-09-16 | New | - | **IR-04** first-pass **Q2 16 Sep**. LoC ≠ LAC. Johnson vs McDonald vs McMahon. Galwan = **no** perception gap. **Disengagement ≠ de-escalation ≠ de-induction**. Partners not rivals / 3 mutuals = same BRICS summit as CA-260906. Part 2 (pearls / BRI / rivers) parked. |
 | GS_Economy_VR_Notes | 03 — Taxation L8 (Vivad/Sabka, BAT, e-Bikray, VAT/GST extras) | 2026-09-15 | 0 | 0% | 2026-09-16 | New | - | **ECO-08** first-pass **Q1 16 Sep**. Sabka sheet *IT* = **Indirect Tax**. BAT cousin = **ADD** not CVD. BAANKIT **3 Jan 2025** (sheet 2021). GST Council parked. SS Sir L1 GST overview — no restudy. |
 | GS_Economy_VR_Notes | 03 — Taxation L7 (windfall / EL–DST / BEPS toolkit) | 2026-09-15 | 3 | 90.0% | 2026-09-30 | Confident | 2016, 2018 | `MST-086` **held** Ghost Recall after repeat 2 (not ITA; no DTAA). `MST-085` already 15-day **29 Sep**. |
 | Current_Affairs | 13 September 2026 (upper Indus pyrite–CO₂) | 2026-09-15 | 2 | 100% | 2026-09-18 | Confident | - | Ghost Recall first-pass **held**: silicate sink / sulphide→H₂SO₄→carbonate source; 3× upper Indus; mountains source / floodplains sink; IISER Pune + Wadia + IIT Roorkee. Cluster **+3 18 Sep**. |
@@ -111,7 +112,7 @@
 - **Weak Spots Logged to Mistake Bank:**
   - *MST-094 leftover / PFBR cousin:* specs held. The cousin is **Kudankulam 1000 MW PWR** (Russian). Left blank.
 - **Resolved:** `MST-086` EL ≠ ITA; `MST-088` Gujarat stone; `MST-089` Lothal sewage; `MST-090` Dholavira ≠ Kalibangan; `MST-091` NSS neither; `MST-093` PRAHAAR ≠ cancel MAD.
-- **Ghost Recall 16 Sep:** **Q1 ECO-08** (15 Sep tax L8). **Q2 leftover GEO-13** (14 Sep morning skipped). Drill `MST-094` Kudankulam **inside leftover ST / Q8**. `MST-092` UNGA observers leftover. Do not steal Q1 for GEO-13.
+- **Ghost Recall 16 Sep:** **Q1 ECO-08** (15 Sep tax L8) · **Q2 IR-04** (15 Sep Sino–India Part 1). Leftover **GEO-13** only if a later slot. Drill `MST-094` Kudankulam **inside leftover ST / Q8**. `MST-092` UNGA observers leftover. Do not steal Q1–Q2.
 
 ### Session 40 — 2026-09-14 (Evening MCQ)
 - **Subject:** HIS-IVC2 (town planning / trade) + ST-08 (challenge≠concern / PFBR / ITER) + MST-085/086/087 + 5 PYQ

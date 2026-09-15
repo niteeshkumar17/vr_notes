@@ -51,6 +51,10 @@ Other named blasts (no extra numbers): **Akshardham 2002**; **Varanasi 2006**; *
 
 **Trap:** (3) is a **policy** line. Class **Mutually Assured Destruction (MAD)** on **IR-03** is **not** cancelled.
 
+### Update — 15 September 2026 (Varma Sir Sino–India L4 — no extra Day-1)
+
+Class: during Sindoor India fought **one front, three adversaries** — **Pakistan + China + Turkey**. Full nexus: `GS_IR_VR_Notes/04_Sino_India_Relations.md` (**IR-04-07**).
+
 ### 4. PRAHAAR (23 February 2026)
 
 India unveiled **PRAHAAR**, its first comprehensive **National Counter-Terrorism Policy and Strategy**, **23 February 2026**. National framework to **prevent and respond** to terrorist activity and radicalisation through **whole-of-government** and **whole-of-society**. (Clip does not expand the letters — do not invent a full form.)
