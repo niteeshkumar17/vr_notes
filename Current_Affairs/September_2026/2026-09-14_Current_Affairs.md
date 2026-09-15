@@ -71,7 +71,7 @@ Clip: terror-related incidents in Kashmir have **declined drastically**; the liv
 
 ### Update — 14 September 2026 (evening paper)
 
-`MST-093`. I+II **held** (PRAHAAR 23 Feb 2026 first National Counter-Terrorism Policy; Uri 2016 first surgical / Balakot 2019 first IAF airspace). Trap III: the clip’s **nuclear-blackmail** line is **policy**. Class **MAD** on **IR-03** is **not** cancelled. He picked **all three**. Flash F13 date **held** — same atom.
+`MST-093`. I+II **held** (PRAHAAR 23 Feb 2026 first National Counter-Terrorism Policy; Uri 2016 first surgical / Balakot 2019 first IAF airspace). Trap III: the clip’s **nuclear-blackmail** line is **policy**. Class **MAD** on **IR-03** is **not** cancelled. He picked **all three**. Flash F13 date **held** — same atom. **Held 15 Sep** Ghost Recall (does not cancel MAD). Leftover: Uri = first **surgical strikes**; Balakot = first **IAF in Pakistani airspace**; intention 2 = **act of war**. 15-day **30 Sep**.
 
 ```mermaid
 flowchart LR

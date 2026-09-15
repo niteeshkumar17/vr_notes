@@ -124,7 +124,7 @@ Class equality line: Constitution wants **equal opportunity**, not a mechanical 
 
 ### Update — 14 September 2026 (UPSC CSE Prelims 2017)
 
-`CSE-2017-Q28` **missed** (`MST-091`). Official key = **neither**. **Nuclear Security Summits (NSS)** are **not** periodically held under the **United Nations**. The **International Panel on Fissile Materials (IPFM)** is **not** an organ of the **IAEA**. Class IAEA checks military misuse of NSG fuel — that is **not** NSS and **not** IPFM. He picked **2 only**.
+`CSE-2017-Q28` **missed** (`MST-091`). Official key = **neither**. **Nuclear Security Summits (NSS)** are **not** periodically held under the **United Nations**. The **International Panel on Fissile Materials (IPFM)** is **not** an organ of the **IAEA**. Class IAEA checks military misuse of NSG fuel — that is **not** NSS and **not** IPFM. He picked **2 only**. **Held 15 Sep** Ghost Recall (neither). Obama / Princeton extras are **not** on this note — do not bank. 15-day **30 Sep**.
 
 ---
 

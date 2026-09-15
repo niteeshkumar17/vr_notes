@@ -303,7 +303,7 @@ Fission is **weather- and geography-independent**; fuel quantity is **small** �
 
 ### Update — 14 September 2026 (evening flash)
 
-`MST-094`. Paper Q7 I+II **held** (500 MW / April 2026 / BHAVINI + IGCAR / Pu-239 / sodium / no moderator). Flash F8 still picked **Kudankulam 1000 MW PWR** (Russian). Same atom. PFBR ≠ PHWR 700 / ≠ Tarapur BWR 1969.
+`MST-094`. Paper Q7 I+II **held** (500 MW / April 2026 / BHAVINI + IGCAR / Pu-239 / sodium / no moderator). Flash F8 still picked **Kudankulam 1000 MW PWR** (Russian). Same atom. PFBR ≠ PHWR 700 / ≠ Tarapur BWR 1969. **15 Sep** Ghost Recall: specs **held**; cousin name left blank. Still the atom.
 
 ---
 

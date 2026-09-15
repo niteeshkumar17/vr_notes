@@ -608,6 +608,10 @@ IVC prospered in a **semi-arid** region with **monsoon dependence**, so they pra
 
 `CSE-2021-Q37` **held**. **2 and 3**. **Burzahom** (Srinagar) in today’s class = **wool and timber**, **not** rock-cut shrines. **Chandraketugarh** = terracotta art (PYQ extra). **Ganeshwar** (Sikar) = **copper** — class already locked.
 
+### Update — 15 September 2026 (Ghost Recall)
+
+`MST-088` / `MST-089` / `MST-090` **held**. 1:2:4; Gujarat / Dholavira = **stone**. Lothal cylinders **horizontal sewage**; ring wells = **toilets**. Rainwater = **Dholavira**; Kalibangan = **ploughed field** (Hanumangarh). 15-day **30 Sep**. Cluster **+3 18 Sep**.
+
 ---
 
 ## 15. Religion — parked
