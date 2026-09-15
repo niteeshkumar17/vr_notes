@@ -1,10 +1,10 @@
 # 03 — Taxation
 
-> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)**  
-> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**  
+> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)** + **15 September 2026 (Lecture 8)**  
+> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**; Lecture 8 added **2026-09-15**  
 > **Teacher:** **BS Sir**  
-> **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26; **L7 six pages dated 13/9/26**)  
-> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6); **windfall / surtax, land tax vs land-revenue tax, professional tax, Equalisation Levy / Digital Service Tax, BEPS toolkit, faceless assessment (L7)**
+> **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26; L7 six pages dated 13/9/26; **L8 six pages dated 15/9/26**)  
+> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6); windfall / surtax, land tax vs land-revenue tax, professional tax, Equalisation Levy / Digital Service Tax, BEPS toolkit, faceless assessment (L7); **Vivad Se Vishwas / Sabka Vishwas, Border Adjustment Tax vs anti-dumping / countervailing, SARFAESI / e-Bikray–BAANKIT, VAT timeline + inverted duty, GST dual / zero-rated / e-way / 22 Sep 2025 rates / National Anti-Profiteering Authority (L8)**
 
 ### Lecture 4 — 24 August 2026
 
@@ -1447,15 +1447,9 @@ Class: cash + a face-to-face meeting is where the bribe lives; opportunity cost 
 
 ---
 
-## 15. Parked for next class
+## 15. Parked in Lecture 7 — covered 15 September 2026
 
-1. **Vivad Se Vishwas** — direct-tax dispute (“from controversy to trust”). Genuine tax kept; interest / penalty / case **scrapped** after check. **2017** complaints after **GAAR (April)** and **GST (July)**.
-2. **Sabka Vishwas** — same idea for **indirect tax**. Two names so Prelims can split DT / IDT.
-3. **Border Adjustment Tax** — class: replacement of **countervailing duty**.
-4. **e-Bikray** — platform to **sell properties** to recover a **bad loan**.
-5. Then **VAT and GST** as the next big block.
-
-Margin on the sheet: *Vivad se Vishwas — Tax — DT* · *Sabka Vishwas scheme — IT*.
+Vivad Se Vishwas (Direct Tax) / Sabka Vishwas (Indirect Tax); Border Adjustment Tax; e-Bikray; Value Added Tax (VAT) / Goods and Services Tax (GST) extras → **Lecture 8** below. L7 one-liner on Border Adjustment Tax as a **countervailing-duty** swap is **not** today’s lock — today’s cousin is **anti-dumping duty**.
 
 ---
 
@@ -1466,7 +1460,7 @@ Margin on the sheet: *Vivad se Vishwas — Tax — DT* · *Sabka Vishwas scheme 
 3. **EL / Google tax** = **6%** on **ad** revenue of **non-residents**; **₹1 lakh / year** threshold; **1 April 2016**; OECD BEPS option for digital.
 4. **DST / EL 2.0** = **2%** on **non-resident e-commerce** without **tangible presence**; **Finance Act 2020**, **1 April 2020**. **Both ELs scrapped 1 April 2025** (USA/EU, multiple DT, exodus).
 5. BEPS = MNC strategies exploiting **gaps** in tax rules; OECD loss **US$100–240 bn / year** = **4–10%** of global income-tax revenue. **CbCR** = **s.286(2)** ITA 1961. Thin cap = **high debt / thin own capital**. Patent box = **s.115BBF**, **Finance Act 2016**. **GAAR** = L6.
-6. Faceless = no officer–taxpayer **face**; ITA 1961; transparency / efficiency / accountability. **Vivad / Sabka / BAT / e-Bikray / GST = next class.**
+6. Faceless = no officer–taxpayer **face**; ITA 1961; transparency / efficiency / accountability. **Vivad / Sabka / BAT / e-Bikray / GST extras = Lecture 8.**
 
 ---
 
@@ -1489,7 +1483,7 @@ Margin on the sheet: *Vivad se Vishwas — Tax — DT* · *Sabka Vishwas scheme 
 | **PPP** | Purchasing Power Parity |
 | **PE** | Permanent Establishment |
 | **VAT / GST** | Value Added Tax / Goods and Services Tax |
-| **BAT** | Border Adjustment Tax *(parked)* |
+| **BAT** | Border Adjustment Tax *(Lecture 8)* |
 | **DT / IDT** | Direct Tax / Indirect Tax |
 
 ---
@@ -1497,3 +1491,241 @@ Margin on the sheet: *Vivad se Vishwas — Tax — DT* · *Sabka Vishwas scheme 
 <!-- 2026-09-13: Appended Lecture 7 (13/9) from transcript + 6 notebook pages — windfall surtax, land/land-revenue/professional tax, EL 6% / DST 2%, both scrapped 1 Apr 2025, BEPS CbCR–thin cap–patent box, faceless assessment. Vivad/Sabka/BAT/e-Bikray/GST parked. Cluster ECO-07. -->
 <!-- 2026-09-13 evening: MST-085 professional tax = State lump-sum / IT-adjustable; MST-086 CSE-2018-Q08 EL ≠ ITA / no DTAA; CSE-2016-Q60 BEPS held. Still Q2 14 Sep. -->
 <!-- 2026-09-14 evening: MST-085 held; MST-086 repeat 2 still DTAA credit. -->
+
+### Lecture 8 — 15 September 2026
+
+> Notebook dated **15/9/26**. Eighth BS Sir tax class. Clears the L7 parked list. Today: **Vivad Se Vishwas (Direct Tax)** / **Sabka Vishwas (Indirect Tax)**; **Border Adjustment Tax (BAT)** vs **anti-dumping duty** / **countervailing duty**; Non-Performing Asset (NPA) clock + **Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002**; **e-Bikray → BAANKIT**; Value Added Tax (VAT) timeline + inverted duty; GST extras that SS Sir L1 does not lock. **Parked next class:** Goods and Services Tax Council; compensation scheme; GST Appellate Tribunal (GSTAT); Reverse Charge Mechanism (RPM). Audio runs to class close.
+
+**How to read class shortcuts:** **DT / IDT** = Direct Tax / Indirect Tax; **BAT** = Border Adjustment Tax; **ADD** = Anti-Dumping Duty; **CVD** = Countervailing Duty; **NPA** = Non-Performing Asset; **SMA** = Special Mention Account; **ARC** = Asset Reconstruction Company; **SARFAESI** = Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest; **IBAPI** = Indian Banks Auctions Mortgage Properties Information; **VAT / GST** = Value Added Tax / Goods and Services Tax; **ITC** = Input Tax Credit; **NAA** = National Anti-Profiteering Authority; **CCI** = Competition Commission of India. Full forms on first use.
+
+**Already in SS Sir L1 (`02_Fiscal_Policy_Budget_and_Syllabus_Overview.md`) — do not restudy as a new topic:** GST 1 July 2017 / “One Nation, One Tax”; old four slabs **5 / 12 / 18 / 28**; Central Goods and Services Tax (CGST) + State Goods and Services Tax (SGST) **equal split**; **seven** items still under VAT (crude, Aviation Turbine Fuel, petrol, diesel, natural gas, alcohol for human consumption, electricity). Cluster for *this* sitting is **ECO-08**.
+
+---
+
+## 17. Vivad Se Vishwas — Direct Tax (ECO-08-01)
+
+Introduced **2019** to resolve **Direct Tax** disputes. Announced with the object of **settling Direct Tax disputes**.
+
+It benefits **both**:
+
+- the **government** — **timely revenue**;
+- the **tax payer** — brings down **uncertainty** and **litigation costs**.
+
+Sheet margin: *Vivad Se Vishwas Tax — DT*. Prelims split: this name is the **direct-tax** scheme.
+
+---
+
+## 18. Sabka Vishwas — Indirect Tax (ECO-08-01)
+
+Announced with the object of settling **pending disputes of service tax and Central excise duty** which are **now subsumed under GST**.
+
+Sheet heading *Sabka Vishwas scheme — IT* here means **Indirect Tax**, **not** Income Tax. Two names so Prelims can split **DT / IDT**.
+
+**Two components of the scheme:**
+
+1. **Dispute resolution** — aimed at the **legacy cases** of Central excise duty and service tax now subsumed under GST, and **pending in litigation at various forums**.
+2. **Amnesty** — offers an opportunity to tax payers to **pay the outstanding tax** and be **free of any other consequences under the law**.
+
+**Under both schemes** there will be **total waiver of interest / penalty** and **immunity from prosecution**.
+
+---
+
+## 19. Border Adjustment Tax vs ADD vs CVD (ECO-08-02)
+
+**Duty vs tax (class lock):** **duty** = tax on **goods**. **Tax on services** from **1 April 1994** (service tax). Do not swap.
+
+NITI Aayog members suggested imposing **Border Adjustment Tax (BAT)** on **imports** to provide a **level playing field** to **domestic industries**.
+
+**BAT** is a duty **proposed** to be imposed on **imported goods in addition to the customs duty**, levied at the **border**. **Proposed, not introduced.** Class: it might **replace anti-dumping duty (ADD)** or **part** of it — that is the cousin, **not** a live levy.
+
+**Destination principle:** BAT follows the rule that you tax a product **based on the location of its sale to the final consumer**, rather than on the **location of production or origin**.
+
+| Instrument | Class lock |
+|:---|:---|
+| **Anti-Dumping Duty (ADD)** | Foreign firm **excess production** / sells **below own-country price**. Today’s BAT cousin. |
+| **Countervailing Duty (CVD)** | Foreign **subsidy**. L7 parked line “BAT replaces CVD” is **wrong for today**. |
+| **Border Adjustment Tax (BAT)** | Extra border duty on imports **on top of customs**, destination-based, **proposed**. |
+
+**Impact (class):**
+
+- **Macro:** if imports fall, a country can **cut the trade deficit**.
+- If the country is a **major export market** for many **developed** countries, the tax plan will have a **serious adverse effect** on them after implementation.
+- BAT may render **some firms less profitable**. If prices are **forced upward**, they may lose **competitiveness** versus **substitutes** or **locally made similar product**.
+
+Class warning: BAT is **not** a licence to tax imports **above** the domestic rate. The NITI pitch is a **true World Trade Organization (WTO) level playing field**, not a hidden tariff hike.
+
+---
+
+## 20. SMA → NPA → ARC → SARFAESI (ECO-08-03)
+
+**Loan** splits **secured** (collateral / mortgage) vs **unsecured**.
+
+| Clock | Label |
+|:---|:---|
+| **0–89 days** overdue | **Special Mention Account (SMA)** |
+| **90 days** onward | **Non-Performing Asset (NPA)** |
+
+**NPA buckets (class):**
+
+| Bucket | Window |
+|:---|:---|
+| **Substandard** | **90 days – 1 year** |
+| **Doubtful** | **> 1 year – 3 years** |
+| **Lost** | **> 3 years** (banks “wash their hands”) |
+
+**Asset Reconstruction Company (ARC):** Reserve Bank of India (RBI) licence. Buys the NPA. Class board example: years **90 / 91 / 92**.
+
+**Gross NPA story (class numbers):** **10.67% (2014)** → **14% (2018)** → **~1.70–1.72%** now.
+
+**M.S. Verma Committee** (ex-State Bank of India chairman — “who knows the pain of NPA better than SBI?”) → **SARFAESI Act, 2002**. Banks may **sell mortgaged / collateral property** to recover a bad loan. **Public Sector Banks (PSBs) only** on the e-auction story that follows.
+
+---
+
+## 21. e-Bikray → BAANKIT (ECO-08-04)
+
+**e-Bikray** = **Electronic Banking Revenue Auction Yojana**. Launched **February 2019** by the **Finance Minister**. **PSBs only.**
+
+It is an **e-auction platform**: **single-window** access to information on properties put up for e-auction, plus a facility to **compare similar properties** across all PSB e-auction sites. It is for those **mortgaged properties whose loans have become NPA** — **not** “any property.”
+
+It provides **navigational links** to all PSB e-auction sites, a **property search** feature, and **single-window** access to information on the property up for e-auction through **photographs, videos, and Google Map** address.
+
+The platform also helps the **buyer** to **verify ownership** (bank e-auction sites often listed a property already selected). Search by **state / district / bank-wise** details.
+
+**Indian Banks Auctions Mortgage Properties Information (IBAPI).** The e-Bikray / BankNet platform is linked to IBAPI. IBAPI is an initiative of the **Indian Banks Association (IBA)** under the policy of the **Department of Financial Services**, **Ministry of Finance**, which causes mortgage properties to be auctioned **online** and also **banks alerting** with Public Sector Banks.
+
+**Replacement:** e-Bikray was replaced with **BAANKIT** (**e-bank asset auction network**) on **3 January 2025** (transcript lock). Sheet 4 wrote **3 January 2021** — year slip; do not mix the two.
+
+---
+
+## 22. VAT, ITC and inverted duty (ECO-08-05)
+
+**Value Added Tax (VAT)** is a common form of an **indirect tax levied on goods**. It is paid to the government by the producers **at every stage in the supply chain**. VAT is applicable only on goods **sold within a particular state**, which means the **buyer and seller need to be in the same state**. (You may belong to Tamil Nadu and buy petrol in Delhi — both legs of that sale are in **Delhi**.)
+
+**VAT in India:** tax charged on the **gross margin at every stage** in the sale of goods. Tax is assessed and collected at **each point**, starting from the **manufacturer** until the product reaches the **retailer**.
+
+It is a tax **only on value addition**, and **only on goods**, **not on services**. Services had a separate **service tax**.
+
+**Timeline (class):**
+
+| Year | Lock |
+|:---|:---|
+| **1986** | India, on the recommendations of the **L.K. Jha Committee** (same committee that recommended **Minimum Support Price (MSP)** in **1964**). |
+| Suggestion | **Manufacturing Value Added Tax (MANVAT)** |
+| Introduced | **Modified Value Added Tax (MODVAT)** at **8%, 16% and 24%** |
+| **2000** | **Yashwant Sinha** Finance Minister. MODVAT replaced by **Central Value Added Tax (CENVAT)** at a **single 16%**. |
+| **2004** | **Central excise duty** included **Input Tax Credit (ITC)** in CENVAT. **State sales tax** included ITC → **State-Level VAT (SLVAT / SVAT)**. |
+
+**ITC (class):** manufacturer / service provider is **not** the final consumer. Tax paid on **inputs** is **credited** on the GST portal and set off against tax collected on output. Only the **net** is deposited. Final-consumer purchases (director’s home AC, own-room TV) get **no** credit.
+
+**Cascading** = past taxes **carried forward** until ITC. Class numerical: value added ₹100 + ₹50 + ₹50 = ₹200; 10% VAT → government gets **₹10 + ₹5 + ₹5 = ₹20** — tax **only on production / value addition**, not on the already-taxed earlier stage.
+
+**Inverted duty structure:** arises when **taxes on output are lower than taxes on input**, creating an **inverse accumulation of Input Tax Credit** which **in most cases has to be refunded**. Class purpose: so a rate-cut announcement (e.g. bikes **28% → 18%** from **22 September 2025**) does **not** freeze production for two months while dealers wait — government refunds the **input–output gap**.
+
+---
+
+## 23. Need of GST, dual structure, zero-rated, e-way (ECO-08-06)
+
+**Need of GST.** Despite having VAT, people were paying several additional taxes: **service tax, additional excise duty, countervailing duty, entertainment tax, entry tax, octroi** etc. Apart from this there was a **lack of proper coordination** between Centre and States in the **fixation of indirect tax**.
+
+So, in order to **scrap the multiple indirect-tax structure**, to introduce a **national-level VAT**, and to ensure proper Centre–State coordination in fixation of indirect taxes, government **replaced VAT with GST in July 2017**.
+
+**Already locked on SS Sir L1** (do not restudy): 1 July 2017; One Nation, One Tax; CGST + SGST equal; seven items still under VAT.
+
+**New on this sitting:**
+
+**Union Territory Goods and Services Tax (UTGST):** Union Territory **with** a legislative assembly → treat like **SGST**. Union Territory **without** a legislative assembly → **only UTGST**.
+
+**Dual structure:**
+
+- Goods and services **produced and consumed in the same State** → **CGST + SGST** collected (18% on ₹100 → ₹9 + ₹9).
+- Produced in **one State**, consumed in **another** → **Integrated Goods and Services Tax (IGST)** collected **first**, then divided in **equal proportions** between the **Centre** (as CGST) and the **consumer State** (as SGST).
+
+**SGST amount is always shared with the consumer State in India**, because GST is a **destination-based tax**.
+
+**Zero-rated status (exports):** Government of India does **not** levy GST on **exportable items**, but exporters can get the **ITC refund**. Since the entire process of export involves **zero GST**, exportable items in India have **zero-rated status**. **Imported items still attract GST** (class: in the form of IGST). Aim: make Indian exports **cheaper / more competitive** abroad.
+
+**E-way bill:** an **electronic document** generated on the **GST portal**, **GST app**, or even through **SMS**, evidencing the **movement of goods 10 km away** from the **point of sale or point of production**, valued **more than ₹50,000**. Earlier **only inter-State**; later **intra-State** also, still measured from the point of production/sale (within 10 km the seller can still verify). Aim: seamless transport — invoice, weight, bill number travel with the consignment.
+
+**GST tree on the sheet (names only today):** dual structure; destination-based; e-way bill; zero-rated status; **National Anti-Profiteering Authority (NAA)**; GST Council; compensation scheme; ITC / inverted duty; **GST Appellate Tribunal (GSTAT)**; **Reverse Charge Mechanism (RPM)**. Council / compensation / GSTAT / RPM = **next class**.
+
+To bring any of the remaining seven VAT items under GST, class: **75% voting** in the GST Council.
+
+---
+
+## 24. GST rates from 22 September 2025, NAA → CCI (ECO-08-07)
+
+**Before 22 September 2025** (sheet **22/9/25**; transcript once slipped to 2026 — lock the **sheet**): four slabs **5%, 12%, 18%, 28%**.
+
+**28%** held **luxury** (cars, bikes, private jets etc.), **sin goods** (tobacco, cigarettes, pan masala; **alcohol ×** — still under VAT), and **demerit goods** (petrol, diesel — **also ×**, still under VAT). Class mnemonic: **sin goods = internal pollution**; **demerit goods = external pollution**.
+
+**GST compensation cess** sat **on top** of 28% (class range **1–22%** of **value**, not tax-on-tax). Example: Mercedes = price + 28% + 22%. **Cess scrapped from 22 September 2025.**
+
+**22 September 2025 onwards:** **two** working slabs **5%** and **18%**, plus a **special rate of 40%** on fewer items. **99.99%** of items sit in 5 / 18. **All former 12% items move to 5%** (class examples: drip irrigation, sprinkler).
+
+| Now 18% (class examples) | Now special **40%** |
+|:---|:---|
+| **ACs**, **refrigerators**, **TVs beyond 32 inch** (earlier 28%) | Petrol cars **> 1200 cc** and **> 4 m** length |
+| Petrol cars **upto 1200 cc** and **4 m** length | Diesel cars **> 1500 cc** |
+| Diesel cars **upto 1500 cc** | Bikes **> 350 cc** |
+| Bikes **upto 350 cc** | **Sin goods**; **aerated drinks** |
+
+**Sin goods extra:** class — **12–30% additional tax** on top of 40% (not a cheapening vs the old 28% + cess stack). **Alcohol / petrol / diesel remain outside GST** until the Council votes them in; **when** they come they would sit at the **maximum** rate.
+
+Government bet: lower rate → **more quantity** purchased → revenue held up by volume, not by a higher rate.
+
+**National Anti-Profiteering Authority (NAA).** Constituted by the **Central government** after GST, to analyse whether **ITC credit** availed by any **registered person**, or a **reduction in tax**, is **passed on to the consumers**, and the public is protected from **random price increase** for self-interest **in the name of GST**. Class story: vegetable thali 18% → 5%; some sellers raised the base price so the bill stayed ₹118. Penalty / **six-month** licence suspension / permanent cancellation if not corrected. **For five years 2017–2022.** **In 2022 NAA was subsumed under the Competition Commission of India (CCI).**
+
+**GST Council** — heading on the sheet; **not taught today**. Next class.
+
+---
+
+## 25. Lecture 8 — UPSC Quick Recall
+
+1. **Vivad 2019 = Direct Tax** disputes. **Sabka = service tax + Central excise** now under GST. Sheet *IT* on Sabka = **Indirect Tax**, not Income Tax. **Both:** waiver of **interest / penalty** + **immunity from prosecution**. Sabka = **dispute resolution** (legacy cases, various forums) + **amnesty** (pay outstanding tax, no other consequences).
+2. **BAT** = proposed extra **border** duty on imports **on top of customs**, **destination**-based (sale to final consumer, not origin). NITI pitch = **level playing field**. Cousin to replace = **ADD**, not **CVD**. Duty = goods; service tax from **1 April 1994**.
+3. **SMA 0–89 days**; **NPA from 90 days**: substandard **90d–1y** / doubtful **1–3y** / lost **>3y**. Gross NPA **10.67% (2014) → 14% (2018) → ~1.70–1.72%**. **SARFAESI 2002** from **M.S. Verma** (ex-SBI). **ARC** buys NPA (RBI licence).
+4. **e-Bikray** Feb **2019**, FM, **PSBs only**, mortgaged NPA properties. **IBAPI** = IBA + Department of Financial Services. Replaced by **BAANKIT 3 January 2025** (sheet wrote 2021).
+5. VAT = goods, **same State**, every stage of the chain. **L.K. Jha 1986** (same MSP 1964 committee) → suggest **MANVAT** → **MODVAT 8/16/24** → **2000 CENVAT 16%** (Yashwant Sinha) → **2004 ITC** in CENVAT and **SLVAT**. **Inverted duty** = output tax **<** input tax → ITC pile, **usually refunded**.
+6. GST July **2017** scraps the VAT-plus-many-cesses stack. **Same State = CGST+SGST**; **inter-State = IGST first**, then **equal** split with the **consumer** State. **UT without assembly = UTGST**. Exports = **zero-rated** (no GST + **ITC refund**); **imports still GST**. **E-way:** portal / app / SMS; **10 km** from sale or production; value **> ₹50,000**.
+7. From **22 September 2025**: slabs **5% + 18%** + special **40%**; **compensation cess scrapped**; old **12% → 5%**. Small petrol **≤1200 cc / 4 m**, diesel **≤1500 cc**, bikes **≤350 cc** = **18%**; beyond that, sin goods, aerated drinks = **40%**. **NAA** Centre, 2017–22, then **CCI**. **GST Council / GSTAT / RPM / compensation scheme = next class.**
+
+---
+
+## Abbreviations used in Lecture 8
+
+| Shortcut | Full form |
+|:---|:---|
+| **DT / IDT** | Direct Tax / Indirect Tax |
+| **BAT** | Border Adjustment Tax |
+| **ADD** | Anti-Dumping Duty |
+| **CVD** | Countervailing Duty |
+| **WTO** | World Trade Organization |
+| **SMA** | Special Mention Account |
+| **NPA** | Non-Performing Asset |
+| **ARC** | Asset Reconstruction Company |
+| **RBI** | Reserve Bank of India |
+| **PSB** | Public Sector Bank |
+| **SBI** | State Bank of India |
+| **SARFAESI** | Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest |
+| **e-Bikray** | Electronic Banking Revenue Auction Yojana |
+| **BAANKIT** | e-bank asset auction network |
+| **IBAPI** | Indian Banks Auctions Mortgage Properties Information |
+| **IBA** | Indian Banks Association |
+| **VAT** | Value Added Tax |
+| **MANVAT** | Manufacturing Value Added Tax |
+| **MODVAT** | Modified Value Added Tax |
+| **CENVAT** | Central Value Added Tax |
+| **SLVAT / SVAT** | State-Level Value Added Tax |
+| **MSP** | Minimum Support Price |
+| **ITC** | Input Tax Credit |
+| **GST** | Goods and Services Tax |
+| **CGST / SGST / IGST / UTGST** | Central / State / Integrated / Union Territory GST |
+| **GSTAT** | GST Appellate Tribunal |
+| **RPM** | Reverse Charge Mechanism |
+| **NAA** | National Anti-Profiteering Authority |
+| **CCI** | Competition Commission of India |
+
+---
+
+<!-- 2026-09-15: Appended Lecture 8 (15/9) from transcript + 6 notebook pages — Vivad DT / Sabka IDT, BAT vs ADD/CVD, SMA–NPA–ARC–SARFAESI, e-Bikray→BAANKIT 3 Jan 2025, VAT MANVAT/MODVAT/CENVAT/ITC/inverted duty, GST dual/zero-rated/e-way, 22 Sep 2025 rates, NAA→CCI. GST Council/GSTAT/RPM/compensation parked. Cluster ECO-08. -->
+

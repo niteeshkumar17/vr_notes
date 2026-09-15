@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-15
-*   **Active Micro-Topics:** 631
+*   **Active Micro-Topics:** 638
 *   **Overall Database Mastery:** 79.0% 📈
 *   **Today's Recall Completed:** Ghost Recall **15 Sep** logged (**8/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-094` PFBR ≠ **Kudankulam 1000 MW PWR** (specs held; cousin blank). Leftover `MST-092` UNGA observers all three · `MST-082` Montford all three · `MST-076` Sohgaura · `MST-077` reversal+atmosphere · `MST-079` Rigvedic vs IVC 1-only · `MST-080` Mature 2600–1900.
-*   **New Topics Ingested Today:** **HIS-IVC2** + **ST-08** first-pass **held** → **+3 18 Sep**. **CA-260914** + **CA-260913** first-pass **held** → **+3 18 Sep**. **ENV-02 +7 held** → **+16 1 Oct**. If no 15 Sep class tonight, **16 Sep Q1–Q2 = GEO-13 + ECO-07** (14 Sep morning skipped).
+*   **New Topics Ingested Today:** **ECO-08** (15 Sep BS Sir tax L8) first-pass **Next Due 16 Sep Q1**. **HIS-IVC2** + **ST-08** first-pass **held** → **+3 18 Sep**. **CA-260914** + **CA-260913** first-pass **held** → **+3 18 Sep**. **ENV-02 +7 held** → **+16 1 Oct**. **16 Sep Q2 = leftover GEO-13** (14 Sep morning skipped). Do **not** steal Q1 for GEO-13.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -778,7 +778,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-07-03 | Equalisation Levy 6% Ads; ₹1 Lakh/yr Non-Resident; 1 Apr 2016; OECD BEPS Option | 3 | ★★★★★ | Day 1 | 2026-09-30 | 80% | Rising 📈 | 75% | 72% | 1 | 2 | 2026-09-14 | 2026-09-15 | Fast 🟢 | `Google/X/Facebook/YouTube` $\leftrightarrow$ `Offshore Billing` $\leftrightarrow$ `Koo No Tax = Vocal for Local` $\leftrightarrow$ `PE in India → Off` $\leftrightarrow$ `EL ≠ ITA chapter` $\leftrightarrow$ `No DTAA credit` $\leftrightarrow$ `MST-086 Held 15 Sep` $\leftrightarrow$ `CSE-2018-Q08` |
 | ECO-07-04 | DST = EL 2.0 2% Non-Resident E-comm; FA 2020 / 1 Apr 2020; Both Scrapped 1 Apr 2025 | 3 | ★★★★★ | Day 1 | 2026-09-14 | 80% | New | 60% | 58% | 0 | 0 | - | 2026-09-13 | Pending | `No Tangible Presence` $\leftrightarrow$ `USA/EU Cordial + Multiple DT + Exodus` $\leftrightarrow$ `Licence Taken / Offline Went Online` $\leftrightarrow$ `Evening 13 Sep held` |
 | ECO-07-05 | BEPS $100–240 bn / 4–10%; CbCR s.286(2); Thin Cap; Patent Box s.115BBF FA 2016 | 3 | ★★★★★ | Day 1 | 2026-09-14 | 80% | New | 60% | 58% | 0 | 0 | - | 2026-09-13 | Pending | `IP Tech + Life Science` $\leftrightarrow$ `Affiliate or Indian Parent + Destination` $\leftrightarrow$ `High Debt vs Own Capital` $\leftrightarrow$ `GAAR = L6 No Extra Day-1` $\leftrightarrow$ `CSE-2016-Q60 Held` |
-| ECO-07-06 | Faceless Assessment ITA 1961; No Officer–Taxpayer Face; Vivad/Sabka/BAT/e-Bikray Parked | 2 | ★★★★☆ | Day 1 | 2026-09-14 | 80% | New | 60% | 58% | 0 | 0 | - | 2026-09-13 | Pending | `Transparency Efficiency Accountability` $\leftrightarrow$ `Economies of Scale` $\leftrightarrow$ `Vivad = DT / Sabka = IDT` $\leftrightarrow$ `GST Next` $\leftrightarrow$ `Evening 13 Sep held` |
+| ECO-07-06 | Faceless Assessment ITA 1961; No Officer–Taxpayer Face; Vivad/Sabka/BAT/e-Bikray Parked | 2 | ★★★★☆ | Day 1 | 2026-09-14 | 80% | New | 60% | 58% | 0 | 0 | - | 2026-09-13 | Pending | `Transparency Efficiency Accountability` $\leftrightarrow$ `Economies of Scale` $\leftrightarrow$ `Vivad = DT / Sabka = IDT` $\leftrightarrow$ `GST extras = ECO-08` $\leftrightarrow$ `Evening 13 Sep held` |
+
+### Economy (Taxation L8 — Vivad/Sabka, BAT, e-Bikray, VAT/GST extras — 15 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-08-01 | Vivad 2019 DT disputes; Sabka IDT (ST+CX now GST); both waive interest/penalty + prosecution immunity | 2 | ★★★★★ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sabka sheet IT = Indirect Tax not Income Tax` $\leftrightarrow$ `Dispute resolution + amnesty` $\leftrightarrow$ `Legacy cases various forums` $\leftrightarrow$ `Pay outstanding tax only` $\leftrightarrow$ `L7 parked now here` |
+| ECO-08-02 | BAT proposed extra border duty on imports + customs; destination-based; cousin = ADD not CVD | 3 | ★★★★★ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NITI level playing field` $\leftrightarrow$ `Not introduced` $\leftrightarrow$ `Duty = goods; service tax 1 Apr 1994` $\leftrightarrow$ `CVD = foreign subsidy` $\leftrightarrow$ `ADD = sell below own-country price` $\leftrightarrow$ `L7 CVD swap wrong` |
+| ECO-08-03 | SMA 0–89d; NPA 90d: substd 90d–1y / doubtful 1–3y / lost >3y; SARFAESI 2002 MS Verma ex-SBI | 2 | ★★★★★ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gross NPA 10.67% 2014 → 14% 2018 → ~1.70–1.72%` $\leftrightarrow$ `ARC RBI licence buys NPA` $\leftrightarrow$ `Secured vs unsecured` $\leftrightarrow$ `PSBs only e-auction` |
+| ECO-08-04 | e-Bikray Feb 2019 FM PSBs mortgaged NPA; IBAPI IBA+DFS; BAANKIT 3 Jan 2025 | 2 | ★★★★☆ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Electronic Banking Revenue Auction Yojana` $\leftrightarrow$ `Photos/videos/Google Maps` $\leftrightarrow$ `State/district/bank search` $\leftrightarrow$ `Sheet wrote 3 Jan 2021 — year slip` |
+| ECO-08-05 | VAT goods same-State; LK Jha 1986 MANVAT→MODVAT 8/16/24→2000 CENVAT 16%→2004 ITC/SLVAT; inverted duty | 3 | ★★★★★ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Same MSP 1964 committee` $\leftrightarrow$ `Yashwant Sinha 2000` $\leftrightarrow$ `Output tax < input tax → ITC refund` $\leftrightarrow$ `Services = separate service tax` |
+| ECO-08-06 | GST dual CGST+SGST same State / IGST first then equal to consumer State; zero-rated exports; e-way 10 km >₹50k | 3 | ★★★★★ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UT without assembly = UTGST` $\leftrightarrow$ `Destination-based` $\leftrightarrow$ `Imports still GST` $\leftrightarrow$ `Portal/app/SMS` $\leftrightarrow$ `SS Sir L1 7 VAT items / equal split — no restudy` |
+| ECO-08-07 | 22 Sep 2025: 5+18+special 40; cess scrapped; NAA 2017–22 then CCI | 3 | ★★★★★ | Day 1 | 2026-09-16 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Old 12% → 5%` $\leftrightarrow$ `Petrol ≤1200cc/4m diesel ≤1500cc bike ≤350cc = 18%` $\leftrightarrow$ `Beyond + sin + aerated = 40%` $\leftrightarrow$ `Alcohol/petrol/diesel still VAT` $\leftrightarrow$ `GST Council/GSTAT/RPM parked` |
 
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -891,7 +902,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **16 Sep Q1–Q2:** **15 Sep classes** if ingested. Else leftover **GEO-13 + ECO-07** (14 Sep morning skipped). Do **not** steal a new class Q1–Q2
+  1. **16 Sep Q1:** **ECO-08** (15 Sep tax L8). Do **not** steal for leftover **GEO-13**. **Q2:** leftover **GEO-13** (14 Sep morning skipped). **ECO-07** is leftover / ladder, not Q1.
   2. **16 Sep Q3–Q6:** ladder **3 / 7 / 16**. Buffer skipped **SOC-03 + ST-07** (12 Sep pair never morning-recalled) if a slot
   3. **16 Sep Q8:** `MST-094` Kudankulam 1000 MW PWR · leftover `MST-092` UNGA observers
   4. Do **not** re-quiz `MST-019` until **16 Sep**. `MST-086`/`088`/`089`/`090`/`091`/`093` resolved 15-day **30 Sep**.
