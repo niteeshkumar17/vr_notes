@@ -7,7 +7,7 @@
 > **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 6 handwritten sheets (dated **11/9/26**) + class extent map  
 > **Paper:** **GS-I** (Ancient India). Town-planning Mains line was flagged in class (CSE 2025 Q1).  
 > **Continues:** `Ancient_India_Stone_Age.md` (Neolithic Revolution).  
-> **Parked:** **religion** (next class); decline theories / Aryan origin (do not fill the **1900–1500 BC** gap); iron-age features (Later Vedic); Saraswati debate (Vedic chapter); Dilmun / other Gulf names not dictated today.  
+> **Parked:** iron-age features (Later Vedic); Saraswati debate (Vedic chapter); Dilmun / other Gulf names not dictated. **Religion / decline / Late Harappan / artifacts = Lecture 3 (16 Sep).**  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 ---
@@ -99,8 +99,8 @@ Class asked for a **topic list** before the chapter. Taught today = naming, geog
 4. Timeline  
 5. Early Harappan / Regional cultures (**3300–2600 BC**)  
 6. Mature Harappan / Integration / Urban phase = **IVC (2600–1900 BC)**  
-7. Town planning · pottery · technology · script · agriculture · water management · trade *(14 Sep)* · religion *(next class)*  
-8. Theories of decline · Late Harappan / disintegration (**1900–1300 BC**) · artifacts · legacies · other Chalcolithic cultures *(later)*
+7. Town planning · pottery · technology · script · agriculture · water management · trade *(14 Sep)* · religion *(16 Sep)*  
+8. Theories of decline · Late Harappan / disintegration (**1900–1300 BC**) · artifacts · legacies · other Chalcolithic cultures *(16 Sep)*
 
 ---
 
@@ -113,7 +113,7 @@ Class asked for a **topic list** before the chapter. Taught today = naming, geog
 | **Harappan Civilization** | First discovered site = **Harappa**, on the **Ravi**, Sahiwal district, **West Punjab, Pakistan**. Discovered by **Daya Ram Sahni**, **1920/21**. A new site is compared with **Harappa’s features**. | **Most scientific / technical** name. Archaeology names a culture from the **first** discovered site (Oldowan ← Olduvai). |
 | **Indus Valley Civilization** | Majority of **early** sites were found on the **Indus river system**. | **Most used** name. Sir uses this in class. |
 | **Sindhu–Saraswati Civilization** | Majority of sites prospered on the **Indus** and **Ghaggar–Hakra**. Indus = **Sindhu**. **Ghaggar–Hakra** is identified as **Saraswati**. | **UPSC uses “Saraswati.”** Debate of which river = Vedic chapter. |
-| **Meluha** | **Mesopotamian** records (Iraq), **3rd millennium BC**: traders of Meluha came from the **east** with **cotton textiles and beads**. Description matches IVC traders. | **Could have been** their contemporary name. **Guess — no guarantee.** |
+| **Meluha** | **Mesopotamian** records (Iraq), **3rd millennium BC**: traders of Meluha came from the **east** with **cotton textiles and beads**. Description matches IVC traders. | **Could have been** their contemporary name. **Guess — no guarantee.** **16 Sep:** Mesopotamian sources **stop mentioning Meluha from 1900 BC** (Late Harappan / Lecture 3). |
 
 **Ghaggar–Hakra (class, not a Vedic essay):** two monsoon streams (north Rajasthan / Ghaggar, Sindh / Hakra) look separate because the middle is dry. Satellite: **one palaeo-channel**. Old channels of **Sutlej** and **Yamuna** once fed it → an enormous river. **Tectonic uplift / flood** created a watershed: Sutlej now joins the **Indus**, Yamuna the **Ganga**, Ghaggar–Hakra **declined**. Cultural memory at Allahabad / Prayag: Yamuna “brings Saraswati’s water” = **river capture**. For Prelims, **Saraswati** is the word UPSC used.
 
@@ -310,7 +310,7 @@ Flash F9 **missed** (`MST-080`). Mature / urban IVC = **2600–1900 BC**. **1900
 > **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 8 handwritten sheets (dated **14/9/26**)  
 > **Paper:** **GS-I**. Class flagged **CSE 2025** Mains (town planning / architecture) — reproduce these keywords, not a pretty sentence.  
 > **Continues:** Lecture 1 — 11 Sep (names, map, origin, phases). Cluster **HIS-IVC2**.  
-> **Parked:** **religion**; decline / Late Harappan; artifacts as a separate art-forms sitting (beads sketched only as industry).
+> **Parked then:** **religion**; decline / Late Harappan; artifacts. **Taught 16 Sep** as Lecture 3 (`HIS-IVC3`). Vedic Age is the next chapter.
 
 **How to read class shortcuts:** full form on first use. **GJ** = Gujarat; **HR** = Haryana; **RJ** = Rajasthan; **OCP** = Ochre Coloured Pottery. Glossary at the end.
 
@@ -556,6 +556,8 @@ IVC prospered in a **semi-arid** region with **monsoon dependence**, so they pra
 | **Ahar** (Udaipur / Rajsamand, **Banas** → Chambal) | **Copper** — class: majority of their copper; **Aravalli** / **Khetri** colour |
 | **Ochre Coloured Pottery (OCP)** culture | **Copper** |
 
+> **16 Sep (Lecture 3):** Ganeshwar / Ahar / OCP are also **Mature-contemporary Chalcolithic cultures** (`HIS-IVC3`). Harappan **beads** are found in them. Same copper map — do not restudy as a new origin.
+
 **Lapis lazuli is not found in India** — they **import the stone** and can **export it as beads**.
 
 <div style="overflow-x:auto;">
@@ -614,9 +616,9 @@ IVC prospered in a **semi-arid** region with **monsoon dependence**, so they pra
 
 ---
 
-## 15. Religion — parked
+## 15. Religion — taught 16 September (Lecture 3)
 
-Heading only. Next class. Class: BRICS week slowed the sitting; do **not** compare batch class-counts — compare **syllabus**.
+See **Lecture 3** below (`HIS-IVC3`). Do not restudy town planning / trade as a new topic.
 
 ---
 
@@ -624,16 +626,204 @@ Heading only. Next class. Class: BRICS week slowed the sitting; do **not** compa
 
 | Short | Full |
 |:---|:---|
+| AIT | Aryan Invasion Theory |
+| ASI | Archaeological Survey of India |
 | BMAC | Class name for a **different** culture around Shortughai (full form not dictated) |
+| BRW | Black and Red Ware |
 | CPEC | China–Pakistan Economic Corridor (Gwadar place-name only) |
 | GJ | Gujarat |
 | HR | Haryana |
 | IVC | Indus Valley Civilization |
-| OCP | Ochre Coloured Pottery |
+| MH | Maharashtra |
+| MP | Madhya Pradesh |
+| OCP | Ochre Coloured Pottery (also Copper Hoard culture) |
 | RJ | Rajasthan |
 | UP | Uttar Pradesh |
+
+---
+
+### Lecture 3 — 16 September 2026
+
+> **Date of Lecture:** 16 September 2026  
+> **Date Added:** 2026-09-16  
+> **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 7 handwritten sheets (dated **16/9/26**)  
+> **Paper:** **GS-I**. Cluster **HIS-IVC3**.  
+> **Continues:** Lecture 2 — 14 Sep (town planning → trade).  
+> **Parked:** **society** as a separate heading (class: archaeology first, then infer; script is undeciphered). **Vedic Age** = next chapter. Cemetery **H** named; do not invent a full burial typology.
+
+**Already in Lectures 1–2 — do not restudy:** Mature IVC **2600–1900 BC**; Late / disintegration **1900–1300 BC** (`MST-080`); people lived, urbanization declined; houses around a **central courtyard** / **swastika** / **sindoor** / **dhoti** / **yoga** as continuing traditions (Lecture 1); **Ganeshwar / Ahar / Ochre Coloured Pottery (OCP)** as **copper** suppliers (Lecture 2 trade map); Chanhudaro beads; **no midrib** on IVC weapons (hunting/agri).
+
+**How to read class shortcuts:** **OCP** = Ochre Coloured Pottery; **BRW** = Black and Red Ware; **AIT** = Aryan Invasion Theory; **GJ** = Gujarat; **RJ** = Rajasthan; **MH** = Maharashtra; **MP** = Madhya Pradesh.
+
+---
+
+## 16. Religion (HIS-IVC3-01)
+
+**No religious building** belonging to the Indus Valley Civilization (IVC) has been discovered. Class flag: a **2015**-style true/false — temples **and** palaces of IVC are found — **false** (neither).
+
+**Mother Goddess.** Female statues from various cities, identified as a mother goddess, **perhaps** worshipped for **fertility**. Upper half of the body **unclothed**; **heavy jewellery** — **double necklace**, **headband with jewels on the forehead**. Uniform iconography → treated as religious (toys are mixed types).
+
+**Features of Shiva worship** found: **Pashupati**, **trident (trishul)**, **yogi**, **linga worship**, **humped bull**.
+
+**Pashupati seal (Mohenjo-daro).** A man in **yogic posture** (**mulabandhasana** — heels joined, sitting on the heels), wearing a **trident**, **surrounded by animals**. Named **Pashupati seal** by **John Marshall** (not an Indian scholar). Animals named in class include elephant, tiger, deer / chital. Various other statues and seals also show **yogic postures** → **yoga in IVC**.
+
+**Linga:** objects identified as **shivalinga** (male + female sexual organs). Class: if the exam asks whether lingas are found, the answer taught is **yes** (ASI identification). Some could be random objects — still write the class identification.
+
+**Fire worship.** Rites / fire altars; materials and bones → **sacrificial** festivals.
+
+**Swastika** on pots and seals = **auspicious** sign.
+
+**Trees.** Most prevalent = **peepal**.
+
+**Animals.** Most prevalent = **humped bull** and **unicorn**. Unicorn in class = **Brahmani bull** (**Bos indicus**).
+
+**Water tanks** near religious places → **ceremonial bath**. Example: **Great Bath of Mohenjo-daro** — **citadel**; **bricks**; sheet also **bitumen / tar**; **surrounded by rooms**; **steps into the water**. **Not** a drinking tank (citadel lift; drinking tanks do not invite people in).
+
+**Dead.** Both **burial and cremation**. **Secondary burials** also (bones after cremation — class analogy: Buddhist stupas). Both **specialised and unspecialised** burials.
+
+---
+
+## 17. Three readings of continuity (HIS-IVC3-02)
+
+Same features; three names. Do **not** pick a “sir’s view” in the exam — give the **name**.
+
+| Scholar | Lock | Aryan story |
+|:---|:---|:---|
+| **Mortimer Wheeler** (Archaeological Survey of India (ASI) head, **1940s**; vertical digging to get a timeline) | Harappans worshipped **Shiva as main god**. Defeated and destroyed by **Indra-worshipping Aryans**. Aryans **adopted** especially **Shiva** worship. Class quip: Indra won the short term; Shiva the long term — **not** an accepted historical proof. | **Invasion** |
+| **B.B. Lal** (joined Wheeler young; later Hastinapur / Painted Grey Ware (PGW) work — Vedic chapter) | Harappan religion **was Vedic religion (Hinduism)**. | Same people / no adoption story |
+| **Iravatham Mahadevan** (linguist) | Harappan religion and culture = **early Dravidian**. Aryans **migrated** in, **adopted** features. | **Migration** (not invasion) |
+
+---
+
+## 18. Theories of decline (HIS-IVC3-03)
+
+Wrong theories are still taught because they were **early searches**. Write each in two sentences, then the class lock.
+
+| # | Theory | Why it fails (class) |
+|:---|:---|:---|
+| **1** | **Aryan Invasion Theory (AIT)** — Wheeler: IVC **destroyed and ended** by Aryan invasion | Archaeology does **not** support: **no** destroyed cities / citadels; **no** large-scale injured dead; **Aryan weapons not found**. |
+| **2** | **Flood** — rivers destroyed the cities | Majority of cities were built **high enough** that a flood could **not** destroy them. |
+| **3** | **Tectonic** — uplift at the **mouth of the Indus** drowned upstream cities | Does **not** satisfy hydrological models (would have **eroded the coast**). |
+| **4** | **Change in river course** — large-scale abandonment | **No** proof of large-scale course change **after 1900 BC**. Some rivers may have shifted; Harappans **already knew** how to live with shifting courses. |
+| **5** | **Rising Saraswati aridity** — decline of **Ghaggar–Hakra** killed IVC | Chronology does **not** match: when IVC **prospered**, Saraswati was **already declining** (elaborate **rainwater harvesting**). |
+
+**Class lock — ecological decline** (process, not one-day disaster):
+
+```mermaid
+flowchart LR
+  P["Proto-urban"] --> U["Urban / Mature IVC"]
+  U --> E["Ecological + agrarian decline"]
+  E --> D["Deurbanization · localism · rural Chalcolithic cultures"]
+```
+
+For the last few **thousand** years they grew the **same crops** with the **same agrarian practices** → **soil fertility** fell. Rising **human and animal** population **depleted forest and grassland**. Agrarian output fell → **trade and commerce** fell → majority **migrated out** of cities and **merged** with nearby Chalcolithic cultures. Remaining city-dwellers lacked resources to **maintain urbanization**.
+
+Single-cause **aridity / flood / “agrarian only”** are marked **fail** on the sheet. The lock is the **combined ecological–agrarian process**.
+
+---
+
+## 19. Late Harappan phase — 1900–1300 BC (HIS-IVC3-04)
+
+Sheet margin: **not that important** as a separate “civilization” — it is **disintegration and deurbanization** of the same people.
+
+Urban features start to disappear: **straight roads / grid**, **sewage**, **script**, **mass production** (beads, seals, etc.).
+
+New houses on the **mound of debris**, using **bricks of older buildings**. Cities become **unplanned slums**; people even occupy old toilets. Public kit falls into **disuse**: sewage, citadel, granary, water tanks. Trade tools and commerce decline. **Mesopotamian sources stop mentioning Meluha from 1900 BC**.
+
+Inter-city trade falls → **uniformity** among settlements falls. North-western India becomes a region of **various local, indigenous, rural Chalcolithic cultures**.
+
+**Cemetery H** (named from a Harappa mound numbered **H**): a **2nd-millennium** burial culture with a distinctive cemetery — Late Harappan horizon, not a new invasion story.
+
+This **fills the urban end** of Lecture 1’s board. It still does **not** fill the **opaque 1900–1500** gap with an Aryan-arrival novel (`MST-080` / Lecture 1). People continued; **the city** did not.
+
+---
+
+## 20. Artifacts (HIS-IVC3-05)
+
+### Metal — lost-wax / *madhuchchista*
+
+Centre of metal-working on the sheet: **Lothal** (Gujarat (GJ) / west of **Chanhudaro**). Technique = **lost wax** (European name). Ancient / Sanskrit name **madhuchchista** (wax from **honey**). Class extra, not yet asked: **Dhokra** (Jharkhand–Bengal region; Ministry of Culture named the craft on the tribe).
+
+Method: wax model → clay mould → heat, **lose the wax** → pour metal → break the mould. Delicate patterns survive.
+
+| Piece | Lock |
+|:---|:---|
+| **Dancing girl** of **Mohenjo-daro** | **Bronze** |
+| **Humpless bronze bull** of **Mohenjo-daro** | Bronze |
+| **Daimabad hoard** (Ahmednagar region, **Maharashtra (MH)** — southern edge already on Lecture 1 map) | Bronze collection: **cart with driver**, **elephant**, **rhino**, **buffalo**, etc. |
+
+### Stone
+
+- **Male torso**, Harappa — **red sandstone**
+- **Male dancer**, Harappa — **grey sandstone**  
+  Both have **sockets** to fit **head, arms and legs**.
+- **Priest-king** of Mohenjo-daro = **bearded nobleman**
+- Humpless bull also in stone at Mohenjo-daro (sheet)
+
+### Pottery, beads, toys
+
+Harappan pottery: **black paintings** — geometric + natural (plants, animals). Already Lecture 2 ware — no restudy.
+
+**Beads** = prominent industry and a **main export** (Lecture 2). Materials: stone, metal, terracotta, bone, pearls, shells, ivory; many shapes and sizes.
+
+**Toys:** various **stone and terracotta** objects identified as toys. Uniform iconography → religious; mixed types → toy.
+
+### Seals — main source of knowledge
+
+Script, religion, animals, plants, society. Materials: stone, metal, terracotta, ivory, clay; many shapes and sizes.
+
+**Three types:** (1) **knob** to hold a **string**; (2) **holes** to pass a **thread**; (3) **neither**.
+
+**Uses (perhaps):** identity card; **branding / logo**; packaging; **financial instrument** (barter IOU — bring the seal back for grain); **amulet**.
+
+Unicorn on seals is **not** a one-horn rhino (does not match). Horse-with-fake-horn theories **fail** in class.
+
+---
+
+## 21. Other Chalcolithic cultures; legacies (HIS-IVC3-05 continued)
+
+**3rd millennium BC** — contemporary of **Mature** Harappan. **Trade** with IVC (Harappan **beads** found). Copper to IVC from **Aravallis / Khetri** already Lecture 2.
+
+| Culture | Class place |
+|:---|:---|
+| **Ganeshwar** | **Sikar**, Rajasthan (RJ) — now also named as its **own** culture |
+| **OCP / Copper Hoard** | Upper Ganga; orange / *geru* pottery; **Sinauli** chariot is this horizon. **B.B. Lal:** if any culture is **Aryan contemporary** of Harappans, it is this one — **do not** turn that into a proved AIT |
+| **Ahar = Banas** | **Udaipur / Rajsamand**, banks of **Banas** |
+| **Kayatha** | **Shipra** (Chambal); near **Ujjain**, Madhya Pradesh (MP) |
+| **Savalda** | between **Narmada and Tapi**; **Dhule**, MH |
+
+**2nd millennium BC** — contemporary of **Late** Harappan. Sheet + dictation: **Prabhas**, **Rangpur**, **Jorwe**, **Malwa**, **OCP continues**, **Black and Red Ware (BRW)**, **Cemetery H**. Prelims names if asked: **Malwa, Jorwe, OCP**.
+
+**Legacies** (decline = **deurbanization**; people, culture, religion **continued** — even now):
+
+- Houses around a **central courtyard**
+- Worship: **Shiva** features, **female deities**, **humped bull**, **peepal**
+- **Swastika**
+- **Sindoor**
+- **Single unstitched cloth** (dhoti / *veshti* / lungi — trousers = later, Kushan in class)
+- **Mark on the forehead** of males and females (tilak / bindi)
+- **Bangles** — men **and** women
+- Religious **bronze** statues later (Pallava / Chola named as the line)
+- **Lost-wax** technique
+- **Yoga**
+
+**Society** was **not** a separate lecture. If a Mains stem asks society, start from **archaeology** (grid, seals, jewellery, Great Bath) then infer. Next heading on the board: **Vedic Age**.
+
+---
+
+## Lecture 3 — UPSC Quick Recall
+
+1. **No IVC temple or palace** discovered. Mother Goddess = fertility; jewellery, unclothed upper half.
+2. **Pashupati seal** = Marshall; yogic posture + trident + animals. Linga, fire altars, peepal, humped bull + unicorn (Brahmani / *Bos indicus*), swastika.
+3. **Great Bath** = citadel ceremonial tank (bricks + rooms; not drinking). Burial **and** cremation; secondary burials too.
+4. **Wheeler** = Shiva main god, Indra-Aryans destroy, adopt Shiva (**invasion**). **B.B. Lal** = Harappan **was** Vedic/Hindu. **Mahadevan** = early **Dravidian**, Aryans **migrate** and adopt.
+5. AIT / flood / tectonic / river-course / Saraswati-aridity **fail**. Lock = **ecological + agrarian** process → deurbanization.
+6. **Late Harappan 1900–1300** = grid/sewage/script/mass production fade; slums on mounds; Meluha drops out of Mesopotamian records. **Not** an Aryan-arrival novel.
+7. Metal = **lost wax / madhuchchista**. **Dancing girl** bronze; **Daimabad hoard**. Seals = three fittings; uses include **barter token**.
+8. Mature contemporaries: **OCP, Ganeshwar, Ahar/Banas, Kayatha, Savalda**. Late: **Jorwe, Malwa, Prabhas, Rangpur, BRW, Cemetery H**.
 
 <!-- 2026-09-11: Vijender Singh — Chalcolithic Age (substantial copper; Bronze Age worldwide ≠ India tin-scarce); IVC start: four names, cardinal geography + Lothal dockyard + Shortughai, indigenous origin, four phases + four regional cultures. Town planning parked. One cluster HIS-IVC. -->
 <!-- 2026-09-14: Vijender Singh L2 — town planning (grid, 1:2:4 bricks, toilets, sewage, utilitarian/egalitarian), Harappan ware, metallurgy + hexadecimal/decimal weights, Chanhudaro beads, script theories, agri + four irrigations, Dholavira rainwater, trade map. Religion parked. Cluster HIS-IVC2 due 15 Sep. -->
 <!-- 2026-09-14 evening: MST-088 Gujarat stone; MST-089 Lothal horizontal sewage; MST-090 CSE-2021-Q32 Dholavira ≠ Kalibangan; CSE-2026-Q08 1+2 held; CSE-2021-Q37 2+3 held. Still Q1 15 Sep. -->
+<!-- 2026-09-16: Vijender Singh L3 — religion (no temple; Pashupati Marshall; Great Bath), Wheeler/Lal/Mahadevan, decline theories + ecological lock, Late Harappan 1900–1300, artifacts/lost wax/seals, other Chalcolithic, legacies. Cluster HIS-IVC3 due 17 Sep Q2. -->
 
