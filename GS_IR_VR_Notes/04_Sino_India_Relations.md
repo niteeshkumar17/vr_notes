@@ -115,7 +115,7 @@ Wherever the British left, they left a **permanent dispute** (India–Pakistan, 
 | Year | Person | Lock |
 |:---|:---|:---|
 | **1865** | **Johnson** | Surveyed **Aksai Chin**; concluded it was part of the princely state of **Jammu and Kashmir**. **India favours the Johnson line.** |
-| **1893** | **McDonald / McDonnell** (British ambassador to China) | Map showed Aksai Chin as **China**. **China favours this line.** Britishers **did not resolve the ambiguity**. |
+| **1893** | **McDonald / McDonnell** (**British** ambassador **to** China — **not** a Chinese ambassador) | Map showed Aksai Chin as **China**. **China favours this line.** Britishers **did not resolve the ambiguity**. |
 | **1913–14** | **Sir Henry McMahon**, Simla Conference | Aim: demarcate **Assam–Tibet**. Chinese **boycotted** (said talks must be British–Chinese, not British–Tibetan). McMahon ignored them, pushed the line, produced the **McMahon Line**. China: **colonial imposition**, does **not** recognise it; claims **entire Arunachal** as **Zangnan / South Tibet**. |
 
 After **1857**, princely states under British **paramountcy** (foreign + defence = British). J&K was a princely state; once it joined India, Johnson’s Aksai Chin came with it — that is India’s case.
