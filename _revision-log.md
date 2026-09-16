@@ -80,6 +80,7 @@
 | GS_Geography_VR_Notes | 03 — Climatology L10 (Ferrel 1856 / planetary winds) | 2026-09-16 | 3 | 70.0% | 2026-09-19 | Somewhat | 2024 | Ferrel 1856 + 7 belts / 4 types **held**. Invert blank (`MST-098`): belts = **combined**; heat-only **inverts 30/60**. Cluster **+3 19 Sep**. Cells / Walker / ITCZ = **L11 GEO-14**. |
 | GS_Geography_VR_Notes | 03 — Climatology L11 (cells / Walker / ITCZ) | 2026-09-16 | 0 | 0% | 2026-09-17 | New | - | **GEO-14** first-pass **Q1 17 Sep**. Thermally direct vs indirect. Pressure **cells** not belts. Walker = **E–W**. Belts **5–10°** / cells **2–20°**. ITCZ = thermal equator. Doldrums / Horse Lat parked. |
 | GS_History_VR_Notes | Ancient India — IVC L3 religion / decline / artifacts (16 Sep) | 2026-09-16 | 0 | 0% | 2026-09-17 | New | - | **HIS-IVC3** first-pass **Q2 17 Sep**. No temple/palace. Pashupati = Marshall. Wheeler/Lal/Mahadevan. Ecological decline lock. Late **1900–1300** = deurbanization. Lost wax / seals / OCP–Jorwe contemporaries. |
+| Current_Affairs | 16 September 2026 (UPI MDR / August trade / Kishau) | 2026-09-16 | 0 | 0% | 2026-09-17 | New | - | **CA-260916** first-pass **Q3 17 Sep** (do not steal class Q1–Q2). NPCI **0.4%** above ₹2,000 from **15 Oct**. Merchandise exports **26%**; deficit **$9.4 bn**. Kishau **422 MW** / **Tons** / Centre **~90%**. GDP extras on **ECO-02-02**; IFAD on **GEO-08-07**. |
 | GS_IR_VR_Notes | 04 — Sino–India Part 1 (Varma Sir L4, 15 Sep) | 2026-09-16 | 1 | 85.0% | 2026-09-19 | Somewhat | - | First-pass **held**. `MST-097`: McDonald = **British** ambassador **to** China, not Chinese. LoC ≠ LAC / 3 Ds / Galwan no gap held. Cluster **+3 19 Sep**. |
 | GS_Economy_VR_Notes | 03 — Taxation L8 (Vivad/Sabka, BAT, e-Bikray, VAT/GST extras) | 2026-09-16 | 1 | 40.0% | 2026-09-19 | Somewhat | - | Q1 incomplete (`MST-095` 1+3+4 / *IT*=IDT / BAT=ADD; `MST-096` 22 Sep 2025). Waiver+immunity held. Untested 03–06 **+3 19 Sep**. |
 | GS_Economy_VR_Notes | 03 — Taxation L7 (windfall / EL–DST / BEPS toolkit) | 2026-09-15 | 3 | 90.0% | 2026-09-30 | Confident | 2016, 2018 | `MST-086` **held** Ghost Recall after repeat 2 (not ITA; no DTAA). `MST-085` already 15-day **29 Sep**. |
@@ -118,7 +119,7 @@
   - *MST-097 / McDonald:* **British** ambassador **to** China — not Chinese.
   - *MST-098 / belts invert:* combined heat+rotation; heat-only **inverts 30°/60°**. Wrote “dynamics” only.
 - **Resolved:** `MST-094` Kudankulam; `MST-092` UNGA all three. 15-day **1 Oct**.
-- **Ghost Recall 17 Sep:** **Q1 GEO-14** (16 Sep climatology L11) · **Q2 HIS-IVC3** (16 Sep Ancient L3). Do **not** steal a new class Q1–Q2. **Q8:** `MST-095` / `MST-096` / `MST-097` / `MST-098`. Leftover Art **341** / joint electorate / `MST-019` Zanskar if a slot.
+- **Ghost Recall 17 Sep:** **Q1 GEO-14** (16 Sep climatology L11) · **Q2 HIS-IVC3** (16 Sep Ancient L3). **Q3** if a slot: **CA-260916** (UPI MDR / August trade / Kishau). Do **not** steal a new class Q1–Q2. **Q8:** `MST-095` / `MST-096` / `MST-097` / `MST-098`. Leftover Art **341** / joint electorate / `MST-019` Zanskar if a slot.
 
 ### Session 41 — 2026-09-15 (Ghost Recall)
 - **Subject:** HIS-IVC2, ST-08, CA-260914, CA-260913, ENV-02 +7, MST-086/088/089/090/091/093/094

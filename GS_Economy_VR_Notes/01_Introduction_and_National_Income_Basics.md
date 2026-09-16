@@ -419,6 +419,28 @@ Total money value (**Quantity × Price**) of all final goods and services produc
   2. It should neither be **too new** (inflation can't be properly analyzed if it's too close) nor **too old** (many new types of goods/services may not be valued correctly). Ideally, it should be revised every 7–8 years, with a minimum 3-year gap.
 - **Current Base Year for India:** **2022-23** (Revised from 2011-12, implemented since 2026 based on the recommendation of the **Vishwanath Goldar Committee**).
 
+### Update — 16 September 2026 (*The Hindu* — GDP base revision)
+
+**Saibal Chattopadhyay** (Chairman, **National Statistical Commission (NSC)**) and **Saurabh Garg** (Secretary, **Ministry of Statistics and Programme Implementation (MoSPI)**). Press Release **27 February 2026** on the **New GDP Series**. Base **2022–23** stays the class lock.
+
+Changing the base year also changes **how large** the economy looks in rupee terms (**nominal GDP**). International practice: revisions can go **up or down**. Other rebases named: Nigeria **2014**, Indonesia **2014**, Brazil **2015**, South Africa **2018**, Mexico **2019**, China **2021**, Spain **2024**. India already did this shifting **2004–05 → 2011–12**.
+
+**Overlap years (both series):** nominal GDP revised **down** about **2.7%** in **2022–23**, **3.5%** in **2023–24**, **3.8%** in **2024–25**. **World Bank** *India Development Update* (**April 2026**): about **3–4%** down in each of **four years from FY23**, mainly a **reassessment of the informal / unincorporated** economy.
+
+Do **not** read only the headline cut. Sector picture (clip):
+
+| Revised **up** | Revised **down** |
+|:---|:---|
+| Agriculture and allied **~3.8–5.9%** | Trade + transport + storage **~23–26%** |
+| Financial services, real estate, professional services, ownership of dwellings **~7.8–9.0%** | Trade **GVA** **36%**; road transport **16.9%** |
+| Hotels and restaurants GVA **+5.7%** (unincorporated) | |
+
+**Why the unincorporated number moved:** **2011–12** series **benchmark + proxy** indicators. New series: **Annual Survey of Unincorporated Sector Enterprises (ASUSE)** and **Periodic Labour Force Survey (PLFS)** — more **direct**. Revisions in that sector are **not uniform**.
+
+Quarterly / provisional GDP is built from last year’s quarter, then updated with **GST** collections and **industrial production**. Revising **FY 2022–23** under the new method **carries forward**. That does **not** mean the economy suddenly shrank.
+
+**Trap:** headline **down** ≠ every sector down. **Nominal size** changed; **real growth** is a different question. Goldar / **2022–23** still the class base year.
+
 ---
 
 ## ECO-02-03: Final vs Intermediate Goods and Depreciation
@@ -487,6 +509,7 @@ Individuals who **ordinarily reside** in a country and their **centre of economi
   * <span style="color: #e53e3e;">**Product Taxes/Subsidies:** Directly dependent on volume per unit of product (e.g., GST, Excise Duty, Custom Duty, Sales Tax, Service Tax). Fertilizer subsidy to *farmers* is production; to *fertilizer companies* is product.</span>
   * Full class: **Lecture 04 — 2 September 2026** below.
 
+<!-- 2026-09-16: Hindu GDP rebase extras (overlap %; ASUSE/PLFS; informal) patched on ECO-02-02. No extra Day-1. -->
 <!-- 2026-08-09: Added GVA Production vs Product Taxes distinction post evening quiz -->
 <!-- 2026-08-07: Created ECO-02-01 to ECO-02-05 based on Lecture 2 notes. -->
 

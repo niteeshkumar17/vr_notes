@@ -250,6 +250,18 @@ Three legal doors:
 
 Collective farming **raises produce size** → **bargaining power** (the 5 litres of surplus milk vs Amul moving the consumer price). It also lets a **machine be used on a large pooled field**.
 
+### Update — 16 September 2026 (*The Hindu* — IFAD smallholders)
+
+**Marc de Sousa-Shields**, Country Director, **International Fund for Agricultural Development (IFAD)**. IFAD = specialised **UN** agency; nearly **five decades** of IFAD–India partnership; **only** international financial institution **devoted to rural transformation**; presence in **92** countries.
+
+Clip lock matches this class: roads / irrigation / power / digital **matter**, but they change lives when farmers **organise into collectives** (bargaining power, finance, technology, markets). Isolated projects are not enough.
+
+**IFAD–India eight-year strategy** launched **May 2026**, aligned with **Viksit Bharat@2047**. Ecosystem named: government, NGOs, private firms, **Agri Stack**, **NABARD**, SHGs, FPOs, cooperatives, MSMEs.
+
+Examples (clip, not a new map to mug): SHGs + commercial credit, **Maharashtra**; hub-and-spoke, **Meghalaya**; youth- and women-led **FPO** enterprises, **Uttarakhand**; climate-resilient **Zau** farming, **Mizoram**; young people in **Jammu and Kashmir**.
+
+**Trap:** IFAD is **not** the World Bank / FAO under another name. **Zau** is the Mizoram example on this clip. **No extra Day-1.**
+
 ---
 
 ## 8. Custom Hiring Centres (GEO-08-08)
@@ -296,7 +308,10 @@ Collective farming **raises produce size** → **bargaining power** (the 5 litre
 | **SS Sir** | Shyam Sundar Sir (Economy — land reforms in depth) |
 | **EM3** | EM3 Agri Services (Gold Farm) |
 | **SMS** | Straw Management System (on the 30 Aug note: Super SMS) |
+| **IFAD** | International Fund for Agricultural Development (UN; 16 Sep Hindu patch) |
+| **NABARD** | National Bank for Agriculture and Rural Development |
 
 ---
 
+<!-- 2026-09-16: Hindu IFAD smallholders / collectives / May 2026 strategy patched on GEO-08-07. No extra Day-1. -->
 <!-- 2026-09-02: Geography lecture 3 — features of Indian agri (rainfed, irrigation map, Warabandi, tubewell, farm size, land reforms brief, FPO, custom hiring). GHG close of lecture 2 patched on 05. -->
