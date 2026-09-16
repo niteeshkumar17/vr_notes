@@ -1812,48 +1812,135 @@ Class usually starts by **assuming Subtropical High Pressure Belt (STHPB)** is g
 Draw **Northern Hemisphere** cells at home the same way. Southern loops follow.
 
 <div style="overflow-x:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 640" role="img" aria-label="Ferrel three cells on the left of the globe: Hadley, Ferrel, Polar. Tropopause slopes from equator to poles." style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 730" role="img" aria-label="Ferrel three-cell model: closed Hadley, Ferrel and Polar loops on the left of the globe. Air rises at low-pressure belts and sinks at high-pressure belts. Tropopause slopes from 16 to 18 km at the equator down to 8 to 10 km at the poles. Surface winds on the globe as in Lecture 10." style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:740px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <defs>
-<marker id="l11Head" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e3a8a"/></marker>
+<marker id="l11w" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#1e3a8a"/></marker>
+<marker id="l11h" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#1d4ed8"/></marker>
+<marker id="l11f" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#b45309"/></marker>
+<marker id="l11p" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#0f766e"/></marker>
+<clipPath id="l11Globe"><ellipse cx="355" cy="355" rx="150" ry="252"/></clipPath>
 </defs>
-<rect x="1" y="1" width="678" height="638" fill="#fff" stroke="#cbd5e1"/>
-<text x="340" y="26" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">Lecture 11 — cells on Ferrel’s globe</text>
-<text x="340" y="46" text-anchor="middle" font-size="12" fill="#64748b">Hadley / Ferrel / Polar · tropopause declines eq → pole</text>
-<ellipse cx="360" cy="330" rx="150" ry="250" fill="#f8fafc" stroke="#0f172a" stroke-width="1.8"/>
-<ellipse cx="360" cy="330" rx="150" ry="34" fill="none" stroke="#94a3b8" stroke-dasharray="5 4"/>
-<text x="360" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
-<text x="360" y="198" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">L</text>
-<text x="360" y="268" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
-<text x="360" y="336" text-anchor="middle" font-size="15" font-weight="700" fill="#b91c1c">L</text>
-<text x="360" y="406" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
-<text x="360" y="476" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">L</text>
-<text x="360" y="556" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
-<g fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
-  <path d="M 210 330 C 175 300 175 250 210 268" marker-end="url(#l11Head)"/>
-  <path d="M 210 268 C 175 250 175 210 210 198" marker-end="url(#l11Head)"/>
-  <path d="M 210 198 C 168 175 155 130 210 118" marker-end="url(#l11Head)"/>
-  <path d="M 210 330 C 175 360 175 390 210 406" marker-end="url(#l11Head)"/>
-  <path d="M 210 406 C 175 430 175 460 210 476" marker-end="url(#l11Head)"/>
-  <path d="M 210 476 C 168 505 155 540 210 556" marker-end="url(#l11Head)"/>
+<rect x="1" y="1" width="738" height="728" fill="#fff" stroke="#cbd5e1"/>
+<text x="370" y="24" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">Lecture 11 — Ferrel’s cells (closed loops)</text>
+<text x="370" y="44" text-anchor="middle" font-size="12" fill="#64748b">rise at L · sink at H · tropopause = the three cell-tops (16–18 km eq → 8–10 km poles)</text>
+
+<!-- tropopause lid (sloping) -->
+<path d="M 268 118 C 210 175 155 250 142 355 C 155 460 210 535 268 592" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="128" y="348" transform="rotate(-90,128,348)" font-size="11" fill="#64748b">tropopause</text>
+<text x="96" y="132" font-size="10" fill="#64748b">8–10 km</text>
+<text x="78" y="360" font-size="10" fill="#64748b">16–18 km</text>
+<text x="96" y="600" font-size="10" fill="#64748b">8–10 km</text>
+
+<!-- NH Polar cell: pole H 118 ↔ 60° L 198 -->
+<path d="M 250 130 C 215 128 198 155 205 198 C 228 200 255 175 268 132 Z" fill="#ccfbf1" fill-opacity="0.55" stroke="#0f766e" stroke-width="1.7"/>
+<path d="M 255 145 L 230 185" fill="none" stroke="#0f766e" stroke-width="2" marker-end="url(#l11p)"/>
+<path d="M 218 175 L 248 138" fill="none" stroke="#0f766e" stroke-width="2" marker-end="url(#l11p)"/>
+<text x="88" y="118" font-size="12" fill="#0f766e">Polar cell</text>
+<text x="88" y="134" font-size="10" fill="#0f766e">thermally direct</text>
+
+<!-- NH Ferrel cell: 60° L 198 ↔ 30° H 272 -->
+<path d="M 248 210 C 188 205 168 240 178 272 C 220 278 258 248 268 218 Z" fill="#ffedd5" fill-opacity="0.6" stroke="#b45309" stroke-width="1.7"/>
+<path d="M 240 255 L 215 218" fill="none" stroke="#b45309" stroke-width="2" marker-end="url(#l11f)"/>
+<path d="M 200 225 L 230 262" fill="none" stroke="#b45309" stroke-width="2" marker-end="url(#l11f)"/>
+<text x="72" y="238" font-size="12" fill="#b45309">Ferrel cell</text>
+<text x="72" y="254" font-size="10" fill="#b45309">thermally indirect</text>
+
+<!-- NH Hadley cell: 30° H 272 ↔ eq L 355 -->
+<path d="M 250 285 C 165 278 138 320 148 355 C 175 358 235 330 268 292 Z" fill="#dbeafe" fill-opacity="0.65" stroke="#1d4ed8" stroke-width="1.7"/>
+<path d="M 245 300 L 200 345" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#l11h)"/>
+<path d="M 175 338 L 230 295" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#l11h)"/>
+<text x="58" y="328" font-size="12" font-weight="700" fill="#1d4ed8">Hadley cell</text>
+<text x="58" y="344" font-size="10" fill="#1d4ed8">thermally direct</text>
+
+<!-- SH Hadley -->
+<path d="M 250 425 C 165 432 138 390 148 355 C 175 352 235 380 268 418 Z" fill="#dbeafe" fill-opacity="0.65" stroke="#1d4ed8" stroke-width="1.7"/>
+<path d="M 245 410 L 200 365" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#l11h)"/>
+<path d="M 175 372 L 230 415" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#l11h)"/>
+<text x="58" y="412" font-size="12" font-weight="700" fill="#1d4ed8">Hadley cell</text>
+
+<!-- SH Ferrel -->
+<path d="M 248 500 C 188 505 168 470 178 438 C 220 432 258 462 268 492 Z" fill="#ffedd5" fill-opacity="0.6" stroke="#b45309" stroke-width="1.7"/>
+<path d="M 240 455 L 215 492" fill="none" stroke="#b45309" stroke-width="2" marker-end="url(#l11f)"/>
+<path d="M 200 485 L 230 448" fill="none" stroke="#b45309" stroke-width="2" marker-end="url(#l11f)"/>
+<text x="72" y="478" font-size="12" fill="#b45309">Ferrel cell</text>
+
+<!-- SH Polar -->
+<path d="M 250 580 C 215 582 198 555 205 512 C 228 510 255 535 268 578 Z" fill="#ccfbf1" fill-opacity="0.55" stroke="#0f766e" stroke-width="1.7"/>
+<path d="M 255 565 L 230 525" fill="none" stroke="#0f766e" stroke-width="2" marker-end="url(#l11p)"/>
+<path d="M 218 535 L 248 572" fill="none" stroke="#0f766e" stroke-width="2" marker-end="url(#l11p)"/>
+<text x="88" y="568" font-size="12" fill="#0f766e">Polar cell</text>
+
+<!-- globe + belts -->
+<g clip-path="url(#l11Globe)">
+  <rect x="200" y="100" width="310" height="510" fill="#f8fafc"/>
+  <rect x="200" y="103" width="310" height="48" fill="#dbeafe"/>
+  <rect x="200" y="188" width="310" height="28" fill="#fecaca"/>
+  <rect x="200" y="258" width="310" height="28" fill="#dbeafe"/>
+  <rect x="200" y="332" width="310" height="46" fill="#fecaca"/>
+  <rect x="200" y="424" width="310" height="28" fill="#dbeafe"/>
+  <rect x="200" y="494" width="310" height="28" fill="#fecaca"/>
+  <rect x="200" y="558" width="310" height="48" fill="#dbeafe"/>
 </g>
-<text x="118" y="248" font-size="13" font-weight="700" fill="#1e3a8a">Hadley</text>
-<text x="118" y="218" font-size="12" fill="#334155">cell</text>
-<text x="118" y="168" font-size="13" font-weight="700" fill="#1e3a8a">Ferrel</text>
-<text x="118" y="148" font-size="12" fill="#334155">cell</text>
-<text x="118" y="108" font-size="13" font-weight="700" fill="#1e3a8a">Polar</text>
-<text x="118" y="88" font-size="12" fill="#334155">cell</text>
-<text x="530" y="122" font-size="12" fill="#334155">PHPB</text>
-<text x="530" y="202" font-size="13" font-weight="700" fill="#0f172a">60°N TLPB</text>
-<text x="530" y="272" font-size="13" font-weight="700" fill="#0f172a">30°N STHPB</text>
-<text x="530" y="340" font-size="14" font-weight="700" fill="#b91c1c">ELPB · 0°</text>
-<text x="530" y="410" font-size="13" font-weight="700" fill="#0f172a">30°S STHPB</text>
-<text x="530" y="480" font-size="13" font-weight="700" fill="#0f172a">60°S TLPB</text>
-<text x="530" y="560" font-size="12" fill="#334155">PHPB</text>
-<text x="340" y="610" text-anchor="middle" font-size="12" fill="#334155">closed loop · start at STHP or anywhere · tropopause = the three tops</text>
+<ellipse cx="355" cy="355" rx="150" ry="252" fill="none" stroke="#0f172a" stroke-width="1.8"/>
+<ellipse cx="355" cy="355" rx="150" ry="34" fill="none" stroke="#64748b" stroke-dasharray="5 4"/>
+<ellipse cx="355" cy="278" rx="140" ry="26" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+<ellipse cx="355" cy="208" rx="112" ry="18" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+<ellipse cx="355" cy="432" rx="140" ry="26" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+<ellipse cx="355" cy="502" rx="112" ry="18" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+
+<text x="355" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">H</text>
+<text x="355" y="210" text-anchor="middle" font-size="14" font-weight="700" fill="#b91c1c">L</text>
+<text x="355" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">H</text>
+<text x="355" y="362" text-anchor="middle" font-size="16" font-weight="700" fill="#b91c1c">L</text>
+<text x="355" y="442" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">H</text>
+<text x="355" y="512" text-anchor="middle" font-size="14" font-weight="700" fill="#b91c1c">L</text>
+<text x="355" y="590" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">H</text>
+
+<!-- surface winds on the globe (Lecture 10) -->
+<g clip-path="url(#l11Globe)" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+  <path d="M 400 158 L 310 172" marker-end="url(#l11w)"/>
+  <path d="M 292 240 L 402 224" marker-end="url(#l11w)"/>
+  <path d="M 410 300 L 318 322" marker-end="url(#l11w)"/>
+  <path d="M 410 410 L 318 388" marker-end="url(#l11w)"/>
+  <path d="M 292 470 L 402 486" marker-end="url(#l11w)"/>
+  <path d="M 400 552 L 310 538" marker-end="url(#l11w)"/>
+</g>
+<text x="248" y="210" font-size="12" font-weight="700" fill="#b91c1c">C</text>
+<text x="236" y="280" font-size="12" font-weight="700" fill="#1e3a8a">D</text>
+<text x="228" y="362" font-size="13" font-weight="700" fill="#b91c1c">C</text>
+<text x="236" y="442" font-size="12" font-weight="700" fill="#1e3a8a">D</text>
+<text x="248" y="512" font-size="12" font-weight="700" fill="#b91c1c">C</text>
+
+<!-- rise / sink ticks at the shared walls -->
+<text x="278" y="198" font-size="10" font-weight="700" fill="#b91c1c">↑ rise</text>
+<text x="278" y="276" font-size="10" font-weight="700" fill="#1e3a8a">↓ sink</text>
+<text x="278" y="352" font-size="10" font-weight="700" fill="#b91c1c">↑ rise</text>
+<text x="278" y="436" font-size="10" font-weight="700" fill="#1e3a8a">↓ sink</text>
+<text x="278" y="508" font-size="10" font-weight="700" fill="#b91c1c">↑ rise</text>
+
+<!-- right labels -->
+<text x="530" y="132" font-size="12" fill="#334155">PHPB</text>
+<text x="530" y="168" font-size="13" font-weight="700" fill="#1e3a8a">Polar easterlies</text>
+<text x="530" y="210" font-size="13" font-weight="700" fill="#0f172a">60°N (TLPB)</text>
+<text x="530" y="240" font-size="13" font-weight="700" fill="#1e3a8a">Westerlies</text>
+<text x="530" y="280" font-size="13" font-weight="700" fill="#0f172a">30°N (STHPB)</text>
+<text x="530" y="318" font-size="13" font-weight="700" fill="#1e3a8a">N.E. Trades</text>
+<text x="530" y="362" font-size="14" font-weight="700" fill="#b91c1c">ELPB · 0°</text>
+<text x="530" y="400" font-size="13" font-weight="700" fill="#1e3a8a">S.E. Trades</text>
+<text x="530" y="442" font-size="13" font-weight="700" fill="#0f172a">30°S (STHPB)</text>
+<text x="530" y="476" font-size="13" font-weight="700" fill="#1e3a8a">Westerlies</text>
+<text x="530" y="512" font-size="13" font-weight="700" fill="#0f172a">60°S (TLPB)</text>
+<text x="530" y="546" font-size="13" font-weight="700" fill="#1e3a8a">Polar easterlies</text>
+<text x="530" y="590" font-size="12" fill="#334155">PHPB</text>
+
+<text x="370" y="648" text-anchor="middle" font-size="12" fill="#334155">Hadley + Polar = thermally direct · Ferrel = thermally indirect (powered by the other two)</text>
+<text x="370" y="668" text-anchor="middle" font-size="11" fill="#64748b">surface winds = Lecture 10 · both arrows at 60° are warm air diverging two ways</text>
+<text x="370" y="688" text-anchor="middle" font-size="11" fill="#64748b">C = convergence · D = divergence · start the closed loop at STHP or anywhere</text>
+<text x="370" y="708" text-anchor="middle" font-size="11" fill="#64748b">blue = high · red = low · TLPB = temperate / subpolar (Leong)</text>
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Cells on the <strong>left</strong> of the globe, as on the sheet. Rise at L, sink at H. Tropopause slopes equator → pole.</em></p>
+<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Closed <strong>Hadley / Ferrel / Polar</strong> loops on the <strong>left</strong>, as on the sheet. Air <strong>rises at L</strong> and <strong>sinks at H</strong>. The sloping dashed lid is the <strong>tropopause</strong> (16–18 km at the equator, 8–10 km at the poles). Surface winds on the globe are Lecture 10. At ~60° both aloft arrows are <strong>warm</strong> air.</em></p>
 
 ---
 
