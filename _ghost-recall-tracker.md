@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-16
-*   **Active Micro-Topics:** 645
+*   **Active Micro-Topics:** 649
 *   **Overall Database Mastery:** 78.5% 📈
 *   **Today's Recall Completed:** Ghost Recall **16 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` Vivad/Sabka **1+3+4** / sheet *IT* ≠ Income Tax / BAT=ADD · `MST-096` **22 Sep 2025** 5+18+40 / cess scrap / NAA→CCI · `MST-097` McDonald = **British** ambassador **to** China · `MST-098` belts = **combined**; heat-only **inverts 30/60**. Leftover Art **341** · Poona Pact = **joint** electorate (Dalits **did** vote). Leftover `MST-082` / `MST-076`/`077`/`079`/`080` · `MST-019` Zanskar (due today, not drilled).
-*   **New Topics Ingested Today:** **ECO-08** first-pass **partial** (waiver held; Q1 atoms) → cluster **+3 19 Sep**. **IR-04** first-pass **held** → **+3 19 Sep**. **GEO-13** leftover first-pass **held** (invert atom) → **+3 19 Sep**. **SOC-03** first-pass **held** → **+3 19 Sep**. **GEO-07 +7 held** → **+16 2 Oct**. `MST-094` / `MST-092` **resolved** 15-day **1 Oct**.
+*   **New Topics Ingested Today:** **GEO-14** (16 Sep climatology L11 — cells / Walker / ITCZ) first-pass **17 Sep Q1**. Second 16 Sep class not in yet. **ECO-08** first-pass **partial** → cluster **+3 19 Sep**. **IR-04** first-pass **held** → **+3 19 Sep**. **GEO-13** leftover first-pass **held** (invert atom) → **+3 19 Sep**. **SOC-03** first-pass **held** → **+3 19 Sep**. **GEO-07 +7 held** → **+16 2 Oct**. `MST-094` / `MST-092` **resolved** 15-day **1 Oct**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -288,12 +288,20 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ### Geography (Climatology L10 — Ferrel 1856 three-cell / planetary winds — 13 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| GEO-13-01 | Ferrel 1856 Tricellular; Uniform Surface + Sun at Eq Assumptions; Rotation Fact | 2 | ★★★★★ | Day 3 | 2026-09-19 | 90% | Rising 📈 | 75% | 72% | 1 | 0 | - | 2026-09-16 | Fast 🟢 | `Three Cells/Hemisphere` $\leftrightarrow$ `Hadley Parked Rotation` $\leftrightarrow$ `Part 2 Break Both Assumptions` $\leftrightarrow$ `Accepted Later TAC Sits on It` $\leftrightarrow$ `Held 16 Sep` |
+| GEO-13-01 | Ferrel 1856 Tricellular; Uniform Surface + Sun at Eq Assumptions; Rotation Fact | 2 | ★★★★★ | Day 3 | 2026-09-19 | 90% | Rising 📈 | 75% | 72% | 1 | 0 | - | 2026-09-16 | Fast 🟢 | `Three Cells/Hemisphere` $\leftrightarrow$ `Hadley Parked Rotation` $\leftrightarrow$ `Part 2 = L11 GEO-14` $\leftrightarrow$ `Accepted Later TAC Sits on It` $\leftrightarrow$ `Held 16 Sep` |
 | GEO-13-02 | Pressure Belt = Lat Strip Worldwide; 7 Belts / 4 Types; Temperate vs Leong Subpolar | 2 | ★★★★★ | Day 3 | 2026-09-19 | 70% | Rising 📈 | 68% | 65% | 1 | 0 | - | 2026-09-16 | Pending | `ELPB` $\leftrightarrow$ `STHPB ~30°` $\leftrightarrow$ `TLPB ~60°` $\leftrightarrow$ `PHPB` $\leftrightarrow$ `7+four types held; names leftover` |
 | GEO-13-03 | Combined Effect Best; Thermal Eq+Polar vs Dynamic STHP+TLPB; Heat-Only Inverts 30/60 | 3 | ★★★★★ | Day 1 | 2026-09-17 | 40% | New | 55% | 52% | 1 | 1 | 2026-09-16 | - | Pending | `Every Belt Heat+Rotation` $\leftrightarrow$ `Wrote dynamics only; invert blank` $\leftrightarrow$ `MST-098` $\leftrightarrow$ `MST-002 cousin` |
 | GEO-13-04 | Trades Most Consistent but Vary; Generally Easterlies; SW Monsoon ≈3/4 India Rain | 3 | ★★★★★ | Day 1 | 2026-09-14 | 80% | Rising 📈 | 70% | 68% | 1 | 0 | - | 2026-09-14 | Pending | `School Always NE/SE Trap` $\leftrightarrow$ `Insolation Ultimate Drive` $\leftrightarrow$ `Variation ↑ with Latitude` $\leftrightarrow$ `Same Air Not Special Monsoon` $\leftrightarrow$ `PGF+Coriolis Global; Friction Local+Minor` $\leftrightarrow$ `Evening 14 Sep I+II held` |
 | GEO-13-05 | Westerlies Generally West; Polar Easterlies Strongly Easterly / Stronger Coriolis | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Named by Origin` $\leftrightarrow$ `Fronts at TLPB Polar Cold-Dry + Tropical Warm-Moist` $\leftrightarrow$ `WD → HP+J&K Snow / Rabi Rain` $\leftrightarrow$ `Eq Generally No Fronts` |
-| GEO-13-06 | Planetary/Prevailing/Primary; Secondary Disturbances; Tertiary Local; Cells Parked | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Monsoon+Cyclones = Secondary` $\leftrightarrow$ `Loo / Land-Sea Breeze Local` $\leftrightarrow$ `Land-Sea ≠ By-product of Three` $\leftrightarrow$ `Draw Cells Next Class` |
+| GEO-13-06 | Planetary/Prevailing/Primary; Secondary Disturbances; Tertiary Local; Cells Parked | 2 | ★★★★★ | Day 1 | 2026-09-14 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Monsoon+Cyclones = Secondary` $\leftrightarrow$ `Loo / Land-Sea Breeze Local` $\leftrightarrow$ `Land-Sea ≠ By-product of Three` $\leftrightarrow$ `Cells drawn L11 GEO-14` |
+
+### Geography (Climatology L11 — cells, Walker, ITCZ — 16 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GEO-14-01 | Closed TAC; cells drawn; thermally direct Hadley+Polar / indirect Ferrel; meridional N–S average | 2 | ★★★★★ | Day 1 | 2026-09-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Start anywhere / class STHP` $\leftrightarrow$ `Sink ~30° PGF+Coriolis` $\leftrightarrow$ `Ferrel 1856 upper limb = guess` $\leftrightarrow$ `TLPB fronts + sphere` $\leftrightarrow$ `L10 combined still best` |
+| GEO-14-02 | Non-uniform surface → pressure cells not belts; Walker 1920s E–W = Walker circulations | 3 | ★★★★★ | Day 1 | 2026-09-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cell = large area more or less uniform LP/HP` $\leftrightarrow$ `Major TAC still meridional` $\leftrightarrow$ `SO / El Niño / IOD / MJO later` $\leftrightarrow$ `Local winds ≠ Walker` |
+| GEO-14-03 | Sun moves: belts 5–10°; cells 2–20°; NH more; tropics max shift; poles least; mid-lat max weather | 3 | ★★★★★ | Day 1 | 2026-09-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cause 23.5 ≠ effect` $\leftrightarrow$ `India monsoon can >20°` $\leftrightarrow$ `Trap: max shift ≠ max weather` $\leftrightarrow$ `SH closer to Ferrel model` |
+| GEO-14-04 | ITCZ = Intertropical Convergence Zone = thermal / meteorological equator; 3 equators | 2 | ★★★★★ | Day 1 | 2026-09-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Trades converge 2–20° N/S of eq` $\leftrightarrow$ `Geographical + thermal + magnetic` $\leftrightarrow$ `Thumba = ST-04 / magnetic = GEO-12` $\leftrightarrow$ `Doldrums / Horse Lat parked` $\leftrightarrow$ `Do not reject generalisation for 1–2 exceptions` |
 
 ### Internal Security (Fundamentals L1 — Evolution of Threats — 7 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -913,7 +921,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **17 Sep Q1–Q2:** **16 Sep classes** if ingested. Else leftover **ST-07** (12 Sep three-stage — never morning). Do **not** steal a new class Q1–Q2.
+  1. **17 Sep Q1:** **GEO-14** (16 Sep climatology L11 — cells / Walker / ITCZ). **Q2:** second 16 Sep class if ingested. Else leftover **ST-07**. Do **not** steal a new class Q1–Q2.
   2. **17 Sep Q3–Q6:** ladder **3 / 7 / 16**. Buffer **ECO-07** (14 Sep morning skipped) if a slot
   3. **17 Sep Q8:** drill `MST-095` / `MST-096` / `MST-097` / `MST-098` · leftover `MST-082` / `MST-019` Zanskar if a slot
   4. `MST-094`/`092` 15-day **1 Oct**. `MST-086`/`088`/`089`/`090`/`091`/`093` 15-day **30 Sep**. President **+7 18 Sep**.

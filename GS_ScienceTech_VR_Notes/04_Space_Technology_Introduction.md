@@ -285,6 +285,10 @@ Astronomy is as old as humankind. **Space technology** is ~a century old.
 
 **India / ISRO** example is **later than Sputnik**, not before it. Class named the **Rohini** series (regular; **do not confuse** with **Rohini satellites**). First Indian sounding-rocket launch: **21 November 1963** (Nike-Apache from **Thumba Equatorial Rocket Launching Station (TERLS)**, Thiruvananthapuram). First fully Indian **Rohini RH-75: 20 November 1967**.
 
+### Update — 16 September 2026 (climatology L11)
+
+**Why Thumba:** it sits near the **magnetic equator** (advantages for sounding-rocket launch — S&T class). Magnetic equator itself = Rizwan Sir geomagnetism (`07_Geomagnetism.md`). Climatology L11 only named TERLS as the third-equator example. **No extra Day-1.** Dates above stay this file.
+
 **Space Race 1.0** = **military hostility + geopolitical antagonism + high optics** (whatever goes up is visible). Tool of **upmanship**, not humanity. Expect a Mains “**then vs now**” question.
 
 | Who / when | What (class) |

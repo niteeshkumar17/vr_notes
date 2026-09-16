@@ -1,9 +1,9 @@
 # 03 — Climatology: Atmosphere and Troposphere
 
-> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)** + **13 September 2026 (Lecture 10)**  
-> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**; Lecture 10 added **2026-09-13**  
-> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**; **4 pages on 13/9**)  
-> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**; **William Ferrel 1856 three-cell model, pressure belts, planetary winds, primary / secondary / tertiary circulation (L10)**
+> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)** + **13 September 2026 (Lecture 10)** + **16 September 2026 (Lecture 11)**  
+> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**; Lecture 10 added **2026-09-13**; Lecture 11 added **2026-09-16**  
+> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**; **4 pages on 13/9**; **4 pages on 16/9**)  
+> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**; **William Ferrel 1856 three-cell model, pressure belts, planetary winds, primary / secondary / tertiary circulation (L10)**; **cells drawn, thermally direct/indirect, Walker 1920s, pressure cells, ITCZ / thermal equator (L11)**
 
 ### Lecture 6 — 25 August 2026
 
@@ -1416,7 +1416,7 @@ Equator **L.P.**, poles **HP**. Surface air **diverges from the poles**, **conve
 
 ### Lecture 10 — 13 September 2026
 
-> Notebook dated **13/9/26**. Tenth climatology class. Continues Lecture 9’s Hadley one-cell. Today is **William Ferrel (1856)** — **three-cell / tricellular model** of **tropospheric air circulation (TAC)**. Sheet spelling **Ferrell**; class audio **Farrell** — same scholar already named in Lecture 8. **Parked (next class, ~45 min):** draw the three cells on the left of the globe; *why* the four distinct belts rise or sink; then **break both assumptions** to get closer to real TAC. Audio runs to class close.
+> Notebook dated **13/9/26**. Tenth climatology class. Continues Lecture 9’s Hadley one-cell. Today is **William Ferrel (1856)** — **three-cell / tricellular model** of **tropospheric air circulation (TAC)**. Sheet spelling **Ferrell**; class audio **Farrell** — same scholar already named in Lecture 8. **Parked then:** draw the three cells; *why* the four distinct belts rise or sink; **break both assumptions**. **Taught 16 Sep** as Lecture 11 (`GEO-14`). Doldrums / Horse Latitudes still **next class**.
 
 **How to read class shortcuts:** **TAC** = tropospheric air circulation; **ELPB / STHPB / TLPB / PHPB** = equatorial low / subtropical high / temperate low / polar high pressure belts; **PGF** = Pressure Gradient Force. Full forms on first use.
 
@@ -1720,13 +1720,11 @@ Mother-nature analogy (class): three **ingredients** (the planetary winds) → a
 
 ---
 
-## 46. Parked for next class
+## 46. Parked — taught 16 September (Lecture 11)
 
-1. Draw **Hadley / Ferrel / polar cells** on the left of today’s globe (~45 min).
-2. Re-explain **why** the **four distinct** belts are low or high (rise → LP; sink → HP) — combined effect already stated; next is the practical circulation reason.
-3. **Break both assumptions** (surface not uniform; Sun not always at the equator) so the picture moves from **average / simplified** toward real TAC.
-
-Come with this diagram revised. Do not start monsoon mechanics from this sheet.
+1. Draw **Hadley / Ferrel / polar cells** — **done** Lecture 11.
+2. Practical *why* the **four distinct** belts are low or high — **done** Lecture 11.
+3. **Break both assumptions** — **done** Lecture 11 (Walker; shift; Intertropical Convergence Zone (ITCZ)). **Still next class:** doldrums and Horse Latitudes (tied to ITCZ).
 
 ---
 
@@ -1741,7 +1739,7 @@ Come with this diagram revised. Do not start monsoon mechanics from this sheet.
 7. **Trades** = most consistent planetary winds **but they vary**; **generally easterlies**. School “always NE/SE, constant all year” is the trap.
 8. **South Asian summer:** trades change **drastically** → **SW monsoon** ≈ **3/4** of India’s rain. Same air, not special monsoon air.
 9. **Westerlies** generally from the **west**. **Polar easterlies** = prefix **polar**; **strongly** easterly because **Coriolis is stronger** at high latitude.
-10. Three winds = **planetary / prevailing / primary**. Most other TAC = **secondary / disturbances** (monsoon, cyclone). **Local winds** ≈ tertiary (**loo**, land–sea breeze). **Cells themselves = next class.**
+10. Three winds = **planetary / prevailing / primary**. Most other TAC = **secondary / disturbances** (monsoon, cyclone). **Local winds** ≈ tertiary (**loo**, land–sea breeze). **Cells themselves = Lecture 11 (16 Sep).**
 
 ---
 
@@ -1769,3 +1767,208 @@ Come with this diagram revised. Do not start monsoon mechanics from this sheet.
 <!-- 2026-08-31: Appended Lecture 8 (31/8) from transcript + 3 notebook pages — T.A.C. three forces on near-surface air: PGF (steep/gentle, isobars), Coriolis (apparent deflection, Ferrel's law, latitude, object speed, aeroplane illustration), friction (speed + direction). -->
 <!-- 2026-09-07: Appended Lecture 9 (7/9) from transcript to 8772s + 4 notebook pages — C/D zones, cyclone vs anticyclone, persistent cells, correlation framework, GAPD heat+rotation, Hadley 1735 one-cell. Cluster GEO-10. Recording after 8772s discarded. -->
 <!-- 2026-09-13: Appended Lecture 10 (13/9) from transcript + 4 notebook pages — Ferrel 1856 three-cell, pressure belts, planetary winds, primary/secondary/tertiary. Cells + breaking assumptions parked. Cluster GEO-13. -->
+<!-- 2026-09-16: Appended Lecture 11 (16/9) from transcript + 4 notebook pages — cells drawn, thermally direct/indirect, Walker 1920s, pressure cells vs belts, shift 5–10 / 2–20, ITCZ / thermal equator. Doldrums + Horse Latitudes parked. Cluster GEO-14. -->
+
+### Lecture 11 — 16 September 2026
+
+> Notebook dated **16/9/26**. Eleventh climatology class. Finishes Lecture 10’s parked work: **draw the three cells**; practical *why* the four belts are low or high; then **break both Ferrel assumptions** (surface not uniform → **pressure cells** + **Sir Gilbert Walker, 1920s**; Sun moves → belts / cells / winds **shift** → **Intertropical Convergence Zone (ITCZ)**). Sheet spelling **Ferrell / Walker**; audio **Farrell**. Cluster **GEO-14**.
+
+**How to read class shortcuts:** **ITCZ** = Intertropical Convergence Zone; **SO** = Southern Oscillation; **IOD** = Indian Ocean Dipole; **MJO** = Madden–Julian Oscillation. Full forms on first use.
+
+**Already in Lectures 6–10 — do not restudy as a new topic:** cell = 3-D closed loop (L9); tropopause **16–18 km** equator / **8–10 km** poles (L7); combined heat + rotation as the **best** belt answer (L10 / `MST-098`); trades / westerlies / polar easterlies; primary vs secondary vs local; fronts at ~60° and Western Disturbances (preview L10). Yellow Book *Atmospheric Circulation* is **not uploaded**. This class is the exam default.
+
+---
+
+## 48. Quotes from this class
+
+> Essay / Ethics more than Geography facts.
+
+- "Difficult roads often lead to beautiful destinations."
+- "Failure is success in progress."
+- "Be the reason someone smiles today."
+- "Do something today that your future-self will thank you for."
+- "Religion is not the cause of wars, it is the excuse."
+
+---
+
+## 49. Closed circulation; start anywhere (GEO-14-01)
+
+Tropospheric Air Circulation (TAC) as shown in Ferrel’s model is a **closed circulation** — **neither a beginning nor an end**. Same problem as the hydrological cycle (precipitation / condensation / evaporation): you cannot explain the loop unless you are **given one starting point**.
+
+Class usually starts by **assuming Subtropical High Pressure Belt (STHPB)** is given. You *can* start at the equator instead — the picture is the same; only the entry point changes. Why STHP is a useful start (higher-level remark, not a second theory): high-pressure belts are **supply / divergence** regions; subtropical latitudes are where the Earth is **large**, so they supply **huge volumes** of air.
+
+**Practical lock (already promised last class):** wherever air has a reason to **rise** → **low** pressure; wherever it has a reason to **sink** → **high** pressure. Combined heat + rotation remains the **best** UPSC line (Lecture 10). Today is the **circulation** reason.
+
+**Hadley cell (start STHP):** air diverges from ~**30°** toward the equator → converges → **strongest convection** → rises (tropopause **16–18 km**, Lecture 7) → cannot cross the tropopause → diverges aloft. Hadley **1735** (no rotation) sent that air to the **poles** (only Pressure Gradient Force (PGF) aloft). Ferrel **1856**: Earth **rotates**, so aloft you have **PGF + Coriolis** (no friction in the upper troposphere). Air **sinks much earlier**, on an **average** ~**30°** N/S → subtropical **high**. **1856:** no aeroplanes; Ferrel’s **upper** limb is an **educated guess**. **Jet streams** = 20th-century direct observation; **more complex** than this diagram — parked.
+
+**Polar high:** once equatorial low and subtropical high are granted, **cold** polar air → **high**.
+
+**Temperate Low Pressure Belt (TLPB) vs STHP:** two **contrasting** air masses meet (polar **cold-dry** + tropical **warm-moist**). Norwegian scientists around **World War I** (cut off from European weather reports) named the transition a **front**. In every front, **warmer** air **rises** → pressure **lower** than the sinking subtropical side. Relative only — class never said *how* low. **Warm** mid-latitude air does **not** rise as far as equatorial air. Two arrows aloft at TLPB are **both warm air** diverging two ways — not one warm / one cold.
+
+**TLPB vs polar high (Earth’s size):** the Earth is a **sphere**. The same mass of air is packed into a **smaller** area near the pole (pressure **P1**) and has **more space** in middle latitudes (pressure **P2**). **P1 > P2**.
+
+**Tropopause on this diagram:** the **three cell-tops** *are* the tropopause — **16–18 km** over the equator, declining to **8–10 km** over the poles (Lecture 7 numbers; drawn sloping today).
+
+Draw **Northern Hemisphere** cells at home the same way. Southern loops follow.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 640" role="img" aria-label="Ferrel three cells on the left of the globe: Hadley, Ferrel, Polar. Tropopause slopes from equator to poles." style="display:block;margin:0 auto;width:100%;min-width:320px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+<defs>
+<marker id="l11Head" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#1e3a8a"/></marker>
+</defs>
+<rect x="1" y="1" width="678" height="638" fill="#fff" stroke="#cbd5e1"/>
+<text x="340" y="26" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">Lecture 11 — cells on Ferrel’s globe</text>
+<text x="340" y="46" text-anchor="middle" font-size="12" fill="#64748b">Hadley / Ferrel / Polar · tropopause declines eq → pole</text>
+<ellipse cx="360" cy="330" rx="150" ry="250" fill="#f8fafc" stroke="#0f172a" stroke-width="1.8"/>
+<ellipse cx="360" cy="330" rx="150" ry="34" fill="none" stroke="#94a3b8" stroke-dasharray="5 4"/>
+<text x="360" y="118" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<text x="360" y="198" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">L</text>
+<text x="360" y="268" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<text x="360" y="336" text-anchor="middle" font-size="15" font-weight="700" fill="#b91c1c">L</text>
+<text x="360" y="406" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<text x="360" y="476" text-anchor="middle" font-size="13" font-weight="700" fill="#b91c1c">L</text>
+<text x="360" y="556" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">H</text>
+<g fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+  <path d="M 210 330 C 175 300 175 250 210 268" marker-end="url(#l11Head)"/>
+  <path d="M 210 268 C 175 250 175 210 210 198" marker-end="url(#l11Head)"/>
+  <path d="M 210 198 C 168 175 155 130 210 118" marker-end="url(#l11Head)"/>
+  <path d="M 210 330 C 175 360 175 390 210 406" marker-end="url(#l11Head)"/>
+  <path d="M 210 406 C 175 430 175 460 210 476" marker-end="url(#l11Head)"/>
+  <path d="M 210 476 C 168 505 155 540 210 556" marker-end="url(#l11Head)"/>
+</g>
+<text x="118" y="248" font-size="13" font-weight="700" fill="#1e3a8a">Hadley</text>
+<text x="118" y="218" font-size="12" fill="#334155">cell</text>
+<text x="118" y="168" font-size="13" font-weight="700" fill="#1e3a8a">Ferrel</text>
+<text x="118" y="148" font-size="12" fill="#334155">cell</text>
+<text x="118" y="108" font-size="13" font-weight="700" fill="#1e3a8a">Polar</text>
+<text x="118" y="88" font-size="12" fill="#334155">cell</text>
+<text x="530" y="122" font-size="12" fill="#334155">PHPB</text>
+<text x="530" y="202" font-size="13" font-weight="700" fill="#0f172a">60°N TLPB</text>
+<text x="530" y="272" font-size="13" font-weight="700" fill="#0f172a">30°N STHPB</text>
+<text x="530" y="340" font-size="14" font-weight="700" fill="#b91c1c">ELPB · 0°</text>
+<text x="530" y="410" font-size="13" font-weight="700" fill="#0f172a">30°S STHPB</text>
+<text x="530" y="480" font-size="13" font-weight="700" fill="#0f172a">60°S TLPB</text>
+<text x="530" y="560" font-size="12" fill="#334155">PHPB</text>
+<text x="340" y="610" text-anchor="middle" font-size="12" fill="#334155">closed loop · start at STHP or anywhere · tropopause = the three tops</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure (copy notes):</strong> Cells on the <strong>left</strong> of the globe, as on the sheet. Rise at L, sink at H. Tropopause slopes equator → pole.</em></p>
+
+---
+
+## 50. Thermally direct / indirect; meridional average (GEO-14-01 continued)
+
+Cells are **not three boxes**. They are **integrated**. One El Niño in the Pacific can touch India’s *next* monsoon, Australian / African drought, coral bleaching, US rain or winter, Indonesian fires, Atlantic tropical cyclones — **teleconnections**. Details of El Niño / La Niña stay later; the lock today is: **do not study the cells in isolation**.
+
+| Cells | Class name | Why |
+|:---|:---|:---|
+| **Hadley + Polar** | **Thermally direct** | Driven **directly** by **different effects of surface heating** (hot *and* cold are both thermal). |
+| **Ferrel** | **Thermally indirect** | **Powered by the other two.** That lets it transfer **warm** air from the Hadley cell to **higher** latitudes and **cold** air from higher to **lower** latitudes — the surplus → deficit job that keeps Earth liveable. |
+
+**Prelims trap:** thermally *direct* cells are **not** “heat only / ignore rotation.” Lecture 10’s **best** line still stands.
+
+**Meridional:** pressure differences on this diagram sit **north–south** (across latitudes), not east–west (along a latitude). Air follows pressure. So Hadley / Ferrel / Polar are **meridional** (along **meridians**). North–south **includes** south–north.
+
+> Ferrel’s model represents the **long-term average** of the **meridional (N–S)** air circulations over the globe. **In reality**, air circulations are **much more complex** than this model suggests.
+
+**Cyclones ride the primary winds (preview, later class):** tropical cyclones **in general** **east → west** (trades = easterlies); temperate cyclones **west → east** (westerlies). Each cyclone has **individuality** — the exact path is wait-and-watch. Cold front / warm front (which air mass is the aggressor) and **frontal precipitation** = clouds class. Do not invent types today.
+
+---
+
+## 51. Break assumption 1: no belts in nature; Walker (GEO-14-02)
+
+Real surface is **not** uniform (land / water; grassland / forest / desert). Same latitude can receive the same insolation and **not** heat the same way.
+
+So nature does **not** have continuous **pressure belts**. Instead: **systems of low and high pressure cells**.
+
+> The term **pressure cell** refers to a **large area** with **more or less** uniform low or high pressure.
+
+**Sir Gilbert Walker (1920s):** British; title **Sir**; Cambridge **mathematician** → **statistics** → weather forecasting. Brought to India to understand the **south-west monsoon** (air from the South Indian Ocean). Travelling the same latitudinal band, he found **significant east–west differences** of atmospheric pressure (Indian Ocean ↔ Pacific). That later becomes **Southern Oscillation (SO)** — when pressure is high in one basin it is low in the other, like a see-saw. **Parked** as a full topic.
+
+Walker **agrees** with Ferrel: **major** tropospheric air circulations (Hadley / Ferrel / Polar) are **meridional**. **But in some regions** they get **complicated** by east–west pressure differences and their associated east–west air circulations.
+
+> **In general, east–west air circulations are called Walker circulations.**
+
+Even later scholars’ east–west cells still take Walker’s name. **Newspaper items sit here** (normal N–S is not news): El Niño / La Niña / Southern Oscillation (eastern vs western **Pacific**); Indian Ocean Dipole (IOD) (eastern vs western **Indian Ocean**); Madden–Julian Oscillation (MJO) (two American scientists — later). **Local winds are a different category** (Lecture 10) — do not dump IOD into *loo*.
+
+**El Niño one-line (not the chapter):** **normal** for **10–11 months**, year after year: **high** over the **eastern** Pacific (Chile–Peru coast) and **low** over the **western** Pacific (Indonesia–Australia). El Niño = that difference **weakens** and in some years **almost reverses** → winds change. Abnormal needs the normal first. Wind **speed** also follows the pressure difference — details with El Niño class.
+
+**Belt vs cell in language:** class still says “shifting of pressure **belts**.” Not confusion. **Broader** view (school; “what pressure near the equator?”) → **belt**. **Specific** (this cyclone, this monsoon cell, this El Niño) → **cell**.
+
+---
+
+## 52. Break assumption 2: Sun moves; belts / cells / winds shift (GEO-14-03)
+
+Sun is **not** parked at the equator. It moves between the tropics (**23.5°**). Stimulus = Sun’s movement; response = shift of pressure.
+
+- **Northern Hemisphere (NH) summer (June / July):** heat shifts **north** → pressure belts / cells and **wind belts** shift **north**.
+- **NH winter (December / January):** Sun toward Tropic of Capricorn → shift **south**.
+
+| Ask | Lock |
+|:---|:---|
+| School / **belts** (broader) | In general, pressure **belts** shift **5–10°** north or south of their **average** positions (0 / 30 / 60 / 90). |
+| Mature / **cells** | Shift has **spatial and temporal** variations. **In general** **2°–20°**. “In general” leaves room for exceptions. |
+| Cause ≠ effect | Sun moves **23.5°**; belts need **not** shift the same number. No school rule that cause equals effect numerically. |
+| Which hemisphere **more** shift? | **Northern Hemisphere** — complex **mix of land and water**. **Southern Hemisphere** is closer to Ferrel’s uniform-surface model, so cells sit nearer the diagram. |
+| Which **latitudes** max / least **shift of pressure**? | **Greatest in the lower / tropical latitudes** (Sun is moving *there*). **Least in the polar region** (too far from where the Sun moves). |
+| Which latitudes max **weather** impact? | **Middle latitudes** — **not** the tropics. Weather is a **composite**, not pressure alone. Tropics stay hot; poles stay cold; middle latitudes are the **convergence of contrasting polar and tropical air masses** (highest weather variability — Lecture 2 onward). **Trap:** “max shift ⇒ max weather impact.” |
+
+**India exception (parked for monsoon):** a few monsoon climates; India’s summer pressure shift can be **more than 20°** (even beyond the Tropic of Cancer in the telling). That is one reason India’s monsoon is special. Do not reject the **2–20°** generalisation because of this exception.
+
+Heat shifts → pressure shifts → **winds** shift → **weather** changes.
+
+---
+
+## 53. ITCZ = thermal / meteorological equator (GEO-14-04)
+
+Ferrel’s model: trades converge at the **equator** (equatorial low; Sun overhead). Once the Sun moves, that low (and the convergence) sit **north** of the equator in **June / July** and **south** in **December / January**. **In general** **2–20°** (same cell-shift range). **20° < 23.5°** → convergence stays **between the two tropics**.
+
+**ITCZ** = **Intertropical Convergence Zone** — the zone where the **trade winds** converge **between the tropics**, season by season.
+
+Two rough sketches (not real values): (A) **belt** as a line; (B) **cells** as low-pressure spots, some over continent, some over ocean. One of those lows will matter for **India’s monsoon**; some ocean lows can become **tropical cyclones** (every cyclone is an intense low; **every low is not** a cyclone). **Satellite cloud bands** help locate ITCZ (warm moist trades rise → clouds → rain; densest forests, e.g. Amazon).
+
+**ITCZ is like an equator of heat**, not of geometry:
+
+| Equator | What it divides | Class name |
+|:---|:---|:---|
+| **0° parallel** | Earth into two **physical** halves | **Geographical equator** |
+| **ITCZ** | Earth in terms of **heat** (hence pressure, winds, weather) | **Thermal equator** / **meteorological equator** |
+| Geomagnetism (Rizwan Sir — `07_Geomagnetism.md`) | Magnetic frame | **Magnetic equator** |
+
+**Thumba Equatorial Rocket Launching Station (TERLS)** sits near the **magnetic** equator — that is why early sounding rockets went from Thumba. Dates / Nike-Apache **1963** already on Science & Technology Lecture 10 (`04_Space_Technology_Introduction.md`, cluster **ST-04**). Do **not** restudy as a new topic.
+
+**Prelims habit (margin):** never reject a **generalisation** because of **one or two exceptions**. Science and life run on generalisations. **If the question is about the exception**, the exception **is** the answer (India’s >20° monsoon shift; flattening of the Earth when the stem is about a degree of latitude being longer at the poles). Average students pass; over-read students fail this trap.
+
+**Parked next class:** **doldrums** and **Horse Latitudes** — same ITCZ discussion; two or three lines of notes delayed so those two names can sit on it.
+
+---
+
+## 54. Lecture 11 — UPSC Quick Recall
+
+1. TAC in Ferrel = **closed** (no start / no end). Start at **any** belt; class starts at **STHP**. Rise → LP; sink → HP.
+2. Aloft: **PGF + Coriolis** → sink ~**30°** (Hadley had only PGF → poles). Ferrel **guessed** the upper limb (no planes in **1856**).
+3. TLPB vs STHP = **fronts** (warm air rises). TLPB vs polar = **sphere** (same air, more space → lower P).
+4. **Hadley + Polar = thermally direct.** **Ferrel = thermally indirect** (powered by the other two; heat transport).
+5. Ferrel = **long-term average meridional (N–S)** circulation. Reality is more complex.
+6. Non-uniform surface → **no belts**; **pressure cells** = large area, **more or less** uniform LP/HP.
+7. **Walker 1920s:** major TAC still meridional; **some** regions have **E–W** pressure differences. **E–W circulations = Walker.** SO / El Niño / IOD / MJO sit here — chapters later.
+8. Sun moves → heat / pressure / winds shift. **Belts ~5–10°**; **cells in general 2–20°** (India monsoon can exceed 20°). **NH** more shift. **Tropics** max **pressure** shift; **poles** least; **middle latitudes** max **weather** impact.
+9. **ITCZ** = Intertropical Convergence Zone = **thermal / meteorological equator**. Earth has **three** conceptual equators (geographical, thermal, magnetic).
+10. Do **not** reject a generalisation for one exception — unless the **question is the exception**. **Doldrums / Horse Latitudes = next class.**
+
+---
+
+## Abbreviations used in Lecture 11
+
+| Shortcut | Full form |
+|:---|:---|
+| **TAC** | Tropospheric Air Circulation |
+| **ITCZ** | Intertropical Convergence Zone |
+| **SO** | Southern Oscillation |
+| **IOD** | Indian Ocean Dipole |
+| **MJO** | Madden–Julian Oscillation |
+| **TERLS** | Thumba Equatorial Rocket Launching Station |
+| **ELPB / STHPB / TLPB / PHPB** | Equatorial low / subtropical high / temperate low / polar high pressure belts |
+| **NH / SH** | Northern Hemisphere / Southern Hemisphere |
+| **PGF** | Pressure Gradient Force |

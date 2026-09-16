@@ -164,6 +164,10 @@ Outer core is **more than 2,000 km** thick. Thermal convection is **not the same
 | **Magnetic inclination** | Angle between **magnetic axis** and **geographic equator** = **90° − 11.5°**. |
 | **Magnetic equator** | Line **perpendicular to the magnetic axis**. Angle between magnetic equator and geographic equator = **same θ (11.5°)**. |
 
+### Update — 16 September 2026 (climatology L11)
+
+Climatology names **three** conceptual equators: **geographical** (0° parallel), **ITCZ = thermal / meteorological**, and this **magnetic** equator. **Thumba Equatorial Rocket Launching Station (TERLS)** sits near the magnetic equator — dates stay on S&T Lecture 10 (`ST-04`). **No extra Day-1.**
+
 **Present locations (class):**
 
 - Geomagnetic pole of the **northern** hemisphere: **Ellesmere Island**, **northern Canada**.
