@@ -792,7 +792,85 @@ Unicorn on seals is **not** a one-horn rhino (does not match). Horse-with-fake-h
 | **Kayatha** | **Shipra** (Chambal); near **Ujjain**, Madhya Pradesh (MP) |
 | **Savalda** | between **Narmada and Tapi**; **Dhule**, MH |
 
-**2nd millennium BC** — contemporary of **Late** Harappan. Sheet + dictation: **Prabhas**, **Rangpur**, **Jorwe**, **Malwa**, **OCP continues**, **Black and Red Ware (BRW)**, **Cemetery H**. Prelims names if asked: **Malwa, Jorwe, OCP**.
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 400" role="img" aria-label="Class map: third-millennium Chalcolithic cultures contemporary of Mature Harappan — Ganeshwar Sikar, OCP upper Ganga, Ahar-Banas south Rajasthan, Kayatha Ujjain, Savalda Dhule" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:620px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="578" height="398" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="16" y="24" font-size="13" font-weight="700" fill="#0f172a">3rd mill. BC · contemporary of Mature Harappan</text>
+  <path d="M248 42 C292 46 328 68 352 102 C376 138 388 182 378 228 C366 278 338 328 300 360 C268 382 238 378 218 352 C204 322 200 286 196 256 C168 268 138 252 118 228 C92 206 70 188 78 160 C52 148 48 122 78 108 C108 96 138 84 162 66 C188 50 216 40 248 42 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.6"/>
+  <path d="M108 168 C128 158 148 152 168 148" fill="none" stroke="#0369a1" stroke-width="1.4"/>
+  <text x="118" y="142" font-size="9" fill="#0369a1">Banas → Chambal</text>
+  <circle cx="188" cy="88" r="6" fill="#b45309"/>
+  <text x="200" y="84" font-size="11" font-weight="700" fill="#9a3412">Ganeshwar</text>
+  <text x="200" y="98" font-size="9" fill="#64748b">Sikar, RJ</text>
+  <circle cx="350" cy="118" r="6" fill="#b45309"/>
+  <text x="362" y="114" font-size="11" font-weight="700" fill="#9a3412">OCP / Copper Hoard</text>
+  <text x="362" y="128" font-size="9" fill="#64748b">upper Ganga · geru ware</text>
+  <circle cx="148" cy="148" r="6" fill="#b45309"/>
+  <text x="16" y="152" font-size="11" font-weight="700" fill="#9a3412">Ahar = Banas</text>
+  <text x="16" y="166" font-size="9" fill="#64748b">Udaipur / Rajsamand</text>
+  <circle cx="218" cy="188" r="6" fill="#b45309"/>
+  <text x="230" y="184" font-size="11" font-weight="700" fill="#9a3412">Kayatha</text>
+  <text x="230" y="198" font-size="9" fill="#64748b">Shipra · Ujjain, MP</text>
+  <circle cx="178" cy="248" r="6" fill="#b45309"/>
+  <text x="16" y="252" font-size="11" font-weight="700" fill="#9a3412">Savalda</text>
+  <text x="16" y="266" font-size="9" fill="#64748b">Narmada–Tapi · Dhule, MH</text>
+  <text x="16" y="372" font-size="11" fill="#0f172a">Trade with IVC: Harappan beads found here. Copper from Aravallis / Khetri (Lecture 2).</text>
+  <text x="16" y="388" font-size="10" fill="#64748b">Ahar and Banas are one culture (river name vs first site).</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Class board — five Mature-contemporary Chalcolithic cultures. Same copper map as Lecture 2; now named as cultures.</em></p>
+
+**2nd millennium BC** — contemporary of **Late** Harappan.
+
+**Successors on Harappan ground** (class: blue): **Cemetery H** (Harappa mound **H** — distinctive cemetery); **Jhukar** (Sindh); **Pirak** (Balochistan — still trading with Afghanistan / Iran); **Prabhas** (**Prabhas Patan** near **Somnath**, Gujarat (GJ) — not Patan district); **Rangpur** (GJ, class: near Ahmedabad).
+
+**Outside the Harappan core** (class: red): **OCP continues** (~2,000 years); **Black and Red Ware (BRW)** from about **1600 BC**, middle Ganga (over-burnt black + properly burnt red — not a design choice); **Banas** still on the board; **Malwa** (**Khargone**, Madhya Pradesh (MP), **north of Narmada**, on a tributary to avoid flooding); **Jorwe** — Malwa people moved south by **~1700 BC**; **Daimabad** later sits in Jorwe. Prelims names if asked: **Malwa, Jorwe, OCP**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 430" role="img" aria-label="Class map: second-millennium Chalcolithic cultures contemporary of Late Harappan — Cemetery H, Jhukar, Pirak, Prabhas, Rangpur in blue as successors; OCP, BRW, Banas, Malwa, Jorwe in red outside the core" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:620px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
+  <rect x="1" y="1" width="578" height="428" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="16" y="24" font-size="13" font-weight="700" fill="#0f172a">2nd mill. BC · contemporary of Late Harappan</text>
+  <path d="M248 48 C292 52 328 74 352 108 C376 144 388 188 378 234 C366 284 338 334 300 366 C268 388 238 384 218 358 C204 328 200 292 196 262 C168 274 138 258 118 234 C92 212 70 194 78 166 C52 154 48 128 78 114 C108 102 138 90 162 72 C188 56 216 46 248 48 Z" fill="#e2e8f0" stroke="#334155" stroke-width="1.6"/>
+  <path d="M108 248 C168 236 228 232 300 240" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <text x="232" y="228" font-size="9" fill="#475569">Narmada</text>
+  <circle cx="48" cy="88" r="6" fill="#0369a1"/>
+  <text x="16" y="70" font-size="11" font-weight="700" fill="#0c4a6e">Pirak</text>
+  <text x="16" y="112" font-size="9" fill="#64748b">Balochistan</text>
+  <circle cx="98" cy="102" r="6" fill="#0369a1"/>
+  <text x="110" y="96" font-size="11" font-weight="700" fill="#0c4a6e">Jhukar</text>
+  <text x="110" y="110" font-size="9" fill="#64748b">Sindh</text>
+  <circle cx="178" cy="78" r="6" fill="#0369a1"/>
+  <text x="190" y="74" font-size="11" font-weight="700" fill="#0c4a6e">Cemetery H</text>
+  <text x="190" y="88" font-size="9" fill="#64748b">Harappa mound H</text>
+  <circle cx="82" cy="178" r="6" fill="#0369a1"/>
+  <text x="16" y="168" font-size="11" font-weight="700" fill="#0c4a6e">Prabhas</text>
+  <text x="16" y="196" font-size="9" fill="#64748b">Somnath</text>
+  <circle cx="118" cy="200" r="6" fill="#0369a1"/>
+  <text x="130" y="196" font-size="11" font-weight="700" fill="#0c4a6e">Rangpur</text>
+  <text x="130" y="210" font-size="9" fill="#64748b">GJ · Ahmedabad</text>
+  <circle cx="148" cy="154" r="6" fill="#be123c"/>
+  <text x="160" y="150" font-size="11" font-weight="700" fill="#9f1239">Banas</text>
+  <circle cx="350" cy="124" r="6" fill="#be123c"/>
+  <text x="362" y="120" font-size="11" font-weight="700" fill="#9f1239">OCP continues</text>
+  <circle cx="365" cy="162" r="6" fill="#be123c"/>
+  <text x="377" y="158" font-size="11" font-weight="700" fill="#9f1239">BRW</text>
+  <text x="377" y="172" font-size="9" fill="#64748b">middle Ganga · ~1600 BC</text>
+  <circle cx="214" cy="236" r="6" fill="#be123c"/>
+  <text x="226" y="232" font-size="11" font-weight="700" fill="#9f1239">Malwa</text>
+  <text x="226" y="246" font-size="9" fill="#64748b">Khargone, N of Narmada</text>
+  <circle cx="198" cy="292" r="6" fill="#be123c"/>
+  <text x="210" y="288" font-size="11" font-weight="700" fill="#9f1239">Jorwe</text>
+  <text x="210" y="302" font-size="9" fill="#64748b">south · Daimabad later</text>
+  <rect x="16" y="348" width="12" height="12" rx="2" fill="#0369a1"/>
+  <text x="34" y="358" font-size="11" fill="#0f172a">blue = successor where IVC had been</text>
+  <rect x="16" y="368" width="12" height="12" rx="2" fill="#be123c"/>
+  <text x="34" y="378" font-size="11" fill="#0f172a">red = outside the Harappan core</text>
+  <text x="16" y="404" font-size="10" fill="#64748b">If GS asks names: Malwa, Jorwe, OCP. Sheet scribble west of Prabhas = Jhukar / Pirak, not a separate “timber” culture.</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Class board — Late-contemporary cultures. Blue on old Harappan ground; red outside. Disintegration, not a new invasion.</em></p>
 
 **Legacies** (decline = **deurbanization**; people, culture, religion **continued** — even now):
 
@@ -820,10 +898,10 @@ Unicorn on seals is **not** a one-horn rhino (does not match). Horse-with-fake-h
 5. AIT / flood / tectonic / river-course / Saraswati-aridity **fail**. Lock = **ecological + agrarian** process → deurbanization.
 6. **Late Harappan 1900–1300** = grid/sewage/script/mass production fade; slums on mounds; Meluha drops out of Mesopotamian records. **Not** an Aryan-arrival novel.
 7. Metal = **lost wax / madhuchchista**. **Dancing girl** bronze; **Daimabad hoard**. Seals = three fittings; uses include **barter token**.
-8. Mature contemporaries: **OCP, Ganeshwar, Ahar/Banas, Kayatha, Savalda**. Late: **Jorwe, Malwa, Prabhas, Rangpur, BRW, Cemetery H**.
+8. Mature contemporaries: **OCP, Ganeshwar, Ahar/Banas, Kayatha, Savalda**. Late: **Cemetery H, Jhukar, Pirak, Prabhas, Rangpur** (successors) + **OCP, BRW, Malwa, Jorwe**.
 
 <!-- 2026-09-11: Vijender Singh — Chalcolithic Age (substantial copper; Bronze Age worldwide ≠ India tin-scarce); IVC start: four names, cardinal geography + Lothal dockyard + Shortughai, indigenous origin, four phases + four regional cultures. Town planning parked. One cluster HIS-IVC. -->
 <!-- 2026-09-14: Vijender Singh L2 — town planning (grid, 1:2:4 bricks, toilets, sewage, utilitarian/egalitarian), Harappan ware, metallurgy + hexadecimal/decimal weights, Chanhudaro beads, script theories, agri + four irrigations, Dholavira rainwater, trade map. Religion parked. Cluster HIS-IVC2 due 15 Sep. -->
 <!-- 2026-09-14 evening: MST-088 Gujarat stone; MST-089 Lothal horizontal sewage; MST-090 CSE-2021-Q32 Dholavira ≠ Kalibangan; CSE-2026-Q08 1+2 held; CSE-2021-Q37 2+3 held. Still Q1 15 Sep. -->
-<!-- 2026-09-16: Vijender Singh L3 — religion (no temple; Pashupati Marshall; Great Bath), Wheeler/Lal/Mahadevan, decline theories + ecological lock, Late Harappan 1900–1300, artifacts/lost wax/seals, other Chalcolithic, legacies. Cluster HIS-IVC3 due 17 Sep Q2. -->
+<!-- 2026-09-16: Vijender Singh L3 — religion (no temple; Pashupati Marshall; Great Bath), Wheeler/Lal/Mahadevan, decline theories + ecological lock, Late Harappan 1900–1300, artifacts/lost wax/seals, other Chalcolithic + two class maps, legacies. Cluster HIS-IVC3 due 17 Sep Q2. -->
 
