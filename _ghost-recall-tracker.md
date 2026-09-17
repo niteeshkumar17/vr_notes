@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-17
-*   **Active Micro-Topics:** 657
+*   **Active Micro-Topics:** 665
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **GEO-14** / **HIS-IVC3** / **CA-260916** first-pass **held** (atoms) → cluster **+3 20 Sep**. **ST-07** leftover first-pass **held** → **+3 20 Sep**. **ECO-07** buffer **held** → **+3 20 Sep**. **CA-260910** leftover first-pass **held** → **+3 20 Sep**. **ST-02 +7 held** (Arihant atom) → **+16 3 Oct**. `MST-096` / `MST-097` / `MST-098` **held** → 15-day **2 Oct**. `MST-095` **repeat 2** atomic **18 Sep**.
+*   **New Topics Ingested Today:** **GOV-01** (17 Sep Governance L1) first-pass **18 Sep Q1**. Do **not** steal President for Q1–Q2. **GEO-14** / **HIS-IVC3** / **CA-260916** first-pass **held** (atoms) → cluster **+3 20 Sep**. **ST-07** leftover first-pass **held** → **+3 20 Sep**. **ECO-07** buffer **held** → **+3 20 Sep**. **CA-260910** leftover first-pass **held** → **+3 20 Sep**. **ST-02 +7 held** (Arihant atom) → **+16 3 Oct**. `MST-096` / `MST-097` / `MST-098` **held** → 15-day **2 Oct**. `MST-095` **repeat 2** atomic **18 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -302,6 +302,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | GEO-14-02 | Non-uniform surface → pressure cells not belts; Walker 1920s E–W = Walker circulations | 3 | ★★★★★ | Day 3 | 2026-09-20 | 90% | Rising 📈 | 80% | 78% | 1 | 0 | - | 2026-09-17 | Fast 🟢 | `Walker E-W held` $\leftrightarrow$ `Major TAC still meridional held` $\leftrightarrow$ `SO / El Niño / IOD / MJO later` $\leftrightarrow$ `Local winds ≠ Walker` |
 | GEO-14-03 | Sun moves: belts 5–10°; cells 2–20°; NH more; tropics max shift; poles least; mid-lat max weather | 3 | ★★★★★ | Day 3 | 2026-09-20 | 90% | Rising 📈 | 80% | 78% | 1 | 0 | - | 2026-09-17 | Fast 🟢 | `5–10 / 2–20 held` $\leftrightarrow$ `Mid-lat max weather / tropics max shift held` $\leftrightarrow$ `India monsoon can >20°` |
 | GEO-14-04 | ITCZ = Intertropical Convergence Zone = thermal / meteorological equator; 3 equators | 2 | ★★★★★ | Day 3 | 2026-09-20 | 90% | Rising 📈 | 80% | 78% | 1 | 0 | - | 2026-09-17 | Fast 🟢 | `Thermal equator held` $\leftrightarrow$ `Geographical + thermal + magnetic` $\leftrightarrow$ `Doldrums / Horse Lat parked` |
+
+### Governance (Fundamentals + civil services start — Gov-PS L1, 17 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| GOV-01-01 | No universal def; government = institution / formal / rigid; governance = process / formal+informal / flexible | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Govt is a component not the process` $\leftrightarrow$ `CSO NGO SHG pressure group market` $\leftrightarrow$ `Pressure group ≠ electoral power` $\leftrightarrow$ `Farmers Protest 1.0 revoked 3 farm laws` |
+| GOV-01-02 | Kautilya king-traits; Plato goodness = ultimate aim; welfare = greatest good to greatest number; DPSP Part IV | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Writers → media 4th pillar` $\leftrightarrow$ `Plato uniform-dev utopian` $\leftrightarrow$ `Reservation vs meritocracy trade-off` |
+| GOV-01-03 | DPSP lock: sections + modern governance; Art 40 subsidiarity; Art 41 undeserved want; 73/74th 29+18 | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Nearest tier` $\leftrightarrow$ `Widow/disability/unemployment = State` $\leftrightarrow$ `Part IX / IXA` $\leftrightarrow$ `Pol-PS DPSP later no extra Day-1` |
+| GOV-01-04 | World Bank 1989 Sub-Saharan Africa; select-monitor-replace Art 326; SoP watertight vs India C&B | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Most widely acclaimed ≠ universal` $\leftrightarrow$ `Reasonable control to legitimise` $\leftrightarrow$ `JR = higher judiciary ultra vires to the extent` $\leftrightarrow$ `Westminster executive inside legislature` |
+| GOV-01-05 | Markets = regulate to avoid failure (Jio-TRAI); CSO linchpin; triangle citizen-centric; dynamic space/time | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Free beyond 1 year stopped` $\leftrightarrow$ `Natural monopoly trap` $\leftrightarrow$ `NITI 2024 ~24.5 cr BPL→APL` $\leftrightarrow$ `1991 LPG vs 100% FDI space/defence` |
+| GOV-01-06 | Five dimensions: political / economic / legal-judicial / social / administrative | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `RPA 1950+1951` $\leftrightarrow$ `GST one nation one tax` $\leftrightarrow$ `SWIFT = trade` $\leftrightarrow$ `VB-G RAM G = CA-260822 no extra Day-1` $\leftrightarrow$ `Mission Karmayogi` |
+| GOV-01-07 | Weber legal-rational; 5 features; minister=vision / secretary=apparatus; AIS two masters Union+State | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Charismatic / traditional / legal-rational` $\leftrightarrow$ `Impersonal ≠ private perks` $\leftrightarrow$ `We temporary you permanent` $\leftrightarrow$ `Institutional memory` $\leftrightarrow$ `Generalist merits parked` |
+| GOV-01-08 | Agent of change (named officers); quasi-judicial CIC/CAT; PoNJ; Art 323A/323B | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sabharwal Fund Your City` $\leftrightarrow$ `Khemka DLF` $\leftrightarrow$ `Seshan electoral` $\leftrightarrow$ `Civil-court powers + no court procedure` $\leftrightarrow$ `Cost-effective no/min fee` |
 
 ### Internal Security (Fundamentals L1 — Evolution of Threats — 7 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -933,9 +945,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **18 Sep Q1–Q2:** if 17 Sep classes ingested, those two. Else **HIS-IVC2 +3** + **ST-08 +3**. Do **not** steal President **+7** for Q1.
-  2. **18 Sep Q3–Q6:** **CA-260913** / **CA-260914** +3 · President **+7** in Q7
-  3. **18 Sep Q8:** `MST-095` **repeat 2** · `MST-099` direct/indirect · `MST-100` Marshall · `MST-101` ₹2,000 · `MST-102` Arihant **2016**
+  1. **18 Sep Q1:** **GOV-01** (17 Sep Governance L1). **Q2:** the other 17 Sep class if it lands; else **HIS-IVC2 +3**. Do **not** steal President **+7** for Q1.
+  2. **18 Sep Q3–Q6:** **CA-260913** / **CA-260914** +3 · **ST-08 +3** if Q2 is the second class
+  3. **18 Sep Q7:** President **+7**. **Q8:** `MST-095` **repeat 2** · `MST-099` direct/indirect · `MST-100` Marshall · `MST-101` ₹2,000 · `MST-102` Arihant **2016**
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 
 

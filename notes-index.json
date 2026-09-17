@@ -501,6 +501,12 @@
       "title": "Geomagnetism"
     }
   ],
+  "GS_Governance_VR_Notes": [
+    {
+      "file": "01_Fundamentals_of_Governance.md",
+      "title": "Fundamentals Of Governance"
+    }
+  ],
   "GS_History_VR_Notes": [
     {
       "file": "Ancient_India_Stone_Age.md",
