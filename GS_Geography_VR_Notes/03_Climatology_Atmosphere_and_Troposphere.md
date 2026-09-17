@@ -1768,6 +1768,7 @@ Mother-nature analogy (class): three **ingredients** (the planetary winds) → a
 <!-- 2026-09-07: Appended Lecture 9 (7/9) from transcript to 8772s + 4 notebook pages — C/D zones, cyclone vs anticyclone, persistent cells, correlation framework, GAPD heat+rotation, Hadley 1735 one-cell. Cluster GEO-10. Recording after 8772s discarded. -->
 <!-- 2026-09-13: Appended Lecture 10 (13/9) from transcript + 4 notebook pages — Ferrel 1856 three-cell, pressure belts, planetary winds, primary/secondary/tertiary. Cells + breaking assumptions parked. Cluster GEO-13. -->
 <!-- 2026-09-16: Appended Lecture 11 (16/9) from transcript + 4 notebook pages — cells drawn, thermally direct/indirect, Walker 1920s, pressure cells vs belts, shift 5–10 / 2–20, ITCZ / thermal equator. Doldrums + Horse Latitudes parked. Cluster GEO-14. -->
+<!-- 2026-09-17: Ghost Recall 6/8. Walker / ITCZ held. MST-099 Ferrel = thermally indirect, powered by the other two. Cluster +3 20 Sep. -->
 
 ### Lecture 11 — 16 September 2026
 
@@ -1954,6 +1955,10 @@ Cells are **not three boxes**. They are **integrated**. One El Niño in the Paci
 | **Ferrel** | **Thermally indirect** | **Powered by the other two.** That lets it transfer **warm** air from the Hadley cell to **higher** latitudes and **cold** air from higher to **lower** latitudes — the surplus → deficit job that keeps Earth liveable. |
 
 **Prelims trap:** thermally *direct* cells are **not** “heat only / ignore rotation.” Lecture 10’s **best** line still stands.
+
+### Update — 17 September 2026 (Ghost Recall)
+
+`MST-099`. Walker E–W + still meridional, belts **5–10°** / cells **2–20°**, ITCZ = thermal equator **held**. Trap: wrote Hadley+Ferrel **direct**, Polar **indirect**, Coriolis powers the indirect cell. Lock: **Hadley + Polar = thermally direct**. **Ferrel = thermally indirect**, **powered by the other two**. Cluster **+3 20 Sep**.
 
 **Meridional:** pressure differences on this diagram sit **north–south** (across latitudes), not east–west (along a latitude). Air follows pressure. So Hadley / Ferrel / Polar are **meridional** (along **meridians**). North–south **includes** south–north.
 

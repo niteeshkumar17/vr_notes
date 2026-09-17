@@ -667,6 +667,10 @@ See **Lecture 3** below (`HIS-IVC3`). Do not restudy town planning / trade as a 
 
 **Pashupati seal (Mohenjo-daro).** A man in **yogic posture** (**mulabandhasana** — heels joined, sitting on the heels), wearing a **trident**, **surrounded by animals**. Named **Pashupati seal** by **John Marshall** (not an Indian scholar). Animals named in class include elephant, tiger, deer / chital. Various other statues and seals also show **yogic postures** → **yoga in IVC**.
 
+### Update — 17 September 2026 (Ghost Recall)
+
+`MST-100`. No temple/palace **held**. Ecological decline + Late **1900–1300** ≠ Aryan-arrival **held**. Trap: wrote **Iravatham Mahadevan** as the seal-namer. Lock: **John Marshall**. Mahadevan = early **Dravidian** / Aryans **migrate**. Leftover: Wheeler / B.B. Lal one-liners. Cluster **+3 20 Sep**.
+
 **Linga:** objects identified as **shivalinga** (male + female sexual organs). Class: if the exam asks whether lingas are found, the answer taught is **yes** (ASI identification). Some could be random objects — still write the class identification.
 
 **Fire worship.** Rites / fire altars; materials and bones → **sacrificial** festivals.
@@ -904,4 +908,5 @@ Unicorn on seals is **not** a one-horn rhino (does not match). Horse-with-fake-h
 <!-- 2026-09-14: Vijender Singh L2 — town planning (grid, 1:2:4 bricks, toilets, sewage, utilitarian/egalitarian), Harappan ware, metallurgy + hexadecimal/decimal weights, Chanhudaro beads, script theories, agri + four irrigations, Dholavira rainwater, trade map. Religion parked. Cluster HIS-IVC2 due 15 Sep. -->
 <!-- 2026-09-14 evening: MST-088 Gujarat stone; MST-089 Lothal horizontal sewage; MST-090 CSE-2021-Q32 Dholavira ≠ Kalibangan; CSE-2026-Q08 1+2 held; CSE-2021-Q37 2+3 held. Still Q1 15 Sep. -->
 <!-- 2026-09-16: Vijender Singh L3 — religion (no temple; Pashupati Marshall; Great Bath), Wheeler/Lal/Mahadevan, decline theories + ecological lock, Late Harappan 1900–1300, artifacts/lost wax/seals, other Chalcolithic + two class maps, legacies. Cluster HIS-IVC3 due 17 Sep Q2. -->
+<!-- 2026-09-17: Ghost Recall. No temple + ecological decline held. MST-100 Pashupati = John Marshall, not Mahadevan. Cluster +3 20 Sep. -->
 

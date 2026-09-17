@@ -198,6 +198,10 @@ Moderator, containment, PHWR / LWR / FBR, and **Bhabha’s three-stage programme
 ### C. India's Indigenous Nuclear Submarine Fleet (P5 + 1 Club)
 - **Indigenous Construction:** Project Advanced Technology Vessel (ATV).
   - **INS Arihant (SSBN-80):** India's first indigenously designed and built nuclear-powered ballistic missile submarine (commissioned 2016).
+
+### Update — 17 September 2026 (Ghost Recall)
+
+`MST-102`. Radura / zero residual and mutagenic **no foreign DNA** **held**. Trap: wrote Arihant **2007**. Lock: commissioned **2016**. Cluster **+16 3 Oct**.
   - **INS Arighat:** Second indigenous nuclear submarine (commissioned 2024).
   - **INS Aridhaman:** Third ballistic missile nuclear submarine (under advanced development/induction).
 - **Global Standing — P5+1 Elite Club:**
@@ -329,3 +333,4 @@ A comprehensive, three-pronged capability to deliver nuclear warheads from **Lan
 ---
 
 <!-- 2026-08-26: Created from Lecture 08 (Shobhit Sir) — Nuclear Technology, Civilian Non-Energy Applications (Medicine, Food Preservation, Radura, Mutagenic Crops), Military Uses (SSBN, P5+1, SLBMs), Ballistic vs Cruise Missiles, Agni-5 MIRV, BrahMos, Nuclear Triad & NFU Second Strike Doctrine. -->
+<!-- 2026-09-17: Ghost Recall +7 held (Radura / mutagenic). MST-102 Arihant commissioned 2016 not 2007. Cluster +16 3 Oct. -->

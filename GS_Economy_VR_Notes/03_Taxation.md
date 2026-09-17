@@ -1521,6 +1521,10 @@ Announced with the object of settling **pending disputes of service tax and Cent
 
 Sheet heading *Sabka Vishwas scheme — IT* here means **Indirect Tax**, **not** Income Tax. Two names so Prelims can split **DT / IDT**.
 
+### Update — 17 September 2026 (Ghost Recall)
+
+`MST-095` **repeat 2**. BAT = **ADD** recovered. Still wrote Sabka *IT* = **Income Tax** and left **1+3+4** blank. Lock: Vivad = **DT**; Sabka = **IDT**; key **1+3+4**. `MST-096` slabs + cess **held**; leftover **NAA → CCI**.
+
 **Two components of the scheme:**
 
 1. **Dispute resolution** — aimed at the **legacy cases** of Central excise duty and service tax now subsumed under GST, and **pending in litigation at various forums**.
@@ -1728,4 +1732,5 @@ Government bet: lower rate → **more quantity** purchased → revenue held up b
 ---
 
 <!-- 2026-09-15: Appended Lecture 8 (15/9) from transcript + 6 notebook pages — Vivad DT / Sabka IDT, BAT vs ADD/CVD, SMA–NPA–ARC–SARFAESI, e-Bikray→BAANKIT 3 Jan 2025, VAT MANVAT/MODVAT/CENVAT/ITC/inverted duty, GST dual/zero-rated/e-way, 22 Sep 2025 rates, NAA→CCI. GST Council/GSTAT/RPM/compensation parked. Cluster ECO-08. -->
+<!-- 2026-09-17: Ghost Recall. MST-095 repeat 2 — Sabka sheet IT = Indirect Tax; key 1+3+4. MST-096 held (5+18+40 + cess). BAT = ADD recovered. -->
 

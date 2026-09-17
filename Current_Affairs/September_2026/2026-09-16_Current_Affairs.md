@@ -47,6 +47,10 @@ NPCI: **0.4% MDR** on UPI P2M **above ₹2,000** from **15 Oct**; **not** to be 
 
 <span style="color: #e53e3e;">**Prelims trap:** This is **domestic MDR**, not **UPI–PayNow**. **P2P stays free** at any value. **RuPay debit** P2M **≤₹2,000** is also free. Cap **₹300** is for **₹75,000+**, not for the ₹2,000 threshold.</span>
 
+### Update — 17 September 2026 (Ghost Recall)
+
+`MST-101`. Rate **0.4%**, from **15 Oct**, **P2P free**, Kishau **Tons / 90–10 of 1994 / Delhi** **held**. Trap: dropped **above ₹2,000**. Cluster **+3 20 Sep**. Trade row still untested.
+
 ```mermaid
 flowchart TD
   UPI["UPI receipt"] --> CHK{"P2P or small vendor or ≤₹2,000 or listed essential?"}
@@ -121,3 +125,4 @@ Shah: **tenth** water dispute to be resolved since he became PM; **Delhi** the *
 | **IFAD** | International Fund for Agricultural Development (smallholder patch on Geography) |
 
 <!-- 2026-09-16: Hindu — (1) NPCI UPI 0.4% MDR above ₹2,000 from 15 Oct. (2) August merchandise exports 26% beat imports in % and $; deficit $9.4 bn. (3) Kishau 422 MW / ₹15,624 cr / Tons / 90-10 of 1994. GDP base extras → ECO-02-02. IFAD smallholders → GEO-08-07. One cluster CA-260916. First-pass 17 Sep Q3 — do not steal GEO-14 / HIS-IVC3. -->
+<!-- 2026-09-17: Ghost Recall first-pass held. MST-101 dropped above ₹2,000. Kishau held. Cluster +3 20 Sep. -->
