@@ -21,6 +21,7 @@
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 01: Strategy & Laws of Land) | 2026-08-16 | 8 | 100% | 2026-08-21 | Confident | 2012, 2017, 2022 | Mastered Magna Carta, Polity vs Politics, Parts/Schedules, Art 52/53/58. |
 | GS_Polity_VR_Notes | Polity Lecture 02 (Abhey Kumar — President of India) | 2026-09-11 | 7 | 90.0% | 2026-09-18 | Confident | 2018, 2020, 2022, 2023 | Ghost Recall **+3 held**. Nominated-out. `MST-071` **held** (vote value will not increase). Formula leftover: seats in the **denominator**, not only 1971 freeze. Cluster **+7 18 Sep**. |
 | GS_Governance_VR_Notes | 01 — Fundamentals of governance + civil services start (Gov-PS L1, 17 Sep) | 2026-09-17 | 0 | 0% | 2026-09-18 | New | - | **GOV-01** first-pass **Q1 18 Sep**. Govt ≠ governance. World Bank **1989**. SoP watertight vs India **C&B**. Jio-TRAI. Weber legal-rational. AIS two masters. Quasi-judicial **323A/B**. Generalist merits parked. |
+| GS_Economy_VR_Notes | 03 — Taxation L9 (composition, GST Council, RPM, GSTAT, angel tax, ZBB) | 2026-09-17 | 0 | 0% | 2026-09-18 | New | - | **ECO-09** first-pass **Q2 18 Sep**. Composition **1/5/6%**; Council **2/3–1/3 + 75%**; RPM ≥₹5k; GSTAT **Sep 2025**; nil ≠ exempt; angel scrap **1 Apr 2025**. Seven VAT items / 75% / zero-rated stay **ECO-08**. |
 | GS_Polity_VR_Notes | Indian Polity & Constitution (Lec 04 & 05: Part I & Territorial Reorg) | 2026-08-17 | 2 | 100% | 2026-08-20 | Confident | 2013, 2014, 2016, 2019, 2024 | Mastered Indestructible Union / Destructible States, Territory vs Union of India, Berubari Union 1960, Maganbhai 1969, 100th CAA 2015. |
 | Current_Affairs | Current Affairs (11–16 August 2026) | 2026-08-17 | 4 | 75.0% | 2026-08-20 | Confident | 2018, 2021, 2024 | Mastered Double Jeopardy vs PMLA (MST-013 Resolved), SC 9-Judge Mineral Royalty Entry 49/54 (MST-017 Resolved), GIM CAG Audit targets. Reviewing Zanskar glacier drainage basin (MST-019). |
 | Current_Affairs | Current Affairs (17 August 2026) | 2026-08-17 | 0 | 0% | 2026-08-18 | New | 2017, 2020, 2023 | Added CA-260817-01 to CA-260817-03 (Delhi CEO SIR Electoral Rolls Digitisation & Rule 21A Deletion Safeguards; ONOE Parliamentary Accountability vs Truncated Terms; ONOE Federal Autonomy & Constitutional Amendments Matrix). |
@@ -124,7 +125,7 @@
   - *MST-102 / Arihant 2016:* wrote **2007**.
   - *MST-095 repeat 2 / Sabka IT:* still **Income Tax**; 1+3+4 blank. BAT recovered.
 - **Held (15-day):** `MST-096` slabs; `MST-097` McDonald; `MST-098` invert **30/60**. Next **2 Oct**.
-- **Ghost Recall 18 Sep:** **Q1 GOV-01** (17 Sep Governance L1). **Q2:** second 17 Sep class if it lands; else **HIS-IVC2 +3**. **Q7 President +7**. Do **not** steal President for Q1. **Q8:** `MST-095` r2 · `MST-099` · `MST-100` · `MST-101` · `MST-102`.
+- **Ghost Recall 18 Sep:** **Q1 GOV-01** (17 Sep Governance L1). **Q2 ECO-09** (17 Sep tax L9). **Q7 President +7**. Do **not** steal President for Q1–Q2. **Q8:** `MST-095` r2 · `MST-099` · `MST-100` · `MST-101` · `MST-102`.
 
 ### Session 42 — 2026-09-16 (Ghost Recall)
 - **Subject:** ECO-08, IR-04, GEO-13 leftover, SOC-03 leftover, GEO-07 +7, MST-094/092

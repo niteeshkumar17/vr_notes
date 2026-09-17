@@ -1,10 +1,10 @@
 # 03 — Taxation
 
-> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)** + **15 September 2026 (Lecture 8)**  
-> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**; Lecture 8 added **2026-09-15**  
+> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)** + **15 September 2026 (Lecture 8)** + **17 September 2026 (Lecture 9)**  
+> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**; Lecture 8 added **2026-09-15**; Lecture 9 added **2026-09-17**  
 > **Teacher:** **BS Sir**  
-> **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26; L7 six pages dated 13/9/26; **L8 six pages dated 15/9/26**)  
-> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6); windfall / surtax, land tax vs land-revenue tax, professional tax, Equalisation Levy / Digital Service Tax, BEPS toolkit, faceless assessment (L7); **Vivad Se Vishwas / Sabka Vishwas, Border Adjustment Tax vs anti-dumping / countervailing, SARFAESI / e-Bikray–BAANKIT, VAT timeline + inverted duty, GST dual / zero-rated / e-way / 22 Sep 2025 rates / National Anti-Profiteering Authority (L8)**
+> **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26; L7 six pages dated 13/9/26; **L8 six pages dated 15/9/26**; **L9 seven pages dated 17/9/26**)  
+> **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6); windfall / surtax, land tax vs land-revenue tax, professional tax, Equalisation Levy / Digital Service Tax, BEPS toolkit, faceless assessment (L7); **Vivad Se Vishwas / Sabka Vishwas, Border Adjustment Tax vs anti-dumping / countervailing, SARFAESI / e-Bikray–BAANKIT, VAT timeline + inverted duty, GST dual / zero-rated / e-way / 22 Sep 2025 rates / National Anti-Profiteering Authority (L8)**; **GST composition scheme, GST Council, Reverse Charge Mechanism, GSTAT, zero / nil / exempt / non-GST, GST merits–demerits, angel tax, schemes vs non-schemes, line-item vs zero-based budgeting (L9)**
 
 ### Lecture 4 — 24 August 2026
 
@@ -1494,7 +1494,7 @@ Vivad Se Vishwas (Direct Tax) / Sabka Vishwas (Indirect Tax); Border Adjustment 
 
 ### Lecture 8 — 15 September 2026
 
-> Notebook dated **15/9/26**. Eighth BS Sir tax class. Clears the L7 parked list. Today: **Vivad Se Vishwas (Direct Tax)** / **Sabka Vishwas (Indirect Tax)**; **Border Adjustment Tax (BAT)** vs **anti-dumping duty** / **countervailing duty**; Non-Performing Asset (NPA) clock + **Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002**; **e-Bikray → BAANKIT**; Value Added Tax (VAT) timeline + inverted duty; GST extras that SS Sir L1 does not lock. **Parked next class:** Goods and Services Tax Council; compensation scheme; GST Appellate Tribunal (GSTAT); Reverse Charge Mechanism (RPM). Audio runs to class close.
+> Notebook dated **15/9/26**. Eighth BS Sir tax class. Clears the L7 parked list. Today: **Vivad Se Vishwas (Direct Tax)** / **Sabka Vishwas (Indirect Tax)**; **Border Adjustment Tax (BAT)** vs **anti-dumping duty** / **countervailing duty**; Non-Performing Asset (NPA) clock + **Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002**; **e-Bikray → BAANKIT**; Value Added Tax (VAT) timeline + inverted duty; GST extras that SS Sir L1 does not lock. **Parked next class:** Goods and Services Tax Council; composition scheme; GST Appellate Tribunal (GSTAT); Reverse Charge Mechanism (RPM). Cleared **Lecture 9 — 17 September 2026**.
 
 **How to read class shortcuts:** **DT / IDT** = Direct Tax / Indirect Tax; **BAT** = Border Adjustment Tax; **ADD** = Anti-Dumping Duty; **CVD** = Countervailing Duty; **NPA** = Non-Performing Asset; **SMA** = Special Mention Account; **ARC** = Asset Reconstruction Company; **SARFAESI** = Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest; **IBAPI** = Indian Banks Auctions Mortgage Properties Information; **VAT / GST** = Value Added Tax / Goods and Services Tax; **ITC** = Input Tax Credit; **NAA** = National Anti-Profiteering Authority; **CCI** = Competition Commission of India. Full forms on first use.
 
@@ -1650,9 +1650,9 @@ So, in order to **scrap the multiple indirect-tax structure**, to introduce a **
 
 **E-way bill:** an **electronic document** generated on the **GST portal**, **GST app**, or even through **SMS**, evidencing the **movement of goods 10 km away** from the **point of sale or point of production**, valued **more than ₹50,000**. Earlier **only inter-State**; later **intra-State** also, still measured from the point of production/sale (within 10 km the seller can still verify). Aim: seamless transport — invoice, weight, bill number travel with the consignment.
 
-**GST tree on the sheet (names only today):** dual structure; destination-based; e-way bill; zero-rated status; **National Anti-Profiteering Authority (NAA)**; GST Council; compensation scheme; ITC / inverted duty; **GST Appellate Tribunal (GSTAT)**; **Reverse Charge Mechanism (RPM)**. Council / compensation / GSTAT / RPM = **next class**.
+**GST tree on the sheet (names only on L8):** dual structure; destination-based; e-way bill; zero-rated status; **National Anti-Profiteering Authority (NAA)**; GST Council; composition scheme; ITC / inverted duty; **GST Appellate Tribunal (GSTAT)**; **Reverse Charge Mechanism (RPM)**. Council / composition / GSTAT / RPM = **Lecture 9**.
 
-To bring any of the remaining seven VAT items under GST, class: **75% voting** in the GST Council.
+To bring any of the remaining seven VAT items under GST, class: **75% voting** in the GST Council. Membership and the 2/3–1/3 split = **Lecture 9**.
 
 ---
 
@@ -1679,7 +1679,7 @@ Government bet: lower rate → **more quantity** purchased → revenue held up b
 
 **National Anti-Profiteering Authority (NAA).** Constituted by the **Central government** after GST, to analyse whether **ITC credit** availed by any **registered person**, or a **reduction in tax**, is **passed on to the consumers**, and the public is protected from **random price increase** for self-interest **in the name of GST**. Class story: vegetable thali 18% → 5%; some sellers raised the base price so the bill stayed ₹118. Penalty / **six-month** licence suspension / permanent cancellation if not corrected. **For five years 2017–2022.** **In 2022 NAA was subsumed under the Competition Commission of India (CCI).**
 
-**GST Council** — heading on the sheet; **not taught today**. Next class.
+**GST Council** — heading on the L8 sheet; taught **Lecture 9**.
 
 ---
 
@@ -1691,11 +1691,236 @@ Government bet: lower rate → **more quantity** purchased → revenue held up b
 4. **e-Bikray** Feb **2019**, FM, **PSBs only**, mortgaged NPA properties. **IBAPI** = IBA + Department of Financial Services. Replaced by **BAANKIT 3 January 2025** (sheet wrote 2021).
 5. VAT = goods, **same State**, every stage of the chain. **L.K. Jha 1986** (same MSP 1964 committee) → suggest **MANVAT** → **MODVAT 8/16/24** → **2000 CENVAT 16%** (Yashwant Sinha) → **2004 ITC** in CENVAT and **SLVAT**. **Inverted duty** = output tax **<** input tax → ITC pile, **usually refunded**.
 6. GST July **2017** scraps the VAT-plus-many-cesses stack. **Same State = CGST+SGST**; **inter-State = IGST first**, then **equal** split with the **consumer** State. **UT without assembly = UTGST**. Exports = **zero-rated** (no GST + **ITC refund**); **imports still GST**. **E-way:** portal / app / SMS; **10 km** from sale or production; value **> ₹50,000**.
-7. From **22 September 2025**: slabs **5% + 18%** + special **40%**; **compensation cess scrapped**; old **12% → 5%**. Small petrol **≤1200 cc / 4 m**, diesel **≤1500 cc**, bikes **≤350 cc** = **18%**; beyond that, sin goods, aerated drinks = **40%**. **NAA** Centre, 2017–22, then **CCI**. **GST Council / GSTAT / RPM / compensation scheme = next class.**
+7. From **22 September 2025**: slabs **5% + 18%** + special **40%**; **compensation cess scrapped**; old **12% → 5%**. Small petrol **≤1200 cc / 4 m**, diesel **≤1500 cc**, bikes **≤350 cc** = **18%**; beyond that, sin goods, aerated drinks = **40%**. **NAA** Centre, 2017–22, then **CCI**. **GST Council / GSTAT / RPM / composition scheme = Lecture 9.**
 
 ---
 
-## Abbreviations used in Lecture 8
+### Lecture 9 — 17 September 2026
+
+> Notebook dated **17/9/26**. Ninth BS Sir tax class. Clears the L8 parked list. Today: **GST composition scheme**; **GST Council** (members, voting); taxes **subsumed** vs the **seven** still under VAT; **Reverse Charge Mechanism (RPM)**; **GST Appellate Tribunal (GSTAT)**; **zero / nil / exempt / non-GST**; GST **merits and demerits**; **angel tax**; public expenditure **schemes vs non-schemes**; **line-item** vs **zero-based** budgeting. **Parked next class:** performance / outcome budgeting; gender budgeting (named, Union **2016**); Finance Commission **14th / 16th**. Audio runs to class close.
+
+**Already in L8 / SS Sir L1 — do not restudy:** dual GST; destination-based; e-way; **zero-rated exports + ITC refund**; **22 Sep 2025** slabs; **compensation cess scrapped**; **NAA → CCI**; seven VAT items exist; **75%** Council vote (membership taught today). Cluster for *this* sitting is **ECO-09**.
+
+---
+
+## 26. GST composition scheme (ECO-09-01)
+
+**Optional**, not mandatory. For **small** units.
+
+| Who | Annual turnover ceiling (class) |
+|:---|:---|
+| **Manufacturer** | **less than ₹1.5 crore** |
+| **Service provider** | **less than ₹50 lakh** |
+
+Above the ceiling you **cannot** opt in. Below it you **may** stay on the normal GST track.
+
+| | **Without** composition | **With** composition |
+|:---|:---|:---|
+| Who remits GST | Final **consumer** (seller collects) | **Manufacturer / service provider** pays; **final consumer does not** |
+| **Input Tax Credit (ITC)** | **Available** | **Not** available |
+| Return | **Monthly** GST return | **Quarterly** GST return |
+
+**Rates under composition (on annual turnover):**
+
+- Manufacturers **1%**
+- Restaurants **not** serving alcohol **5%**
+- Other service providers (including restaurants **serving** alcohol) **6%**
+
+**Prelims trap:** a bill that shows **GSTIN** but **tax = 0** is **not** a fake invoice — the shop is likely **on composition** (they do not collect GST from the customer; they pay the low turnover rate themselves). Class juice-shop: ₹100 glass, tax line **zero**.
+
+Class purpose: relax small units; items stay cheaper → more buyers. Trade-off: owner pays GST and **loses ITC**.
+
+---
+
+## 27. GST Council — members and votes (ECO-09-02)
+
+| Member | Post |
+|:---|:---|
+| **Union Finance Minister** | **Chairperson** |
+| **Union Minister of State (Finance)** | **Only member** (not chair) |
+| **One** selected minister from **each State** (and **Union Territory with a legislature**) — preferably Finance / Commerce / any tax-related minister | **Members** |
+| **Any one** of those State members, elected as their representative | **Vice-Chairperson** |
+
+**Without voting rights**
+
+- **Chairperson, Central Board of Indirect Taxes and Customs (CBIC)** — only member. Board renamed **2017** at GST: earlier **Central Board of Excise and Customs (CBEC)**. Class: **customs duty still exists** at the border (export and import); that is why the board still says **and Customs**. **Central Board of Direct Taxes (CBDT)** is the cousin, not this body.
+- **Revenue Secretary** to Government of India — **ex-officio Secretary** of the GST Council (whoever holds the Revenue Secretary post automatically holds this). Arranges meetings / release of funds.
+
+**Voting (class lock).** States do ~**two-thirds** of public expenditure → States have **2/3 of the votes**; Centre **1/3**. **Any decision** (including whether an item comes into GST) needs **at least 75%** voting support.
+
+**Why the seven items stay under VAT:** States will not give 75%. Class: Centre proposed petrol/diesel **July 2022**; States said no (they can levy **high** own VAT — alcohol example **~68%** — which GST slabs cannot match). **LPG is not** in the seven: domestic **5%**, commercial **18%** GST.
+
+**Items still under VAT / not under GST** (same seven as L8; names locked today):
+
+1. **Crude oil**
+2. **Aviation Turbine Fuel (ATF)**
+3. **Petrol** (GST portal technical name: **motor spirit**)
+4. **Diesel** (**high-speed diesel**)
+5. **Natural gas** (**except LPG**)
+6. **Electricity**
+7. **Alcohol** for **human consumption**
+
+---
+
+## 28. Taxes subsumed under GST (ECO-09-03)
+
+Once GST is on the label, these **cannot** be levied as separate names:
+
+- **Central Value Added Tax (CENVAT)**
+- **State-Level Value Added Tax (SLVAT)**
+- **Service tax**
+- **Additional excise duty**
+- **Additional duty of customs** = **Countervailing Duty (CVD)** — on imports now as **IGST**
+- **Special Additional Duty of Customs (SAD)**
+- **Purchase tax**
+- **Luxury tax**
+- **Entertainment tax** — **only the State-government** levy (cinema ticket now shows GST). **Municipality / municipal corporation** can still levy their own entertainment tax (class: a *mela*). “Tax-free film” in a State = **SGST** waived; **CGST** may still sit unless the Centre also waives.
+- **Entry tax** (State governments, at **State boundaries**)
+- **Octroi** (municipalities / municipal corporations)
+- **Tax on lottery and gambling**
+
+**Duty vs tax (L8 lock still):** **duty = goods**; **excise** = production; **customs** = border.
+
+---
+
+## 29. Reverse Charge Mechanism (ECO-09-04)
+
+**Normal GST:** buyer pays price + GST **to the seller**; seller remits to government.
+
+**Reverse Charge Mechanism (RPM):** for listed goods/services, the **registered buyer** pays GST **directly to the government instead of the seller**, and must **self-invoice** the purchase. Class: seller may be **unaware / rural / no CA** — government still wants the tax.
+
+| Purchase | What the buyer remits |
+|:---|:---|
+| **Intra-State** | **CGST + SGST** |
+| **Inter-State** | **IGST** |
+
+Applies to **both goods and services**. Class threshold: products valued **₹5,000 and above**. Sheet examples: **tobacco leaves**, **silk yarn**, **tendu leaves**.
+
+---
+
+## 30. GSTAT (ECO-09-05)
+
+**GST Appellate Tribunal (GSTAT).** **Central Goods and Services Tax (CGST) Act, 2017, Section 109** mandates constitution of GSTAT and its benches. **Specialised appellate authority** for disputes under the GST laws (class: a State not getting SGST on time; ITC refund fight; Kerala flood cess on GST — Council rejected).
+
+**Formally launched September 2025** as a **statutory** body under the 2017 Act. **Principal bench in Delhi** + **31 State benches**. (Mandate sat in the 2017 Act; the body itself waited until 2025.)
+
+---
+
+## 31. Zero GST vs nil GST vs exempt vs non-GST (ECO-09-06)
+
+A label of **0%** is **not** “outside GST.” Four boxes. **Zero-rated exports** already on **ECO-08-06** — new facts are the three cousins.
+
+| Box | Where | Output GST | ITC |
+|:---|:---|:---|:---|
+| **Zero GST** (= **zero-rated**) | **External** trade — **exports only** (L8) | **0%** | **Available** (refund) |
+| **Nil GST** | **Internal** trade only | **0%** | **Not** available |
+| **Exempt GST** | Goods **and** services **specifically exempted** by **government notification** | **0%** | **Not** available |
+| **Non-GST** | **Not taxed under the CGST Act**; may be charged under a **local sales-tax law or any other Act** | — | — |
+
+**Exempt vs nil (class thin line):** **nil** has been **0% since GST began (July 2017)**. **Exempt** had a **positive rate**, then a **notification** took it to zero to **promote** the activity. Class: **4 August 2025** announced that from **22 September 2025** **life / health / travel insurance** GST is **exempt** (was **18%**).
+
+**Exempt examples (sheet):** live animals (cow, sheep, goat, poultry); fresh and frozen meat of goat / sheep / pig / cow / horse; fresh and frozen fish; natural products — **honey, cheese, eggs**; insurance — **life, health, travel**.
+
+**Non-GST example:** the **seven** VAT items.
+
+**Prelims trap:** palm oil at **0%** on a pack is **not** “one of the seven outside GST.” It is **zero / nil / exempt** *inside* GST.
+
+---
+
+## 32. Merits and demerits of GST (ECO-09-07)
+
+**Merits (sheet)**
+
+- Removes **cascading** because of **ITC refund** (past tax is **not** carried into the next price → **no tax-on-tax**).
+- Makes the **final-goods price less expensive**.
+- ITC refund **cuts manufacturing cost** → supports **Make in India**, **Production Linked Incentive (PLI)**, **vocal for local**.
+- **Promotes exports** (zero-rated + ITC refund).
+- **One nation, one tax** → a **national common market**.
+- **Ease of doing business:** registration → return filing **online**; physical tax-office visits drop.
+- **Boosts logistics:** **entry tax** and **octroi** subsumed — no need for **border warehouses** / tractor-hops to dodge check-posts; perishable fruit/veg lose less time (class: Ministry of Food Processing — only ~**40%** quality consumed; ~**₹1 trillion**/year fruit-and-veg lost).
+- Tackles **corruption / tax leakages**; whole chain **transparent** (online register, return, pay). Registration also **formalises** the economy (better turnover / GDP measurement).
+
+**Demerits (sheet)**
+
+- Raises cost of production: **software** purchase + fees to tax experts (monthly returns).
+- GST registration needed in **every State** where the firm operates (GSTIN **state-code** prefix, e.g. **07** = Delhi) → tedious paperwork. Class: why not **one nation, one registration**?
+- **Failure of the GST Council** not to bring the **seven** items under GST — people still pay **heavy** VAT on them.
+- **Initial** phase: officers **not** fully informed on software / systems. Class: some service providers were told they could use **composition** when composition **did not yet cover services** → notices, interest, penalty → one reason **Sabka Vishwas** existed.
+
+**Class close:** merits **outweigh** demerits. Being GST-compliant, a business gets a **unified** tax system and **easy input credits**.
+
+---
+
+## 33. Angel tax (ECO-09-08)
+
+Introduced by **Pranab Mukherjee** as Finance Minister, **2012**. Levy on **unlisted** start-up companies if they **sell shares at a price higher than Fair Market Value (FMV)** (valuer-approved). The **excess** over FMV is treated as **income** of the **start-up** and taxed at the **maximum income-tax rate** (class **30%**). Class: the popular name is **angel tax**; the **payer is the start-up**, not the angel — so it behaves like a **start-up tax**.
+
+**Later:** government **exempted registered** start-ups (register under company / partnership law; **listing** on a stock exchange is a different act) to promote them.
+
+**September 2023:** opened the investment gate for **non-resident** investors also.
+
+**Continuous withdrawal** of angel investors continued → **August 2024** government announced a **scrap**, **applicable from 1 April 2025**.
+
+---
+
+## 34. Public expenditure — schemes vs non-schemes (ECO-09-09)
+
+Before **2017**, Union expenditure was split **plan / non-plan** (Planning Commission era). **NITI Aayog** replaced the Commission from **2015**, but the **plan / non-plan** labels continued until the **2017–18** Budget.
+
+On recommendations of the **C. Rangarajan** and **Bimal Jalan** committees, the **2017–18** Budget **discontinued** plan / non-plan and introduced **schemes** and **non-schemes**.
+
+```mermaid
+flowchart TD
+  PE["Public expenditure from 2017-18"]
+  PE --> SCH["Schemes"]
+  PE --> NS["Non-schemes"]
+  SCH --> CSS["Centrally Sponsored Schemes — shared Centre/State"]
+  SCH --> CS["Central Sector Schemes — 100% Centre"]
+  NS --> W["Wages and salaries"]
+  NS --> SU["Subsidies"]
+  NS --> P["Pension payments"]
+  NS --> G["Grants to States"]
+  NS --> RS["States' revenue share"]
+  NS --> D["Defence"]
+  NS --> I["Interest payments"]
+```
+
+**Centrally Sponsored Scheme (CSS)** class shares: **60:40**, **75:25**, some **51:49**; **North-East** often **90:10**. **Central Sector (CS)** = **no State share**, **100%** Union.
+
+---
+
+## 35. Techniques of government budgeting (ECO-09-10)
+
+UPSC heading is **government budgeting** (a slice of fiscal policy). Four names on the sheet; **only two taught today**.
+
+| Technique | Class lock |
+|:---|:---|
+| **Line-item** | This year’s ministry/department budget is prepared **with consideration of last year’s allocation**. |
+| **Zero-based budgeting (ZBB)** | Prepared **as if there was no previous budget** — **base = zero**. Allocate each item **on merit**, not on last year’s figure. Helps **rationalise** spend and **weed out non-essential** expenditure. Class: **Britain, Sweden, India** and a few others. |
+| **Performance / outcome** | Named; **parked**. |
+| **Gender budgeting** | Named; Union **2016**; **parked**. |
+
+**Prelims trap:** ZBB is **not** “ignore the country’s needs.” It ignores **last year’s rupee as the starting point**.
+
+**Parked next class:** performance / outcome; gender budgeting in the current Budget; **14th / 16th Finance Commission** (class: 14th ended **31 March 2026**, pandemic extension; 16th starts after).
+
+---
+
+## 36. Lecture 9 — UPSC Quick Recall
+
+1. Composition = **optional**. Manufacturer **< ₹1.5 cr**; service **< ₹50 lakh**. With it: **seller pays**, consumer does **not**; **no ITC**; **quarterly** return. Rates **1% / 5% (no-alcohol restaurant) / 6%**. GSTIN + tax **0** ≠ fake bill.
+2. Council: **FM chairs**; MoS Finance = member only; States elect **Vice-Chair**. Votes **States 2/3, Centre 1/3**; need **75%**. CBIC chair + Revenue Secretary = **no vote**. **CBEC → CBIC 2017**; **customs still lives**.
+3. Seven still VAT: crude, ATF, petrol (**motor spirit**), diesel (**HSD**), natural gas **except LPG**, electricity, alcohol. **LPG is GST**.
+4. RPM: **registered buyer** pays GST **to government**, **self-invoices**. Intra **CGST+SGST**; inter **IGST**. Goods **and** services; **≥ ₹5,000**. Tobacco leaves / silk yarn / tendu.
+5. GSTAT: **CGST Act 2017 s.109**; **launched Sep 2025**; Delhi **principal** + **31** State benches.
+6. **Zero** = exports + **ITC**. **Nil** = domestic 0% **since 2017**, **no ITC**. **Exempt** = **notification** (insurance **22 Sep 2025**). **Non-GST** = the seven.
+7. Angel tax **2012** Pranab; unlisted shares **above FMV**; **scrap announced Aug 2024**, from **1 Apr 2025**.
+8. **2017–18**: plan/non-plan **out** (Rangarajan + Bimal Jalan) → **CSS / CS** vs wages, subsidy, pension, grants, devolution, defence, interest. **Line-item** = last year’s rupee; **ZBB** = base **zero**.
+
+---
+
+## Abbreviations used in Lectures 8–9
+
 
 | Shortcut | Full form |
 |:---|:---|
@@ -1728,9 +1953,23 @@ Government bet: lower rate → **more quantity** purchased → revenue held up b
 | **RPM** | Reverse Charge Mechanism |
 | **NAA** | National Anti-Profiteering Authority |
 | **CCI** | Competition Commission of India |
+| **GSTIN** | Goods and Services Tax Identification Number |
+| **CBEC** | Central Board of Excise and Customs (renamed **2017**) |
+| **CBIC** | Central Board of Indirect Taxes and Customs |
+| **CBDT** | Central Board of Direct Taxes |
+| **ATF** | Aviation Turbine Fuel |
+| **HSD** | High-Speed Diesel |
+| **SAD** | Special Additional Duty of Customs |
+| **LPG** | Liquefied Petroleum Gas |
+| **PLI** | Production Linked Incentive |
+| **FMV** | Fair Market Value |
+| **CSS / CS** | Centrally Sponsored Scheme / Central Sector Scheme |
+| **ZBB** | Zero-Based Budgeting |
+| **FM / MoS** | Finance Minister / Minister of State |
 
 ---
 
-<!-- 2026-09-15: Appended Lecture 8 (15/9) from transcript + 6 notebook pages — Vivad DT / Sabka IDT, BAT vs ADD/CVD, SMA–NPA–ARC–SARFAESI, e-Bikray→BAANKIT 3 Jan 2025, VAT MANVAT/MODVAT/CENVAT/ITC/inverted duty, GST dual/zero-rated/e-way, 22 Sep 2025 rates, NAA→CCI. GST Council/GSTAT/RPM/compensation parked. Cluster ECO-08. -->
+<!-- 2026-09-15: Appended Lecture 8 (15/9) from transcript + 6 notebook pages — Vivad DT / Sabka IDT, BAT vs ADD/CVD, SMA–NPA–ARC–SARFAESI, e-Bikray→BAANKIT 3 Jan 2025, VAT MANVAT/MODVAT/CENVAT/ITC/inverted duty, GST dual/zero-rated/e-way, 22 Sep 2025 rates, NAA→CCI. GST Council/GSTAT/RPM/composition parked. Cluster ECO-08. -->
 <!-- 2026-09-17: Ghost Recall. MST-095 repeat 2 — Sabka sheet IT = Indirect Tax; key 1+3+4. MST-096 held (5+18+40 + cess). BAT = ADD recovered. -->
+<!-- 2026-09-17: Appended Lecture 9 (17/9) from transcript + 7 notebook pages — composition 1/5/6, GST Council votes, subsumed taxes, RPM ≥₹5k, GSTAT s.109 Sep 2025 Delhi+31, zero/nil/exempt/non-GST, merits–demerits, angel tax scrap 1 Apr 2025, schemes vs non-schemes 2017–18, line-item vs ZBB. Cluster ECO-09. -->
 
