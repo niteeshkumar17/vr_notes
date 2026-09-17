@@ -271,6 +271,21 @@ Will **not** be retaught in the Pakistan lectures — “recall lecture 2 / this
 
 **What should India do:** **strengthen itself** — **economic, military, technological** — and keep **good ties with the West**. Class pegs: indigenous **Sudarshan Chakra** air defence; **S-400** (Russia) in the Pakistan air threat; **German** submarines, **French Rafale**; **US** still **indispensable** (even under Trump) — **Maverick** anti-tank; **Pax Silica** (US grouping vs China’s semiconductor choke — already IR-01). **BRICS must not be painted anti-Western.**
 
+### Update — 17 September 2026 (*The Hindu* — Pak–China Boundary Joint Commission)
+
+**Press Trust of India.** First meeting of the **Pakistan–China Boundary Joint Commission** in **Islamabad**. India **rejected** it (clip: **Wednesday**).
+
+**Ministry of External Affairs (MEA) spokesman Randhir Jaiswal:** the body has **no legal basis** to decide arrangements on **Indian territory under illegal occupation**. **“There is no boundary between Pakistan and China.”** India rejects the so-called Joint Commission as **without any legal basis**.
+
+**Already in this class — do not restudy:** Shaksgam **1963** gift; **China–Pakistan Economic Corridor (CPEC)** through **Pakistan-occupied Kashmir (PoK)**; India **rejects CPEC** as a sovereignty violation.
+
+**New locks**
+
+- India has **never recognised** the so-called **China–Pakistan Boundary Agreement of 1963**.
+- Entire **Union Territories of Jammu and Kashmir and Ladakh** “**have been, are and will always remain integral and inalienable parts of India**.”
+
+Same **IR-04-07** cluster — **no extra Day-1.** Pointer also on Internal Security L1 (`IS-01-04`).
+
 ---
 
 ## 8. Lecture 4 — UPSC Quick Recall
@@ -314,3 +329,4 @@ Will **not** be retaught in the Pakistan lectures — “recall lecture 2 / this
 ---
 
 <!-- 2026-09-15: Varma Sir Sino–India Part 1 from transcript + 6 sheets. Cluster IR-04. Part 2 (pearls, BRI, rivers, trade deficit) parked. -->
+<!-- 2026-09-17: Hindu — India rejects Pak–China Boundary Joint Commission (first meeting Islamabad). Never recognised 1963 China–Pakistan Boundary Agreement. J&K + Ladakh UTs inalienable. Patch IR-04-07; no extra Day-1. -->

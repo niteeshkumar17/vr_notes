@@ -70,6 +70,8 @@ After the **1971** war (**Bangladesh Liberation**; class: third war with Pakista
 
 **14 Sep follow-up (same cluster):** **António Guterres** — **no such thing as a UN map with borders**; website sheet = **NGO / indicative**, not official. **MEA** is **taking the anomaly up with the UN**. No extra Day-1.
 
+**17 Sep Hindu (same cluster):** India rejected the **Pakistan–China Boundary Joint Commission** (first meeting **Islamabad**). Never recognised the **1963 China–Pakistan Boundary Agreement**. Full extra on `GS_IR_VR_Notes/04_Sino_India_Relations.md` (**IR-04-07**). **No extra Day-1.**
+
 ---
 
 ## 5. Insurgency; Naga (1952) (IS-01-05)
