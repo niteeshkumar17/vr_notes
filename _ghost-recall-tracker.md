@@ -22,12 +22,12 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ---
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-09-17
-*   **Active Micro-Topics:** 676
+*   **Today's Date:** 2026-09-18
+*   **Active Micro-Topics:** 678
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **GOV-01** (17 Sep Governance L1) first-pass **18 Sep Q1**. **ECO-09** (17 Sep tax L9) first-pass **18 Sep Q2**. **CA-260917** (RCMC de minimis) first-pass **18 Sep Q3** — do **not** steal Q1–Q2. Pak–China Joint Commission patched on **IR-04-07** (no extra Day-1). **GEO-14** / **HIS-IVC3** / **CA-260916** first-pass **held** (atoms) → cluster **+3 20 Sep**. **ST-07** leftover first-pass **held** → **+3 20 Sep**. **ECO-07** buffer **held** → **+3 20 Sep**. **CA-260910** leftover first-pass **held** → **+3 20 Sep**. **ST-02 +7 held** (Arihant atom) → **+16 3 Oct**. `MST-096` / `MST-097` / `MST-098` **held** → 15-day **2 Oct**. `MST-095` **repeat 2** atomic **18 Sep**.
+*   **New Topics Ingested Today:** **CA-260918** (SEMICON India 2026 / ISM 2.0) first-pass **19 Sep leftover** — do **not** steal class Q1–Q2 if 18 Sep lectures land. **GOV-01** / **ECO-09** / **CA-260917** were first-pass **18 Sep**. Pax Silica stays **IR-01** (no extra Day-1). **GEO-14** / **HIS-IVC3** / **CA-260916** first-pass **held** (atoms) → cluster **+3 20 Sep**. **ST-07** leftover first-pass **held** → **+3 20 Sep**. **ECO-07** buffer **held** → **+3 20 Sep**. **CA-260910** leftover first-pass **held** → **+3 20 Sep**. **ST-02 +7 held** (Arihant atom) → **+16 3 Oct**. `MST-096` / `MST-097` / `MST-098` **held** → 15-day **2 Oct**. `MST-095` **repeat 2** atomic **18 Sep**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -632,6 +632,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260916-02 | Aug 2026 merchandise exports 26% beat imports in % and $; deficit $9.4 bn vs $11.6 bn | 2 | ★★★★★ | Day 1 | 2026-09-17 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `First time export $ growth > import $ growth` $\leftrightarrow$ `Volume not only rupee` $\leftrightarrow$ `Overall exports 25.4% to $82.7 bn` $\leftrightarrow$ `Untested 17 Sep` |
 | CA-260916-03 | Kishau 422 MW / ₹15,624 cr on Tons; six governments; Centre ~90% per 1994; Delhi biggest beneficiary | 3 | ★★★★★ | Day 3 | 2026-09-20 | 90% | Rising 📈 | 80% | 78% | 1 | 0 | - | 2026-09-17 | Fast 🟢 | `Tons / ~90-10 of 1994 / Delhi held` $\leftrightarrow$ `~400 MW gist of 422` $\leftrightarrow$ `UK-HP border leftover` |
 | CA-260917-01 | Commerce de minimis: no RCMC / Certificate of Registration for export consignments ≤₹3 lakh; post/courier/emerging | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Export promotion council or commodity board` $\leftrightarrow$ `$3,000 band = 43% shipping bills but 0.86% merchandise export value` $\leftrightarrow$ `2021-22 to 2025-26` $\leftrightarrow$ `≠ GST composition ECO-09` $\leftrightarrow$ `Pak-China Joint Commission = IR-04-07 no extra Day-1` |
+| CA-260918-01 | SEMICON India 2026 New Delhi; ISM 2.0 ₹1.27 lakh cr; simultaneous design-fab-equipment-materials-testing; 1 lakh talent / >1 lakh technicians in 5 yrs; ≥200 design start-ups | 3 | ★★★★★ | Day 1 | 2026-09-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Vaishnaw: almost double phase-1 design pillar` $\leftrightarrow$ `ISM ≠ SEMI` $\leftrightarrow$ `₹1.27 lakh cr ≠ global $1.3 tn` $\leftrightarrow$ `Pax Silica = IR-01 no extra Day-1` |
+| CA-260918-02 | SEMI $1.3 tn this year / $2 tn by 2030; Applied Materials $5 bn over 5 yrs R&D+supply chain; Micron Sanand commercial production; Infineon hiring in India +28% | 3 | ★★★★★ | Day 1 | 2026-09-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mehrotra: capacity exceeds India laptop-memory need` $\leftrightarrow$ `$5 bn = Applied Materials not Micron` $\leftrightarrow$ `Sanand earlier this year` |
 
 ---
 
@@ -960,9 +962,9 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **18 Sep Q1:** **GOV-01** (17 Sep Governance L1). **Q2 ECO-09** (17 Sep tax L9). Do **not** steal President **+7** for Q1–Q2.
-  2. **18 Sep Q3–Q6:** **CA-260917** first-pass (RCMC) · **CA-260913** / **CA-260914** +3 · **ST-08 +3** if a slot. Do **not** steal Q1–Q2.
-  3. **18 Sep Q7:** President **+7**. **Q8:** `MST-095` **repeat 2** · `MST-099` direct/indirect · `MST-100` Marshall · `MST-101` ₹2,000 · `MST-102` Arihant **2016**
+  1. **19 Sep Q1–Q2:** 18 Sep classes if ingested; else **GEO-13 +3** / **SOC-03 +3**. Do **not** steal for CA.
+  2. **19 Sep leftover:** **CA-260918** first-pass (SEMICON / ISM 2.0) · **IR-04** leftover +3 if a slot
+  3. **18 Sep Q1–Q2** were **GOV-01** / **ECO-09** (log when recall lands). President **+7** was 18 Sep Q7.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 
 
