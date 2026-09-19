@@ -21,4 +21,8 @@ No person shall be deprived of his property save by authority of law.
 - Indira Gandhi's government had issues with Right to Property as a FR because it obstructed land reform legislation.
 - The Janata Party government (post-Emergency) amended it to balance individual rights with state's welfare objectives.
 
+### Update — 20 September 2026 (*The Hindu* — FCRA JPC)
+
+Opposition at the **Foreign Contribution (Regulation) Amendment Bill, 2026** JPC: deprivation of property cannot be permitted **without a prior hearing** under **Article 300A**. That is their argument, not a new Supreme Court holding in the clip. Full sitting extras: `Current_Affairs/July_2026/2026-07-30_Current_Affairs.md`. **No extra Day-1.**
+
 </details>

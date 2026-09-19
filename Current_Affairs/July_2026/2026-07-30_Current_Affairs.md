@@ -194,6 +194,26 @@
 2. **Proportionality in Asset Seizure:** Ensure asset vesting applies strictly to the unutilized foreign contribution portion rather than seizing entire NGO properties built through domestic philanthropy.
 3. **Independent Oversight:** Establish an independent regulatory board for non-profits rather than leaving full cancellation powers under the Ministry of Home Affairs (MHA).
 
+### Update — 20 September 2026 (*The Hindu* — JPC first sitting)
+
+**Sobhana K. Nair.** First meeting of Parliament’s **Joint Parliamentary Committee (JPC)** on the **Foreign Contribution (Regulation) Amendment Bill, 2026**.
+
+**Already in this note / class — do not restudy:** FCRA **1976 / 2010 / 2020**; Bill **2026** asset-vesting (**s.16A**) and “public interest” cancellation; **August 2026** referral to a **31-member JPC** (**21 Lok Sabha + 10 Rajya Sabha**). JPC size = **POL-07**. **No extra Day-1.**
+
+**Ruling-side query:** utilisation of foreign contributions. **Opposition query:** what happens to **assets** when an organisation’s **FCRA licence is cancelled**.
+
+**Designated authority (Opposition lock).** If the FCRA certificate is **cancelled, surrendered, or lapses automatically**, foreign contributions **and all assets created from them** would vest in a government-appointed **designated authority**, **without a prior hearing or judicial determination**.
+
+**Union Home Ministry** (clip): the amendments aim to make use of foreign contributions more **transparent and accountable**. A **designated authority** is **not new**. Under existing law, a **5 November 2018** notification provides a **“prescribed authority”** — the **Additional Chief Secretary / Principal Secretary (Home)** of the concerned **State or Union Territory**. Current law has **no deadline** for that custodianship, so the prescribed authority is a **“passive custodian”** unable to take **substantive decisions on assets**. **No standard procedure** for taking possession, maintaining inventory, or **segregating foreign-contribution assets from domestically funded ones**. Prolonged custody can strain State **budgets and manpower** (schools, hospitals, orphanages). Existing law is also **silent** on **final disposal** of assets and on **places of worship**.
+
+**Article 300A.** Opposition members including **Dravida Munnetra Kazhagam (DMK)**’s **P. Wilson** and **Trinamool Congress**’s **Menaka Guruswamy**: deprivation of property cannot be permitted **without a prior hearing** under **Article 300A**. (Article 300A text / 44th Amendment stay on `Articles/Article_300A.md`.)
+
+**Religious cataloguing.** Home Ministry presentation listed foreign contributions by **religious group** and highlighted that a **majority of funds** were received by **Christian** organisations. Members asked why contributions were segregated under **religious headings**.
+
+**1976 backdrop (clip extra).** FCRA enacted **1976** at the height of **Cold War** geopolitics (mistrust of Western influence; sovereignty / democratic institutions). **Before 1976**, NGOs taking foreign funds sat under general laws — **Societies Registration Act**, **Trusts Act**, **Companies Act** — with **no centralised** monitor. Home Ministry: the latest amendment is, at its core, **“national security legislation.”**
+
+File photo: Opposition MPs protested the FCRA Bill in the **Budget Session** (**April**).
+
 ---
 
 ## 8. Integrated Theatre Commands: Defense Reforms & Tri-Services Jointness (Editorial Analysis)
@@ -264,3 +284,5 @@
 | **Historical Background** | Captured by Israel from Syria during the **1967 Six-Day War**. Israel unilaterally annexed the territory in 1981 (unrecognized under UN Security Council Resolution 497). |
 | **Key Settlement** | **Majdal Shams** — largest Druze town in the Israeli-controlled Golan Heights. |
 | **Strategic Significance** | High altitude provides a dominant military vantage point over Damascus (60 km away) and key water sources feeding the Jordan River basin. |
+
+<!-- 2026-09-20: Hindu — JPC first sitting on FCRA Amendment Bill 2026. Designated authority vs 5 Nov 2018 prescribed authority (ACS/PS Home); Art 300A prior-hearing argument; religious cataloguing questioned; pre-1976 Societies/Trusts/Companies; MHA = national security legislation. Patch only; no extra Day-1. JPC 21+10 = POL-07. -->

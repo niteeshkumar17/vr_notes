@@ -123,6 +123,10 @@ Do **not** write “RS is useless / less useful.” Visibility (LS elections, go
 | **Department-Related Standing Committee (DRSC)** | **31** each; class **24** DRSCs cover the ministries | **21 LS + 10 RS** |
 | **Joint Parliamentary Committee (JPC)** | **31** (this LS’s first JPC — current affairs; class did not name the subject) | **21 LS + 10 RS** |
 
+### Update — 20 September 2026 (*The Hindu* — class JPC now named)
+
+Class lock **31 = 21 LS + 10 RS** is unchanged. The unnamed “first JPC of this Lok Sabha” is the panel on the **Foreign Contribution (Regulation) Amendment Bill, 2026**. First sitting reported today. Bill extras (designated authority / **Article 300A** / 5 November 2018 prescribed authority) sit on `Current_Affairs/July_2026/2026-07-30_Current_Affairs.md`. **Same POL-07 cluster — no extra Day-1.**
+
 **PAC:** examines the **Comptroller and Auditor General (CAG)** audit of government accounts (report to Parliament **through the President**). Overspend / underspend / fraud. **COPU:** same idea for **public sector undertakings**. **DRSCs:** schemes, policy, and the **budget** of their departments. Class news hook: **DoPT** DRSC chair **Brij Lal** on **Civil Services Aptitude Test (CSAT)** — read the paper, not only daily-news videos.
 
 A parliamentary committee **cannot run without RS members**. Many **ministers** sit in RS (class: **S. Jaishankar**). Indirect election is a **window for talent** that may not win an FPTP popularity contest. **About one-third** of India’s PMs have come from RS.
@@ -256,3 +260,4 @@ Same count as LS’s three special powers:
 ---
 
 <!-- 2026-09-05: Lecture 6 from two transcripts + 5 sheets — RS/LS design, RPA, Kuldip Nayar, continuous House, federal plus/minus, motions, Speaker -->
+<!-- 2026-09-20: Hindu — this LS first JPC named: FCRA Amendment Bill 2026. Size lock unchanged. Extras on July 30 CA. No extra Day-1. -->

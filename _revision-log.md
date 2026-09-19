@@ -129,6 +129,7 @@
 - **Held (15-day):** `MST-096` slabs; `MST-097` McDonald; `MST-098` invert **30/60**. Next **2 Oct**.
 - **Ghost Recall 18 Sep:** **Q1 GOV-01** (17 Sep Governance L1). **Q2 ECO-09** (17 Sep tax L9). **Q3 CA-260917** (RCMC) if a leftover slot. **Q7 President +7**. Do **not** steal President for Q1–Q2. **Q8:** `MST-095` r2 · `MST-099` · `MST-100` · `MST-101` · `MST-102`.
 - **Ghost Recall 19 Sep:** **Q1–Q2:** 18 Sep classes if they land; else **GEO-13 +3** / **SOC-03 +3**. Leftover **CA-260918** (SEMICON / ISM 2.0). Do **not** steal class Q1–Q2 for CA.
+- **20 Sep Hindu:** FCRA JPC first sitting patched on **30 July CA** + **POL-07-05** (this LS first JPC now named). **No extra Day-1.** Do **not** steal today’s class Q1–Q2 / **CA-260916 +3**.
 
 ### Session 42 — 2026-09-16 (Ghost Recall)
 - **Subject:** ECO-08, IR-04, GEO-13 leftover, SOC-03 leftover, GEO-07 +7, MST-094/092
