@@ -263,6 +263,10 @@ Need a **replacement for fossil fuels** (exhausting + polluting). Options class 
 
 All reactors **today** are operated by **Nuclear Power Corporation of India Limited (NPCIL)**, a Public Sector Undertaking (**PSU**). **Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, 2025** may later bring other operators — **not** the case yet. Full SHANTI liability fight stays on **18 August CA**. NPCIL and other atomic-energy bodies sit under the **Department of Atomic Energy (DAE)**, which **reports to the Prime Minister’s Office (PMO)** — **not** a line ministry.
 
+### Update — 20 September 2026 (*The Hindu*)
+
+PM at the **NGT** conference: **SHANTI from December 2025** creates a pathway for **private players**. Class lock unchanged — the **26** reactors named here are still **NPCIL**. **No extra Day-1.**
+
 **Count (class upgrade of the handout’s 22):** **22 + 3 new Pressurised Heavy Water Reactors (PHWRs) + 1 Prototype Fast Breeder Reactor (PFBR) = 26 operational.** **21 PHWR + 2 Boiling Water Reactor (BWR) + 2 Pressurised Water Reactor (PWR) + 1 PFBR.** Installed capacity class: was **~6,000 MW (~6.7 GW)**; now **8,000-something MW ≈ 9 GW**.
 
 **Viksit Bharat / Nuclear Energy Mission:** **100 GW by 2047** (more than **10×** today’s **~9 GW**). Nearer hop: **> 22 GW by 2031** (more than double). Present share still **< 3%**.
@@ -403,4 +407,5 @@ Challenge ≠ concern I+II, NPCIL/DAE/PMO + 26/~9 GW, ITER I+II (D+T; Li breeds 
 <!-- 2026-09-12: Shobhit Sir nuclear L after 10 Sep fission — moderator / containment / PHWR-LWR-FBR / Bhabha three-stage closed cycle / advantages. Disadvantages + PFBR detail parked. One cluster ST-07. -->
 <!-- 2026-09-14: Shobhit Sir L2 — challenge≠concern; NPCIL/DAE/PMO; 26 reactors / 9 GW / 100 GW by 2047; PFBR BHAVINI+IGCAR 500 MW; ITER tokamak 7 members 45.6/9.1; tritium breeding Li; no melt/proliferation. Cluster ST-08 due 15 Sep Q2. -->
 <!-- 2026-09-14 evening: class ST held; flash MST-094 PFBR ≠ Kudankulam 1000 MW PWR. Still Q2 15 Sep. -->
+<!-- 2026-09-20: Hindu — PM: SHANTI from Dec 2025 enables private players. 26 reactors still NPCIL. No extra Day-1. -->
 

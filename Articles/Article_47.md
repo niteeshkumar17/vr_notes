@@ -13,4 +13,8 @@
 
 **Relevance:** Forms the constitutional basis for anti-drug initiatives (like 'Nasha Mukt Yuva for Viksit Bharat'), liquor prohibition laws in various states, and public health policies addressing substance abuse.
 
+### Update — 20 September 2026 (*The Hindu* — SC on prohibition)
+
+**Supreme Court** (Justice **J.B. Pardiwala**, Division Bench): **forced temperance is no solution to alcoholism**; a total ban pushes liquor **underground**. Gujarat has been a dry State since **1960**. That is a judgment on prohibition / methanol rules — the Court did **not** rewrite **Article 47** in the clip. Full extras: `Current_Affairs/September_2026/2026-09-20_Current_Affairs.md` (**CA-260920**). **No extra Day-1.**
+
 </details>

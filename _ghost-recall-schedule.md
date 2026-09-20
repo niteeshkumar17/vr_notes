@@ -58,6 +58,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 | **Wed 17 Sep** | **GEO-14** + **HIS-IVC3** — **6/8**. Q1 swapped direct/indirect; Q8 Sabka *IT* still Income Tax. `MST-096`/`097`/`098` **held** | **CA-260916** + **ST-07** leftover + **ECO-07** + **CA-260910** first-pass **held** → **+3 20 Sep** | **ST-02 +7 held** (Arihant atom) → **+16 3 Oct** | `MST-095` **repeat 2** · `MST-099`–`102` atomic **18 Sep** |
 | **Thu 18 Sep** | **Q1 GOV-01** (17 Sep Governance L1) + **Q2 ECO-09** (17 Sep tax L9). Do **not** steal President for Q1–Q2 | **CA-260917** first-pass (RCMC) · **CA-260913** / **CA-260914** +3 · **ST-08 +3** if a slot | **President +7** | **Q8:** `MST-095` r2 · `MST-099` Ferrel indirect · `MST-100` Marshall · `MST-101` ₹2,000 · `MST-102` Arihant **2016** |
 | **Fri 19 Sep** | **Q1–Q2:** 18 Sep classes if ingested; else **GEO-13 +3** / **SOC-03 +3**. Do **not** steal for CA | **CA-260918** first-pass (SEMICON / ISM 2.0) · **IR-04** leftover +3 if a slot | **CA-260916 +3** starts **20 Sep** | leftover MST if still due |
+| **Mon 21 Sep** | **Q1–Q2:** 20 Sep classes if ingested. Do **not** steal for CA | **CA-260920** first-pass (NGT / Pardiwala prohibition) | leftover ladder | leftover MST if still due |
 
 From **16 September**: drop the first-pass column. Q3–Q6 are whatever the ladder marks due (3 / 7 / 16 / 35). New lectures never skip the **+1 day** slot.
 

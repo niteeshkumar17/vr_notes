@@ -211,6 +211,13 @@ graph TD
 | **Fiscal Burden on Public Exchequer** | National Nuclear Insurance Pools and government backstops absorb tail-risk disasters that private insurance markets cannot underwrite. | When private operators/suppliers profit from nuclear generation while taxpayer funds bear residual multi-billion-dollar disaster clean-up, it creates privatized profit and socialized catastrophe. |
 | **Judicial Review vs Legislative Competence** | Parliament possesses sovereign legislative power to define statutory limits for economic activities and civil claims under Entry 6 of List I (Atomic Energy). | Parliament cannot pass legislation that dilutes the core essence of Article 21 or restricts the constitutional remedy under Article 32 (a basic structure feature). |
 
+### Update — 20 September 2026 (*The Hindu* — PM at NGT)
+
+**Prime Minister** at a **National Green Tribunal (NGT)** conference (Saturday, **Vigyan Bhavan**; **Chief Justice of India Surya Kant** also on the dais): those who give long environment speeches **stand in the courts to stop** nuclear; a pathway has been created to bring **private players**. The **SHANTI Act from December 2025** “enables this.”
+
+**Already here / ST-08:** SHANTI **2025** name; liability-cap challenge; class lock that **today’s 26 reactors are still NPCIL**. **No extra Day-1.** NGT / Paris / solar numbers sit on `Current_Affairs/September_2026/2026-09-20_Current_Affairs.md` (**CA-260920**).
+
 ---
 
 <!-- 2026-08-18: Created daily current affairs note covering (1) SC nationwide survey order on elephant corridors, prohibition of state blockades, ban on barbaric deterrents (fireballs/spikes), and WPA 1972 Schedule I status, and (2) SC notice on SHANTI Act 2025 nuclear liability caps vs Absolute Liability (M.C. Mehta), Article 21/32 constitutional tort, and international benchmarks (GS-2 & GS-3). -->
+<!-- 2026-09-20: Hindu — PM: SHANTI from Dec 2025 enables private nuclear players; courts used to block nuclear. Class NPCIL-today lock unchanged. No extra Day-1. -->
