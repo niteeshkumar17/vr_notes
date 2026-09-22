@@ -22,12 +22,12 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ---
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-09-22
-*   **Active Micro-Topics:** 701
+*   **Today's Date:** 2026-09-23
+*   **Active Micro-Topics:** 709
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **CA-260922** (22 Sep *Hindu*: India–NZ FTA, Gaganyaan parachutes, Article 22(1)) first-pass **24 Sep leftover**. Do **not** steal **23 Sep Q1 HIS-VED**, **Q2 IR-05**, or leftover **CA-260921**. **IR-05** is already the 23 Sep Q2. Methanol explainer patched on **CA-260920-02**. Hormuz / Malacca–Singapore model patched on **IR-01**. **No extra Day-1** for either patch.
+*   **New Topics Ingested Today:** **ST-09** (22 Sep space Lecture 11 — stations, debris, lunar ambitions) first-pass **24 Sep Q1**. Do **not** steal **23 Sep Q1 HIS-VED** or **Q2 IR-05**. **CA-260922** stays the **24 Sep leftover**, not Q1. SSA is the next class.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -735,7 +735,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-04-06 | 1930 Balloons 25 km; Sounding Naval Metaphor; India Thumba 1963 / Rohini 1967 ≠ Rohini Sats | 2 | ★★★★☆ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Vertical Profile` $\leftrightarrow$ `After Sputnik 1957` $\leftrightarrow$ `ISRO Rohini` |
 | ST-04-07 | Race 1.0: Sputnik 1957; Gagarin; Tereshkova; Laika; Apollo 11 16/20 Jul 1969; A-17 1972 End | 2 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Optics+Hostility` $\leftrightarrow$ `JFK Hard` $\leftrightarrow$ `Isolated Missions` $\leftrightarrow$ `>60% Budget` |
 | ST-04-08 | Race 2.0 Lunar: Artemis1 2022 Orion; A2 1 Apr 2026 Manned No Land; 2028 Land; 2032 Stay | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Additive ≠ Isolated` $\leftrightarrow$ `Koch / Glover` $\leftrightarrow$ `No Gateway` $\leftrightarrow$ `Mars Springboard` |
-| ST-04-09 | ILRS CN-RU 2031 Orbital or Base; India Not In Race; Sarabhai Doctrine; Man-Moon Sheet 2040 | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Sustained Presence` $\leftrightarrow$ `Development Not Prestige` $\leftrightarrow$ `Gaganyaan Delay` $\leftrightarrow$ `Parachute staging = CA-260922 no extra Day-1` |
+| ST-04-09 | ILRS CN-RU 2031 Orbital or Base; India Not In Race; Sarabhai Doctrine; Man-Moon Sheet 2040 | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Sustained Presence` $\leftrightarrow$ `Development Not Prestige` $\leftrightarrow$ `Gaganyaan Delay` $\leftrightarrow$ `Parachute staging = CA-260922 no extra Day-1` $\leftrightarrow$ `Stations + debris = ST-09 no extra Day-1` |
 | ST-04-10 | Station = Sustained Presence; Micro-g NOT Zero-g; Weightless = Free Fall; UV/X; Skylab / Mir | 3 | ★★★★★ | Day 3 | 2026-09-08 | 100% | High 🌟 | 95% | 92% | 1 | 0 | - | 2026-09-05 | Fast 🟢 | `Gravity Binds` $\leftrightarrow$ `Curve of Fall ∥ Earth` $\leftrightarrow$ `Next Class Continues` $\leftrightarrow$ `YB: ISS 1998/400 km` $\leftrightarrow$ `Tiangong 2022` $\leftrightarrow$ `BAS 2035` $\leftrightarrow$ `GEO-11-07` |
 
 ### Science & Technology (Public Health / Virology — Lecture 2, 8 Sep 2026)
@@ -781,6 +781,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ST-08-05 | PFBR Kalpakkam Apr 2026; 500 MW; BHAVINI + IGCAR; 2nd after Russia; Stage II | 3 | ★★★★★ | Day 3 | 2026-09-18 | 90% | Rising 📈 | 78% | 75% | 2 | 1 | 2026-09-14 | 2026-09-16 | Moderate | `Prototype = first of kind` $\leftrightarrow$ `Pu-239 fuel` $\leftrightarrow$ `Na coolant no moderator` $\leftrightarrow$ `≠ Kudankulam 1000 MW PWR` $\leftrightarrow$ `MST-094 cousin held 16 Sep → 15-day 1 Oct` |
 | ST-08-06 | ITER tokamak doughnut; 7 members; EU 45.6% / 9.1% each; 33 nations; France | 3 | ★★★★★ | Day 3 | 2026-09-18 | 90% | Rising 📈 | 75% | 72% | 1 | 0 | - | 2026-09-15 | Fast 🟢 | `Magnetic confinement plasma` $\leftrightarrow$ `D+T not protium` $\leftrightarrow$ `Goal 50→500 still ST-06` $\leftrightarrow$ `MST-072` $\leftrightarrow$ `Evening I+II held` $\leftrightarrow$ `EU 45.6 / 9.1 held 15 Sep` |
 | ST-08-07 | Fusion: He inert; 4× fission same mass; Li breeds T; no melt; no proliferation | 3 | ★★★★★ | Day 3 | 2026-09-18 | 90% | Rising 📈 | 75% | 72% | 1 | 0 | - | 2026-09-15 | Fast 🟢 | `D from all water` $\leftrightarrow$ `Li land >1000y / sea millions` $\leftrightarrow$ `Plasma cools in seconds` $\leftrightarrow$ `No U/Pu in reactor` $\leftrightarrow$ `Evening flash Li / D+T held` $\leftrightarrow$ `Li breeds T held 15 Sep` |
+
+### Science & Technology (Space stations, debris, lunar ambitions — Vinay Krishna, Lecture 11, 22 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ST-09-01 | Fundamental vs applied; OSM/ISRU $1 mn/L; sample return; Chandrayaan-4; China far side; Hayabusa / OSIRIS-REx; Mars 2031 | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Today’s science = tomorrow’s application` $\leftrightarrow$ `Collaborate: cost + brains` $\leftrightarrow$ `Sarabhai / not in the race = ST-04` |
+| ST-09-02 | Hard kill ASAT vs soft kill hack; Mission Shakti 2019 low orbit; China 2007; Moon militarised; tourism $20–60 mn | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sheet OST = tourism ≠ 1967 treaty` $\leftrightarrow$ `US weapons admission ~20 Sep` $\leftrightarrow$ `Fragments indiscriminate` |
+| ST-09-03 | ISS 1975–2000; 16 nations; China veto 2012; Tiangong by 2020; SpaDeX; BAS 5 modules 2028/2035; Point Nemo 2030 | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Haven / Orbital Reef / Axiom Station` $\leftrightarrow$ `INSV Tarini` $\leftrightarrow$ `Book 2022 / 20 tonnes = Yellow Book not this class` $\leftrightarrow$ `Zero-g trap stays ST-04` |
+| ST-09-04 | Physiology: muscle ₹18 cr injection; ageing; 16 sunrises; Shukla Axiom-4; methi; Drosophila dozen Nobels | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Laika → mice` $\leftrightarrow$ `Gaganyaan fruit flies possible` $\leftrightarrow$ `Parachutes = CA-260922` |
+| ST-09-05 | Bioprint = tissue not organ; Serendipity Space; TLE ELVES/sprite 2018; diplomacy 6; ILRS | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Cupola / high-frequency = ST-04` $\leftrightarrow$ `India wants Russia; NASA and ESA want BAS` $\leftrightarrow$ `Tiangong priced for Global South` |
+| ST-09-06 | Debris = man-made defunct; >10 cm 33000; <10 cm millions; ~15000 functional; POEM ≠ removal; Starlink 42000 | 2 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `8k vs 10k Starlink both spoken` $\leftrightarrow$ `Pixxel ODC / Agnikul` $\leftrightarrow$ `Guowang unexpanded` $\leftrightarrow$ `India pvt >400 registered` |
+| ST-09-07 | Kessler 1980s cascade; SDR not send-less; <20% saturated; LEO burn LignoSat; graveyard beyond 35786 | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No space-traffic law` $\leftrightarrow$ `CBDR` $\leftrightarrow$ `Mission Embrace on Vikram-1` $\leftrightarrow$ `Net/sail, magnet, laser India-Japan, AI` |
+| ST-09-08 | ClearSpace operational; ELSA-d test; debris-free missions 2030; Kevlar; bodyguards; IADC; 122 CAMs / 14 yr | 3 | ★★★★★ | Day 1 | 2026-09-24 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Alerts ≠ manoeuvres` $\leftrightarrow$ `1.5 lakh alerts year unlocked` $\leftrightarrow$ `2022 debris share: India not major` $\leftrightarrow$ `SSA = next class` |
 
 ### Economy (Advanced Taxation — GMCT, MAT, STT, CGT, DTAA & DTC)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -995,7 +1007,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Current Top Priority Micro-Topics:**
   1. **23 Sep Q1:** **HIS-VED** (18 Sep Vedic L1). **Q2:** **IR-05** (18 Sep Sino–India Part 2). Do **not** steal Q1–Q2 for CA.
   2. **23 Sep leftover:** **CA-260921** first-pass (Tulu / court deposits). **CA-260920** was the **21 Sep** leftover — do not restack it onto Q1.
-  2a. **24 Sep leftover:** **CA-260922** first-pass (NZ FTA / Gaganyaan parachutes / Art 22(1)). Do **not** steal 23 Sep Q1–Q2 or the CA-260921 leftover.
+  2a. **24 Sep Q1:** **ST-09** (22 Sep space Lecture 11). **Q2** stays open for the other 22 Sep class, or a 23 Sep class, if it lands. **Leftover:** **CA-260922**. Do **not** steal Q1 for CA.
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 

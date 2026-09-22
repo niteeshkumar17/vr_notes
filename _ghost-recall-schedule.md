@@ -60,7 +60,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 | **Fri 19 Sep** | **Q1–Q2:** 18 Sep classes if ingested; else **GEO-13 +3** / **SOC-03 +3**. Do **not** steal for CA | **CA-260918** first-pass (SEMICON / ISM 2.0) · **IR-04** leftover +3 if a slot | **CA-260916 +3** starts **20 Sep** | leftover MST if still due |
 | **Mon 21 Sep** | **Q1–Q2:** 20 Sep classes if ingested. Do **not** steal for CA | **CA-260920** first-pass (NGT / Pardiwala prohibition) | leftover ladder | leftover MST if still due |
 | **Wed 23 Sep** | **Q1 HIS-VED** (18 Sep Vedic L1). **Q2 IR-05** (18 Sep Sino–India Part 2 + Russia intro). Do **not** steal for CA | **CA-260921** first-pass (Tulu / court deposits). **CA-260920** stays an older leftover, not Q1 | leftover ladder | leftover MST if still due |
-| **Thu 24 Sep** | **Q1–Q2:** 23 Sep classes if ingested. Do **not** steal for CA | **CA-260922** first-pass (NZ FTA / Gaganyaan parachutes / Art 22(1)). **CA-260921** was the 23 Sep leftover | leftover ladder | leftover MST if still due |
+| **Thu 24 Sep** | **Q1 ST-09** (22 Sep space Lecture 11 — stations / debris). **Q2:** the other 22 Sep class, or a 23 Sep class, if it lands. Do **not** steal Q1 for CA | **CA-260922** first-pass leftover (NZ FTA / Gaganyaan parachutes / Art 22(1)). **CA-260921** was the 23 Sep leftover | leftover ladder | leftover MST if still due |
 
 From **16 September**: drop the first-pass column. Q3–Q6 are whatever the ladder marks due (3 / 7 / 16 / 35). New lectures never skip the **+1 day** slot.
 
