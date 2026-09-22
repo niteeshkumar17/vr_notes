@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-22
-*   **Active Micro-Topics:** 688
+*   **Active Micro-Topics:** 690
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **HIS-VED** (18 Sep Vedic L1) first-pass **23 Sep Q1** — arrived after the 22 Sep morning window; do **not** set due today; do **not** steal Q2 for CA. Saraswati identification + origin AIT patched as a pointer on **HIS-IVC3** (no extra Day-1). **CA-260920** stays **21 Sep leftover**. SHANTI Dec 2025 private pathway stays **CA-260818-02** / **ST-08-04**. FCRA JPC sitting stays **30 July CA**.
+*   **New Topics Ingested Today:** **CA-260921** (21 Sep Hindu: Tulu official status in two Karnataka districts + SC on litigants’ court deposits) first-pass **23 Sep leftover** — do **not** steal **HIS-VED** Q1. **HIS-VED** stays **23 Sep Q1**. Eighth Schedule / Bodo stays **28 Aug**. 1833 and 21st Law Commission stay on their notes. **CA-260920** stays the **21 Sep** leftover, not restacked onto Q1.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -636,6 +636,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | CA-260918-02 | SEMI $1.3 tn this year / $2 tn by 2030; Applied Materials $5 bn over 5 yrs R&D+supply chain; Micron Sanand commercial production; Infineon hiring in India +28% | 3 | ★★★★★ | Day 1 | 2026-09-19 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Mehrotra: capacity exceeds India laptop-memory need` $\leftrightarrow$ `$5 bn = Applied Materials not Micron` $\leftrightarrow$ `Sanand earlier this year` |
 | CA-260920-01 | NGT Vigyan Bhavan: PM only G-20 met 2015 Paris ahead of schedule; per capita < half global; solar 2→>160 GW in 12 yr; non-fossil nearly quadrupled | 3 | ★★★★★ | Day 1 | 2026-09-21 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Developing countries wrongly blamed` $\leftrightarrow$ `Developed industrial per-capita growth 6× India` $\leftrightarrow$ `17 countries + UNEP + ADB` $\leftrightarrow$ `UNFCCC 1992 = ENV-02 no extra Day-1` $\leftrightarrow$ `SHANTI Dec 2025 = CA-260818 / ST-08` |
 | CA-260920-02 | Pardiwala: forced temperance ≠ cure; Gujarat dry since 1960 ≥10 hooch / >600 dead; MH Rules 18A/18B methanol struck; Chhogra 1991 93/250 | 3 | ★★★★★ | Day 1 | 2026-09-21 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Bhavnagar 13 / Sagar MP 15` $\leftrightarrow$ `Five evils: revenue / spend / corruption / illicit / drugs` $\leftrightarrow$ `Dedicated methanol tankers` $\leftrightarrow$ `Art 47 pointer no extra Day-1` |
+| CA-260921-01 | Karnataka Cabinet Mangaluru 18 Sep: Tulu official status for administration in two districts; ₹82 lakh/year; not Eighth Schedule | 2 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `DK + Udupi; Kasaragod is Kerala` $\leftrightarrow$ `Gram sabha / taluk / zilla + urban councils` $\leftrightarrow$ `Alva 30 Jan 2023; MCC 29 Mar 2023` $\leftrightarrow$ `Gayathri visited AP 19–20 Jan 2026; clip ends` $\leftrightarrow$ `Bodo Eighth Schedule = 28 Aug no extra Day-1` |
+| CA-260921-02 | Narasimha + Aradhe: statute for litigants’ court deposits; US Court Registry Investment System; Law Commission consults RBI, Finance, Law & Justice | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `No case name in clip` $\leftrightarrow$ `Stay-deposit example` $\leftrightarrow$ `Pendency from repeated interest questions` $\leftrightarrow$ `Not 1833 Macaulay / not 21st LC UCC` |
 
 ---
 
@@ -976,8 +978,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **23 Sep Q1:** **HIS-VED** (18 Sep Vedic L1). **Q2:** the other 18 Sep class if it lands. Do **not** steal Q1–Q2 for CA. 22 Sep morning already closed before this note.
-  2. **Leftover (do not restack onto Q1):** **CA-260920** was **21 Sep** (NGT / Pardiwala prohibition).
+  1. **23 Sep Q1:** **HIS-VED** (18 Sep Vedic L1). **Q2:** the other 18 Sep class if it lands. Do **not** steal Q1–Q2 for CA.
+  2. **23 Sep leftover:** **CA-260921** first-pass (Tulu / court deposits). **CA-260920** was the **21 Sep** leftover — do not restack it onto Q1.
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 
