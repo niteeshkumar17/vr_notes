@@ -44,7 +44,7 @@ Class will **not** crown a winner. If asked, deflect: it is contested. **Do not*
 
 **AIT and AMT** are the two entry-stories **if** the homeland is Eurasian. Sheet numbers them 2 and 3.
 
-**Dravid under AMT (dictated):** the word means **wealth**, and it is **mentioned in Vedic literature**. Class: you would not hang “wealth” on a defeated enemy, so AMT refuses the AIT story that Dravidian = the people pushed south. **Notebook wrote “a culture.”** Recall the dictated word: **wealth**.
+**Dravid under AMT:** the word means **wealth**, and it is **mentioned in Vedic literature**. Class: you would not hang “wealth” on a defeated enemy, so AMT refuses the AIT story that Dravidian = the people pushed south.
 
 **What each side uses as proof**
 
@@ -257,4 +257,4 @@ That economy produced **very little wealth and surplus**, so **no dominant class
 | **OCP** | Ochre Coloured Pottery |
 | **RSS** | Rashtriya Swayamsevak Sangh |
 
-<!-- 2026-09-22: Vedic L1 (class 18/9) from transcript + 6 sheets — origin theories, PGW/NBPW, Panchajana/Dasa/Dasyu, Sapta Sindhu, Rig Vedic polity, Dasarajna, cattle economy. Society parked. Cluster HIS-VED. First-pass 23 Sep Q1 (19 Sep slot missed; note arrived 22 Sep). Müller = mythical not the notebook’s “tributary”. Dravid under AMT = wealth not the notebook’s “culture”. -->
+<!-- 2026-09-22: Vedic L1 (class 18/9) from transcript + 6 sheets — origin theories, PGW/NBPW, Panchajana/Dasa/Dasyu, Sapta Sindhu, Rig Vedic polity, Dasarajna, cattle economy. Society parked. Cluster HIS-VED. First-pass 23 Sep Q1 (19 Sep slot missed; note arrived 22 Sep). Müller = mythical not the notebook’s “tributary”. Dravid under AMT = wealth (sheet and audio). -->
