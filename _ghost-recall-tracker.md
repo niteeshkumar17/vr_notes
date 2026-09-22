@@ -22,12 +22,12 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ---
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-09-20
-*   **Active Micro-Topics:** 680
+*   **Today's Date:** 2026-09-22
+*   **Active Micro-Topics:** 688
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **CA-260920** (NGT / Paris-G20 claims + Pardiwala prohibition) first-pass **21 Sep leftover** — do **not** steal class Q1–Q2. SHANTI Dec 2025 private pathway patched on **CA-260818-02** / **ST-08-04**. FCRA JPC sitting already patched on **30 July CA**. **CA-260918** was **19 Sep leftover**. **GEO-14** / **HIS-IVC3** / **CA-260916** first-pass **held** (atoms) → cluster **+3 20 Sep**. **ST-07** leftover first-pass **held** → **+3 20 Sep**. **ECO-07** buffer **held** → **+3 20 Sep**. **CA-260910** leftover first-pass **held** → **+3 20 Sep**. **ST-02 +7 held** (Arihant atom) → **+16 3 Oct**. `MST-096` / `MST-097` / `MST-098` **held** → 15-day **2 Oct**. `MST-095` **repeat 2** atomic **18 Sep**.
+*   **New Topics Ingested Today:** **HIS-VED** (18 Sep Vedic L1) first-pass **23 Sep Q1** — arrived after the 22 Sep morning window; do **not** set due today; do **not** steal Q2 for CA. Saraswati identification + origin AIT patched as a pointer on **HIS-IVC3** (no extra Day-1). **CA-260920** stays **21 Sep leftover**. SHANTI Dec 2025 private pathway stays **CA-260818-02** / **ST-08-04**. FCRA JPC sitting stays **30 July CA**.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -877,10 +877,22 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | HIS-IVC3-01 | No temple/palace; Mother Goddess; Pashupati Marshall; yoga; Great Bath citadel | 3 | ★★★★★ | Day 3 | 2026-09-20 | 70% | Rising 📈 | 68% | 65% | 1 | 1 | 2026-09-17 | 2026-09-17 | Moderate | `Temples+palaces false held` $\leftrightarrow$ `Named Mahadevan not Marshall` $\leftrightarrow$ `MST-100` $\leftrightarrow$ `Great Bath leftover` |
-| HIS-IVC3-02 | Wheeler Shiva+invasion; B.B. Lal=Vedic; Mahadevan=Dravidian migration | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Three names untested` $\leftrightarrow$ `Mahadevan ≠ the seal-namer` $\leftrightarrow$ `Write the name not a view` $\leftrightarrow$ `Leftover with MST-100` |
+| HIS-IVC3-02 | Wheeler Shiva+invasion; B.B. Lal=Vedic; Mahadevan=Dravidian migration | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Three names untested` $\leftrightarrow$ `Mahadevan ≠ the seal-namer` $\leftrightarrow$ `Write the name not a view` $\leftrightarrow$ `Leftover with MST-100` $\leftrightarrow$ `Aryan-origin AIT/AMT/OIT = HIS-VED no extra Day-1` |
 | HIS-IVC3-03 | Decline theories fail; lock=ecological+agrarian process | 3 | ★★★★★ | Day 3 | 2026-09-20 | 90% | Rising 📈 | 80% | 78% | 1 | 0 | - | 2026-09-17 | Fast 🟢 | `Ecology + fertility + migration held` $\leftrightarrow$ `AIT fail leftover` |
 | HIS-IVC3-04 | Late Harappan 1900–1300: grid/sewage/script fade; Meluha drops; Cemetery H | 2 | ★★★★★ | Day 3 | 2026-09-20 | 90% | Rising 📈 | 80% | 78% | 1 | 0 | - | 2026-09-17 | Fast 🟢 | `Decline of Harappa not Aryan-arrival held` $\leftrightarrow$ `MST-080` |
 | HIS-IVC3-05 | Lost wax madhuchchista; dancing girl; Daimabad hoard; seals 3 types; contemporaries | 3 | ★★★★★ | Day 3 | 2026-09-20 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Untested 17 Sep` $\leftrightarrow$ `Rides cluster +3; leftover artifacts` |
+
+### History (Ancient India — Vedic Age L1 — Vijender Singh, 18 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| HIS-VED-01 | Vedic 1500–600; Rig 1500–1000; Müller by 1200 upper Ganga; arya = noble; hymns in Sanskrit | 2 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Indicative years` $\leftrightarrow$ `History = readable Vedas` $\leftrightarrow$ `Pottery before 1200 unknown` |
+| HIS-VED-02 | Eurasian / AIT / AMT / OIT; AIT rejected; AMT vs OIT live; arya race vs language; Dravid = wealth | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Do not crown a theory` $\leftrightarrow$ `Notebook wrote culture` $\leftrightarrow$ `Horse+pastoralism vs rivers+climate` $\leftrightarrow$ `Tilak Arctic rejected` $\leftrightarrow$ `Wheeler decline-AIT = HIS-IVC3` |
+| HIS-VED-03 | PGW 1200–600 elite upper Ganga–Yamuna; NBPW 600 BC–1st c. BC = Mauryan ware 320–185 | 2 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Dates not exact` $\leftrightarrow$ `Sinauli named not a lock` |
+| HIS-VED-04 | Panchajana; avrata/akratu; Dasa became slave (Divodasa); Dasyu always enemy; Trasadasyu | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sheet wrote Panchajanya` $\leftrightarrow$ `Dasyu-hatya` |
+| HIS-VED-05 | Sapta Sindhu; Saraswati main; Müller mythical / Thapar Helmand / modern Ghaggar–Hakra; seven Vedic river names | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Notebook wrote tributary of Indus` $\leftrightarrow$ `Vipasha=Beas Parushni=Ravi` $\leftrightarrow$ `Nine-river OIT list adds Ganga Yamuna` $\leftrightarrow$ `IVC aridity = HIS-IVC3` |
+| HIS-VED-06 | Kula–grama–vish–jana; Sabha/Samiti/Vidatha/Gana; Bali voluntary + Bhaga loot; Purohita + Senani; Gopa; no standing army | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Rashtra = same people` $\leftrightarrow$ `Sangram = cattle fight` $\leftrightarrow$ `Women in Sabha and Vidatha prayers` $\leftrightarrow$ `Land not property` |
+| HIS-VED-07 | Dasarajna 7th mandala Parushni; Sudas Tritsu-Bharata beats Puru Yadu Druhyu Turvasha; Kuru → Kurukshetra / Mahabharata Later Vedic | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `More than ten kings` $\leftrightarrow$ `Exact year not locked` |
+| HIS-VED-08 | Pastoral main, agri secondary, egalitarian; ayas=copper; aghnya=cow; horse 2nd; maharathi; godhuli; gotra | 3 | ★★★★★ | Day 1 | 2026-09-23 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Gavishti=battle/search` $\leftrightarrow$ `Gomant=wealthy` $\leftrightarrow$ `Duhitri=milker` $\leftrightarrow$ `Goghna / D.N. Jha = society next class` |
 
 ### IR (Basics — Iqbal Singh Sandhu, Lecture 1, 1 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -964,8 +976,8 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 * **Daily output cap:** **8 prompts** (see 60-Minute Session Protocol). Priority ranking below is a **menu**, not a to-do list for one sitting.
 * **Priority Formula:** Multi-factor score combining UPSC ★ rating + Difficulty + (100 - Retrieval Strength) + Error Frequency + PYQ Weightage. **Newest untested lecture clusters outrank old Day-1 Current Affairs.**
 * **Current Top Priority Micro-Topics:**
-  1. **21 Sep Q1–Q2:** 20 Sep classes if ingested. Do **not** steal for CA.
-  2. **21 Sep leftover:** **CA-260920** first-pass (NGT / Pardiwala prohibition)
+  1. **23 Sep Q1:** **HIS-VED** (18 Sep Vedic L1). **Q2:** the other 18 Sep class if it lands. Do **not** steal Q1–Q2 for CA. 22 Sep morning already closed before this note.
+  2. **Leftover (do not restack onto Q1):** **CA-260920** was **21 Sep** (NGT / Pardiwala prohibition).
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 

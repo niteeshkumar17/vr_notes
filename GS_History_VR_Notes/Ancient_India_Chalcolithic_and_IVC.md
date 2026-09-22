@@ -7,7 +7,7 @@
 > **Source:** Vajiram & Ravi (Vijender Singh) + audio transcript + 6 handwritten sheets (dated **11/9/26**) + class extent map  
 > **Paper:** **GS-I** (Ancient India). Town-planning Mains line was flagged in class (CSE 2025 Q1).  
 > **Continues:** `Ancient_India_Stone_Age.md` (Neolithic Revolution).  
-> **Parked:** iron-age features (Later Vedic); Saraswati debate (Vedic chapter); Dilmun / other Gulf names not dictated. **Religion / decline / Late Harappan / artifacts = Lecture 3 (16 Sep).**  
+> **Parked:** iron-age features (Later Vedic); Dilmun / other Gulf names not dictated. **Religion / decline / Late Harappan / artifacts = Lecture 3 (16 Sep).** **Saraswati’s identification and the Aryan-origin theories = Vedic Lecture 1 (18 Sep)** — `Ancient_India_Vedic_Age.md` (**HIS-VED**). Wheeler’s invasion-as-**decline** stays in Lecture 3.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 ---
