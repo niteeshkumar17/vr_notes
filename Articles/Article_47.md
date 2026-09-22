@@ -17,4 +17,6 @@
 
 **Supreme Court** (Justice **J.B. Pardiwala**, Division Bench): **forced temperance is no solution to alcoholism**; a total ban pushes liquor **underground**. Gujarat has been a dry State since **1960**. That is a judgment on prohibition / methanol rules — the Court did **not** rewrite **Article 47** in the clip. Full extras: `Current_Affairs/September_2026/2026-09-20_Current_Affairs.md` (**CA-260920**). **No extra Day-1.**
 
+The **22 September** explainer of the same judgment (Bench: **Pardiwala** and **K. Vinod Chandran**) still does **not** rewrite Article 47. It names **Articles 14, 19(1)(g), 21 and 300A** as the rights the methanol rules were tested against. New holdings sit on the 20 Sep file.
+
 </details>

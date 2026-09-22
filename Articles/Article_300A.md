@@ -25,4 +25,8 @@ No person shall be deprived of his property save by authority of law.
 
 Opposition at the **Foreign Contribution (Regulation) Amendment Bill, 2026** JPC: deprivation of property cannot be permitted **without a prior hearing** under **Article 300A**. That is their argument, not a new Supreme Court holding in the clip. Full sitting extras: `Current_Affairs/July_2026/2026-07-30_Current_Affairs.md`. **No extra Day-1.**
 
+### Update — 22 September 2026 (*The Hindu* explainer — methanol rules)
+
+**Article 300A** was one of the rights pleaded against **Maharashtra Poisons Rules 18A and 18B** (colourant and bitterant in methanol). The Court struck those rules as **disproportionate**. It did **not** lay down a new property test in the clip. Full extras: `Current_Affairs/September_2026/2026-09-20_Current_Affairs.md` (**CA-260920-02**). **No extra Day-1.**
+
 </details>

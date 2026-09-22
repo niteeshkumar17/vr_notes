@@ -232,6 +232,17 @@ Same convention as class (sign ≠ ratify; US unsigned-into-force). Interview: *
 - **Iran** is not a party. **Transit passage** (class / paper: **Strait of Hormuz**; also **Malacca–Singapore**) is **customary international law** → binds non-parties too.
 - South China Sea / Indian Ocean **Exclusive Economic Zone (EEZ)** and seabed disputes: core architecture “holding.” **“Dark fleet”** (unregulated / sanctioned shipping) on the high seas → take it to the **International Maritime Organization (IMO)**.
 
+### Update — 22 September 2026 (*The Hindu* — Malacca–Singapore as a model for Hormuz)
+
+Same lock: transit passage is **customary**, and **Iran** has **not ratified** UNCLOS. The new piece asks whether the **Malacca–Singapore** arrangement can be the model for **Hormuz**. **No extra Day-1.**
+
+- Littoral states of that model: **Indonesia, Malaysia, Singapore**. The clip says those straits were once treated as **“international.”** A newly independent **Indonesia** feared for the security of its islands. The clip ties a **12 nautical mile** territorial sea to the **1958** law-of-the-sea conference, and a **1963** armed conflict with Indonesia (its Borneo line).
+- What it holds up as the working model is the **Cooperative Mechanism (2007)**: littoral states, user states, and industry, on **safety of navigation** and the marine environment. Money sits in an **Aids to Navigation Fund**. **Japan** is named as a major funder, through the **Malacca Strait Council**. That is **not** a toll charged for the right to pass.
+- **Hormuz** littorals in the clip: **Iran** and **Oman**. **United Arab Emirates** and **Qatar** are named among states with an interest. The clip says Iran, in **1958**, required foreign **warships** to seek **permission** to pass the Strait.
+- The piece’s own limit: the **technical parallel** is there; the **political context is not**. Hormuz has **not** been put on the Malacca footing.
+
+<span style="color: #e53e3e;">**Prelims trap:** **1958** is two facts in this clip — the law-of-the-sea conference / **12 nm**, and Iran’s **warship-permission** law. Do not merge them. This Malacca is the **straits regime**, not the **Malacca Dilemma** (China’s oil lifeline → CPEC / CMEC), which stays **IR-05**. The Cooperative Mechanism is **not** a canal toll. **12 nm** is the same territorial-sea figure as the 18 Sep UNCLOS board.</span>
+
 <span style="color: #e53e3e;">**Prelims trap:** UN is **not** a world government. Creating a world government would mean India is **not** sovereign. Orgs are **tools of sovereign states**. Signing ≠ ratification.</span>
 
 #### Newspaper update — 1 September 2026 (*The Hindu*; Kallol Bhattacherjee)

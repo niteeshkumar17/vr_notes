@@ -99,7 +99,7 @@ flowchart TD
 |:---|:---|
 | **India–European Union Free Trade Agreement (FTA)** | Signed **January 2026** — Indian **AYUSH** qualifications usable in EU States that have **no** regulatory framework; wellness centres / clinics |
 | **India–Oman Comprehensive Economic Partnership Agreement (CEPA)** | First comprehensive traditional-medicine commitment across **all modes of supply** |
-| **India–New Zealand FTA** | Dedicated **health and traditional medicine** annex — education, training, standards, wellness, mobility |
+| **India–New Zealand FTA** | Dedicated **health and traditional medicine** annex — education, training, standards, wellness, mobility. Entry into force (**20 October 2026**), the tariff split, and the **dairy** exclusion are on `September_2026/2026-09-22_Current_Affairs.md`. This cell stays the annex |
 
 ### 3. Visas and traffic (clip only)
 **AYUSH visa** introduced **2023**. **1,646** AYUSH visas to nationals of **75** countries (**January 2024–February 2025**).

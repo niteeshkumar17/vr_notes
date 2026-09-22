@@ -366,7 +366,7 @@ India needs infrastructure (roads, ports; Delhi Metro was built with Japanese mo
 
 China has also extended BRI toward the Americas. Do not expand that into a third corridor.
 
-**Malacca Dilemma.** Chinese oil from West Asia and Africa crosses the Indian Ocean and the **Strait of Malacca**. China fears the United States can block that lifeline. Two branches were drawn to reach the Indian Ocean without that choke:
+**Malacca Dilemma.** Chinese oil from West Asia and Africa crosses the Indian Ocean and the **Strait of Malacca**. China fears the United States can block that lifeline. Two branches were drawn to reach the Indian Ocean without that choke. A 22 Sep *Hindu* piece uses **Malacca–Singapore** as a **straits regime** for **Hormuz** — that is a different Malacca, on `GS_IR_VR_Notes/01_Basics_of_International_Relations.md`. **No extra Day-1.**
 
 | Branch | Port he named | What it does |
 |:---|:---|:---|

@@ -92,6 +92,20 @@ flowchart TD
   R18 --> FALL["SC: unconstitutional and arbitrary"]
 ```
 
+### Update — 22 September 2026 (*The Hindu* explainer — why 18A/18B fell)
+
+Same judgment as above (Friday **18 September 2026**). New facts only. **No extra Day-1.**
+
+- Bench named in the explainer: Justice **J.B. Pardiwala** and Justice **K. Vinod Chandran**.
+- The rules are **Rules 18A and 18B** of the **Maharashtra Poisons Rules, 1972** (the 20 Sep clip said “Maharashtra Poisonous Rules”). They force a **colourant and a bitterant** into methanol before sale to a **non-drug manufacturer**.
+- **Held disproportionate.** Not a sufficient connection with the hooch problem they were written for. Rights the challenge put in issue: **Article 14**, **Article 19(1)(g)** (trade / occupation), **Article 21**, and **Article 300A** (property). A policy that is irrational, or has no reasonable and proximate nexus, or breaks another provision of law, can be struck down. The explainer applies the **proportionality** line (suitable, necessary, balanced).
+- The Court did **not** say every restriction on methanol is unconstitutional.
+- **Rule 18A(8)** was treated as already covering the core: methanol mixed into liquor, with an unregulated bitterant, can be deemed **unfit for human consumption**. The State did not show why that rule was not enough, so the wider colourant-and-bitterant mandate failed.
+- Industry side of the facts: a purchaser’s **Form A** licence; adding the colour could make lawful industrial products unsaleable. A committee under an **Additional Director General of Police** examined the 1991 tragedy before the rules were amended. The **93 of 250 / Chhogra Bar / 1991** numbers stay as written above.
+- Guidelines the Court indicated for the State (not a new statute in the clip): certificate of the purchaser; licences to the industries that actually need methanol; stock records; **dedicated tankers** and checks at State borders (already in §4 above); stop illegal import; sealed containers; return unused methanol; de-addiction support. The clip says the rest depends on policy and enforcement.
+
+<span style="color: #e53e3e;">**Prelims trap:** The strike-down is still **18A/18B’s colourant–bitterant mandate**, not “Gujarat prohibition is void” and not “methanol cannot be regulated.” **18A(8)** is the part the explainer treats as **still doing the job**. **Article 47** is not repealed. **Article 300A** here is one of the rights **pleaded**, not a new property doctrine.</span>
+
 ---
 
 ## Abbreviations
