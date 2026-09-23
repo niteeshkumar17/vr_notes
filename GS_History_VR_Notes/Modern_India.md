@@ -1,8 +1,8 @@
-# Modern India (1860s–1940s) — Lectures 1–7: Nationalism to Gandhi–Nehru–Ambedkar Dialogues
+# Modern India (1860s–1940s) — Lectures 1–8: Nationalism to the first Gandhian movements
 
-> **Date of Lecture:** 8 September 2026 (**Lecture 7**)  
-> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5), 6 September 2026 (L6)  
-> **Date Added:** 2026-08-30; L5 **2026-09-01**; L6 **2026-09-06**; L7 **2026-09-08**  
+> **Date of Lecture:** 22 September 2026 (**Lecture 8**)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5), 6 September 2026 (L6), 8 September 2026 (L7)  
+> **Date Added:** 2026-08-30; L5 **2026-09-01**; L6 **2026-09-06**; L7 **2026-09-08**; L8 **2026-09-22**  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Ambedkar), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -36,7 +36,8 @@
 11. **Lucknow Pact (C) — significance** — communal harmony; Rowlatt 1919; Khilafat–NCM 1920–22; Montagu–Chelmsford → Government of India Act 1919
 12. **The Making of Mahatma** — Gandhi in South Africa (1893–1914/15); Satyagraha named; religious thought
 13. **Lecture 6 — Mass Mobilizations and the Dialogues (part taught 6 Sep)** — Gandhian political thought; Satyagraha as method; Gandhi & Tagore on nationalism and education.
-14. **Lecture 7 — 8 Sep** — **Wardha Scheme / Nai Taleem (1937)**; Gandhi vs Nehru (state, trusteeship, religion); Gandhi vs Ambedkar (untouchability, caste, Hinduism). **1917–48 movements** still later.
+14. **Lecture 7 — 8 Sep** — **Wardha Scheme / Nai Taleem (1937)**; Gandhi vs Nehru (state, trusteeship, religion); Gandhi vs Ambedkar (untouchability, caste, Hinduism).
+15. **Lecture 8 — 22 Sep** — what they **did**: Harijan Sevak Sangh; Macdonald / Communal Award; Poona Pact (**71 → 147**); Champaran, Ahmedabad, Kheda. Rowlatt and Khilafat–NCM named, not retaught.
 
 ---
 
@@ -1027,7 +1028,7 @@ Board title: **The making of Mahatma**. Gandhi stays in the story **till indepen
 </svg>
 </div>
 
-<p style="text-align:center;"><em><strong>Figure:</strong> Board map. Lecture 5 finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought + Tagore = <strong>Lecture 6 (6 Sep)</strong>. Nehru / Ambedkar = <strong>Lecture 7 (8 Sep)</strong>. Movements <strong>1917–48</strong> still later.</em></p>
+<p style="text-align:center;"><em><strong>Figure:</strong> Board map. Lecture 5 finishes South Africa <strong>events</strong> and <strong>religious</strong> thought. Political thought + Tagore = <strong>Lecture 6 (6 Sep)</strong>. Nehru / Ambedkar = <strong>Lecture 7 (8 Sep)</strong>. Champaran, Ahmedabad, and Kheda = <strong>Lecture 8 (22 Sep)</strong>. The rest of 1917–48 is still later.</em></p>
 
 **India branch:** **Rabindranath Tagore** = **Lecture 6 — 6 September 2026**. **Jawaharlal Nehru** and **B.R. Ambedkar** = **Lecture 7 — 8 September 2026**. Still pending: movements **1917–48**. Last crisis: **Noakhali**; **15 August 1947 Gandhi was not in Delhi** — communal riots / peace work (**Calcutta / Noakhali**).
 
@@ -1434,7 +1435,7 @@ Class bust: Hindus / Muslims are **not** one homogeneous nation (Pakistan **1971
 
 ## 31. Gandhi & Dr B.R. Ambedkar (MOD-B7-06)
 
-Compare **what they said** (actions = next sitting). Three heads: **(A) untouchability (B) caste hierarchy (C) Hinduism**.
+Compare **what they said**. Three heads: **(A) untouchability (B) caste hierarchy (C) Hinduism**. What they **did** on the ground is **Lecture 8 — 22 September 2026**.
 
 | | **Gandhi** | **Ambedkar** |
 |:---|:---|:---|
@@ -1471,7 +1472,7 @@ flowchart TB
 
 ---
 
-## 32. Lecture 7 — UPSC Quick Recall
+## Lecture 7 — UPSC Quick Recall
 
 1. **1937 Wardha** = **Zakir Husain** draft for Gandhi; **Sevagram**; **Nai Taleem**; primary in **mother tongue**.
 2. **Macaulay 1835** = filtration, not mass schooling. **Wood 1854** = state duty (mostly paper till 1937).
@@ -1482,7 +1483,205 @@ flowchart TB
 
 ---
 
-## UPSC PYQ Connections (Lectures 1–7)
+### Lecture 8 — 22 September 2026 (Mohammad Tarique Sir)
+
+> **Date of Lecture:** 22 September 2026 (Lecture 8). Notebook pages dated **22/9/26**.  
+> **Opens Lecture 7:** opinions were the last sitting; this sitting is what Gandhi and Ambedkar **did**.  
+> **Cluster:** **MOD-B8**. Joint-electorate trap (upper caste elects the reserved Dalit) stays **SOC-03**. Do not erase it.
+
+Mains answer on any of these events uses seven questions: **what**, **why**, the **event** itself (dates, names, places), **character**, **leaders**, **outcome**, **significance**. He said the same seven work from ancient through modern.
+
+---
+
+## 32. Harijan, and why the name (MOD-B8-01)
+
+**1932:** Gandhi founded the **All India Harijan Sevak Sangh**. **Harijan** = children of God — a new respectable name. **Dalit** is Marathi for **oppressed or suppressed**. He also mentioned a translation “broken”; the line he wanted written is oppressed or suppressed.
+
+Why not “Dalit” as the public name: calling them oppressed **admits** they are oppressed. Start with a respectable name. He travelled, lived, and dined with Dalits in their colonies.
+
+**Temple entry.** He tried **Vaikom (Kerala)** and **Mahakal (Madhya Pradesh)**. He **failed**. Do not blame Gandhi alone — blame the social structure. **Mahad** (the well satyagraha) is a different event and stays on **SOC-03**. Do not merge it with Mahakal.
+
+**State does not do what society does.** The British state discriminated British from Indian. It did not discriminate Indian from Indian the way a temple, mosque, church, gurdwara, or club does. Independent India is the same on that point. Reform has to come **from within**. Credit him for the attempt and the intention.
+
+**Uniform Civil Code** was his illustration, not a statute he dated. Scholars say a common code is good for women, especially **property**. Roughly **8 of 100** women own some land, house, or property. The state cannot force an equal split on society.
+
+**Three pillars: state, market, society.** The market is more open than the state (pay, and you receive). **Fraternity** the state cannot ensure — he tied that to **Ambedkar, 1950**. Liberty (speech, a job, travel — he pointed at **Articles 19 and 21**) and equality from the state are easier than equality inside society. **Society changes slowest.**
+
+---
+
+## 33. Ambedkar’s two pieces of advice (MOD-B8-02)
+
+He returned to India in **1923**. After Columbia, in **1924** he founded the **Bahishkrit Hitkarini Sabha**. **Bahishkrit** = excluded / outcaste. **Hitkarini** = welfare. The notebook wrote a return in **1927**; he said **1923**, and the sabha in **1924**. Work from **Nagpur** (a Dalit centre) and **Pune**.
+
+Two pieces of advice:
+
+1. **Modern education.** This is not “secular subjects” — maths, medicine, and architecture were already here. It means liberal ideas: **liberty** (the individual before society, including women), **equality**, **fraternity**, **justice**, and the habit of observation, question, and logic. Examples he used: **sati** banned **1829**; the **Widow Remarriage Act** he dated **1852**; the **Special Marriage Act** after **1872**. **Raja Rammohan Roy** died **1823**; he criticised the old system and wrote to the British **before Macaulay** (class put Macaulay somewhere **1828–1833**); **Vedanta College**, Calcutta; class called Roy the **Father of Modern India**.
+2. **Move to cities.** A village identifies you by caste. A city identifies you by occupation and class. Gandhi’s philosophy is the **village**; Ambedkar’s is the **city**. He knew caste would **not** end in cities — he has seen it in California and in London. Do not write “he said caste would end.” Gandhi himself lives in an ashram on a riverbank outside Ahmedabad, not as a city man.
+
+**Satanic joy** (*shaitani khushi*): his reading of why caste is rigid. Each caste is unhappy to be below those above it, and happy to be above those below it. Counts he gave: more than **10,000** castes; **2,000+** Other Backward Classes (OBC); **1,000+** Scheduled Caste (SC); Muslims around **400+** castes. A rank he used in class was an illustration, not a census figure.
+
+**Who is in the SC list (this sitting, then stop).** More than **1,000** jatis — Hindus, Buddhists, Sikhs. Muslim communities that had been included were **excluded after September 1950**. Sikhs and Buddhists were also taken out and later brought back; the bring-back year did not land. Who **keeps** SC after conversion stays **SOC-03**. Tribes: more than **500**, all religions, defined by geography (hills and forests). Primitive tribes he named: **Jarawa** and **Sentinelese**, Andaman and Nicobar.
+
+---
+
+## 34. Round Table, Macdonald Award, the fast (MOD-B8-03)
+
+**Three Round Table Conferences** in England: **1930–31, 1931, and 1932**. He went as the Dalit representative. Congress **opposed** the invitation. Congress claimed to represent **all** Indians. The British invited **Jinnah** (Muslims), **Madan Mohan Malaviya** (Hindus), **Ambedkar** (Dalits), and rajas and nawabs (princes) — divide and rule, and a way to paint Congress as upper-caste zamindars. He demanded adequate representation. For Britain the split was useful.
+
+**1932, British Prime Minister Ramsay MacDonald.** Two points. This is the **Macdonald Award**, also the **Communal Award**. Do not write “Commonwealth Award.”
+
+1. The **Depressed Classes** are a **minority**. Official term: **Depressed Class**. Marathi: **Dalit**. Gandhi: **Harijan**. The Constitution: **Scheduled Caste**.
+2. They get a **separate electorate**. The same device was already with Muslims, Sikhs, Anglo-Indians, and the Chambers of Commerce of Calcutta and Bombay (**1909**). He also said “since 1894, then 1909.” Lock **1909**.
+
+Congress opposed. Gandhi was deeply shocked and began a **fast unto death** in **Yerawada Jail, Pune** (then Poona). He spelled **Y-A-R-V-A-D-A**. Perhaps his longest fast: almost **21 days**. He described the jail as an earlier palace of the **Aga Khan**. **Ahmednagar Fort** (Akbar, **1601**) is a **different** jail he named, where **Nehru** was held **1942–45**. The fast-place lock is **Yerawada**.
+
+**Why this fast, and not an earlier one against Muslim separate electorates.** He had already seen Muslim separate electorates divide the nation (**Lucknow**). He would live with Muslim, Sikh, and Anglo-Indian separate electorates **until independence**, after which he expected them to end. Dalits were different, and **beyond politics**. A separate electorate would **institutionalise** caste discrimination and untouchability: what society already practised would now be law. Separate constituencies, and — his picture — separate gates and canteens in the assemblies. Dalits might get seats and still be **more** outcaste than before. Being a Sikh or a Muslim is not a taboo; being a Dalit is, which is why people hide the name (**Kumar**, **Singh** — he called that **Sanskritisation**). Speeches were not enough. Fasting is the change-of-heart method (Lecture 6). After about **10 days** there is a medical risk.
+
+**Potti Sriramulu** (Andhra) was the contrast: a fast of **64 days** in the early 1950s. He corrected himself among 1951, 1952, and 1953 — do not lock one year. **Nehru** would not yield (India already divided on religion; he feared a language split). Sriramulu died. Violence followed. The government then announced **Andhra**. Gandhi timed the break. Do not write “Gandhi never broke a fast.”
+
+---
+
+## 35. Poona Pact — three points (MOD-B8-04)
+
+Three partners: **Ambedkar**, **Gandhi**, and **caste-Hindu leaders** (he named **Madan Mohan Malaviya**). Gandhi’s role is the mediator — he compared it to **Bhishma**. Upper-caste leaders opposed concessions. Ambedkar’s side pitched the fight against them. If they fight, India loses and the British gain.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-label="Poona Pact three points" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="250" rx="12" fill="#f8fafc"/>
+  <text x="380" y="32" text-anchor="middle" font-size="16" font-weight="700" fill="#0f172a">Poona Pact, 1932 — three points</text>
+  <rect x="24" y="52" width="220" height="150" rx="10" fill="#fee2e2" stroke="#f87171"/>
+  <text x="134" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">(a) Ambedkar</text>
+  <text x="134" y="108" text-anchor="middle" font-size="13" fill="#7f1d1d">No separate electorate</text>
+  <text x="134" y="128" text-anchor="middle" font-size="13" fill="#7f1d1d">for Depressed Classes</text>
+  <text x="134" y="164" text-anchor="middle" font-size="12" fill="#991b1b">He accepted this</text>
+  <rect x="268" y="52" width="224" height="150" rx="10" fill="#ccfbf1" stroke="#2dd4bf"/>
+  <text x="380" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#115e59">(b) Gandhi + Hindu leaders</text>
+  <text x="380" y="108" text-anchor="middle" font-size="13" fill="#134e4a">Provincial councils</text>
+  <text x="380" y="132" text-anchor="middle" font-size="18" font-weight="700" fill="#0f766e">71 → 147</text>
+  <text x="380" y="164" text-anchor="middle" font-size="12" fill="#115e59">9 provinces, put together</text>
+  <rect x="516" y="52" width="220" height="150" rx="10" fill="#fef3c7" stroke="#fbbf24"/>
+  <text x="626" y="80" text-anchor="middle" font-size="13" font-weight="700" fill="#92400e">(c) Bonus</text>
+  <text x="626" y="108" text-anchor="middle" font-size="13" fill="#78350f">Seats in the Central</text>
+  <text x="626" y="128" text-anchor="middle" font-size="13" fill="#78350f">Legislative Assembly</text>
+  <text x="626" y="164" text-anchor="middle" font-size="12" fill="#92400e">Not in the Macdonald Award</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Poona Pact. (a) no separate electorate. (b) reserved seats in provincial legislative councils, <strong>71 to 147</strong>, across <strong>9 provinces</strong>. (c) reserved seats in the <strong>Central Legislative Assembly</strong> — not part of the Macdonald Award.</em></p>
+
+The government had fixed **71** seats in the provinces put together. Gandhi agreed to **more than double** that, **147**, if Ambedkar dropped the separate electorate. The central-assembly seats were Gandhi’s extra. Some upper-caste leaders turned **anti-Gandhi** over that — “too soft,” too many concessions.
+
+The pact became the **basis of later reservation** and avoided a conflict between **caste Hindus and Dalits**. The society-class trap still stands: after the pact the electorate is **joint**, and under the British franchise (property and education) **upper-caste voters elect** the Dalit on the reserved seat. Bombay **1935**: **100** seats, **10** reserved — that example stays **SOC-03**. Dalits **did** vote. Do not rewrite the pact as “Dalits got no vote.”
+
+---
+
+## 36. Five movements — order first (MOD-B8-05)
+
+Prelims likes the **order**, often without the years. **All five** are Prelims. He marked **A, D, and E** for Mains. **B** and **C** were still taught in full today. **D** and **E** were named, not retaught — they already sit on Lecture 5.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 168" role="img" aria-label="Gandhian movements in order" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="920" height="168" rx="12" fill="#f8fafc"/>
+  <text x="460" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#0f172a">Order — Prelims. A, D, E also Mains</text>
+  <rect x="16" y="48" width="160" height="96" rx="8" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+  <text x="96" y="74" text-anchor="middle" font-size="12" font-weight="700" fill="#115e59">A · 1917 · Mains</text>
+  <text x="96" y="98" text-anchor="middle" font-size="13" fill="#134e4a">Champaran</text>
+  <text x="96" y="118" text-anchor="middle" font-size="12" fill="#134e4a">Satyagraha</text>
+  <rect x="196" y="48" width="160" height="96" rx="8" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="276" y="74" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">B · 1918</text>
+  <text x="276" y="98" text-anchor="middle" font-size="13" fill="#1e293b">Ahmedabad</text>
+  <text x="276" y="118" text-anchor="middle" font-size="12" fill="#1e293b">mill strike</text>
+  <rect x="376" y="48" width="160" height="96" rx="8" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="456" y="74" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">C · 1918</text>
+  <text x="456" y="98" text-anchor="middle" font-size="13" fill="#1e293b">Kheda</text>
+  <text x="456" y="118" text-anchor="middle" font-size="12" fill="#1e293b">Satyagraha</text>
+  <rect x="556" y="48" width="160" height="96" rx="8" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="636" y="74" text-anchor="middle" font-size="12" font-weight="700" fill="#92400e">D · 1919 · Mains</text>
+  <text x="636" y="98" text-anchor="middle" font-size="13" fill="#78350f">Rowlatt</text>
+  <text x="636" y="118" text-anchor="middle" font-size="11" fill="#78350f">named, not retaught</text>
+  <rect x="736" y="48" width="168" height="96" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+  <text x="820" y="74" text-anchor="middle" font-size="12" font-weight="700" fill="#991b1b">E · 1920–22 · Mains</text>
+  <text x="820" y="98" text-anchor="middle" font-size="12" fill="#7f1d1d">Khilafat and</text>
+  <text x="820" y="116" text-anchor="middle" font-size="12" fill="#7f1d1d">Non-Cooperation</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Chronology he dictated. <strong>A</strong> Champaran 1917, <strong>B</strong> Ahmedabad 1918, <strong>C</strong> Kheda 1918, <strong>D</strong> Rowlatt 1919, <strong>E</strong> Khilafat and Non-Cooperation 1920–22. Mains weight on A, D, and E. D and E were not taught again this sitting.</em></p>
+
+---
+
+## 37. Champaran Satyagraha, 1917 (MOD-B8-06)
+
+**What.** Peasants of **Champaran** (**Motihari** and **Bettiah**), north Bihar, wanted freedom from indigo.
+
+**Tin Kathia.** Desi units. **20 katha = 1 bigha.** Of those 20, the contract forced indigo on **3 katha**. The other **17** were free. **1 katha ≈ 1,367.5 square feet.** About **4 bigha = 1 acre**. A farmer with **50 katha** grows indigo on **7.5 katha** (3/20). The notebook’s “1 katha = 1/20 of an acre” is not what he said.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-label="Tin Kathia three of twenty katha" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="720" height="150" rx="12" fill="#f8fafc"/>
+  <text x="360" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#0f172a">Tin Kathia — 3 of 20 katha under indigo</text>
+  <rect x="40" y="52" width="96" height="48" rx="4" fill="#4f46e5"/>
+  <rect x="140" y="52" width="540" height="48" rx="4" fill="#d1fae5" stroke="#059669"/>
+  <text x="88" y="82" text-anchor="middle" font-size="14" font-weight="700" fill="#eef2ff">3</text>
+  <text x="410" y="82" text-anchor="middle" font-size="14" font-weight="700" fill="#065f46">17 free</text>
+  <text x="360" y="128" text-anchor="middle" font-size="13" fill="#334155">20 katha = 1 bigha · about 4 bigha = 1 acre · 1 katha ≈ 1,367.5 sq ft</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Tin Kathia. Indigo on <strong>3 katha</strong> out of <strong>20</strong>. Twenty katha make one bigha. About four bigha make one acre.</em></p>
+
+**Why.** Late 19th century: peasants and British **planters** signed contracts. Indigo was the dye for textiles. After **1897**, Germans developed **aniline**, an artificial dye. Planter profits fell. The soil lost fertility — **high acid** in the indigo crop. Peasants wanted out of the contract. Planters demanded **heavy compensation**. During **World War I (1914–18)** indigo demand rose again (the German supply to European mills was cut). **Peasant profit did not.** Planters kept it.
+
+**Leaders.** Local peasant leader **Raj Kumar Shukla** invited Gandhi. Gandhi went **reluctantly** — the second reluctant yes of his life. The first was the return from South Africa, when Indians asked him to stay with their fight. Both made him. With him: **Dr Rajendra Prasad**, **Dr Anugrah Narayan Sinha**, **Maulana Mazharul Haq**, **Narhari Parikh**, **Mahadev Desai**, **J.B. Kripalani**. From Bihar: Shukla, Prasad, Anugrah Narayan Sinha, Mazharul Haq. Prelims can ask any of the names.
+
+**Character.** They visited the villages, met peasants, and **recorded statements in detail** — not done before. Those records are in the **National Archives of India** and the **Bihar State Archives**. This is his “search the truth” method, not a weapon. Once sure of the plight, he told them to **stop growing indigo**. Stay **united, firm, and peaceful**. Abstain from **alcohol**. Drop **untouchability**, so women and Dalits would join.
+
+**Why the alcohol appeal** (same line later at Kheda). Two purposes. Drink and violence go together, and poor households drain income that should reach women — so women will not join a political meeting while that is the life at home. Swaraj for women, in his picture, begins as freedom from men’s exploitation. He then **withdrew** the idea that this is why Bihar and Gujarat are dry states today. Do not lock that cause.
+
+**Outcome.** Unity of peasants and Gandhi’s leadership put pressure on the government. An **enquiry commission** was set up, with Gandhi as **one of the members**. It recommended that **force cannot be used**, and that peasants were **free to choose the crop**. That ended the movement.
+
+**Significance.** Other regions organised on the same method: **Kheda 1918**, the **Ahmedabad mill strike 1918**, **Bardoli 1928**, the **Eka** movement (eastern Uttar Pradesh; *eka* = unity), and the **Awadh Kisan Sabha** (eastern Uttar Pradesh). Champaran made Gandhi a **credible mass leader**. Bardoli, Eka, and Awadh were named, not taught.
+
+---
+
+## 38. Ahmedabad mill strike, 1918 (MOD-B8-07)
+
+**Textile mill workers** of Ahmedabad demanded two things: **(a)** continuation of the **plague bonus** **(b)** a **rise in wages**. The industrialists were also **Indian**, and not ready.
+
+Gandhi met the workers and advised a **strike**. Stay united, firm, and peaceful. After a few days the movement cooled — numbers falling, fatigue, some ready to break because wages had stopped. He then used the card he had kept: **fast unto death**. This was his **first fast unto death in India (1918)**. The Poona fast is **1932**, later, and the long one.
+
+Workers mobilised. Pressure moved onto the industrialists. They agreed to a **tribunal**. The tribunal awarded a **35% bonus against 50% demanded**, and a wage rise of **27.25%**, which he called very high even by the standard of that time, and by today’s. Gandhi told the workers to **accept the award and end the strike**. He was mediating both sides, not standing only with the workers.
+
+---
+
+## 39. Kheda Satyagraha, 1918 (MOD-B8-08)
+
+Peasants of **Kheda**, a taluka in **Gujarat**, demanded **complete exemption** from **malguzari**. That is the local word for **land revenue** (**lagan** in central India). Cause: **crop failure** after a **severe drought**. The tax authority was not ready to exempt them.
+
+Gandhi sent **Vallabhbhai Patel** and **Indulal Yagnik**. Both were **local**. They met peasants, recorded statements, and reported to him. His advice: **do not pay malguzari**. It was already their right under the **revenue code** — if the crop has failed, the state shall not collect land revenue. The authority was not following its own law. A court arrives after the damage. Under the British, a political movement had to come in between. Stay united, peaceful, and firm.
+
+Also: stop untouchability and discrimination against **Kali praja** — Dalits and tribals, in the local term. The opposite name was **ujli praja**: upper castes who called themselves white, and the backward communities black. And do not drink.
+
+**Outcome.** The government, under pressure, issued a circular: collect land revenue **only from those in a position to pay**. Gandhi told the peasants to **accept the order and end the movement**. Those who could not pay were exempted. Those who could, paid.
+
+---
+
+**This sitting stopped here.** He was starting a test. Rowlatt (1919) and Khilafat–Non-Cooperation (1920–22) stay the next movements in the order, already on Lecture 5.
+
+### Lecture 8 — locks
+
+1. **Harijan** = children of God (**All India Harijan Sevak Sangh, 1932**). **Dalit** = oppressed or suppressed. Temple entry **failed** at Vaikom and Mahakal.
+2. Return **1923**. Sabha **1924**. Advice: modern education, and the **city**. Caste does not end in the city.
+3. Communal / Macdonald Award, **1932**: Depressed Classes are a minority, and they get a separate electorate. Fast at **Yerawada**, almost **21 days**. The harm he named: it would **institutionalise** untouchability.
+4. Poona Pact: **no** separate electorate; provinces **71 → 147** (9 provinces); central assembly seats were **not** in the Award. Joint-electorate trap stays **SOC-03**.
+5. Order: Champaran **1917**, Ahmedabad **1918**, Kheda **1918**, Rowlatt **1919**, Khilafat–NCM **1920–22**.
+6. Tin Kathia: **3 of 20 katha**. **1897** aniline. Enquiry: no force; free to choose the crop.
+7. Ahmedabad: first Indian fast, **1918**. Tribunal **35%** against **50%**. Wage rise **27.25%**.
+8. Kheda: **malguzari** = land revenue. Revenue code already exempted a failed crop. Circular: pay only if able.
+
+---
+
+## UPSC PYQ Connections (Lectures 1–8)
 
 - Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
 - Role of press, education, and social reform in national awakening
@@ -1522,10 +1721,18 @@ flowchart TB
 - **“Socialist” in the Preamble (1976, 42nd Amendment)** *(Prelims)*
 - **Inclusive vs exclusionary secularism**; two-nation: **Mill 1817 → Savarkar 1923 → Jinnah 1940** *(Mains / Prelims)*
 - **Gandhi vs Ambedkar** — untouchability vs caste; *Annihilation of Caste*; Neo-Buddhism **1956** *(Mains / GS-IV)*
+- **Harijan Sevak Sangh 1932**; Harijan vs Dalit; temple entry at **Vaikom** and **Mahakal** failed *(Prelims)*
+- **Bahishkrit Hitkarini Sabha 1924**; return **1923**; modern education and the city *(Prelims)*
+- **Macdonald / Communal Award 1932** — Depressed Classes as a minority + separate electorate; fast at **Yerawada** *(Prelims + Mains)*
+- **Poona Pact** — no separate electorate; provincial seats **71 → 147** (9 provinces); central assembly seats not in the Award *(Prelims + Mains)*
+- **Order:** Champaran 1917 → Ahmedabad 1918 → Kheda 1918 → Rowlatt 1919 → Khilafat–NCM 1920–22 *(Prelims arrange)*
+- **Tin Kathia** — 3 of 20 katha; **1897** aniline; Champaran enquiry *(Prelims)*
+- **Ahmedabad** — plague bonus; first fast in India 1918; **35%** against **50%**; wage rise **27.25%** *(Prelims)*
+- **Kheda** — malguzari; revenue code; pay only if able *(Prelims)*
 
 ---
 
-## Abbreviations used in Lectures 4–7
+## Abbreviations used in Lectures 4–8
 
 | Shortcut | Full form |
 |:---|:---|
@@ -1554,10 +1761,13 @@ flowchart TB
 | **A.P.** | Andhra Pradesh (Pochampalli / Bhoodan) |
 | **S&T** | Science and Technology |
 | **VC** | Vice-Chancellor (Zakir Husain, Jamia Millia Islamia) |
+| **SC** | Scheduled Caste |
+| **SE** | Separate electorate |
 
 ---
 
-<!-- 2026-09-08: Lecture 7 — Wardha / Nai Taleem 1937 (Zakir Husain); Macaulay 1835 / Wood 1854; Gandhi vs Nehru (Ramraj vs nation-state; trusteeship / Bhoodan 1953 Pochampalli vs socialist mixed economy; inclusive vs exclusionary secularism; Mill 1817 / Savarkar 1923 / Jinnah 1940); Gandhi vs Ambedkar (untouchability / caste / Hinduism; Annihilation of Caste; Neo-Buddhism 1956). Source: 6 notebook pages (dated 8/9/26) + History L080926 transcript. Cluster MOD-B7. 1917–48 still later. -->
+<!-- 2026-09-22: Lecture 8 — Harijan Sevak Sangh 1932; Ambedkar return 1923 / Bahishkrit Hitkarini Sabha 1924; Macdonald / Communal Award; Yerawada fast ~21 days; Poona Pact 71→147 + central assembly not in the Award; Champaran tin kathia 3/20, 1897 aniline; Ahmedabad first Indian fast 1918, 35% vs 50%, wage 27.25%; Kheda malguzari. Source: 5 notebook pages (dated 22/9/26) + HistoryL220926 transcript. Cluster MOD-B8. Rowlatt and Khilafat–NCM named, not retaught. Joint-electorate trap stays SOC-03. -->
+<!-- 2026-09-08: Lecture 7 — Wardha / Nai Taleem 1937 (Zakir Husain); Macaulay 1835 / Wood 1854; Gandhi vs Nehru (Ramraj vs nation-state; trusteeship / Bhoodan 1953 Pochampalli vs socialist mixed economy; inclusive vs exclusionary secularism; Mill 1817 / Savarkar 1923 / Jinnah 1940); Gandhi vs Ambedkar (untouchability / caste / Hinduism; Annihilation of Caste; Neo-Buddhism 1956). Source: 6 notebook pages (dated 8/9/26) + History L080926 transcript. Cluster MOD-B7. Actions = Lecture 8. -->
 <!-- 2026-09-06: Lecture 6 — Mass Mobilizations and the Dialogues (Tarique): sources of Gandhian political thought (Tolstoy / John Ruskin ≠ Bond / Thoreau / own experiments); Satyagraha 5+2; absolute vs relative + PEASC + Orientalism 1800–1950; Tagore patriotism then critic (Vande Mataram 1896, Amar Sonar Bangla, Jana Gana Mana, d. 1941, internationalism); Gandhi nationalism = defined boundary, people first; education Visva-Bharati 1901/1921 vs Gandhi access + ethics + dignity of labour. Nehru/Ambedkar = L7; 1917–48 still later. Source: 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript. Cluster MOD-B6. -->
 <!-- 2026-09-01: Lecture 5 — Lucknow Pact C (significance: harmony, Rowlatt 1919, Khilafat–NCM, Montagu–Chelmsford / GoI Act 1919); The Making of Mahatma — Gandhi in South Africa (events 1–10, four laws, religious thoughts). Political thoughts and India branch (Tagore/Nehru/Ambedkar; 1917–48; Noakhali) not this class. Source: 3 notebook pages (dated 1/9/26) + History L010926 transcript. -->
 <!-- 2026-08-30: Lecture 4 — ICA 1909 clauses and critique; three Delhi Durbars; 1911 annulment + capital shift; Home Rule Leagues (Tilak/Besant); Lucknow Pact. Source: 6 notebook pages + HistoryL300826 transcript. -->

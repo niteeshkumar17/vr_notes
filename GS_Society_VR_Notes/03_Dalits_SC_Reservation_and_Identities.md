@@ -148,6 +148,10 @@ Just **listen** in class, then lock:
 
 **After independence:** **universal adult franchise** — everyone votes, **equal value**. Dalits **get** voting rights they lacked under the British.
 
+### Update — 22 September 2026 (Modern India Lecture 8 — no extra Day-1)
+
+History class added the **numbers**, not a second pact. Provincial legislative councils: government had fixed **71** seats across **9 provinces**; Poona Pact raised that to **147**. Seats were also reserved in the **Central Legislative Assembly** — **not** part of the Macdonald Award. Gandhi’s reason for the fast, in that sitting: a Dalit separate electorate would **institutionalise** untouchability. The joint-electorate trap above (upper caste elects the reserved Dalit; Bombay **100 / 10**) stays this note. Full movements: `GS_History_VR_Notes/Modern_India.md` (Lecture 8).
+
 Sheet margin / class: **Mahad Satyagraha** (wells). Hindus warned Dalits not to repeat it or there would be **Hindu–Dalit riots**. Class: **no second Mahad**. Sheet also wrote **Kalaram** (do not invent the temple story).
 
 ---
