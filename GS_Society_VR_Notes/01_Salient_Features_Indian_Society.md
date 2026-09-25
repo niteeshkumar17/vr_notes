@@ -9,7 +9,7 @@
 > **Also relevant for:** Essay; Ethics (tradition vs modernity); GS-II reservation / secularism later.  
 > **How to read class shortcuts:** full form on first use, then the short form. Glossary at the end.
 
-**Parked for later classes:** population; urbanisation; communalism / regionalism / secularism; globalisation; **role of women and women’s organisations** (Self Help Groups (SHGs)); poverty and developmental issues. **Caste and power** + social empowerment = **reservation** → `02_Caste_Power_and_Reservation.md` (Lecture 2 — 10 September 2026). **Untouchable identities / SC / NCSC / Dalit movement** → `03_Dalits_SC_Reservation_and_Identities.md` (Lecture 3 — 12 September 2026). **Tribes** next. **Governance opening (Gov-PS L1, 17 Sep)** is fundamentals of governance + civil services — **not** Society chapters 7–8; those still sit here as parked.
+**Parked for later classes:** population; urbanisation; communalism / regionalism / secularism; globalisation; **role of women and women’s organisations** (Self Help Groups (SHGs)); poverty and developmental issues. **Caste and power** + social empowerment = **reservation** → `02_Caste_Power_and_Reservation.md` (Lecture 2 — 10 September 2026). **Untouchable identities / SC / NCSC / Dalit movement** → `03_Dalits_SC_Reservation_and_Identities.md` (Lecture 3 — 12 September 2026). **Tribes** → `04_Tribes_and_Tribal_Development.md` (Lecture 4 — 24 September 2026). **Governance opening (Gov-PS L1, 17 Sep)** is fundamentals of governance + civil services — **not** Society chapters 7–8; those still sit here as parked.
 
 **Mains theme Sir locked for caste:** will caste **live or die**? Today’s answer-frame: it stays alive because it is **rigid by birth** and **flexible in occupation**.
 

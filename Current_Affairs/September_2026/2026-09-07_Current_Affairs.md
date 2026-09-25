@@ -84,6 +84,10 @@ flowchart TD
   FIGHT --> DELAY["NHPC avg 106 months · Teesta-IV"]
 ```
 
+### Update — 24 September 2026 (Social Issues class — no extra Day-1)
+
+The tribes lecture (`04_Tribes_and_Tribal_Development.md`, **SOC-04**) teaches consultation under the Forest Rights Act as mandatory, and the 2013 Niyamgiri ruling as a green referendum of every Gram Sabha. This clip stays the Ministry of Tribal Affairs line from 7 September: the Act’s text has no project-consent clause. The two readings sit side by side. No extra Day-1 on **CA-260907**.
+
 ---
 
 ## Topic 3: Yoga and Ayurveda in India’s health diplomacy — standards still thin

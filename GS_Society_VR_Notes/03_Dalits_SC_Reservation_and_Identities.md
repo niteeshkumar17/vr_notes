@@ -8,7 +8,7 @@
 > **Paper:** **GS-I (Mains)** — Indian Society / Social Issues. Reservation, commissions, and *Davinder Singh* also feed **GS-II**.  
 > **Continues:** `02_Caste_Power_and_Reservation.md` (Lecture 2 parked **untouchable identities**).  
 > **Already in notes (not restated as a new lecture):** *Indra Sawhney* creamy layer = **Other Backward Classes (OBC) only** (`SOC-02-04`); Art 17 / Civil Rights Protection Act, 1955 / Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 (`SOC-02-08`); Gandhi vs Ambedkar three heads on Modern India L7 (`MOD-B7-06`); Union affidavit vs income-based creamy layer in Scheduled Castes (SC) / Scheduled Tribes (ST) (`CA-260807-01`). **New facts only** sit here; extras are patched back.  
-> **Parked:** **Tribes** (next class).  
+> **Parked:** **Tribes** → `04_Tribes_and_Tribal_Development.md` (Lecture 4 — 24 September 2026, **SOC-04**).  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 **Mains lock still:** will caste live or die? Today is **who is an SC**, the **National Commission for Scheduled Castes (NCSC)**, why the **Dalit movement** changed its goal, **Gandhi vs Ambedkar** on untouchability from the Society desk, and why SC reservation now needs **creamy layer + sub-classification**.
@@ -244,7 +244,7 @@ Two families of ideology. **Right wing** in India **did not like Dalits** (class
 | Economy | **Capitalist**; **ease** labour laws; labour exists to make the nation “great again.” | **Pro-labour**, **pro-vulnerable**, **pro-immigrant**. **Strong** labour law. |
 | Status | Can be **status-quoist** (keep capitalists / majority on top) — **but right wing ≠ only status quo**. | Britain: **Labour** = left; **Conservatives** = right. |
 
-Rise of the right: **India after 2014**; **Trump / MAGA** (“America for Americans,” jobs vs **immigrants**, less money for others / North Atlantic Treaty Organization (NATO)); **Germany** (class: **AfD** in local elections; first right-wing rise since Nazis). **Next class: tribes.**
+Rise of the right: **India after 2014**; **Trump / MAGA** (“America for Americans,” jobs vs **immigrants**, less money for others / North Atlantic Treaty Organization (NATO)); **Germany** (class: **AfD** in local elections; first right-wing rise since Nazis). **Tribes** are Lecture 4 (24 September 2026, **SOC-04**).
 
 ---
 
