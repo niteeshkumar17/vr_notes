@@ -2,8 +2,8 @@
 
 *Date added: 2026-08-23*
 
-> **Source:** Vajiram & Ravi Class Lecture A3 Notes (23/08/2026) + Lecture A4 Notes (27/08/2026) + Audio Transcripts
-> **Last Updated:** 2026-08-27
+> **Source:** Vajiram & Ravi Class Lecture A3 Notes (23/08/2026) + Lecture A4 Notes (27/08/2026) + Lecture A5 Notes (25/09/2026) + Audio Transcripts
+> **Last Updated:** 2026-09-25
 > **Exam Strategy Note:** Out of 100, questions from proper medieval (1250–1707) are **insignificant** in GS Prelims. Focus should be on **Early Medieval** and **Ancient**. Medieval India can be done lightly. Pre-modern is important.
 > **Teacher's Revision Instruction (27/08):** For the whole Delhi Sultanate, revise only **8 sheets** — (1) Four Pillars, (2) Technological/social change, (3) Water management, (4) Departments, and (5–8) the five "Sultanate on land / administration / land revenue" sheets. These five sheets alone compress **172 pages of Satish Chandra, *Medieval India* Vol. 1**. Do **not** study the individual kingdoms of 1290–1320 in detail — time saved here should go to Geography, Economy and Polity.
 
@@ -588,7 +588,7 @@
 | **1** | **Defeated the Mongols decisively** — threw them out | The **most successful Sultan of Delhi against the Mongols** |
 | **2** | Brought **new military technology** to India | — |
 | **3** | Introduced the **best breeds of horses** | Created **horse-breeding centres — PAIGAH**; started the **branding system (DAGH)** and the **descriptive roll (CHEHRA)**; introduced **DO-ASPA** — two horses per soldier as a rule; also created a **central postal system** |
-| **4** | **Market reforms and price regulation** | The famous experiment — it **ran for about 25 years** |
+| **4** | **Market reforms and price regulation** | The famous experiment — it **ran for about 25 years**. The four markets, the ration, and **Siri** are Lecture A5 |
 
 > **Standing exam line:** *after Balban, the most successful Sultan of Delhi is Alauddin Khalji.*
 
@@ -609,5 +609,217 @@
 
 ---
 
+### Lecture A5 — 25 September 2026
+
+> **Date of Lecture:** 25 September 2026. Notebook pages dated **25/9/26**, circled **1–6**.  
+> **Date Added:** 2026-09-25  
+> **Faculty:** the medieval series. The audio does not repeat his name.  
+> **Cluster:** **HIS-MED-24**. Thursday 1 October, question 1. Do not steal 26–30 September.  
+> **Already on Lecture A4:** iqta made hereditary, the three Firoz departments, tax-farming at one-third in cash, and Alauddin’s market experiment lasting about 25 years. This sitting adds the markets themselves, then the dynasties after him.  
+> **His own exam line:** after Alauddin, political narrative is thin for Prelims. The five names he would still revise are Iltutmish, Balban, Alauddin, Muhammad bin Tughlaq, and Firoz. Art and architecture, he said, lives on five sheets he has not taught yet.
+
+### 18. Alauddin’s markets, then Siri (HIS-MED-24-01)
+
+Everything in this block is for the Mongols. Three plans:
+
+1. A strong army, which needs horses (the horse market) and military technology.  
+2. Uninterrupted food for those soldiers: **price regulation** and **market reforms**, including a **ration**.  
+3. A place for the soldiers to live.
+
+The market ladder: a **sadar** (he spelled S-D-R; the audio first heard “Sadar”) held **sarais**, and each sarai held **mandis**. Four mandis:
+
+| Mandi | What it sold |
+|:---|:---|
+| 1 | Horses, slaves and cattle |
+| 2 | Textiles |
+| 3 | Food grains and fodder |
+| 4 | Miscellaneous |
+
+The soldiers’ city was a **lashkargah** (lashkar = cavalry and infantry). **Amir Khusrau**, who lived there, gave it the name **Siri**. Siri is Alauddin’s military city. Firoz, later, builds a fortified city for civilians.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" role="img" aria-label="Alauddin answered the Mongols with horses, a rationed market, and the military city Siri" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="132" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Alauddin · all of it is for the Mongols</text>
+  <rect x="16" y="40" width="230" height="76" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="131" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Army</text>
+  <text x="131" y="90" text-anchor="middle" font-size="12" fill="#7c2d12">Horses and technology</text>
+  <rect x="262" y="40" width="236" height="76" rx="10" fill="#d1fae5" stroke="#059669"/>
+  <text x="380" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">Provisions</text>
+  <text x="380" y="90" text-anchor="middle" font-size="12" fill="#064e3b">Prices, four mandis, a ration</text>
+  <rect x="514" y="40" width="230" height="76" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="629" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Siri</text>
+  <text x="629" y="90" text-anchor="middle" font-size="12" fill="#1e40af">Lashkargah, named by Khusrau</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> One-word cue for the Khaljis stays expansion. The Tughlaq cue, next, is cohesion.</em></p>
+
+### 19. Tughlaqs — cohesion, then five failures (HIS-MED-24-02)
+
+**1320–1414.** Cohesion means a society in which Muslims and Hindus are made to live together, on purpose. It had not happened overnight before this.
+
+**Ghiyasuddin Tughlaq, 1320–25.** Gold coins on which he does not call himself Sultan. The title is **Sarvabhauma** (he said “Sarbham”), Sanskrit for lord of the world, a Gupta title: he is claiming the golden age back. Shia nobles get office. He built India’s first **imambara**, for Shias, in **Paharganj**. Pilgrimage to dargahs begins with the Tughlaqs; he said the mausoleum of Nizamuddin Auliya is theirs. Hindu–Muslim marriages: Ghiyasuddin, Muhammad bin Tughlaq and Firoz each had a Hindu wife, from Jat families in Haryana. The zamindari shape he knows today, he dated to this dynasty.
+
+**Muhammad bin Tughlaq, 1325–51.** Prince of **Moneyers**. Source: **Ibn Battuta**, from Morocco (the Maghrib), book **Rehla**, in Arabic. Five failed projects. The names are enough for GS.
+
+| # | Project | What he locked |
+|:---|:---|:---|
+| 1 | **Qarachil** expedition | The two expeditions together: **Multan** lost to the Mongols, and many soldiers dead in the Himalaya. He did not split which loss belonged to which expedition |
+| 2 | **Khurasan** expedition | Same |
+| 3 | **Doab** | Meant to raise output. A drought and a famine of **seven years**. The state’s money never returned. He used Ibn Battuta’s cart story: Tamil *vandi*, a beach cart as *tal-vandi*, and Guru Nanak “born **on** Talwandi” because the family were Khatri caravan traders. That is his language point |
+| 4 | Capital | **Delhi to Devagiri**, renamed **Daulatabad**. The whole city moved. The treasury bled |
+| 5 | **Debasement** | The idea is **Kublai Khan’s** paper money (grandson of Chinggis). India had no paper industry, so **silver was replaced by bronze**. Silver and gold are **bullion**. Bronze is **billon**. Ibn Battuta’s “Prince of Moneyers” is this mass of bronze. **Minting was not a state job.** Traders minted, bad coins (intrinsic value cut, face value kept) drove good coins out. He called that **Gresham’s law** (the audio heard “Gration”) |
+
+**Impact.** The Sultanate breaks. He dated **Bengal 1333**, **Madurai 1334**, **Vijayanagara 1336**, **Bahmani 1347**. The page writes Bengal as **1335**. Lock **1333**. **1351:** Gujarat rises under **Taghi**. Gujarat does not leave, but Muhammad bin Tughlaq dies there while crushing the revolt. The nobles then kill his children. The successor is his cousin **Firoz**.
+
+**Hindu Kush**, in this class, is Ibn Battuta’s word in the *Rehla*: people of the Sindhu, so Hindu, and *kush* because they died — “killer of Hindus”. Geographers still use it. Before the book, he said, the range did not have that name.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 148" role="img" aria-label="Muhammad bin Tughlaq's five failed projects" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="148" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Five failures · Rehla</text>
+  <rect x="16" y="40" width="140" height="90" rx="8" fill="#fee2e2" stroke="#dc2626"/>
+  <text x="86" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#991b1b">Qarachil</text>
+  <text x="86" y="98" text-anchor="middle" font-size="11" fill="#7f1d1d">Expedition</text>
+  <rect x="166" y="40" width="140" height="90" rx="8" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="236" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#9a3412">Khurasan</text>
+  <text x="236" y="98" text-anchor="middle" font-size="11" fill="#7c2d12">Expedition</text>
+  <rect x="316" y="40" width="140" height="90" rx="8" fill="#fef9c3" stroke="#ca8a04"/>
+  <text x="386" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#854d0e">Doab · 7 years</text>
+  <text x="386" y="98" text-anchor="middle" font-size="11" fill="#713f12">Famine</text>
+  <rect x="466" y="40" width="140" height="90" rx="8" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="536" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">Daulatabad</text>
+  <text x="536" y="98" text-anchor="middle" font-size="11" fill="#1e40af">Delhi moved</text>
+  <rect x="616" y="40" width="128" height="90" rx="8" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="680" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#5b21b6">Bronze coin</text>
+  <text x="680" y="98" text-anchor="middle" font-size="11" fill="#4c1d95">Gresham</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> He grouped the Mongol loss of Multan and the Himalayan deaths with the two expeditions, without a clean split.</em></p>
+
+### 20. Firoz, the appeaser, then Timur (HIS-MED-24-03)
+
+**Firoz Shah Tughlaq.** This sitting dated him **1352–88** and called him the people’s king. Lecture A4’s department table has **1351–88**. Both stay.
+
+Policy of appeasement, so that what was left of the Sultanate would not walk out, and so that his own family would not be cut down.
+
+| Who | What he gave |
+|:---|:---|
+| **Umara** | Iqta becomes **hereditary**. Already on A4. Now you know the motive |
+| **Ulama** | **Jaziya** — he called Firoz the **only Sultan of Delhi** to impose it. Pensions, a **madrasa**, the hospital **Dar-al-Shifa**, an employment bureau for their sons, a marriage bureau for their daughters. The Arab-invasion note already uses jaziya in 712 as a military-exemption tax. His “only Sultan of Delhi” is a different sentence. Do not delete either |
+| **People** | Canals, the famous one **Hansi-i-Firuza**, and an **irrigation tax**. He is also the only Sultan of Delhi, in this class, who took both jaziya and an irrigation tax. People paid because the water arrived. A fortified city for civilians, not only for soldiers. **Gardens:** more than **300** in Delhi alone, more than all the Mughal emperors together. The first monuments inside what is now called Lodi Garden are his. The ground was **Firoz Shah Kotla**. Two Ashokan pillars, from **Meerut** and **Topra**. He repaired and finished the **Qutb Minar**; the canopy on top is his |
+
+**Impact.** No further breakup, and also **no unity**. A noble in Gujarat will not ride to save Delhi. Decentralised. **Timur, 1398**, burns Delhi. For the next **14 years** (he also said 12 to 14), Delhi is not on the map. The burnt ground was called **biyaban**, barren, which he identified with the **Ridge**.
+
+### 21. The provinces that walk out (HIS-MED-24-04)
+
+Questions, he said, come from these houses, not from the empty years in Delhi.
+
+| House | Locks |
+|:---|:---|
+| **Gujarat** | **Zafar Khan**, a noble of Firoz, iqta-holder, first independent sultan. This class said he took the name **Zulfiqar Khan**. His son **Ahmad Shah** builds **Ahmedabad** and the port of **Surat**. **Mahmud Begada**: gold **Mahmudi**, the exchange coin of Indian trade until the British Empire of **1858**. The only Indian ruler who beat the **Portuguese at sea**, **1508**, Battle of **Chaul** (he said “Chol”). Bandhani and tie-and-dye grow. **Bahadur Shah** loses to the Portuguese and cedes **Daman, Diu and Bassein**, takes **Malwa**, and is killed by the Portuguese in **1538** |
+| **Malwa** | **Dilawar Khan**, then **Alp Khan**. **Hoshang Shah** builds India’s first **white marble** tomb, before the Mughals. The house follows the **mandala** theory of the Arthashastra. **Mahmud II** is contemporary with Bahadur Shah and with **Rana Sanga**, and Bahadur defeats him |
+| **Khandesh** | **Malik Raja**, a Brahmin noble, about **54** when he becomes Muslim and takes the title **Faruqi**. Mosque walls carry Quranic lines and **Sanskrit** together |
+| **Jaunpur** | **Malik Sarwar**, a eunuch, adopts **Mubarak Shah**. Title **Malik-i-Sharq**, Lord of the East, hence **Sharqi**. Capital Jaunpur. **Husain Shah**: the first **successful** fiat currency in India (Muhammad bin Tughlaq’s had failed). Jaunpur becomes a centre of knowledge. Musicians are put on a salary, so **tappa, thumri, tarana and khayal** gather here. Tappa singers come from Rajasthan because the pay is better. He convenes the first **congress of music**. **Sangita Ratnakara** is the classical text he named; he did not say he wrote it. Sufi **premakhyans**, including **Padmavat** (Ratan Singh’s story, written in Jaunpur, paid for by Husain). The **shehnai** develops here. **Shah Jahan** calls the city **Siraj-i-Hind**. No standing army: mercenary peasants from Bihar and UP, the **Ujjainis** of the Rohtas belt. He carried that hire-sword habit forward to the regiments of **1857** (Ujjaini Rajputs and Bhumihars). Do not build an 1857 note from that one link |
+| **Bengal** | He named only **Ilyas**, and moved on |
+
+### 22. Sayyids, then Lodis (HIS-MED-24-05)
+
+Delhi is rebuilt after those 14 years. **Sayyids, 1414–51.** The page marks them Shia. He taught five points and said nothing else is new; they continue Firoz.
+
+1. They claim the **Prophet’s bloodline**. (He set Zaidis aside as not a bloodline.)  
+2. **No sultan, no throne.** A man of that blood cannot put himself above the last prophet.  
+3. Address: **Rahat-i-Allah**, guardian of the realm. The page spells it Rahat-i-Ala. Seen by a long cap, the **kulah**, so **kulah-daran**. He called this a **2023** prelim. The indexed paper is **CSE-2022-Q58**, and the key is the Sayyids.  
+4. Founder: **Khizr Khan** (the audio heard “Khisra”).  
+5. Last ruler: **Alam Shah**, also **Alauddin Shah**. He leaves the **power**, not a throne, of his own will — India is too hot — and goes toward Mecca and then Central Asia. He hands the power to **Bahlul Lodi**. Smoothest succession in the Sultanate.
+
+**Lodis, 1451–1526.** An Afghan tribe, Sunni. Chosen because a sultan **without a throne** is the closest thing the court had to a Sayyid.
+
+**Bahlul, 1451–89**, **39 years**, the longest-serving Sultan of Delhi. Government is a **jirga**: elders on a carpet, deciding together. **Primus inter pares**, first among equals. Decentralised, and everyone has a say.
+
+**Sikandar** is the first to set up a **throne**, and so leaves the jirga. He is strong enough that the objection stays quiet. He defeats Jaunpur. He shifts the capital to **Agra**. He writes **Lahjat-i-Sikandari**, on music, under the pen-name **Gul-i-Ruh**. For one revenue system he standardises the **gaj**.
+
+**Ibrahim** is the elder son **Adil**, renamed. The younger **Jalal** rebels and promises the jirga back. Many nobles join, including **Daulat Khan Lodi**, governor of **Multan**, who wants to be free himself. Jalal is also called **Mahmud Lodi**, and he sits in Bihar.
+
+### 23. Malwa, Rana Sanga, and Babur (HIS-MED-24-06)
+
+While the brothers fight, three powers want **Malwa**: the grain bowl, and the only nearby source of **war elephants**. Order of strength, as he ranked it: Lodis, then Rajputana, then Gujarat. **Rana Kumbha**, then **Rana Sanga** (Sangram Singh). Gujarat is Bahadur. Malwa is Mahmud II. Jaunpur has already fallen. The Sisodiyas worship **Eklingji**.
+
+Sanga is given two chances and drops both.
+
+| Year | Battle | What he did |
+|:---|:---|:---|
+| **1517** | **Khatoli** | Captures Ibrahim, who was hunting. Lets him go for **₹1 lakh** |
+| **1518** | **Dholpur** | Captures him again. **₹1,25,000**, and a promise not to enter Rajputana. Ibrahim pays and leaves |
+
+While Sanga is collecting ransoms, Bahadur takes Malwa. Grain, money and elephants go to Gujarat. Daulat Khan, still against Ibrahim, invites **Babur**. Babur comes in **1526**, wins the first battle of **Panipat**, and does not leave. Sanga is involved at one remove: he had Ibrahim in his hands twice and let him go.
+
+**Babur, 1526–30.** He said the battle-narrative is not what Prelims wants. The map is. He still dictated these:
+
+- **1526, Panipat.** Cannons. About **four hours**. **2,337** men against more than **1,50,000**. Ibrahim is killed.  
+- **1527, Khanwa.** The battle he called more important. He names it a **jihad**, because his men, tired and afraid of Sanga, were calling the Rana a jinn. Sanga’s description, from a book he did not name: a sword-cut across the right cheek, through eye, nose and lip; more than **200** other sword marks; no right leg; the left hand dead below the elbow; blood from the eye at night. Sanga is **defeated, not killed**. Babur puts heads on spikes along the road — a human wall — so that people see a descendant of Chinggis. About **eight months** separate the two battles. A distance he called “235 coasts” is not a lock.  
+- **1528, Chanderi.** Gwalior fort is taken. The Lodis are pushed off Agra.  
+- **1529.** Punjab is taken. The last fight is on the Bihar–Bengal border. Books say **Ghaggar**. He said that river is in the west, and the place is **Gogara** (the Ghaghara). Indecisive, because the Lodis have shifted into Bihar. He acknowledges **Nusrat Shah** as Sultan of Bengal, and **Krishnadevaraya** in Vijayanagara. Those are the only two rulers in India he treats as sultans already standing.  
+- Dies at **Agra, 1530**. Autobiography **Tuzuk-i-Baburi**, in **Turkic**. The name-cue on A4 already says a *tuzuk* is Turkic.
+
+**No law of primogeniture.** Every son is equal in the property. **Humayun** had **Badakhshan**, and happened to be in Agra, so he was enthroned. **Kamran** had **Kabul**. **Hindal** had **Multan**. **Askari** was a minor. A fifth name, Alwar, is on the page as someone who died before Babur. The audio did not place him. Do not build a territory for Alwar.
+
+### 24. Humayun, then the rupiya (HIS-MED-24-07)
+
+Humayun is a man of letters, not a soldier, so the map sprouts challengers. He takes the west first.
+
+| Year | What falls |
+|:---|:---|
+| **1531** | **Chunar**. The Lodis run into the interior of Bihar |
+| **1533** | **Chittor**. **Rani Karnavati**, Sanga’s widow, is attacked by other Rajput houses (he named Guhilots and Kachhwahas), not first by a Muslim army. She sends Humayun a letter and a **rakhi**. He promises help and arrives late. She commits **jauhar** because of those Rajputs. He was angry at a historian who wrote that she died for fear of Humayun. Chittor falls to him. People who give the fort to Akbar, he said, are wrong about this taking |
+| **1535–36** | **Ahmedabad**. Bahadur runs, and the Portuguese kill him in **1538** |
+
+Humayun is the first Mughal emperor to take Chittor, and the first to reach the western coast. From 1530 to 1538 he is busy in that half of the map, so Bihar has eight years. **Sher Shah** grows at **Sasaram**, takes **Bengal in 1538**, and does not march straight on Delhi.
+
+**1539, Chausa.** Sher Shah takes Chunar back. **1540, Bilgram**, also called **Kannauj**. Humayun is defeated. The **Sur** house begins. The page dates the Sur empire **1540–54** and Sher Shah **1540–45**. He taught Sher Shah’s reforms, not the later Surs.
+
+Humayun runs northwest. At **Multan** he marries **Hamida Banu Begum**. Hindal will not host an emperor, so they leave. At **Umarkot**, a Rajput fort, **Akbar is born in 1542**. Humayun drops the child at **Kandahar** under a guardian he called Mahamanga, and with Hamida crosses to **Herat** and **Qazvin**, the two capitals of the Shia **Safavid** king **Shah Tahmasp**.
+
+**Sher Shah’s two locks.**
+
+1. **Tri-metallic currency.** One coin must exchange for the same basket of other coins in Bihar and in Gujarat. That needs the same intrinsic metal, and a fixed rate between metals. The silver coin is the **rupiya**. The Early Modern note already uses that as the cue “who gave you the rupiya?”  
+2. The revenue that follows is in **cash**, called **zabti**. The unit standardised across the kingdom is the **bigha**. Cash crops spread, because sugarcane pays more than grain. A **peasant** grows to eat. A **farmer** grows for profit. That is the change he called anthropological. Middlemen then shut the mandi and offer a loss. Sher Shah’s answer is a farman fixing a **minimum support price**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" role="img" aria-label="Sher Shah's silver rupiya leads to cash revenue, the bigha, and a minimum support price" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="132" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Sher Shah · 1540–45</text>
+  <rect x="16" y="40" width="170" height="76" rx="10" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="101" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Rupiya</text>
+  <text x="101" y="94" text-anchor="middle" font-size="12" fill="#475569">One silver standard</text>
+  <rect x="202" y="40" width="170" height="76" rx="10" fill="#d1fae5" stroke="#059669"/>
+  <text x="287" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">Zabti</text>
+  <text x="287" y="94" text-anchor="middle" font-size="12" fill="#064e3b">Cash, by the bigha</text>
+  <rect x="388" y="40" width="170" height="76" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="473" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Farmer</text>
+  <text x="473" y="94" text-anchor="middle" font-size="12" fill="#7c2d12">Grows for profit</text>
+  <rect x="574" y="40" width="170" height="76" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="659" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">MSP</text>
+  <text x="659" y="94" text-anchor="middle" font-size="12" fill="#1e40af">A farman, against the mandi</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Chausa is 1539. Kannauj, also called Bilgram, is 1540.</em></p>
+
+### Lecture A5 — locks
+
+1. Four mandis, then **Siri**, which is the lashkargah Amir Khusrau named.  
+2. Tughlaq cue is **cohesion**. Ghiyasuddin’s gold calls him **Sarvabhauma**. First imambara: **Paharganj**.  
+3. Five failures. Bengal breaks in **1333** (the page says 1335). Bronze for silver, minting left to traders, **Gresham**.  
+4. Firoz, dated here **1352–88**, is the appeaser: hereditary iqta, jaziya, **Hansi-i-Firuza**, Meerut and Topra pillars, the Qutb canopy. **Timur 1398**. Delhi is empty until the Sayyids.  
+5. **Mahmudi** is Begada’s gold. **Chaul, 1508**. Hoshang’s tomb is the first white marble. Sharqi fiat money works. **Kulah-daran** are the Sayyids.  
+6. Bahlul’s government is a **jirga**. Sikandar builds a throne, moves to **Agra**, and measures with the **gaj**. Sanga lets Ibrahim go at Khatoli and Dholpur.  
+7. Panipat **1526**, Khanwa **1527** as a jihad, Chanderi **1528**, Gogara **1529**. No primogeniture. Akbar is born at **Umarkot in 1542**. The **rupiya**, **zabti**, the **bigha**, and a minimum support price are Sher Shah’s.
+
+---
+
+<!-- 2026-09-25: Lecture A5 — Alauddin's four mandis and Siri; Tughlaq cohesion and five failures; Firoz as appeaser; Timur 1398; Gujarat, Malwa, Khandesh, Jaunpur, Ilyas; Sayyids and Lodis; Babur to Sher Shah. Cluster HIS-MED-24. First-pass 1 Oct Q1. -->
 <!-- 2026-08-27: Added Lecture A4 (Delhi Sultanate) — Qutbuddin Aibak, Iltutmish's 10 points & Abbasid investiture, name/book cue system, Ilbari succession chain with source split (Minhaj vs Barani), Razia (gold dinar, Nur Turk revolt, Habshi/Siddi slaves, Altunia, Kaithal), Balban (policy of blood & iron, divine theory of kingship), Four Pillars of the Sultanate, changes brought by Islamic rule (economic/social/S&T/political), water management South vs North with the three stages of the irrigational well, the Diwans, Sultanate on land (Khalsa/Iqta/Madad, Alauddin's core area + Siqq/Hazari/Sadi, evolution table), provincial & local administration with Balban's audit-spy layer, Masahat (three land revenue methods), Khaljis & Alauddin Khalji. 3 inline SVGs (succession chain, land-system circles, admin ladder). Source: handwritten notes (8 pages) + audio transcript dated 27 Aug 2026. -->
 <!-- 2026-08-23: Created from Lecture A3 notes. Covers Arab Invasion 712 CE Md bin Qasim/Chachnama, Ghaznavids with 5 court scholars including Al-Biruni kidnapping story, Ghorids two brothers, Muhammad Ghori 3 phases of invasion, Prithviraj III feudatory evidence via gold coin, Battle of Tarain 1191-92, Battle of Chandawar 1194, Slave Dynasty chain: Aibak/Iltutmish/Qubacha/Yildiz, Bakhtiyar Khalji Nalanda destruction & defeat by Prithu. -->
