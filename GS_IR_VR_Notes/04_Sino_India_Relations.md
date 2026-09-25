@@ -744,6 +744,11 @@ No permanent friends. In this phase Russia has moved closer to **China**. Until 
 | **GW** | Gigawatt |
 | **IMF** | International Monetary Fund |
 
+### Update — 23 September 2026 (Sandhu Sir — no extra Day-1)
+
+The six phases are `05_Evolution_of_Indian_Foreign_Policy.md` (**IR-06**). Two labels from that sitting sit beside this file and do not replace it. **Congagement** stays Varma’s word. Sandhu’s India–China line is **three Cs: conflict, cooperation, competition**. His **strategic hedging** is the wide one: do not rely on a single partner. The hedging sentence in the Brahmaputra section stays the China-normalisation use.
+
 <!-- 2026-09-22: Varma Sir Sino–India Part 2 (class 18/9) from transcript + 6 sheets. BRI, pearls/MAHASAGAR, SCS, deficit ~$112 bn, Medog 60 GW, congagement, Russia intro. Cluster IR-05. First-pass 23 Sep Q2 beside HIS-VED. Defence-as-core of Russia parked. -->
+<!-- 2026-09-25: Sandhu 23 Sep 3Cs and the wider hedge pointed here. No extra Day-1 on IR-05. -->
 <!-- 2026-09-15: Varma Sir Sino–India Part 1 from transcript + 6 sheets. Cluster IR-04. Part 2 taught 18 Sep as IR-05. -->
 <!-- 2026-09-17: Hindu — India rejects Pak–China Boundary Joint Commission (first meeting Islamabad). Never recognised 1963 China–Pakistan Boundary Agreement. J&K + Ladakh UTs inalienable. Patch IR-04-07; no extra Day-1. -->

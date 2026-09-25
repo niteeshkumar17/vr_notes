@@ -7,7 +7,7 @@
 > **Teacher:** **Iqbal Singh Sandhu** (GS International Relations)  
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **9/9/26**, circled **2–6**; page 1 is the WW2 / NATO–Warsaw opener)  
 > **Already elsewhere:** **Mutually Assured Destruction (MAD)** as a UN-assessment critic is in IR-02. **Naxalbari / Naxalism** (1967, “too early” to call Naxal-free) is in Internal Security L1. This file is the **world-order** chain.  
-> **Parked — next class:** evolution of **Indian foreign policy** (Nehru non-alignment → Modi multi-alignment) + India as soft power. Bring **IR handout number 2**.  
+> **Taught 23 September 2026:** evolution of Indian foreign policy, handout 2 — `05_Evolution_of_Indian_Foreign_Policy.md` (**IR-06**). No extra Day-1 on IR-03. **Still parked:** India as soft power.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 **World order** = nature of international politics in a **period**. It is **not static**. No permanent friends or enemies (class: US–Japan after Hiroshima; India–US; India–Israel only after the 1990s). **History of IR century-by-century is not GS** — optional (Political Science and International Relations) does that. GS needs **after the Second World War**.
@@ -22,7 +22,7 @@ After WW2, two **superpowers**: **United States of America (USA)** and **Union o
 
 ### Military
 
-**Arms race** (nuclear tests: India **twice** — **1974** and **1998**; the two superpowers did **hundreds**). Two alliances:
+**Arms race** (nuclear tests: India **twice** — **1974** and **1998**; the two superpowers did **hundreds**). Sandhu on **23 Sep** (**IR-06**): 1974 was officially a peaceful explosion; the weapon test is 1998. No extra Day-1. Two alliances:
 
 | | **North Atlantic Treaty Organization (NATO)** | **Warsaw Pact** |
 |:---|:---|:---|
