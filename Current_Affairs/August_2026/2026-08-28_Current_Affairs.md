@@ -198,3 +198,4 @@ Parliament’s job is not only to *mirror* population. It is to **deliberate**.
 ---
 
 <!-- 2026-08-28: Current Affairs from The Hindu — Bodoland/Sixth Schedule (three accords, BTC/BTR, Fifth vs Sixth, GTA contrast); S.Y. Quraishi editorial on keeping Lok Sabha at 543. -->
+<!-- 2026-09-25: 24 Sep Social Issues class (SOC-05) taught a Sixth Schedule council as 30 (26 elected + 4 nominated) and Bodoland as 46 because it covers four districts. The 2020 jump to 60 seats stays on this note. No extra Day-1. -->
