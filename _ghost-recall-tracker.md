@@ -22,12 +22,12 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 ---
 
 ## 📊 Performance & Learning Analytics Dashboard
-*   **Today's Date:** 2026-09-23
-*   **Active Micro-Topics:** 717
+*   **Today's Date:** 2026-09-25
+*   **Active Micro-Topics:** 725
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **MOD-B8** (22 Sep Modern India Lecture 8 — Poona Pact, Champaran, Ahmedabad, Kheda) first-pass **24 Sep Q2**. **ST-09** stays **24 Sep Q1**. Do **not** steal **23 Sep Q1 HIS-VED** or **Q2 IR-05**. **CA-260922** stays the **24 Sep leftover**. Joint-electorate trap stays **SOC-03**.
+*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. Class arrived **25 Sep** after the morning hour. Do **not** backfill it onto **24 Sep** (ST-09 / MOD-B8) or steal a 25 Sep pair. **Q2 on 26 Sep** stays open. Money-market instruments are the next class.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -858,6 +858,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-09-09 | 2017–18: plan/non-plan out (Rangarajan + Bimal Jalan) → CSS shared vs CS 100% Centre; non-scheme = wages/subsidy/pension/grants/devolution/defence/interest | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NITI 2015 labels lasted till 2017–18` $\leftrightarrow$ `CSS 60:40 / 75:25 / 51:49 / NE 90:10` |
 | ECO-09-10 | Line-item = last year’s allocation; ZBB base = zero on merit; Britain/Sweden/India; performance + gender 2016 parked | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ZBB ≠ ignore needs` $\leftrightarrow$ `Weed non-essential` $\leftrightarrow$ `FC 14th/16th next class` |
 
+### Economy (Money & Banking L1 — 19 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-10-01 | Money = currency + demand deposits; public = households + firms, not banks or government | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `UPI counts` $\leftrightarrow$ `Loan/subsidy up` $\leftrightarrow$ `EMI/tax down` $\leftrightarrow$ `Immediate withdraw = no change` $\leftrightarrow$ `Fiscal public = government` |
+| ECO-10-02 | Transaction + precautionary depend on income; speculative inverse to bond rate | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Expected vs unexpected` $\leftrightarrow$ `Bond rate > deposit rate` $\leftrightarrow$ `Bond rate like price of money` $\leftrightarrow$ `7% to 8% example` |
+| ECO-10-03 | Bond = loan; share = ownership; rate fixed after successful issue; opportunity cost | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `D&S of money sets the rate` $\leftrightarrow$ `D&S of bonds sets the price` $\leftrightarrow$ `CBA ≠ opportunity cost` $\leftrightarrow$ `Unnamed interest rate = bond rate` |
+| ECO-10-04 | Debentures riskier, higher rate often; bankruptcy: bonds then debentures then shares | 2 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Same company both` $\leftrightarrow$ `G-bond no collateral` $\leftrightarrow$ `Preference shares not taught` |
+| ECO-10-05 | Maturity ₹1000 + 10% × 1 year = ₹1100; new price = face; old price between face and maturity | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Example unrealistic` $\leftrightarrow$ `Loans not tradable` $\leftrightarrow$ `Nearer face value` $\leftrightarrow$ `Below face is rare` |
+| ECO-10-06 | Domestic new-bond rate down → old price up; foreign rate up → Indian old price down | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `FPI from developed countries` $\leftrightarrow$ `Relative not all-or-nothing` $\leftrightarrow$ `FD 4% vs 5% is an illustration` |
+| ECO-10-07 | Yield = interest amount / price × 100; inverse to price; higher yield = costlier future borrowing | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `₹1000 beats ₹1010` $\leftrightarrow$ `Bad for government` $\leftrightarrow$ `Good for the investor` |
+| ECO-10-08 | Gilt = G-Sec; T-bills 91/182/364 Centre only; dated Centre+States; Retail Direct 2021; G-bond = capital market but RBI | 3 | ★★★★★ | Day 1 | 2026-09-26 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Primary dealers = banks` $\leftrightarrow$ `Lower yield wins` $\leftrightarrow$ `No India default since 1991` $\leftrightarrow$ `SEBI: shares + corporate bonds` $\leftrightarrow$ `Money-market instruments = next class` |
+
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -1016,6 +1028,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
   1. **23 Sep Q1:** **HIS-VED** (18 Sep Vedic L1). **Q2:** **IR-05** (18 Sep Sino–India Part 2). Do **not** steal Q1–Q2 for CA.
   2. **23 Sep leftover:** **CA-260921** first-pass (Tulu / court deposits). **CA-260920** was the **21 Sep** leftover — do not restack it onto Q1.
   2a. **24 Sep Q1:** **ST-09** (22 Sep space Lecture 11). **Q2:** **MOD-B8** (22 Sep Modern India Lecture 8). **Leftover:** **CA-260922**. Do **not** steal Q1 for CA.
+  2b. **26 Sep Q1:** **ECO-10** (19 Sep Money & Banking L1). **Q2** stays open. Do **not** put this cluster on 24 Sep or on a 25 Sep pair.
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 

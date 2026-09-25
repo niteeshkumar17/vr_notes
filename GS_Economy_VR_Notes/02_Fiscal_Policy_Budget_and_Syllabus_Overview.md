@@ -44,6 +44,8 @@
 | **Governed By** | **RBI** | **Government** (Central + State) |
 | **Announced** | Bi-monthly (MPC meetings) | **1st February** every year (Union Budget) |
 
+Money & Banking as taught **19 September 2026** (currency, demand deposits, bond price and yield, G-Secs) is `05_Money_and_Banking.md`. Cluster **ECO-10**. This table stays the syllabus map.
+
 ### Budget — Historical Context
 - **Pre-2000:** Budget presented at **5:00 PM** — convenient for Britishers to print and return same day; no legal basis for this timing
 - **Year 2000 (Atal Bihari Vajpayee Govt):** Changed to **11:00 AM** — convenient for Indians
