@@ -20,7 +20,7 @@
 | 2 | **Inclusive Growth (Development)** | 4 classes | Physical Dev (Infrastructure, Civic Amenities, Financial Inclusion), Human Dev (Health, Education), UNDP 5 HDRs |
 | 3 | **Sustainable Development** | 1 class | Zero Growth, Uneconomic Growth, Rebound Effect, Carbon Tax, Green Accounting, GCF, Carbon Credit |
 | 4 | **Employment & Unemployment** | 2 classes | Types of unemployment (7 types), Measurement (UPS/CWS/CDS), PLFS, Jobless Growth, New Labour Issues |
-| 5 | **External Sector** | 3 classes | (To be covered later) |
+| 5 | **External Sector** | 3 classes | Started **20 September 2026**, Shobhit Uniyal Sir: foreign exchange rate (`06_Foreign_Exchange_Rate.md`) |
 
 ### Recommended Sources
 1. **Class Notes** — Most important (discussion-based retention)
@@ -45,6 +45,8 @@
 | **Announced** | Bi-monthly (MPC meetings) | **1st February** every year (Union Budget) |
 
 Money & Banking as taught **19 September 2026** (currency, demand deposits, bond price and yield, G-Secs) is `05_Money_and_Banking.md`. Cluster **ECO-10**. This table stays the syllabus map.
+
+**Shobhit Uniyal Sir, 20 September 2026** (`06_Foreign_Exchange_Rate.md`, **ECO-11**): expansionary fiscal policy, in that class, means **higher government spending** (revenue and capital) and **lower tax rates**, so that people have money to spend. What that does to the **rupee** was left for the next sitting.
 
 ### Budget — Historical Context
 - **Pre-2000:** Budget presented at **5:00 PM** — convenient for Britishers to print and return same day; no legal basis for this timing

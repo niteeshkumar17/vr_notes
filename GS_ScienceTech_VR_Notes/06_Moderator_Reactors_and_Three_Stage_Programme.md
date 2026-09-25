@@ -8,7 +8,7 @@
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **12/9/26**, circled **1–6**; starts at **(4) Moderator**)  
 > **Paper:** Prelims S&T; GS-III energy / nuclear.  
 > **Already in notes (not restated as a new lecture):** fissile vs fertile; U-235 **0.7%** / U-238 **99.3%**; Pu-239 artificial; peaceful enrichment **3–5%** vs weapons **>90%**; core / coolant / control rods **boron + cadmium** (`ST-06`). **New facts only** sit here.  
-> **Parked (cleared 14 Sep):** disadvantages / PFBR detail / ITER — Lecture 2 below. **Still parked:** nanotechnology (class: last); Shobhit Sir next sitting = **economy / foreign exchange**, not nano.  
+> **Parked (cleared 14 Sep):** disadvantages / PFBR detail / ITER — Lecture 2 below. **Still parked:** nanotechnology (class: last). The **20 September 2026** sitting was the foreign-exchange class (`06_Foreign_Exchange_Rate.md`, **ECO-11**), not nano. He named the small modular reactor and postponed it.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 Today finishes the reactor: **moderator**, **containment**, the types **India uses or intends to use**, **Homi J. Bhabha’s three-stage programme**, and **advantages** of nuclear power.
@@ -210,7 +210,7 @@ flowchart TD
 > **Source:** Vajiram & Ravi class + audio transcript + 5 handwritten sheets (dated **14/9/26**, circled **1–5**)  
 > **Paper:** Prelims S&T; GS-III energy / nuclear. Class flagged **CSE 2026 Mains** on **PFBR**.  
 > **Already in notes (do not restudy as a new lecture):** fission vs fusion; efficiency **< 1** vs ITER goal **10** (**50 MW → 500 MW**); EAST / K-STAR; **33 nations / France** (`ST-06`). Moderator / PHWR–BWR–PWR / three-stage / advantages (`ST-07`). **New facts only** sit here.  
-> **Parked:** **nanotechnology** (class: last chapter). Next Shobhit sitting = **economy — foreign exchange**, not nano.  
+> **Parked:** **nanotechnology** (class: last chapter). The foreign-exchange sitting was **20 September 2026** (`GS_Economy_VR_Notes/06_Foreign_Exchange_Rate.md`, **ECO-11**). Small modular reactor was named and postponed.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 **Precision lock (Mains):** **challenge** ≠ **concern**. Same facts dumped into both answers is not rewarded. **Challenge** = barrier to *adopting* nuclear (why India / Sudan still small). **Concern / risk** = why **Japan** and **Germany** *shut* programmes they already ran. Swap the two and the answer is not *wrong*, but it is **not appropriate**.

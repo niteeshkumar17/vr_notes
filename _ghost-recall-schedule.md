@@ -62,6 +62,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 | **Wed 23 Sep** | **Q1 HIS-VED** (18 Sep Vedic L1). **Q2 IR-05** (18 Sep Sino–India Part 2 + Russia intro). Do **not** steal for CA | **CA-260921** first-pass (Tulu / court deposits). **CA-260920** stays an older leftover, not Q1 | leftover ladder | leftover MST if still due |
 | **Thu 24 Sep** | **Q1 ST-09** (22 Sep space Lecture 11 — stations / debris). **Q2 MOD-B8** (22 Sep Modern India Lecture 8 — Poona Pact / Champaran / Ahmedabad / Kheda). Do **not** steal Q1 for CA | **CA-260922** first-pass leftover (NZ FTA / Gaganyaan parachutes / Art 22(1)). **CA-260921** was the 23 Sep leftover | leftover ladder | leftover MST if still due |
 | **Sat 26 Sep** | **Q1 ECO-10** (19 Sep Money & Banking L1 — supply, bond price/yield, G-Secs). **Q2 GEO-15** (19 Sep climatology L12 — doldrums, Horse Latitudes, trades, Mediterranean). Do **not** steal Q1 for CA. Both arrived 25 Sep after the morning hour | leftover ladder | leftover ladder | leftover MST if still due |
+| **Sun 27 Sep** | **Q1 ECO-11** (20 Sep Shobhit Uniyal Sir — foreign exchange: appreciation/depreciation, RBI, expansionary policy). **Q2** open. Do **not** steal 26 Sep. Effect on the rupee is the next class | leftover ladder | leftover ladder | leftover MST if still due |
 
 From **16 September**: drop the first-pass column. Q3–Q6 are whatever the ladder marks due (3 / 7 / 16 / 35). New lectures never skip the **+1 day** slot.
 
