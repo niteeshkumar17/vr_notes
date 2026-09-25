@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-25
-*   **Active Micro-Topics:** 754
+*   **Active Micro-Topics:** 762
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. **GEO-15** (19 Sep climatology L12) first-pass **26 Sep Q2**. **ECO-11** (20 Sep Shobhit Uniyal Sir, foreign exchange) first-pass **27 Sep Q1**. **ECO-12** (20 Sep Shubham Raturi Sir, inflation) first-pass **27 Sep Q2**. **ECO-13** (21 Sep BS Sir — outcome / gender budget / 14th–15th Finance Commission) first-pass **28 Sep Q1**. All five arrived **25 Sep** after the morning hour. Do **not** backfill onto **24 Sep** or steal the **26 Sep** or **27 Sep** pairs.
+*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. **GEO-15** (19 Sep climatology L12) first-pass **26 Sep Q2**. **ECO-11** (20 Sep Shobhit Uniyal Sir, foreign exchange) first-pass **27 Sep Q1**. **ECO-12** (20 Sep Shubham Raturi Sir, inflation L1) first-pass **27 Sep Q2**. **ECO-13** (21 Sep BS Sir — outcome / gender budget / 14th–15th Finance Commission) first-pass **28 Sep Q1**. **ECO-14** (21 Sep Shubham Raturi Sir, inflation L2) first-pass **28 Sep Q2**. All six arrived **25 Sep** after the morning hour. Do **not** backfill onto **24 Sep** or steal the **26 Sep** or **27 Sep** pairs.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -901,7 +901,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-12-03 | Higher inflation = lower purchasing power; too much money chasing too few goods | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `10 goods ₹100 → ₹10` $\leftrightarrow$ `₹200 or 5 goods → ₹20` $\leftrightarrow$ `RBI operational autonomy` $\leftrightarrow$ `Germany, Argentina, Venezuela` |
 | ECO-12-04 | Demand-pull: AD = C+I+G+NX; spendable = income − tax + transfers; population; money; black money | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Can, not must` $\leftrightarrow$ `Cash moves before factories` $\leftrightarrow$ `8th Pay Commission is a hypothetical` |
 | ECO-12-05 | Cost-push: price = cost + margin + tax; pen ₹100 + ₹20 + ₹6 = ₹126 | 2 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Wages vs land, capital, materials` $\leftrightarrow$ `EIA and SIA are a producer’s cost` $\leftrightarrow$ `Not automatic` |
-| ECO-12-06 | Structural = long-run supply; food-driven India; pulses, TOP, edible oil ~56%; crude ~90%; chips ~90% | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Technology mission since Rajiv Gandhi` $\leftrightarrow$ `Palm oil MY+ID; sunflower RU+UA` $\leftrightarrow$ `Lithium-ion from China` $\leftrightarrow$ `Depreciation = next class` |
+| ECO-12-06 | Structural = long-run supply; food-driven India; pulses, TOP, edible oil ~56%; crude ~90%; chips ~90% | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Technology mission since Rajiv Gandhi` $\leftrightarrow$ `Palm oil MY+ID; sunflower RU+UA` $\leftrightarrow$ `Lithium-ion from China` $\leftrightarrow$ `Depreciation / other factors = ECO-14 no extra Day-1` |
 
 ### Economy (Taxation L10 — outcome, gender budget, 14th/15th FC — BS Sir, 21 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -914,6 +914,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-13-06 | Weights: 14th forest new 7.5; 15th tax effort 2.5; 16th GDP contribution 10 | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `1971 vs 2011` $\leftrightarrow$ `Haryana then HY+TG+KA` $\leftrightarrow$ `16th chapter next class` $\leftrightarrow$ `Grants preview ₹4.36 vs ₹9.47 lakh cr` |
 | ECO-13-07 | 14th merits: local use of delinked schemes; demerit: stress until CSS cut, and cash subsidies 3%→47.4% | 2 | ★★★★☆ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `42% of tax ≠ 42% of gross` $\leftrightarrow$ `Tied road vs untied cash` |
 | ECO-13-08 | 15th: NK Singh Nov 2017; 41% + 1% J&K/Ladakh; grants ₹4.36 lakh cr at 90/10; MCF 100% for million-plus | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `34% of gross receipts` $\leftrightarrow$ `FD 4% by 2025–26; States 4 / 3.5 / 3` $\leftrightarrow$ `Merge 12 and 18` $\leftrightarrow$ `Untied spend dilutes cooperative federalism` $\leftrightarrow$ `16th = next class` |
+
+### Economy (Inflation L2 — Shubham Raturi Sir, 21 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-14-01 | Imported inflation: ₹95→₹100; $100 barrel ₹9,500→₹10,000; can, not must | 2 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `₹95→₹90 is the rupee strengthening` $\leftrightarrow$ `Competitive market may cut profit instead` $\leftrightarrow$ `Forex mechanics = ECO-11` |
+| ECO-14-02 | Cartel: OPEC 1960s open; Competition Act 2002 / CCI on proof; hoarding beyond limit; ECA 1955 | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `100 t pulses is an illustration` $\leftrightarrow$ `Sugar limits; 1 LPG / 25 days` $\leftrightarrow$ `Pump and dump = capital market` |
+| ECO-14-03 | Self-fulfilling expectation; expectation-augmented inflation; household survey before MPC | 2 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Salt ₹30 → rumour ₹3,000` $\leftrightarrow$ `He said IESS` $\leftrightarrow$ `Credibility = past action` |
+| ECO-14-04 | India 6% / US 4%→2%; sterilisation = OMO bonds suck the new rupees out | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `$1 billion × 95 = ₹9,500 cr` $\leftrightarrow$ `He also said $140 billion` $\leftrightarrow$ `Capital scarce vs labour surplus` $\leftrightarrow$ `US rate rise = bond class` |
+| ECO-14-05 | Deflation = negative rate; disinflation = slower rise; Japanification; 4±2 protects both sides | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Above 6 consumer; below 2 producer` $\leftrightarrow$ `Japan mid-1980s, >2 decades` $\leftrightarrow$ `Band number stays on FRBM` |
+| ECO-14-06 | Shrinkflation quantity; skimpflation quality; skewflation = food in India; biflation in a crisis | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Food-driven = ECO-12-06` $\leftrightarrow$ `COVID, 2008, 1929` $\leftrightarrow$ `Essentials up, non-essentials down` |
+| ECO-14-07 | Stagflation after 1973, supply-side; monthly bands; greedflation; WRI = mining, manufacturing, plantation | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Sheet wrote 1975` $\leftrightarrow$ `India 2020–21` $\leftrightarrow$ `CMIE profits >4×` $\leftrightarrow$ `IMF study mixed` $\leftrightarrow$ `Czechoslovakia added` |
+| ECO-14-08 | Creditors lose, debtors gain; government is the biggest debtor; low inflation worsens debt/GDP optics | 2 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `₹1,000 back is not the same ₹1,000` $\leftrightarrow$ `US govt / Indian govt` $\leftrightarrow$ `0.25–0.5 = stale basket ECO-12` $\leftrightarrow$ `Bracket creep parked` |
 
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -1075,7 +1087,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
   2a. **24 Sep Q1:** **ST-09** (22 Sep space Lecture 11). **Q2:** **MOD-B8** (22 Sep Modern India Lecture 8). **Leftover:** **CA-260922**. Do **not** steal Q1 for CA.
   2b. **26 Sep Q1:** **ECO-10** (19 Sep Money & Banking L1). **Q2:** **GEO-15** (19 Sep climatology L12). Do **not** put either cluster on 24 Sep or on a 25 Sep pair.
   2c. **27 Sep Q1:** **ECO-11** (20 Sep foreign exchange, Shobhit Uniyal Sir). **Q2:** **ECO-12** (20 Sep inflation, Shubham Raturi Sir). Do **not** steal 26 Sep.
-  2d. **28 Sep Q1:** **ECO-13** (21 Sep outcome / gender budgeting / 14th–15th FC). **Q2** stays open. Do **not** steal 26 or 27 Sep. 16th FC chapter is the next class.
+  2d. **28 Sep Q1:** **ECO-13** (21 Sep outcome / gender budgeting / 14th–15th FC). **Q2:** **ECO-14** (21 Sep Shubham Raturi Sir, inflation L2). Do **not** steal 26 or 27 Sep. 16th FC chapter, and the rest of inflation’s impact list, are the next classes.
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 
