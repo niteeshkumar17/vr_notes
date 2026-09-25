@@ -1,7 +1,7 @@
 # 03 — Taxation
 
-> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)** + **15 September 2026 (Lecture 8)** + **17 September 2026 (Lecture 9)**  
-> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**; Lecture 8 added **2026-09-15**; Lecture 9 added **2026-09-17**  
+> **Dates of Lecture:** 24 August 2026 (Lecture 4) + **25 August 2026 (Lecture 5)** + **31 August 2026 (Lecture 6)** + **13 September 2026 (Lecture 7)** + **15 September 2026 (Lecture 8)** + **17 September 2026 (Lecture 9)** + **21 September 2026 (Lecture 10)**
+> **Date Added:** 2026-08-24; Lecture 5 added **2026-08-25**; Lecture 6 added **2026-08-31**; Lecture 7 added **2026-09-13**; Lecture 8 added **2026-09-15**; Lecture 9 added **2026-09-17**; Lecture 10 added **2026-09-25**
 > **Teacher:** **BS Sir**  
 > **Source:** Vajiram & Ravi — **BS Sir** | Economy classes | transcripts + handwritten notes (L4 class notes; L5 six pages; L6 seven pages dated 31/8/26; L7 six pages dated 13/9/26; **L8 six pages dated 15/9/26**; **L9 seven pages dated 17/9/26**)  
 > **Topics Covered:** Tax classification, PIT regimes, corporate tax, GMCT intro (L4); GMCT detail, MAT, STT, CGT, indexation, round tripping, DTAA, DDT SC verdict, withholding tax, DTC (L5); New Income Tax Act 2025, DDT, cess vs surcharge, TDS/TCS, GAAR, revenue deficit start (L6); windfall / surtax, land tax vs land-revenue tax, professional tax, Equalisation Levy / Digital Service Tax, BEPS toolkit, faceless assessment (L7); **Vivad Se Vishwas / Sabka Vishwas, Border Adjustment Tax vs anti-dumping / countervailing, SARFAESI / e-Bikray–BAANKIT, VAT timeline + inverted duty, GST dual / zero-rated / e-way / 22 Sep 2025 rates / National Anti-Profiteering Authority (L8)**; **GST composition scheme, GST Council, Reverse Charge Mechanism, GSTAT, zero / nil / exempt / non-GST, GST merits–demerits, angel tax, schemes vs non-schemes, line-item vs zero-based budgeting (L9)**
@@ -1697,7 +1697,7 @@ Government bet: lower rate → **more quantity** purchased → revenue held up b
 
 ### Lecture 9 — 17 September 2026
 
-> Notebook dated **17/9/26**. Ninth BS Sir tax class. Clears the L8 parked list. Today: **GST composition scheme**; **GST Council** (members, voting); taxes **subsumed** vs the **seven** still under VAT; **Reverse Charge Mechanism (RPM)**; **GST Appellate Tribunal (GSTAT)**; **zero / nil / exempt / non-GST**; GST **merits and demerits**; **angel tax**; public expenditure **schemes vs non-schemes**; **line-item** vs **zero-based** budgeting. **Parked next class:** performance / outcome budgeting; gender budgeting (named, Union **2016**); Finance Commission **14th / 16th**. Audio runs to class close.
+> Notebook dated **17/9/26**. Ninth BS Sir tax class. Clears the L8 parked list. Today: **GST composition scheme**; **GST Council** (members, voting); taxes **subsumed** vs the **seven** still under VAT; **Reverse Charge Mechanism (RPM)**; **GST Appellate Tribunal (GSTAT)**; **zero / nil / exempt / non-GST**; GST **merits and demerits**; **angel tax**; public expenditure **schemes vs non-schemes**; **line-item** vs **zero-based** budgeting. **Covered next (Lecture 10, 21 Sep):** performance / outcome budgeting; gender budgeting; Finance Commission **14th / 15th**. The **16th** chapter stayed parked.
 
 **Already in L8 / SS Sir L1 — do not restudy:** dual GST; destination-based; e-way; **zero-rated exports + ITC refund**; **22 Sep 2025** slabs; **compensation cess scrapped**; **NAA → CCI**; seven VAT items exist; **75%** Council vote (membership taught today). Cluster for *this* sitting is **ECO-09**.
 
@@ -1897,12 +1897,12 @@ UPSC heading is **government budgeting** (a slice of fiscal policy). Four names 
 |:---|:---|
 | **Line-item** | This year’s ministry/department budget is prepared **with consideration of last year’s allocation**. |
 | **Zero-based budgeting (ZBB)** | Prepared **as if there was no previous budget** — **base = zero**. Allocate each item **on merit**, not on last year’s figure. Helps **rationalise** spend and **weed out non-essential** expenditure. Class: **Britain, Sweden, India** and a few others. |
-| **Performance / outcome** | Named; **parked**. |
-| **Gender budgeting** | Named; Union **2016**; **parked**. |
+| **Performance / outcome** | **Lecture 10.** |
+| **Gender budgeting** | **Lecture 10.** The **2016** line was a Prelims question, not the year it began. |
 
 **Prelims trap:** ZBB is **not** “ignore the country’s needs.” It ignores **last year’s rupee as the starting point**.
 
-**Parked next class:** performance / outcome; gender budgeting in the current Budget; **14th / 16th Finance Commission** (class: 14th ended **31 March 2026**, pandemic extension; 16th starts after).
+**Covered 21 September 2026** as **Lecture 10** (cluster **ECO-13**): outcome vs performance, gender budgeting, **14th** and **15th** Finance Commission. The **16th** Commission’s own vertical and horizontal chapter is still the next class. The pandemic extension belongs to the **15th** (award through **31 March 2026**), not the 14th.
 
 ---
 
@@ -1966,10 +1966,287 @@ UPSC heading is **government budgeting** (a slice of fiscal policy). Four names 
 | **CSS / CS** | Centrally Sponsored Scheme / Central Sector Scheme |
 | **ZBB** | Zero-Based Budgeting |
 | **FM / MoS** | Finance Minister / Minister of State |
+| **SRS** | Sample Registration System |
+| **NFHS** | National Family Health Survey |
+| **IMR** | infant mortality rate |
+| **ICDS** | Integrated Child Development Services |
+| **NCW** | National Commission for Women |
+| **GBC** | gender budgeting cell |
+| **MCF** | Million-Plus Cities Challenge Fund |
+| **GSDP** | Gross State Domestic Product |
+| **JNNURM** | Jawaharlal Nehru National Urban Renewal Mission |
+| **MGNREGA** | Mahatma Gandhi National Rural Employment Guarantee Act |
+| **VB-G RAM G** | Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin) |
+| **NHAI** | National Highways Authority of India |
+| **CPSE** | central public sector enterprise |
+| **PMGSY** | Pradhan Mantri Gram Sadak Yojana |
+
+---
+
+### Lecture 10 — 21 September 2026
+
+> Notebook dated **21/9/26**. Tenth BS Sir class. Clears the Lecture 9 parked list. Today: **outcome** vs **performance** budgeting; **gender budgeting**; then the **Finance Commission** through the **14th** and the **15th** (vertical, horizontal weights, merits). **Parked next class:** the **16th** Finance Commission’s own vertical and horizontal chapter. The weight comparison for the 16th was written today so the next sitting can start from it. Audio runs to class close.
+
+**Already elsewhere — do not restudy as a new topic:** divisible pool and the **41%** line (`02_Fiscal_Policy_Budget_and_Syllabus_Overview.md`); **CSS / CS** shares (`ECO-09-09`); inverted duty (`ECO-08-05`); GST slabs of **22 September 2025** (`ECO-08-07`). Cluster for *this* sitting is **ECO-13**.
+
+---
+
+## 37. Outcome budgeting and performance budgeting (ECO-13-01)
+
+Two techniques, one question: the money was given, what came of it.
+
+**Outcome budgeting is micro.** Each ministry and each department, while writing its own annual budget, has to show the **qualitative** impact of the allocation as well as the **quantitative** one, so that each rupee can be justified by what it changed. His pictures: Education and a change in literacy; Health and a fall in death rates, the infant mortality rate and the maternal mortality rate, plus hospitals built; Rural Development and rural roads, plus jobs kept for women. **Every ministry prepares an outcome budget.**
+
+**Performance budgeting is macro.** The **Ministry of Finance** takes those ministry results together and presents the country’s performance as one figure. His marks analogy: 70, 80 and 65 in three subjects, then one total. That total is performance budgeting.
+
+In India the outcome-budgeting technique has been used **since 2005–06**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-label="Outcome budgeting versus performance budgeting" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="140" rx="12" fill="#f8fafc"/>
+  <rect x="16" y="36" width="350" height="88" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="191" y="64" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">Outcome — micro</text>
+  <text x="191" y="88" text-anchor="middle" font-size="12" fill="#1e40af">Each ministry’s own result</text>
+  <text x="191" y="106" text-anchor="middle" font-size="12" fill="#1e40af">Qualitative and quantitative</text>
+  <rect x="394" y="36" width="350" height="88" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="569" y="64" text-anchor="middle" font-size="14" font-weight="700" fill="#9a3412">Performance — macro</text>
+  <text x="569" y="88" text-anchor="middle" font-size="12" fill="#7c2d12">Ministry of Finance</text>
+  <text x="569" y="106" text-anchor="middle" font-size="12" fill="#7c2d12">All ministries averaged</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Outcome is the ministry’s own page. Performance is the Finance Ministry’s average of those pages. India has used outcome budgeting since 2005–06.</em></p>
+
+---
+
+## 38. Gender budgeting — what it is (ECO-13-02)
+
+**Australia** was the first country to introduce it, in **1984**. **India: 2005–06.** A Prelims question on it fell in **2016**. That year is not the Indian start. (The audio also said 2004 once, before the dictated line. The notebook locks **2005–06**.)
+
+Each ministry and department was told to keep a **gender budgeting cell**, and to keep the **gender sensitivity** of the budget in mind while writing it. Proposals have to be read for the effect they will have on improving the position of **women**. “Gender” in this chapter means **women**. He said it does not, at this stage, talk about transgender persons; the first job is parity with men.
+
+What the cell does: out of the ministry’s allocation, a stated sum is kept for women, and that sum supports a named programme. His examples:
+
+- **Beti Bachao Beti Padhao**
+- **Maternity leave with pay**
+- **One-third of the jobs** reserved for women under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), now under the Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G)
+
+**How the money is labelled**
+
+| Part | What sits in it |
+|:---|:---|
+| **A** | Schemes with **100%** allocation for women |
+| **B** | **Pro-women** schemes with **at least 30%** |
+| **C** | Schemes with **less than 30%** |
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 120" role="img" aria-label="Three parts of the gender budget" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="120" rx="12" fill="#f8fafc"/>
+  <rect x="16" y="28" width="230" height="72" rx="10" fill="#d1fae5" stroke="#059669"/>
+  <text x="131" y="58" text-anchor="middle" font-size="14" font-weight="700" fill="#065f46">Part A</text>
+  <text x="131" y="80" text-anchor="middle" font-size="12" fill="#064e3b">100% for women</text>
+  <rect x="264" y="28" width="230" height="72" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="379" y="58" text-anchor="middle" font-size="14" font-weight="700" fill="#1e3a8a">Part B</text>
+  <text x="379" y="80" text-anchor="middle" font-size="12" fill="#1e40af">Pro-women, at least 30%</text>
+  <rect x="512" y="28" width="230" height="72" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="627" y="58" text-anchor="middle" font-size="14" font-weight="700" fill="#9a3412">Part C</text>
+  <text x="627" y="80" text-anchor="middle" font-size="12" fill="#7c2d12">Less than 30%</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> The gender-budget statement sorts schemes by how much of the allocation is for women. Part B starts at 30%, not at 100%.</em></p>
+
+---
+
+## 39. Status of gender budgeting in India (ECO-13-03)
+
+**Not satisfactory, even after two decades.** He dictated the negatives, then the positives.
+
+**Negatives**
+
+- Only **49** ministries and departments have set up a gender budgeting cell. He said there are more than 150 ministries and departments. The notebook figure reads **57**. The number he repeated while dictating was **49**.
+- Over the last decade, allocation for women as a share of the total budget rose from **5.5%** (the page has **5.57**) to **8.86%**. For about twenty years the ceiling had been about **5.5%**. The movement is still small.
+- Only about **30%** of all demands for grants presented to the Union are reported in the **gender budgeting statement**.
+- About **85%** of the budget of the Ministry of Women and Child Development goes to **Integrated Child Development Services (ICDS)**. That leaves **15%** for other schemes meant for women.
+- The **Domestic Violence Act**, which aims at preventing crime against women, got **no** allocation in the **2013–14** budget, and a very small amount in the next one.
+- The **National Commission for Women** gets enough only for **revenue** expenditure (salary, rent, electricity, internet), not for capital such as a school or a training centre.
+
+**Positives**
+
+- For the last couple of years the **Ministry of Finance** has held **pre-budget consultations** so that women’s voices are heard while the budget is made. A ministry that shows a higher intention can be given a higher allocation.
+- The latest **National Family Health Survey (NFHS)** shows a better sex ratio, including in States such as Haryana where it had been under 900, and in one or two States females now outnumber males. (He gave a Haryana run of figures that contradicted itself in one breath. Do not lock 872 or 923.)
+- **Female infant mortality** fell from **32 per 1,000 live births** to **28**, and is now **equal to the male** rate. He called that closer to the World Health Organization line, which should not be **more than 25 per 1,000**. The report he named for this line is the **Sample Registration System (SRS), 2022**. Underline **Beti Bachao**, not Padhao: the result is about the girl child surviving, not about schooling.
+- Why the standard is 25 and not lower: it tracks **what the system can currently deliver**, not a perfect score. His illustration, from the margin of the page: nurses in India moved from **1.78 per 1,000** people to **1.98**; the same organisation’s line is **at least 4 per 1,000**.
+- In **2025** the Government of India set up a **Gender Budgeting Hub**, so people can see which ministry spent how much, on women, and for what.
+- The gender budget jumped to **₹4.49 lakh crore**, which he called the highest jump in the allocation. **Railways and ports** are now inside gender budgeting cells, so they too must keep a women’s share.
+
+---
+
+## 40. Finance Commission — the machine (ECO-13-04)
+
+The Centre does not keep every tax it collects. A commission recommends how to share it. The recommendation is **advisory**. The Centre may accept a lower figure than the one recommended.
+
+The words he dictated are **Article 280** (already on the polity note). The President shall, **within two years** of the commencement of the Constitution and thereafter at the end of **every fifth year**, or earlier if he considers it necessary, by order constitute a Finance Commission of a **Chairman and four other members**, appointed by the President.
+
+**Two recommendations**
+
+1. **Tax devolution** — transfer of the tax share from the Centre to the States.
+2. **Grants** to States and to local bodies.
+
+**Two imbalances**
+
+| | Measured | Why it exists |
+|:---|:---|:---|
+| **Vertical** | Between the **two levels**: Centre and States | The Centre’s tax base is the whole country. A State’s base is only its own area. |
+| **Horizontal** | **Among the States** | Natural resources differ, while revenue powers and expenditure responsibilities are broadly the same. |
+
+**Divisible pool.** Whatever the Centre collects in direct and indirect tax, and which is shareable, sits in one pool. It is **not** “Madhya Pradesh gets 41% of the tax collected inside Madhya Pradesh.” The pool is national. Then the indicators split that pool among States.
+
+Classroom rupee, not a Budget figure: collection **₹100 crore**, **41%** → **₹41 crore** for the States. On an 18% GST item the State already keeps its SGST, and it also receives a slice of the Centre’s CGST once the pool is shared, so on that one item the State’s take exceeds the Centre’s. The Centre’s **overall** collection is still larger, because the country is larger than any one State.
+
+**Which commission**
+
+| Commission | Period he locked | One line |
+|:---|:---|:---|
+| **14th** | **2015–20** | Share jumped **32% → 42%** |
+| **15th** | **2020–26** (six years; COVID) | **41%** to States. Constituted **November 2017**, chair **N. K. Singh** |
+| **16th** | **1 April 2026 – 31 March 2031** | Just started. **Own chapter next class.** Weights were only compared today |
+
+He once said the 15th would have ended in 2025 and the pandemic added a year. He also once said “13th” for the commission that closed on **31 March 2026**. That date is the **15th**. The **12th**, in his telling, had put the States’ share at **30.5%**; the step after that was only about **1.5 points**, which is why the pre-14th figure he used is **32%**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 168" role="img" aria-label="Vertical devolution from the 14th to the 15th Finance Commission" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="168" rx="12" fill="#f8fafc"/>
+  <text x="380" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">The share of the divisible pool</text>
+  <rect x="16" y="44" width="220" height="104" rx="10" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="126" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Before the 14th</text>
+  <text x="126" y="106" text-anchor="middle" font-size="22" font-weight="700" fill="#334155">32%</text>
+  <text x="126" y="128" text-anchor="middle" font-size="12" fill="#475569">to the States</text>
+  <rect x="256" y="44" width="230" height="104" rx="10" fill="#d1fae5" stroke="#059669"/>
+  <text x="371" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">14th · 2015–20</text>
+  <text x="371" y="106" text-anchor="middle" font-size="22" font-weight="700" fill="#065f46">42%</text>
+  <text x="371" y="128" text-anchor="middle" font-size="12" fill="#064e3b">all of it to States</text>
+  <rect x="506" y="44" width="238" height="104" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="625" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">15th and 16th</text>
+  <text x="625" y="100" text-anchor="middle" font-size="18" font-weight="700" fill="#1e3a8a">41% + 1%</text>
+  <text x="625" y="122" text-anchor="middle" font-size="12" fill="#1e40af">States, then J&amp;K and Ladakh</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> The 14th’s jump is 32 to 42, and that 42 is untied. From the 15th, one point of the 42 is kept for the Union Territories of Jammu &amp; Kashmir and Ladakh. Other Union Territories get no share: the Centre funds them.</em></p>
+
+---
+
+## 41. 14th Finance Commission — vertical (ECO-13-05)
+
+**States’ share in the net proceeds of Union taxes rose from 32% to 42%.** Largest jump in the percentage of devolution. **Arun Jaitley**, as Finance Minister, said the Centre had accepted it and that it would stress the Centre’s finances.
+
+**Tied and untied.** A **tied** grant may be spent only on the named programme. His road: ₹50,000 crore for the Pradhan Mantri Gram Sadak Yojana cannot be moved to hospitals, even if the State’s own roads are already built. The **42%** has **no** such instruction. It is **untied**. States asked the Centre to stop some tied schemes and hand the money over as this free share.
+
+Because the Centre would then have less left, the Commission identified **over 30** Centrally Sponsored Schemes to **delink** from central support. The Centre delinked **8**. He named, as schemes the Centre withdrew from, the **Jawaharlal Nehru National Urban Renewal Mission** and the **Backward Regions Grant Fund**. A State that still wants that programme can restart it, because it now has the extra untied money.
+
+For the schemes that remain, the Commission wanted States to carry the **higher** fiscal responsibility, since they had been given the larger share. His flip of the old pattern: 51:49 becomes **49:51**, and the same logic for the 60 and 75 patterns. The North-East, which has less of its own money, stays the exception (the **90:10** pattern is already on **ECO-09-09**). Central Sector schemes remain **100%** Centre.
+
+**Other 14th lines he dictated**
+
+- **GST compensation**, once GST came in **2017**. Suggestion: **five years** — **100%** of the loss in the first **three** years, **75%** in the fourth, **50%** in the fifth. The government made it **100% for all five years**, with an increment of **14%**, and formed a **GST compensation fund in 2017** for **2017–2022**. Advisory, so the government could, and did, go beyond the taper.
+- A **fiscal-consolidation** ceiling: fiscal deficit at **3%**. For States, borrowing room **over and above** the annual limit of **3% of Gross State Domestic Product**.
+- An **independent fiscal council**, to coordinate Centre and States on the fixation of taxes, and to coordinate **monetary and fiscal** policy. What actually arrived in **2017** for the GST piece is the **GST Council** (Lecture 9), which is not that wider council.
+- **Amend the Electricity Act, 2003**, so a penalty can be levied when a State **delays** payment of an electricity subsidy.
+- An **independent regulator** for **tariff setting and quality**. His picture of the gap: the National Highways Authority of India covers national highways and expressways, about **3%** of the road network; the remaining roads have no such regulator.
+- Rules to judge whether the government should keep **ownership**, and to **disinvest** in central public sector enterprises. His example: once Air India was sold to Tata, a yearly loss he put at about **₹7,200 crore** stopped, and that money could go to roads and hospitals. Governance, in his line, is not running the business.
+
+---
+
+## 42. Horizontal formula — 14th, 15th, and the 16th comparison (ECO-13-06)
+
+The pool is first set aside (42%, or 41% plus 1%). **Then** that money is split across indicators. A State does not get “its” tax back. It gets a slice of **each** indicator, equal to its share of that indicator in the country. A State with 15% of the population and 10% of the forest gets 15% of the population-pot **and** 10% of the forest-pot. One indicator does not cancel the other.
+
+**14th weights** (they add to 100). Population used the **1971** census, even though the **2011** census already existed. That was the States’ first complaint: more people need more money, so why the old count? **Demographic change (1971–2011)** was the answer they were given: a State whose growth rate fell (his illustration, 2% to 1%, a 50% cut) is credited for controlling population.
+
+**Income distance** was measured from **Haryana**, then the best on **per capita income** (national income ÷ population). Further from Haryana, more money. Haryana’s distance from itself is zero, so Haryana, and the other top States he named (**Goa, Maharashtra**), got almost nothing on this one criterion. The family picture: help the child who is behind, not the one who is already an officer. Performing States such as Tamil Nadu and Gujarat complain that they get little.
+
+**Area:** a large area with little economic activity still needs funds.
+
+**Forest cover** was included **for the first time** in the 14th. It was not in the 13th. He flagged the Prelims line: which indicator was new under the 14th? Forest. The North-East and other forest States had argued that they had little farming, industry or services, and nothing in the formula for the forest.
+
+**15th — the complaints, and the repair**
+
+| Indicator | 14th | 15th | 16th (comparison only) |
+|:---|:---:|:---:|:---:|
+| Population | **17.5%** (1971) | **15%** (2011) | **17.5%** restored; only the year changes |
+| Demographic change / performance | **10%** (1971–2011) | **12.5%** | **10%** |
+| Income distance | **50%** from **Haryana** | **45%** | **42.5%**, from the average of **Haryana, Telangana and Karnataka** |
+| Area | **15%** | **15%** | **10%** |
+| Forest | **7.5%** cover | **10%** forest **and ecology** | **10%** forest and ecology |
+| Tax and fiscal efforts | not used | **2.5%** | **removed** |
+| Contribution to GDP | not used | not used | **10%**, new |
+
+How the 15th moved the points, in his arithmetic: population lost **2.5** and demographic performance gained **2.5** (the control-population complaint). Income distance lost **5**. Of that 5, **2.5** went to forest (now **forest and ecology**) and **2.5** to a new **tax and fiscal efforts** line, so that Haryana, Maharashtra and Goa would be credited for collecting tax and cutting unwanted subsidies. Area stayed **15**.
+
+**16th, compared and not yet taught.** Population weight back to **17.5**, because States with more people said the 15th had cut the money they need to support that population. Demographic performance back to **10**. Income distance **42.5**, and the benchmark is no longer Haryana alone. Area **10**. Forest and ecology stays **10**. Tax effort **out**. **Contribution to GDP, 10%, in for the first time.** He already gave the criticism, to be used when the chapter is taught: rewarding a larger GDP gives more to the richer State and less to the poorer one, which is the opposite of a commission whose job is balance. **Next class:** the 16th’s vertical and horizontal write-up. He previewed local-body grants under the 16th at **₹9.47 lakh crore**, against the 15th’s **₹4.36 lakh crore**. Do not build the 16th chapter from that one number.
+
+---
+
+## 43. 14th — merits and demerits (ECO-13-07)
+
+**Merits**
+
+- With more fiscal space, States can add to growth in their own region, and that adds to the nation’s growth.
+- They can implement the **delinked** schemes according to **local** need, which should mean scarce money is used better. His restart examples were the urban mission above, and buses still marked with that mission’s name.
+
+**The 42% is 42% of tax, not of all receipts.** If non-tax revenue is as large as tax revenue, 42% of the tax is a smaller slice of gross receipts. He put the 15th’s total transfers (devolution **plus** grants) at about **34%** of the Union’s estimated gross revenue receipts, which still leaves the Centre room. That 34% line is also the first merit he dictated for the **15th** (section 44).
+
+**Demerits**
+
+- A jump this large stresses the Centre **until** the major Centrally Sponsored Schemes are actually delinked (only **8** were) **and** GST covers **all** items (the seven outside GST are already on Lecture 8).
+- Untied money can be wasted on **populist, non-productive** ends. His contrast: in **2019**, about **3%** of subsidies were cash and about **97%** were the older kind (hospitals, schools, food). Recently, cash is about **47.4%**. A tied road at least leaves a road. Cash, in his telling, is used to attract voters.
+
+---
+
+## 44. 15th Finance Commission — vertical, grants, merits (ECO-13-08)
+
+Constituted by the President in **November 2017**, chair **N. K. Singh**. The award covers **six years, 2020–26**, because of COVID. A finance commission is otherwise five years. Some recommendations were separated for the pandemic year; the sheet notes a distinct recommendation around **2021–22**.
+
+**Vertical.** Keep devolution at **41% for the States**. That is the 14th’s **42%** of the divisible pool, minus **1%**, because the State of Jammu and Kashmir became the Union Territories of **Jammu & Kashmir** and **Ladakh**. That **1%** goes to those two. **No other Union Territory** gets a share. The same 41 + 1 split holds for the **16th**. Under the 14th the whole 42% went to States, because Jammu and Kashmir was still a State.
+
+On GST, a Union Territory **without** a legislature is the other case already in Lecture 8: the whole of the GST on the item can sit with the Centre. Do not mix that with this 1% share.
+
+**Grants to local bodies: ₹4.36 lakh crore.** A portion is **performance-linked**. Grants reach all **three tiers** of the panchayat: **village, block, district**. Grants **other than health grants** are split among States by **population 90%** and **area 10%** only. Tax devolution uses the six-indicator formula. These grants do not.
+
+**Deficit path he dictated**
+
+- Centre: bring the fiscal deficit down to **4% of GDP by 2025–26**.
+- States, as a percentage of Gross State Domestic Product: **4% in 2021–22**, **3.5% in 2022–23**, **3% during 2023–26**. He tied the tighter cap to the cash-subsidy habit: if States may borrow past 3%, some of them distribute cash instead of building.
+
+**GST.** Revenue neutrality should be restored. Multiple rates, and cuts in those rates, had compromised it. Rationalise by **merging 12% and 18%**. (What the government later did — **5% and 18%**, plus the special rate — is Lecture 8, not a new slab.) **Abolish the inverted-duty** mechanism (Lecture 8). **Revenue-deficit grants** for hilly and North-Eastern areas, so a State whose revenue expenditure exceeds its revenue receipts can still meet necessary spending. He said the 16th also has a grant of this kind. Detail next class.
+
+**What he wrote as the merits**
+
+- Total 15th Finance Commission transfers (**tax devolution + grants**) are about **34%** of the Union’s estimated gross revenue receipts, leaving room for national priorities.
+- With grants for municipal services and local bodies: **performance-based** grants, grants for **incubation of new cities**, and **health grants** (his picture: workers who die after inhaling gas in a drain). These support human resources.
+- For **urban** local bodies, **basic** grants go only to cities and towns with population **under one million**. For **million-plus** cities, **100%** of the grant is performance-linked, through the **Million-Plus Cities Challenge Fund**: air quality, and the service benchmark for drinking water, sanitation and solid waste.
+
+**The caution he wrote on the same page**
+
+- A performance grant pushes a municipality toward whatever **shows up as revenue** (a hall, a renovation) and away from a local road or a drain, which has no revenue to measure. He called that an unjust firing of the idea.
+- If States spend only **untied** funds, **cooperative fiscal federalism** gets weaker. A State then **cannot hold the Union responsible** for the State’s own fiscal imprudence (cash, extra subsidy). That **dilutes the joint responsibility** of the Union and the States. Working together on a Centrally Sponsored Scheme, even across parties, was his picture of how other programmes then get implemented. His examples of the opposite: **Ayushman Bharat** not taken up by the West Bengal government, and earlier not by the Delhi government. The people lose the benefit.
+
+**Next class:** 16th Finance Commission, vertical and horizontal. Remind him. The weight table above is only the comparison.
+
+### Lecture 10 — locks
+
+1. **Outcome** = each ministry, qualitative and quantitative, **since 2005–06**. **Performance** = Ministry of Finance, the average.
+2. Gender budgeting: **Australia 1984**, **India 2005–06**. Part **A 100%**, Part **B at least 30%**, Part **C under 30%**. Cell count he dictated: **49**. Share of the budget: **5.5% → 8.86%**. ICDS takes **85%** of the women-and-child ministry. Female infant mortality **32 → 28 per 1,000**, equal to the male rate (**SRS 2022**). Gender budget **₹4.49 lakh crore**. Hub in **2025**.
+3. Finance Commission recommendations are **advisory**. Vertical = Centre vs States. Horizontal = among States. Pool is national, not a State’s own tax returned to it.
+4. **14th:** **32% → 42%**, untied. Delink **over 30** schemes suggested, **8** done. GST compensation suggestion **100 / 75 / 50**; government did **100% for five years** plus **14%**.
+5. **15th:** **41%** to States, **1%** to Jammu & Kashmir and Ladakh. **N. K. Singh**, November **2017**, award **2020–26**. Local-body grants **₹4.36 lakh crore**, split **90% population, 10% area**. Million-plus cities: **100%** performance-linked via the challenge fund.
+6. New indicator in the **14th**: **forest**. New in the **15th**: **tax and fiscal efforts (2.5%)**. New in the **16th**: **contribution to GDP (10%)**. The 16th chapter itself is next class.
 
 ---
 
 <!-- 2026-09-15: Appended Lecture 8 (15/9) from transcript + 6 notebook pages — Vivad DT / Sabka IDT, BAT vs ADD/CVD, SMA–NPA–ARC–SARFAESI, e-Bikray→BAANKIT 3 Jan 2025, VAT MANVAT/MODVAT/CENVAT/ITC/inverted duty, GST dual/zero-rated/e-way, 22 Sep 2025 rates, NAA→CCI. GST Council/GSTAT/RPM/composition parked. Cluster ECO-08. -->
 <!-- 2026-09-17: Ghost Recall. MST-095 repeat 2 — Sabka sheet IT = Indirect Tax; key 1+3+4. MST-096 held (5+18+40 + cess). BAT = ADD recovered. -->
 <!-- 2026-09-17: Appended Lecture 9 (17/9) from transcript + 7 notebook pages — composition 1/5/6, GST Council votes, subsumed taxes, RPM ≥₹5k, GSTAT s.109 Sep 2025 Delhi+31, zero/nil/exempt/non-GST, merits–demerits, angel tax scrap 1 Apr 2025, schemes vs non-schemes 2017–18, line-item vs ZBB. Cluster ECO-09. -->
+<!-- 2026-09-21 class, ingested 2026-09-25: Lecture 10 — outcome vs performance, gender budgeting, 14th and 15th Finance Commission. 16th chapter parked. Cluster ECO-13. -->
 

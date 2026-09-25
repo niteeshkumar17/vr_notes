@@ -367,7 +367,7 @@ Working windfall = **surtax / special additional excise duty** on **Indian** cru
 | **15th FC** | — | Current reference |
 | **16th FC** | **1 April 2026 – 31 March 2031** (5 years) | Just started; will be studied in detail |
 
-- **15th FC Devolution:** Centre transfers **41%** of divisible pool to states
+- **15th FC Devolution:** Centre transfers **41%** of divisible pool to states. Working **14th / 15th** (32% → 42%, the 1% Jammu & Kashmir and Ladakh adjustment, and the horizontal weights) is **Lecture 10** on `03_Taxation.md` (cluster **ECO-13**). Do not open a second Day-1 for the 41% line.
 - CGST collected ≠ all stays with Centre → part goes to States through devolution → On every item, States effectively get more than Centre
 
 > **Note:** On a ₹100 item with 18% GST: CGST = ₹9 (but part shared with states), SGST = ₹9 (fully with state). Net effect: States get MORE, Centre gets LESS per item.

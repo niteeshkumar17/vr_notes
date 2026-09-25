@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-25
-*   **Active Micro-Topics:** 746
+*   **Active Micro-Topics:** 754
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. **GEO-15** (19 Sep climatology L12) first-pass **26 Sep Q2**. **ECO-11** (20 Sep Shobhit Uniyal Sir, foreign exchange) first-pass **27 Sep Q1**. **ECO-12** (20 Sep Shubham Raturi Sir, inflation) first-pass **27 Sep Q2**. All four arrived **25 Sep** after the morning hour. Do **not** backfill onto **24 Sep** or steal the **26 Sep** pair.
+*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. **GEO-15** (19 Sep climatology L12) first-pass **26 Sep Q2**. **ECO-11** (20 Sep Shobhit Uniyal Sir, foreign exchange) first-pass **27 Sep Q1**. **ECO-12** (20 Sep Shubham Raturi Sir, inflation) first-pass **27 Sep Q2**. **ECO-13** (21 Sep BS Sir — outcome / gender budget / 14th–15th Finance Commission) first-pass **28 Sep Q1**. All five arrived **25 Sep** after the morning hour. Do **not** backfill onto **24 Sep** or steal the **26 Sep** or **27 Sep** pairs.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -868,7 +868,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-09-07 | Merits: ITC no cascading / zero-rated exports / one nation one tax / logistics; demerit GSTIN every operating State | 2 | ★★★★☆ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Entry tax + octroi gone` $\leftrightarrow$ `Council failed seven items` $\leftrightarrow$ `2017 officers untrained → Sabka` $\leftrightarrow$ `PLI / vocal for local` |
 | ECO-09-08 | Angel tax 2012 Pranab; unlisted shares above FMV taxed at ~30% on start-up; scrap Aug 2024 from 1 Apr 2025 | 3 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Payer is the start-up not the angel` $\leftrightarrow$ `Sep 2023 non-resident gate` $\leftrightarrow$ `Registered start-ups later exempt` |
 | ECO-09-09 | 2017–18: plan/non-plan out (Rangarajan + Bimal Jalan) → CSS shared vs CS 100% Centre; non-scheme = wages/subsidy/pension/grants/devolution/defence/interest | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `NITI 2015 labels lasted till 2017–18` $\leftrightarrow$ `CSS 60:40 / 75:25 / 51:49 / NE 90:10` |
-| ECO-09-10 | Line-item = last year’s allocation; ZBB base = zero on merit; Britain/Sweden/India; performance + gender 2016 parked | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ZBB ≠ ignore needs` $\leftrightarrow$ `Weed non-essential` $\leftrightarrow$ `FC 14th/16th next class` |
+| ECO-09-10 | Line-item = last year’s allocation; ZBB base = zero on merit; Britain/Sweden/India; performance + gender taught in ECO-13 | 2 | ★★★★★ | Day 1 | 2026-09-18 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `ZBB ≠ ignore needs` $\leftrightarrow$ `Weed non-essential` $\leftrightarrow$ `Outcome / gender / 14th–15th FC = ECO-13 no extra Day-1` |
 
 ### Economy (Money & Banking L1 — 19 Sep 2026)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -902,6 +902,18 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-12-04 | Demand-pull: AD = C+I+G+NX; spendable = income − tax + transfers; population; money; black money | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Can, not must` $\leftrightarrow$ `Cash moves before factories` $\leftrightarrow$ `8th Pay Commission is a hypothetical` |
 | ECO-12-05 | Cost-push: price = cost + margin + tax; pen ₹100 + ₹20 + ₹6 = ₹126 | 2 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Wages vs land, capital, materials` $\leftrightarrow$ `EIA and SIA are a producer’s cost` $\leftrightarrow$ `Not automatic` |
 | ECO-12-06 | Structural = long-run supply; food-driven India; pulses, TOP, edible oil ~56%; crude ~90%; chips ~90% | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Technology mission since Rajiv Gandhi` $\leftrightarrow$ `Palm oil MY+ID; sunflower RU+UA` $\leftrightarrow$ `Lithium-ion from China` $\leftrightarrow$ `Depreciation = next class` |
+
+### Economy (Taxation L10 — outcome, gender budget, 14th/15th FC — BS Sir, 21 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-13-01 | Outcome = each ministry since 2005–06; performance = Finance Ministry average | 2 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Qualitative + quantitative` $\leftrightarrow$ `Micro vs macro` $\leftrightarrow$ `Line-item / ZBB = ECO-09-10` |
+| ECO-13-02 | Gender budget: Australia 1984, India 2005–06; Part A 100% / B ≥30% / C <30% | 2 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `2016 = a Prelims year` $\leftrightarrow$ `Cell keeps a women’s share` $\leftrightarrow$ `MGNREGA one-third now VB-G RAM G` $\leftrightarrow$ `Women, not transgender, at this stage` |
+| ECO-13-03 | Status: 49 cells; 5.5%→8.86%; ICDS 85%; female IMR 32→28; ₹4.49 lakh cr; hub 2025 | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Notebook wrote 57` $\leftrightarrow$ `Sheet 5.57` $\leftrightarrow$ `SRS 2022` $\leftrightarrow$ `Underline Bachao` $\leftrightarrow$ `DV Act zero in 2013–14` $\leftrightarrow$ `NCW = revenue only` |
+| ECO-13-04 | FC advisory; vertical Centre–State; horizontal among States; pool is national | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Art 280 already on polity` $\leftrightarrow$ `Not MP’s own tax returned` $\leftrightarrow$ `14th 2015–20; 15th 2020–26; 16th from 1 Apr 2026` |
+| ECO-13-05 | 14th: 32%→42% untied; delink >30 suggested, 8 done; GST comp 100/75/50 vs 100% + 14% | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Arun Jaitley` $\leftrightarrow$ `JNNURM and BRGF withdrew` $\leftrightarrow$ `Fund 2017–22` $\leftrightarrow$ `FD ceiling 3%` $\leftrightarrow$ `CSS shares = ECO-09-09` |
+| ECO-13-06 | Weights: 14th forest new 7.5; 15th tax effort 2.5; 16th GDP contribution 10 | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `1971 vs 2011` $\leftrightarrow$ `Haryana then HY+TG+KA` $\leftrightarrow$ `16th chapter next class` $\leftrightarrow$ `Grants preview ₹4.36 vs ₹9.47 lakh cr` |
+| ECO-13-07 | 14th merits: local use of delinked schemes; demerit: stress until CSS cut, and cash subsidies 3%→47.4% | 2 | ★★★★☆ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `42% of tax ≠ 42% of gross` $\leftrightarrow$ `Tied road vs untied cash` |
+| ECO-13-08 | 15th: NK Singh Nov 2017; 41% + 1% J&K/Ladakh; grants ₹4.36 lakh cr at 90/10; MCF 100% for million-plus | 3 | ★★★★★ | Day 1 | 2026-09-28 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `34% of gross receipts` $\leftrightarrow$ `FD 4% by 2025–26; States 4 / 3.5 / 3` $\leftrightarrow$ `Merge 12 and 18` $\leftrightarrow$ `Untied spend dilutes cooperative federalism` $\leftrightarrow$ `16th = next class` |
 
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
@@ -1063,6 +1075,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
   2a. **24 Sep Q1:** **ST-09** (22 Sep space Lecture 11). **Q2:** **MOD-B8** (22 Sep Modern India Lecture 8). **Leftover:** **CA-260922**. Do **not** steal Q1 for CA.
   2b. **26 Sep Q1:** **ECO-10** (19 Sep Money & Banking L1). **Q2:** **GEO-15** (19 Sep climatology L12). Do **not** put either cluster on 24 Sep or on a 25 Sep pair.
   2c. **27 Sep Q1:** **ECO-11** (20 Sep foreign exchange, Shobhit Uniyal Sir). **Q2:** **ECO-12** (20 Sep inflation, Shubham Raturi Sir). Do **not** steal 26 Sep.
+  2d. **28 Sep Q1:** **ECO-13** (21 Sep outcome / gender budgeting / 14th–15th FC). **Q2** stays open. Do **not** steal 26 or 27 Sep. 16th FC chapter is the next class.
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 
