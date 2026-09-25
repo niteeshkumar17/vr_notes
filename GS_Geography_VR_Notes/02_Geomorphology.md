@@ -1,9 +1,9 @@
 # 02 — Geomorphology (World Physical Geography — Chapter 1)
 
-> **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3) + 11 September 2026 (A4 — Geomagnetism)
-> **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**; Lecture A4 added **2026-09-11**
-> **Teacher:** **Rizwan Sir** (Geomorphology lectures A1–A4)
-> **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3 + A4) + Audio Transcripts
+> **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3) + 11 September 2026 (A4 — Geomagnetism) + 25 September 2026 (A5 — endogenic classification)
+> **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**; Lecture A4 added **2026-09-11**; Lecture A5 added **2026-09-25**
+> **Teacher:** **Rizwan Sir** (Geomorphology lectures A1–A5)
+> **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3 + A4 + A5) + Audio Transcripts
 > **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)  
 > **Yellow Book Concepts Ch 3** (full): `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. Class stays master for models and depths. Wave types + shadow zones = extras below (A3).
 
@@ -1273,3 +1273,166 @@ graph TD
 <!-- 2026-08-09: Lecture A2 integrated. Topics II (Endogenetic Forces) & III (Interior of Earth — Models 1 & 2) added. 7 handwritten pages + full audio transcript processed. Seismic Model (Model 3) to be elaborated in next class. -->
 <!-- 2026-09-06: Faculty correction — Geomorphology A1 (8 Aug), A2 (9 Aug), A3 (6 Sep) are Rizwan Sir, not Shiv Arpit. -->
 <!-- 2026-09-06: Lecture A3 — Seismic Model, heat path, mantle plume, SFS, crust types. Merged into this file (same Geomorphology chapter). Cluster GEO-09. -->
+<!-- 2026-09-25: Lecture A5 — diastrophic vertical (epeirogenic) and horizontal (orogenetic); horst and graben; Malda gap; central fault and Gujarat zone 4; East African Rift. Cluster GEO-17. First-pass 1 Oct Q2. -->
+
+---
+
+### Lecture A5 — 25 September 2026 (Rizwan Sir)
+
+> **Date of Lecture:** 25 September 2026. Two sheets, circled **1–2**, dated **25/9/26**.  
+> **Cluster:** **GEO-17**. Thursday 1 October, question 2. Question 1 that morning is the medieval class.  
+> **Already taught:** diastrophic versus catastrophic, and the ~80% line, are Lecture A2. Divergent boundary → rift → sea is GEO-09. Today is the direction of the displacement. He said prefer the word **displacement** over force, so a physics reading does not take over. He also said this topic should be read as the class taught it.  
+> **He stopped** before the diagrams of the three faults. Convergent outcomes, volcanism and the earthquake chapter are the next sitting. He said that class would start at 10:30.
+
+### 30. Two speeds, then two directions (GEO-17-01)
+
+Endogenic force is classified by how the crust answers.
+
+| Class | Pace | What he opened today |
+|:---|:---|:---|
+| **Diastrophic** | Slow. The effect is felt over a long time | The whole of this lecture |
+| **Catastrophic** | Sudden, inside a very short time | Named, not opened |
+
+Under a patch of crust, **thermal convection** is what has acted. The crust is displaced. Vertical displacement is **perpendicular** to the surface. Horizontal displacement is **parallel** to the surface.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 168" role="img" aria-label="Diastrophic endogenic force splits into vertical continent-building and horizontal mountain-building" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="168" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Diastrophic · slow</text>
+  <rect x="16" y="40" width="356" height="112" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="194" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Vertical · epeirogenic</text>
+  <text x="194" y="86" text-anchor="middle" font-size="12" fill="#1e40af">Perpendicular · continent building</text>
+  <text x="194" y="108" text-anchor="middle" font-size="12" fill="#1e40af">Up → horst · Down → depression</text>
+  <text x="194" y="130" text-anchor="middle" font-size="12" fill="#1e40af">Both ways can make a graben</text>
+  <rect x="388" y="40" width="356" height="112" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="566" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Horizontal · orogenetic</text>
+  <text x="566" y="86" text-anchor="middle" font-size="12" fill="#7c2d12">Parallel · mountain building</text>
+  <text x="566" y="108" text-anchor="middle" font-size="12" fill="#7c2d12">Away → divergent, tensional</text>
+  <text x="566" y="130" text-anchor="middle" font-size="12" fill="#7c2d12">Toward → convergent, compressive</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Catastrophic force, and the convergent half, were named and left for the next class.</em></p>
+
+### 31. Vertical displacement — horst and graben (GEO-17-02)
+
+**Upward.** A piece of crust breaks and rises. That raised block is a **block mountain**, also called a **horst**. The **Vosges** of France are his example of a block mountain. Two horsts side by side leave a valley between them: a **graben**.
+
+**Downward.** A descending limb of convection pulls the crust down. The land **subsides**, a depression forms, and water collects as a lake or a sea inside a continent. The floor can be among the lowest places on that landmass. His examples: the **Dead Sea**, the **Caspian Sea**, the **Black Sea**, and the large lakes beside them.
+
+A horst and a graben can be made **either** way. If the middle sinks and the sides stay, the sides read as horsts and the middle as a graben. If the sides rise and the middle stays, the middle still reads as a graben.
+
+| Place | What it is |
+|:---|:---|
+| **Vindhyas** and **Satpuras** | Uplifted blocks. They are **not** pure block mountains. They are folded **and** block |
+| **Narmada** valley | The graben between those two blocks |
+| **Meghalaya plateau** and **Chota Nagpur plateau** | Block structures. They were one continuous land |
+| **Malda gap** | The graben. The middle sank when India collided with Eurasia. **Bangladesh** sits on most of that subsided ground |
+
+The evidence they were one land is **geological similarity**: the same kind of rock, and the same minerals, on Chota Nagpur and on the Meghalaya plateau. The Ganga and the Brahmaputra ran into the depression and filled it. It was born a graben. It now looks like a **depositional plain**, not an open hole.
+
+**Epeirogenic** (he also said epirogenetic; he once slipped and said epigenetic, then corrected it). *Epeiros* is the continental land. The general tendency he gave this force is to raise land **above sea level**, so it is **continent building**. The same vertical pair can also drop land below sea level. That is the Dead Sea case, not a second category.
+
+### 32. Horizontal displacement — tension first (GEO-17-03)
+
+**Orogenetic** force is **mountain building**. Block mountains exist, but they are isolated. The great chains — Rockies, Andes, Alps, Himalaya — are second-order landforms made by **horizontal** displacement. Most mountain chains belong to that horizontal movement. It does not mean every mountain is made that way.
+
+Which way the crust moves is set by how the convection sits under the lithosphere.
+
+| Movement | Name | What he taught |
+|:---|:---|:---|
+| Away from a point | **Divergent**, also **tensional** | Opened today |
+| Toward a point | **Convergent**, also **compressive** | Named only |
+
+**First outcome of tension: a fault.** The crust is pulled apart at a point. The rock breaks. A fault is a **crack**, a fracture in a layer of rock. It can be a few metres long, or hundreds, or thousands of kilometres. The fault between **Ladakh** and **Zanskar** (he said “Jaskar”) is almost **400 km**. Faults through the Himalaya are why that belt is a seismic zone.
+
+Before the crack, the crust is in **equilibrium**. The energy sitting there is stored energy, which he called **potential energy**. The crack lowers the strength of the crust. The stored energy can be released as the blocks beside the fault move. That release is an **earthquake**. A faulted region is a seismic zone.
+
+**India’s central fault** runs from **Gujarat toward Madhya Pradesh**. It was made by tensional force **during the collision of India with Eurasia**. **Northward** drift of the Indian plate activates it, so Gujarat is vulnerable. The **Bhuj earthquake of 2001** was that fault waking up.
+
+He walked the zones as: **2** low, **3** moderate, **4** high, **5** very high. The scheme has five numbers. He said that in practice the live ones are these four. **Zone 5** is the **Himalaya**, because a plate boundary and many faults sit there. **Delhi is zone 4**, close to that boundary. The **interior of the Deccan plateau is zone 2**. He pointed at one belt as zone 3 and did not name it. **Gujarat is zone 4.** The page writes “westward” drift and **Gujarat zone V**. Lock **northward** and **zone 4**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img" aria-label="India's central fault from Gujarat to Madhya Pradesh is zone 4; the Himalaya is zone 5" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="150" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Seismic zones he locked</text>
+  <rect x="16" y="42" width="140" height="88" rx="8" fill="#d1fae5" stroke="#059669"/>
+  <text x="86" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">2 · low</text>
+  <text x="86" y="100" text-anchor="middle" font-size="11" fill="#064e3b">Deccan interior</text>
+  <rect x="168" y="42" width="140" height="88" rx="8" fill="#fef9c3" stroke="#ca8a04"/>
+  <text x="238" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#854d0e">3 · moderate</text>
+  <text x="238" y="100" text-anchor="middle" font-size="11" fill="#713f12">Belt unnamed</text>
+  <rect x="320" y="42" width="200" height="88" rx="8" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="420" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">4 · high</text>
+  <text x="420" y="94" text-anchor="middle" font-size="11" fill="#7c2d12">Gujarat and Delhi</text>
+  <text x="420" y="112" text-anchor="middle" font-size="11" fill="#7c2d12">Bhuj 2001</text>
+  <rect x="532" y="42" width="212" height="88" rx="8" fill="#fee2e2" stroke="#dc2626"/>
+  <text x="638" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">5 · very high</text>
+  <text x="638" y="100" text-anchor="middle" font-size="11" fill="#7f1d1d">Himalaya</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> The notebook’s “zone V” and “westward drift” are the slips. The dictation is zone 4 and northward drift.</em></p>
+
+### 33. From a crack to two continents (GEO-17-04)
+
+If tension keeps acting, the fault becomes **deep and wide**. That opening is a **rift**. A rift is the sign that the land is starting to break. It is still diastrophic, so it is slow. He sketched the pace as something like a few centimetres a year, and a 200-metre rift as the work of millions of years. Those figures are the sketch of “slow”. They are not the measured rate of a named rift.
+
+Water in a rift is a **rift lake**. That is the second kind of lake in this class. The first kind was the subsidence lake of a downward vertical force.
+
+The chain: **fault → rift → sea → two landmasses out of one**. The major outcome of a tensional force is **fragmentation of the land**. **Pangaea** broke into **Laurasia** and **Gondwana**, with the **Tethys Sea** between them.
+
+**East African Rift.** Two convection limbs drag Africa apart. Near the equator it branches.
+
+| Branch | Where he put it |
+|:---|:---|
+| **Gregory Rift** | Toward the Horn, **Ethiopia** and **Somalia**. It continues into the **Red Sea**. A recent eruption in Ethiopia, which he did not name, he tied to this rift waking up |
+| **Albertine Rift** | West, toward the **Congo**. The page writes “Albert Rift” |
+
+**Lake Victoria is not part of the rift.** The rift lakes he listed: **Turkana, Tanganyika, Albert, Kivu, Malawi, Nyasa**. He put Malawi and Nyasa in the same list as two names. **Tanganyika**, he said, has come twice in Prelims. He told the class to place the lakes against Tanzania, Kenya, Uganda, Somalia and Ethiopia on an atlas, and to mark the equator and the two tropics. He said that African belt has been asked two or three times in the last five or six years.
+
+The page also labels the **Gulf of Aden** on the same sketch. He said the list of water bodies is not complete and the atlas should fill the minor ones.
+
+If the rift runs north to south, the east side is the **Somalian** landmass and the west side the **Nubian**. He put that break **20 to 30 million years** ahead, if the force continues. The **Arabian peninsula** was once continuous with Africa. Tension opened the **Red Sea**, so the Red Sea is a divergent plate boundary.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 120" role="img" aria-label="Tension turns a fault into a rift, then a sea, then two continents" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="120" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Tensional force · fragmentation</text>
+  <rect x="20" y="42" width="160" height="58" rx="8" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="100" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Fault</text>
+  <rect x="206" y="42" width="160" height="58" rx="8" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="286" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Rift</text>
+  <rect x="392" y="42" width="160" height="58" rx="8" fill="#cffafe" stroke="#0891b2"/>
+  <text x="472" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#155e75">Sea</text>
+  <rect x="578" y="42" width="162" height="58" rx="8" fill="#d1fae5" stroke="#059669"/>
+  <text x="659" y="76" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">Two lands</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Pangaea → Laurasia and Gondwana, with the Tethys between, is the same chain.</em></p>
+
+### 34. Three kinds of fault — named, not drawn (GEO-17-05)
+
+A fault is classified by **how the two crustal blocks beside the crack move**. He named three and then stopped.
+
+| # | Name | Also called |
+|:---|:---|:---|
+| 1 | **Normal** fault | — |
+| 2 | **Reverse** fault | **Overthrust** (the page says thrust fault) |
+| 3 | **Strike-slip** fault | **Transform** fault |
+
+He did not draw which block rises, which falls, or which slides past. Do not fill that from a textbook until the next class.
+
+### Lecture A5 — locks
+
+1. Diastrophic is slow. Vertical is **epeirogenic** (continent building). Horizontal is **orogenetic** (mountain building).  
+2. Horst = block mountain. Graben = the valley. Either subsidence of the middle or uplift of the sides will produce the pair. Vosges are his block-mountain example.  
+3. Vindhya and Satpura are uplifted blocks, folded as well as block. Narmada is the graben. Meghalaya and Chota Nagpur are blocks. **Malda** is the graben, now a plain filled by the Ganga and the Brahmaputra.  
+4. Dead Sea, Caspian and Black Sea are downward-force depressions.  
+5. A fault stores the release as an earthquake. Gujarat–Madhya Pradesh fault: collision, then **northward** drift, **zone 4**, Bhuj **2001**. Himalaya is zone **5**. Delhi is zone **4**. Deccan interior is zone **2**.  
+6. Fault → rift → sea → fragmentation. Victoria is **not** a rift lake. Gregory toward Ethiopia; Albertine toward the Congo. Red Sea is divergent. Somalian and Nubian are the future split, **20–30 million years** if the force holds.  
+7. Normal, reverse (overthrust) and strike-slip (transform) are names only.
+
+---
+

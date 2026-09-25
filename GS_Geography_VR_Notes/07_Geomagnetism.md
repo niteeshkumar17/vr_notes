@@ -7,7 +7,7 @@
 > **Teacher:** **Rizwan Sir** (Geomorphology syllabus topic **IV**)  
 > **Source:** Vajiram & Ravi — class notes (6 sheets dated **11/9/26**) + audio transcript  
 > **Continues:** `02_Geomorphology.md` Lectures A2–A3 (interior models, heat path, both cores ~6,000°C). Cluster **GEO-12**.  
-> **Parked:** classification of **endogenic** forces (folding / faulting / nappe) — next class; then volcanism and earthquakes. **Exogenic landforms** is on the portal (watch before that class).  
+> **Parked, now opened:** the slow/fast split and the direction split are Lecture A5 on `02_Geomorphology.md` (25 Sep). Still parked: how a **normal**, **reverse** and **strike-slip** fault actually move, the convergent side, volcanism and earthquakes. **Exogenic landforms** stay on the portal.  
 > **Do not:** Faraday / Maxwell / Lorentz for this paper — class said applied geography only.  
 > **Yellow Book:** dynamo one-liner stays in `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. **This lecture is the exam default.**
 
