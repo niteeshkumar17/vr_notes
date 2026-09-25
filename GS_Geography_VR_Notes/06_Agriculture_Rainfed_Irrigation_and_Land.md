@@ -2,7 +2,7 @@
 
 ## Lecture 3 — Features of Indian Agriculture — 2 September 2026
 
-> **Date of Lecture:** 2 September 2026  
+> **Dates of Lecture:** **2 September 2026** (Lecture 3) + **23 September 2026** (Lecture 4)  
 > **Date Added:** 2026-09-02  
 > **Source:** Vajiram & Ravi class lecture + audio transcript + 5 handwritten notebook pages  
 > **Continues:** 28 August (`04_Agriculture_Importance_Trade_and_Commodities.md`) and 30 August (`05_Agriculture_Society_Climate_and_Stubble.md`). Class opened by finishing the agri–greenhouse gas (GHG) list from Lecture 2, then moved to **features of Indian agriculture**.  
@@ -192,7 +192,7 @@ Labour is **affordable and available** — that is *not* the main brake. The bra
 
 **China:** bigger geographical area but west/north-west/south-west is **desert**; **NSA ~105 million ha** vs India’s **~142**. Population comparable (**India ~146 crore, China ~142–143 crore**). China still mechanises better. **Israel:** desert, high population pressure on agri land, still mechanised. Class reason: **collective farming worked** there; in India the state has pushed it since Independence and it **has not**.
 
-Leave-the-class question: **should India emulate the USA?** US mechanisation is a **compulsion** (Civil War / slavery frame: South needed cheap cotton labour; today few rural workers, high living costs). India has cheap, available farm labour — mechanisation is **not** the same compulsion.
+Leave-the-class question, **answered 23 September** (Lecture 4, **GEO-16**): US mechanisation is a **compulsion**. India’s is not the same compulsion, because farm labour is still here. Blanket mechanisation would throw that labour out. No extra Day-1 on GEO-08.
 
 ---
 
@@ -278,6 +278,195 @@ Examples (clip, not a new map to mug): SHGs + commercial credit, **Maharashtra**
 
 ---
 
+---
+
+## Lecture 4 — 23 September 2026
+
+> **Date of Lecture:** 23 September 2026. Notebook pages dated **23/9/26**, circled **1–3**.  
+> **Date Added:** 2026-09-25  
+> **Faculty:** the same agriculture series as Lecture 3. The audio does not name him.  
+> **Cluster:** **GEO-16**.  
+> **Opens by closing Lecture 3:** the four brakes on mechanisation (small fragmented holdings, few small machines, custom hiring centres only in better belts, collective farming that did not spread) stay **GEO-08**. This sitting answers the question he left, then starts **seeds**.  
+> **Parked next class:** the rest of the input list after seeds — fertiliser, pesticide, irrigation, credit — he said the next class takes “the rest”. **DMH-11** (Dhara Mustard Hybrid 11) was named and the honeybee objection was stated. A fuller reading he left to a handout or a video.  
+> **Already elsewhere:** **1.5×** cropping intensity and the idle season are Lecture 3. **Pusa-44** and the **PR** series are the stubble note. Edible-oil import dependence is Lecture 1. The **125-day** rural-work guarantee is the 22 August current-affairs note (MGNREGA **100** days, successor **125**). No extra Day-1 on those.
+
+### 9. Mechanisation in the US is a compulsion (GEO-16-01)
+
+He walked the Civil War again only as the frame. The South wanted to keep slavery because cotton needed a mass of workers. The North wanted it abolished. Today more than **80 per cent** of Americans live in towns, and even the rural remainder is mostly not on the farm. Wages are high. A farmer who wanted human labour could neither afford it nor find it. Machines are not a choice there.
+
+India still has a large farm workforce, including landless daily-wage workers. A blanket of machines would put them out of work. That is why the same machines are not the same policy.
+
+**Demographic dividend** is the gain an economy can draw from its **age structure**, not from a headcount alone.
+
+| Who | What they do |
+|:---|:---|
+| A child of **6** | Cannot work. Depends on parents, or on the state (school, a midday meal) |
+| A person of **75** | Often cannot work. Depends on savings, a pension, family, or public health care |
+| **Working age** | Earns, spends, saves, pays tax. That spending and that saving are what grow the economy |
+
+**Working age is not one number.**
+
+- **International Labour Organization (ILO):** **15 to 64**.
+- **Census of India:** **15 to 59**, because most departments retire at 60, not 65.
+
+His sketch of a strained country, not a real census: **60 per cent** aged 65 or more, **20 per cent** under 15, **20 per cent** of working age. Eighty people then depend on twenty. Medicine makes it worse. A person who retires at 65 may now live to 90, so the state owes about **25 years** of services after the job ends. The under-15s will enter the workforce later. The old will not.
+
+**United States, last year, his figure:** median age **48**. The baby boom after the Second World War has aged. He put the same greying on Scandinavia, Germany and Japan. **China, last year:** median age **49**, one year older than the American figure. Those 49-year-olds leave the factories in about fifteen years. China’s export machine is labour-intensive, so Beijing now wants more births. The policy path he gave: **one-child in 1979** (a second child meant lost state benefits), **two children from 2016**, a further loosening in **2021**.
+
+India, in his line, has a **youth bulge**, and policy treats it as an asset: they will work, spend, save and pay tax, and some will earn remittances in countries that are greying. They are an asset **only if they are gainfully employed**. Unemployed youth is the worst case he named. Revolutions, in his reading of history, grow where the young have energy and no work. Agriculture is still the largest employer. Blanket mechanisation spends the dividend.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" role="img" aria-label="Working age is 15 to 64 for the ILO and 15 to 59 for the Indian census" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="132" rx="12" fill="#f8fafc"/>
+  <text x="380" y="24" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Who can carry the economy</text>
+  <rect x="16" y="42" width="230" height="72" rx="10" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="131" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#334155">Too young or too old</text>
+  <text x="131" y="94" text-anchor="middle" font-size="12" fill="#475569">Dependents</text>
+  <rect x="262" y="42" width="236" height="72" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="380" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">ILO · 15 to 64</text>
+  <text x="380" y="94" text-anchor="middle" font-size="12" fill="#1e40af">Working age</text>
+  <rect x="514" y="42" width="230" height="72" rx="10" fill="#d1fae5" stroke="#059669"/>
+  <text x="629" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">Census · 15 to 59</text>
+  <text x="629" y="94" text-anchor="middle" font-size="12" fill="#064e3b">India retires at 60</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> The dividend is this middle band, employed. The same band, unemployed, is the liability.</em></p>
+
+### 10. Seasonal work, then hidden unemployment (GEO-16-02)
+
+Farm work is seasonal. Land is cropped about **1.5 times** a year (Lecture 3), so of twelve months he treated about **eight** as cropped and about **four** as idle. Even three crops a year do not need a worker every day: sowing, fertiliser, harvest. He tied the idle months to the rural job guarantee. **MGNREGA** promised **100** days. The successor, **VB-G RAM G** (Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin); he said “Jee Ram Ji”), promises **125** days, including the lean season. That day-count is already on the 22 August note. His new point is only that 125 days is roughly those four idle months.
+
+**Underemployment** and **disguised unemployment** are the second problem. A field needs **100 workers × 8 hours = 800 man-hours**. The village has **200** workers and nowhere else to send them, so each works **4 hours**. They are employed, and not to capacity. Pull the extra 100 out and output does not fall: their unemployment was hidden inside the crowd. That is disguised unemployment. Machines might then need only **10** operators, so the people to be absorbed become about **190**, not 100.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" role="img" aria-label="Eight hundred man-hours can be one hundred people for eight hours or two hundred people for four" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="132" rx="12" fill="#f8fafc"/>
+  <text x="380" y="24" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Same 800 man-hours</text>
+  <rect x="16" y="42" width="230" height="72" rx="10" fill="#d1fae5" stroke="#059669"/>
+  <text x="131" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#065f46">100 × 8 hours</text>
+  <text x="131" y="94" text-anchor="middle" font-size="12" fill="#064e3b">The work the field needs</text>
+  <rect x="262" y="42" width="236" height="72" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="380" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">200 × 4 hours</text>
+  <text x="380" y="94" text-anchor="middle" font-size="12" fill="#7c2d12">Underemployment</text>
+  <rect x="514" y="42" width="230" height="72" rx="10" fill="#fee2e2" stroke="#dc2626"/>
+  <text x="629" y="72" text-anchor="middle" font-size="13" font-weight="700" fill="#991b1b">Pull 100 out</text>
+  <text x="629" y="94" text-anchor="middle" font-size="12" fill="#7f1d1d">Output does not fall</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> The extra hundred are disguised unemployment. A machine that needs ten operators makes the problem larger, not smaller.</em></p>
+
+### 11. The window is short, so the jobs have to be in factories (GEO-16-03)
+
+Mechanisation is **inevitable**. The preparation is the policy, not a vote against machines.
+
+Rich economies moved agriculture → industry → services. After **1991**, with English-speaking graduates and the information-technology boom, India skipped a thick manufacturing stage and landed in services. Services give the most of GDP and the fewest jobs. Agriculture gives the most jobs and the least of GDP. A factory of **500** and an information-technology room of **10** can, in his comparison, throw up the same revenue. Services are not labour-intensive, and they need skills India does not have time to build for everyone leaving the farm.
+
+**Total fertility rate (TFR)** is the number of children a woman bears in her reproductive years. **Replacement level is 2.1**, not 2, because some infants and children die. Two parents are then replaced by two adults, and the population is stable. In most southern states, he said, TFR is below that: women are educated and in work, so couples have one child or none. A southern leader was offering cash for a third child and more for a fourth. He did not name the leader. A person of 35 is 65 in thirty years. He put India’s **demographic window** at about **2052–2055**, and said the useful work is the next **20 to 30 years**. There is not time to school the whole surplus into services.
+
+**Make in India**, in this argument, is the absorber.
+
+- Manufacturing is labour-intensive, and it can take unskilled, semi-skilled and skilled workers (a manager and a supervisor, and the rest of the floor).
+- The jobs he wants are the ones that appear with **little capital**. **₹1 crore** in textiles, his figure, makes **153** jobs. The same crore in an automotive plant makes **27**. A third “14 jobs” line in the audio is unclear. Do not lock it.
+- Alongside the factories: **skill training**. He named **Skill India / Kaushal Vikas** and apprenticeships.
+- Factories are also energy-hungry. **More than 70 per cent** of electricity is still coal. Fossil fuels and the climate threat cannot both be ignored, so the energy he named is **nuclear, solar and wind**.
+- The industries he listed for this job: **solar cells, modules and panels**; **toys**; **food processing** (heavy subsidy, a link back to the farm, work for women, and a cut in post-harvest loss).
+
+### 12. Backward and forward (GEO-16-04)
+
+GS-III’s “upstream and downstream” is this. Stand facing the mouth of a river, back to the source. **Upstream = backward. Downstream = forward.** He slipped once and said the opposite. The examples correct it.
+
+An oil refinery’s backward side is getting the crude: sweet or sour, heavy or light, pipeline or tanker. The forward side is what you make (petrol, diesel, naphtha, or LPG when the government forbids turning the gas into polymers) and where you sell it.
+
+| Agriculture | What it covers |
+|:---|:---|
+| **Backward** | Seeds, fertiliser, pesticide, irrigation, machines or labour, and the **credit** that buys them |
+| **Forward** | A market (a physical mandi, an online sale, and the government’s price, which he called by the **Minimum Support Price**), transport (a cart, a truck, or a refrigerated van for milk), storage (a godown, a cold store, a refrigerated store), and **value addition** |
+
+India is the largest milk producer, and the **second** largest in food grains and in horticulture. Paddy cut in **October–November** is eaten all year. Onions cut in **April** are still wanted in **October**.
+
+**Value addition** raises the price or the shelf life. Onions that would sprout in the humid cold are irradiated with **X-rays and gamma rays**. Packaging and sorting: loose rice at **₹120 a kg** can cost **₹10–20 more** once it is branded. Primary processing: paddy loses husk, bran and germ and becomes the rice the buyer wants; milk that lasts hours becomes ghee or butter and milk powder that last months. Most of these links, he said, are missing. Seeds are the first one he opened.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" role="img" aria-label="Backward linkages are the inputs and forward linkages are the market, storage and value addition" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="132" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Upstream is backward. Downstream is forward</text>
+  <rect x="16" y="40" width="230" height="76" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="131" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Backward</text>
+  <text x="131" y="90" text-anchor="middle" font-size="12" fill="#7c2d12">Seed, fertiliser, credit</text>
+  <rect x="262" y="40" width="236" height="76" rx="10" fill="#ede9fe" stroke="#7c3aed"/>
+  <text x="380" y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#5b21b6">The harvest</text>
+  <rect x="514" y="40" width="230" height="76" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="629" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Forward</text>
+  <text x="629" y="90" text-anchor="middle" font-size="12" fill="#1e40af">Market, store, value</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Credit sits on the backward side because it is what buys the inputs. Value addition sits on the forward side because it happens after the harvest.</em></p>
+
+### 13. Seeds, and a low replacement rate (GEO-16-05)
+
+The Green Revolution, as he restated it, was **high-yielding wheat** bred by **Norman Borlaug** in **Mexico**, and high-yielding rice from the Philippines work of **Henry Beachell** and **Gurdev Khush**. The audio garbled the two rice names. Quality seed can raise both production and productivity. The edible-oil mission he had already mentioned has two jobs: better procurement, and better seed. The same logic, he said, applies to pulses.
+
+Most Indian farmers do not get certified seed. They use **farm-saved seed**: grain kept from last year’s crop, or, for sugarcane, stem pieces buried in a trench (vegetative propagation).
+
+**Seed replacement rate** (he also said ratio) is the share of the sown area that has moved off farm-saved seed onto certified seed. His illustration, not a national statistic: if arhar covers **100 hectares**, **70** still use farm-saved seed and **30** use certified seed, the rate is **30 per cent**. A century ago that rate was zero, because there was no Indian Council of Agricultural Research (ICAR) seed, no agricultural university, and no private company.
+
+**Certified seed** keeps the genetic purity of the parent. A breeder’s handful cannot be multiplied in a lab. The **National Seed Corporation** multiplies what national institutes such as the Indian Agricultural Research Institute produce (he used **Pusa-44**, already on the stubble note). A **state seed corporation** multiplies a university variety (he used the Punjab **PR** line; the slip between PR-120 and PR-121 does not create a new variety). A private company **self-certifies**. Those packets are **truthful labelled** seed. He also read the outline of a proposed new seed law: penalties and traceability for fake seed, and mandatory registration so that an unauthorised seller cannot sell. Treat that as a proposal he flashed, not as a passed Act.
+
+Three further demands, once the seed exists:
+
+1. **Availability**, including for climate. Ordinary rice in a low field can stand **7–8 days** of flood. Beyond that the plant dies. He named rice that can stand waterlogging for **more than two weeks** (the audio’s names were Jaldi and Jaladidhi; do not treat the spelling as locked). An early, heat-tolerant arhar for a harsh summer, his example the south-east of **Tamil Nadu**, matures in about **125 days**. **Kamala**, bred from **Samba Mahsuri**, matures early and so uses less water and less nutrient. **Pusa DST** rice tolerates saline and alkaline soil. He also gave a monsoon split of about **15 per cent in June** and **35 per cent each in July and August**. The September share in the audio does not add to 100. Do not lock it.
+2. **Nutrition.** About **30 per cent** of Indians are deficient in zinc. About **57 per cent** of women of reproductive age are anaemic from iron deficiency. **Fortification** crushes rice, mixes nutrients to **Food Safety and Standards Authority of India (FSSAI)** standards (iron, zinc, vitamin A, folate), and presses the flour back into grains. It is costly. **Biofortification** puts the nutrient in at the breeding stage. He described a zinc-and-iron rice for weakly irrigated tracts in northern **Maharashtra** and parts of **Madhya Pradesh**, yield close to **4,000 kg per hectare**. Iron-rich potato was the other staple he named. **Pusa 0051** mustard (the audio also said 0031; the notebook is **0051**) is high-yielding, low in **glucosinolates** (the pungency mustard uses against insects) and low in **erucic acid** (the reason he gave for dietitians preferring olive oil). India currently imports that kind of oil from Canada as **canola**.
+3. **Affordability.** A hybrid does not breed true. Use saved grain next year and half the field loses the parent’s traits, so the farmer must buy again. Many do not have that purchasing power. Breeders also hold back the parental lines: a seed the farmer can reuse forever is a seed nobody buys. The **Protection of Plant Varieties and Farmers’ Rights Act** lets an Indian farmer sow and propagate seed for a **non-commercial** use. Under the Union for the Protection of New Varieties of Plants model, which he called the other countries’ law, the seed cannot be reused that way. The incentive for the breeder is a short commercial window.
+
+### 14. A foreign gene is not an edited gene (GEO-16-06)
+
+**Genetically modified (GM)**, in this class, means **transgenic**: a gene from another species, which natural selection would not have moved. His cartoons were a horse gene in cotton, or a monkey gene in tobacco. **Genome editing** suppresses or rewrites a gene the plant already has. Pusa 0051 is edited: the pungency gene is switched off. It is not transgenic. The debate he opened is about the transgenic crop.
+
+**Bt cotton** is the only GM crop that may legally be grown in India. Permitted in **2002**. Cotton’s worst pest, in his telling, is the **bollworm**, which enters the boll and eats the seed. A spray misses it once it is inside the fibre, kills useful insects as well as pests, and the farmer inhales it. **Bacillus thuringiensis**, a soil bacterium, makes a toxin. Monsanto (later sold to Bayer, the German firm) had used that toxin as an insecticide. Scientists then moved the bacterial gene into the cotton plant. The seed’s juice, in the alkaline gut of the bollworm, damages the gut lining and the insect dies. The farmer does not spray.
+
+| Cotton figure (class) | Value |
+|:---|:---|
+| Permitted | **2002** |
+| Production then | **136 lakh bales** |
+| One bale | **170 kg** |
+| Production in **2013–14** | **398 lakh bales**, the peak |
+| This year | about **290 lakh bales**, and falling, even as the GM area rises |
+| Yield, then and now | **566 kg/ha**, now **414 kg/ha** |
+| Area under Bt hybrids | **more than 95 per cent** |
+
+He once said the rise was “3 lakh”. The two production figures are the lock: 136 to 398. He also once said permission came in 2012. The year he stated with the 136 lakh bales is **2002**.
+
+**Herbicide-tolerant (HT) cotton** is grown as well, and it is **illegal**. Cotton is a kharif crop. Rain brings weeds that take water, nutrients and light. A herbicide would kill the cotton too, so farmers hire labour to pull weeds, and labour is scarce. A gene from **Agrobacterium tumefaciens** (he garbled the species name) makes the plant tolerate **glyphosate**, sold by Monsanto as **Roundup**. Spray the field: weeds die, cotton stands. Seed companies, in the clipping he read, put illegal HT cotton on **15–20 per cent** of about **120 lakh hectares**. The labour saving he gave is about **₹55,000 per hectare**. Farmers in one arm of the **Shetkari Sanghatana** in Maharashtra call it civil disobedience and dare the state to arrest them. The spread he read: Maharashtra, then Gujarat, then the **Malwa** region of Madhya Pradesh, under catchy names such as Uday 5G and Bahubali 4G.
+
+A fish gene that stops freezing, moved into a tomato, was his example of a longer shelf life and of cultivation in the cold. He offered it for a GS-III question this year on biotechnology and shelf life. It is a classroom example, not an Indian release. He said “tobacco” more than once where he meant the tomato. Lock the tomato.
+
+### 15. The case against, which he left open (GEO-16-07)
+
+The answer in the examination depends on how the question is framed. He taught both sides and did not close the debate.
+
+**Health.** There is no black-and-white proof that GM food is harmful, and none that it is safe. Some studies call it carcinogenic. Policy therefore differs. Brazil grows GM soya. The United States allows GM crops case by case, and most of its maize is GM, much of it fed to poultry. The European Union is strict. India allowed **Bt cotton** and not **Bt brinjal**, because brinjal is eaten, and often not cooked through. Bangladesh allows Bt brinjal, against the fruit and shoot borer. Farmers in **Haryana** grow Bt brinjal illegally. The source of that seed, in the report he read, is still unknown. He also said GM material is already in the Indian plate: Brazilian soya oil (he said the oil itself does not carry the protein), American chicken legs from birds fed GM maize, and cottonseed oil plus the de-oiled cake fed to cattle, whose milk is then drunk. **Roundup**, which HT cotton requires, is the sharper health point. The **World Health Organization** classes glyphosate as **probably carcinogenic**. A farmer in **Georgia** in the United States sued Monsanto. He said the court treated Roundup as the cause. The spray also reaches soil and groundwater.
+
+**Biodiversity.** If Bt hybrids take the whole cotton area, the varieties grown before 2002 disappear. On **DMH-11**, one objection is honeybees. The government, he said, relied on Canadian canola studies and did not study Indian bees on this mustard. Permission was given, then the matter went to court and is stayed in the **Supreme Court**, so it is not in the fields. Do not build a full DMH-11 note from that one objection.
+
+**Loss of efficacy.** The 398 lakh bales were the ceiling, not the present. Pink bollworm is now the pest, and it is **monophagous**: it eats cotton or it starves. With more than 95 per cent of the area under Bt, the survivors pass on resistance. **Bollgard I** carried **Cry1Ac**. **Bollgard II** added **Cry2Ab**. He dated the slide from the first to the second around **2006**. Bollgard II does not hold the pink bollworm. **Bollgard III** is grown elsewhere and is **not permitted** in India. The sequence he warned of is I, then II, then a demand for III, then IV.
+
+**Monopoly.** A shopper today, he said, finds little cotton seed except Bollgard II. The illegal HT route, which he called an allegation without proof, is how a company can force a later legalisation: catchy local brands, a labour saving, a shortage, a protest, then a law. Bt cotton itself, he said, was in the fields illegally before 2002. Monsanto’s recovery path, once it is legal, is an Indian partner who multiplies the seed, sells the hybrids, and pays a **royalty** on each packet. Intellectual property is filed in India first.
+
+### Lecture 4 — locks
+
+1. US machines are a compulsion. India’s farm labour is still here, so the same machines are a jobs problem. The dividend is the age structure, and only if that age group works.
+2. ILO working age is **15–64**. The Census uses **15–59**. China’s one-child year is **1979**. The two-child change is **2016**.
+3. **800 man-hours**. Two hundred workers at four hours are underemployed. The extra hundred are disguised unemployment, because output does not fall when they leave.
+4. Replacement TFR is **2.1**. The window he gave is about **2052–2055**. Make in India is the job absorber. **₹1 crore** makes **153** textile jobs and **27** automotive jobs. Coal is still **more than 70 per cent** of electricity.
+5. Upstream is backward (inputs and credit). Downstream is forward (market, storage, value addition). Seed replacement rate is the share of area on certified seed. His arhar sketch is **30 per cent**, not a national figure.
+6. GM here means a **foreign** gene. Genome editing is not that. Bt cotton, permitted **2002**, went from **136** to a peak of **398 lakh bales** in **2013–14**, and is now about **290**. More than **95 per cent** of cotton area is Bt.
+7. HT cotton is illegal, about **15–20 per cent** of **120 lakh hectares**, saving about **₹55,000** a hectare in labour. The open objections are health, biodiversity, lost efficacy (pink bollworm, Bollgard I then II, III not allowed), and monopoly.
+
+---
+
 ## UPSC Cues
 
 - **~60% holdings rainfed**; **GSA ≈ 1.5 × NSA (~142 million ha)** even though temperature allows 2–3 crops — irrigation is the missing season.
@@ -310,6 +499,22 @@ Examples (clip, not a new map to mug): SHGs + commercial credit, **Maharashtra**
 | **SMS** | Straw Management System (on the 30 Aug note: Super SMS) |
 | **IFAD** | International Fund for Agricultural Development (UN; 16 Sep Hindu patch) |
 | **NABARD** | National Bank for Agriculture and Rural Development |
+| **ILO** | International Labour Organization |
+| **TFR** | total fertility rate |
+| **ICAR** | Indian Council of Agricultural Research |
+| **IARI** | Indian Agricultural Research Institute |
+| **FSSAI** | Food Safety and Standards Authority of India |
+| **GM / GE** | genetically modified (transgenic) / genome edited |
+| **Bt** | *Bacillus thuringiensis* |
+| **HT** | herbicide-tolerant |
+| **SRR** | seed replacement rate |
+| **PPVFR** | Protection of Plant Varieties and Farmers’ Rights |
+| **DMH-11** | Dhara Mustard Hybrid 11 |
+| **VB-G RAM G** | Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin) |
+
+---
+
+<!-- 2026-09-23 class, ingested 2026-09-25: agriculture Lecture 4 — US mechanisation as compulsion, demographic dividend, disguised unemployment, linkages, seeds, Bt and HT cotton. Fertilizer parked. Cluster GEO-16. First-pass 29 Sep Q2. -->
 
 ---
 
