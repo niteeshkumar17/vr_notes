@@ -1,9 +1,9 @@
 # 03 — Climatology: Atmosphere and Troposphere
 
-> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)** + **13 September 2026 (Lecture 10)** + **16 September 2026 (Lecture 11)**  
-> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**; Lecture 10 added **2026-09-13**; Lecture 11 added **2026-09-16**  
-> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**; **4 pages on 13/9**; **4 pages on 16/9**)  
-> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**; **William Ferrel 1856 three-cell model, pressure belts, planetary winds, primary / secondary / tertiary circulation (L10)**; **cells drawn, thermally direct/indirect, Walker 1920s, pressure cells, ITCZ / thermal equator (L11)**
+> **Dates of Lecture:** 25 August 2026 (Lecture 6) + **29 August 2026 (Lecture 7)** + **31 August 2026 (Lecture 8)** + **7 September 2026 (Lecture 9)** + **13 September 2026 (Lecture 10)** + **16 September 2026 (Lecture 11)** + **19 September 2026 (Lecture 12)**  
+> **Date Added:** 2026-08-25; Lecture 7 added **2026-08-29**; Lecture 8 added **2026-08-31**; Lecture 9 added **2026-09-07**; Lecture 10 added **2026-09-13**; Lecture 11 added **2026-09-16**; Lecture 12 added **2026-09-25**  
+> **Source:** Vajiram & Ravi class lecture + audio transcript + handwritten notebook pages (5 pages on 25/8; 6 pages on 29/8; 3 pages on 31/8; **4 pages on 7/9**; **4 pages on 13/9**; **4 pages on 16/9**; **6 pages on 19/9**)  
+> **Topics Covered:** Atmosphere basics, heat transfer, zonation, troposphere, albedo, adiabatic change (L6); **ELR / NLR, temperature inversion, tropopause height & paradox, weather-sphere lid, isothermal zone / aviation, Earth's rotation & speed (L7)**; **three forces on near-surface air — Pressure Gradient Force (PGF), Coriolis, friction (L8)**; **convergence / divergence, persistent cyclone–anticyclone cells, correlation vs causation, Global Atmospheric Pressure Distribution (GAPD), Hadley 1735 one-cell model (L9)**; **William Ferrel 1856 three-cell model, pressure belts, planetary winds, primary / secondary / tertiary circulation (L10)**; **cells drawn, thermally direct/indirect, Walker 1920s, pressure cells, ITCZ / thermal equator (L11)**; **doldrums, Horse Latitudes, trades and the hot deserts, westerlies, polar cell, Mediterranean climate, biomes (L12)**
 
 ### Lecture 6 — 25 August 2026
 
@@ -2032,7 +2032,7 @@ Two rough sketches (not real values): (A) **belt** as a line; (B) **cells** as l
 
 **Prelims habit (margin):** never reject a **generalisation** because of **one or two exceptions**. Science and life run on generalisations. **If the question is about the exception**, the exception **is** the answer (India’s >20° monsoon shift; flattening of the Earth when the stem is about a degree of latitude being longer at the poles). Average students pass; over-read students fail this trap.
 
-**Parked next class:** **doldrums** and **Horse Latitudes** — same ITCZ discussion; two or three lines of notes delayed so those two names can sit on it.
+**Parked, now taught:** doldrums and Horse Latitudes are **Lecture 12 — 19 September 2026** (cluster **GEO-15**). Do not restudy the ITCZ definition above as a new topic.
 
 ---
 
@@ -2047,7 +2047,7 @@ Two rough sketches (not real values): (A) **belt** as a line; (B) **cells** as l
 7. **Walker 1920s:** major TAC still meridional; **some** regions have **E–W** pressure differences. **E–W circulations = Walker.** SO / El Niño / IOD / MJO sit here — chapters later.
 8. Sun moves → heat / pressure / winds shift. **Belts ~5–10°**; **cells in general 2–20°** (India monsoon can exceed 20°). **NH** more shift. **Tropics** max **pressure** shift; **poles** least; **middle latitudes** max **weather** impact.
 9. **ITCZ** = Intertropical Convergence Zone = **thermal / meteorological equator**. Earth has **three** conceptual equators (geographical, thermal, magnetic).
-10. Do **not** reject a generalisation for one exception — unless the **question is the exception**. **Doldrums / Horse Latitudes = next class.**
+10. Do **not** reject a generalisation for one exception — unless the **question is the exception**. **Doldrums / Horse Latitudes = Lecture 12.**
 
 ---
 
@@ -2064,3 +2064,238 @@ Two rough sketches (not real values): (A) **belt** as a line; (B) **cells** as l
 | **ELPB / STHPB / TLPB / PHPB** | Equatorial low / subtropical high / temperate low / polar high pressure belts |
 | **NH / SH** | Northern Hemisphere / Southern Hemisphere |
 | **PGF** | Pressure Gradient Force |
+
+---
+
+### Lecture 12 — 19 September 2026
+
+> Notebook dated **19/9/26**. Twelfth climatology class. Opens on the ITCZ lines Lecture 11 parked, then the two sailor-names, then the three planetary winds in nature, then two ecology overlaps (Mediterranean climate, biomes). Ocean currents are the **next chapter**. Cluster **GEO-15**.
+>
+> **Already on Lectures 10–11 — do not restudy:** Ferrel’s three cells; trades / westerlies / polar easterlies as names; ITCZ = thermal / meteorological equator; belts shift in general **2–20°**; pressure cell = a large area of more or less uniform pressure; India’s south-west monsoon is about **three-fourths** of annual rainfall. New facts only below.
+
+**How to read this sitting:** **ITCZ** = Intertropical Convergence Zone. **PGF** = Pressure Gradient Force. **STHP** = subtropical high pressure.
+
+---
+
+## 55. ITCZ, written out (GEO-15-01)
+
+Four lines he had them write. The first two repeat Lecture 11. The new lock is the **calm**.
+
+1. Zone of **convergence of the trade winds**. Also the **thermal equator** / **meteorological equator**.
+2. An **elongated narrow band of low pressure** that nearly **girdles** the Earth.
+3. Located by **bands of clouds**, north or south of the geographical equator.
+4. It is a zone of **(i) low pressure (ii) hot, rising air (iii) calm conditions / weak winds**.
+
+**ITCZ is not the zone of the trade winds.** The trades are the arrows. The ITCZ is the black patch where those arrows meet. A wind is called a trade wind because it is **good in speed and consistent in direction**. Sailors were comfortable in the trade-wind zone. The trouble started in the patch.
+
+Why the winds there are weak: a pressure cell is a large area of **more or less uniform** pressure. Across it the pressure changes only gradually (his picture: L1, L2, L3). The **rate of change** is small, so the **PGF is weak**, so the wind is weak. The **vertical** motion (air rising) is the main motion. The **horizontal** component is weak.
+
+The cells are not a fixed highway. They are **emerging** weather. Ancient sailors had no forecast beyond “tonight will be dark, and the Sun will rise.”
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" role="img" aria-label="Doldrums and Horse Latitudes" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="200" rx="12" fill="#f8fafc"/>
+  <text x="380" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#0f172a">Same sailor-problem, two cells</text>
+  <rect x="20" y="44" width="350" height="138" rx="10" fill="#fee2e2" stroke="#dc2626"/>
+  <text x="195" y="70" text-anchor="middle" font-size="14" font-weight="700" fill="#991b1b">Doldrums</text>
+  <text x="195" y="94" text-anchor="middle" font-size="13" fill="#7f1d1d">Ocean ITCZ · low-pressure cell</text>
+  <text x="195" y="114" text-anchor="middle" font-size="13" fill="#7f1d1d">Weak PGF · air rising · rain</text>
+  <text x="195" y="134" text-anchor="middle" font-size="12" fill="#991b1b">Heat and humidity · a few days</text>
+  <text x="195" y="158" text-anchor="middle" font-size="12" fill="#7f1d1d">Cyclonic · harder for nature to hold</text>
+  <rect x="390" y="44" width="350" height="138" rx="10" fill="#e0e7ff" stroke="#4f46e5"/>
+  <text x="565" y="70" text-anchor="middle" font-size="14" font-weight="700" fill="#312e81">Horse Latitudes</text>
+  <text x="565" y="94" text-anchor="middle" font-size="13" fill="#3730a3">~30° N and S · high-pressure cell</text>
+  <text x="565" y="114" text-anchor="middle" font-size="13" fill="#3730a3">Weak PGF · air sinking · no rain</text>
+  <text x="565" y="134" text-anchor="middle" font-size="12" fill="#312e81">Horses thrown or eaten · longer stuck</text>
+  <text x="565" y="158" text-anchor="middle" font-size="12" fill="#3730a3">Anticyclonic · easier to maintain</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Both names are ancient sailors’ words for a becalmed ship. Doldrums = the calm of an ocean ITCZ. Horse Latitudes = the calm of the subtropical high, about 30° north and south.</em></p>
+
+---
+
+## 56. Doldrums (GEO-15-02)
+
+**Doldrums** in English = a **confused or depressed** state of mind: you cannot decide what to do next.
+
+In the **world ocean**, the **calm area of the ITCZ** is called the doldrums, because sailors in the old days used to be **becalmed** there. ITCZ on land is still ITCZ. Sailors only named the **ocean** patches.
+
+Why the mood: weak winds, no engine, stuck near the equator with the Sun overhead. Two tortures — **heat** and **high humidity**. Nothing was in their control.
+
+It was uncomfortable. It was **not** usually a matter of life and death. That belt **rains almost every day**, so there was rainwater to drink. A low-pressure (cyclonic) condition is **harder for nature to keep**. His later-course comparison: a tropical cyclone lasts on average about **one week**; an anticyclonic system can last **two to three weeks**. Near the equator the sailors expected the torture to be a matter of days.
+
+---
+
+## 57. Horse Latitudes (GEO-15-03)
+
+The other sailor-name, for a **high-pressure** cell. Ferrel’s two highs are the subtropical high and the polar high. There was no sea trade in the polar high, then or now. So the name belongs to the **subtropical high**, the zones about **30° north and 30° south**.
+
+Same mechanism: H1, H2, H3 across a large area, pressure almost uniform, **PGF weak**, winds weak. Ships were becalmed.
+
+The second half of the story is the cargo. Traders knew the distance, estimated the load (commodities, crew, and **horses** — good horses were a trade item), estimated speed from past voyages, estimated the days, and carried a limited stock of food and **drinking water**. Ocean water is salt. If the calm lasted, the voyage ran long. Food could come from the sea. Drinking water could not. When it became a question of life, the only variable they controlled was the **load**. They threw horses overboard, **and/or ate them**, so a lighter ship could move on a weaker wind. That is why ~30° N and S were called the **Horse Latitudes**.
+
+In this region the air is **comparatively dry** and the winds are **calm and light**. Air is **sinking** (descending), so it warms and does **not** make cloud. No hope of rain. The circulation is **divergent** — an **anticyclonic** condition — and high pressure is **more persistent**, so a ship could be stuck for longer.
+
+---
+
+## 58. Trade winds and the hot deserts (GEO-15-04)
+
+Though the trades are the **most consistent** of the planetary winds, they **do vary**, and they are **generally easterly**.
+
+They blow from the **subtropics toward the lower latitudes**, so they have a great capacity to **hold moisture**. Crossing the oceans they **gather more**, and they bring **heavy rain to the east coasts** of continents. On the **west coasts** they are **offshore** (they are leaving the shore). Those regions suffer **great aridity** and form hot deserts. The spoken rule is a little wider than “west coast only”: in tropical continents the **eastern** sides are generally humid, and the **centre and west** are the desert areas. Today’s one reason for that is the **direction of the trades**. Desert formation has many reasons, the way poverty does.
+
+Four examples he named. Trade-wind direction is **one** reason. Other reasons come in other classes. **Atacama** in particular has several reasons to be dry; today only the wind direction was taught.
+
+| | Where | Class line |
+|:---|:---|:---|
+| **Sahara** | North Africa | Largest **tropical** desert. One of the **three best** trade-wind examples |
+| **Atacama** | West side, South America | One of the **driest**. Several reasons to be dry; trade winds are **one** |
+| **Great Australian Deserts** | Central and western Australia | Many named deserts; he grouped them. Third of the three best examples |
+| **Kalahari** | Central parts of Africa, Southern Hemisphere | Written with the four, and kept **separate**: it is a **semi-desert** (more moisture than the others), though it is usually spoken of as a desert |
+
+**Thar is not this list.** India is in the lower latitudes and the Thar is in the west, but India does not get its rain the way a typical tropical east coast does. About **three-fourths** of India’s annual rain is the **south-west monsoon**. The Thar is explained by **(1) features of that monsoon** and **(2) the geography of Rajasthan**, not by the trades.
+
+What he previewed, for the monsoon class: moist air is not enough. The air must have a **reason to rise**, then cool, then cloud. The **Aravallis** run from **Palanpur (Gujarat)** to **Delhi**, about **800 km**, and they do **not** stand as a barrier to the **Arabian Sea** branch. The **Western Ghats** do force air up. The **Bay of Bengal** branch meets the Aravallis only after it has already shed moisture, and then only the **eastern** flank gets much. The western part also has upper-tropospheric conditions in which air does not rise properly — that mechanism waits for the monsoon lecture. The Thar is **not a desert nature simply handed over**: artefacts show a greener past; **overgrazing** and **deforestation** helped make it what it is.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-label="Trade winds wet the east coast" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="720" height="150" rx="12" fill="#f8fafc"/>
+  <text x="360" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">Trades are easterlies — moisture arrives from the east</text>
+  <rect x="250" y="48" width="220" height="70" rx="8" fill="#e2e8f0" stroke="#64748b"/>
+  <text x="360" y="88" text-anchor="middle" font-size="13" fill="#334155">continent</text>
+  <text x="130" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#b45309">West · offshore · dry</text>
+  <text x="590" y="78" text-anchor="middle" font-size="13" font-weight="700" fill="#0369a1">East · onshore · rain</text>
+  <text x="360" y="136" text-anchor="middle" font-size="12" fill="#475569">Do not copy this onto the middle latitudes. Westerlies wet the west coast there.</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> In the lower latitudes the trades enter from the east. East coasts get the rain. West coasts are left dry. The middle-latitude rule is the reverse, and it is not a mirror-image desert on the east.</em></p>
+
+---
+
+## 59. Westerlies (GEO-15-05)
+
+On the static Ferrel diagram they are south-westerlies (north) and north-westerlies (south), between about **30° and 60°**. In nature they are **much less constant and persistent than the trades**, because seasonal variation of insolation rises with latitude.
+
+They are **more variable in the Northern Hemisphere**, because of the **complex mix of land and water**. His generalisation: atmospheric conditions are more variable in the north for that reason. About **80%** of the **Southern Hemisphere** is water, so the same winds vary less there.
+
+They carry **warm tropical air and ocean water** to the **western coasts of temperate lands**, and they bring **much precipitation** to those west coasts — **especially between 40° S and 60° S**, because of the huge oceanic expanse.
+
+In the Southern Hemisphere they blow with **much greater force**, almost **throughout the year**, for two reasons, both from the ocean surface: **(1)** strong and continuous pressure gradients **(2)** weaker frictional force.
+
+Sailors’ names, which he spelled out: **Roaring Forties**, **Furious Fifties**, and **Shrieking** or **Screaming Sixties**. In that hemisphere the weather is **cloudy** and the seas are **rough** (difficult for sailors).
+
+**Do not invent an eastern desert.** Westerlies wet the west. Fronts and temperate cyclones in this belt give rain more or less through the region. A rule that works in the tropics does not get pasted onto the middle latitudes.
+
+---
+
+## 60. Polar easterlies — the weak cell (GEO-15-06)
+
+Between the polar high and the temperate low. On the first diagram they look north-east and south-east. In nature they are **typically easterlies**, because the **Coriolis effect is strong** at higher latitudes and **dominates** the Pressure Gradient Force there. That easterly lock is already on Lecture 10. This sitting adds the weakness.
+
+1. **Typically cold and dry.**
+2. **Highly variable**, and **more so in the Northern Hemisphere** (land and water again).
+3. **Polar air circulation is the weakest** of the three cells.
+
+Two reasons. **Lesser mass of air**: as latitude rises the Earth gets smaller, and gravity holds the atmosphere, so the tropical Earth holds more air. **Lesser insolation**: the Sun’s energy reaching the poles is the least. The sheet wrote “insulation.” He meant **insolation**. Neither the mass nor the energy to drive it is good.
+
+---
+
+## 61. Mediterranean type climate (GEO-15-07)
+
+An ecology topic. He took only the link to **shifting pressure belts**. Details stay with the ecology teacher.
+
+**Five representative areas:**
+
+1. Around the **Mediterranean Sea**
+2. **California** (United States)
+3. **Central Chile**
+4. **Cape Provinces**, South Africa
+5. **Southern and south-western Australia**
+
+All five: **lower middle latitudes**, **west-facing coasts**. They are scattered, not one continuous belt, which is why the climate is a favourite exam topic. Same climate, so later the same vegetation: the **Mediterranean biome**. He called it the **most fragmented** biome.
+
+**Respective** summer and winter — seasons reverse across the equator. “Hot / cold / warm / cool” are meaningful **only in a regional context**. What is cold for an Indian can be cool for a European. Do not use those four words as a universal scale.
+
+**Summers** are so hot and dry **for those latitudes** that, if they lasted all year, these places would be deserts. They are not. They are **orchards**: they produce and export **more than 75%** of the world’s **citrus**, and the best wines; among the most densely populated and intensely cultivated regions. That is because the **winters** are **cool and moist** for those latitudes.
+
+The transition exists **primarily** because pressure belts shift with the Sun. Best example, when a question asks for the impact of that shift on weather.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 168" role="img" aria-label="Mediterranean summer and winter winds" style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="168" rx="12" fill="#f8fafc"/>
+  <text x="380" y="26" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">West coast, lower middle latitudes — the belts move</text>
+  <rect x="20" y="44" width="350" height="104" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="195" y="70" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Respective summer</text>
+  <text x="195" y="94" text-anchor="middle" font-size="12" fill="#7c2d12">Belts shift poleward with the Sun</text>
+  <text x="195" y="114" text-anchor="middle" font-size="12" fill="#7c2d12">Trades (easterlies) cover the west coast</text>
+  <text x="195" y="132" text-anchor="middle" font-size="12" fill="#9a3412">No rain from the east · hot and dry</text>
+  <rect x="390" y="44" width="350" height="104" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="565" y="70" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Respective winter</text>
+  <text x="565" y="94" text-anchor="middle" font-size="12" fill="#1e40af">Belts shift back toward the equator</text>
+  <text x="565" y="114" text-anchor="middle" font-size="12" fill="#1e40af">Moist westerlies cover the same coast</text>
+  <text x="565" y="132" text-anchor="middle" font-size="12" fill="#1e3a8a">Onshore · cool and moist</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> California in a northern summer stands in for all five. The Sun toward the Tropic of Cancer pulls the trades over the west coast. In the northern winter the Sun toward the Tropic of Capricorn lets the westerlies slide back over it. Do the same, reversed, for southern and south-western Australia.</em></p>
+
+Hot in summer also because the Sun is closer to them. Dry because the trades, being easterlies, cannot bring ocean moisture onto a **west** coast. Cool in winter because the Sun is on the other side of the equator. Moist because the westerlies are then onshore.
+
+---
+
+## 62. Biomes — altitude mimics latitude (GEO-15-08)
+
+Also an ecology topic. Prelims asks it often; some years twice. He took ten minutes so that **Humboldt** is already a person before ocean currents.
+
+**Biosphere** = the largest ecosystem: the overlap of atmosphere, hydrosphere and lithosphere, with a flow of matter and energy. Split it into **terrestrial** (land) and **aquatic** (water). Aquatic splits into **fresh** and **saline**.
+
+**Biome** refers only to the **terrestrial** side. It is the **largest identifiable subdivision** of the terrestrial ecosystem: the largest area of land with its own identity in the **assemblage and association** of plants and animals (they function together; it is not a pile of species).
+
+Books open with plants **and** animals, then talk almost only about **vegetation**. Vegetation is the clearer index of climate: adaptations show more, and a tree does not walk out of the frame. Practically, biomes are studied as **vegetation zones** — forests at one extreme, deserts at the other, grasslands between. Heat and moisture are the two big inputs. He did not finish a full factor-list.
+
+Order he walked, equator toward the poles:
+
+| Belt | Biomes he named |
+|:---|:---|
+| Tropics | **Tropical rainforest**, **tropical deciduous**, **tropical grassland**. **Savanna** (Africa) is now the ordinary word for that grassland elsewhere too. |
+| Lower middle latitudes | **Mediterranean** — the **most fragmented** |
+| Middle latitudes | **Temperate deciduous**; **temperate grassland** (**prairies**, **steppes**) |
+| Higher middle latitudes (Canada, northern Europe, Russia) | **Temperate coniferous** — a surprise forest on little heat and little moisture. The **simplest** forest biome: one large area, one species, **softwood**, useful for paper. Other forest biomes mix species. |
+| Higher latitudes, Northern Hemisphere | **Tundra** — the **most fragile**. Summer only about **4 months**, and the highest summer temperature about **10°C**. Little diversity, so nature is less resilient. After that, permanent snow and ice. |
+
+**Altitude mimics latitude.** Life changes up a mountain almost the way it changes from equator to pole, because **heat and moisture both decline** on both journeys. There is snow and ice near the equator **if the peak is high enough**. Two he had them write, feet almost on the equator, peaks in ice: **Mount Kenya** (East Africa) and **Mount Chimborazo** (Ecuador).
+
+**Humboldt** showed this with collections of plants and animals in the **Andes**. He was the first to prove the rule to the world. The west-coast current of South America, the **Peru Current**, is also called the **Humboldt Current** — that is why the name comes up before the ocean-current chapter. Do not study the current here.
+
+India sits in low latitudes and still has tropical, subtropical, temperate and **subpolar** climate, and **not** polar climate, because of the **Himalayas**. A Himalayan national park: a rough altitude band is enough to guess the life.
+
+**Next chapter:** ocean currents.
+
+### Lecture 12 — locks
+
+1. ITCZ = convergence of the trades, **not** the trade-wind zone itself. Elongated low-pressure band. Calm, because the cell’s **PGF is weak**. Vertical motion dominates.
+2. **Doldrums** = ocean ITCZ. Confused state. Rain almost daily. Not usually life or death.
+3. **Horse Latitudes** ≈ **30° N and S**. Subtropical high. Horses thrown or eaten. Sinking air, no rain, more persistent.
+4. Trades: rain on **east** coasts; **centre and west** are the hot deserts — Sahara, Atacama, Great Australian Deserts. **Kalahari** is written with them and kept apart because it is a **semi-desert**. **Thar is not a trade-wind desert.**
+5. Westerlies: less constant than the trades; more variable in the **north**; **Roaring Forties, Furious Fifties, Shrieking / Screaming Sixties**. Do not put a desert on the eastern middle-latitude coast.
+6. Polar cell is the **weakest**: less air mass, less insolation. Cold, dry, highly variable, typically easterly.
+7. Mediterranean climate exists **because the belts shift**. Five west-coast regions. Summer = trades, dry. Winter = westerlies, moist. **More than 75%** of world citrus.
+8. Biome = largest identifiable piece of the **land** ecosystem. **Altitude mimics latitude.** Kenya and Chimborazo. Tundra is the fragile one (about **4 months**, about **10°C**).
+
+---
+
+## Abbreviations used in Lecture 12
+
+| Shortcut | Full form |
+|:---|:---|
+| **ITCZ** | Intertropical Convergence Zone |
+| **PGF** | Pressure Gradient Force |
+| **STHP** | Subtropical high pressure |
+| **NH / SH** | Northern Hemisphere / Southern Hemisphere |
+
+---
+
+<!-- 2026-09-19 class, ingested 2026-09-25: Lecture 12 — doldrums (ocean ITCZ), Horse Latitudes ~30° N/S, trades and four hot deserts, Thar excluded, westerlies Roaring/Furious/Screaming, polar cell weakest, Mediterranean five coasts and the belt-shift, biomes and altitude mimics latitude (Kenya, Chimborazo, Humboldt). Cluster GEO-15. Ocean currents next. -->
+
