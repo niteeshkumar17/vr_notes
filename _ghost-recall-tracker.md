@@ -23,11 +23,11 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 
 ## 📊 Performance & Learning Analytics Dashboard
 *   **Today's Date:** 2026-09-25
-*   **Active Micro-Topics:** 740
+*   **Active Micro-Topics:** 746
 *   **Overall Database Mastery:** 78.6% 📈
 *   **Today's Recall Completed:** Ghost Recall **17 Sep** logged (**6/8**). Evening Prelims **14 Sep** already in (`13/20 · 21.38/40`).
 *   **Active Learning Gaps Detected:** `MST-095` **repeat 2** — Sabka sheet *IT* = **Indirect Tax** (not Income Tax); key **1+3+4**. `MST-099` Hadley+Polar **direct** / Ferrel **indirect** (powered by the other two). `MST-100` Pashupati named by **John Marshall**. `MST-101` UPI MDR only **above ₹2,000**. `MST-102` Arihant commissioned **2016**. Leftover: NAA **→ CCI**; belts **best = combined**; DST **2%** e-comm; Wheeler/Lal/Mahadevan one-liners; Art **341**; Poona Pact **joint**; `MST-019` Zanskar.
-*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. **GEO-15** (19 Sep climatology L12) first-pass **26 Sep Q2**. **ECO-11** (20 Sep Shobhit Uniyal Sir, foreign exchange) first-pass **27 Sep Q1**. All three arrived **25 Sep** after the morning hour. Do **not** backfill onto **24 Sep** or steal the **26 Sep** pair. Effect of expansionary policy on the rupee is the next forex class.
+*   **New Topics Ingested Today:** **ECO-10** (19 Sep Money & Banking L1) first-pass **26 Sep Q1**. **GEO-15** (19 Sep climatology L12) first-pass **26 Sep Q2**. **ECO-11** (20 Sep Shobhit Uniyal Sir, foreign exchange) first-pass **27 Sep Q1**. **ECO-12** (20 Sep Shubham Raturi Sir, inflation) first-pass **27 Sep Q2**. All four arrived **25 Sep** after the morning hour. Do **not** backfill onto **24 Sep** or steal the **26 Sep** pair.
 *   **Weekly Backlog:** ~370 rows with Next Due ≤ today *(scheduler debt — 8/day, not a 16-question catch-up)*
 
 ---
@@ -893,6 +893,16 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
 | ECO-11-06 | RBI: print rupees and buy dollars, or sell reserve dollars; printing is not automatically inflation | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Forex reserve is the outcome` $\leftrightarrow$ `Last 1.5 years: sold dollars` $\leftrightarrow$ `Largely digital` |
 | ECO-11-07 | Expansionary policy revives demand; CRR/SLR down, buy G-Secs, cut repo; spend more, tax less | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Willingness + ability` $\leftrightarrow$ `Repo cut is an indication` $\leftrightarrow$ `GST cut before last Diwali` $\leftrightarrow$ `Effect on the rupee = next class` |
 
+### Economy (Inflation L1 — Shubham Raturi Sir, 20 Sep 2026)
+| Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| ECO-12-01 | Inflation = general price rise; basket not one item and not all items; RBI principal; MPC every 2 months, 6 members | 2 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Free ration stays out` $\leftrightarrow$ `Monthly number` $\leftrightarrow$ `4% ± 2 stays on the FRBM note` |
+| ECO-12-02 | HCES by NSO every 5 years; MPCE + composition; 2017 not accepted; base 2023–24 | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `₹1000 split is an illustration` $\leftrightarrow$ `Radio/rope out; data, OTT, PNG, CNG in` $\leftrightarrow$ `Surjit Bhalla / 2017–18` $\leftrightarrow$ `Old print ~0.25–0.75; new ~4–4.9` |
+| ECO-12-03 | Higher inflation = lower purchasing power; too much money chasing too few goods | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `10 goods ₹100 → ₹10` $\leftrightarrow$ `₹200 or 5 goods → ₹20` $\leftrightarrow$ `RBI operational autonomy` $\leftrightarrow$ `Germany, Argentina, Venezuela` |
+| ECO-12-04 | Demand-pull: AD = C+I+G+NX; spendable = income − tax + transfers; population; money; black money | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Can, not must` $\leftrightarrow$ `Cash moves before factories` $\leftrightarrow$ `8th Pay Commission is a hypothetical` |
+| ECO-12-05 | Cost-push: price = cost + margin + tax; pen ₹100 + ₹20 + ₹6 = ₹126 | 2 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Wages vs land, capital, materials` $\leftrightarrow$ `EIA and SIA are a producer’s cost` $\leftrightarrow$ `Not automatic` |
+| ECO-12-06 | Structural = long-run supply; food-driven India; pulses, TOP, edible oil ~56%; crude ~90%; chips ~90% | 3 | ★★★★★ | Day 1 | 2026-09-27 | 0% | New | 50% | 50% | 0 | 0 | - | - | Pending | `Technology mission since Rajiv Gandhi` $\leftrightarrow$ `Palm oil MY+ID; sunflower RU+UA` $\leftrightarrow$ `Lithium-ion from China` $\leftrightarrow$ `Depreciation = next class` |
+
 ### History (Ancient India — Stone Age)
 | Topic ID | Micro-Topic Name | Diff (1-3) | UPSC Rating | Stage | Next Due | Accuracy | Conf Trend | Retr Str % | Mem Stab % | Rev Count | Err Count | Last Error | Last Perfect | Velocity | Knowledge Graph Links |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
@@ -1052,7 +1062,7 @@ Do not rebuild a 15–16 question paper from every overdue `Next Due` row. Use t
   2. **23 Sep leftover:** **CA-260921** first-pass (Tulu / court deposits). **CA-260920** was the **21 Sep** leftover — do not restack it onto Q1.
   2a. **24 Sep Q1:** **ST-09** (22 Sep space Lecture 11). **Q2:** **MOD-B8** (22 Sep Modern India Lecture 8). **Leftover:** **CA-260922**. Do **not** steal Q1 for CA.
   2b. **26 Sep Q1:** **ECO-10** (19 Sep Money & Banking L1). **Q2:** **GEO-15** (19 Sep climatology L12). Do **not** put either cluster on 24 Sep or on a 25 Sep pair.
-  2c. **27 Sep Q1:** **ECO-11** (20 Sep foreign exchange, Shobhit Uniyal Sir). **Q2** stays open. Do **not** steal 26 Sep.
+  2c. **27 Sep Q1:** **ECO-11** (20 Sep foreign exchange, Shobhit Uniyal Sir). **Q2:** **ECO-12** (20 Sep inflation, Shubham Raturi Sir). Do **not** steal 26 Sep.
   3. **20 Sep leftover** was **CA-260916 +3**. **19 Sep leftover** was **CA-260918**.
   4. `MST-096`/`097`/`098` 15-day **2 Oct**. `MST-094`/`092` 15-day **1 Oct**.
 
