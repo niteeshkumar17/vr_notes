@@ -1,8 +1,8 @@
 # 02 — Geomorphology (World Physical Geography — Chapter 1)
 
-> **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3) + 11 September 2026 (A4 — Geomagnetism) + 25 September 2026 (A5 — endogenic classification)
-> **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**; Lecture A4 added **2026-09-11**; Lecture A5 added **2026-09-25**
-> **Teacher:** **Rizwan Sir** (Geomorphology lectures A1–A5)
+> **Date of Lecture:** 8 August 2026 (A1) + 9 August 2026 (A2) + 6 September 2026 (A3) + 11 September 2026 (A4 — Geomagnetism) + 25 September 2026 (A5 — endogenic classification) + 26 September 2026 (A6 — faults, folds, volcanism, rock cycle)
+> **Date Added:** 2026-08-08; Lecture A3 added **2026-09-06**; Lecture A4 added **2026-09-11**; Lecture A5 added **2026-09-25**; Lecture A6 added **2026-09-26**
+> **Teacher:** **Rizwan Sir** (Geomorphology lectures A1–A6)
 > **Source:** Vajiram & Ravi — **Rizwan Sir** | class notes (Lecture A1 + A2 + A3 + A4 + A5) + Audio Transcripts
 > **Prelims Weightage:** 2–3 Questions | **Mains Weightage:** GS-1, ~2 Questions (25–30 marks)  
 > **Yellow Book Concepts Ch 3** (full): `Yellow_Books/Concepts_of_Geography/03_Interior_of_the_Earth.md`. Class stays master for models and depths. Wave types + shadow zones = extras below (A3).
@@ -1422,7 +1422,7 @@ A fault is classified by **how the two crustal blocks beside the crack move**. H
 | 2 | **Reverse** fault | **Overthrust** (the page says thrust fault) |
 | 3 | **Strike-slip** fault | **Transform** fault |
 
-He did not draw which block rises, which falls, or which slides past. Do not fill that from a textbook until the next class.
+He did not draw which block rises, which falls, or which slides past in this sitting. The diagrams are Lecture A6.
 
 ### Lecture A5 — locks
 
@@ -1432,7 +1432,257 @@ He did not draw which block rises, which falls, or which slides past. Do not fil
 4. Dead Sea, Caspian and Black Sea are downward-force depressions.  
 5. A fault stores the release as an earthquake. Gujarat–Madhya Pradesh fault: collision, then **northward** drift, **zone 4**, Bhuj **2001**. Himalaya is zone **5**. Delhi is zone **4**. Deccan interior is zone **2**.  
 6. Fault → rift → sea → fragmentation. Victoria is **not** a rift lake. Gregory toward Ethiopia; Albertine toward the Congo. Red Sea is divergent. Somalian and Nubian are the future split, **20–30 million years** if the force holds.  
-7. Normal, reverse (overthrust) and strike-slip (transform) are names only.
+7. Normal, reverse (overthrust) and strike-slip (transform) were names only on 25 September. How the blocks move, and what the river does, is Lecture A6. No extra Day-1 on this row.
 
 ---
+
+<!-- 2026-09-26: Lecture A6 — fault mechanics, waterfalls, folds, Benioff and the opening of volcanism, rock cycle. Cluster GEO-18. First-pass 2 Oct Q2. -->
+
+### Lecture A6 — 26 September 2026 (Rizwan Sir)
+
+Second class of the day. He opened by restating Lecture A5: diastrophic displacement is epeirogenic (vertical, block mountains) or orogenetic (horizontal). Tension opens a fault, then a rift, then a sea. The Red Sea is that last step. This sitting draws the three faults, then the convergent half, then the start of volcanism and the rock cycle.
+
+**Cluster GEO-18.** First-pass **Friday 2 October, Q2**. Question 1 that morning is the polity sitting. Do **not** steal **27 September–1 October**, and do **not** take Haifa off the leftover slot.
+
+**Parked:** a fuller account of magma, the named volcanic landforms beyond extrusive and intrusive, and the earthquake chapter except the Benioff point below. He said the next session would finish magma and then move on. Global distribution of volcanoes he treated as already done with plate tectonics.
+
+### 35. Three faults, by how the blocks move (GEO-18-01)
+
+A fault is a crack. The type is decided by how the two crustal blocks move. The block that moves more is the **hanging wall**. The block that stays is the **footwall**. Hanging wall does **not** mean “the one that fell.” It means the unstable block, whether it drops or climbs.
+
+| Fault | Movement | Force on the crack |
+|:---|:---|:---|
+| **Normal** | One block moves **down** along the fault. In his first sketch, A stays (footwall) and B drops (hanging wall) | **Tension**, pulling **away** from the fault. Gravity, and the soft asthenosphere under the crust, let it slide down |
+| **Reverse**, also **overthrust** | One block **climbs over** the other. A is still the footwall; B is still the hanging wall, now going **up** | **Compression**, pushing **toward** the fault. A block squeezed from the side tends to ride up |
+| **Strike-slip**, also **transform** | The two blocks slide **parallel** to each other. No up, no down | Footwall and hanging wall are hard to name, because nothing has risen or fallen |
+
+**Formula he wanted.** Compression on a fault turns it into a **reverse** fault. Tension on a fault turns it into a **normal** fault.
+
+**Himalaya.** The interiors are **reverse** faults. The Indian plate is colliding with Eurasia, so one crustal block is sliding over the other. That is compression, not tension.
+
+Rain on a cracked mountain can send the broken side down the crack. He called that debris fall, a mountain flow, a landslide or an earth flow, depending on how much material moves. If it slides **down** under gravity, that crack is a **normal** fault. If a neighbouring block pushes the broken piece **up**, the same crack is read as a **reverse** fault.
+
+### 36. What the river does (GEO-18-02)
+
+| Fault | River |
+|:---|:---|
+| **Normal**, source on the **footwall** | The slope steepens. The river keeps its direction, drops from the footwall onto the dropped block, and **stays in contact** with the rock. Velocity is checked by friction. This is a **segmented** waterfall. **No plunge pool** |
+| **Reverse**, source on the **hanging wall** | The river drops **straight and vertical** and **loses contact** with the rock. Kinetic energy stays high. The hit digs a depression at the foot: a **plunge pool**. Plunge waterfalls are the mark of reverse faulting when the source is on the hanging wall |
+| **Strike-slip** | The slope does not change, so the fault itself does **not** make a waterfall. The river **shifts its channel**, and the **catchment** (the basin it collects from) changes. A waterfall from some other hill is a separate fact |
+
+The sheet’s “flange” is the audio’s slip for **plunge**. Lock plunge.
+
+**Second way a plunge waterfall is made**, the one he said the books also give. A **hard** layer on top, a **soft** layer under it. The river cuts the soft rock back, the hard lip stays, and the drop becomes vertical. Essential condition: the river must be on the **hard** rock, and the layer beneath must be **soft**. Soft on top of hard does **not** make a plunge. The river cuts the soft cap and then follows the hard rock, so it never falls clear.
+
+He added that many waterfalls **begin** segmented, or as a cascade or a horseshoe, and **become** a plunge only after the soft layer has been cut away. Do not treat cascade and horseshoe as a third classified pair. They were his list of starting shapes.
+
+If the hanging wall rises under a river that had been flowing onto it, the slope reverses and the drainage can turn back. That is a reversal of drainage, not a second waterfall type.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" role="img" aria-label="Normal fault makes a segmented waterfall. Reverse fault makes a plunge waterfall and a plunge pool. Strike-slip shifts the channel." style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="200" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Fault type is the force · the river answers the slope</text>
+  <rect x="16" y="40" width="236" height="144" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="134" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Normal · tension</text>
+  <text x="134" y="88" text-anchor="middle" font-size="12" fill="#1e40af">Hanging wall drops</text>
+  <text x="134" y="110" text-anchor="middle" font-size="12" fill="#1e40af">Source on the footwall</text>
+  <text x="134" y="132" text-anchor="middle" font-size="12" fill="#1e40af">Segmented waterfall</text>
+  <text x="134" y="160" text-anchor="middle" font-size="11" fill="#1e40af">River stays on the rock</text>
+  <rect x="264" y="40" width="236" height="144" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="382" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Reverse · compression</text>
+  <text x="382" y="88" text-anchor="middle" font-size="12" fill="#7c2d12">Hanging wall climbs</text>
+  <text x="382" y="110" text-anchor="middle" font-size="12" fill="#7c2d12">Source on the hanging wall</text>
+  <text x="382" y="132" text-anchor="middle" font-size="12" fill="#7c2d12">Plunge · loses the rock</text>
+  <text x="382" y="160" text-anchor="middle" font-size="11" fill="#7c2d12">Plunge pool at the foot</text>
+  <rect x="512" y="40" width="232" height="144" rx="10" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="628" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#14532d">Strike-slip</text>
+  <text x="628" y="88" text-anchor="middle" font-size="12" fill="#166534">Blocks slide past</text>
+  <text x="628" y="110" text-anchor="middle" font-size="12" fill="#166534">Slope unchanged</text>
+  <text x="628" y="132" text-anchor="middle" font-size="12" fill="#166534">No waterfall from the fault</text>
+  <text x="628" y="160" text-anchor="middle" font-size="11" fill="#166534">Channel and catchment shift</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Hard rock over soft rock is a second road to a plunge waterfall. Himalayan interiors are reverse faults, because India is still pushing into Eurasia.</em></p>
+
+### 37. Folds — the convergent half (GEO-18-03)
+
+Orogenetic force **toward** a point is compression. Layers at that point **bend**. The bend is a **fold**. The process is **folding**. A fold is a relief feature made by bent rock. A small one is a local hill. A large one is a **fold mountain**. He named the **Rockies** and the **Himalaya** (the audio’s “Israels” and “Simalia” are not a second range to learn). The Andes and the Alps stay on Lecture A5’s list of the great chains.
+
+Two parts, the fold’s answer to horst and graben:
+
+| Part | What it is |
+|:---|:---|
+| **Anticline** | The raised crest |
+| **Syncline** | The down-bent valley between two crests |
+
+Geometry he used, and said a direct question on the drawing is unlikely: a horizontal **base**, the top as the **hinge** (also apex), an **axis** from the hinge down along the bend, making an angle with the base, and two **limbs** (L1 and L2) making angles with the axis.
+
+**Symmetrical:** the axis is at **90°** to the base, the two limb-angles are equal, and L1 equals L2. The axis cuts the fold in half. Only the **size** can change. There is no second type of symmetrical fold.
+
+**Asymmetrical:** the axis has left 90°, the limbs are unequal. The axis inclination is what sorts them.
+
+What decides the bend: **intensity of compression**, and the **nature of the rock**. Equal push from both sides, on the same rock, tends to a symmetrical fold.
+
+**Isoclinal folding** is a **system** of folds over a wide tract: the bends are **uniform**, and the axes are **parallel**. Every fold in that system can be symmetrical, or every fold can be asymmetrical, but they must be **the same as each other**. The essential condition is a **homogeneous** rock, not equal compression. Unequal compression on a homogeneous rock can still be isoclinal. Homogeneous rock over a whole region is rare, so isoclinal folding is rare.
+
+**Fan folding** is the practical opposite. The rock is heterogeneous and the push is unequal, so neighbouring bends do not match. Fan folds are the common case.
+
+### 38. Four asymmetrical folds (GEO-18-04)
+
+He walked the axis from upright toward flat. The degree-steps below are his classroom sketches of “more inclined,” not a surveyed scale. The sheet itself only writes that the axis has left 90°.
+
+| | Axis | Limbs | What the forces say |
+|:---|:---|:---|:---|
+| **Normal asymmetrical** | Has left 90°. He sketched about **80 or 70** | L1 still almost equals L2 | The two pushes are not equal, but you **cannot** yet say which side dominates. A weak rock can bend the same way |
+| **Overturned** | Further over. He sketched about **50 or 60** | L1 keeps its shape. **L2 bends inward**. L1 is not equal to L2 | Now **X is greater than Y**. The inward limb is the evidence |
+| **Recumbent** | Steeper still. He sketched **under 25** | **L1, L2 and the surface are parallel**, but a **gap** remains under the fold | **X is much greater than Y**. Intense compression from **one** side |
+| **Nappe** | **Horizontal**, parallel to the surface | **L2 is attached to the surface**. The recumbent gap is gone | The opposite push is almost nothing (**Y ≈ 0**). Needs **soft** rock, which he tied to **sedimentary** rock, and a very strong push from one side |
+
+**Himalaya, the folds** (a different sentence from “the interiors are reverse **faults**”). Eurasia stayed put. India collided. So the push from the Indian side dominates, the folds are **asymmetrical**, and the interiors carry **recumbent and nappe** folds. Nappes sit where the rock is sedimentary: the **Tethys** sequence, which he placed in the **Trans-Himalaya**.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 168" role="img" aria-label="Four asymmetrical folds. The axis leans from just off vertical, to overturned, to recumbent with a gap, to a nappe lying on the surface." style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="168" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Asymmetrical folds · the axis leans further each time</text>
+  <rect x="16" y="40" width="176" height="112" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="104" y="64" text-anchor="middle" font-size="12" font-weight="700" fill="#1e3a8a">Normal asymmetrical</text>
+  <text x="104" y="88" text-anchor="middle" font-size="11" fill="#1e40af">Axis has left 90°</text>
+  <text x="104" y="108" text-anchor="middle" font-size="11" fill="#1e40af">Limbs still nearly equal</text>
+  <text x="104" y="130" text-anchor="middle" font-size="11" fill="#1e40af">Which side wins is unclear</text>
+  <rect x="204" y="40" width="176" height="112" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="292" y="64" text-anchor="middle" font-size="12" font-weight="700" fill="#9a3412">Overturned</text>
+  <text x="292" y="88" text-anchor="middle" font-size="11" fill="#7c2d12">One limb bends inward</text>
+  <text x="292" y="108" text-anchor="middle" font-size="11" fill="#7c2d12">Limbs no longer equal</text>
+  <text x="292" y="130" text-anchor="middle" font-size="11" fill="#7c2d12">One side is stronger</text>
+  <rect x="392" y="40" width="176" height="112" rx="10" fill="#fef9c3" stroke="#ca8a04"/>
+  <text x="480" y="64" text-anchor="middle" font-size="12" font-weight="700" fill="#854d0e">Recumbent</text>
+  <text x="480" y="88" text-anchor="middle" font-size="11" fill="#713f12">Limbs parallel to the ground</text>
+  <text x="480" y="108" text-anchor="middle" font-size="11" fill="#713f12">A gap remains</text>
+  <text x="480" y="130" text-anchor="middle" font-size="11" fill="#713f12">Intense, from one side</text>
+  <rect x="580" y="40" width="164" height="112" rx="10" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="662" y="64" text-anchor="middle" font-size="12" font-weight="700" fill="#14532d">Nappe</text>
+  <text x="662" y="88" text-anchor="middle" font-size="11" fill="#166534">Axis flat on the surface</text>
+  <text x="662" y="108" text-anchor="middle" font-size="11" fill="#166534">Lower limb is attached</text>
+  <text x="662" y="130" text-anchor="middle" font-size="11" fill="#166534">Soft rock · one-sided push</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> Isoclinal means a whole belt of matching folds, and it needs homogeneous rock. Fan folding is the ordinary, mismatched belt.</em></p>
+
+### 39. Volcanism, opened (GEO-18-05)
+
+He split the word before the diagram.
+
+| Word | Lock |
+|:---|:---|
+| **Volcanism** | The **process** of forming magma and of moving it. **Diastrophic**. Making that melt takes a long time |
+| **Volcano** | The **structure on the surface**, together with the eruption. The **eruption** is **catastrophic** |
+| **Magma** | Molten material **inside** the earth. Solid, liquid and gas together |
+| **Lava** | Only the **liquid** that flows out of the vent |
+
+**Benioff zone.** Named for a geologist. It is the patch inside the lithosphere where solid rock is melting, and that melt is the **magma chamber**. It belongs to a **convergent** boundary, inside the **subduction** zone. A **divergent** boundary does not make one: the asthenosphere under a plate that is pulling apart is already a body of magma. The subducting plate starts to melt **on the way down**, before it has reached the asthenosphere. He put the asthenosphere at about **150–200 km**, and the early melting at about **20–40 km**. Those are his depth sketches for “before it arrives,” not a surveyed Benioff depth.
+
+A Benioff zone **weakens** the crust. The melt is a loss of strength, energy is released, and that release is an **earthquake**. Benioff zones are a **region of origin of earthquakes**. He flagged this as a question. The earthquake chapter itself is still the next sitting.
+
+**The structure he drew.** Magma chamber, then a **vent** (the pipe). The vent is **made by the magma moving**. It is not a hole that was already there. What solidifies **above** the surface is an **extrusive** landform (his drawing was a cone; he said the shape need not be a cone, and left the named forms for later). What solidifies **inside** the crust, still igneous, is **intrusive**. Igneous rock is classed the same way: extrusive or intrusive.
+
+**Type of eruption** is counted by vents that **actually reach the surface**, not by how many pipes the chamber has grown.
+
+| Type | Meaning |
+|:---|:---|
+| **Central** | Magma comes out through **one** dominating vent |
+| **Fissure** | It comes out through **more than one** vent. The audio says “feature.” The sheet says fissure. Lock **fissure** |
+
+**Crater.** A narrow depression at the **mouth** of the vent, cut by the explosive tendency of the volcano. If the volcano is **dormant** (he also said passive, silent, not erupting) and rain collects there, that water is a **crater lake**. This is his **third** kind of lake, after the subsidence lakes of Lecture A5 and the rift lakes. Crater lakes sit among the **highest** water bodies on the surface. The “2,000 metres” in the recording is an example he told them not to learn. Most crater lakes are warm. He treats them as **hot springs**: the chamber is not erupting, but heat still climbs the vent. 
+
+Recent eruptions he told them to know from the last year or two, as names and places only: **Merapi** in Indonesia (the audio says “Merawi”), **Mayon** in the Philippines (the audio says “Mayan”), **La Palma** in Spain, an eruption in **Congo**, and an eruption in **Ethiopia**. He did not name the Ethiopian volcano. Do not add dates.
+
+### 40. Rock cycle (GEO-18-06)
+
+A magma chamber in the lithosphere forms because temperature rises. His three causes: **plate friction**, **geothermal heat**, and **radioactivity**. There is no single magma temperature. Inside the lithosphere he gave a **range of 600–2,000°C**: 600 as the least at which that crustal material melts, 2,000 as the most he would allow inside the lithosphere. It depends on depth. The asthenosphere is already hot and already partly molten. The figure he spoke for it is garbled. Do not lock one.
+
+**Partial melting.** The chamber is not one mineral. At one temperature some of it melts, some vaporises, some stays solid. So magma is **solid, liquid and gas, in proportions that change from chamber to chamber**. That is why two eruptions do not look alike.
+
+If the **solid** share is high, the eruption is **pyroclastic**.
+
+**Silica and viscosity.** Silicon as a poor conductor of heat is already in section 10.2. He used it here: more silica, more thermal resistance, the melt stays thicker, **viscosity rises**, the solid share rises, and the eruption tends to be pyroclastic. Less silica, the melt is more fluid, and the eruption is not pyroclastic. **Silica content is directly proportional to viscosity.** That is the relationship he marked.
+
+**Why it erupts.** Pressure built in the chamber, **escape of trapped gases**, and **density adjustment** (lighter material moving toward the surface).
+
+**Igneous rock** is cooled lava. It is the **primary** rock, also the **parent** or **foundation** rock. Two volcanoes do not make the same igneous rock, because the magma differs and the **cooling** differs (a polar vent and a tropical vent do not cool at the same rate). Sort igneous rocks by **colour**, **grain** (crystalline nature: fine or coarse), and **mechanical strength**.
+
+**To sedimentary rock.** **Denudation** is weathering plus erosion. **Weathering is in situ**: the rock breaks where it stands. An agent of erosion (river, wind, glacier) carries the pieces from A to B. At B the three steps are **deposition**, **cohesion**, and **compression**. Compression can be the weight of later layers, or an endogenic squeeze. The result is layered. He called that a **foliated** structure, and said a question may use “foliated” for this layering. Do not merge it with metamorphic banding, which is pressure, not deposition.
+
+**Fossils** form by **petrification**: organic remains mineralise under the later layers. Only **sedimentary** rock keeps a fossil. Igneous rock cooled from lava and has none. Metamorphic rock has been through heat and pressure, so the imprint is destroyed. A scrap may survive. The fossil as a fossil does not. Sedimentary rock is therefore the evidence for **evolution of life**, for **paleoclimate**, and for **radiocarbon dating** of the age of a landform. His example: the sedimentary rocks of the **Aravali** have been used to estimate the age of that range. He did not give the age.
+
+**Four sedimentary rocks he named**, from the size of the pieces. The sheet maps them like this:
+
+| Pieces | Rock he wrote |
+|:---|:---|
+| Gravel | **Conglomerate** |
+| Sand | **Sandstone** |
+| Silt | **Breccia** |
+| Clay | **Shale** |
+
+He also said “siltstone” once in the same list. Usual texts keep breccia for coarse angular fragments and use siltstone for silt. **Lock the sheet’s four names**, and do not silently rename the silt row. **Conglomerate** has the largest gaps, so it is the most porous and the most permeable: water enters and leaves, and it **does not hold a water table**. Least water-holding capacity, on his line, is conglomerate. The **Shivalik** is largely conglomerate, which is why its towns run short of water.
+
+**Porosity** is the ability to **store** water. **Permeability** is the ability to **let water move**. Together they set the **water table**. He called that store an **aquifer** (the audio says “aquipar”). **Geohydrology** is this groundwater store. One spoken sentence muddles the middle row. The sheet, and the regional examples, lock this:
+
+| Rock | Porosity | Permeability | Irrigation he tied to it |
+|:---|:---|:---|:---|
+| **Sedimentary** | Very high | High | No lasting well. Water leaves after the rains. Tube wells have to go deep. **Ganga plain**, Uttar Pradesh and Bihar |
+| **Igneous** | High | Low | **Wells** work. Water stays near the surface. **Deccan plateau**, Maharashtra. The well is high in the rains and low in summer, and that drop is slow |
+| **Metamorphic** | Low | Low | Water sits **on** the rock. **Tank** irrigation. **Rajasthan** and **Tamil Nadu** |
+
+**To metamorphic rock.** High temperature and high pressure, from sedimentary rock or from igneous rock. **Limestone → marble. Granite → gneiss** (the audio says “knees and cysts”). Metamorphic rock shows **bands** from compression, not from deposition. It breaks in a straight line, it is the **toughest** of the three, and it is formed **buried**, then may be brought to the surface. Marble is his building stone. He sketched metamorphic rock as forming at a few kilometres, “maybe 1 to 5,” against subduction that can reach the asthenosphere. Treat 1 to 5 as a sketch.
+
+**What can turn into what.**
+
+- Sedimentary and metamorphic rocks can turn **into each other**, and each can turn **into itself** (another sedimentary rock; a further metamorphism).
+- **No surface process** turns any rock back into igneous rock. Igneous rock is made only by cooling lava or magma. Every other rock can be made from igneous rock. That is why it is primary.
+- **Subduction** carries igneous, sedimentary or metamorphic rock to a depth where geothermal heat melts it back to magma. For the rock that already exists, subduction is **destructive**. **Convergent boundaries are destructive plate boundaries.**
+- Volcanism **starts** the cycle again by bringing material to the surface.
+
+<div style="overflow-x:auto;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 188" role="img" aria-label="Rock cycle. Igneous rock is only made by cooling. Sedimentary and metamorphic rocks can turn into each other. Subduction melts all three back to magma." style="width:100%;height:auto;font-family:ui-sans-serif,system-ui,sans-serif;">
+  <rect width="760" height="188" rx="12" fill="#f8fafc"/>
+  <text x="380" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="#0f172a">Rock cycle · igneous rock is the parent</text>
+  <rect x="16" y="40" width="236" height="132" rx="10" fill="#ffedd5" stroke="#ea580c"/>
+  <text x="134" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#9a3412">Igneous · primary</text>
+  <text x="134" y="88" text-anchor="middle" font-size="12" fill="#7c2d12">Cooled lava only</text>
+  <text x="134" y="110" text-anchor="middle" font-size="12" fill="#7c2d12">No fossil</text>
+  <text x="134" y="132" text-anchor="middle" font-size="12" fill="#7c2d12">High porosity · low permeability</text>
+  <text x="134" y="154" text-anchor="middle" font-size="11" fill="#7c2d12">Wells · Deccan</text>
+  <rect x="264" y="40" width="236" height="132" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+  <text x="382" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">Sedimentary</text>
+  <text x="382" y="88" text-anchor="middle" font-size="12" fill="#1e40af">Deposit · cohere · compress</text>
+  <text x="382" y="110" text-anchor="middle" font-size="12" fill="#1e40af">Layers · fossils · soft</text>
+  <text x="382" y="132" text-anchor="middle" font-size="12" fill="#1e40af">Very high porosity · high permeability</text>
+  <text x="382" y="154" text-anchor="middle" font-size="11" fill="#1e40af">No lasting well · Ganga plain</text>
+  <rect x="512" y="40" width="232" height="132" rx="10" fill="#dcfce7" stroke="#16a34a"/>
+  <text x="628" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#14532d">Metamorphic</text>
+  <text x="628" y="88" text-anchor="middle" font-size="12" fill="#166534">Heat and pressure</text>
+  <text x="628" y="110" text-anchor="middle" font-size="12" fill="#166534">Bands · buried · toughest</text>
+  <text x="628" y="132" text-anchor="middle" font-size="12" fill="#166534">Low porosity · low permeability</text>
+  <text x="628" y="154" text-anchor="middle" font-size="11" fill="#166534">Tanks · Rajasthan, Tamil Nadu</text>
+</svg>
+</div>
+
+<p style="text-align:center;"><em><strong>Figure:</strong> More silica, higher viscosity, more chance of a pyroclastic eruption. Conglomerate, the Shivalik rock, does not hold a water table.</em></p>
+
+### Lecture A6 — locks
+
+1. Hanging wall is the block that **moves**, up or down. Footwall stays.  
+2. Tension → normal. Compression → reverse. Parallel → strike-slip, and no waterfall from that fault.  
+3. Segmented waterfall: source on the footwall, river stays on the rock. Plunge: source on the hanging wall, or hard rock over soft rock. Plunge pool only on the plunge.  
+4. Himalayan **faults** in the interior are reverse. Himalayan **folds** in the interior are asymmetrical, with recumbent and nappe folds, because Eurasia did not come to meet India.  
+5. Isoclinal needs **homogeneous rock**. Equal compression is not the essential condition. Fan folding is the ordinary mismatched belt.  
+6. Volcanism is slow. The eruption is sudden. Benioff zones are convergent only, and they are a source of earthquakes.  
+7. Central eruption is one vent. Fissure eruption is many vents that reach the surface.  
+8. Silica is directly proportional to viscosity. Pyroclastic means a high share of solid. Magma in the lithosphere: **600–2,000°C**, not one temperature.  
+9. Igneous rock cannot be made again by a surface process. Convergent boundaries are destructive because subduction melts the rock.  
+10. Fossils stay in sedimentary rock. The silt row on the sheet is written **breccia**. Do not silently call it siltstone.  
+11. Wells on the Deccan. No lasting well on the Ganga plain. Tanks in Rajasthan and Tamil Nadu.
+
 
