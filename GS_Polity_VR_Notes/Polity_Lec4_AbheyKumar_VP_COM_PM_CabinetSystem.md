@@ -178,7 +178,7 @@ President --(?discretion)--> appoints PM ---(PM's advice)---> President appoints
 - Constitution only says: **"There shall be a Council of Ministers"**
 - Doesn't mention Cabinet Minister, MoS, MoS-IC, Deputy Minister etc.
 - **All nomenclature is internal** to the government — Constitution doesn't care
-- Key rule: Total CoM **cannot exceed 15% of Lok Sabha strength** (91st CAA, 2003)
+- Key rule: Total CoM **cannot exceed 15% of Lok Sabha strength** (91st CAA, 2003). The **same** amendment removed the Tenth Schedule’s **one-third split**. That half is Lecture 7.
 
 ---
 

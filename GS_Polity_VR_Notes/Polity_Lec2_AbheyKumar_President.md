@@ -442,6 +442,8 @@ When a bill is presented for assent, President has **3 choices** (first time):
 > - Congress govt passed bill adding NAC chair to exempted list → Dr. Kalam returned it
 > - Parliament re-passed same bill without changing a single comma → Kalam had to give assent
 > - Significance: Kalam's principled stand got recorded in history; discourse happened
+>
+> **26 Sep 2026:** the same year is ***Jaya Bachchan v. Union of India* (2006)** — the Court upheld her disqualification as an RS member because the UPFDC chair could pay a profit, whether or not she took it. Tests and the minister trap: Lecture 7. No extra Day-1.
 
 **Why no suspensive veto on Money Bills?**
 - Money bills deal with government's immediate financial needs → delay not allowed

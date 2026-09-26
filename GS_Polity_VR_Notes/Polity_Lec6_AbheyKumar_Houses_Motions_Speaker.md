@@ -10,7 +10,7 @@
 
 **How to read class shortcuts:** full form on first use. Glossary at the end. Do not invent a number the sheet / class did not give.
 
-Paused at **presiding-officer absence vs vacancy**. Next class: **qualifications, disqualifications, anti-defection**. Joint sitting under **Article 108** promised next sitting.
+Paused at **presiding-officer absence vs vacancy**. That answer is still open. Qualifications, disqualification, the Tenth Schedule and sessions were the **26 September** sitting: `Polity_Lec7_AbheyKumar_Qualification_Disqualification_Sessions.md` (**POL-08**). Joint sitting under **Article 108** is still the next bills class.
 
 **Homework**
 
@@ -55,6 +55,10 @@ Both Acts together regulate **LS / Assembly / Council / RS** elections. **Only s
 ***Kuldip Nayar v. Union of India, 2006*** (class: renowned journalist; now deceased). Challenge: open ballot kills free voting. Court / government logic class stressed: **secret** RS polls hid **cross-voting** and **corruption**; **indirect** election + party representation was being gamed.
 
 **Anti-Defection Law (ADL)** applies only to a **proceeding of the House**. President / Vice-President / RS **elections are not House proceedings** → **ADL does not apply**. Same logic: **None of the Above (NOTA)** is for **direct** free voters only — **no NOTA** in President / VP / RS elections.
+
+### Update — 26 September 2026 (same case, the other half — no extra Day-1)
+
+The 2003 RPA change also dropped the rule that an RS candidate had to be a **voter in that State**. They may now be registered in **any** LS constituency in India. ***Kuldip Nayar* (2006)** upheld that too: the rule was in the Act, and the duty is to represent the State, not to live there. Full qualifications class: Lecture 7.
 
 ---
 
@@ -106,7 +110,7 @@ Do **not** write “RS is useless / less useful.” Visibility (LS elections, go
 
 **42nd / 44th story (class):** Emergency **42nd** = **mini-Constitution** (strengthen the executive). Janata **45th Constitutional Amendment Bill** → became **44th Constitutional Amendment Act, 1978**. RS still Congress-controlled; it **diluted** the rollback; LS had to **accept RS changes** or lose the Bill. **House of Elders** = **experience / link to the past** (2/3 still sitting), **not** because members are older. **Temperance** vs LS “change everything in one election.”
 
-**Numbering trap:** CAB numbers and CAA numbers are **two pipelines**. Class: **106** CAAs so far. This year’s Budget-session **131st CAB** (delimitation / **850** seats) **failed** — that bill number is used up; next bill **132** would become Act **107** if it passed.
+**Numbering trap:** CAB numbers and CAA numbers are **two pipelines**. Class: **106** CAAs so far. This year’s Budget-session **131st CAB** (delimitation / **850** seats) **failed** — that bill number is used up; next bill **132** would become Act **107** if it passed. On **26 September** he added that the last **three days** of that Budget session were a **special session** inside it, kept for women’s reservation and this bill. Only that business. Lecture 7.
 
 **Deliberation:** both have Question Hour, Zero Hour, debates. **LS: Question Hour then Zero Hour. RS inverted** (class: RS switched ~**10 years** ago to get more Zero-Hour time). **Starred** = oral in the House; **unstarred** = written papers. Zero Hour = on the spot; Question Hour needs advance notice.
 
@@ -161,7 +165,7 @@ Make-or-break tools sit on **Article 75(3)** (collective responsibility to LS). 
 
 1. Make / break (CM / NCM / Censure / Adjournment).
 2. Money Bills — introduce + override.
-3. **Discontinue National Emergency** — **special sitting of LS** (sessions class next).
+3. **Discontinue National Emergency** — **special sitting of LS**. The procedure (one-tenth, 14 days, simple majority, President must revoke) is Lecture 7, section 6. Do not mix it with ratification, which still needs both Houses.
 
 ### Update — 10 September 2026 (UPSC CSE Prelims 2022)
 
