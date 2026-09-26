@@ -152,6 +152,22 @@ Keep the class line (Bhojpur, Kshatriya/Bhumihar land, first night with the zami
 4. J&K militancy  
 5. Border disputes  
 
+### Update — 26 September 2026 (*The Hindu* — AFSPA in the North-East)
+
+The class lock stays: Armed Forces (Special Powers) Act (AFSPA) came **off Punjab in 1997**. This is the same Act, applied somewhere else. No new cluster.
+
+The Union Home Ministry on Friday extended AFSPA for **another six months** in parts of **Manipur**, **Arunachal Pradesh** and **Nagaland**.
+
+| Where | What the notification does |
+|:---|:---|
+| **Manipur** | Whole State, **except** the jurisdiction of **13** police stations in **five** valley districts. Ethnic violence since **3 May 2023**. The Act has applied here since **1981**. Manipur was a Union Territory and became a State in **1972** |
+| **Nagaland** | Another six months in **nine** districts, and in **21** police stations in **five** other districts |
+| **Arunachal Pradesh** | **Three** districts, and **three** police stations (“as many”) in **another** district bordering Assam, declared a disturbed area for six months. The paper does not name that district |
+
+**Manipur, the earlier cuts and the return.** Withdrawn from the **Imphal** municipality area in **2004**. The Manipur government withdrew it from **all valley** police stations between **1 April 2022** and **1 April 2023**, citing a better security situation. On **14 November 2024**, out of **19** police stations in **seven** districts, it was put back in **six** police stations in **five** districts, mostly in the valley. Do not merge 13, 19 and 6. President’s Rule was imposed on **13 February 2025** and revoked on **4 February 2026** (the paper says “this year”; the Kerala clip in the same batch is dated through July 2026).
+
+**Powers, as the paper states the 1958 law.** In a disturbed area, the Army and the Central Armed Police Forces may kill a person acting in contravention of law, arrest, and search premises without a warrant. Prosecution and other legal proceedings need the Union government’s sanction.
+
 ---
 
 ## 9. Non-traditional threats; social media (IS-01-09)

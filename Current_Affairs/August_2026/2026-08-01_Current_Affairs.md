@@ -42,3 +42,21 @@
 *   **Way Forward:**
     *   Conservation efforts cannot be indefinitely delayed as it can result in states losing control over ecological systems to administrative boundaries.
     *   The ESA declaration should proactively include and protect indigenous communities living within forests. They naturally follow conservation principles and their presence serves as a vital bridge in preserving biocultural diversity.
+
+### Update — 26 September 2026 (*The Hindu* — Keralam on the Western Ghats ESA)
+
+The Hindu Bureau, Thiruvananthapuram. The paper reports what the State did on Thursday and what the Minister said on Friday. Same Ecologically Sensitive Area (ESA) debate as this note and as the 29 July note. No new cluster.
+
+**Keralam’s ask.** Limit the ESA to **forest** areas: **8,590.69 sq km**. Populated areas, farmlands and plantations should be excluded. **M.G. Rajamanickam**, Special Secretary, Environment and Climate Change, placed the recommendations before the Centre on Thursday. **Sunny Joseph**, Minister for Electricity and Environment, stated the stand in Thiruvananthapuram on Friday. If needed, Chief Minister **V.D. Satheesan** will lead a delegation to New Delhi. The State wants a **final** notification. Every notification from **2014 to July 2026** has been a draft.
+
+**Kerala-only figures. Do not swap these with the all-India 56,825 sq km** on the 29 July note (Kasturirangan’s ~37% of the whole Western Ghats).
+
+| Step, inside Keralam | Area | Villages |
+|:---|:---:|:---:|
+| K. Kasturirangan Committee, **2013**, as this clip dates the State proposal | **13,108 sq km** | **123** |
+| Later draft from the Union Ministry of Environment and Forests, after a study | **9,993.7 sq km** | — |
+| What the State now wants | **8,590.69 sq km** | **98** |
+
+This clip dates that Kerala proposal to **2013**. This 1 August note dates the committee to **2012**. The 29 July note dates it to **2013**. Do not collapse the two years, and do not treat 13,108 as the national total.
+
+The Minister called Keralam’s case unique: small State, dense population, forest cover **29.15%** of its area. Another law, on top of the laws that already protect forest, environment, paddy fields and wetlands, would hit development, agriculture and daily life. The photograph is **Koottickal** village in **Kottayam**, already inside the draft.

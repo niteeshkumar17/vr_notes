@@ -81,6 +81,10 @@ For older minors accused of severe crimes:
 1. **Participatory Conservation:** Involve Gram Sabhas under FRA 2006 and PESA 1996 in demarcating ESA boundaries to address local livelihoods.
 2. **Payment for Ecosystem Services (PES):** Provide financial compensation to local communities and states for preserving forest cover rather than enforcing blanket economic bans.
 
+### Update — 26 September 2026 (*The Hindu* — pointer only)
+
+Keralam’s forest-only ask (**8,590.69 sq km**, **98** villages; Kasturirangan’s Kerala figure in that clip **13,108 sq km** / **123** villages; an intervening draft **9,993.7 sq km**) is on the **1 August** Western Ghats note, cluster **CA-260801-01**. Those are **Kerala** figures. They are not this note’s all-India **56,825 sq km**.
+
 ---
 
 ## 3. India Among the Powers: Forever Rising, Never Risen?
