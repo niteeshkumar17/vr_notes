@@ -22,6 +22,12 @@
 * **Recent Trigger:** Supreme Court judge **Justice Ujjal Bhuyan** observed that **greater openness in the collegium process would strengthen public confidence and help ensure that merit remains the governing principle**.
 * **Core Constitutional Dilemma:** Insulation from executive interference was never intended to become **insulation from constitutional accountability itself**—a core structural friction that has persisted for over three decades.
 
+### Update — 24 September 2026 (*The Hindu*, Justice Dipankar Datta — no extra Day-1)
+
+**Krishnadas Rajagopal.** **Justice Dipankar Datta**, in a **separate opinion** inside a **split verdict** on the legality of the **2023** law on appointments of the Chief Election Commissioner and other Election Commissioners. The clip does not name the case, and it does not say which way the split fell. Do not fill either.
+
+He calls “judges appoint judges” a **myth**. The Collegium is a consultative process: the Executive at the Centre and in the States, intelligence and other agencies, and every appointment carries the **President’s** imprimatur. On **piecemeal approvals**: the government has calibrated the system to override Collegium recommendations; names sit for years; even transfer recommendations are often not acted on. His line is that the Court is left playing second fiddle, and that a demand to bring an outsider in at the selection stage is a way of deflecting the Executive’s own failure. The clip breaks off there. Bhuyan’s openness point, and the 2015 strike-down of the National Judicial Appointments Commission, stay as they are.
+
 ### 2. Evolution of the Collegium System (Judges Cases Matrix)
 The collegium is an **extra-constitutional judicial creation**, not an explicit text of the Constitution:
 

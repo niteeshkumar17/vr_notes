@@ -82,6 +82,14 @@ Class hook (do not restudy as a new lecture): El Niño often **weakens the India
 ### 4. One-liner
 WMO: this El Niño is **near-certain through Feb 2027** and may be the **strongest on record**.
 
+### Update — 24 September 2026 (*The Hindu*, Climate Impact Lab — no extra Day-1)
+
+**Jacob Koshy.** A **Climate Impact Lab** report, made public on Wednesday. **Michael Greenstone** (co-founder; University of Chicago) calls this El Niño a “postcard from our future”: temperatures climate change is projected to deliver **20 years** later. **Super El Niño** is his informal name for an exceptionally strong event. Eastern equatorial Pacific sea-surface temperatures are already **more than 3°C** above normal. Forecasts earlier this month: **greater than 90%** chance of a very strong El Niño in the northern-hemisphere autumn and winter. The WMO line above stays **near-100% through February 2027**. Do not swap the two confidence figures.
+
+**Deaths, relative to the same months in 1996–2025.** India: about **15,800** additional heat-related deaths, give or take **1,600**, between **September 2026 and February 2027**. Global: **451,000** additional heat-related deaths in the first six months of this El Niño, of which **239,000** fall in that same September–February window. Also: **19,300** in Indonesia; **19,400** across the Philippines, Vietnam, Thailand and Cambodia; **13,300** in Brazil; **66,800** across the Sahel (about **5,000 km**, about **10** countries, including Senegal, the Gambia and northern Nigeria). Indonesia: wildfire conditions. Parts of Central America: drought.
+
+**India, up to 22 September 2026.** Southwest monsoon entering withdrawal. National rainfall deficit about **15%** below normal, larger in the south and the east. Nearly **40%** of coal-fired plants at critically low fuel stocks, with hotter demand than the usual El Niño weather. The Lab applies an older temperature–mortality relationship across **24,378** regions. It does **not** print the number that turns a temperature rise into a death count. Do not invent that coefficient.
+
 ---
 
 ## Abbreviations
