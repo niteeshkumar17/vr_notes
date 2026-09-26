@@ -428,6 +428,10 @@ Two grounds for a **permanent seat**:
 
 Declaration **adopted 12 Sep**. Clip: **comprehensive UN reform**; **greater role for Brazil and India** in the **UNSC**. Full text / West Asia language / MSME: `Current_Affairs/September_2026/2026-09-06_Current_Affairs.md` (`CA-260906-02`). Class G4 vs Coffee Club lock **stays** — the declaration names **Brazil and India**, not the full G4.
 
+### Update — 23 September 2026 (*The Hindu* — no extra Day-1)
+
+**Suhasini Haidar.** Two headlines in the same paper: the **UN Security Council** seat bid is keeping **S. Jaishankar’s** schedule packed, and at a UN summit he called for **reformed multilateralism**. The photo is cut. What is readable: India **on Monday** joined a partnership that sits next to the **European Union** and a line about further support for India; **G4** and **L.69** are in the copy; **Australia** is named as a co-sponsor; he also met the President; the Assembly is mentioned for Saturday. His summit line, as far as the photo shows it: multilateralism, in an era of a **crisis of trust**, cannot be left to chance. Do not fill the cut lines (no count of countries, no extra groupings). The class locks — G4 versus the Coffee Club, China as the hold-out — stay.
+
 **If the UN does not reform**, legitimacy may shift to **G20 / BRICS**. Reform so the UN reflects **2026 power**, not **1945**.
 
 **What India should do (class close):** stay invested; keep **diplomatic** work to build opinion. Next class was **India–China** — now `04_Sino_India_Relations.md`. Sources enough for GS: **class + handouts + Yellow Book + current affairs**.

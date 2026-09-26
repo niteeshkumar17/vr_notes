@@ -105,6 +105,14 @@
 | **51A(j)** | Strive towards excellence in all spheres of individual and collective activity. | National progress. |
 | **51A(k)** | Provide educational opportunities to children between **6 and 14 years** of age. | Added by 86th Amendment Act, 2002. |
 
+### Update — 23 September 2026 (*The Hindu* — no extra Day-1)
+
+**Krishnadas Rajagopal.** The Supreme Court, on Tuesday, has not decided the case. It asked the Union for a response. A three-judge Bench headed by Chief Justice of India **Surya Kant**. **Justice Joymalya Bagchi** said a democratically elected government may shape the scope and length of the National Song. It cannot violate individual and collective religious freedom, and it cannot put a conscientious objector — someone who refuses one stanza or all of them — under a penal consequence.
+
+His line: what the National Song is, is not in dispute. Whether it is **two stanzas or four** is for the state to decide. Nobody can infract **Articles 25 and 26** (the clip’s bracket is religious freedom), and a conscientious objector must be able to recite one stanza or all of them without criminal prosecution. The **1986** precedent **Bijoe Emmanuel versus State of Kerala** still holds: religious freedom, constitutional tolerance, and silent objection.
+
+The petition is by Carnatic vocalist and author **T.M. Krishna**, through senior advocate **S. Muralidhar** and advocate **Prasanna S.** It challenges the **Prevention of Insults to National Honour (Amendment) Act, 2026**, read with Home Ministry directions **in January** and a circular **in July**. He says those orders compel the playing and mass singing of **all six stanzas** of *Vande Mataram* ahead of the National Anthem at public functions, and that refusal risks **three years’** imprisonment or a fine or both. He calls stanzas **three to six** expressly devotional, deity-invoking, and non-secular. The 1937 lock above — the first **two** stanzas — stays. This hearing is about the 2026 Act and the orders, not a rewrite of 1937. The clip **continues on page 12**. Do not fill that page in.
+
 ---
 
 ## 4. Lok Sabha Passes Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026
