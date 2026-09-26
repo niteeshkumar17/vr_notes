@@ -241,6 +241,12 @@ Two statutes **keeping Art 17 in view:**
 
 Sawhney lock **stays**: creamy layer is **OBC-only** in **1992** because for SCs **economic mobility ≠ social mobility**. Lecture 3 **adds**: introduce creamy layer **inside SC/ST anyway** so **have-nots (~90%)** get seats the **haves (~10%)** hijack — **not** because social equality has arrived. Sub-classification of **SC/ST**: **2004** Court said **homogeneous** (do not split); ***Davinder Singh v. State of Punjab* (2024)** said they are **no longer homogeneous**. Full lecture: SOC-03.
 
+### Update — 25 September 2026 (*The Hindu* — no extra Day-1)
+
+**Krishnadas Rajagopal.** On Thursday the Supreme Court **reserved orders**. It has not granted the plea. Bench: Justices **P.S. Narasimha** and **R. Mahadevan**. The Centre (Solicitor General **Tushar Mehta**, Additional Solicitor General **Aishwarya Bhati**) wants the **11 March 2026** judgment in ***Union of India v. Rohith Nathan*** to work **prospectively**, and wants **two years** to set equivalence of posts and a uniform creamy-layer test.
+
+What the Centre says that judgment requires: re-assess **OBC non-creamy-layer** status under the **1993** Office Memorandum by **excluding parental salary and agricultural income** from the income/wealth test. The government says a retrospective reading would disturb recruitment, service allocation, seniority, cadre allocation and admissions since **2012**, including railways, banks, post and the paramilitary, plus ongoing exams. It invokes **Article 142** so the Court can limit the judgment to the future. **P. Wilson**, for the candidates, calls this delay, and says the Department of Personnel and Training has not followed court directions, a parliamentary committee, or its own 1993 rules. He says supernumerary posts could take the eligible candidates. Sawhney still stands: the Court required an OBC creamy layer; the government writes the test. This hearing is about the **1993** income test and the **date** the March judgment bites. It is not a creamy layer for SC/ST.
+
 `CSE-2023-Q34` **held**. The **1st Constitutional Amendment** was widely believed to have been enacted to overcome judicial interpretations of the Fundamental Rights — the Champakam / **Art 15(4)** lock (`MST-073`). Not 42nd / 44th / 86th.
 
 `MST-069` **held** (evening option b): **16(4)** can be limited by **Art 335**; **335 does not define** efficiency.

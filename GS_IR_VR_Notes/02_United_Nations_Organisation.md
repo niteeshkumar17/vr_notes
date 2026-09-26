@@ -432,6 +432,12 @@ Declaration **adopted 12 Sep**. Clip: **comprehensive UN reform**; **greater rol
 
 **Suhasini Haidar.** Two headlines in the same paper: the **UN Security Council** seat bid is keeping **S. Jaishankar’s** schedule packed, and at a UN summit he called for **reformed multilateralism**. The photo is cut. What is readable: India **on Monday** joined a partnership that sits next to the **European Union** and a line about further support for India; **G4** and **L.69** are in the copy; **Australia** is named as a co-sponsor; he also met the President; the Assembly is mentioned for Saturday. His summit line, as far as the photo shows it: multilateralism, in an era of a **crisis of trust**, cannot be left to chance. Do not fill the cut lines (no count of countries, no extra groupings). The class locks — G4 versus the Coffee Club, China as the hold-out — stay.
 
+### Update — 25 September 2026 (*The Hindu* Parley — no extra Day-1)
+
+A Parley in the same General Assembly week: should permanent membership and the veto go? **Amitabh Behar** (Oxfam) argues for abolition, or at least a restraint, because the veto has blocked action on genocide and mass atrocity. **Syed Akbaruddin** (former Permanent Representative of India; Dean, Kautilya School of Public Policy) says the power sits in the Charter, so removing it needs an amendment the permanent five will not ratify against themselves. Class lock stays: the **word** veto is not in the Charter; the Charter requires the **concurrence** of the permanent five. Do not collapse the two sentences.
+
+The page also records a **France–Mexico** political statement, first made in **2015** and renewed this week, to restrain the veto in cases of mass atrocity, and a code of conduct from the **Accountability, Coherence and Transparency (ACT)** group. The clip’s count of supporters is **more than 120**. The United Kingdom has joined France on that restraint. The United States, China and Russia have not. The photo then runs into Gaza and Israel. Do not finish that line.
+
 **If the UN does not reform**, legitimacy may shift to **G20 / BRICS**. Reform so the UN reflects **2026 power**, not **1945**.
 
 **What India should do (class close):** stay invested; keep **diplomatic** work to build opinion. Next class was **India–China** — now `04_Sino_India_Relations.md`. Sources enough for GS: **class + handouts + Yellow Book + current affairs**.

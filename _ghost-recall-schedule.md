@@ -69,6 +69,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 | **Thu 1 Oct** | **Q1 HIS-MED-24** (25 Sep medieval Lecture A5 — Alauddin’s markets and Siri, Tughlaq cohesion, the regional houses, Sayyids and Lodis, Babur through Sher Shah). **Q2 GEO-17** (25 Sep Rizwan Sir — epeirogenic and orogenetic forces, Malda gap, Gujarat zone 4, East African Rift). Do **not** steal 26–30 Sep. The Env +16 already parked on 1 Oct is a Q7 interval, not this pair | leftover ladder | leftover ladder | leftover MST if still due |
 | **Fri 2 Oct** | Q1–Q2 stay open for that morning’s classes. **Leftover:** **CA-260923** (23 Sep Haifa — lancers, Teen Murti Haifa Chowk). Do **not** steal 26 Sep–1 Oct | leftover ladder | leftover ladder | leftover MST if still due |
 | **Sat 3 Oct** | Q1–Q2 stay open for that morning’s classes. **Leftover:** **CA-260924** (24 Sep DURGA e-autos and quality-control orders). Do **not** take the 2 Oct Haifa leftover | leftover ladder | leftover ladder | leftover MST if still due |
+| **Sun 4 Oct** | Q1–Q2 stay open for that morning’s classes. **Leftover:** **CA-260925** (25 Sep Make in India at 12 years). Do **not** take the Haifa or DURGA leftovers | leftover ladder | leftover ladder | leftover MST if still due |
 
 From **16 September**: drop the first-pass column. Q3–Q6 are whatever the ladder marks due (3 / 7 / 16 / 35). New lectures never skip the **+1 day** slot.
 

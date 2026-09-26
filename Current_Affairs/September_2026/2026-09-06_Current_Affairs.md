@@ -92,6 +92,21 @@ Photo on the page: **PM Modi**, Brazil’s **Luiz Inácio Lula da Silva**, South
 ### 7. One-liner
 BRICS payments = cheaper / faster rails (UPI–PayNow, Nexus, CBDC / mBridge, BRICS Clear). **India = cost and speed, not de-dollarisation.** SWIFT stays the messaging backbone until something actually replaces it.
 
+### Update — 25 September 2026 (*The Hindu* / Reuters — no extra Day-1)
+
+**G.R. Raley.** The **New Delhi Declaration** resolved to raise trade and payments in national currencies. A Reuters report, quoting sources, said India would push to link central-bank digital currencies and that the link would be on the leaders’ agenda. The same report says the proposal was **not** added, and that complete implementation is not in the Declaration. Limited adoption and technical hurdles could limit progress. India’s line above stays cost and speed, not a dollar exit.
+
+Rails the earlier note only named:
+
+| Rail | Clip |
+|:---|:---|
+| **CIPS** | Cross-Border Interbank Payment System. People’s Bank of China, **2015**. Yuan clearing and settlement. The report says global banks clear cross-border yuan through offshore yuan hubs, rather than only onshore |
+| **SPFS** | System for Transfer of Financial Messages. Russia, **2014**, to bypass western sanctions. In **2022**, when Russian banks were cut off SWIFT, SPFS was of some help |
+| **SEPAM** | Iran’s local interbank system. The sentence is cramped: **52** Iranian banks, **four** unnamed foreign banks, and **106** banks using SPFS. Iran’s central bank said in **2023** that it connects with SPFS. Do not draw a network from that sentence |
+| **mBridge** | Multi-CBDC platform. Named members: Bank of Thailand, Central Bank of the United Arab Emirates, Digital Currency Institute of the People’s Bank of China, Hong Kong Monetary Authority, Saudi Central Bank. The page says the Bank for International Settlements held the project from **31 October 2023** (when Hong Kong and Thailand launched it) and left on **31 October 2024**. No western bank. Minimum viability in **2024**. Envisaged for direct peer-to-peer central-bank digital currency. Do not add an architecture |
+
+---
+
 ### Update — 7 September 2026
 
 **Xu Feihong**, Chinese Ambassador to India — *The Hindu* op-ed ahead of the **18th** summit (**New Delhi, 12–13 September**). Same summit as this note; **POWER** is Beijing’s frame, not a second topic.
