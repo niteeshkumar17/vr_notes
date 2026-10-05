@@ -775,7 +775,7 @@ Maximum congestion is in the orbits just outside the **Karman line**, a few hund
 
 ## 16. What is being done now (ST-09-08)
 
-He left blank lines: this list will grow. **Space Situational Awareness** is the opening of the **next** class, not this one.
+He left blank lines: this list will grow. **Space Situational Awareness** opened on **23 September 2026** as Lecture 12 (`07_Situational_Awareness_and_the_Indian_Space_Programme.md`, **ST-10**). The collective-responsibility **law** for removal was the one line he added there. **No extra Day-1** on ST-09.
 
 | # | Development | Lock |
 |:---|:---|:---|
@@ -831,11 +831,11 @@ A news line he flashed, not a target he set: India needs **200-plus satellites i
 | LEO | Low Earth orbit |
 | ESA | European Space Agency |
 | ELVES | The halo above the cloud (he spelled the letters; no expansion in class) |
-| SSA | Space Situational Awareness — **next class** |
+| SSA | Space Situational Awareness — taught **23 Sep 2026** as **ST-10** |
 
 **Sheet “OST” here means outer-space tourism.** Lecture 10’s **OST** remains the **Outer Space Treaty, 1967**.
 
-<!-- 2026-09-23: Vinay Sir space Lecture 11, class date 22 Sep. Cluster ST-09. First-pass 24 Sep Q1. ISS / BAS / debris / Kessler. SSA parked. Book station numbers stay the 8 Sep Yellow Book line. -->
+<!-- 2026-09-23: Vinay Sir space Lecture 11, class date 22 Sep. Cluster ST-09. First-pass 24 Sep Q1. ISS / BAS / debris / Kessler. SSA opened 23 Sep as ST-10. Book station numbers stay the 8 Sep Yellow Book line. -->
 
 ## Prelims traps (class)
 
