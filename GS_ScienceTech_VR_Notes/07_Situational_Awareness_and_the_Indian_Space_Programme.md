@@ -2,7 +2,7 @@
 
 ### Lecture 12 — 29 September 2026
 
-> **Date of Lecture:** 29 September 2026. The transcript file is `S_TLecture290926`. The notebook pages are stamped **23/9/26**, circled **2–7**.  
+> **Date of Lecture:** 29 September 2026. First page dated **29/9/26**. The transcript file is `S_TLecture290926`. Sheets circled **2–7**.  
 > **Date Added:** 2026-10-05  
 > **Faculty:** **Vinay Krishna** (GS Science and Technology). Continues Lecture 11 in `04_Space_Technology_Introduction.md`.  
 > **Source:** Vajiram & Ravi class + audio transcript (`S_TLecture290926`) + 6 handwritten sheets.  
@@ -11,7 +11,7 @@
 
 **How to read class shortcuts:** full form on first use. Glossary at the end. Do not invent a number the sheet or the audio did not give. Where the two disagree, both are locked and the clash is marked.
 
-He opens by finishing the debris sitting of **22 September**. This class is **29 September**. The pages themselves are stamped **23/9/26**.
+He opens by finishing the debris sitting of **22 September**. This class is **29 September**, the date on the first page.
 
 Debris itself stays Lecture 11. One mains line he added before leaving it: the world needs a **law**, as early as possible, so that debris removal is a **common or collective responsibility**. That sentence is the bridge. It does not reopen ST-09.
 

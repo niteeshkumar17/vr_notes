@@ -2,7 +2,7 @@
 
 ### Lecture 11 — 29 September 2026
 
-> **Date of Lecture:** 29 September 2026. The transcript file is `EcoLecture290926`. The notebook pages are stamped **22/9/26**, circled **1–8**.  
+> **Date of Lecture:** 29 September 2026. First page dated **29/9/26**, circled **1**. The transcript file is `EcoLecture290926`.  
 > **Date Added:** 2026-10-05  
 > **Faculty:** **BS Sir**, the same teacher as Lecture 10. He opened by closing the **15th** Finance Commission. The audio does not repeat his name.  
 > **Source:** Class transcript `EcoLecture290926` + eight notebook pages.  
