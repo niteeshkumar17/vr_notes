@@ -8,7 +8,7 @@
 > **Source:** Class transcript `IRLecture270926` + three notebook pages.  
 > **Cluster:** **IR-07**. First-pass **Tuesday 6 October, Q1**. **Q2** that morning is the other class of 27 September, family planning and the dividend (**SOC-06**). Do **not** steal **3–5 October**.  
 > **Already elsewhere:** idealism against realism, and **1962**, stay **IR-01 / IR-06**. **Nine** nuclear-weapon states and **mutually assured destruction (MAD)** stay **IR-03**. **Look East (1992)**, now **Act East**, and **Vaccine Maitri** stay **IR-06**. **SAGAR → MAHASAGAR**, the **String of Pearls**, and **Hambantota** for **99 years** stay **IR-05**. The **Indus Waters Treaty** abeyance stays **IR-01**; he only previewed the graded mechanism and parked the full file for the Pakistan lecture. The **15 million** refugees of **1971** stay **IR-06**.  
-> **Parked — next class, on this same handout:** how **Neighbourhood First** is implemented, the challenges, and why **Pakistan** is outside it (**Doval Doctrine**). Then **India–Afghanistan**, which starts at **page 5** of handout 4. Bilateral sittings he named and did not open: Nepal, Bhutan, Bangladesh, Maldives, Sri Lanka. Extended-neighbourhood lectures (Southeast Asia, Central Asia, the Indian Ocean, West Asia) are later, one each.  
+> **Opened 28 September as IR-08, no extra Day-1:** how **Neighbourhood First** is implemented, why **Pakistan** is outside it (**Doval Doctrine**), and **India–Afghanistan** from **1979** to **Taliban 2.0**. India’s own investments in Afghanistan, and the present Taliban policy, are still parked on that note. Bilateral sittings he named and did not open: Nepal, Bhutan, Bangladesh, Maldives, Sri Lanka. Extended-neighbourhood lectures (Southeast Asia, Central Asia, the Indian Ocean, West Asia) are later, one each.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 He had parked **India as soft power** on 9 September and again on 23 September. This sitting opens it, then turns to why the neighbourhood sits at the front of Indian foreign policy. He ran out of time before the policy’s machinery.
@@ -78,7 +78,7 @@ He immediately narrowed the word. The thesis means a **mature democracy**: democ
 
 A student raised India–Pakistan wars, including **Kargil**, against the thesis. His answer: Pakistan is not in the category. The Kargil action was begun by **Musharraf** without informing Prime Minister **Nawaz Sharif**. When the war broke out, Sharif objected, dismissed Musharraf, and a Cabinet meeting appointed a new army chief, who had even taken office. Musharraf then couped the civilian government and became dictator. Sharif was given two choices: leave the country, or be shot. He left. Bhutto had not left, and was killed. **Operation Sindoor is hard power.** It is not an entry on the soft-power page.
 
-The same pseudo pattern, beyond Pakistan: an elected leader eliminates opponents — killed, disappeared, or jailed — then wins an election with no real opposition, plus a few dummy candidates. **Vladimir Putin** in Russia. **Sheikh Hasina** in Bangladesh: opponents imprisoned, and in the **2024** election the opposition parties boycotted. She contested alone and won alone. A student movement in **2024** forced her to resign. A new election has since been held; he called the result a **BNP** government. The personal name on the audio is not clear. Lock **BNP**. **North Korea** calls itself a republic, claims elections, and claims **99.9%** of voters for Kim Jong-un. No dictator, including **Hitler**, says “I am a dictator.” They say the people chose them.
+The same pseudo pattern, beyond Pakistan: an elected leader eliminates opponents — killed, disappeared, or jailed — then wins an election with no real opposition, plus a few dummy candidates. **Vladimir Putin** in Russia. **Sheikh Hasina** in Bangladesh: opponents imprisoned, and in the **2024** election the opposition parties boycotted. She contested alone and won alone. A student movement in **2024** forced her to resign. A new election has since been held; he called the result a **BNP** government. The personal name was not clear on this audio. The next morning he named the Prime Minister: **Tarique Rahman**. That lock is **IR-08**. Lock **BNP** here. **North Korea** calls itself a republic, claims elections, and claims **99.9%** of voters for Kim Jong-un. No dictator, including **Hitler**, says “I am a dictator.” They say the people chose them.
 
 Mature democracies, as he counted them: a few in **North America**, a few in **Europe**, and in the **Global South** one shining case, **India**. In India the elected government holds the power. Violate democracy, human rights, or secular values, and the soft power starts to leave.
 
@@ -268,9 +268,9 @@ India now gives the two rings **equal** importance, and has policies for the ext
 
 For immediate neighbours the official policy is **Neighbourhood First**, launched in **2014**. He said **2014** three times: first priority to neighbours, cordial relations, the secure and stable and cooperative and harmonious neighbourhood. **The sheet writes a year that reads 2022. Lock the spoken year, 2014.**
 
-**Pakistan is not inside Neighbourhood First.** Pakistan has a separate policy, the **Doval Doctrine**, next class.
+**Pakistan is not inside Neighbourhood First.** Pakistan has a separate policy, the **Doval Doctrine**, opened the next morning as **IR-08**.
 
-He stopped there. Next class: the policy itself, how it is implemented, the challenges, then Afghanistan from **page 5** of this handout. Bring the same handout. There is no new handout for that sitting.
+He stopped there. The next morning opened the policy itself, the challenges, and Afghanistan from **page 5** of this handout. That sitting is **IR-08**.
 
 ### Lecture — locks
 
@@ -283,7 +283,7 @@ He stopped there. Next class: the policy itself, how it is implemented, the chal
 7. UN budget, as he stated it: India **~1% (1.016%)**, US **22%**, China **20%**, Germany **8%**, Japan **about 6–8%**, Brazil **about 4–5%**. Those four large payers are **more than half**. India leads in **peacekeeping troops**. Sixth-largest economy, **$4 trillion**, **140 crore**, per capita among the lowest. **Article 21** via **Maneka Gandhi** is a dignified life.
 8. Neighbours cannot be changed (**Vajpayee**). Destiny is linked to the neighbourhood (**Modi**). **Narayanan**, NSA under Manmohan Singh: South Asia hits India geopolitically, geostrategically, and geoeconomically. Cooperate through **SAARC** and **BIMSTEC**. Pakistan is a separate file.
 9. Cornerstone: **strategically secure, politically stable, economically cooperative, harmonious.** A neighbour’s crisis spills. **IC-814, 1999, Kandahar.** Rajiv Gandhi and the **LTTE**. Nepal’s **Gen Z** protests last year. Bangladesh **2024**. Sri Lanka **2022**, debt trap plus pandemic. Trump’s wall did not stop the **donkey route**.
-10. **Gujral Doctrine, 1990s: non-reciprocity** — no favour expected back — generates trust and goodwill. Maldives **5 lakh**, so internal balancing is impossible; external balancing means **China**. The Modi government continues non-reciprocity. **Neighbourhood First was launched in 2014** (the sheet reads 2022). Pakistan is outside it: **Doval Doctrine**, next class. **MAHASAGAR** and **Act East** are the extended ring, later.
+10. **Gujral Doctrine, 1990s: non-reciprocity** — no favour expected back — generates trust and goodwill. Maldives **5 lakh**, so internal balancing is impossible; external balancing means **China**. The Modi government continues non-reciprocity. **Neighbourhood First was launched in 2014** (the sheet reads 2022). Pakistan is outside it: **Doval Doctrine**, opened 28 September as **IR-08**. **MAHASAGAR** and **Act East** are the extended ring, later.
 
 ---
 
@@ -314,4 +314,4 @@ He stopped there. Next class: the policy itself, how it is implemented, the chal
 | UNICEF | UN Children’s Fund |
 | WHO | World Health Organization |
 
-<!-- 2026-10-05: Sandhu Sir, 27 Sep, handout 4 — soft power (Nye, three resources, public diplomacy, smart power) and the neighbourhood opening (cornerstone, Gujral non-reciprocity, Neighbourhood First 2014). Cluster IR-07. First-pass 6 Oct Q1. Neighbourhood First machinery, Doval Doctrine, and Afghanistan p.5 parked. -->
+<!-- 2026-10-05: Sandhu Sir, 27 Sep, handout 4 — soft power (Nye, three resources, public diplomacy, smart power) and the neighbourhood opening (cornerstone, Gujral non-reciprocity, Neighbourhood First 2014). Cluster IR-07. First-pass 6 Oct Q1. Neighbourhood First machinery, the Doval Doctrine, and Afghanistan through Taliban 2.0 opened 28 Sep as IR-08. No extra Day-1. -->
