@@ -8,7 +8,7 @@
 > **Source:** Class transcript + four notebook pages.  
 > **Cluster:** **IR-06**.  
 > **Already elsewhere:** **Non-Aligned Movement (NAM)**, bipolar / unipolar, and “India tested twice, **1974** and **1998**” are **IR-03**. **Panchsheel 1954 → 1962** is **IR-01**. The **1962** war and **Belt and Road Initiative (BRI)** / **India–Middle East–Europe Corridor (IMEC)** detail are **IR-04 / IR-05**. **Pax Silica** is **IR-01**. Do not restudy those as a new topic.  
-> **Parked — later classes, one each:** United States, Iran, Russia, Israel, the Arab world, Japan, Europe, Quad, BRICS, Shanghai Cooperation Organisation, and the tariff war. **India as soft power** was on the 9 September parked line and was **not** opened today.  
+> **Parked — later classes, one each:** United States, Iran, Russia, Israel, the Arab world, Japan, Europe, Quad, BRICS, Shanghai Cooperation Organisation, and the tariff war. **India as soft power** was opened on **27 September 2026** — `06_Soft_Power_and_Neighbourhood.md` (**IR-07**). No extra Day-1 on this cluster.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 Foreign policy is not a fixed text. A policy that fitted a bipolar world need not fit a unipolar one, or a multipolar one. **Dr S. Jaishankar** (External Affairs Minister) splits India’s policy, in ***The India Way***, into **six phases**. He also wrote ***Bharat Matters***. He is a PhD in international relations from the School of International Studies, **Jawaharlal Nehru University**, a career **Indian Foreign Service (IFS)** officer, and he retired as **Foreign Secretary** — the senior-most IFS officer, the bureaucrat in charge of the Ministry of External Affairs. He later entered politics, sits in the Rajya Sabha, and is now the minister.
@@ -234,4 +234,4 @@ A friendly relationship does not mean agreement on everything. America and Canad
 | UAE | United Arab Emirates |
 | USSR | Union of Soviet Socialist Republics |
 
-<!-- 2026-09-23 class, ingested 2026-09-25: Sandhu Sir, IR handout 2 — Jaishankar’s six phases, IPKF, 1998 as the autonomy choice, multi-alignment and hedging. Soft power still parked. Cluster IR-06. First-pass 29 Sep Q1. -->
+<!-- 2026-09-23 class, ingested 2026-09-25: Sandhu Sir, IR handout 2 — Jaishankar’s six phases, IPKF, 1998 as the autonomy choice, multi-alignment and hedging. Soft power opened 27 Sep as IR-07. Cluster IR-06. First-pass 29 Sep Q1. -->

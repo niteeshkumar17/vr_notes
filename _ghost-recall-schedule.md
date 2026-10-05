@@ -70,6 +70,7 @@ Two **new** clusters per morning, **2–11 September**. After first pass, the sa
 | **Fri 2 Oct** | **Q1: POL-08** (26 Sep Abhey Kumar — qualifications, disqualification, Tenth Schedule, sessions). **Q2: GEO-18** (26 Sep Rizwan Sir — faults, folds, volcanism opened, rock cycle). **Leftover:** **CA-260923** (Haifa). Do **not** steal Q1 or Q2 for Haifa | leftover ladder | leftover ladder | leftover MST if still due |
 | **Sat 3 Oct** | Q1–Q2 stay open for that morning’s classes. **Leftover:** **CA-260924** (24 Sep DURGA e-autos and quality-control orders). Do **not** take the 2 Oct Haifa leftover | leftover ladder | leftover ladder | leftover MST if still due |
 | **Sun 4 Oct** | Q1–Q2 stay open for that morning’s classes. **Leftover:** **CA-260925** (25 Sep Make in India at 12 years). Do **not** take the Haifa or DURGA leftovers | leftover ladder | leftover ladder | leftover MST if still due |
+| **Tue 6 Oct** | **Q1: IR-07** (27 Sep Sandhu Sir — soft power, then the neighbourhood opening: Nye, smart power, Gujral non-reciprocity, Neighbourhood First 2014). **Q2 stays open** for the other class of 27 September. Do **not** steal 3–5 Oct. Neighbourhood First machinery, the Doval Doctrine, and Afghanistan (handout p.5) are the next class | leftover ladder | leftover ladder | leftover MST if still due |
 
 From **16 September**: drop the first-pass column. Q3–Q6 are whatever the ladder marks due (3 / 7 / 16 / 35). New lectures never skip the **+1 day** slot.
 

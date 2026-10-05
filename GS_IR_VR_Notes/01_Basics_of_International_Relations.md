@@ -255,6 +255,12 @@ Same IWT file as class — **do not duplicate** as a new CA topic.
 
 <span style="color: #e53e3e;">**Prelims trap:** PCA says IWT is **in force**; India says it is **in abeyance**. Class said **suspended**. Neutral Expert on Ratle is **July 2027**, then **+90 days** on the concreting bar — not a 2026 finish.</span>
 
+### Update — 27 September 2026 (Sandhu Sir — graded mechanism preview only)
+
+Same treaty. He answered a doubt and **parked the full file for the Pakistan lecture**. **No extra Day-1.**
+
+**Article 9** is a graded, three-tier mechanism. First the **Permanent Indus Commission**. Second a **neutral expert**. Third the **Permanent Court of Arbitration**. Pakistan skipped the earlier stages and went to the PCA. India rejected that decision because the graded order was not followed. The two sides dispute the interpretation. Class wording remains **suspended**; the MEA wording remains **abeyance**. The Ratle dates above are unchanged.
+
 ---
 
 ## 8. Balance of Power (realism)

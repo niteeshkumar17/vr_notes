@@ -7,7 +7,7 @@
 > **Teacher:** **Iqbal Singh Sandhu** (GS International Relations)  
 > **Source:** Vajiram & Ravi class + audio transcript + 6 handwritten notebook pages (dated **9/9/26**, circled **2–6**; page 1 is the WW2 / NATO–Warsaw opener)  
 > **Already elsewhere:** **Mutually Assured Destruction (MAD)** as a UN-assessment critic is in IR-02. **Naxalbari / Naxalism** (1967, “too early” to call Naxal-free) is in Internal Security L1. This file is the **world-order** chain.  
-> **Taught 23 September 2026:** evolution of Indian foreign policy, handout 2 — `05_Evolution_of_Indian_Foreign_Policy.md` (**IR-06**). No extra Day-1 on IR-03. **Still parked:** India as soft power.  
+> **Taught 23 September 2026:** evolution of Indian foreign policy, handout 2 — `05_Evolution_of_Indian_Foreign_Policy.md` (**IR-06**). No extra Day-1 on IR-03. **Taught 27 September 2026:** soft power and the neighbourhood opening — `06_Soft_Power_and_Neighbourhood.md` (**IR-07**). No extra Day-1 on IR-03.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
 
 **World order** = nature of international politics in a **period**. It is **not static**. No permanent friends or enemies (class: US–Japan after Hiroshima; India–US; India–Israel only after the 1990s). **History of IR century-by-century is not GS** — optional (Political Science and International Relations) does that. GS needs **after the Second World War**.
