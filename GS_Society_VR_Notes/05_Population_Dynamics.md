@@ -7,7 +7,7 @@
 > **Faculty:** the Social Issues series. The audio does not name him.  
 > **Cluster:** **SOC-05**, with the tribes half of this sitting on `04_Tribes_and_Tribal_Development.md`. One cluster. Wednesday 30 September, question 2.  
 > **Already elsewhere:** replacement fertility **2.1**, the age-structure dividend, and China’s one-child year **1979** are the 23 September geography class (`GEO-16`). This class gives a survey figure and a five-phase model. Do not merge the two.  
-> **Parked next class:** contraceptives and how family planning is actually done. He named the demographic dividend and the 1981–2021 window on the page, and did not teach the mechanism.
+> **Taught 27 September 2026:** contraceptives, the mortality schemes, and the dividend mechanism — `06_Family_Planning_and_the_Dividend.md` (**SOC-06**). No extra Day-1 on this cluster. The **1981–2021** label on this page was not the window he taught. That window is his, on SOC-06, and it is not the geography class’s **2052–2055**.
 
 ---
 
@@ -87,7 +87,7 @@ From the **1970s**, southern State governments also ran population-control measu
 1. NFHS-5, **2019–21**: birth rate **17.6**, death rate **6.0**, TFR **2.0**, all per the survey. NFHS-6, **2023–24**, is almost the same.  
 2. **1901–21** grew about **5.4 per cent**. **1921–51** about **47 per cent**. **1951–81** was the explosion, **more than 50 per cent**.  
 3. Spoken phases: India **3**, China **4**, the West **5**. The notebook’s “India in phase 4” is the slip.  
-4. Northern TFR **3.1**. Southern TFR **1.8**. Southern population policy starts in the **1970s**. Delimitation is the political fear. Contraceptives are the next class.
+4. Northern TFR **3.1**. Southern TFR **1.8**. Southern population policy starts in the **1970s**. Delimitation is the political fear. Contraceptives, and a separate Islam **3.1**, are the 27 September class (**SOC-06**).
 
 ---
 
@@ -101,4 +101,4 @@ From the **1970s**, southern State governments also ran population-control measu
 
 ---
 
-<!-- 2026-09-24 class, ingested 2026-09-25: population opening of the 11 o'clock Social Issues sitting. Same cluster as tribes Lecture 5, SOC-05, 30 Sep Q2. Contraceptives parked. -->
+<!-- 2026-09-24 class, ingested 2026-09-25: population opening of the 11 o'clock Social Issues sitting. Same cluster as tribes Lecture 5, SOC-05, 30 Sep Q2. Contraceptives opened 27 Sep as SOC-06. -->

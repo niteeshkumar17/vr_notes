@@ -237,7 +237,7 @@ The **7 September** newspaper note is the other reading: MoTA told a power compa
 > **Date of Lecture:** 24 September 2026, the sitting he set for 11 o’clock. Notebook pages dated **24/9/26**, circled **1–3** (tribes) and **4–5** (population, written up separately).  
 > **Date Added:** 2026-09-25  
 > **Cluster:** **SOC-05**. Wednesday 30 September, question 2. Lecture 4 stays question 1.  
-> **Parked:** contraceptives and family planning, the next population class. Naxalism is internal security. He named the demographic dividend and did not teach it. The geography class already holds that mechanism.
+> **Taught 27 September 2026:** contraceptives, family planning, and the dividend mechanism — `06_Family_Planning_and_the_Dividend.md` (**SOC-06**). No extra Day-1 here. The geography window stays **GEO-16**. Naxalism is internal security.
 
 ### 8. Schools, then a better price for forest produce (SOC-05-01, SOC-05-02)
 
