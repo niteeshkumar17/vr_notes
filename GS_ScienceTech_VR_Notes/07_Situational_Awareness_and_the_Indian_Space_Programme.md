@@ -1,17 +1,17 @@
 # 07 — Situational Awareness, Tourism, and the Indian Space Programme
 
-### Lecture 12 — 23 September 2026
+### Lecture 12 — 29 September 2026
 
-> **Date of Lecture:** 23 September 2026  
-> **Date Added:** 2026-09-23  
+> **Date of Lecture:** 29 September 2026. The transcript file is `S_TLecture290926`. The notebook pages are stamped **23/9/26**, circled **2–7**.  
+> **Date Added:** 2026-10-05  
 > **Faculty:** **Vinay Krishna** (GS Science and Technology). Continues Lecture 11 in `04_Space_Technology_Introduction.md`.  
-> **Source:** Vajiram & Ravi class + audio transcript (`S_TLecture290926`) + 6 handwritten sheets (dated **23/9/26**, circled **2–7**)  
-> **Cluster:** **ST-10**. First-pass **Thursday 8 October, Q1**. Do **not** steal **6 Oct** (IR-07 + SOC-06) or **7 Oct** (IR-08 + ECO-15). **23 Sep** already has **IR-06** and **GEO-16** on **29 Sep**. This note does not take that pair.  
+> **Source:** Vajiram & Ravi class + audio transcript (`S_TLecture290926`) + 6 handwritten sheets.  
+> **Cluster:** **ST-10**. First-pass **Thursday 8 October, Q1**, beside **ECO-15** (the other class of 29 September). Do **not** steal **6 Oct** (IR-07 + SOC-06) or **7 Oct** (IR-08).  
 > **Also relevant for:** Prelims (NETRA, IN-SPACe, NSIL, launch sites, NavIC); **GS-III** (space programme, liberalisation, debris law)
 
 **How to read class shortcuts:** full form on first use. Glossary at the end. Do not invent a number the sheet or the audio did not give. Where the two disagree, both are locked and the clash is marked.
 
-The recording file is dated 29 September. The notebook is stamped **23/9/26**, and he opens by finishing the debris sitting of **22 September**. Class date is the sheet.
+He opens by finishing the debris sitting of **22 September**. This class is **29 September**. The pages themselves are stamped **23/9/26**.
 
 Debris itself stays Lecture 11. One mains line he added before leaving it: the world needs a **law**, as early as possible, so that debris removal is a **common or collective responsibility**. That sentence is the bridge. It does not reopen ST-09.
 
@@ -340,4 +340,4 @@ Opening the gate is not enough. The policy has to **enable**.
 
 **Unexpanded on purpose:** ISTRAC, MCF, LPSC, ISAC, SAC, NRSC. He only rattled them.
 
-<!-- 2026-10-05: Vinay Sir space Lecture 12, class date 23 Sep. Cluster ST-10. First-pass 8 Oct Q1. SSA / NETRA / OST loopholes / tourism / three phases. Thumba dates and the 122 manoeuvres stay Lecture 11. Space law and the spillover video parked. -->
+<!-- 2026-10-05: Vinay Sir space Lecture 12, class date 29 Sep. Cluster ST-10. First-pass 8 Oct Q1 beside ECO-15. SSA / NETRA / OST loopholes / tourism / three phases. Thumba dates and the 122 manoeuvres stay Lecture 11. Space law and the spillover video parked. -->

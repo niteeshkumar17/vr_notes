@@ -1,12 +1,12 @@
 # 08 — Sixteenth Finance Commission and Inclusive Growth
 
-### Lecture 11 — 22 September 2026
+### Lecture 11 — 29 September 2026
 
-> **Date of Lecture:** 22 September 2026. Notebook pages dated **22/9/26**, circled **1–8**. The transcript file is named `EcoLecture290926`.  
+> **Date of Lecture:** 29 September 2026. The transcript file is `EcoLecture290926`. The notebook pages are stamped **22/9/26**, circled **1–8**.  
 > **Date Added:** 2026-10-05  
 > **Faculty:** **BS Sir**, the same teacher as Lecture 10. He opened by closing the **15th** Finance Commission. The audio does not repeat his name.  
 > **Source:** Class transcript `EcoLecture290926` + eight notebook pages.  
-> **Cluster:** **ECO-15**. First-pass **Wednesday 7 October, Q2**, beside **IR-08**. Do **not** steal **6 October**.  
+> **Cluster:** **ECO-15**. First-pass **Thursday 8 October, Q2**, beside **ST-10** (the other class of 29 September). Do **not** steal **6 October** or **7 October**.  
 > **Already elsewhere:** the horizontal weights (including **contribution to GDP, 10%**) stay the comparison table in Lecture 10 (`03_Taxation.md`, **ECO-13-06**). Do not rebuild that table. **41% + 1%** for Jammu & Kashmir and Ladakh was already the 15th’s vertical; this class says the **16th repeats it**. The **₹70,000 / ₹10,000 / ₹60,000** off-budget picture is **Indian Oil** on **ECO-06**. Air India’s yearly loss of about **₹7,200 crore** is already on **ECO-13**. The surcharge slabs (**10% / 15% / 25%**) and the **seven** cesses still operational stay Lecture 6. The **October 2023** dividend-tax demand of about **₹11,000 crore** stays Lecture 5. The jacket-factory story, and the two-dimension diagram, stay Section F of `02_Fiscal_Policy_Budget_and_Syllabus_Overview.md`. The **₹12 lakh** rebate stays Lecture 6; he only used it as a revenue-foregone example.  
 > **Parked — next class:** **financial inclusion**. He named a **2026** mains line — the social and economic significance of financial inclusion, and the components of the financial inclusion index — and said a similar question was asked in **2023**. Heading only. He did not teach the index.  
 > **How to read class shortcuts:** full form on first use. Glossary at the end.
@@ -201,4 +201,4 @@ What this sitting added under the heads:
 | UPI | Unified Payments Interface |
 | VB-G RAM G | Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin) |
 
-<!-- 2026-10-05: BS Sir, 22 Sep, Lecture 11 — 16th Finance Commission (Panagariya, grants, the scrap of revenue-deficit grants, deficit path) and the opening of inclusive growth. Cluster ECO-15. First-pass 7 Oct Q2. Financial inclusion parked. Horizontal weights stay ECO-13. -->
+<!-- 2026-10-05: BS Sir, 29 Sep, Lecture 11 — 16th Finance Commission (Panagariya, grants, the scrap of revenue-deficit grants, deficit path) and the opening of inclusive growth. Cluster ECO-15. First-pass 8 Oct Q2 beside ST-10. Financial inclusion parked. Horizontal weights stay ECO-13. -->
