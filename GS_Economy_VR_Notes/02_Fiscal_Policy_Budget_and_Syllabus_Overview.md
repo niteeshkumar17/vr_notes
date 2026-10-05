@@ -365,7 +365,7 @@ Working windfall = **surtax / special additional excise duty** on **Indian** cru
 |---|---|---|
 | **14th FC** | — | Reference taken for comparison |
 | **15th FC** | — | Current reference |
-| **16th FC** | **1 April 2026 – 31 March 2031** (5 years) | Just started; will be studied in detail |
+| **16th FC** | **1 April 2026 – 31 March 2031** (5 years) | Taught **22 September 2026** as **ECO-15** (Panagariya, grants, the scrap of revenue-deficit grants). Do not open a second Day-1. |
 
 - **15th FC Devolution:** Centre transfers **41%** of divisible pool to states. Working **14th / 15th** (32% → 42%, the 1% Jammu & Kashmir and Ladakh adjustment, and the horizontal weights) is **Lecture 10** on `03_Taxation.md` (cluster **ECO-13**). Do not open a second Day-1 for the 41% line.
 - CGST collected ≠ all stays with Centre → part goes to States through devolution → On every item, States effectively get more than Centre
@@ -377,6 +377,10 @@ Working windfall = **surtax / special additional excise duty** on **Indian** cru
 ## Section F: Inclusive Growth & Development
 
 > **GDP** measures only **quantity** (production value). When we see **quantity + quality** → that is **Inclusive Growth / Development**.
+
+### Update — 22 September 2026 (BS Sir — features and factors only)
+
+The four features (equity, poverty alleviation, sustainability, capability), the scheme names on them, Sen, and the expressway and search-cost lines are **ECO-15**. The jacket factory and this diagram stay here. **Financial inclusion** is still only a heading. No extra Day-1.
 
 ### Two Dimensions
 

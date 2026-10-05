@@ -1902,7 +1902,7 @@ UPSC heading is **government budgeting** (a slice of fiscal policy). Four names 
 
 **Prelims trap:** ZBB is **not** “ignore the country’s needs.” It ignores **last year’s rupee as the starting point**.
 
-**Covered 21 September 2026** as **Lecture 10** (cluster **ECO-13**): outcome vs performance, gender budgeting, **14th** and **15th** Finance Commission. The **16th** Commission’s own vertical and horizontal chapter is still the next class. The pandemic extension belongs to the **15th** (award through **31 March 2026**), not the 14th.
+**Covered 21 September 2026** as **Lecture 10** (cluster **ECO-13**): outcome vs performance, gender budgeting, **14th** and **15th** Finance Commission. The **16th** Commission’s own chapter is **Lecture 11**, **22 September 2026**, cluster **ECO-15**. The pandemic extension belongs to the **15th** (award through **31 March 2026**), not the 14th.
 
 ---
 
@@ -2184,7 +2184,7 @@ The pool is first set aside (42%, or 41% plus 1%). **Then** that money is split 
 
 How the 15th moved the points, in his arithmetic: population lost **2.5** and demographic performance gained **2.5** (the control-population complaint). Income distance lost **5**. Of that 5, **2.5** went to forest (now **forest and ecology**) and **2.5** to a new **tax and fiscal efforts** line, so that Haryana, Maharashtra and Goa would be credited for collecting tax and cutting unwanted subsidies. Area stayed **15**.
 
-**16th, compared and not yet taught.** Population weight back to **17.5**, because States with more people said the 15th had cut the money they need to support that population. Demographic performance back to **10**. Income distance **42.5**, and the benchmark is no longer Haryana alone. Area **10**. Forest and ecology stays **10**. Tax effort **out**. **Contribution to GDP, 10%, in for the first time.** He already gave the criticism, to be used when the chapter is taught: rewarding a larger GDP gives more to the richer State and less to the poorer one, which is the opposite of a commission whose job is balance. **Next class:** the 16th’s vertical and horizontal write-up. He previewed local-body grants under the 16th at **₹9.47 lakh crore**, against the 15th’s **₹4.36 lakh crore**. Do not build the 16th chapter from that one number.
+**16th, compared here and written up on 22 September (ECO-15).** Population weight back to **17.5**, because States with more people said the 15th had cut the money they need to support that population. Demographic performance back to **10**. Income distance **42.5**, and the benchmark is no longer Haryana alone. Area **10**. Forest and ecology stays **10**. Tax effort **out**. **Contribution to GDP, 10%, in for the first time.** He already gave the criticism: rewarding a larger GDP gives more to the richer State and less to the poorer one, which is the opposite of a commission whose job is balance. That criticism is now the concerns page of **ECO-15**. He previewed local-body grants under the 16th at **₹9.47 lakh crore**, against the 15th’s **₹4.36 lakh crore**. The grant split, and the fact that the rupee figures do not sum, stay **ECO-15**. Do not rebuild them here.
 
 ---
 
@@ -2219,7 +2219,7 @@ On GST, a Union Territory **without** a legislature is the other case already in
 - Centre: bring the fiscal deficit down to **4% of GDP by 2025–26**.
 - States, as a percentage of Gross State Domestic Product: **4% in 2021–22**, **3.5% in 2022–23**, **3% during 2023–26**. He tied the tighter cap to the cash-subsidy habit: if States may borrow past 3%, some of them distribute cash instead of building.
 
-**GST.** Revenue neutrality should be restored. Multiple rates, and cuts in those rates, had compromised it. Rationalise by **merging 12% and 18%**. (What the government later did — **5% and 18%**, plus the special rate — is Lecture 8, not a new slab.) **Abolish the inverted-duty** mechanism (Lecture 8). **Revenue-deficit grants** for hilly and North-Eastern areas, so a State whose revenue expenditure exceeds its revenue receipts can still meet necessary spending. He said the 16th also has a grant of this kind. Detail next class.
+**GST.** Revenue neutrality should be restored. Multiple rates, and cuts in those rates, had compromised it. Rationalise by **merging 12% and 18%**. (What the government later did — **5% and 18%**, plus the special rate — is Lecture 8, not a new slab.) **Abolish the inverted-duty** mechanism (Lecture 8). **Revenue-deficit grants** for hilly and North-Eastern areas, so a State whose revenue expenditure exceeds its revenue receipts can still meet necessary spending. He said the 16th also has a grant of this kind. **The next class scrapped it**, along with the 15th’s sector-specific and state-specific grants. That scrap is **ECO-15**. No extra Day-1.
 
 **What he wrote as the merits**
 
@@ -2232,7 +2232,7 @@ On GST, a Union Territory **without** a legislature is the other case already in
 - A performance grant pushes a municipality toward whatever **shows up as revenue** (a hall, a renovation) and away from a local road or a drain, which has no revenue to measure. He called that an unjust firing of the idea.
 - If States spend only **untied** funds, **cooperative fiscal federalism** gets weaker. A State then **cannot hold the Union responsible** for the State’s own fiscal imprudence (cash, extra subsidy). That **dilutes the joint responsibility** of the Union and the States. Working together on a Centrally Sponsored Scheme, even across parties, was his picture of how other programmes then get implemented. His examples of the opposite: **Ayushman Bharat** not taken up by the West Bengal government, and earlier not by the Delhi government. The people lose the benefit.
 
-**Next class:** 16th Finance Commission, vertical and horizontal. Remind him. The weight table above is only the comparison.
+The 16th’s own chapter — vertical kept at 41 + 1, the grants, and the concerns — was taught on **22 September 2026** as **ECO-15**. The weight table above stays the comparison. Do not open a second Day-1 for those weights.
 
 ### Lecture 10 — locks
 
@@ -2241,12 +2241,12 @@ On GST, a Union Territory **without** a legislature is the other case already in
 3. Finance Commission recommendations are **advisory**. Vertical = Centre vs States. Horizontal = among States. Pool is national, not a State’s own tax returned to it.
 4. **14th:** **32% → 42%**, untied. Delink **over 30** schemes suggested, **8** done. GST compensation suggestion **100 / 75 / 50**; government did **100% for five years** plus **14%**.
 5. **15th:** **41%** to States, **1%** to Jammu & Kashmir and Ladakh. **N. K. Singh**, November **2017**, award **2020–26**. Local-body grants **₹4.36 lakh crore**, split **90% population, 10% area**. Million-plus cities: **100%** performance-linked via the challenge fund.
-6. New indicator in the **14th**: **forest**. New in the **15th**: **tax and fiscal efforts (2.5%)**. New in the **16th**: **contribution to GDP (10%)**. The 16th chapter itself is next class.
+6. New indicator in the **14th**: **forest**. New in the **15th**: **tax and fiscal efforts (2.5%)**. New in the **16th**: **contribution to GDP (10%)**. The 16th chapter itself is **ECO-15** (22 September). The preview that the 16th still has a revenue-deficit grant was withdrawn there.
 
 ---
 
 <!-- 2026-09-15: Appended Lecture 8 (15/9) from transcript + 6 notebook pages — Vivad DT / Sabka IDT, BAT vs ADD/CVD, SMA–NPA–ARC–SARFAESI, e-Bikray→BAANKIT 3 Jan 2025, VAT MANVAT/MODVAT/CENVAT/ITC/inverted duty, GST dual/zero-rated/e-way, 22 Sep 2025 rates, NAA→CCI. GST Council/GSTAT/RPM/composition parked. Cluster ECO-08. -->
 <!-- 2026-09-17: Ghost Recall. MST-095 repeat 2 — Sabka sheet IT = Indirect Tax; key 1+3+4. MST-096 held (5+18+40 + cess). BAT = ADD recovered. -->
 <!-- 2026-09-17: Appended Lecture 9 (17/9) from transcript + 7 notebook pages — composition 1/5/6, GST Council votes, subsumed taxes, RPM ≥₹5k, GSTAT s.109 Sep 2025 Delhi+31, zero/nil/exempt/non-GST, merits–demerits, angel tax scrap 1 Apr 2025, schemes vs non-schemes 2017–18, line-item vs ZBB. Cluster ECO-09. -->
-<!-- 2026-09-21 class, ingested 2026-09-25: Lecture 10 — outcome vs performance, gender budgeting, 14th and 15th Finance Commission. 16th chapter parked. Cluster ECO-13. -->
+<!-- 2026-09-21 class, ingested 2026-09-25: Lecture 10 — outcome vs performance, gender budgeting, 14th and 15th Finance Commission. 16th chapter opened 22 Sep as ECO-15. Cluster ECO-13. -->
 

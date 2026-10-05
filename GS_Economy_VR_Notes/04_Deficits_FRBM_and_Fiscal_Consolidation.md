@@ -87,7 +87,7 @@ It tries to show the **net / real adverse impact** of the revenue deficit: take 
 
 Class: when we say “India’s fiscal deficit is x%” we usually mean the **Centre only**. Combine Centre + States and the number is **much larger** (class said **more than 10%** in that illustration — do not treat as a current official print). **Indian Oil** example: asked the Centre for **₹70,000 crore**; Budget support **₹10,000 crore**; remaining **₹60,000 crore** borrowed outside = off-budget.
 
-Based on **C. Rangarajan** and **Bimal Jalan** committee recommendations (sheet: “Vimal”; same Jalan as the RBI surplus committee in L01). **Not accepted** as the headline deficit. **16th Finance Commission** (from **1 April 2026**): class — **off-budget borrowings to stop**.
+Based on **C. Rangarajan** and **Bimal Jalan** committee recommendations (sheet: “Vimal”; same Jalan as the RBI surplus committee in L01). **Not accepted** as the headline deficit. **16th Finance Commission** (from **1 April 2026**): class — **off-budget borrowings to stop**. The full recommendation — those liabilities also enter the fiscal deficit and the debt, Centre **3.5% by 2030–31**, States **3% of GSDP** — is **ECO-15** (22 September). No extra Day-1. The ₹70,000 / ₹10,000 / ₹60,000 illustration stays here.
 
 ---
 
