@@ -230,4 +230,8 @@ Two questions he answered, and one he left.
 | TFR | total fertility rate |
 | UIP | Universal Immunisation Programme |
 
+### Update — 30 September 2026 (public-health class — polio wording)
+
+The science sitting (`08_Immunity_Link_and_Vaccines.md`, **ST-11**) splits the words this note had joined. **Elimination** is India’s polio-free certification in **2014**. The **last case** was **2011**, West Bengal, and the rule he stated is **three years** with no new case. **Eradication** is global, and polio is not there yet: **Pakistan and Afghanistan** still circulate live virus. This note’s own line — eradicated in 2014, and **Bangladesh** — stays what that teacher said. Do not replace it. **No extra Day-1.**
+
 <!-- 2026-10-05: Social Issues, 27 Sep — contraceptives, IMR and the delivery schemes, culture of poverty, the dividend window, China against the 1976 Emergency, child sex ratio. Cluster SOC-06. First-pass 6 Oct Q2 beside IR-07. Communalism parked. -->

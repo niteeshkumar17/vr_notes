@@ -475,7 +475,7 @@ Human body → WBC (White Blood Cells)
 > **Cluster:** **ST-05**. First Ghost Recall **9 September 2026**.  
 > **Source:** 8 notebook pages + `S_and_TLecture080926` transcript.  
 > **Already in Lecture 1 (`ST-01`):** virus = obligate intracellular parasite; nucleocapsid; DNA **or** RNA never both; tropism; spike / ACE-2; antibody-mediated immunity; culture medium is **always living**. Today **uses** those, then zoonosis, antigenic variation, three culture methods, and innate vs adaptive (Treg + 2025 Nobel).  
-> **Parked for next sitting:** communication link between innate and adaptive immunity.
+> **Parked for next sitting:** communication link between innate and adaptive immunity. **Taught 30 September 2026** as public-health Lecture 3 (`08_Immunity_Link_and_Vaccines.md`, **ST-11**). Do not re-learn it here.
 
 Class recap (do not re-learn as new): **Virus Attachment Protein (VAP)** of SARS-CoV-2 is the **spike protein**. It docks on **Angiotensin-Converting Enzyme 2 (ACE-2)** receptors on **human lung cells** → attachment → **entry / penetration** → virus-infected host cell → pneumonia.
 
