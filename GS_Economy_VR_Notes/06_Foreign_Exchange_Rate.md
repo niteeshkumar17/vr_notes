@@ -6,7 +6,7 @@
 > **Source:** Class transcript + four notebook pages dated **20/9/26**  
 > **Opens:** he named the small modular reactor and then postponed it. This sitting is the economy course. **Nanotechnology** stays the last science chapter.  
 > **Cluster:** **ECO-11**  
-> **Parked next class:** what expansionary and contractionary policy do **to the rupee**. Contractionary policy was named only as the inflation tool. The mechanism was not taught.
+> **The effect on the rupee** was taught on **3 October 2026** (`10_Policy_the_Rupee_and_the_Three_Systems.md`, **ECO-17**). Contractionary policy was only named in this sitting.
 
 Prelims will jumble the demand-and-supply lines. He said not to memorise the list. Treat a currency like any other commodity.
 
@@ -185,7 +185,7 @@ Printing **may** be inflationary. It is not automatic. Inflation follows when th
 
 ## 7. Expansionary policy, and where the class stopped (ECO-11-07)
 
-He used this topic to join fiscal policy, money and banking, and inflation to the exchange rate. The **effect on the rupee** was the point, and the period ended before he reached it. **Next class.**
+He used this topic to join fiscal policy, money and banking, and inflation to the exchange rate. The **effect on the rupee** was the point, and the period ended before he reached it. That effect, and the three exchange-rate systems, are the **3 October** class.
 
 **Monetary policy** is made by the central bank, the RBI. It works on two things: **money supply**, and the **cost of capital** (interest on a loan).
 
@@ -227,7 +227,7 @@ Loans then become more **available** (banks are eager) and more **affordable** (
   <text x="568" y="92" text-anchor="middle" font-size="12" fill="#1e40af">RBI: print, cut CRR/SLR, buy G-Secs, cut repo</text>
   <text x="568" y="112" text-anchor="middle" font-size="12" fill="#1e40af">Government: spend more, tax less</text>
   <text x="568" y="132" text-anchor="middle" font-size="12" fill="#1e40af">Ability to pay returns → demand → output</text>
-  <text x="568" y="158" text-anchor="middle" font-size="12" fill="#1e3a8a">What this does to the rupee = next class</text>
+  <text x="568" y="158" text-anchor="middle" font-size="12" fill="#1e3a8a">What this does to the rupee = 3 Oct class</text>
 </svg>
 </div>
 
@@ -241,7 +241,7 @@ Loans then become more **available** (banks are eager) and more **affordable** (
 4. Outflow (imports, outgoing FDI/FPI, loan repayment and interest) raises demand for dollars. If dollars are scarce, the rupee depreciates. Imports become costlier, exports more competitive. Tendency only.
 5. No sector-blind verdict. Importers like a strong rupee. Exporters like a weak one. India runs a trade deficit, so a weaker rupee makes the import bill harder and may feed inflation. China is accused of holding its currency down for exports.
 6. Sharp moves hurt somebody badly. Gradual moves get factored in. The RBI caps a rising rupee by **printing rupees and buying dollars** (those dollars enter the reserve). It caps a falling rupee by **selling reserve dollars**. Over the previous one and a half years it had been doing the second.
-7. Expansionary policy revives demand: RBI raises liquidity and cuts the repo; the government spends more and taxes less. **What that does to the rupee was not taught.**
+7. Expansionary policy revives demand: RBI raises liquidity and cuts the repo; the government spends more and taxes less. **What that does to the rupee is the 3 October class: expansionary depreciates, contractionary appreciates, both in the short run.**
 
 ---
 

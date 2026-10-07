@@ -46,7 +46,7 @@
 
 Money & Banking as taught **19 September 2026** (currency, demand deposits, bond price and yield, G-Secs) is `05_Money_and_Banking.md`. Cluster **ECO-10**. This table stays the syllabus map.
 
-**Shobhit Uniyal Sir, 20 September 2026** (`06_Foreign_Exchange_Rate.md`, **ECO-11**): expansionary fiscal policy, in that class, means **higher government spending** (revenue and capital) and **lower tax rates**, so that people have money to spend. What that does to the **rupee** was left for the next sitting.
+**Shobhit Uniyal Sir, 20 September 2026** (`06_Foreign_Exchange_Rate.md`, **ECO-11**): expansionary fiscal policy, in that class, means **higher government spending** (revenue and capital) and **lower tax rates**, so that people have money to spend. What that does to the **rupee**, and the three exchange-rate systems, are the **3 October** class (`10_Policy_the_Rupee_and_the_Three_Systems.md`, **ECO-17**).
 
 ### Budget — Historical Context
 - **Pre-2000:** Budget presented at **5:00 PM** — convenient for Britishers to print and return same day; no legal basis for this timing
