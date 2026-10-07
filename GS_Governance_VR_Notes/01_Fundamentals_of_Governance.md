@@ -11,7 +11,7 @@
 
 **Already elsewhere — do not restudy as a new topic:** Directive Principles of State Policy (DPSP) as a *polity* chapter (this faculty’s **Pol-PS** later). **Viksit Bharat — Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G)** vs Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) = [22 August 2026 CA](file:///c:/Users/nitee/OneDrive/Desktop/UPSE_Syllabus/Current_Affairs/August_2026/2026-08-22_Current_Affairs.md). **Equalisation Levy / faceless assessment** sit on Economy tax notes. Today only uses those as *governance dimensions*.
 
-**Parked for next class:** merits and demerits of the **generalist** nature of civil services. Full chapters on **Right to Information (RTI) Act**, **Citizen Charter**, **pressure groups**, **e-governance**.
+**Parked for next class:** merits and demerits of the **generalist** nature of civil services. Full chapters on **Right to Information (RTI) Act**, **Citizen Charter**, and **e-governance**. The India-versus-United States method of a pressure group is Lecture 2 (`02_Development_NGOs_and_Poverty.md`). Handout page 9 is still parked.
 
 **Mains lock Sir opened with:** “Minimum government and maximum governance is **not merely a slogan** but an **administrative philosophy**. In the context of the statement, discuss various initiatives taken by the Government of India to promote minimum government and maximum governance.”
 
@@ -279,7 +279,7 @@ Most decisions that affect a citizen’s life come from **administrative** insti
 
 **Prelims trap:** quasi-judicial ≠ “not a court, so no civil-court powers.” Class: they **do** enjoy civil-court powers; they are **not** bound by court *procedure*.
 
-**Parked:** merits / demerits of the **generalist** nature of civil services = **next class**.
+**Parked:** merits / demerits of the **generalist** nature of civil services = still the next class. Lecture 2 (30 September) only named e-governance, the citizen charter, the Right to Information, and direct benefit transfer as reform tools. It did not teach them.
 
 ---
 

@@ -188,4 +188,8 @@ Implementing simultaneous elections would necessitate widespread constitutional 
 
 ---
 
+### Update — 30 September 2026 (Gov-PS class — one aside)
+
+In the development lecture he used the **Special Intensive Revision** as an example of civil-society research, not as a new election topic. He said **ERONet** will not let the officer add an eligible voter, and that it deletes different people who share a name and a father’s name. **Form 6** was named and not explained. The revision, the Booth Level Officer, and the deletion safeguards stay this note. **No extra Day-1.** The aside lives in `GS_Governance_VR_Notes/02_Development_NGOs_and_Poverty.md` (**GOV-02**).
+
 <!-- 2026-08-17: Created daily current affairs note covering (1) Special Intensive Revision (SIR) of Electoral Rolls, ASD Lists, BLO verification & deletion safeguards under RPA 1950 / Rule 21A, and (2) One Nation One Election (ONOE) constitutional, federal, democratic & economic critique (GS-2). -->

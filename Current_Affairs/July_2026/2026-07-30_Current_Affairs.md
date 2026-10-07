@@ -293,4 +293,10 @@ File photo: Opposition MPs protested the FCRA Bill in the **Budget Session** (**
 | **Key Settlement** | **Majdal Shams** — largest Druze town in the Israeli-controlled Golan Heights. |
 | **Strategic Significance** | High altitude provides a dominant military vantage point over Damascus (60 km away) and key water sources feeding the Jordan River basin. |
 
+### Update — 30 September 2026 (Gov-PS class — classroom reading only)
+
+The development lecture (`GS_Governance_VR_Notes/02_Development_NGOs_and_Poverty.md`, **GOV-02**) teaches the same statute. **Do not restudy the Bill, the Joint Parliamentary Committee, or Article 300A from here.**
+
+**New class locks, kept beside this note and not merged with it.** Administrative expenses he capped at **50 per cent** of foreign funds. The **2020** amendment on this page caps them at **20 per cent**. A licence, he said, is renewed every **five years**. Re-granting he dated to **2020**, which this page already has as the sub-grant bar. If the licence is cancelled, a designated authority under the Ministry of Home Affairs operates the balance. He read that as aimed at Christian missionary schools and hospitals. Greenpeace and Amnesty International are his examples. The plant Greenpeace was said to have delayed was not named. **No extra Day-1.**
+
 <!-- 2026-09-20: Hindu — JPC first sitting on FCRA Amendment Bill 2026. Designated authority vs 5 Nov 2018 prescribed authority (ACS/PS Home); Art 300A prior-hearing argument; religious cataloguing questioned; pre-1976 Societies/Trusts/Companies; MHA = national security legislation. Patch only; no extra Day-1. JPC 21+10 = POL-07. -->
