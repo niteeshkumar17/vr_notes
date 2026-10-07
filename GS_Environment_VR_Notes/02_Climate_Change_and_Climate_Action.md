@@ -189,7 +189,7 @@ Oceans have **high specific heat**. Atmosphere and ocean sit at an interface, so
 | **Party** | A country that has joined |
 | **COP** | **Conference of the Parties** — parties meet regularly |
 
-**COPs of UNFCCC:** first **1995**. Held **every year** except **2020** (pandemic). **COP 30 — 2025**. Next class starts **COP 3, Kyoto, 1997**.
+**COPs of UNFCCC:** first **1995**. Held **every year** except **2020** (pandemic). **COP 30 — 2025**. The next class, **2 October 2026**, starts at **COP 3, Kyoto, 1997** and is `03_Kyoto_Paris_and_Hydrogen.md`.
 
 ### 6.1 Mitigation
 
@@ -325,3 +325,4 @@ Examples: **Direct Seeded Rice (DSR)** (cuts paddy **CH₄** vs flooded transpla
 
 <!-- 2026-08-29: Created from Environment Lecture 2 transcript and seven notebook pages — climate change definition, IPCC AR6, GHGs and sinks, SBM/landfills, GHG vs pollutant, UNFCCC/CCS, SLR/SIDS, CSA. -->
 <!-- 2026-09-09: Tibetan Plateau 39,000 sq km / 14,000 lakes extras on ENV-02-07; full clip on 29 Aug CA. -->
+<!-- 2026-10-07: Kyoto onward is the 2 Oct class (ENV-03). Methane’s warming potential of 21, ocean acidification, and the loss-and-damage fund live there. This note keeps the sources, the 420 ppm, and the heat-sponge figure. -->
