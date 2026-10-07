@@ -248,6 +248,10 @@ Fuel quantity is a **strong determinant of lifespan**. First mistake after dry t
 
 **Coverage assignment (remember):** **three** satellites on the vertices of an **equilateral triangle**, same orbit, **35,786 km** from Earth’s **surface** → **global coverage**. Same orbit ⇒ **same** orbital velocity. Towers cannot wrap the planet this cheaply.
 
+### Update — 5 October 2026 (one craft is still regional)
+
+The waves class (`09_Waves_Spectrum_and_Geostationary_Orbit.md`) keeps this height and adds the two conditions, the period **23 hours 56 minutes 4 seconds**, and a distinction: **one** geostationary satellite sees **one face**, so it is **regional**. Three craft on the ring are how the globe is covered. **GISAT-1A**, also **EOS-05**, is his rare imaging example for that orbit. The launch note above still holds: the rocket put it in a **transfer** orbit, to be raised.
+
 <div style="overflow-x:auto;">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-label="Three satellites in equilateral triangulation covering Earth" style="display:block;margin:0 auto;width:100%;min-width:340px;max-width:680px;font-family:system-ui,Segoe UI,Arial,sans-serif;">
 <rect x="1" y="1" width="638" height="318" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
