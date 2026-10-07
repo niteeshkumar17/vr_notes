@@ -3,7 +3,7 @@
 > **Date of Lecture:** 19 September 2026 (Lecture 1 of this topic)  
 > **Date Added:** 2026-09-25  
 > **Source:** Class transcript + four notebook pages dated **19/9/26** (Topic 2: Money & Banking)  
-> **Opens:** he said national income was finished, and this topic starts. Money-market instruments are the **next class**.  
+> **Opens:** he said national income was finished, and this topic starts. Money-market instruments are the **next class**, taught **1 October 2026** as Lecture 2 (`09_Money_Market_and_the_RBI_Balance_Sheet.md`, **ECO-16**).  
 > **Cluster:** **ECO-10**
 
 Prelims weight is high. He said at least one bond question turns up almost every year, sometimes two. Mains has also started asking.
@@ -261,7 +261,7 @@ Two types, by maturity:
 
 **Words.** A **security**, in the financial sector, can mean any financial instrument (bond, debenture, share). A **government security** means a short-term or long-term loan taken by the government. Unless a stem says otherwise, a **bond** means **long term**.
 
-**Next class:** money-market instruments. He asked the handout to be read before that sitting. Short-term corporate paper was named and parked. NBFCs were named and parked.
+**Next class:** money-market instruments. Taught **1 October 2026** (`09_Money_Market_and_the_RBI_Balance_Sheet.md`, **ECO-16**). Short-term corporate paper and NBFCs were named here and are still parked there.
 
 ### Lecture 1 — locks
 

@@ -30,6 +30,10 @@ Class logic: telling the country the gap **after** the year is over is useless �
 
 **Ways and Means Advances (WMA):** sheet “Ways & Means bill” — **Reserve Bank of India (RBI)** can lend to the **Government of India (GoI)** for **90 days**.
 
+### Update — 1 October 2026 (money-market class — two contrasts only)
+
+The banking lecture (`09_Money_Market_and_the_RBI_Balance_Sheet.md`, **ECO-16**) did not rebuild this chapter. It added the balance-sheet path: loans to government raise the Bank’s assets, so currency, the main liability, has to rise, and that is the inflation. From **1997** the loans continue as Ways and Means Advances, but the **amount is limited** and the **interest is higher**. The **90 days** stay this note. He did not repeat them. **No extra Day-1.**
+
 ---
 
 ## 2. Before 1997: Monetised Deficit and Deficit Financing (ECO-06-02)
