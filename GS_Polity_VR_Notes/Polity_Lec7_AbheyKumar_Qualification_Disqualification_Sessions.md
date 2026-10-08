@@ -13,7 +13,7 @@
 
 He opened by restating the three special powers of the Speaker of the Lok Sabha (LS). Those locks stay in Lecture 6 (`Polity_Lec6_AbheyKumar_Houses_Motions_Speaker.md`, **POL-07-10**): Money Bill certificate is final for the House and still open to a court; joint sitting is presided by Speaker, then Deputy Speaker, then Deputy Chairman of the Rajya Sabha (RS), never the RS Chairman; **Article 94** keeps the Speaker until immediately before the next LS meets. The sheet writes **Article 99** on that continuity line. He said **Article 94**. Lock 94.
 
-**Parked for the next sitting:** passage of bills, then the budget as financial control. **Article 108** (how a joint sitting is called) was promised in Lecture 6 and was not opened today beyond who presides. The longer reform handout was named, not taught.
+**The next sitting is now in.** Passage of bills, lapse, the joint sitting, delimitation, and the three funds are Lecture 8 (`Polity_Lec8_AbheyKumar_Passage_of_Bills_and_Financial_Control.md`). The budget, the ordinance, and the Governor are still parked. **Article 108** was opened there. Who presides stays in Lecture 6.
 
 ---
 
@@ -219,7 +219,7 @@ The dispute is how to read those two steps.
 
 **No Supreme Court judgment** has closed this. **Presiding officers have consistently used the disjunctive reading.** His example: the Aam Aadmi Party’s RS legislature party had **10** members; **7** (more than two-thirds) decided to merge with the **BJP legislature party in the RS**; the original party had **not** merged. On the presiding-officer practice, that merger stands. He called the suitcase version of the same fact the reason the reading is easy to misuse. Do not turn 7 of 10 into a Supreme Court holding.
 
-**2. Presiding officers.** Speaker, Deputy Speaker, Chairman, Deputy Chairman. If they **resign the party on being elected**, and **do not join another party**, they are not disqualified. Neutrality sits above party loyalty. Resigning and then joining another party is **not** this exception. His sketch: a Speaker who resigns and then joins the Congress has given up the neutrality.
+**2. Presiding officers.** Speaker, Deputy Speaker, Chairman, Deputy Chairman. If they **resign the party on being elected**, and **do not join another party**, they are not disqualified. Neutrality sits above party loyalty. Resigning and then joining another party is **not** this exception. His sketch: a Speaker who resigns and then joins the Congress has given up the neutrality. On **6 October** he added the end of the tenure: once the term is over, that Speaker **may rejoin the same party**, and may also choose not to. Joining **another** party during the tenure is still outside this exception.
 
 **3. Split — removed.** Originally, **not less than one-third** of the legislature party could break away and form a new party. Too easy, especially in a group of five or six. Removed by the **91st Constitutional Amendment Act, 2003**. That is the **same** amendment that capped the Council of Ministers at **15%** of the LS (Lecture 4). **No split is protected now.**
 
@@ -318,7 +318,7 @@ Do not mix this one-tenth with the **quorum** of one-tenth in Article 100. Diffe
 - The **one-third split is dead** (91st Amendment, 2003).
 - Motion of Thanks is **as good as** confidence in his classroom. It is not the no-confidence motion.
 - Budget-session dates are a season, not a calendar to memorise.
-- **Article 108** and the budget chapter are the next class.
+- **Article 108** was opened on **6 October**. The budget, the ordinance, and the Governor are the next class.
 
 ---
 
