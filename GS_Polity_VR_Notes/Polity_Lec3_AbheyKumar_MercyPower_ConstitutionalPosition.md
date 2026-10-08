@@ -43,7 +43,7 @@
 - Bill was widely criticized as an attack on citizens' privacy
 
 ### Important Distinction: Parliamentary Bills vs State Bills
-- SC ruling on pocket veto for **Governor on state bills** = **different** issue (SC said no pocket veto for Governor)
+- SC ruling on pocket veto for **Governor on state bills** = **different** issue (SC said no pocket veto for Governor). The **7 October** class pins that to the **2025** reference, and adds that withholding **simpliciter** is the absolute veto that is barred. The holdings are Lecture 9.
 - This case is about **Parliamentary bill coming to President** — completely separate
 
 ---

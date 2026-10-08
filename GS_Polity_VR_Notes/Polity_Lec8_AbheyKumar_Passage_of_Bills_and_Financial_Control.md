@@ -11,7 +11,7 @@
 
 **How to read class shortcuts:** full form on first use. Glossary at the end. Do not invent a number the sheet or the class did not give.
 
-Lecture 7 parked this sitting: how a bill passes, then the budget as financial control. The budget itself, the ordinance, and the Governor are still the next classes. He asked them to read **Article 110** item by item (he counted **eight** provisions) and **Article 112(3)** before that class. Do not fill those lists from outside this recording.
+Lecture 7 parked this sitting: how a bill passes, then the budget as financial control. The budget in Parliament, the ordinance, and the opening of the Governor are Lecture 9. He asked them to read **Article 110** item by item (he counted **eight** provisions) and **Article 112(3)** before that class. Do not fill those lists from outside this recording.
 
 The veto table on a Money Bill, and the rule that a constitutional-amendment bill must receive assent after the **24th Constitutional Amendment Act, 1971**, stay in Lecture 2. Who presides at a joint sitting stays in Lecture 6. The **41%** vertical share of the Finance Commission stays in the economy notes. This class uses that share as an idea for seats. It does not re-teach the commission.
 
@@ -288,7 +288,7 @@ Two reasons something is charged.
 
 The list itself is **Article 112(3)**. He set it as homework and named the items above. Do not add items he did not name.
 
-**Parked for the next sitting:** the **budget in Parliament**, then the **ordinance**. With that, Part V closes and **Part VI** opens on the **Governor**. He asked them to read the budget and the ordinance, and the Governor if time allowed.
+**Taken in the next sitting:** the **budget in Parliament**, then the **ordinance**. With that, Part V closes and **Part VI** opens on the **Governor**. That sitting is Lecture 9.
 
 At the door he answered two questions. On a **Rajya Sabha** count, if one seat is still open and **two** already elected candidates still hold surplus votes, **both** surpluses are transferred. He did not re-teach the system. On the Speaker: after the **tenure is over**, a Speaker who resigned the party to stay neutral **may rejoin that same party**, and may also choose not to. Lecture 7 still holds for the tenure itself: resigning and then joining **another** party is not the neutrality exception.
 
@@ -313,4 +313,4 @@ At the door he answered two questions. On a **Rajya Sabha** count, if one seat i
 | CEC | Chief Election Commissioner |
 | IIT | Indian Institute of Technology, in the clause-3 sketch |
 
-<!-- 2026-10-08: Abhey Kumar Lecture 8, class date 6 Oct. Cluster POL-09. First-pass 12 Oct Q2 beside ST-12. Passage of bills, lapse, joint sitting, delimitation, the three funds. Veto table and the 24th Amendment stay Lecture 2. Joint-sitting chair stays Lecture 6. The 41% share stays the economy notes. Budget, ordinance, and the Governor are the next class. -->
+<!-- 2026-10-08: Abhey Kumar Lecture 8, class date 6 Oct. Cluster POL-09. First-pass 12 Oct Q2 beside ST-12. Passage of bills, lapse, joint sitting, delimitation, the three funds. Veto table and the 24th Amendment stay Lecture 2. Joint-sitting chair stays Lecture 6. The 41% share stays the economy notes. Budget, ordinance, and the Governor are Lecture 9 (POL-10). -->

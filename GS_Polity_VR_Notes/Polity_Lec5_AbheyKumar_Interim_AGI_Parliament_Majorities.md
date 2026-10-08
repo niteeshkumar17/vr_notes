@@ -133,7 +133,7 @@ Class meta-pattern: **3 + 3 + 3** (duties in text / extra duties / rights).
 
 1. Represent GoI in the **SC** (when required).
 2. Represent GoI in **HCs** (when required — AGI cannot physically cover every HC; other law officers go).
-3. Represent GoI in the SC on a **Presidential reference under Article 143** (**advisory jurisdiction** of the SC). Class: last year’s Tamil Nadu Governor / withheld-bills reference. **Minimum 5 judges.** Advocates argue; AGI puts the government’s doubt.
+3. Represent GoI in the SC on a **Presidential reference under Article 143** (**advisory jurisdiction** of the SC). Class: last year’s Tamil Nadu Governor / withheld-bills reference. **Minimum 5 judges.** The **7 October** class names it **Re: Assent, Withholding and Reservation of Bills, 2025**, and teaches the Article 200 holdings. Those holdings are Lecture 9. Advocates argue; AGI puts the government’s doubt.
 
 ---
 
