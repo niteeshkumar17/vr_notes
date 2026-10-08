@@ -137,7 +137,7 @@ A parliamentary committee **cannot run without RS members**. Many **ministers** 
 
 **PMs from RS (class four):** **Indira Gandhi**, **I.K. Gujral**, **H.D. Deve Gowda**, **Dr Manmohan Singh**. Sheet listed the first three + Manmohan. **Narendra Modi = 15th PM** → 4 of the previous 14.
 
-**Line to hold:** **RS is not a secondary House; it is the second House.** (State **Legislative Councils** *are* secondary to Assemblies — later topic.)
+**Line to hold:** **RS is not a secondary House; it is the second House.** State **Legislative Councils** *are* secondary to Assemblies. That teaching is **Lecture 10** (8 October).
 
 ---
 

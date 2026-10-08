@@ -293,7 +293,7 @@ RS resolution **in national interest** authorising **Parliament to legislate on 
 
 Same majority also for: **approval of National Emergency**; **removal** of **SC / HC judges**, **Chief Election Commissioner (CEC)**, **Comptroller and Auditor General (CAG)**.
 
-**Legislative Council create / abolish:** State **Legislative Assembly** resolution by this **tough** majority → **Parliament by law** → **simple** majority (Constitution silent = simple).
+**Legislative Council create / abolish:** State **Legislative Assembly** resolution by this **tough** majority → **Parliament by law** → **simple** majority (Constitution silent = simple). The six States, the resolution that is necessary and not sufficient, and the five-way composition are **Lecture 10**. The simple majority stays this line.
 
 ### (iii) Article 61 — impeachment of the President
 

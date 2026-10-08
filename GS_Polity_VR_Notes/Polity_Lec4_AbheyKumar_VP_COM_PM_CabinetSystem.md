@@ -466,7 +466,7 @@ Cabinet Committee takes decision
 | **Art 75** | Appointment & Collective Responsibility of CoM |
 | **Art 75(3)** | CoM collectively responsible to Lok Sabha |
 | **Art 77(3)** | President to make TOBR and AOBR |
-| **Art 352** | National Emergency — **only place "Cabinet" is mentioned** in Constitution (added by 44th CAA, 1978) |
+| **Art 352** | National Emergency — **only place "Cabinet" is mentioned** in Constitution (added by 44th CAA, 1978). Written advice, and the rest of the 44th redesign, are Lecture 10 |
 | **91st CAA, 2003** | CoM size capped at 15% of Lok Sabha strength |
 
 ---

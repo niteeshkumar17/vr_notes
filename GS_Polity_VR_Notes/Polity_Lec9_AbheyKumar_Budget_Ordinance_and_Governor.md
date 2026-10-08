@@ -249,20 +249,20 @@ The constitutional position of the President, from the earlier class: a **consti
 | Design | More influence than power | **Both power and influence** |
 | Without the Council | Cannot function | **Can** |
 
-With respect to the Council of Ministers, **the office of the Governor is far more secure, and far more powerful, than the office of the President.** The President cannot exercise an executive function without the Council’s advice, or against it. The Governor can. A caretaker Council is a Union practice. It is not necessary in a State. Under **President’s rule** the Council is dismissed, and the Governor runs the State with the Chief Secretary. The when and the why of that rule are the next class.
+With respect to the Council of Ministers, **the office of the Governor is far more secure, and far more powerful, than the office of the President.** The President cannot exercise an executive function without the Council’s advice, or against it. The Governor can. A caretaker Council is a Union practice. It is not necessary in a State. Under **President’s rule** the Council is dismissed, and the Governor runs the State with the Chief Secretary. The when and the why of that rule are **Lecture 10** (8 October).
 
 Every discretionary situation of the President is also available to the Governor, **except the pocket veto**, which the Governor does not have. He did not repeat the President’s list. The **additional** powers, which the President does not have, are these.
 
 1. **Article 163(1)** declares that the Governor enjoys discretion. It does not list the powers.
 2. **Article 163(2).** If there is a question whether a matter is discretionary, **that question is itself the Governor’s discretion**, and only **within the Constitution**. There is no question about the Governor deciding the State budget, or about making a Chief Minister against a clear majority.
 3. **Article 200.** Reserve **any** bill, **including a Money Bill**.
-4. **Article 356.** The Governor may, on their own, **invite the President to take over** the administration of the State. That is President’s rule. The when and the why are tomorrow.
+4. **Article 356.** The Governor may, on their own, **invite the President to take over** the administration of the State. That is President’s rule. The when and the why are **Lecture 10**.
 5. **Convention.** A **fortnightly report** to the Union. Administration, new laws, law and order, or whatever the Governor chooses to write. The invitation under Article 356 can go in that report.
 6. **Article 371**, and the lettered articles after it (**371A, 371B, 371C**, and the rest of that line). The Governors of **some** States have a **special responsibility** written into the Constitution. He named **Gujarat, Maharashtra, Nagaland, Manipur, Sikkim, Arunachal Pradesh, and Karnataka**. For these matters the Governor acts on the **direction of the President**, meaning the Union, and **subject to those directions** may still decide what is not written down. The State Council’s advice does not run here. The one example he gave for someone who is not from the State: the **Governor of Gujarat**, the development of **Kutch and Saurashtra**. If you are from one of the seven, read that provision. Do not complete the other six from outside this class.
 
 The State **Council of Ministers** is not different from the Union. The same **15%** limit, already in Lecture 4. Cabinet minister and minister of state, the same. Reforms of the Governor’s office he will give **in writing**. They were not dictated. Do not invent a commission’s list.
 
-**Parked for the next sitting:** the **State legislature**, and then the **Union territories**. **Article 356** in full, the when and the why, is part of that next sitting.
+**Taught on 8 October, Lecture 10:** the **State legislature**, the **Union territories**, and **Article 356** in full. **Article 360** was named and not taught. Fundamental rights are the class after that.
 
 ---
 
@@ -289,4 +289,4 @@ The State **Council of Ministers** is not different from the Union. The same **1
 | Art | Article |
 | UPSC | Union Public Service Commission |
 
-<!-- 2026-10-08: Abhey Kumar Lecture 9, class date 7 Oct. Cluster POL-10. First-pass 13 Oct Q1. Q2 stays open. Budget, ordinance, Governor opened. Charged expenditure and the three funds stay Lecture 8. Veto table stays Lecture 2. The discretion contrast stays Lecture 3. The five-judge reference stays Lecture 5. DRSC 21+10 stays Lecture 6. Art 356 in full, the State legislature, and Union territories are the next class. -->
+<!-- 2026-10-08: Abhey Kumar Lecture 9, class date 7 Oct. Cluster POL-10. First-pass 13 Oct Q1. Budget, ordinance, Governor opened. Charged expenditure and the three funds stay Lecture 8. Veto table stays Lecture 2. The discretion contrast stays Lecture 3. The five-judge reference stays Lecture 5. DRSC 21+10 stays Lecture 6. The State legislature, the Union territories, and Article 356 in full are Lecture 10 (POL-11). -->

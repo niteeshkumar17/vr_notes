@@ -304,7 +304,7 @@ This year’s example, already on Lecture 6 as a failed bill: the **last three d
 - It passes by a **simple majority**. Putting an emergency on is hard. Taking it off is easy.
 - If it passes, the **President shall revoke**. Nothing ends by itself. The President has to **issue the order**. The LS can force that order.
 
-Do not mix this one-tenth with the **quorum** of one-tenth in Article 100. Different articles.
+Do not mix this one-tenth with the **quorum** of one-tenth in Article 100. Different articles. The one-month clock, the six months counted from approval, and the 44th changes to the grounds are **Lecture 10**. This notice stays here.
 
 ---
 
