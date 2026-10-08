@@ -130,7 +130,7 @@ Lepton family. **Tiny (not massless)** mass, **not yet quantified** in class; **
 
 Because they barely interact, they keep information from **origin of the universe**, neutron stars, nuclear events. They **cannot be contained** — class: in principle useful even for spotting **hidden underground nuclear activity**. Hard to detect.
 
-**India-based Neutrino Observatory (INO):** **Theni district, Tamil Nadu** — **Bodi West Hills**. Tunnel **~1.2 km** deep so only neutrinos arrive; other radiation is absorbed. **IceCube** neutrino observatory = **Antarctica**, **not** India’s.
+**India-based Neutrino Observatory (INO):** **Theni district, Tamil Nadu** — **Bodi West Hills**. Tunnel **~1.2 km** deep so only neutrinos arrive; other radiation is absorbed. **IceCube** neutrino observatory = **Antarctica**, **not** India’s. The **7 October** public-health class is the **2026 Physics Nobel**: Francis Halzen, Cherenkov light in the South Pole ice, high-energy neutrinos from within and beyond the Milky Way. Those holdings are that note. The mass is still only “non-zero”. He gave no number.
 
 ---
 

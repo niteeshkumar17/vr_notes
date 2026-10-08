@@ -199,7 +199,7 @@ He dictated the two expansions. **Secondary immune response** is the strong, spe
 2. **HIV / AIDS** and **hepatitis C** still have **no effective vaccine**. Mutation is so frequent, and the virus expresses so many different proteins while it replicates, that the vaccine cannot be updated fast enough. This is why hepatitis C is in both tables: no vaccine, and the reason is the speed of the change. The treatment for hepatitis C remains the earlier line.
 3. The **ideal** role is to prevent **both infection and disease**. The **necessary** role is to prevent **disease**. A new variant can still **infect** a vaccinated person, because it **escapes** the antibody. That infection need not become virulence, a hospital stay, or death. **Cell-mediated immunity, the T-cells**, still holds it. COVID is the example.
 
-**Types of vaccine are the next class.** He told them to read the handout and bring it. Do not fill that chapter from outside this sitting.
+**Types of vaccine are Lecture 4** (7 October). The one-in-10-million figure, VAPP, and VDPV are that sitting. Do not fill the recombinant mechanisms from outside either class. He named those branches and did not open them.
 
 ---
 
@@ -220,4 +220,4 @@ He dictated the two expansions. **Secondary immune response** is the strong, spe
 | ICMR | Indian Council of Medical Research |
 | HIV / AIDS | Human immunodeficiency virus / acquired immunodeficiency syndrome |
 
-<!-- 2026-10-07: Public-health Lecture 3, class date 30 Sep. Cluster ST-11. First-pass 9 Oct Q2 beside GOV-02. Dendritic-cell link; opsonisation; control-elimination-eradication; vaccine ingredients, safety, and Covaxin. Types of vaccine parked. Polio wording differs from SOC-06. -->
+<!-- 2026-10-07: Public-health Lecture 3, class date 30 Sep. Cluster ST-11. First-pass 9 Oct Q2 beside GOV-02. Dendritic-cell link; opsonisation; control-elimination-eradication; vaccine ingredients, safety, and Covaxin. Types of vaccine are Lecture 4 (ST-13). Polio wording differs from SOC-06. -->
