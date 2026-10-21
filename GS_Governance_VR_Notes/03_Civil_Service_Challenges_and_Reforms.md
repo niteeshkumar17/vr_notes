@@ -8,7 +8,7 @@
 > **Source:** Class transcript `GoveranceL041026` + six handwritten sheets.  
 > **Cluster:** **GOV-03**. First-pass **Sunday 11 October, Q2**, beside **ECO-17**. Do **not** steal **8–10 October**.  
 > **Already in Lecture 1:** Weber, the two heads of a ministry, and the officers as agents of change. This class does not rebuild that. It starts at the **challenges**. The merits of the generalist model were treated as already settled. They were not dictated in this recording.  
-> **Parked:** the **Right to Information Act** in full. He used two of its rules today and said the Act is the next class. E-governance as a chapter stays Lecture 1. One line on information technology is here.
+> **Taught on 9 October:** the Right to Information Act in full (`04_Right_to_Information.md`, **GOV-04**). He used two of its rules today. Those two stay here. E-governance as a chapter stays Lecture 1. One line on information technology is here.
 
 ---
 
@@ -67,7 +67,7 @@ The **Second Administrative Reforms Commission** made five observations. The sho
 
 **Smita Sabharwal**, a senior IAS officer of the **Telangana** cadre, took to social media and criticised the Gujarat government’s handling of the **Ishrat Jahan** encounter. Senior IPS officers of Gujarat were involved, and the public prosecutor had not opposed a bail plea. She was issued a notice under **Rule 9**. Lecture 1’s “Fund Your City” stays that note.
 
-An outdated pair: the **Right to Information Act, 2005**, beside the **Official Secrets Act, 1923**, which is still a colonial law. The Act itself is the next class. Two points only.
+An outdated pair: the **Right to Information Act, 2005**, beside the **Official Secrets Act, 1923**, which is still a colonial law. The Act in full is the 9 October note (`04_Right_to_Information.md`). Two points only, and they stay here.
 
 - If an application **exceeds 250 words**, **Rule 4** leaves it to the **discretion** of the public authority, who may **refuse** the information. There is **no standard format**, so the word limit is easy to trip. That dilutes the purpose of the law.
 - The Official Secrets Act covers matters with a **direct or indirect** bearing on **national security**. The word **secret is not defined**. An action with no such bearing can still be stamped secret. That fights transparent administration and leaves the agencies a subjective power.
@@ -219,7 +219,7 @@ Why he dislikes the long runway: if the attempt fails at 32, after six tries, li
 
 **Performance management.** The 2nd ARC wanted it to be **consultative** and **job-specific**. One further recommendation he added: recruit the civil servant initially for **20 years**. He said ten once, and corrected it to twenty. After 20 years, a **performance appraisal**. Satisfactory work continues. Unsatisfactory work means **compulsory retirement**.
 
-The handout runs into a second day. The next class starts there. The Right to Information Act, in full, is the chapter he named.
+The handout's next chapter is the Right to Information Act, taught on **9 October** (`04_Right_to_Information.md`). The ethical half stays with the ethics faculty.
 
 <span style="color: #e53e3e;">**Prelims trap:** Vohra’s triangle ends in the **criminal**. Crony capitalism’s triangle ends in the **businessman**. The average IAS posting is **16 months**. Hota’s fixed term is **three years**. The CAPF Bill keeps **67 per cent** of Inspector General posts and **all** Director General posts for the IPS. Lateral entry is **three years**, **no pension**, and the **2024** notification was **withdrawn**. The 2nd ARC’s general-category gate is **25 years and four attempts**. The promotee share is **30 per cent**. The first appraisal he added is at **20 years**.</span>
 
@@ -257,4 +257,4 @@ The handout runs into a second day. The next class starts there. The Right to In
 | SCS / PCS / PPS | State Civil Services / Provincial Civil Services / Provincial Police Service |
 | ICT | Information and Communication Technology |
 
-<!-- 2026-10-07: Governance, class date 4 Oct, Gov-PS. Cluster GOV-03. First-pass 11 Oct Q2 beside ECO-17. Challenges of the civil services, then lateral entry and the 2nd ARC gate. RTI in full, and the ethical half, are the next classes. Weber and the named officers as agents of change stay Lecture 1. -->
+<!-- 2026-10-07: Governance, class date 4 Oct, Gov-PS. Cluster GOV-03. First-pass 11 Oct Q2 beside ECO-17. Challenges of the civil services, then lateral entry and the 2nd ARC gate. RTI in full is GOV-04 (9 Oct). The ethical half is still the ethics class. Weber and the named officers as agents of change stay Lecture 1. -->
