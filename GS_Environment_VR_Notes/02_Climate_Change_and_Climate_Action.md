@@ -203,7 +203,7 @@ Three methods in this lecture:
 
 **CCS:** capture CO₂ at a **point source** (e.g. thermal power plant) so it never enters the air; **pressurise** and **inject** it into empty pore space of **depleted oil and gas fields** / other sub-surface sedimentary rock; cap with an **impermeable** layer.
 
-If some of the captured CO₂ is also **used** in industry, the name becomes **Carbon Capture, Utilisation and Storage (CCUS)**. Utilisation / recycling of carbon = **next lecture**. Prelims has already asked CCUS.
+If some of the captured CO₂ is also **used** in industry, the name becomes **Carbon Capture, Utilisation and Storage (CCUS)**. Utilisation, as recycled carbon dioxide going into an electrofuel, is the **9 October** class. Prelims has already asked CCUS.
 
 **Hard truth from class:** however hard we mitigate, we **cannot** return to pre-industrial GHG levels **in this century**. Climate change is a **lived reality** → adaptation is not optional.
 

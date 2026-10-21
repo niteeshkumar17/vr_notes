@@ -68,6 +68,10 @@ graph TD
   * Improve quality of degraded forest/tree cover over another **5 million hectares (Mha)** (Total 10 Mha).
 * **Nationally Determined Contribution (NDC) Under Paris Agreement:**
   * India committed to creating an **additional carbon sink of 2.5 to 3.0 billion tonnes of $CO_2$ equivalent** by 2030 through additional forest and tree cover.
+
+### Update — 22 October 2026 (environment class, 9 October)
+
+The 9 October class repeated this **2.5 to 3 billion tonne** sink and then dictated **NDC 3.0** (March 2026, for 2031–35): the sink rises to **3.5 to 4 billion tonnes by 2035**. The 2030 figure stays this note. The rest of that class is `GS_Environment_VR_Notes/04_Electrofuels_Climate_Action_and_Ozone.md`.
   * The **Long-Term Low-Carbon Development Strategy (LT-LEDS)** explicitly designates GIM as a cornerstone programme for carbon sink creation.
 * **Ecosystem Services:** Forest conservation directly impacts groundwater recharge, soil stabilization, biodiversity conservation, and tribal/forest-dwellers' livelihood security under FRA 2006.
 

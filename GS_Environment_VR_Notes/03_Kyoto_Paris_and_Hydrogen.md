@@ -9,7 +9,7 @@
 > **Cluster:** **ENV-03**. First-pass **Saturday 10 October, Q2**, beside **ECO-16**. Do **not** steal **9 October**.  
 > **Already in Lecture 2:** the 1990 assessment report, the Rio Summit and the Framework Convention, what a COP is, mitigation, carbon sinks, and carbon capture. Today **starts at COP 3**, as that note parked.  
 > **Already in the August notes:** India’s carbon-sink number under its national contribution, and the trade fight that uses “common but differentiated responsibilities and respective capabilities.” This class teaches the principle and the temperature deal. Do not rebuild those clips.  
-> **Parked:** **electrofuels**, **Mission LiFE** (Lifestyle for Environment), and the detail of **India’s own** national contributions. He named all three and left them.
+> **Taught on 9 October:** **electrofuels**, and the detail of **India’s own** national contributions. **Mission LiFE** (Lifestyle for Environment) is still parked.
 
 He is not taking the conferences in calendar order. He is taking them by the argument.
 
@@ -164,7 +164,7 @@ The controversy is the clock. The first target was **E20 by 2030**, and the manu
 
 **COP 30, last year, Belém, Brazil.** The audio landed as “Bilum” and “Bellum.” Forests are the symbol of that meeting, and the Belém package has forest points he did not open. What he taught is the **Belém 4X pledge**. The jump from fossil to non-fossil cannot be overnight. The fuels in the gap are **sustainable fuels**, because they keep the economy standing while the transition happens. Four of them: **biofuels, biogas, hydrogen, and electrofuels**.
 
-**Biogas** is the gaseous mixture from the **anaerobic** decomposition of organic waste. That chemistry is already Lecture 2. **Electrofuels are the next class.**
+**Biogas** is the gaseous mixture from the **anaerobic** decomposition of organic waste. That chemistry is already Lecture 2. **Electrofuels are the 9 October class.**
 
 ---
 
@@ -237,6 +237,6 @@ Industry has barely adopted it. Hydrogen is stored at **extremely high pressure*
 | IEA | International Energy Agency |
 | GLOF | Glacial-lake outburst flood |
 | EV | Electric vehicle |
-| LiFE | Lifestyle for Environment, named and not taught |
+| LiFE | Lifestyle for Environment, named and still not taught |
 
-<!-- 2026-10-07: Environment, class date 2 Oct. Cluster ENV-03. First-pass 10 Oct Q2 beside ECO-16. Kyoto through Belém, then hydrogen colours. Electrofuels and Mission LiFE parked. COP 1–2 and the capture method stay Lecture 2. -->
+<!-- 2026-10-07: Environment, class date 2 Oct. Cluster ENV-03. First-pass 10 Oct Q2 beside ECO-16. Kyoto through Belém, then hydrogen colours. Electrofuels and India's own contributions are the 9 October class. Mission LiFE stays parked. COP 1–2 and the capture method stay Lecture 2. -->

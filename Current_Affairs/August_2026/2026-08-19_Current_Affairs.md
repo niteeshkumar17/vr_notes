@@ -218,4 +218,8 @@ graph TD
 
 ---
 
-<!-- 2026-08-19: Created daily current affairs note covering (1) SC scrutiny on Delhi Police FRS at NEET protest vs Article 21 Right to Privacy, Puttaswamy 4-prong proportionality standard, and Article 19(1)(b) peaceful assembly, and (2) 12th BRICS Environment Ministers Meeting opposing EU CBAM as unilateral green protectionism, India's steel export exposure, and COP30 adaptation finance tripling. -->
+### Update — 22 October 2026 (environment class, 9 October)
+
+The class taught the mechanism. The European measure is the **Carbon Border Adjustment Mechanism**. The United Kingdom’s is a **carbon border tariff**. **Carbon leakage** means the emission-intensive plant relocates. India calls both taxes protectionist and against common but differentiated responsibilities. With the United Kingdom, a firm that has already paid under India’s **Carbon Credit Trading Scheme** has that cost factored into the British levy. The BRICS statement on this page stays as it was.
+
+<!-- 2026-08-19: Created daily current affairs note covering (1) SC scrutiny on Delhi Police FRS at NEET protest vs Article 21 Right to Privacy, Puttaswamy 4-prong proportionality standard, and Article 19(1)(b) peaceful assembly, and (2) 12th BRICS Environment Ministers Meeting opposing EU CBAM as unilateral green protectionism, India's steel export exposure, and COP30 adaptation finance tripling. 22 Oct: the 9 Oct class added the mechanism and the UK tariff. No new cluster. -->
