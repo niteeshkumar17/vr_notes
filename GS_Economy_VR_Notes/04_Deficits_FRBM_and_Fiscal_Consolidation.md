@@ -59,7 +59,7 @@ Higher **fiscal deficit** = higher **borrowings**. Borrowing is **not bad** if i
 2. The **borrowing rate of interest** rises (interest = **price of money**). Higher cost can be **passed to consumers** as higher prices.
 3. Because the borrowing is largely for **non-developmental RE**, **income and demand** are transferred **without corresponding output** → **inflation risk**.
 
-**India’s inflation target (margin):** **4% ± 2** → band **2–6%**. Class: should not go below **2** or above **6**. Why, from Shubham Raturi Sir on **21 Sep** (`07_Inflation.md`, **ECO-14**): above 6 punishes the consumer; below 2 punishes the producer. No extra Day-1.
+**India’s inflation target (margin):** **4% ± 2** → band **2–6%**. Class: should not go below **2** or above **6**. Why, from Shubham Raturi Sir on **21 Sep** (`07_Inflation.md`, **ECO-14**): above 6 punishes the consumer; below 2 punishes the producer. The index that band is aimed at is **CPI combined**, taught **10 Oct** (`11_Inflation_Impacts_and_Indices.md`, **ECO-18**). No extra Day-1.
 
 ---
 

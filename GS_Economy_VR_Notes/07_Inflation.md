@@ -6,7 +6,7 @@
 > **Source:** Class transcript + notebook pages dated **20/9/26** and **21/9/26**  
 > **Cluster:** Lecture 1 = **ECO-12**. Lecture 2 = **ECO-14**.  
 > **This teacher’s map, not taught today:** after inflation (about two and a half to three classes) come trade agreements, then the capital market (bonds, shares, forwards and options, GIFT City), then foreign investment. Foreign portfolio investment he called broadly short-term; foreign direct investment broadly long-term.  
-> **Parked next class:** the rest of the **impact** list (savers, fixed-income earners, rich and poor, employers and employees, bond and stock investors, export competitiveness, bracket creep and fiscal drag). Basket **weights**, and **CPI / WPI**, are still a later measurement class. Pump-and-dump in the share market is the capital-market class, not this one.
+> **Taught on 10 October:** the rest of the impact list, and CPI, WPI and PPI (`11_Inflation_Impacts_and_Indices.md`, **ECO-18**). **Fiscal drag** was named here and not opened. The GDP deflator’s method, the measures that control inflation, and the Phillips curve are the next half hour. Pump-and-dump in the share market is the capital-market class, not this one.
 
 The **4% ± 2** band is on the deficits note. He restated it in **Lecture 2**, and added why the floor and the ceiling exist.
 
@@ -398,7 +398,7 @@ The **largest debtor in any country is its government**. The largest in the worl
 
 The same person can be hurt in one role and helped in another. As a lender she loses. As a borrower she gains.
 
-**Named, and not opened, when the class stopped:** savers; fixed-income earners; rich and poor; employers and employees; capitalists and labour; profit earners and wage earners; bond investors and stock investors; export competitiveness; taxpayers, through **bracket creep** and **fiscal drag**.
+**Taught on 10 October** (`11_Inflation_Impacts_and_Indices.md`): savers; fixed-income earners; rich and poor; employers and employees; capitalists and labour; profit earners and wage earners; bond investors and stock investors; export competitiveness; taxpayers, through **bracket creep**. **Fiscal drag** was named and not opened.
 
 ### Lecture 2 — locks
 
@@ -443,4 +443,4 @@ The same person can be hurt in one role and helped in another. As a lender she l
 ---
 
 <!-- 2026-09-20 class, ingested 2026-09-25: Shubham Raturi Sir — inflation basics. Cluster ECO-12. -->
-<!-- 2026-09-21 class, ingested 2026-09-25: Lecture 2 — imported inflation, cartels, hoarding, expectations, sterilisation, deflation and the cousin words, speed bands, greedflation, creditors and debtors. Impact list parked. Cluster ECO-14. -->
+<!-- 2026-09-21 class, ingested 2026-09-25: Lecture 2 — imported inflation, cartels, hoarding, expectations, sterilisation, deflation and the cousin words, speed bands, greedflation, creditors and debtors. The impact list and the indices are ECO-18 (10 Oct). Fiscal drag was not opened. Cluster ECO-14. -->
