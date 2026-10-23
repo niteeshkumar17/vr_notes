@@ -1,8 +1,8 @@
-# Modern India (1860s–1940s) — Lectures 1–8: Nationalism to the first Gandhian movements
+# Modern India (1860s–1940s) — Lectures 1–9: Nationalism to Rowlatt, 1919, and Khilafat
 
-> **Date of Lecture:** 22 September 2026 (**Lecture 8**)  
-> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5), 6 September 2026 (L6), 8 September 2026 (L7)  
-> **Date Added:** 2026-08-30; L5 **2026-09-01**; L6 **2026-09-06**; L7 **2026-09-08**; L8 **2026-09-22**  
+> **Date of Lecture:** 23 October 2026 (**Lecture 9**)  
+> **Earlier lectures:** 11 August 2026 (L1), 21 August 2026 (L2), 27 August 2026 (L3), 30 August 2026 (L4), 1 September 2026 (L5), 6 September 2026 (L6), 8 September 2026 (L7), 22 September 2026 (L8)  
+> **Date Added:** 2026-08-30; L5 **2026-09-01**; L6 **2026-09-06**; L7 **2026-09-08**; L8 **2026-09-22**; L9 **2026-10-23**  
 > **Subject:** GS-I (Modern Indian History) | **Also relevant for:** GS-IV (Ethics — Thinkers: Gandhi, Nehru, Tagore, Ambedkar), Essay, Prelims, Interview  
 > **Source:** Class Notes (Dictated + Abstract) | Study Material (Handouts + Yellow Books) | *India's Struggle for Independence* — ed. Bipan Chandra (Penguin)  
 > **Standard Textbook:** *India's Struggle for Independence* by Bipan Chandra et al. (Penguin, India Ltd.) — Covers 1857–1947, Undergraduate level  
@@ -37,7 +37,8 @@
 12. **The Making of Mahatma** — Gandhi in South Africa (1893–1914/15); Satyagraha named; religious thought
 13. **Lecture 6 — Mass Mobilizations and the Dialogues (part taught 6 Sep)** — Gandhian political thought; Satyagraha as method; Gandhi & Tagore on nationalism and education.
 14. **Lecture 7 — 8 Sep** — **Wardha Scheme / Nai Taleem (1937)**; Gandhi vs Nehru (state, trusteeship, religion); Gandhi vs Ambedkar (untouchability, caste, Hinduism).
-15. **Lecture 8 — 22 Sep** — what they **did**: Harijan Sevak Sangh; Macdonald / Communal Award; Poona Pact (**71 → 147**); Champaran, Ahmedabad, Kheda. Rowlatt and Khilafat–NCM named, not retaught.
+15. **Lecture 8 — 22 Sep** — what they **did**: Harijan Sevak Sangh; Macdonald / Communal Award; Poona Pact (**71 → 147**); Champaran, Ahmedabad, Kheda. Rowlatt and Khilafat–NCM are **Lecture 9**.
+16. **Lecture 9 — 23 Oct** — Rowlatt Act and the satyagraha; Jallianwala Bagh and the Punjab wrongs; Government of India Act, 1919. Khilafat opened through the Treaty of Sèvres. The methods of non-cooperation were not taught.
 
 ---
 
@@ -1666,7 +1667,7 @@ Also: stop untouchability and discrimination against **Kali praja** — Dalits a
 
 ---
 
-**This sitting stopped here.** He was starting a test. Rowlatt (1919) and Khilafat–Non-Cooperation (1920–22) stay the next movements in the order, already on Lecture 5.
+**This sitting stopped here.** He was starting a test. Rowlatt (1919), Jallianwala Bagh, the Government of India Act, 1919, and the opening of Khilafat are **Lecture 9** (23 October, **MOD-B9**). The methods of non-cooperation are still the next class.
 
 ### Lecture 8 — locks
 
@@ -1681,7 +1682,145 @@ Also: stop untouchability and discrimination against **Kali praja** — Dalits a
 
 ---
 
-## UPSC PYQ Connections (Lectures 1–8)
+### Lecture 9 — 23 October 2026 (Mohammad Tarique Sir)
+
+> Notebook dated **23/10/26**, marked **His-MT**, circled **2**. Eight sheets.  
+> **Cluster:** **MOD-B9**. First-pass **Saturday 24 October, Q2**, beside **ECO-18**. Do **not** steal that morning’s Q1.  
+> **Already taught:** Champaran, Ahmedabad and Kheda are Lecture 8. Montagu is the Secretary of State and Chelmsford the Viceroy, recommendations **1918**, Act **1919**, stay Lecture 5. The prayer **Ishwar Allah tero naam**, and the argument about religion in politics, stay Lecture 7. Separate electorates begin in **1909** (Lecture 4). This class uses those lines.  
+> **Parked:** the **methods** of non-cooperation, its features, why Gandhi withdrew, and the criticisms. He wrote the questions and stopped. He also said **6 April** has a second reason, and did not give it.
+
+He called **1919** a turning point: the freedom struggle before that year, and the freedom struggle after it. The questions can be asked separately. They are more likely to be clubbed.
+
+---
+
+## 40. The Rowlatt Act, January 1919 (MOD-B9-01)
+
+In **January 1919** the **Rowlatt Act** was passed. The name is **Sir Sidney Rowlatt**. The audio kept saying “1990.” The year is **1919**.
+
+Under it, any person could be arrested on a charge of **sedition**, even on a **suspicious** ground, for **two years without trial**. Suspicion is vague. A policeman can pick a person up, and if after two years the magistrate finds no evidence, the two years are already gone. He called this a side-effect of the modern legal system: **the process is the punishment**. The government would say the law was for security. Nationalists said it was something else. Both versions have to be known before a judgment.
+
+Why they opposed it, in the two heads he wanted written.
+
+- The law gave **immense power to the police and other agencies to misuse**.
+- Its **objective** was to **suppress the nationalist movement**.
+
+**How** they opposed it.
+
+Indian political parties united and called it a **draconian** law: very harsh, very brutal. The slogan was **no appeal, no vakil, no daleel**. For those two years you cannot hire a lawyer and you cannot appeal. The slogan was used later in other movements. **Originally it belongs here.**
+
+The parties did not all react the same way. **Constitutionalists**, who would follow only what the law allowed, included **Jinnah**. He **resigned from the Imperial Council**. The audio said “China.” The sheet writes Jinnah.
+
+**Mahatma Gandhi** formed a **Satyagraha Sabha**, to mobilise ordinary people, **including women**. He started the **Sarva Dharma Prarthana Sabha**, an all-religion prayer meeting. He sang with a **pandit**, a **maulvi**, a **granthi** and a **padre**. The headlines of the prayers, not the full songs: **Raghupati Raghav Raja Ram**, and **Ishwar Allah tero naam**. The second line, and the longer argument about religion and politics, stay Lecture 7. What is new is why he used it **in this movement**, which he called the first in which he brought religion into the politics.
+
+Two reasons. Political consciousness was still low, and most people were religious. A class appeal, the communist hope, would not fill a street. And ordinary Indians thought the British could not be beaten: Bengal, the Marathas and Punjab had lost, and the empire held about a quarter of the world. If God is with you, God is stronger than the British. Once people believe that, they come out, and the crowd is the pressure. A third contrast: in **1905** Tilak and others had used **Hindu** symbols, which separated minorities. Gandhi chose an all-religion prayer.
+
+He also started an **all-India strike on 6 April 1919**. It is the **first** such strike. Earlier strikes had been local pockets. It was successful by the standard of the time. Even **Bombay** halted completely: railway staff, factories, offices and shops. Bombay was the most industrialised city, and after the electric bulb arrived in the late nineteenth century it had begun to work through the night. A halt there was the point. Historians treat this as Gandhi’s first **India-level** political movement. Champaran, Ahmedabad and Kheda had been the smaller game.
+
+In **Delhi** the strike was organised by **Dr. M.A. Ansari** and **Asaf Ali**. The audio said “Aksa Ali.” The sheet writes **Arif Ali**. Elsewhere there were strikes, protests and public meetings against the Act.
+
+Between **1915 and 1920** the Congress was changing hands. **Gokhale** died in **1915**. **Tilak** was ill, in and out of court, and died in **1920**. **Annie Besant**, after the Home Rule League, had almost retired. Two men were rising, and either could have led the Congress, which at that time meant leading the national movement. **Gandhi and Jinnah.** Both lawyers, both Gujarati, both disciples of Gokhale, both with a sharp political mind. Gandhi was deeply religious and lived simply. Jinnah was almost agnostic, and aristocratic in dress, car, house, wine and cigar. Rowlatt, and then Khilafat and non-cooperation, gave Gandhi the opening Jinnah missed. Jinnah, in this telling, never forgot that Gandhi had taken the place.
+
+---
+
+## 41. Jallianwala Bagh, 13 April 1919 (MOD-B9-02)
+
+The most intense protest against the Act was in **Delhi** and **Punjab**. In Punjab it was led by **Dr. Saifuddin Kitchlew** and **Dr. Satyapal**. The audio once said “Satyapal Malik.” The name he settled, and the sheet, is **Dr. Satyapal**. Their **arrest** triggered the movement.
+
+People of **Amritsar** assembled at **Jallianwala Bagh** to protest that arrest. Another group was there for **Baisakhi**, the harvest festival, on **13 April 1919**. **General Dyer**, in charge of law and order in Amritsar, reached the ground and closed **the only gate** with his troops. The bagh was a walled Mughal garden. Later inquiry, in his reading, shows Dyer had decided to kill before he arrived. He gave the order to **fire without warning**: no warning, no shot in the air, no firing below the belt. The shots were to the head and chest. That is the point on which Dyer is blamed. He was senior enough to have given the crowd five or ten minutes to leave. Women and children were in the ground.
+
+This killed **more than 1,000** people, mostly women and children, from **Hindu, Muslim, Sikh and Christian** families. The **official** figure is **379**.
+
+The incident shocked the nation and the world. Gandhi **withdrew** the anti-Rowlatt movement and called it a **Himalayan blunder**, which was also a blame he put on himself.
+
+The government **removed Dyer from his post** and appointed the **Hunter Commission**. The commission **failed to fix responsibility** on Dyer and his team. He got **no punishment**. It accepted his version: the crowd had broken a curfew, and firing was his duty. That convinced many Indians that Jallianwala Bagh was **not an isolated event**. The **system** was behind it, or at least the system **had no concern** for the people of India. No **relief or rehabilitation** was started for the families of the dead and the injured. Members of the **House of Lords** praised the act and called it the **bravest**. The **Morning Post**, a newspaper in England, **raised a fund** to defend him. The audio also said “London Post.” The sheet writes a Boston Morning Post. The paper he named is the **Morning Post**. A man who was a zero in India was a hero somewhere else.
+
+**Rabindranath Tagore**, in **1919**, **returned his knighthood**. A knighted person carries the title Sir. He was answering the event and the events after it: no punishment, praise in the Lords, and the fund.
+
+**Winston Churchill** called it a **blot on the face of the British Empire**. **David Cameron**, a Prime Minister of this century, visited and wrote in the visitors’ book that they regret. He did not give the year of that visit.
+
+Dyer was not solely responsible, in the answer he wanted. The decision was his, and he had time to avoid it. The cover-up, the missing relief, and the praise in England show the government beside him.
+
+---
+
+## 42. The Punjab wrongs (MOD-B9-03)
+
+After Jallianwala Bagh, police and the authorities in Punjab went on, **every day**, for **several months**. They would **pick up** young boys: not an arrest with a warrant and an FIR, a pickup. They were **beaten, physically tortured, and publicly humiliated**. It was not a written order from a high command or the governor. It happened often enough that families suffered, and the writers of the time made it famous as the **Punjab wrongs**. The men who beat them were often Indian policemen. In a colonial force, he said, you follow the order or you become a Mangal Pandey.
+
+Many of those young men became rebels. **Some joined the Non-Cooperation Movement, 1920–22.** **Many others joined revolutionary groups.** Punjab became a centre of anti-British activity after 1919. He said it is then not surprising that the **Purna Swaraj** resolution was adopted at the **Lahore** session. He did not give the year of that session.
+
+---
+
+## 43. The Government of India Act, 1919 (MOD-B9-04)
+
+Popularly the **Montagu–Chelmsford reforms**. Who was who, and **1918** against **1919**, stay Lecture 5. The new material is the background in his words, and the clauses.
+
+**Background.** During the **First World War** Indians faced hardships he had already taught: debt, high taxation, inflation, bans and restrictions. That unrest is why **Tilak** and **Annie Besant** had launched the **Home Rule** movement, and a section of urban India had been mobilised. **Congress and the Muslim League** had joined hands at **Lucknow** and decided to launch an anti-government movement. Under that pressure the government announced that a **responsible government** would be established **after the war**. **Edwin Montagu**, Secretary of State for India, and **Lord Chelmsford**, Viceroy and Governor-General (**1916–21**), recommended reforms in **1918**. The British Parliament enacted them in **1919** as the **Government of India Act**.
+
+**Dyarchy in the provinces.** Each province would be governed by **two bodies**, both under the **governor**. He called it two swords in one sheath.
+
+| Body | How it was filled | The subjects |
+|:---|:---|:---|
+| **Executive Council** | **Nominated** | **Reserved.** The powerful ones: **finance, police, irrigation, power** (electricity) |
+| **Council of Ministers** | **Elected** | **Transferred.** The less powerful: **health, education, local self-government, agriculture, industry** |
+
+The list is long. The test he set: a more powerful department is reserved, a less powerful one is transferred. **Fishery** would be transferred. **Defence, foreign affairs and currency** are not in this provincial split at all. They were clever about the cut: **agriculture** transferred and **irrigation** reserved; **industry** transferred and **electricity** reserved. The nominated councillors, even the Indians among them, had to prove loyalty to the governor, and would often be more English than the English. The elected ministers depended on those nominated men for every file. That is against the idea of a council of ministers. He quoted **Shashi Tharoor**: the British gave a **parliament without democracy**.
+
+**A bicameral legislature at the Centre**, not in the provinces. The lower house was the **Legislative Assembly**. The upper house was the **Council of State**, which is still a name of the Rajya Sabha.
+
+He put the Assembly at **145** members: **104 elected**. The sheet writes **41 nominated**, which adds to 145. The audio said **21 nominated**, which does not. Hold **104 elected and 41 nominated**. The Council of State he put at **60**: **36 elected and 24 nominated**. The sheet’s split of that 60 did not land cleanly. The **duration of the house** he put at **3 years**. He did not give a separate figure for the upper house.
+
+**A separate electorate was also given to the Sikhs.** “Also,” because Muslims, and the chambers of commerce, already had one from 1909. That extension is the point of the 2026 prelims question already logged on Lecture 5. **Women got the vote.** The electorate grew, and it was still a **limited franchise**: property, an educational qualification, and social status. **Around 90 per cent** still could not vote. His sketch: a constituency of **1 lakh**, of whom about **8,000 to 10,000** were voters, and inside that list most were men and most were upper caste. Adding women raised the number. It did not cross about a tenth. Legislators also got some further rights on the **budget** and on **supplementary questions**.
+
+**What it did.** It widened the legislative councils, at the Centre and in the provinces. Indian nationalists entered, raised questions, and put pressure on the government to work for people. Their speeches were reported in England, and opposition members of the **House of Commons** quoted them against the government of the day. He called those tears **crocodile** tears: the same parties, Conservative and Liberal, did in office what they had attacked from the opposition. Judge them by the action, not the sentence.
+
+**Why nationalists opposed it.**
+
+- **Dyarchy was not practical.** Two bodies, constant conflict, and the elected ministers waiting on the nominated council.
+- **More power went to the nominated members.** The less important departments went to the elected ones.
+- The **separate electorate was extended**, which gave communal forces a further chance to communalise politics and elections.
+- The **legislatures had no control** over the executive or over bills. The **Governor-General had discretionary power**.
+- About **90 per cent** could not vote. The Act **did not deliver the responsible government** it had promised.
+
+---
+
+## 44. Khilafat, opened (MOD-B9-05)
+
+He wrote four questions and answered only the causes and the merger, not the methods.
+
+A **special session** of the Congress was held at **Calcutta** in **September 1920**, on the initiative of **Gandhi and the Ali brothers**. They proposed an anti-government **mass** movement. The sheet dates this session to **September 1917**. He said **September 1920**, and he repeated that year when he closed the story. The causes they named: the **Khilafat wrong**, the **Punjab wrong**, and the **impact of the First World War**.
+
+**Constitutionalists** did not agree. The three he had them name: **Muhammad Ali Jinnah**, **C.R. Das**, and **Motilal Nehru**. Their arguments. People were **not trained or disciplined** for a mass movement, and a crowd is unpredictable. **Jallianwala Bagh was a year old.** A repeat was possible, and violence would defeat the movement. And the **Khilafat issue was a religious issue**, which should not be mixed into a political one. The man saying that was **Jinnah**. Until about **1935–37** he was called, in **Sarojini Naidu’s** line, the **ambassador of Hindu–Muslim unity**. What he became later stays Lecture 7.
+
+The **annual session** at **Nagpur** in **December 1920** adopted the **non-cooperation resolution**. It was **moved by C.R. Das**, who had opposed the idea in September. In those three months Gandhi and the Ali brothers convinced two of the three. They never convinced **Jinnah**.
+
+**Khilafat** was a **pan-Islamic** movement, in several countries including India, **during and after** the First World War. The word means the **office**, or the **institution**, of the **Khalifa**, regarded as both political and religious head in the **Sunni** Muslim world. Shia Muslims, he said, look to the **Imam**. The headquarters in this period was **Istanbul**. **Turkey** had lost the war **along with Germany**. Muslims feared the **Allied** powers would punish Turkey and its Khalifa as they had punished Germany. He listed the Allies as the **United Kingdom, France, the United States, Italy and Japan**, and added that Japan had not fought the war but joined the peace. The German punishment was the **Treaty of Versailles**, signed on **28 June 1919**, near Paris. Between 1919 and 1920 the Allies signed **five** treaties, the **Paris peace treaties**, against the losers in this order: **Germany, Austria, Hungary, Turkey, Bulgaria**.
+
+The office of Khalifa, he said, ran from the **seventh century** until it was **abolished in 1924**. The headquarters had sat, in order, at **Medina, Damascus, Baghdad and Istanbul**. The sheet writes that as M, D, B, I.
+
+**Muslim leaders** formed the **All India Khilafat Committee** at **Bombay** in **1919**, presided over by **Seth Chotani**, a rich Muslim businessman. With him: the Ali brothers, **Maulana Muhammad Ali** and **Maulana Shaukat Ali**; **Maulana Abul Kalam Azad**; **Hakim Ajmal Khan**; **Dr. M.A. Ansari**; **Abdul Bari**; and **Hasrat Mohani**. Mohani, in this period, gave **Inquilab Zindabad**, long live the revolution. **Jinnah is not in the list.** He opposed a religious movement, and a Turkish one, being made India’s.
+
+Three demands, from the British and their allies.
+
+1. The **Khalifa** must be protected. The office, they feared, would be removed.
+2. The **Ottoman Empire** must be protected. He said the name in the tradition is **Usmania**, and Ottoman is the European pronunciation.
+3. The **holy places** must be protected: **Mecca**, **Medina** and **Jerusalem**. He said Islamic history counts three, and that they then lay inside the empire. **Muhammad was born in Mecca** and buried in Medina. He also said Saudi Arabia did not exist as a country until **1972**. That year is his. Do not replace it from outside the class.
+
+On **10 August 1920** the Allies compelled Turkey to sign a **humiliating** treaty at **Sèvres**. The audio said “subreddit” and “Sinai.” The sheet writes Sèvres, near Paris. Muslims in India and elsewhere came onto the street, protested, and **boycotted British goods, institutions and services**.
+
+That boycott is why the Calcutta session of September 1920 sits where it does, and why Nagpur in December adopted non-cooperation. Many of the Khilafat leaders sat in both the League and the Congress. Whether the merger was the right decision, the **methods**, the features, and the withdrawal, are the **next class**.
+
+### Lecture 9 — locks
+
+1. **Rowlatt, January 1919.** Sedition, even on suspicion, **two years without trial**. **No appeal, no vakil, no daleel**, originally here. Jinnah **resigned** from the Imperial Council.
+2. **Satyagraha Sabha.** Sarva Dharma prayer: pandit, maulvi, granthi, padre. **Raghupati Raghav** and **Ishwar Allah tero naam**. First all-India hartal **6 April 1919**. Bombay halted. Delhi: **Dr. M.A. Ansari** and **Asaf Ali** (the sheet writes Arif Ali).
+3. **Jallianwala Bagh, 13 April 1919.** Kitchlew and Satyapal arrested. Only gate. **No warning.** More than **1,000**; official **379**. **Himalayan blunder.** Hunter Commission: **no punishment**. **Morning Post** fund. Tagore returned the **knighthood in 1919**. Churchill: a **blot**.
+4. **Punjab wrongs:** several months of pickup, beating, public humiliation. Some to **NCM 1920–22**, many to **revolutionary** groups. **Purna Swaraj** at **Lahore**, year not given.
+5. Dyarchy is **provincial**. Bicameral is **central**. Reserved: finance, police, irrigation, power. Transferred: health, education, local self-government, agriculture, industry. Assembly **145 = 104 elected + 41 nominated** (the audio once said 21). Council of State **60 = 36 elected + 24 nominated**. House **3 years**. **Sikhs** get a separate electorate. **Women** vote. About **90%** still cannot. Responsible government was **not** delivered.
+6. Calcutta special session **September 1920** (the sheet says 1917). Nagpur **December 1920**, resolution **moved by C.R. Das**. Jinnah never agreed. Khilafat Committee, **Bombay, 1919**, **Seth Chotani**. Versailles **28 June 1919**. Sèvres **10 August 1920**. Khalifa’s office **abolished 1924**. Headquarters: Medina, Damascus, Baghdad, Istanbul. **Inquilab Zindabad** is **Hasrat Mohani**. The methods of non-cooperation were not taught.
+
+---
+
+## UPSC PYQ Connections (Lectures 1–9)
 
 - Factors responsible for the rise of Indian nationalism *(recurring Mains question)*
 - Role of press, education, and social reform in national awakening
@@ -1732,7 +1871,7 @@ Also: stop untouchability and discrimination against **Kali praja** — Dalits a
 
 ---
 
-## Abbreviations used in Lectures 4–8
+## Abbreviations used in Lectures 4–9
 
 | Shortcut | Full form |
 |:---|:---|
@@ -1766,7 +1905,8 @@ Also: stop untouchability and discrimination against **Kali praja** — Dalits a
 
 ---
 
-<!-- 2026-09-22: Lecture 8 — Harijan Sevak Sangh 1932; Ambedkar return 1923 / Bahishkrit Hitkarini Sabha 1924; Macdonald / Communal Award; Yerawada fast ~21 days; Poona Pact 71→147 + central assembly not in the Award; Champaran tin kathia 3/20, 1897 aniline; Ahmedabad first Indian fast 1918, 35% vs 50%, wage 27.25%; Kheda malguzari. Source: 5 notebook pages (dated 22/9/26) + HistoryL220926 transcript. Cluster MOD-B8. Rowlatt and Khilafat–NCM named, not retaught. Joint-electorate trap stays SOC-03. -->
+<!-- 2026-10-23: Lecture 9 — Rowlatt Jan 1919 (2 years, no trial; no appeal/vakil/daleel; Jinnah resigns); Satyagraha Sabha + 6 April hartal; Jallianwala 13 April (>1000 / official 379; Himalayan blunder; Hunter; Tagore knighthood; Morning Post); Punjab wrongs; GoI Act 1919 dyarchy + Assembly 145 (104+41) / Council of State 60 (36+24); Sikhs + women; Calcutta Sep 1920 / Nagpur Dec 1920 C.R. Das; Khilafat Committee Bombay 1919; Versailles 28 Jun 1919; Sèvres 10 Aug 1920; Khalifa abolished 1924. NCM methods not taught. Source: 8 notebook pages (dated 23/10/26, His-MT) + History L231026 transcript. Cluster MOD-B9. -->
+<!-- 2026-09-22: Lecture 8 — Harijan Sevak Sangh 1932; Ambedkar return 1923 / Bahishkrit Hitkarini Sabha 1924; Macdonald / Communal Award; Yerawada fast ~21 days; Poona Pact 71→147 + central assembly not in the Award; Champaran tin kathia 3/20, 1897 aniline; Ahmedabad first Indian fast 1918, 35% vs 50%, wage 27.25%; Kheda malguzari. Source: 5 notebook pages (dated 22/9/26) + HistoryL220926 transcript. Cluster MOD-B8. Rowlatt and the Khilafat opening are Lecture 9 (MOD-B9). NCM methods still the next class. Joint-electorate trap stays SOC-03. -->
 <!-- 2026-09-08: Lecture 7 — Wardha / Nai Taleem 1937 (Zakir Husain); Macaulay 1835 / Wood 1854; Gandhi vs Nehru (Ramraj vs nation-state; trusteeship / Bhoodan 1953 Pochampalli vs socialist mixed economy; inclusive vs exclusionary secularism; Mill 1817 / Savarkar 1923 / Jinnah 1940); Gandhi vs Ambedkar (untouchability / caste / Hinduism; Annihilation of Caste; Neo-Buddhism 1956). Source: 6 notebook pages (dated 8/9/26) + History L080926 transcript. Cluster MOD-B7. Actions = Lecture 8. -->
 <!-- 2026-09-06: Lecture 6 — Mass Mobilizations and the Dialogues (Tarique): sources of Gandhian political thought (Tolstoy / John Ruskin ≠ Bond / Thoreau / own experiments); Satyagraha 5+2; absolute vs relative + PEASC + Orientalism 1800–1950; Tagore patriotism then critic (Vande Mataram 1896, Amar Sonar Bangla, Jana Gana Mana, d. 1941, internationalism); Gandhi nationalism = defined boundary, people first; education Visva-Bharati 1901/1921 vs Gandhi access + ethics + dignity of labour. Nehru/Ambedkar = L7; 1917–48 still later. Source: 4 notebook pages (dated 6/9/26) + HistoryL060926 transcript. Cluster MOD-B6. -->
 <!-- 2026-09-01: Lecture 5 — Lucknow Pact C (significance: harmony, Rowlatt 1919, Khilafat–NCM, Montagu–Chelmsford / GoI Act 1919); The Making of Mahatma — Gandhi in South Africa (events 1–10, four laws, religious thoughts). Political thoughts and India branch (Tagore/Nehru/Ambedkar; 1917–48; Noakhali) not this class. Source: 3 notebook pages (dated 1/9/26) + History L010926 transcript. -->
